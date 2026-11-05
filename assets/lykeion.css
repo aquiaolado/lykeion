@@ -30,3 +30,6 @@ body.lyk{
 .lyk :is(.lyk-bloco,#lyk-ola) .li .dir{grid-column:2;justify-self:start}
 .lyk :is(.lyk-bloco,#lyk-ola) .li .dir .tag:not(:first-child){display:none}
 .lyk #lyk-ola .rot{margin:.6rem 0 0;font-size:.8rem}
+/* 5/11/2026: a Lagenda passou os títulos para Outfit; o Lykeion fica com a Young Serif (decide a sua marca no projeto próprio). */
+body.lyk{--f-titulo:"Young Serif", Georgia, "Times New Roman", serif}
+body.lyk h1,body.lyk h2,body.lyk h3,body.lyk .marca,body.lyk .sem-img,body.lyk .srt .fala,body.lyk .ev-leg .frase,body.lyk .tl-frase,body.lyk .casa p:not(.rot),body.lyk .ev-casa .frase,body.lyk .ad-d b,body.lyk .tq-op b{font-weight:400;letter-spacing:normal}

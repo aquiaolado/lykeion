@@ -1,4 +1,4 @@
-/* lagenda: conta pessoal e «Para si».
+/* lagenda: conta pessoal e «Para ti».
    Os gostos funcionam sem conta (ficam neste aparelho); com conta passam a valer em todos os aparelhos.
    Sinais: gostos escolhidos (categorias, bairros, salas e artistas seguidos), eventos guardados e eventos abertos.
    Artistas (3/11/2026): «Seguir» na página do artista; com conta, avisamos por email quando tiver data perto (gostos.onde =
@@ -54,12 +54,12 @@
       const marca = (mudou) => {
         const on = gostos.artistas.includes(id); b.setAttribute("aria-pressed", on); b.textContent = on ? "A seguir ✓" : "Seguir";
         if (!aviso) return;
-        if (!on) { aviso.innerHTML = mudou ? "Deixou de seguir." : ""; return; }
+        if (!on) { aviso.innerHTML = mudou ? "Deixaste de seguir." : ""; return; }
         const onde = (gostos.onde || []).length ? gostos.onde.join(", ") : "todo o país";
         aviso.innerHTML = !servidor ? "A seguir neste aparelho." :
-          !conta ? `A seguir neste aparelho. <a href="${B}conta.html">Entre com o seu email</a> para receber um aviso quando ${esc(b.dataset.nome)} tiver data perto de si.` :
+          !conta ? `A seguir neste aparelho. <a href="${B}conta.html">Entra com o teu email</a> para receberes um aviso quando ${esc(b.dataset.nome)} tiver data perto de ti.` :
           gostos.avisos === false ? `A seguir. Os avisos por email estão desligados: <a href="${B}conta.html#artistas">ligar</a>.` :
-          `A seguir. Avisamos por email quando houver data nova em ${esc(onde)}. <a href="${B}conta.html#artistas">Mudar</a>`;
+          `A seguir. Avisamos-te por email quando houver data nova em ${esc(onde)}. <a href="${B}conta.html#artistas">Mudar</a>`;
       };
       marca(false);
       if (!b.dataset.ligado) { b.dataset.ligado = "1"; b.addEventListener("click", () => { gostos.artistas = gostos.artistas.includes(id) ? gostos.artistas.filter(x => x !== id) : gostos.artistas.concat(id); marca(true); gravarGostos(); }); }
@@ -158,11 +158,11 @@
       const nomes = j.amigos.filter(a => a.estado === (passou ? "fui" : "vou")).map(a => esc(a.nome));
       const conta1 = passou ? (j.recomendam ? `${j.recomendam} ${j.recomendam === 1 ? "pessoa recomenda" : "pessoas recomendam"}` : "") : (j.vou ? `${j.vou} ${j.vou === 1 ? "pessoa vai" : "pessoas vão"}` : "");
       let bts;
-      if (!conta) bts = `<a class="bt" href="${B}conta.html">${passou ? "Foi? Entre para recomendar" : "Vai? Entre para o dizer aos amigos"}</a>`;
+      if (!conta) bts = `<a class="bt" href="${B}conta.html">${passou ? "Foste? Entra para recomendar" : "Vais? Entra para dizeres aos amigos"}</a>`;
       else if (!passou) bts = `<button class="bt" data-est="${est === "vou" ? "" : "vou"}" aria-pressed="${est === "vou"}">${est === "vou" ? "Vou ✓" : "Vou"}</button>` +
         (comeca ? `<button class="bt" data-est="fui" data-nota="1" aria-pressed="${est === "fui" && nota === 1}">Já fui e recomendo</button>` : "");
-      else bts = `<span class="sub">Foi?</span> <button class="bt" data-est="fui" data-nota="1" aria-pressed="${est === "fui" && nota === 1}">Recomendo</button><button class="bt" data-est="fui" data-nota="-1" aria-pressed="${est === "fui" && nota === -1}">Não recomendo</button>`;
-      cx.innerHTML = `<div class="acoes">${bts}</div><p class="sub">${[conta1, nomes.length ? `${passou ? "Foram" : "Vão"} os seus amigos ${nomes.join(", ")}` : ""].filter(Boolean).join(" · ")}</p>`;
+      else bts = `<span class="sub">Foste?</span> <button class="bt" data-est="fui" data-nota="1" aria-pressed="${est === "fui" && nota === 1}">Recomendo</button><button class="bt" data-est="fui" data-nota="-1" aria-pressed="${est === "fui" && nota === -1}">Não recomendo</button>`;
+      cx.innerHTML = `<div class="acoes">${bts}</div><p class="sub">${[conta1, nomes.length ? `${passou ? "Foram" : "Vão"} os teus amigos ${nomes.join(", ")}` : ""].filter(Boolean).join(" · ")}</p>`;
     }).catch(() => {});
     cx.addEventListener("click", ev => {
       const b = ev.target.closest("[data-est]"); if (!b || !conta) return;
@@ -180,7 +180,7 @@
       const porPg = Object.fromEntries(D.ev.map(e => [e.pg, e])), futuro = e => e.d.some(d => d >= hoje);
       if (am && conta) fetch(API + "?amigos_vao", { credentials: "same-origin" }).then(r => r.json()).then(j => {
         const evs = Object.keys(j.amigos_vao).map(pg => porPg[pg]).filter(e => e && futuro(e)).sort((a, b) => a.d[0].localeCompare(b.d[0])).slice(0, 12);
-        if (evs.length) am.innerHTML = `<div class="fcab"><div><h2>Os seus amigos vão</h2></div></div><div class="trilho">${evs.map(e => cartao(e, D).replace('<span class="onde">', `<span class="quem">${esc(j.amigos_vao[e.pg].slice(0, 3).join(", "))}${j.amigos_vao[e.pg].length > 3 ? " e outros" : ""}</span><span class="onde">`)).join("")}</div>`;
+        if (evs.length) am.innerHTML = `<div class="fcab"><div><h2>Os teus amigos vão</h2></div></div><div class="trilho">${evs.map(e => cartao(e, D).replace('<span class="onde">', `<span class="quem">${esc(j.amigos_vao[e.pg].slice(0, 3).join(", "))}${j.amigos_vao[e.pg].length > 3 ? " e outros" : ""}</span><span class="onde">`)).join("")}</div>`;
       }).catch(() => {});
       if (po) fetch(API + "?populares").then(r => r.json()).then(j => {
         const evs = j.populares.filter(([pg, n]) => n >= 2 && porPg[pg] && futuro(porPg[pg])).slice(0, 12).map(([pg]) => porPg[pg]);
@@ -199,11 +199,11 @@
     fetch(LEG + "?pg=" + encodeURIComponent(pg)).then(r => r.json()).then(j => {
       const lista = (j.legendas || []).map(legHtml).join("");
       let form = "";
-      if (comecou && conta) form = `<form class="tl-form"><label>A sua legenda<textarea name="frase" maxlength="200" rows="2" required placeholder="Uma frase sobre o que viu"></textarea></label>` +
+      if (comecou && conta) form = `<form class="tl-form"><label>A tua legenda<textarea name="frase" maxlength="200" rows="2" required placeholder="Uma frase sobre o que viste"></textarea></label>` +
         `<label class="sub">Fotografia (opcional) <input type="file" name="foto" accept="image/jpeg,image/png,image/webp"></label>` +
-        `<label class="chk"><input type="checkbox" name="consentimento" required> A frase e a fotografia são minhas e autorizo a publicação no lagenda.</label>` +
+        `<label class="chk"><input type="checkbox" name="consentimento" required> A frase e a fotografia são minhas e autorizo a publicação na Lagenda.</label>` +
         `<button class="bt prim">Enviar</button> <span class="sub tl-msg" aria-live="polite">Aparece aqui depois de revista.</span></form>`;
-      else if (comecou) form = `<p><a class="bt" href="${B}conta.html">Foi? Entre para deixar a sua legenda</a></p>`;
+      else if (comecou) form = `<p><a class="bt" href="${B}conta.html">Foste? Entra para deixares a tua legenda</a></p>`;
       if (!lista && !form) return;
       cx.innerHTML = `<h2>A legenda de quem foi</h2>${lista ? `<div class="tl-lista">${lista}</div>` : ""}${form}`;
       const f = cx.querySelector("form"); if (!f) return;
@@ -212,7 +212,7 @@
         bt.disabled = true; msg.textContent = "A enviar…";
         fetch(LEG, { method: "POST", headers: { "X-Lagenda": "1" }, credentials: "same-origin", body: fd })
           .then(r => r.json().then(j => { if (!r.ok) throw new Error(j.erro || "Erro"); }))
-          .then(() => { f.reset(); msg.textContent = "Obrigado. A sua legenda aparece aqui depois de revista."; })
+          .then(() => { f.reset(); msg.textContent = "Obrigado. A tua legenda aparece aqui depois de revista."; })
           .catch(e => { msg.textContent = e.message; }).finally(() => { bt.disabled = false; });
       });
     }).catch(() => {});
@@ -242,7 +242,7 @@
     a.textContent = conta ? "A minha conta" : "Entrar";
   }
 
-  // ---- «Para si» na entrada ----
+  // ---- «Para ti» na entrada ----
   function pontuacao(D) {
     const v = ler("lagenda-vistos", { cats: {}, salas: {} }), guard = ler("lagenda-guardados", []);
     const peso = { cats: {}, salas: {} };
@@ -274,12 +274,12 @@
       const { sinais, nota } = pontuacao(D);
       const sete = iso(new Date(Date.now() + 7 * 864e5));
       if (!sinais) {
-        caixa.innerHTML = `<div class="convite"><div><h2>A sua legenda</h2><p class="sub">Diga-nos do que gosta e esta página passa a abrir com o que é para si.</p></div><a class="bt prim" href="${B}conta.html">Escolher gostos</a></div>`;
+        caixa.innerHTML = `<div class="convite"><div><h2>A tua legenda</h2><p class="sub">Diz-nos do que gostas e esta página passa a abrir com o que é para ti.</p></div><a class="bt prim" href="${B}conta.html">Escolher gostos</a></div>`;
         return;
       }
       const evs = D.ev.filter(e => e.d.some(d => d >= hoje && d <= sete)).map(e => [nota(e), e]).filter(([p]) => p > 1.5).sort((a, b) => b[0] - a[0]).slice(0, 12).map(x => x[1]);
       if (!evs.length) { caixa.innerHTML = ""; return; }
-      caixa.innerHTML = `<div class="fcab"><div><h2>Para si</h2><p class="sub">Pelo que segue, guarda e abre${conta ? "" : " neste aparelho"}.</p></div><a class="vertodos" href="${B}conta.html">Afinar gostos</a></div><div class="trilho">${evs.map(e => cartao(e, D)).join("")}</div>`;
+      caixa.innerHTML = `<div class="fcab"><div><h2>Para ti</h2><p class="sub">Pelo que segues, guardas e abres${conta ? "" : " neste aparelho"}.</p></div><a class="vertodos" href="${B}conta.html">Afinar gostos</a></div><div class="trilho">${evs.map(e => cartao(e, D)).join("")}</div>`;
     }).catch(() => {});
   }
 
@@ -287,18 +287,18 @@
   function paginaConta() {
     const raiz = document.getElementById("conta"); if (!raiz) return;
     if (LY) return contaLykeion(raiz);
-    const msg = location.hash === "#expirado" ? '<p class="aviso">Esse link já foi usado ou passou de prazo. Peça outro.</p>' : location.hash === "#entrou" ? '<p class="aviso ok">Entrou. Bem-vindo ao lagenda.</p>' : "";
-    if (!servidor) { raiz.innerHTML = '<p class="sub">As contas ainda não estão ligadas neste endereço. Os seus gostos e guardados ficam, entretanto, neste aparelho.</p>' + editor(null); ligarEditor(); return; }
+    const msg = location.hash === "#expirado" ? '<p class="aviso">Este link já foi usado ou passou do prazo. Pede outro, chega em segundos.</p>' : location.hash === "#entrou" ? '<p class="aviso ok">Entraste. Já estás na Lagenda.</p>' : "";
+    if (!servidor) { raiz.innerHTML = '<p class="sub">As contas ainda não estão ligadas neste endereço. Os teus gostos e guardados ficam, entretanto, neste aparelho.</p>' + editor(null); ligarEditor(); return; }
     if (!conta) {
-      const pend = ler("lagenda-convite", "") ? '<p class="aviso">Foi convidado por um amigo. Entre e ficam amigos no lagenda.</p>' : "";
-      raiz.innerHTML = msg + pend + `<div class="entrar"><div><h2>Entrar</h2><p>Sem palavra-passe: enviamos-lhe um link por email.</p>
-        <form id="fentrar" class="linha"><label class="vis" for="email">Email</label><input id="email" type="email" required autocomplete="email" placeholder="o.seu@email.pt"><button class="bt prim">Enviar link</button></form>
+      const pend = ler("lagenda-convite", "") ? '<p class="aviso">Um amigo convidou-te. Entra e ficam amigos na Lagenda.</p>' : "";
+      raiz.innerHTML = msg + pend + `<div class="entrar"><div><h2>Entrar</h2><p>Sem palavra-passe: mandamos-te um link por email.</p>
+        <form id="fentrar" class="linha"><label class="vis" for="email">Email</label><input id="email" type="email" required autocomplete="email" placeholder="o.teu@email.pt"><button class="bt prim">Enviar link</button></form>
         <p id="rentrar" class="sub" aria-live="polite"></p>${google ? '<div id="gbotao"></div>' : ""}
-        <p class="sub">Com conta, os gostos, as salas que segue e os guardados acompanham-no em todos os aparelhos, e pode receber à quinta-feira a sua legenda da semana. <a href="${B}privacidade.html">Privacidade</a>.</p></div></div>` + editor(null);
+        <p class="sub">Com conta, os gostos, as salas que segues e os guardados vão contigo para todos os aparelhos, e podes receber à quinta-feira a tua legenda da semana. <a href="${B}privacidade.html">Privacidade</a>.</p></div></div>` + editor(null);
       document.getElementById("fentrar").addEventListener("submit", ev => {
         ev.preventDefault(); const r = document.getElementById("rentrar"), em = document.getElementById("email").value.trim();
         r.textContent = "A enviar…";
-        post({ acao: "entrar", email: em, voltar: B + "conta.html#entrou" }).then(() => { r.textContent = `Enviámos um link para ${em}. Abra-o neste aparelho para entrar (vale durante uma hora).`; })
+        post({ acao: "entrar", email: em, voltar: B + "conta.html#entrou" }).then(() => { r.textContent = `Enviámos um link para ${em}. Abre-o neste aparelho para entrar (serve durante uma hora).`; })
           .catch(e => { r.textContent = e.message; });
       });
       if (google) {
@@ -310,14 +310,14 @@
       ligarEditor(); return;
     }
     const convite = location.origin + B + "conta.html#amigo-" + conta.codigo;
-    raiz.innerHTML = msg + (avisoAmigo ? `<p class="aviso">${esc(avisoAmigo)}</p>` : "") + `<p class="sub">Entrou como <b>${esc(conta.email)}</b> · <button class="lnk" id="sair">Sair</button></p>` +
-      `<section class="perfil"><h2>Amigos</h2><p>Os amigos veem o que diz que vai ver e o que recomenda; os outros só veem contagens, sem nomes.</p>
-       <form id="fperfil" class="linha"><label class="vis" for="pnome">O seu nome</label><input id="pnome" maxlength="40" placeholder="Como os amigos o veem (ex.: Ana)" value="${esc(conta.nome || "")}">
+    raiz.innerHTML = msg + (avisoAmigo ? `<p class="aviso">${esc(avisoAmigo)}</p>` : "") + `<p class="sub">Entraste como <b>${esc(conta.email)}</b> · <button class="lnk" id="sair">Sair</button></p>` +
+      `<section class="perfil"><h2>Amigos</h2><p>Os amigos veem o que dizes que vais ver e o que recomendas; os outros só veem contagens, sem nomes.</p>
+       <form id="fperfil" class="linha"><label class="vis" for="pnome">O teu nome</label><input id="pnome" maxlength="40" placeholder="Como os amigos te veem (ex.: Ana)" value="${esc(conta.nome || "")}">
        <button class="bt">Gravar nome</button></form>
        <label class="chk"><input type="checkbox" id="pmostrar"${conta.mostrar ? " checked" : ""}> Mostrar aos meus amigos o que vou ver e o que recomendo</label>
-       <p><b>O seu link de convite</b> · quem o abrir e entrar fica seu amigo:</p><div class="linha"><input id="pconv" readonly value="${esc(convite)}"><button class="bt prim" type="button" id="copiar">Copiar</button></div>
-       <div class="lin" id="lamigos">${(conta.amigos || []).map(a => `<button type="button" class="ch" data-tirar="${a.id}" title="Deixar de ser amigo">${esc(a.nome)} ×</button>`).join("") || '<span class="sub">Ainda não tem amigos no lagenda.</span>'}</div></section>` + editor(conta) +
-      `<details class="perigo"><summary>Apagar a conta</summary><p>Apaga a conta, os gostos e os guardados. Não dá para desfazer.</p><button class="bt" id="apagar1">Quero apagar</button><span id="apagar2" hidden> Tem a certeza? <button class="bt perigo" id="apagar3">Sim, apagar tudo</button></span></details>`;
+       <p><b>O teu link de convite</b> · quem o abrir e entrar fica teu amigo:</p><div class="linha"><input id="pconv" readonly value="${esc(convite)}"><button class="bt prim" type="button" id="copiar">Copiar</button></div>
+       <div class="lin" id="lamigos">${(conta.amigos || []).map(a => `<button type="button" class="ch" data-tirar="${a.id}" title="Deixar de ser amigo">${esc(a.nome)} ×</button>`).join("") || '<span class="sub">Ainda não tens amigos na Lagenda.</span>'}</div></section>` + editor(conta) +
+      `<details class="perigo"><summary>Apagar a conta</summary><p>Apaga a conta, os gostos e os guardados. Não dá para desfazer.</p><button class="bt" id="apagar1">Quero apagar</button><span id="apagar2" hidden> Tens a certeza? <button class="bt perigo" id="apagar3">Sim, apagar tudo</button></span></details>`;
     document.getElementById("sair").addEventListener("click", () => post({ acao: "sair" }).then(() => location.reload()));
     const perfil = () => post({ acao: "perfil", nome: document.getElementById("pnome").value, mostrar: document.getElementById("pmostrar").checked });
     document.getElementById("fperfil").addEventListener("submit", ev => { ev.preventDefault(); perfil().then(() => { ev.target.querySelector("button").textContent = "Gravado"; }); });
@@ -373,12 +373,12 @@
     document.getElementById("apagar3").addEventListener("click", () => post({ acao: "apagar" }).then(() => { ["lagenda-gostos", "lagenda-guardados", "lagenda-vistos"].forEach(k => { try { localStorage.removeItem(k); } catch (_) {} }); location.href = B; }));
   }
   function editor(c) {
-    return `<form id="fgostos" class="gostos"><h2>Do que gosta</h2><div class="lin" id="gcats"></div>
-      <h2>Bairros onde costuma andar</h2><div class="lin" id="gbairros"></div>
-      <h2>Salas que segue</h2><div id="gsalas" class="lin"></div><input class="busca" id="psala" type="search" placeholder="Procurar uma sala para seguir…" aria-label="Procurar sala"><div id="rsalas" class="lin"></div>
-      <h2 id="artistas">Artistas que segue</h2><div id="gartistas" class="lin"></div><input class="busca" id="partista" type="search" placeholder="Procurar um artista, banda ou companhia…" aria-label="Procurar artista"><div id="rartistas" class="lin"></div>
-      <h2>Onde quer ser avisado</h2><p class="sub">Os distritos onde costuma ir ver espetáculos. Sem nenhum escolhido, avisamos de todo o país.</p><div id="gonde" class="lin"></div>
-      ${c ? `<label class="chk"><input type="checkbox" id="gavisos"${c.gostos && c.gostos.avisos === false ? "" : " checked"}> Avisar-me por email quando um artista que sigo tiver data nova perto de mim</label>` : `<p class="sub">Entre com o seu email para receber os avisos.</p>`}
+    return `<form id="fgostos" class="gostos"><h2>Do que gostas</h2><div class="lin" id="gcats"></div>
+      <h2>Bairros onde costumas andar</h2><div class="lin" id="gbairros"></div>
+      <h2>Salas que segues</h2><div id="gsalas" class="lin"></div><input class="busca" id="psala" type="search" placeholder="Procurar uma sala para seguir…" aria-label="Procurar sala"><div id="rsalas" class="lin"></div>
+      <h2 id="artistas">Artistas que segues</h2><div id="gartistas" class="lin"></div><input class="busca" id="partista" type="search" placeholder="Procurar um artista, banda ou companhia…" aria-label="Procurar artista"><div id="rartistas" class="lin"></div>
+      <h2>Onde queres ser avisado</h2><p class="sub">Os distritos onde costumas ir ver espetáculos. Sem nenhum escolhido, avisamos de todo o país.</p><div id="gonde" class="lin"></div>
+      ${c ? `<label class="chk"><input type="checkbox" id="gavisos"${c.gostos && c.gostos.avisos === false ? "" : " checked"}> Avisar-me por email quando um artista que sigo tiver data nova perto de mim</label>` : `<p class="sub">Entra com o teu email para receberes os avisos.</p>`}
       ${lykeionEditor(c)}
       <h2>Mais</h2><label class="chk"><input type="checkbox" id="glivre"> Dar prioridade ao que tem entrada livre</label>
       ${c ? `<label class="chk"><input type="checkbox" id="gnews"${c.newsletter ? " checked" : ""}> Quero receber à quinta-feira a minha legenda da semana, por email</label>
@@ -432,7 +432,7 @@
                    avisos: av ? av.checked : gostos.avisos !== false, livre: document.getElementById("glivre").checked };
         const n = document.getElementById("gnews"); if (conta && n) conta.newsletter = n.checked ? 1 : 0;
         const r = document.getElementById("rgostos"); r.textContent = "A gravar…";
-        gravarGostos().then(() => { r.innerHTML = conta ? `Gravado. <a href="${B}">Ver a entrada com o que é para si</a>.` : `Gravado neste aparelho. <a href="${B}">Ver a entrada</a>. Entre para ter os gostos em todos os aparelhos.`; });
+        gravarGostos().then(() => { r.innerHTML = conta ? `Gravado. <a href="${B}">Ver a entrada com o que é para ti</a>.` : `Gravado neste aparelho. <a href="${B}">Ver a entrada</a>. Entra para teres os gostos em todos os aparelhos.`; });
       });
     });
   }

@@ -128,24 +128,24 @@ try {
 
   if ($acao === 'entrar') {
     $email = mb_strtolower(trim((string)($p['email'] ?? '')));
-    if (!filter_var($email, FILTER_VALIDATE_EMAIL) || strlen($email) > 190) sai(['erro' => 'Escreva um endereço de email válido.'], 400);
-    if (demasiados('ip:' . ($_SERVER['REMOTE_ADDR'] ?? ''), 10, 60) || demasiados('e:' . $email, 3, 15)) sai(['erro' => 'Já pedimos vários links há pouco. Veja o seu email ou tente daqui a 15 minutos.'], 429);
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL) || strlen($email) > 190) sai(['erro' => 'Escreve um endereço de email válido.'], 400);
+    if (demasiados('ip:' . ($_SERVER['REMOTE_ADDR'] ?? ''), 10, 60) || demasiados('e:' . $email, 3, 15)) sai(['erro' => 'Já pedimos vários links há pouco. Vê o teu email ou tenta daqui a 15 minutos.'], 429);
     $t = bin2hex(random_bytes(32)); $voltar = (string)($p['voltar'] ?? '');
     lg_bd()->prepare('INSERT INTO lg_links (hash, email, voltar, criado_em, usado) VALUES (?,?,?,?,0)')->execute([hash('sha256', $t), $email, mb_substr($voltar, 0, 200), agora()]);
     $link = $URL . 'conta/api.php?link=' . $t;
     [$ok, $erro] = enviar_email($email, 'Entrar no Lykeion', "Olá,\n\nPara entrar no Lykeion, abra este link (vale durante uma hora e só uma vez):\n\n$link\n\nSe não pediu para entrar, ignore este email: sem abrir o link, nada acontece.\n\nLykeion · Tudo o que se passa na ciência do país", '', 'Lykeion');
-    if (!$ok) sai(['erro' => 'Não conseguimos enviar o email agora. Tente daqui a pouco.'], 502);
+    if (!$ok) sai(['erro' => 'Não conseguimos enviar o email agora. Tenta daqui a pouco.'], 502);
     sai(['ok' => true]);
   }
   if ($acao === 'google') {
     $cid = (string)($CFG['google_client_id'] ?? ''); if ($cid === '') sai(['erro' => 'A entrada com Google ainda não está ligada.'], 400);
     $r = @file_get_contents('https://oauth2.googleapis.com/tokeninfo?id_token=' . rawurlencode((string)($p['credencial'] ?? '')));
     $i = $r ? json_decode($r, true) : null;
-    if (!$i || ($i['aud'] ?? '') !== $cid || ($i['email_verified'] ?? '') !== 'true' || !filter_var($i['email'] ?? '', FILTER_VALIDATE_EMAIL)) sai(['erro' => 'A Google não confirmou a entrada. Tente outra vez.'], 401);
+    if (!$i || ($i['aud'] ?? '') !== $cid || ($i['email_verified'] ?? '') !== 'true' || !filter_var($i['email'] ?? '', FILTER_VALIDATE_EMAIL)) sai(['erro' => 'A Google não confirmou a entrada. Tenta outra vez.'], 401);
     abrir_sessao(utilizador(mb_strtolower($i['email']), ['nome' => $i['name'] ?? '', 'sub' => $i['sub'] ?? '']));
     sai(['ok' => true]);
   }
-  $u = quem(); if (!$u) sai(['erro' => 'Tem de entrar primeiro.'], 401);
+  $u = quem(); if (!$u) sai(['erro' => 'Primeiro tens de entrar.'], 401);
   $pdo = lg_bd();
   if ($acao === 'gostos') {
     $g = (array)($p['gostos'] ?? []); $limpo = [];
@@ -184,7 +184,7 @@ try {
   if ($acao === 'amigo') { // aceitar um convite: ficam amigos dos dois lados
     $q = $pdo->prepare('SELECT * FROM lg_utilizadores WHERE codigo = ?'); $q->execute([mb_substr((string)($p['codigo'] ?? ''), 0, 12)]); $o = $q->fetch();
     if (!$o) sai(['erro' => 'Este convite não existe ou já não é válido.'], 404);
-    if ((int)$o['id'] === (int)$u['id']) sai(['erro' => 'Este é o seu próprio convite: envie-o a um amigo.'], 400);
+    if ((int)$o['id'] === (int)$u['id']) sai(['erro' => 'Este é o teu próprio convite: envia-o a um amigo.'], 400);
     $ins = $pdo->prepare('INSERT INTO lg_amigos (a, b, criado_em) VALUES (?,?,?)'); $ex = $pdo->prepare('SELECT 1 FROM lg_amigos WHERE a = ? AND b = ?');
     foreach ([[$u['id'], $o['id']], [$o['id'], $u['id']]] as [$x, $y]) { $ex->execute([$x, $y]); if (!$ex->fetchColumn()) $ins->execute([$x, $y, agora()]); }
     sai(['ok' => true, 'nome' => nome_curto($o)]);
@@ -225,5 +225,5 @@ try {
   sai(['erro' => 'Pedido inválido.'], 400);
 } catch (Throwable $e) {
   error_log('lagenda conta: ' . $e->getMessage());
-  sai(['erro' => 'Algo correu mal do nosso lado. Tente outra vez daqui a pouco.'], 500);
+  sai(['erro' => 'Algo correu mal do nosso lado. Tenta outra vez daqui a pouco.'], 500);
 }

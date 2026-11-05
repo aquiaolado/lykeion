@@ -51,7 +51,7 @@
   document.querySelectorAll("[data-partilhar]").forEach(b => b.addEventListener("click", async () => {
     const dados = { title: document.title, url: location.href };
     try { if (navigator.share) { await navigator.share(dados); return; } await navigator.clipboard.writeText(location.href); b.textContent = "Ligação copiada"; }
-    catch (_) { b.textContent = "Copie o endereço da página"; }
+    catch (_) { b.textContent = "Copia o endereço da página"; }
   }));
 
   // ---- mapa pequeno (evento, sala) ----
@@ -146,7 +146,7 @@
         const x = dt(d);
         html += `<div class="dia"><h3>${d === hoje ? "Hoje" : d === mais(hoje, 1) ? "Amanhã" : SEML[x.getDay()]}, ${x.getDate()} de ${MESL[x.getMonth()]} <small>${evs.length}</small></h3>${evs.map(e => linha(e, d)).join("")}</div>`;
       }
-      document.getElementById("agenda").innerHTML = html || '<p class="vazio">Nada com estes filtros. Experimente outro dia ou «Tudo».</p>';
+      document.getElementById("agenda").innerHTML = html || '<p class="vazio">Nada com estes filtros. Experimenta outro dia ou «Tudo».</p>';
       const cz = D.ev.filter(e => e.x && e.d.some(x => set.has(x)) && passa(e)).sort((a, b) => a.f.localeCompare(b.f));
       document.getElementById("cartaz").innerHTML = cz.map(e => cartao(e, CAT, lug, url)).join("") || '<p class="vazio">Nada em cartaz com estes filtros.</p>';
       document.getElementById("contagem").textContent = `${total} ${total === 1 ? "evento" : "eventos"} e ${cz.length} em cartaz`;
@@ -194,6 +194,6 @@
   function guardados(D, CAT, lug, url) {
     const evs = D.ev.filter(e => guard.includes(e.pg));
     document.getElementById("guardados").innerHTML = evs.map(e => cartao(e, CAT, lug, url)).join("") ||
-      '<p class="vazio">Ainda não guardou nada. Abra um evento e carregue em «Guardar».</p>';
+      '<p class="vazio">Ainda não guardaste nada. Abre um evento e carrega em «Guardar».</p>';
   }
 })();

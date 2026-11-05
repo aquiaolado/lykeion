@@ -92,8 +92,8 @@ try {
     $h = fn($s) => htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); $k = $h(chave());
     $q = $pdo->query("SELECT l.*, u.nome, u.email FROM lg_legendas l LEFT JOIN lg_utilizadores u ON u.id = l.utilizador_id WHERE l.estado = 'pendente' ORDER BY l.id");
     header('Content-Type: text/html; charset=utf-8'); header('Cache-Control: no-store');
-    echo '<!doctype html><html lang="pt-PT"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><meta name="robots" content="noindex"><title>Rever legendas · lagenda</title>'
-      . '<body style="font:16px/1.5 Arial,sans-serif;max-width:720px;margin:30px auto;padding:0 16px;color:#16203A;background:#F4F5F1"><h1 style="font:400 28px Georgia,serif">Legendas por rever</h1>'
+    echo '<!doctype html><html lang="pt-PT"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><meta name="robots" content="noindex"><title>Rever legendas · Lagenda</title>'
+      . '<body style="font:16px/1.5 Arial,sans-serif;max-width:720px;margin:30px auto;padding:0 16px;color:#16203A;background:#F4F5F1"><h1 style="font:600 28px Arial,Helvetica,sans-serif">Legendas por rever</h1>'
       . ($msg ? '<p style="background:#F7CC2E;padding:8px 12px">' . $h($msg) . '</p>' : '');
     $n = 0;
     foreach ($q as $r) {
@@ -101,7 +101,7 @@ try {
       echo '<div style="background:#fff;border:1px solid #DADDE3;border-radius:6px;padding:14px;margin:14px 0">'
         . '<p style="margin:0;color:#5B6478;font-size:14px">' . $h($r['criado_em']) . ' · ' . $h($r['nome'] ?: $r['email']) . '</p>'
         . '<p style="margin:4px 0"><a href="' . $h($URL . 'e/' . $r['pg'] . '.html') . '">' . $h($r['evento']) . '</a> · ' . $h($r['sala']) . '</p>'
-        . '<p style="font:400 20px/1.35 Georgia,serif;margin:10px 0;border-left:4px solid #F7CC2E;padding-left:10px">' . $h($r['frase']) . '</p>'
+        . '<p style="font:600 20px/1.35 Arial,Helvetica,sans-serif;margin:10px 0;border-left:4px solid #F7CC2E;padding-left:10px">' . $h($r['frase']) . '</p>'
         . ($r['foto'] ? '<img src="?foto=t-' . $h($r['foto']) . '&k=' . $k . '" alt="" style="max-width:100%;border-radius:4px">' : '')
         . '<form method="post" style="display:flex;gap:8px;margin-top:10px"><input type="hidden" name="id" value="' . (int)$r['id'] . '">'
         . '<button name="decisao" value="aprovar" style="padding:8px 14px;background:#16203A;color:#fff;border:0;border-radius:4px">Aprovar</button>'
@@ -121,19 +121,19 @@ try {
 
   // ---- envio ----
   if (empty($_SERVER['HTTP_X_LAGENDA'])) sai(['erro' => 'Pedido inválido.'], 400);
-  $u = quem(); if (!$u) sai(['erro' => 'Tem de entrar primeiro.'], 401);
+  $u = quem(); if (!$u) sai(['erro' => 'Primeiro tens de entrar.'], 401);
   $pg = (string)($_POST['pg'] ?? '');
   $D = json_decode((string)@file_get_contents(__DIR__ . '/../dados.json'), true) ?: ['ev' => [], 'lugares' => []];
   $ev = null; foreach ($D['ev'] as $e) if ($e['pg'] === $pg) { $ev = $e; break; }
   if (!$ev) sai(['erro' => 'Este evento já não está na agenda.'], 400);
   $frase = mb_substr(trim(preg_replace('/\s+/', ' ', strip_tags((string)($_POST['frase'] ?? '')))), 0, MAX_FRASE);
-  if (mb_strlen($frase) < 3) sai(['erro' => 'Escreva uma frase sobre o que viu.'], 400);
-  if (empty($_POST['consentimento'])) sai(['erro' => 'Falta confirmar que a frase e a fotografia são suas e que autoriza a publicação.'], 400);
+  if (mb_strlen($frase) < 3) sai(['erro' => 'Escreve uma frase sobre o que viste.'], 400);
+  if (empty($_POST['consentimento'])) sai(['erro' => 'Falta confirmares que a frase e a fotografia são tuas e que autorizas a publicação.'], 400);
   $pdo = ll_bd();
   $q = $pdo->prepare('SELECT COUNT(*) FROM lg_legendas WHERE utilizador_id = ? AND criado_em >= ?'); $q->execute([$u['id'], date('Y-m-d H:i:s', time() - 86400)]);
-  if ((int)$q->fetchColumn() >= MAX_DIA) sai(['erro' => 'Já deixou várias legendas hoje. Volte amanhã.'], 429);
+  if ((int)$q->fetchColumn() >= MAX_DIA) sai(['erro' => 'Já deixaste várias legendas hoje. Volta amanhã.'], 429);
   $foto = !empty($_FILES['foto']['name']) ? guardar_foto($_FILES['foto'], $PEND) : null;
-  if (!empty($_FILES['foto']['name']) && !$foto) sai(['erro' => 'Não conseguimos usar esta fotografia. Use JPG, PNG ou WebP com menos de 15 MB.'], 400);
+  if (!empty($_FILES['foto']['name']) && !$foto) sai(['erro' => 'Não conseguimos usar esta fotografia. Usa JPG, PNG ou WebP com menos de 15 MB.'], 400);
   $sala = $D['lugares'][$ev['l']][0] ?? '';
   $pdo->prepare('INSERT INTO lg_legendas (utilizador_id, pg, evento, sala, frase, foto, largura, altura, estado, criado_em) VALUES (?,?,?,?,?,?,?,?,?,?)')
     ->execute([$u['id'], $pg, mb_substr($ev['n'], 0, 200), mb_substr($sala, 0, 160), $frase, $foto[0] ?? '', $foto[1] ?? 0, $foto[2] ?? 0, 'pendente', date('Y-m-d H:i:s')]);
@@ -142,5 +142,5 @@ try {
   sai(['ok' => true]);
 } catch (Throwable $e) {
   error_log('lagenda legendas: ' . $e->getMessage());
-  sai(['erro' => 'Algo correu mal do nosso lado. Tente outra vez daqui a pouco.'], 500);
+  sai(['erro' => 'Algo correu mal do nosso lado. Tenta outra vez daqui a pouco.'], 500);
 }
