@@ -6,13 +6,14 @@ X-WR-CALNAME:UNU (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:masterclass-migration-and-climate-change-63527-2026-11-05@lagenda.pt
+UID:masterclass-migration-and-climate-change-c8309-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Masterclass: Migration and Climate Change
 LOCATION:United Nations University\, Guimarães
-DESCRIPTION:https://unu.edu/events
-URL:https://lykeion.pt/e/masterclass-migration-and-climate-change-63527.htm
+DESCRIPTION:https://unu.edu/merit/workshop/masterclass-migration-and-climat
+ e-change
+URL:https://lykeion.pt/e/masterclass-migration-and-climate-change-c8309.htm
  l
 END:VEVENT
 BEGIN:VEVENT
@@ -26,5 +27,14 @@ LOCATION:United Nations University\, Guimarães
 DESCRIPTION:https://unu.edu/events
 URL:https://lykeion.pt/e/2nd-next-generation-forum-for-gender-equality-our-
  well-being-cb477.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eprm-webinar-0a0f3-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:EPRM Webinar
+LOCATION:United Nations University\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/eprm-webinar-0a0f3.html
 END:VEVENT
 END:VCALENDAR

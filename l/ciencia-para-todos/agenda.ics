@@ -165,15 +165,6 @@ URL:https://lykeion.pt/e/exposicao-tereza-arriaga-percursos-de-arte-e-vida-
  43d32.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-peace-of-mind-21e26-2026-11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Exposição «Peace of Mind»
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
-DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
-URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
@@ -204,7 +195,7 @@ BEGIN:VEVENT
 UID:idade-da-inocencia-cinco-filmes-cinco-retratos-de-infancia-e-cfd4e-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T213000
 SUMMARY:IDADE DA INOCÊNCIA: cinco filmes\, cinco retratos de infância e j
  uventude – 1o Ciclo de Cinema ao Ar Livre
 LOCATION:Museu do Abade de Baçal\, Bragança
@@ -279,12 +270,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:observacao-do-sol-em-tavira-e1d95-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T120000
 SUMMARY:Observação do Sol em Tavira
 LOCATION:Ponte Romana – Tavira\, Tavira
 DESCRIPTION:https://cm-tavira.pt/site/evento/observacao-astronomica-em-tavi
  ra-observacao-do-sol/
 URL:https://lykeion.pt/e/observacao-do-sol-em-tavira-e1d95.html
+END:VEVENT
+BEGIN:VEVENT
+UID:open-day-do-lapso-00a16-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Open Day do LAPSO
+LOCATION:Iscte – Instituto Universitário de Lisboa
+DESCRIPTION:https://www.iscte-iul.pt/evento/open-day-lapso
+URL:https://lykeion.pt/e/open-day-do-lapso-00a16.html
 END:VEVENT
 BEGIN:VEVENT
 UID:paris-exposicao-au-milieu-9207b-2026-11-05@lagenda.pt
@@ -295,6 +295,18 @@ LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  portuguesa/agenda/paris-exposicao-au-milieu
 URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:quinta-exposicao-china-education-expo-cee-2026-d2061-2026-11-05@lagenda
+ .pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Quinta Exposição China Education Expo (CEE) 2026
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/china-education-expo-cee-20
+ 26
+URL:https://lykeion.pt/e/quinta-exposicao-china-education-expo-cee-2026-d20
+ 61.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seul-exposicao-joao-simoes-video-works-ec164-2026-11-05@lagenda.pt
@@ -318,6 +330,19 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  an
 URL:https://lykeion.pt/e/singapura-exposicao-sunflower-surprise-garden-by-t
  he-ocean-ec164.html
+END:VEVENT
+BEGIN:VEVENT
+UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
+ 11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
+ ce\, Uncaptured City
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/visita-orientada-a-exposicao-ed
+ son-chagas-intimate-distance-uncaptured-city/
+URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
+ -distance-dd687.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xangai-participacao-portuguesa-na-exposicao-between-elsewher-4b65b-2026
@@ -346,6 +371,19 @@ DESCRIPTION:https://www.ipvc.pt/en/eventos/moca-da-ribeira-estreia-exposica
  o-e-leva-o-legado-do-minho-a-unipvc/
 URL:https://lykeion.pt/e/portugues-moca-da-ribeira-estreia-exposicao-e-leva
  -o-legado-5b553.html
+END:VEVENT
+BEGIN:VEVENT
+UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
+ 11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
+ ce\, Uncaptured City
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/visita-orientada-a-exposicao-ed
+ son-chagas-intimate-distance-uncaptured-city/
+URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
+ -distance-dd687.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xiii-feira-da-matematica-b0f14-2026-11-06@lagenda.pt
@@ -389,6 +427,27 @@ DESCRIPTION:https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-m
 URL:https://lykeion.pt/e/visitas-as-exposicoes-b659a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Exposição fotográfica “Echoes in Concrete
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/exposicao-fotografica-echoes-c
+ oncrete
+URL:https://lykeion.pt/e/exposicao-fotografica-echoes-in-concrete-bcd1a.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Open Day NOS
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/open-day-nos
+URL:https://lykeion.pt/e/open-day-nos-7cc57.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sion-exposicao-retrospetiva-julio-pomar-100-anos-ec164-2026-11-11@lagen
  da.pt
 DTSTAMP:20261105T000000Z
@@ -410,13 +469,13 @@ DESCRIPTION:https://www.up.pt/eventos/event/Ciclo
 URL:https://lykeion.pt/e/ciclo-de-cinema-bioetica-da-fmup-5586d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cafe-com-ciencia-7-d3fea-2026-11-14@lagenda.pt
+UID:cafe-com-ciencia-8-d3fea-2026-11-14@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261114
-SUMMARY:Café com Ciência #7
+SUMMARY:Café com Ciência #8
 LOCATION:AIMM - Associação para a Investigação do Meio Marinho
 DESCRIPTION:https://aimmportugal.org/event/cafe-com-ciencia-7/
-URL:https://lykeion.pt/e/cafe-com-ciencia-7-d3fea.html
+URL:https://lykeion.pt/e/cafe-com-ciencia-8-d3fea.html
 END:VEVENT
 BEGIN:VEVENT
 UID:obra-dadiva-exposicao-coletiva-de-artes-plasticas-d47cb-2026-11-14@lage

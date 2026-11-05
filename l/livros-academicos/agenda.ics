@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:apresentacao-de-livro-os-majores-de-maio-a4a85-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T150000
 SUMMARY:Apresentação de livro “Os Majores de Maio
 LOCATION:Museu do Abade de Baçal\, Bragança
 DESCRIPTION:https://www.mabadebacal.gov.pt/event-item/apresentacao-de-livro
@@ -30,6 +30,31 @@ URL:https://lykeion.pt/e/lancamento-do-livro-life-skills-da-autolideranca-a
  o-talento-2b916.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lancamento-do-livro-o-contrato-de-volume-e-o-transporte-mari-1cbdf-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Lançamento do livro 'O contrato de volume e o transporte marítimo
+  de mercadorias'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/5-de-novembro-lancamento-d
+ o-livro-o-contrato-de-volume-e-o-transporte-maritimo-de-mercadorias
+URL:https://lykeion.pt/e/lancamento-do-livro-o-contrato-de-volume-e-o-trans
+ porte-mari-1cbdf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:s-goncalo-de-lagos-nos-600-anos-da-sua-morte-lancamento-do-l-fc8d0-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:S. Gonçalo de Lagos\, nos 600 anos da sua morte / Lançamento do l
+ ivro
+LOCATION:Local na página do evento\, Torres Vedras
+DESCRIPTION:https://www.cm-tvedras.pt/agenda/detalhes/261455
+URL:https://lykeion.pt/e/s-goncalo-de-lagos-nos-600-anos-da-sua-morte-lanca
+ mento-do-l-fc8d0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:33-o-aniversario-da-biblioteca-municipal-manuel-teixeira-gom-075b3-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
@@ -42,9 +67,22 @@ URL:https://lykeion.pt/e/33-o-aniversario-da-biblioteca-municipal-manuel-te
  ixeira-gom-075b3.html
 END:VEVENT
 BEGIN:VEVENT
+UID:apresentacao-do-livro-filosofia-educacao-e-politica-17-00-ca-6c993-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Apresentação do livro “Filosofia\, Educação e Política” 17
+ :00 | Campus da Penteada\, Sala do Senado
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://www.uma.pt/noticias/apresentacao-do-livro-filosofia-edu
+ cacao-e-politica
+URL:https://lykeion.pt/e/apresentacao-do-livro-filosofia-educacao-e-politic
+ a-17-00-ca-6c993.html
+END:VEVENT
+BEGIN:VEVENT
 UID:apresentacao-de-livro-fragmentos-1016f-2026-11-07@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T150000
 SUMMARY:Apresentação de livro “FRAGMENTOS
 LOCATION:Local na página do evento\, Évora
 DESCRIPTION:https://www.cm-evora.pt/eventos/apresentacao-de-livro-fragmento
@@ -80,7 +118,7 @@ BEGIN:VEVENT
 UID:apresentacao-do-livro-o-imperio-do-fim-de-hugo-goncalves-7d50b-2026-11-
  07@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T170000
 SUMMARY:Apresentação do livro “O Império do Fim”\, de Hugo Gonçalve
  s
 LOCATION:Local na página do evento\, Évora
@@ -101,6 +139,19 @@ DESCRIPTION:https://www.freguesiademoimentadabeira.pt/freguesia/agenda/08-1
  1-2026/6-apresentacao_do_livro_arqueologia_nos_territorios_da_literatura
 URL:https://lykeion.pt/e/apresentacao-do-livro-arqueologia-nos-territorios-
  da-literat-fc926.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-o-governo-dos-outros-poder-e-diferenca-n-83d23-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Lançamento do livro: "O Governo dos Outros. Poder e Diferença no 
+ Império Português"
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/lancamento-do-livro-o-gove
+ rno-dos-outros-poder-e-diferenca-no-imperio-portugues
+URL:https://lykeion.pt/e/lancamento-do-livro-o-governo-dos-outros-poder-e-d
+ iferenca-n-83d23.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-verde-0d7a0-2026-11-12@lagenda.pt

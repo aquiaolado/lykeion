@@ -6,10 +6,23 @@ X-WR-CALNAME:Congressos e jornadas de saúde (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:10-00-am-07-nov-7-12-30-pm-250-anos-do-hospital-de-sao-jose-7e399-2026-
+ 11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:10:00 am 07 (nov 7) 12:30 pm 250 anos do Hospital de São José Con
+ gresso 10:00 am - 12:30 pm (7) Hospital de São José \, Rua José Antóni
+ o Serrano — 1150-199 Lisboa Tipologia do Evento: Congresso
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/250anos-hospital-saojose/
+URL:https://lykeion.pt/e/10-00-am-07-nov-7-12-30-pm-250-anos-do-hospital-de
+ -sao-jose-7e399.html
+END:VEVENT
+BEGIN:VEVENT
 UID:33-o-encontro-do-internato-de-medicina-geral-e-familiar-da-z-9c10e-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T090000
 SUMMARY:33.o Encontro do Internato de Medicina Geral e Familiar da Zona Nor
  te
 LOCATION:Altice Forum Braga\, Braga
@@ -31,6 +44,17 @@ URL:https://lykeion.pt/e/congresso-hospital-de-sao-jose-250-anos-ciencia-sa
  ude-ensino-246be.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontro-anual-do-projeto-sape-2-0-da-ulo-485d3-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Encontro Anual do Projeto SAPE 2.0 da ULO
+LOCATION:Politécnico de Leiria\, Leiria
+DESCRIPTION:https://www.ipleiria.pt/encontro-anual-do-projeto-sape-2-0-da-u
+ lo-5-de-novembro/
+URL:https://lykeion.pt/e/encontro-anual-do-projeto-sape-2-0-da-ulo-485d3.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:medinfor-vii-coloquio-internacional-e7718-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
@@ -38,6 +62,19 @@ SUMMARY:MEDINFOR VII | Colóquio Internacional
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/medinfor-vii
 URL:https://lykeion.pt/e/medinfor-vii-coloquio-internacional-e7718.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7-o-encontro-de-estudantes-de-doutoramento-do-colegio-mente-d7b22-2026-
+ 11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:7.o Encontro de Estudantes de Doutoramento do Colégio Mente-Céreb
+ ro
+LOCATION:Universidade de Lisboa
+DESCRIPTION:https://colegiomente-cerebro.ulisboa.pt/evento/7o-encontro-de-e
+ studantes-de-doutoramento-do-colegio-mente-cerebro
+URL:https://lykeion.pt/e/7-o-encontro-de-estudantes-de-doutoramento-do-cole
+ gio-mente-d7b22.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ii-jornadas-de-analises-clinicas-ipo-de-coimbra-5e07e-2026-11-06@lagend
@@ -109,6 +146,18 @@ URL:https://lykeion.pt/e/iv-jornadas-da-equipa-local-de-intervencao-santo-t
  irso-trofa-a2809.html
 END:VEVENT
 BEGIN:VEVENT
+UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
+ 11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:4.o Congresso Nacional de Saúde Mental no Local de Trabalho
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de-saude
+ -mental-no-local-de-trabalho
+URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
+ -trabalho-d859d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:congresso-nacional-da-ordem-dos-medicos-5a5c8-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -163,6 +212,18 @@ DESCRIPTION:https://aps.pt/event/conferencia-internacional-social-mentoring
  -in-europe-prospects-for-social-inclusion-and-engagement/
 URL:https://lykeion.pt/e/conferencia-internacional-social-mentoring-in-euro
  pe-prospec-440ed.html
+END:VEVENT
+BEGIN:VEVENT
+UID:i-jornada-cientifica-sobre-exercicio-e-envelhecimento-a6ed6-2026-11-13@
+ lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:I Jornada Científica sobre Exercício e Envelhecimento
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24194
+URL:https://lykeion.pt/e/i-jornada-cientifica-sobre-exercicio-e-envelhecime
+ nto-a6ed6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2as-jornadas-viver-com-a-diabetes-19a53-2026-11-14@lagenda.pt

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NOVA IMS (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:ai-horizon-conference-2026-b0fed-2026-11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:AI Horizon Conference 2026
+LOCATION:NOVA IMS
+DESCRIPTION:https://www.novaims.unl.pt/en/here-now/events/ai-horizon-confer
+ ence-2026/
+URL:https://lykeion.pt/e/ai-horizon-conference-2026-b0fed.html
+END:VEVENT
+END:VCALENDAR

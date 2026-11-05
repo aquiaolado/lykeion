@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:BNP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:ciclo-de-seminarios-9d5f8-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T100000
+SUMMARY:Ciclo de Seminários
+LOCATION:Biblioteca Nacional de Portugal\, Alvalade
+DESCRIPTION:https://www.bnportugal.gov.pt/index.php?option=com_content&view
+ =article&id=2183%3Aciclo-de-seminarios-as-ciencias-sociais-e-os-seus-conce
+ itos&catid=178%3A2026&Itemid=2168&lang=pt
+URL:https://lykeion.pt/e/ciclo-de-seminarios-9d5f8.html
+END:VEVENT
+END:VCALENDAR

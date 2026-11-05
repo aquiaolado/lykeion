@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CESEM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:xvi-encontro-internacional-arte-para-a-infancia-e-desenvolvi-56958-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:XVI Encontro Internacional Arte para a Infância e Desenvolvimento 
+ Social e Humano
+LOCATION:Centro de Estudos em Música\, Avenidas Novas
+DESCRIPTION:https://cesem.fcsh.unl.pt/event/xvi-encontro-internacional-arte
+ -para-a-infancia-e-desenvolvimento-social-e-humano/
+URL:https://lykeion.pt/e/xvi-encontro-internacional-arte-para-a-infancia-e-
+ desenvolvi-56958.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:XVI International Colloquium Arts for Childhood and Social and Huma
+ n Development
+LOCATION:Centro de Estudos em Música\, Avenidas Novas
+DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/xvi-international-colloquium
+ -arts-for-childhood-and-social-and-human-development/
+URL:https://lykeion.pt/e/xvi-international-colloquium-arts-for-childhood-an
+ d-social-a-3bdbe.html
+END:VEVENT
+END:VCALENDAR

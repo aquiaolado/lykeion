@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:MEtRICs (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:workshop-discover-strategy-consulting-with-mckinsey-company-d1733-2026-
+ 11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Workshop: Discover Strategy Consulting with McKinsey & Company
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/workshop-discove
+ r-strategy-consulting-mckinsey-company
+URL:https://lykeion.pt/e/workshop-discover-strategy-consulting-with-mckinse
+ y-company-d1733.html
+END:VEVENT
+BEGIN:VEVENT
+UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Open Day NOS
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/open-day-nos
+URL:https://lykeion.pt/e/open-day-nos-7cc57.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nova-math-statistics-and-risk-management-seminar-d8568-2026-11-11@lagen
+ da.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:NOVA Math] Statistics and Risk Management Seminar
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/nova-math-statis
+ tics-and-risk-management-seminar
+URL:https://lykeion.pt/e/nova-math-statistics-and-risk-management-seminar-d
+ 8568.html
+END:VEVENT
+END:VCALENDAR

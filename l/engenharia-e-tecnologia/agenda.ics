@@ -21,7 +21,7 @@ BEGIN:VEVENT
 UID:conferencias-e-debates-workshops-conferencias-e-debates-work-c241d-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T143000
 SUMMARY:Conferências e Debates Workshops Conferências e Debates Workshops
 LOCATION:Culturgest | Lisboa\, Almeida
 DESCRIPTION:https://www.culturgest.pt/pt/programacao/dialogos-europeus-e-no
@@ -54,6 +54,18 @@ URL:https://lykeion.pt/e/speedfest-jornadas-de-desporto-motorizado-b7d52.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:the-future-of-food-sustainability-engineering-ethics-seminar-782cf-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:The future of food: sustainability\, engineering & ethics Seminári
+ o
+LOCATION:Centro de Investigação e Estudos de Sociologia
+DESCRIPTION:https://cies.iscte.pt/np4/4980.html
+URL:https://lykeion.pt/e/the-future-of-food-sustainability-engineering-ethi
+ cs-seminar-782cf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-online-order-allocation-from-problem-2e129-2026-
  11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
@@ -77,6 +89,19 @@ DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/workshop-de-azeit
  es-aprenda-a-provar-e-avaliar/
 URL:https://lykeion.pt/e/workshop-de-azeites-aprenda-a-provar-e-avaliar-0e3
  2a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8-e-9-de-novembro-conferencia-a-reforma-do-codigo-civil-e-a-5e013-2026-
+ 11-08@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:8 e 9 de novembro: Conferência “A Reforma do Código Civil e a I
+ gualdade de Género 1977-2017"
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/8-e-9-de-novembro-conferen
+ cia-a-reforma-do-codigo-civil-e-a-igualdade-de-genero-1977-2017
+URL:https://lykeion.pt/e/8-e-9-de-novembro-conferencia-a-reforma-do-codigo-
+ civil-e-a-5e013.html
 END:VEVENT
 BEGIN:VEVENT
 UID:isec-lisboa-recebe-o-4-o-encontro-nacional-do-orsies-06143-2026-11-09@l
@@ -119,6 +144,16 @@ URL:https://lykeion.pt/e/auditorio-marques-de-almeida-1-o-forum-de-inovacao
  -e-sustent-6c08c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Open Day NOS
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/open-day-nos
+URL:https://lykeion.pt/e/open-day-nos-7cc57.html
+END:VEVENT
+BEGIN:VEVENT
 UID:palestra-patologia-e-reabilitacao-da-construcao-casos-de-est-3858b-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
@@ -141,6 +176,16 @@ LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
 DESCRIPTION:https://www.ciimar.up.pt/events/geospatial-information-manageme
  nt-analysis-and-applications-2/
 URL:https://lykeion.pt/e/workshop-a1e58.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:2.a Conferência Anual do NOVA Green Lab
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
+ ova-green-lab
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-21c63.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-liposomes-as-delivery-vectors-of-nucl-0c9bb-2026

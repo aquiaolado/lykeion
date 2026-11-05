@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPLeiria (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:encontro-anual-do-projeto-sape-2-0-da-ulo-485d3-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Encontro Anual do Projeto SAPE 2.0 da ULO
+LOCATION:Politécnico de Leiria\, Leiria
+DESCRIPTION:https://www.ipleiria.pt/encontro-anual-do-projeto-sape-2-0-da-u
+ lo-5-de-novembro/
+URL:https://lykeion.pt/e/encontro-anual-do-projeto-sape-2-0-da-ulo-485d3.ht
+ ml
+END:VEVENT
+END:VCALENDAR

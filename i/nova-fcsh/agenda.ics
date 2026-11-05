@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NOVA FCSH – Faculdade de Ciências Sociais e Humanas (Lykeio
+ n)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
+ 11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
+ ce\, Uncaptured City
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/visita-orientada-a-exposicao-ed
+ son-chagas-intimate-distance-uncaptured-city/
+URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
+ -distance-dd687.html
+END:VEVENT
+BEGIN:VEVENT
+UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
+ 11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
+ ce\, Uncaptured City
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/visita-orientada-a-exposicao-ed
+ son-chagas-intimate-distance-uncaptured-city/
+URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
+ -distance-dd687.html
+END:VEVENT
+END:VCALENDAR

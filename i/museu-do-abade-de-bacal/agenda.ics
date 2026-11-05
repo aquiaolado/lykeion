@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:apresentacao-de-livro-os-majores-de-maio-a4a85-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T150000
 SUMMARY:Apresentação de livro “Os Majores de Maio
 LOCATION:Museu do Abade de Baçal\, Bragança
 DESCRIPTION:https://www.mabadebacal.gov.pt/event-item/apresentacao-de-livro
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:idade-da-inocencia-cinco-filmes-cinco-retratos-de-infancia-e-cfd4e-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T213000
 SUMMARY:IDADE DA INOCÊNCIA: cinco filmes\, cinco retratos de infância e j
  uventude – 1o Ciclo de Cinema ao Ar Livre
 LOCATION:Museu do Abade de Baçal\, Bragança

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IHC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:10-00-am-07-nov-7-12-30-pm-250-anos-do-hospital-de-sao-jose-7e399-2026-
+ 11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:10:00 am 07 (nov 7) 12:30 pm 250 anos do Hospital de São José Con
+ gresso 10:00 am - 12:30 pm (7) Hospital de São José \, Rua José Antóni
+ o Serrano — 1150-199 Lisboa Tipologia do Evento: Congresso
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/250anos-hospital-saojose/
+URL:https://lykeion.pt/e/10-00-am-07-nov-7-12-30-pm-250-anos-do-hospital-de
+ -sao-jose-7e399.html
+END:VEVENT
+END:VCALENDAR
