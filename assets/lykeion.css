@@ -1,13 +1,15 @@
-/* Lykeion (4/11/2026): o site académico. Pedra clara e tinta verde-escura, como um claustro; a terracota marca o que é
-   para ver. Por cima do lagenda.css: só muda a paleta, a marca e o pouco que é só do Lykeion. */
+/* Lykeion (5/11/2026, com o logótipo do anfiteatro): branco, verde do logótipo e terracota só no que é para ver.
+   Títulos em Outfit (a letra do logótipo), texto em Public Sans. Por cima do lagenda.css: só muda a paleta, a marca e o pouco que é só do Lykeion. */
 body.lyk{
-  --papel:#F3EFE6; --tinta:#1D2A23; --suave:#5E6A62; --linha:#DCD6C8; --cobalto:#2F5D46; --legenda:#B4532A; --sobre-legenda:#FFF8F0;
-  --cartao:#FFFDF8; --noite:#16201B;
+  --papel:#FFFFFF; --tinta:#17231C; --suave:#5A6660; --linha:#E2E6E3; --cobalto:#1F4E3D; --legenda:#C2502A; --sobre-legenda:#FFFFFF;
+  --cartao:#F6F8F6; --noite:#1F4E3D; --marca:#1F4E3D;
 }
-@media (prefers-color-scheme: dark){body.lyk{--papel:#121813;--tinta:#ECE7DC;--suave:#A3AD9F;--linha:#2A3329;--cobalto:#8CC3A2;
-  --legenda:#D9774B;--sobre-legenda:#1A120D;--cartao:#1A221C;--noite:#0C110D}}
-.lyk-marca{font-family:var(--f-titulo);letter-spacing:.02em}
-.lyk-barra .lyk-marca{font-size:1.6rem;text-decoration:none;border-bottom:3px solid var(--legenda);padding-bottom:2px;line-height:1}
+@media (prefers-color-scheme: dark){body.lyk{--papel:#0F1512;--tinta:#E8ECE9;--suave:#9FAAA3;--linha:#26302A;--cobalto:#8CC3A2;
+  --legenda:#E07A50;--sobre-legenda:#1A120D;--cartao:#161E19;--noite:#16302A;--marca:#E8ECE9}}
+.lyk-marca{font-family:var(--f-titulo);font-weight:600;letter-spacing:-.02em}
+.lyk-barra .lyk-marca{display:inline-flex;align-items:center;text-decoration:none;color:var(--marca);line-height:1}
+.lyk-logo{display:block;height:40px;width:auto;margin:-2px 0 -6px}
+@media(max-width:600px){.lyk-logo{height:32px}}
 .lyk-rod .lyk-marca{font-size:1.1rem}
 .lyk .pcab h1{letter-spacing:-.01em}
 .lyk-sigla{font:500 .9rem/1 var(--f-hora);color:var(--suave);letter-spacing:.06em;vertical-align:middle}
@@ -30,6 +32,4 @@ body.lyk{
 .lyk :is(.lyk-bloco,#lyk-ola) .li .dir{grid-column:2;justify-self:start}
 .lyk :is(.lyk-bloco,#lyk-ola) .li .dir .tag:not(:first-child){display:none}
 .lyk #lyk-ola .rot{margin:.6rem 0 0;font-size:.8rem}
-/* 5/11/2026: a Lagenda passou os títulos para Outfit; o Lykeion fica com a Young Serif (decide a sua marca no projeto próprio). */
-body.lyk{--f-titulo:"Young Serif", Georgia, "Times New Roman", serif}
-body.lyk h1,body.lyk h2,body.lyk h3,body.lyk .marca,body.lyk .sem-img,body.lyk .srt .fala,body.lyk .ev-leg .frase,body.lyk .tl-frase,body.lyk .casa p:not(.rot),body.lyk .ev-casa .frase,body.lyk .ad-d b,body.lyk .tq-op b{font-weight:400;letter-spacing:normal}
+.lyk h1,.lyk h2,.lyk h3{letter-spacing:-.02em}
