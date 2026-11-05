@@ -51,8 +51,24 @@ function bd_fotos(): PDO {
 // preenchido em config.php; senão usa o mail() do PHP. Devolve [true, ''] ou [false, 'motivo da falha'].
 // Com $html, vai em duas versões (texto e HTML); $extra junta cabeçalhos (ex.: List-Unsubscribe).
 // $via = 'brevo' usa a segunda via (smtp2_* em config.php, ver privado/envios.php), sempre com o mesmo remetente.
+// Endereços que pediram para não receber emails do asfeiras.pt: privado/nao_enviar.csv (email;quem;pedido_em;nota).
+// enviar_email() não lhes manda nada (campanhas, 2.º e 3.º emails, pedidos de vendedores, lembretes, respostas da caixa).
+// Os dados ficam onde estão (juntas.csv, câmaras…): só os envios param. Para voltar a enviar, tira-se a linha.
+function email_nao_enviar(string $para): bool {
+  static $l = null;
+  if ($l === null) {
+    $l = [];
+    foreach (@file(__DIR__ . '/nao_enviar.csv', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES) ?: [] as $x)
+      if (preg_match('/^\W*([\w.+-]+@[\w-]+(\.[\w-]+)+)/u', $x, $m)) $l[mb_strtolower($m[1])] = true;
+  }
+  if (!$l || !preg_match_all('/[\w.+-]+@[\w-]+(\.[\w-]+)+/u', $para, $m)) return false;
+  foreach ($m[0] as $e) if (isset($l[mb_strtolower($e)])) return true;
+  return false;
+}
+
 function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeiras.pt', $html = '', $extra = '', $via = '') {
   global $CFG;
+  if (email_nao_enviar((string)$para)) return [false, 'pediu para não receber emails do asfeiras.pt (privado/nao_enviar.csv)'];
   $de = (string)$CFG['email_remetente'];
   $as = mb_encode_mimeheader($assunto, 'UTF-8', 'B', "\r\n");
   $cab = "From: $nome <$de>\r\n" . ($responder ? "Reply-To: $responder\r\n" : '') . $extra . "MIME-Version: 1.0\r\n";
