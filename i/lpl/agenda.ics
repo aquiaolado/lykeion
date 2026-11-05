@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:LPL (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:teoria-e-filosofia-do-direito-0cd5f-2026-11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Teoria e Filosofia do Direito
+LOCATION:Centro de Investigação de Direito Público
+DESCRIPTION:https://lisbonpubliclaw.pt/eventos/lagunas-probatorias/
+URL:https://lykeion.pt/e/teoria-e-filosofia-do-direito-0cd5f.html
+END:VEVENT
+END:VCALENDAR

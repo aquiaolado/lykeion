@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPG (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:congresso-sessao-tecnica-da-rodio-engenharia-e-construcao-na-6810d-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T140000
+SUMMARY:Congresso: Sessão Técnica da RODIO: Engenharia e Construção na 
+ Melhoria dos Solos (11 de novembro de 2026
+LOCATION:Sociedade Portuguesa de Geotecnia
+DESCRIPTION:https://spgeotecnia.pt/noticias/sessao-tecnica-da-rodio-engenha
+ ria-e-construcao-na-melhoria-dos-solos-11-de-novembro-de-2026-pequeno-audi
+ torio-do-centro-de-congressos-do-lnec/
+URL:https://lykeion.pt/e/congresso-sessao-tecnica-da-rodio-engenharia-e-con
+ strucao-na-6810d.html
+END:VEVENT
+END:VCALENDAR

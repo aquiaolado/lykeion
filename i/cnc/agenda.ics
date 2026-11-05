@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CNC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:cursos-livres-a-convencao-de-faro-e-o-turismo-do-sec-xxi-26a5c-2026-11-
+ 05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T183000
+SUMMARY:Cursos Livres: A Convenção de Faro e o Turismo do séc. XXI
+LOCATION:Centro Nacional de Cultura\, Misericórdia
+DESCRIPTION:https://www.cnc.pt/a-convencao-de-faro-e-o-turismo-do-sec-xxi/
+URL:https://lykeion.pt/e/cursos-livres-a-convencao-de-faro-e-o-turismo-do-s
+ ec-xxi-26a5c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cursos-livres-grandes-artistas-do-renascimento-7b3c2-2026-11-05@lagenda
+ .pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T183000
+SUMMARY:Cursos Livres: Grandes Artistas do Renascimento
+LOCATION:Centro Nacional de Cultura\, Misericórdia
+DESCRIPTION:https://www.cnc.pt/grandes-artistas-do-renascimento/
+URL:https://lykeion.pt/e/cursos-livres-grandes-artistas-do-renascimento-7b3
+ c2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cursos-livres-grandes-artistas-do-seculo-xviii-9e903-2026-11-05@lagenda
+ .pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T183000
+SUMMARY:Cursos Livres: Grandes Artistas do Século XVIII
+LOCATION:Centro Nacional de Cultura\, Misericórdia
+DESCRIPTION:https://www.cnc.pt/grandes-artistas-do-seculo-xviii/
+URL:https://lykeion.pt/e/cursos-livres-grandes-artistas-do-seculo-xviii-9e9
+ 03.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cursos-livres-grandes-narrativas-de-africa-modulo-i-b4990-2026-11-05@la
+ genda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T180000
+SUMMARY:Cursos Livres: Grandes Narrativas de África – Módulo I
+LOCATION:Centro Nacional de Cultura\, Misericórdia
+DESCRIPTION:https://www.cnc.pt/grandes-narrativas-de-africa-modulo-i/
+URL:https://lykeion.pt/e/cursos-livres-grandes-narrativas-de-africa-modulo-
+ i-b4990.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cursos-livres-jose-de-almada-negreiros-poeta-do-orpheu-futur-e2d62-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T180000
+SUMMARY:Cursos Livres: José de Almada Negreiros: Poeta do Orpheu\, Futuris
+ ta & Tudo!
+LOCATION:Centro Nacional de Cultura\, Misericórdia
+DESCRIPTION:https://www.cnc.pt/jose-de-almada-negreiros-poeta-do-orpheu-fut
+ urista-tudo/
+URL:https://lykeion.pt/e/cursos-livres-jose-de-almada-negreiros-poeta-do-or
+ pheu-futur-e2d62.html
+END:VEVENT
+BEGIN:VEVENT
+UID:e-cada-vez-mais-raro-encontrar-quem-consiga-contar-uma-histo-50519-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:É cada vez mais raro encontrar quem consiga contar uma história
+LOCATION:Centro Nacional de Cultura\, Misericórdia
+DESCRIPTION:https://raizeutopia.cnc.pt/e-cada-vez-mais-raro-encontrar-quem-
+ consiga-contar-uma-historia/
+URL:https://lykeion.pt/e/e-cada-vez-mais-raro-encontrar-quem-consiga-contar
+ -uma-histo-50519.html
+END:VEVENT
+END:VCALENDAR

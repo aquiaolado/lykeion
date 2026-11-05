@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:LEDMAT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:safety-culture-just-culture-72f1c-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Safety Culture & Just Culture
+LOCATION:Laboratório de Ensaios Desgaste e Materiais\, Coimbra
+DESCRIPTION:https://www.ipn.pt/evento/safety-culture-just-culture/
+URL:https://lykeion.pt/e/safety-culture-just-culture-72f1c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:coimbra-we-have-it-all-portugal-tech-week-3735b-2026-11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Coimbra\, We Have It All | Portugal Tech Week
+LOCATION:Laboratório de Ensaios Desgaste e Materiais\, Coimbra
+DESCRIPTION:https://www.ipn.pt/evento/coimbra-we-have-it-all-portugal-tech-
+ week/
+URL:https://lykeion.pt/e/coimbra-we-have-it-all-portugal-tech-week-3735b.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:summit-coimbra-we-have-it-all-3735b-2026-11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Summit: Coimbra\, We Have It All
+LOCATION:Laboratório de Ensaios Desgaste e Materiais\, Coimbra
+DESCRIPTION:https://www.ipn.pt/evento/coimbra-we-have-it-all-portugal-tech-
+ week/
+URL:https://lykeion.pt/e/summit-coimbra-we-have-it-all-3735b.html
+END:VEVENT
+END:VCALENDAR

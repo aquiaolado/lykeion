@@ -6,14 +6,14 @@ X-WR-CALNAME:Faculdade de Economia da Universidade de Coimbra (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:05-11-26-aula-aberta-6dea8-2026-11-05@lagenda.pt
+UID:05-11-2026-aula-aberta-6dea8-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Lisbon:20261105T140000
-SUMMARY:05.11.26 Aula aberta
+SUMMARY:05.11.2026 Aula aberta
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-doutoramento-em-soci
  ologia-lucas-amato-sociologia-do-direito-digital/
-URL:https://lykeion.pt/e/05-11-26-aula-aberta-6dea8.html
+URL:https://lykeion.pt/e/05-11-2026-aula-aberta-6dea8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:06-11-26-prova-de-doutoramento-06-novembro-gratuito-faculdad-6a43c-2026
@@ -51,6 +51,16 @@ DESCRIPTION:https://www.uc.pt/feuc/eventos/seminario-new-trends-in-internat
  sar-as-relacoes-ue/
 URL:https://lykeion.pt/e/06-11-26-seminario-new-trends-in-international-pol
  itics-and-bef19.html
+END:VEVENT
+BEGIN:VEVENT
+UID:10-11-26-aula-aberta-523f7-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:10.11.26 Aula aberta
+LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-behind-the-business-
+ global-careers-joao-tome-mariana-simoes-vieira/
+URL:https://lykeion.pt/e/10-11-26-aula-aberta-523f7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:13-11-26-research-seminar-b7b71-2026-11-13@lagenda.pt

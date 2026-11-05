@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CeFEMA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:congress-physics-cases-and-instrumentation-for-the-eurisol-d-4d6c1-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Congress: Physics Cases and Instrumentation for the EURISOL-DF\, ne
+ xt step towards Eurisol
+LOCATION:Centro de Fisíca e Engenharia de Materiais Avançados
+DESCRIPTION:https://cefema.tecnico.ulisboa.pt/news/physics-cases-and-instru
+ mentation-for-the-eurisol-df-next-step-towards-eurisol/
+URL:https://lykeion.pt/e/congress-physics-cases-and-instrumentation-for-the
+ -eurisol-d-4d6c1.html
+END:VEVENT
+END:VCALENDAR

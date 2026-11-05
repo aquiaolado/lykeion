@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:TecMinho (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:conferencia-europeia-1885e-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T091500
+SUMMARY:Conferência Europeia
+LOCATION:TecMinho\, Guimarães
+DESCRIPTION:https://www.tecminho.uminho.pt/formar/green-construction-workfo
+ rce-conf
+URL:https://lykeion.pt/e/conferencia-europeia-1885e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-nacional-eeadc-2026-11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T091500
+SUMMARY:Conferência Nacional
+LOCATION:TecMinho\, Guimarães
+DESCRIPTION:https://www.tecminho.uminho.pt/formar/green-construction-workfo
+ rce-conf
+URL:https://lykeion.pt/e/conferencia-nacional-eeadc.html
+END:VEVENT
+END:VCALENDAR

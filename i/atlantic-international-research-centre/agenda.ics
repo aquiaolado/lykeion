@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlantic International Research Centre (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:networking-fridays-sargassum-across-the-atlantic-series-ab539-2026-11-0
+ 5@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Networking Fridays: "Sargassum across the Atlantic" series
+LOCATION:Atlantic International Research Centre\, Angra do Heroísmo
+DESCRIPTION:https://www.aircentre.org/en/events/networking-fridays-sargassu
+ m-across-the-atlantic-series
+URL:https://lykeion.pt/e/networking-fridays-sargassum-across-the-atlantic-s
+ eries-ab539.html
+END:VEVENT
+END:VCALENDAR

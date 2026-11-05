@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Medicina da Universidade de Coimbra (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:07-11-26-conferencia-cuidados-continuados-e-paliativos-0f9c9-2026-11-07
+ @lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:07.11.26 Conferência Cuidados Continuados e Paliativos
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/save-the-date-conferencia-cu
+ idados-continuados-e-paliativos/
+URL:https://lykeion.pt/e/07-11-26-conferencia-cuidados-continuados-e-paliat
+ ivos-0f9c9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:09-11-26-provas-de-agregacao-de-pedro-renato-sousa-da-silva-d0033-2026-
+ 11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T103000
+SUMMARY:09.11.26 Provas de Agregação de Pedro Renato Sousa da Silva Vaz
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/provas-de-agregacao-de-pedro
+ -renato-sousa-da-silva-vaz/
+URL:https://lykeion.pt/e/09-11-26-provas-de-agregacao-de-pedro-renato-sousa
+ -da-silva-d0033.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:GEA 16.11.26 Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
+ o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
+URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:GEA 17.11.26 Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
+ los-jorge-castilho-rabaca-correia-cordeiro/
+URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-11-26-provas-de-agregacao-de-joaquim-manuel-soares-cereje-3c526-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T103000
+SUMMARY:18.11.26 Provas de Agregação de Joaquim Manuel Soares Cerejeira
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/provas-de-agregacao-em-cienc
+ ias-da-saude-ramo-de-medicina-do-doutor-joaquim-manuel-soares-cerejeira/
+URL:https://lykeion.pt/e/18-11-26-provas-de-agregacao-de-joaquim-manuel-soa
+ res-cereje-3c526.html
+END:VEVENT
+END:VCALENDAR

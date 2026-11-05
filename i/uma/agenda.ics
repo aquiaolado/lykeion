@@ -6,12 +6,24 @@ X-WR-CALNAME:UMa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:seminario-pluralidade-de-olhares-diversidade-de-saberes-84bc9-2026-11-0
+ 5@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T200000
+SUMMARY:Seminário: Pluralidade de Olhares\, Diversidade de Saberes
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://www.uma.pt/noticias/seminario-pluralidade-de-olhares-di
+ versidade-de-saberes
+URL:https://lykeion.pt/e/seminario-pluralidade-de-olhares-diversidade-de-sa
+ beres-84bc9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:apresentacao-do-livro-filosofia-educacao-e-politica-17-00-ca-6c993-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T170000
-SUMMARY:Apresentação do livro “Filosofia\, Educação e Política” 17
- :00 | Campus da Penteada\, Sala do Senado
+SUMMARY:Apresentação do livro "Filosofia\, Educação e Política" 17:00 
+ | Campus da Penteada\, Sala do Senado
 LOCATION:Universidade da Madeira\, Funchal
 DESCRIPTION:https://www.uma.pt/noticias/apresentacao-do-livro-filosofia-edu
  cacao-e-politica
@@ -44,5 +56,17 @@ LOCATION:Centro de Investigação em Educação\, Braga
 DESCRIPTION:https://cied.uminho.pt/evento-cientifico/19352/
 URL:https://lykeion.pt/e/xvii-congresso-da-sociedade-portuguesa-de-ciencias
  -da-educac-469ed.html
+END:VEVENT
+BEGIN:VEVENT
+UID:politicas-educacionais-e-escolas-uma-agenda-de-pesquisas-4980a-2026-11-
+ 15@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T140000
+SUMMARY:Políticas Educacionais e Escolas: Uma agenda de Pesquisas
+LOCATION:Centro de Investigação em Educação\, Braga
+DESCRIPTION:https://cied.uminho.pt/evento-conferencia/politicas-educacionai
+ s-e-escolas-uma-agenda-de-pesquisas/
+URL:https://lykeion.pt/e/politicas-educacionais-e-escolas-uma-agenda-de-pes
+ quisas-4980a.html
 END:VEVENT
 END:VCALENDAR

@@ -6,6 +6,19 @@ X-WR-CALNAME:ISCTE-IUL (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:conferencia-cooperacao-transnacional-em-iniciativas-liderada-f767b-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T090000
+SUMMARY:Conferência: Cooperação transnacional em iniciativas lideradas p
+ ela comunidade
+LOCATION:Iscte – Instituto Universitário de Lisboa
+DESCRIPTION:https://www.iscte-iul.pt/evento/cooperacao-transnacional-entre-
+ iniciativas-lideradas-pela-comunidade-num-mundo-fragmentado
+URL:https://lykeion.pt/e/conferencia-cooperacao-transnacional-em-iniciativa
+ s-liderada-f767b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:open-day-do-lapso-00a16-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Lisbon:20261105T140000
@@ -50,6 +63,19 @@ DESCRIPTION:https://www.iscte-iul.pt/evento/linhas-tortas-desenho-politicas
  -sua-execucao
 URL:https://lykeion.pt/e/aula-aberta-por-linhas-tortas-o-desenho-das-politi
  cas-e-a-su-19730.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eremoceno-becoming-more-than-human-seminar-with-four-guest-s-9101b-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T023000
+SUMMARY:Eremoceno: Becoming More-than-Human – Seminar with four guest spe
+ akers on
+LOCATION:Centro de Estudos sobre a Mudança Socioeconómica e o Território
+DESCRIPTION:https://dinamiacet.iscte-iul.pt/post/eremoceno-becoming-more-th
+ an-human-seminar-with-four-guest-speakers-on-11-november
+URL:https://lykeion.pt/e/eremoceno-becoming-more-than-human-seminar-with-fo
+ ur-guest-s-9101b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-democracia-em-africa-7af61-2026-11-12@lagenda.pt

@@ -6,21 +6,10 @@ X-WR-CALNAME:Instituto Superior de Agronomia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conversa-de-sofa-sobre-ia-e-saude-mental-e4efc-2026-11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T150000
-SUMMARY:Conversa de Sofá\, sobre IA e Saúde Mental
-LOCATION:Instituto Superior de Agronomia
-DESCRIPTION:https://www.isa.ulisboa.pt/evento/conversa-de-sofa-sobre-ia-e-s
- aude-mental
-URL:https://lykeion.pt/e/conversa-de-sofa-sobre-ia-e-saude-mental-e4efc.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 UID:instituto-superior-de-agronomia-marca-presenca-na-web-summit-0f17c-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T143000
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Instituto Superior de Agronomia marca presença na Web Summit 2026
 LOCATION:Instituto Superior de Agronomia
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/instituto-superior-de-agronom

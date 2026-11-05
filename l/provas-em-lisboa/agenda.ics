@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-doencas-tropicais-e-saude-global-l-513fa-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T143000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Provas de Doutoramento em Doenças Tropicais e Saúde Global • Le
  onardo Moerbeck da Costa Moreira
 LOCATION:Instituto de Higiene e Medicina Tropical
@@ -17,6 +17,16 @@ DESCRIPTION:https://www.ihmt.unl.pt/events/provas-de-doutoramento-em-doenca
  s-tropicais-e-saude-global-leonardo-moerbeck-da-costa-moreira/
 URL:https://lykeion.pt/e/provas-de-doutoramento-em-doencas-tropicais-e-saud
  e-global-l-513fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-agregacao-2de2c-2026-11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T170000
+SUMMARY:Provas de Agregação
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/provas-de-agregacao-pro
+ fessor-fabrizio-macagno
+URL:https://lykeion.pt/e/provas-de-agregacao-2de2c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-nery-borges-0999a-2026-11-16@lagenda.pt
@@ -29,21 +39,12 @@ DESCRIPTION:https://www.inetmd.pt/eventos/nery-borges/
 URL:https://lykeion.pt/e/provas-de-doutoramento-nery-borges-0999a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-publicas-de-mestrado-620b2-2026-11-17@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas Públicas de Mestrado
-LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
-DESCRIPTION:https://www.essl.upl.pt/eventos/provas-publicas-de-mestrado
-URL:https://lykeion.pt/e/provas-publicas-de-mestrado-620b2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-publicas-de-mestrados-nao-profissionalizantes-5631c-2026-11-18@l
  agenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:Provas Públicas de Mestrados Não Profissionalizantes
-LOCATION:Escola Superior de Educação de Lisboa
+LOCATION:Centro Interdisciplinar de Estudos Educacionais
 DESCRIPTION:https://www.eselx.upl.pt/eventos/provas-publicas-de-mestrados-n
  ao-profissionalizantes
 URL:https://lykeion.pt/e/provas-publicas-de-mestrados-nao-profissionalizant

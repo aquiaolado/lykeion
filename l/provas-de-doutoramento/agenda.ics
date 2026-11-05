@@ -23,7 +23,8 @@ UID:provas-de-doutoramento-em-gestao-0d27a-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Provas de Doutoramento em Gestão
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24160
 URL:https://lykeion.pt/e/provas-de-doutoramento-em-gestao-0d27a.html
 END:VEVENT
@@ -67,10 +68,19 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-online-order-allocation-fro
  m-problem-2e129.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-doutoramento-ff137-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Provas de Doutoramento
+LOCATION:Faculdade de Direito da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fduc/provas-academicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-ff137.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-em-doencas-tropicais-e-saude-global-l-513fa-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T143000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Provas de Doutoramento em Doenças Tropicais e Saúde Global • Le
  onardo Moerbeck da Costa Moreira
 LOCATION:Instituto de Higiene e Medicina Tropical
@@ -132,6 +142,16 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-demand-supply-integrated-pl
  anning-for-96d53.html
 END:VEVENT
 BEGIN:VEVENT
+UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:GEA 16.11.26 Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
+ o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
+URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-nery-borges-0999a-2026-11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T140000
@@ -140,6 +160,16 @@ LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
  ça
 DESCRIPTION:https://www.inetmd.pt/eventos/nery-borges/
 URL:https://lykeion.pt/e/provas-de-doutoramento-nery-borges-0999a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:GEA 17.11.26 Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
+ los-jorge-castilho-rabaca-correia-cordeiro/
+URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-em-metabolismo-clinica-e-experimentaca-e7477-2026

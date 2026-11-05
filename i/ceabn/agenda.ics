@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEABN (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:conversa-de-sofa-sobre-ia-e-saude-mental-e4efc-2026-11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Conversa de Sofá\, sobre IA e Saúde Mental
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/conversa-de-sofa-sobre-ia-e-s
+ aude-mental
+URL:https://lykeion.pt/e/conversa-de-sofa-sobre-ia-e-saude-mental-e4efc.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:15th-biennale-of-european-towns-and-town-planners-b8afc-2026-11-13@lage
+ nda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:15th Biennale of European Towns and Town Planners
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/15th-biennale-european-towns-
+ and-town-planners
+URL:https://lykeion.pt/e/15th-biennale-of-european-towns-and-town-planners-
+ b8afc.html
+END:VEVENT
+END:VCALENDAR

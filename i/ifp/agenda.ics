@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IFP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:manu-payet-em-lisboa-4e088-2026-11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T203000
+SUMMARY:Manu Payet em Lisboa
+LOCATION:Instituto Francês de Portugal
+DESCRIPTION:https://www.ifp-lisboa.com/evenement/manu-payet-em-lisboa/
+URL:https://lykeion.pt/e/manu-payet-em-lisboa-4e088.html
+END:VEVENT
+END:VCALENDAR

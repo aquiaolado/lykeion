@@ -7,28 +7,29 @@ X-WR-CALNAME:Centro de Estudos em Património Paisagem e Construção (Lyke
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:provas-de-mestrado-integrado-em-ciencias-farmaceuticas-d0bce-2026-11-05
- @lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Provas de Mestrado Integrado em Ciências Farmacêuticas
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
-DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-integrado-em-ciencias-fa
- rmaceuticas-259
-URL:https://lykeion.pt/e/provas-de-mestrado-integrado-em-ciencias-farmaceut
- icas-d0bce.html
-END:VEVENT
-BEGIN:VEVENT
-UID:xviii-conferencia-portuguesa-de-ciencias-polares-5a5cf-2026-11-06@lagen
- da.pt
+UID:provas-de-mestrado-em-psicologia-social-do-trabalho-e-das-or-41015-2026
+ -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261106
-SUMMARY:XVIII Conferência Portuguesa de Ciências Polares
+SUMMARY:Provas de Mestrado em Psicologia Social\, do Trabalho e das Organiz
+ ações
 LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
-DESCRIPTION:https://www.ualg.pt/xviii-conferencia-portuguesa-de-ciencias-po
- lares
-URL:https://lykeion.pt/e/xviii-conferencia-portuguesa-de-ciencias-polares-5
- a5cf.html
+DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-psicologia-social-do-
+ trabalho-e-das-organizacoes-56
+URL:https://lykeion.pt/e/provas-de-mestrado-em-psicologia-social-do-trabalh
+ o-e-das-or-41015.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-sistemas-marinhos-e-costeiros-210e3-2026-11-06@la
+ genda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Provas de Mestrado em Sistemas Marinhos e Costeiros
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-sistemas-marinhos-e-c
+ osteiros-108
+URL:https://lykeion.pt/e/provas-de-mestrado-em-sistemas-marinhos-e-costeiro
+ s-210e3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-viagem-ao-reino-do-algarve-6057d-2026-11-07@lagen
@@ -41,5 +42,17 @@ DESCRIPTION:https://www.ualg.pt/apresentacao-do-livro-viagem-ao-reino-do-al
  garve-2
 URL:https://lykeion.pt/e/apresentacao-do-livro-viagem-ao-reino-do-algarve-6
  057d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gala-solidaria-humanizar-a-espera-oncologia-faro-35a76-2026-11-07@lagen
+ da.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T200000
+SUMMARY:Gala Solidária Humanizar a Espera – Oncologia Faro
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+DESCRIPTION:https://www.ualg.pt/gala-solidaria-humanizar-espera-oncologia-f
+ aro
+URL:https://lykeion.pt/e/gala-solidaria-humanizar-a-espera-oncologia-faro-3
+ 5a76.html
 END:VEVENT
 END:VCALENDAR
