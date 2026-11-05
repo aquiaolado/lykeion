@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro de Estudos em Património Paisagem e Construção (Lyke
+ ion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:exposicao-peace-of-mind-21e26-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Exposição «Peace of Mind»
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
+URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-viagem-ao-reino-do-algarve-6057d-2026-11-07@lagen
+ da.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Apresentação do livro «Viagem ao Reino do Algarve»
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+DESCRIPTION:https://www.ualg.pt/apresentacao-do-livro-viagem-ao-reino-do-al
+ garve-2
+URL:https://lykeion.pt/e/apresentacao-do-livro-viagem-ao-reino-do-algarve-6
+ 057d.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ISCAC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:sala-3-6-seminario-15d64-2026-11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Sala 3.6 Seminário
+LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
+  Coimbra
+DESCRIPTION:https://www.iscac.pt/eventos/seminario-compreeender-a-contabili
+ dade-e-gestao-publica-investigacoes-qualitativas-sobre-narrativas-e-pratic
+ as-contabilisticas/
+URL:https://lykeion.pt/e/sala-3-6-seminario-15d64.html
+END:VEVENT
+BEGIN:VEVENT
+UID:auditorio-marques-de-almeida-1-o-forum-de-inovacao-e-sustent-6c08c-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Auditório Marques de Almeida 1.o Fórum de Inovação e Sustentabi
+ lidade
+LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
+  Coimbra
+DESCRIPTION:https://www.iscac.pt/eventos/1-o-forum-de-inovacao-e-sustentabi
+ lidade/
+URL:https://lykeion.pt/e/auditorio-marques-de-almeida-1-o-forum-de-inovacao
+ -e-sustent-6c08c.html
+END:VEVENT
+END:VCALENDAR

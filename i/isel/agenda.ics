@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Instituto Superior de Engenharia de Lisboa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminario-chirality-across-scales-helicoidal-cellulose-struc-2dabc-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Seminário - Chirality Across Scales: Helicoidal Cellulose Structur
+ es from Nature to Adaptive Materials
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/seminario-chirality-across-scales-h
+ elicoidal-cellulose-structures-nature-adaptive-materials
+URL:https://lykeion.pt/e/seminario-chirality-across-scales-helicoidal-cellu
+ lose-struc-2dabc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:palestra-patologia-e-reabilitacao-da-construcao-casos-de-est-3858b-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Palestra: Patologia e Reabilitação da Construção – Casos de e
+ studo
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/palestra-patologia-e-reabilitacao-d
+ a-construcao-casos-de-estudo
+URL:https://lykeion.pt/e/palestra-patologia-e-reabilitacao-da-construcao-ca
+ sos-de-est-3858b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:palestra-a-obra-mais-dificil-da-minha-carreira-profissional-b67d3-2026-
+ 11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Palestra: A obra mais difícil da minha carreira profissional
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/palestra-obra-mais-dificil-da-minha
+ -carreira-profissional
+URL:https://lykeion.pt/e/palestra-a-obra-mais-dificil-da-minha-carreira-pro
+ fissional-b67d3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-open-source-tools-for-analog-and-mixed-signal-ic-de-cf423-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Workshop "Open-Source Tools for Analog and Mixed-Signal IC Design"
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/workshop-open-source-tools-analog-a
+ nd-mixed-signal-ic-design
+URL:https://lykeion.pt/e/workshop-open-source-tools-for-analog-and-mixed-si
+ gnal-ic-de-cf423.html
+END:VEVENT
+END:VCALENDAR

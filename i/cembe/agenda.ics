@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEMBE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:coloquio-saude-mental-e-seguranca-1a50e-2026-11-07@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Colóquio “Saúde Mental e Segurança
+LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+DESCRIPTION:http://www.medicina.ulisboa.pt/coloquio-saude-mental-e-seguranc
+ a
+URL:https://lykeion.pt/e/coloquio-saude-mental-e-seguranca-1a50e.html
+END:VEVENT
+END:VCALENDAR

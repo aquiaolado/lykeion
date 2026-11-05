@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ISMAT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:33-o-aniversario-da-biblioteca-municipal-manuel-teixeira-gom-075b3-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:33.o aniversário da Biblioteca Municipal Manuel Teixeira Gomes (la
+ nçamento de livros)
+LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
+DESCRIPTION:
+URL:https://lykeion.pt/e/33-o-aniversario-da-biblioteca-municipal-manuel-te
+ ixeira-gom-075b3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ismat-promove-seminario-sobre-construcao-de-menor-impacto-e-f3460-2026-
+ 11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:ISMAT Promove Seminário Sobre Construção de Menor Impacto e Arqu
+ itetura Sustentável
+LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
+DESCRIPTION:https://www.ismat.pt/pt/agenda-de-eventos/ismat-promove-seminar
+ io-sobre-construcao-de-menor-impacto-e-arquitetura-sustentavel
+URL:https://lykeion.pt/e/ismat-promove-seminario-sobre-construcao-de-menor-
+ impacto-e-f3460.html
+END:VEVENT
+END:VCALENDAR

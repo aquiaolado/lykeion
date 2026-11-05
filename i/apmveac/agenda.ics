@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:APMVEAC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:x-congresso-de-medicina-felina-geriatria-e-cuidados-paliativ-ea057-2026
+ -11-07@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:X Congresso de Medicina Felina: Geriatria e cuidados paliativos no 
+ paciente felino
+LOCATION:Associação Portuguesa de Médicos Veterinários Especialistas em
+  Animais de Companhia
+DESCRIPTION:https://apmveac.pt/evento/x-congresso-de-medicina-felina-geriat
+ ria-e-cuidados-paliativos-no-paciente-felino/
+URL:https://lykeion.pt/e/x-congresso-de-medicina-felina-geriatria-e-cuidado
+ s-paliativ-ea057.html
+END:VEVENT
+END:VCALENDAR

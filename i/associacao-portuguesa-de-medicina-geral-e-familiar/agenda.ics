@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Associacao Portuguesa de Medicina Geral e Familiar (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:grupo-de-estudos-em-diabetologia-organiza-webinar-no-dia-mun-3bd0c-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Grupo de Estudos em Diabetologia organiza webinar no Dia Mundial da
+  Diabetes (14 de novembro)!
+LOCATION:Associacao Portuguesa de Medicina Geral e Familiar
+DESCRIPTION:https://apmgf.pt/evento/grupo-de-estudos-em-diabetologia-da-apm
+ gf-organiza-webinar-no-dia-mundial-da-diabetes-14-de-novembro/
+URL:https://lykeion.pt/e/grupo-de-estudos-em-diabetologia-organiza-webinar-
+ no-dia-mun-3bd0c.html
+END:VEVENT
+END:VCALENDAR

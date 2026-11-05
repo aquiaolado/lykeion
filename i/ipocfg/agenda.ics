@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPOCFG (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:ii-jornadas-de-analises-clinicas-ipo-de-coimbra-5e07e-2026-11-06@lagend
+ a.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:II Jornadas de Análises Clínicas IPO de Coimbra
+LOCATION:Instituto Português de Oncologia de Coimbra Francisco Gentil\, Co
+ imbra
+DESCRIPTION:https://www.ipocoimbra.min-saude.pt/eventos_ipo/iijornadasanali
+ sesclinicas/
+URL:https://lykeion.pt/e/ii-jornadas-de-analises-clinicas-ipo-de-coimbra-5e
+ 07e.html
+END:VEVENT
+END:VCALENDAR

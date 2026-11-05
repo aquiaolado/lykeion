@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CICE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:lancamento-do-livro-life-skills-da-autolideranca-ao-talento-2b916-2026-
+ 11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Lançamento do Livro “life Skills: da Autoliderança AO Talento d
+ a Liderança Organizacional” de Ferreira Cascão
+LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
+DESCRIPTION:https://esce.unips.pt/eventos/lancamento-do-livro-life-skills-d
+ a-autolideranca-ao-talento-da-lideranca-organizacional-de-ferreira-cascao/
+URL:https://lykeion.pt/e/lancamento-do-livro-life-skills-da-autolideranca-a
+ o-talento-2b916.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-do-servico-publico-a-eficiencia-privada-d5850-2026-11-08@lage
+ nda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Seminário | do Serviço Público À Eficiência Privada
+LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
+DESCRIPTION:https://esce.unips.pt/eventos/seminario-do-servico-publico-a-ef
+ iciencia-privada/
+URL:https://lykeion.pt/e/seminario-do-servico-publico-a-eficiencia-privada-
+ d5850.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UTAD (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:femcoach-national-workshop-f6f93-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:FEMCoach National Workshop
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/femcoach-national-workshop/
+URL:https://lykeion.pt/e/femcoach-national-workshop-f6f93.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xxvii-jornadas-da-sociedade-portuguesa-de-psicologia-do-desp-99f27-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:XXVII Jornadas da Sociedade Portuguesa de Psicologia do Desporto
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/xxvii-jornadas-sociedade-portugu
+ esa-psicologia-do-desporto/
+URL:https://lykeion.pt/e/xxvii-jornadas-da-sociedade-portuguesa-de-psicolog
+ ia-do-desp-99f27.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-refloresta-tecnicas-de-prevencao-de-incendios-e-in-359be-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Seminário Refloresta: Técnicas de prevenção de incêndios e int
+ ervenção em áreas ardidas
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/seminario-refloresta-tecnicas-pr
+ evencao-incendios-intervencao-areas-ardidas/
+URL:https://lykeion.pt/e/seminario-refloresta-tecnicas-de-prevencao-de-ince
+ ndios-e-in-359be.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
+ 11-18@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:SEMINÁRIO - Active Hotspots: Tecnologia\, Sustentabilidade e Bem-E
+ star
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/seminario-active-hotspots/
+URL:https://lykeion.pt/e/seminario-active-hotspots-tecnologia-sustentabilid
+ ade-e-bem-7d131.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-de-origami-uma-folha-infinitas-obras-de-arte-2499d-2026-11-18@
+ lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Workshop de Origami: Uma folha\, infinitas obras de arte!
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/workshop-origami-uma-folha-infin
+ itas-obras-arte/
+URL:https://lykeion.pt/e/workshop-de-origami-uma-folha-infinitas-obras-de-a
+ rte-2499d.html
+END:VEVENT
+END:VCALENDAR

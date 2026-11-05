@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Provas públicas em Lisboa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:provas-de-doutoramento-nery-borges-0999a-2026-11-16@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de doutoramento: Nery Borges
+LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
+ ça
+DESCRIPTION:https://www.inetmd.pt/eventos/nery-borges/
+URL:https://lykeion.pt/e/provas-de-doutoramento-nery-borges-0999a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-publicas-de-mestrado-620b2-2026-11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Provas Públicas de Mestrado
+LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
+DESCRIPTION:https://www.essl.upl.pt/eventos/provas-publicas-de-mestrado
+URL:https://lykeion.pt/e/provas-publicas-de-mestrado-620b2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-publicas-de-mestrados-nao-profissionalizantes-5631c-2026-11-18@l
+ agenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas Públicas de Mestrados Não Profissionalizantes
+LOCATION:Escola Superior de Educação de Lisboa
+DESCRIPTION:https://www.eselx.upl.pt/eventos/provas-publicas-de-mestrados-n
+ ao-profissionalizantes
+URL:https://lykeion.pt/e/provas-publicas-de-mestrados-nao-profissionalizant
+ es-5631c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-ana-leitao-0ac73-2026-11-18@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de doutoramento: Ana Leitão
+LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
+ ça
+DESCRIPTION:https://www.inetmd.pt/eventos/provas-de-doutoramento-ana-leitao
+ /
+URL:https://lykeion.pt/e/provas-de-doutoramento-ana-leitao-0ac73.html
+END:VEVENT
+END:VCALENDAR

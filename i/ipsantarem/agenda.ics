@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPS (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:iii-encontro-da-qualidade-do-ccisp-83b8d-2026-11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:III Encontro da Qualidade do CCISP
+LOCATION:Instituto Politécnico de Santarém\, Santarém
+DESCRIPTION:https://www.ipsantarem.pt/calendarios/iii-encontro-da-qualidade
+ -do-ccisp/
+URL:https://lykeion.pt/e/iii-encontro-da-qualidade-do-ccisp-83b8d.html
+END:VEVENT
+END:VCALENDAR

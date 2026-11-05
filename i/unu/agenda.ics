@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UNU (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:masterclass-migration-and-climate-change-63527-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Masterclass: Migration and Climate Change
+LOCATION:United Nations University\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/masterclass-migration-and-climate-change-63527.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:2nd-next-generation-forum-for-gender-equality-our-well-being-cb477-2026
+ -11-07@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:2nd Next Generation Forum for Gender Equality “Our Well-being in 
+ the Digital Age\, Paved by Gender Equality"
+LOCATION:United Nations University\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/2nd-next-generation-forum-for-gender-equality-our-
+ well-being-cb477.html
+END:VEVENT
+END:VCALENDAR

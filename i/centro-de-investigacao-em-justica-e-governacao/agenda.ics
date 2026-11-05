@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro de Investigação em Justiça e Governação (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:v-congresso-iberico-de-direito-da-familia-e-das-sucessoes-9104c-2026-11
+ -05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:V Congresso Ibérico de Direito da Família e das Sucessões
+LOCATION:Centro de Investigação em Justiça e Governação\, Braga
+DESCRIPTION:https://www.jusgov.uminho.pt/event/v-congresso-iberico-de-direi
+ to-da-familia-e-das-sucessoes-2/
+URL:https://lykeion.pt/e/v-congresso-iberico-de-direito-da-familia-e-das-su
+ cessoes-9104c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:vii-congresso-juscrim-bd652-2026-11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:VII Congresso Juscrim
+LOCATION:Centro de Investigação em Justiça e Governação\, Braga
+DESCRIPTION:https://www.jusgov.uminho.pt/event/vii-congresso-juscrim/
+URL:https://lykeion.pt/e/vii-congresso-juscrim-bd652.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Arquitetura da Universidade do Porto (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:exposicao-a9a54-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Exposição
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5485
+URL:https://lykeion.pt/e/exposicao-a9a54.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-239fa-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Exposição
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5845
+URL:https://lykeion.pt/e/exposicao-239fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-b33e4-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Inteligência Arquitetónica " >Exposição | Anuária 25.26 - Inte
+ ligência Arquitetónica
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5485
+URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
+ -inteligen-b33e4.html
+END:VEVENT
+END:VCALENDAR

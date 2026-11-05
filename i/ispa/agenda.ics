@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ISPA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminarios-clinicos-clinica-e-migracao-0fd68-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Seminários Clínicos – Clínica e Migração
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/seminarios-clinicos-clinica-
+ e-migracao/
+URL:https://lykeion.pt/e/seminarios-clinicos-clinica-e-migracao-0fd68.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-solene-de-abertura-do-ano-letivo-2026-2027-c547f-2026-11-06@lage
+ nda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Sessão Solene de Abertura do Ano Letivo 2026/2027
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/sessao-solene-de-abertura-do
+ -ano-letivo-2026-2027/
+URL:https://lykeion.pt/e/sessao-solene-de-abertura-do-ano-letivo-2026-2027-
+ c547f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-210fa-2026-11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Conferência
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/ciclo_conferencias_ispa_2026
+ _katharine_barnard_kelly/
+URL:https://lykeion.pt/e/conferencia-210fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-152c0-2026-11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Conferência
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/ciclo_de_conferencias_ispa_e
+ nvolvimento_paterno_e_parentalidade/
+URL:https://lykeion.pt/e/conferencia-152c0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-body-shape-politics-the-political-divide-in-body-2a464-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:CONFERÊNCIA | “Body-Shape Politics: The Political Divide in Body
+ -Inclusive Advertising
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/body-shape-politics-publicid
+ ade-inclusiva/
+URL:https://lykeion.pt/e/conferencia-body-shape-politics-the-political-divi
+ de-in-body-2a464.html
+END:VEVENT
+END:VCALENDAR

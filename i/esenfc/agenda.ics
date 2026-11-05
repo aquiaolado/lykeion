@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ESEnfC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:10-11-26-conferencia-abretciencia-6-protecao-de-dados-em-inv-2e93d-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:10.11.26 Conferência “abreTciência” #6 - Proteção de Dados 
+ em Investigação Tema: Proteção de Dados em Investigação 10 novembro 
+ Online
+LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/eseuc/agenda/5-ciclo-de-conferencias-abretcie
+ ncia-2031/
+URL:https://lykeion.pt/e/10-11-26-conferencia-abretciencia-6-protecao-de-da
+ dos-em-inv-2e93d.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CIIMAR (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:workshop-c64a7-2026-11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Workshop
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/investing-successfully-first-st
+ eps/
+URL:https://lykeion.pt/e/workshop-c64a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-a1e58-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Workshop
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/geospatial-information-manageme
+ nt-analysis-and-applications-2/
+URL:https://lykeion.pt/e/workshop-a1e58.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-2e64f-2026-11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Workshop
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/research-integrity-2/
+URL:https://lykeion.pt/e/workshop-2e64f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-cb646-2026-11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Workshop
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/essential-cybersecurity-phishin
+ g-passwords-and-best-practices/
+URL:https://lykeion.pt/e/workshop-cb646.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-7f14e-2026-11-16@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Webinar
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/webinar-the-ocean-begins-within
+ -us-small-gestures-big-changes-a-planet-to-save/
+URL:https://lykeion.pt/e/webinar-7f14e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-bfcdd-2026-11-18@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Workshop
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/mind-tide-perfectionism-strengt
+ h-or-prison/
+URL:https://lykeion.pt/e/workshop-bfcdd.html
+END:VEVENT
+END:VCALENDAR

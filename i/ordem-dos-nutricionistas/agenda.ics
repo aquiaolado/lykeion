@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Ordem dos Nutricionistas (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:bastonria-sesso-de-abertura-29-congresso-nacional-da-ordem-d-926d7-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Baston�ria - Sess�o de abertura 29.� Congresso Nacional da Or
+ dem dos M�dicos
+LOCATION:Ordem dos Nutricionistas\, Porto
+DESCRIPTION:https://www.ordemdosnutricionistas.pt/agenda.php
+URL:https://lykeion.pt/e/bastonria-sesso-de-abertura-29-congresso-nacional-
+ da-ordem-d-926d7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bastonria-congresso-aptferidas-26-feridas-em-cena-quando-a-c-a9e1b-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Baston�ria - Congresso APTFeridas'26 - "Feridas em Cena: Quando a
+  Ci�ncia entra em Palco"
+LOCATION:Ordem dos Nutricionistas\, Porto
+DESCRIPTION:https://www.ordemdosnutricionistas.pt/agenda.php
+URL:https://lykeion.pt/e/bastonria-congresso-aptferidas-26-feridas-em-cena-
+ quando-a-c-a9e1b.html
+END:VEVENT
+END:VCALENDAR

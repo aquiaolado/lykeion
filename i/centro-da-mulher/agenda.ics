@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro da Mulher (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:workshops-para-gravidas-e-pais-f54b5-2026-11-07@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Workshops para Grávidas e Pais
+LOCATION:Centro da Mulher
+DESCRIPTION:https://www.cuf.pt/eventos/workshops-para-gravidas-e-pais-clini
+ ca-cuf-almada
+URL:https://lykeion.pt/e/workshops-para-gravidas-e-pais-f54b5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshops-para-gravidas-e-pais-48285-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Workshops para Grávidas e Pais
+LOCATION:Centro da Mulher
+DESCRIPTION:https://www.cuf.pt/eventos/workshops-para-gravidas-e-pais-hospi
+ tal-cuf-sintra
+URL:https://lykeion.pt/e/workshops-para-gravidas-e-pais-48285.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UMa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:x-encontro-de-outono-do-forum-portugues-de-administracao-edu-24809-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:X Encontro de Outono do Fórum Português de Administração Educac
+ ional “Entre velhos e novos desafios da Escola: tempo de repensar práti
+ cas e reinventar caminhos
+LOCATION:Centro de Investigação em Educação\, Braga
+DESCRIPTION:https://cied.uminho.pt/evento-cientifico/x-encontro-de-outono-d
+ o-forum-portugues-de-administracao-educacional-entre-velhos-e-novos-desafi
+ os-da-escola-tempo-de-repensar-praticas-e-reinventar-caminhos-8-de-novembr
+ o/
+URL:https://lykeion.pt/e/x-encontro-de-outono-do-forum-portugues-de-adminis
+ tracao-edu-24809.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xvii-congresso-da-sociedade-portuguesa-de-ciencias-da-educac-469ed-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:XVII Congresso da Sociedade Portuguesa de Ciências da Educação
+LOCATION:Centro de Investigação em Educação\, Braga
+DESCRIPTION:https://cied.uminho.pt/evento-cientifico/19352/
+URL:https://lykeion.pt/e/xvii-congresso-da-sociedade-portuguesa-de-ciencias
+ -da-educac-469ed.html
+END:VEVENT
+END:VCALENDAR

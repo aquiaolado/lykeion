@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Unidade Hospitalar de Famalicão (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:iv-jornadas-da-equipa-local-de-intervencao-santo-tirso-trofa-a2809-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:IV Jornadas da Equipa Local de Intervenção Santo Tirso/Trofa
+LOCATION:Unidade Hospitalar de Famalicão\, Vila Nova de Famalicão
+DESCRIPTION:https://www.ulsmave.min-saude.pt/eventos/iv-jornadas-da-equipa-
+ local-de-intervencao-santo-tirso-trofa/
+URL:https://lykeion.pt/e/iv-jornadas-da-equipa-local-de-intervencao-santo-t
+ irso-trofa-a2809.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro de Estudos Avançados em Direito Francisco Suárez (Lyk
+ eion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:aula-aberta-a-volta-de-questoes-da-culpa-o-crime-de-homicidi-3d0a1-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Aula Aberta: À volta de questões da culpa: o crime de homicídio 
+ privilegiado e os crimes passionais
+LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
+DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-a-volta-de-que
+ stoes-da-culpa-o-crime-de-homicidio-privilegiado-e-os-crimes-passionais
+URL:https://lykeion.pt/e/aula-aberta-a-volta-de-questoes-da-culpa-o-crime-d
+ e-homicidi-3d0a1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-inteligencia-artificial-direito-e-medicina-edec7-2026-11-09@l
+ agenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Seminário - Inteligência Artificial\, Direito e Medicina
+LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
+DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-inteligencia-art
+ ificial-direito-e-medicina
+URL:https://lykeion.pt/e/seminario-inteligencia-artificial-direito-e-medici
+ na-edec7.html
+END:VEVENT
+END:VCALENDAR

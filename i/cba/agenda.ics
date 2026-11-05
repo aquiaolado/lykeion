@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CBA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:4th-international-conference-of-the-portuguese-association-f-533fc-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:4th International Conference of the Portuguese Association for Cell
+ ular Agriculture
+LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
+DESCRIPTION:https://cba.uac.pt/news-events/ver.php?id=36
+URL:https://lykeion.pt/e/4th-international-conference-of-the-portuguese-ass
+ ociation-f-533fc.html
+END:VEVENT
+END:VCALENDAR

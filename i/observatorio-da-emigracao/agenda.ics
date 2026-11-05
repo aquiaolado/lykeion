@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Observatório da Emigração (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:mesa-redonda-sobre-politicas-de-emigracao-e-regresso-15ff8-2026-11-06@l
+ agenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Mesa redonda sobre políticas de emigração e regresso
+LOCATION:Observatório da Emigração
+DESCRIPTION:https://observatorioemigracao.pt/np4/7149.html
+URL:https://lykeion.pt/e/mesa-redonda-sobre-politicas-de-emigracao-e-regres
+ so-15ff8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:jornadas-memoria-futura-arquivos-na-comunidade-b5b08-2026-11-08@lagenda
+ .pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Jornadas “Memória futura: arquivos na comunidade
+LOCATION:Observatório da Emigração
+DESCRIPTION:https://observatorioemigracao.pt/np4/9512.html
+URL:https://lykeion.pt/e/jornadas-memoria-futura-arquivos-na-comunidade-b5b
+ 08.html
+END:VEVENT
+END:VCALENDAR

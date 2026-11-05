@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Direito da Universidade de Lisboa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminario-da-ia-generativa-a-ia-agentica-impactos-na-advocac-8c6a2-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Seminário | Da IA Generativa à IA Agêntica: impactos na advocaci
+ a e na consultoria jurídica
+LOCATION:Faculdade de Direito da Universidade de Lisboa
+DESCRIPTION:https://www.fd.ulisboa.pt/events/seminario-da-ia-generativa-a-i
+ a-agentica-impactos-na-advocacia-e-na-consultoria-juridica/
+URL:https://lykeion.pt/e/seminario-da-ia-generativa-a-ia-agentica-impactos-
+ na-advocac-8c6a2.html
+END:VEVENT
+END:VCALENDAR

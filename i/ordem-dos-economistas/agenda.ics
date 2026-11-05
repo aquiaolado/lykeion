@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Ordem dos Economistas (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:drca-webinar-comercio-eletronico-84263-2026-11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:DRCA - Webinar Comércio Eletrónico
+LOCATION:Ordem dos Economistas
+DESCRIPTION:https://www.ordemeconomistas.pt/xportalv3/eventos/eventos/event
+ o.xvw?p=89052491&drca---webinar-comércio-eletrónico--13-de-novembro
+URL:https://lykeion.pt/e/drca-webinar-comercio-eletronico-84263.html
+END:VEVENT
+END:VCALENDAR

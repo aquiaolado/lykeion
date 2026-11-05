@@ -1,0 +1,10 @@
+# Lykeion (gerado por gerar_lagenda.py --lykeion)
+Options -Indexes
+DirectoryIndex index.html index.php
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://lykeion.pt%{REQUEST_URI} [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(e/.*|salas/.*|agenda.*|artistas.*|mapa\.html|municipio/.*)$ https://lagenda.pt/$1 [R=302,L]

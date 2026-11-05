@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CTCP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:projeto-bioshoes4all-na-conferencia-bioeconomia-sustentavel-cf002-2026-
+ 11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Projeto BioShoes4All na conferência Bioeconomia Sustentável
+LOCATION:Centro Tecnológico do Calçado de Portugal\, São João da Madeir
+ a
+DESCRIPTION:https://www.ctcp.pt/evento/projeto-bioshoes4all-na-conferencia-
+ bioeconomia-sustentavel/6363.html
+URL:https://lykeion.pt/e/projeto-bioshoes4all-na-conferencia-bioeconomia-su
+ stentavel-cf002.html
+END:VEVENT
+END:VCALENDAR

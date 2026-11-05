@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Economia da Universidade do Porto (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminarios-fep-66cac-2026-11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Seminários FEP
+LOCATION:Faculdade de Economia da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/FEP/
+URL:https://lykeion.pt/e/seminarios-fep-66cac.html
+END:VEVENT
+END:VCALENDAR

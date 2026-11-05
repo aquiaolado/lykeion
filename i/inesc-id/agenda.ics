@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:INESC-ID (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:inesc-id-distinguished-lecture-professor-robbert-van-renness-f2d62-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:INESC-ID Distinguished Lecture: Professor Robbert van Rennesse on 
+ “Chain Replication Revisited
+LOCATION:Instituto de Engenharia de Sistemas e Computadores Investigação 
+ e Desenvolvimento
+DESCRIPTION:https://www.inesc-id.pt/events/inesc-id-distinguished-lecture-p
+ rofessor-robbert-van-rennesse-on-chain-replication-revisited/
+URL:https://lykeion.pt/e/inesc-id-distinguished-lecture-professor-robbert-v
+ an-renness-f2d62.html
+END:VEVENT
+BEGIN:VEVENT
+UID:41st-conference-on-design-of-circuits-and-integrated-systems-c6c7a-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:41st Conference on Design of Circuits and Integrated Systems DCIS 2
+ 026
+LOCATION:Instituto de Engenharia de Sistemas e Computadores Investigação 
+ e Desenvolvimento
+DESCRIPTION:https://www.inesc-id.pt/events/41st-conference-on-design-of-cir
+ cuits-and-integrated-systems-dcis-2026/
+URL:https://lykeion.pt/e/41st-conference-on-design-of-circuits-and-integrat
+ ed-systems-c6c7a.html
+END:VEVENT
+END:VCALENDAR

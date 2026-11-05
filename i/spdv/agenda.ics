@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPDV (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:7o-workshop-em-dermatologia-cosmetica-e-estetica-bdcdb-2026-11-06@lagen
+ da.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:7o workshop em Dermatologia Cosmética e Estética
+LOCATION:Sociedade Portuguesa de Dermatologia e Venereologia
+DESCRIPTION:https://www.spdv.pt/_7o_workshop_em_dermatologia_cosmetica_e_es
+ tetica
+URL:https://lykeion.pt/e/7o-workshop-em-dermatologia-cosmetica-e-estetica-b
+ dcdb.html
+END:VEVENT
+END:VCALENDAR

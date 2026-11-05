@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPOMMF (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:24o-congresso-portugues-de-obstetricia-e-ginecologia-fspog-e3a10-2026-1
+ 1-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:24o Congresso Português de Obstetrícia e Ginecologia (FSPOG)
+LOCATION:Sociedade Portuguesa de Obstetrícia e Medicina Materno-Fetal
+DESCRIPTION:https://www.spommf.pt/evento/24o-congresso-portugues-de-obstetr
+ icia-e-ginecologia-fspog/
+URL:https://lykeion.pt/e/24o-congresso-portugues-de-obstetricia-e-ginecolog
+ ia-fspog-e3a10.html
+END:VEVENT
+BEGIN:VEVENT
+UID:34th-world-congress-on-controversies-in-obstetrics-gynecolog-9f261-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:34th World Congress on Controversies in Obstetrics\, Gynecology & I
+ nfertility (COGI)
+LOCATION:Sociedade Portuguesa de Obstetrícia e Medicina Materno-Fetal
+DESCRIPTION:https://www.spommf.pt/evento/34th-world-congress-on-controversi
+ es-in-obstetrics-gynecology-infertility-cogi/
+URL:https://lykeion.pt/e/34th-world-congress-on-controversies-in-obstetrics
+ -gynecolog-9f261.html
+END:VEVENT
+END:VCALENDAR

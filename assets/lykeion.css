@@ -1,0 +1,32 @@
+/* Lykeion (4/11/2026): o site académico. Pedra clara e tinta verde-escura, como um claustro; a terracota marca o que é
+   para ver. Por cima do lagenda.css: só muda a paleta, a marca e o pouco que é só do Lykeion. */
+body.lyk{
+  --papel:#F3EFE6; --tinta:#1D2A23; --suave:#5E6A62; --linha:#DCD6C8; --cobalto:#2F5D46; --legenda:#B4532A; --sobre-legenda:#FFF8F0;
+  --cartao:#FFFDF8; --noite:#16201B;
+}
+@media (prefers-color-scheme: dark){body.lyk{--papel:#121813;--tinta:#ECE7DC;--suave:#A3AD9F;--linha:#2A3329;--cobalto:#8CC3A2;
+  --legenda:#D9774B;--sobre-legenda:#1A120D;--cartao:#1A221C;--noite:#0C110D}}
+.lyk-marca{font-family:var(--f-titulo);letter-spacing:.02em}
+.lyk-barra .lyk-marca{font-size:1.6rem;text-decoration:none;border-bottom:3px solid var(--legenda);padding-bottom:2px;line-height:1}
+.lyk-rod .lyk-marca{font-size:1.1rem}
+.lyk .pcab h1{letter-spacing:-.01em}
+.lyk-sigla{font:500 .9rem/1 var(--f-hora);color:var(--suave);letter-spacing:.06em;vertical-align:middle}
+.lyk-lista{list-style:none;padding:0;margin:.4rem 0 1.2rem}.lyk-lista li{padding:.35rem 0;border-bottom:1px solid var(--linha)}
+.lyk-lista a{text-decoration:none;font-weight:500}.lyk-lista a:hover{text-decoration:underline}.lyk-lista small{color:var(--suave)}
+.lyk-dist h2{margin-top:1.4rem}.lyk-dist h2 small{font:500 .8rem/1 var(--f-hora);color:var(--suave)}
+#lykq{margin-top:.8rem;width:100%;max-width:520px}
+.lyk .bt[aria-pressed="true"]{background:var(--cobalto);color:var(--papel);border-color:var(--cobalto)}
+/* entrada do Lykeion: hoje, esta semana, próximas provas (4/11/2026) */
+.lyk .lyk-blocos{display:grid;gap:1.25rem;margin-top:1rem}
+@media(min-width:900px){.lyk .lyk-blocos{grid-template-columns:1fr 1fr 1fr}}
+.lyk .lyk-bloco{min-width:0;border-top:2px solid var(--cobalto);padding-top:.5rem}
+.lyk .lyk-bloco h2{font-size:1.15rem;margin:.2rem 0 .5rem}
+.lyk .lyk-bloco .rot{margin:.6rem 0 0;font-size:.8rem}
+.lyk #lyk-ola{margin:1rem 0 0;padding:.75rem 1rem;border-left:3px solid var(--cobalto);background:color-mix(in srgb,var(--cobalto) 7%,transparent)}
+.lyk #lyk-ola h2{font-size:1.15rem;margin:0 0 .4rem}
+.lyk #tudo{margin-top:1.5rem}
+.lyk :is(.lyk-bloco,#lyk-ola) .li{grid-template-columns:3.2rem minmax(0,1fr)}
+.lyk :is(.lyk-bloco,#lyk-ola) .li .mi{display:none}
+.lyk :is(.lyk-bloco,#lyk-ola) .li .dir{grid-column:2;justify-self:start}
+.lyk :is(.lyk-bloco,#lyk-ola) .li .dir .tag:not(:first-child){display:none}
+.lyk #lyk-ola .rot{margin:.6rem 0 0;font-size:.8rem}

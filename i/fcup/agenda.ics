@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Ciências da Universidade do Porto (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:exposicao-o-caminho-da-beleza-1d9fd-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Exposição | O Caminho da Beleza
+LOCATION:Faculdade de Ciências da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-caminho-beleza
+URL:https://lykeion.pt/e/exposicao-o-caminho-da-beleza-1d9fd.html
+END:VEVENT
+END:VCALENDAR

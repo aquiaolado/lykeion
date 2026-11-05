@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Escola Superior de Comunicação Social (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:aula-aberta-sobre-metodos-de-analise-dos-produtos-comunicaci-5d31e-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Aula aberta sobre Métodos de análise dos produtos comunicacionais
+ : mediação e estruturas narrativas
+LOCATION:Escola Superior de Comunicação Social
+DESCRIPTION:https://www.escs.upl.pt/eventos/aula-aberta-sobre-metodos-de-an
+ alise-dos-produtos-comunicacionais-mediacao-e-estruturas
+URL:https://lykeion.pt/e/aula-aberta-sobre-metodos-de-analise-dos-produtos-
+ comunicaci-5d31e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-sobre-comunicacao-e-envelhecimento-em-contexto-r-22ff7-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Aula Aberta sobre Comunicação e envelhecimento em contexto: regis
+ tos de um trabalho de campo
+LOCATION:Escola Superior de Comunicação Social
+DESCRIPTION:https://www.escs.upl.pt/eventos/aula-aberta-sobre-comunicacao-e
+ -envelhecimento-em-contexto-registos-de-um-trabalho-de-campo
+URL:https://lykeion.pt/e/aula-aberta-sobre-comunicacao-e-envelhecimento-em-
+ contexto-r-22ff7.html
+END:VEVENT
+END:VCALENDAR

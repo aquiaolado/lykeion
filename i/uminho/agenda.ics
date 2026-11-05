@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Universidade do Minho (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-05@lagend
+ a.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Ciclo de conferências "O que diz o Direito Civil?"
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
+ o.aspx?Codigo=68370
+URL:https://lykeion.pt/e/ciclo-de-conferencias-o-que-diz-o-direito-civil-97
+ 4d7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v-congresso-iberico-de-direito-da-familia-e-das-sucessoes-9104c-2026-11
+ -05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:V Congresso Ibérico de Direito da Família e das Sucessões
+LOCATION:Centro de Investigação em Justiça e Governação\, Braga
+DESCRIPTION:https://www.jusgov.uminho.pt/event/v-congresso-iberico-de-direi
+ to-da-familia-e-das-sucessoes-2/
+URL:https://lykeion.pt/e/v-congresso-iberico-de-direito-da-familia-e-das-su
+ cessoes-9104c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:vii-congresso-juscrim-bd652-2026-11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:VII Congresso Juscrim
+LOCATION:Centro de Investigação em Justiça e Governação\, Braga
+DESCRIPTION:https://www.jusgov.uminho.pt/event/vii-congresso-juscrim/
+URL:https://lykeion.pt/e/vii-congresso-juscrim-bd652.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-ligados-sem-amor-nem-dor-sobre-o-sentimento-de-a-29cc0-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Conferência | Ligados SEM Amor NEM Dor. Sobre o Sentimento de Amor
+  na Comtemporaneidade | 16 NOV | 18h30 | Auditório 1 e Online
+LOCATION:Centro de Investigação em Psicologia
+DESCRIPTION:https://cip.autonoma.pt/conferencia-ligados-sem-amor-nem-dor-so
+ bre-o-sentimento-de-amor-na-comtemporaneidade-16-nov-18h30-auditorio-1-e-o
+ nline/
+URL:https://lykeion.pt/e/conferencia-ligados-sem-amor-nem-dor-sobre-o-senti
+ mento-de-a-29cc0.html
+END:VEVENT
+END:VCALENDAR

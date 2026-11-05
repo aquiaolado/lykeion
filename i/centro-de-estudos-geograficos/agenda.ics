@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEG (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:10-o-seminario-internacional-cidade-comercio-e-consumo-a014b-2026-11-05
+ @lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:10.o Seminário Internacional Cidade\, Comércio e Consumo
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/10o-seminario-internacional
+ -cidade-comercio-e-consumo
+URL:https://lykeion.pt/e/10-o-seminario-internacional-cidade-comercio-e-con
+ sumo-a014b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-internacional-wsd26-43f23-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Seminário Internacional WSD’26
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/seminario-internacional-wsd
+ 26
+URL:https://lykeion.pt/e/seminario-internacional-wsd26-43f23.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-negative-atmospheres-33a13-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Seminário Negative Atmospheres
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/seminario-negative-atmosphe
+ res
+URL:https://lykeion.pt/e/seminario-negative-atmospheres-33a13.html
+END:VEVENT
+END:VCALENDAR
