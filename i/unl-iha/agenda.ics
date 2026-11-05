@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:exposicao-tereza-arriaga-percursos-de-arte-e-vida-43d32-2026-11-05@lage
  nda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T110000
 SUMMARY:Exposição | Tereza Arriaga: Percursos de Arte e Vida
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-tereza-ar
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 UID:seminario-de-leitura-iha-what-is-interesting-writing-in-art-a726d-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T160000
 SUMMARY:Seminário de Leitura IHA | What is Interesting Writing in Art Hist
  ory?\, de James Elkins
 LOCATION:Instituto de Historia da Arte

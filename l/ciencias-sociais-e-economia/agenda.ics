@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:05-11-26-aula-aberta-6dea8-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:05.11.26 Aula aberta
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-doutoramento-em-soci
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciep-seminario-1-iniciacao-a-leitura-e-a-def66-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T090000
 SUMMARY:CIEP | SEMINÁRIO 1: «Iniciação à Leitura e à...
 LOCATION:Universidade de Évora\, Évora
 DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47681
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 UID:conferencia-cooperacao-transnacional-em-iniciativas-liderada-f767b-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T090000
 SUMMARY:Conferência: Cooperação transnacional em iniciativas lideradas p
  ela comunidade
 LOCATION:Iscte – Instituto Universitário de Lisboa
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:em-torno-de-descartes-e-de-kant-seminario-2-aa2a6-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T083000
 SUMMARY:Em torno de Descartes e de Kant | Seminário 2
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/em-torno-de-descartes-e-de-kant
@@ -100,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:i-seminario-de-enfermagem-do-trabalho-5696c-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T093000
 SUMMARY:I Seminário de Enfermagem do Trabalho
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
  eira de Azeméis
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 UID:jorge-dias-memorial-lecture-a-antropologia-historica-do-colo-0aba4-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T190000
 SUMMARY:Jorge Dias Memorial Lecture - A antropologia histórica do colonial
  ismo português em Moçambique no século XX. Cidade\, Corpo e Cultura Pop
  ular
@@ -124,10 +124,20 @@ URL:https://lykeion.pt/e/jorge-dias-memorial-lecture-a-antropologia-histori
  ca-do-colo-0aba4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-internacional-193ec-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Seminário Internacional
+LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
+ 7614
+URL:https://lykeion.pt/e/seminario-internacional-193ec.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-perspectivas-do-direito-na-historia-047d6-2026-11-05@lagenda.
  pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T120000
 SUMMARY:Seminário Perspectivas do Direito na História
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-19-de-ja
@@ -139,7 +149,7 @@ BEGIN:VEVENT
 UID:seminario-de-estudos-medievais-antonio-conduto-oliveira-0d788-2026-11-0
  5@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T160000
 SUMMARY:Seminário de Estudos Medievais | António Conduto Oliveira
 LOCATION:Instituto de Estudos Medievais
 DESCRIPTION:https://iem.fcsh.unl.pt/evento/seminario-de-estudos-medievais-a
@@ -151,7 +161,7 @@ BEGIN:VEVENT
 UID:seminario-de-historia-europeia-do-direito-e-justica-3d598-2026-11-05@la
  genda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T120000
 SUMMARY:Seminário de História Europeia do Direito e Justiça
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-16-de-de
@@ -163,7 +173,7 @@ BEGIN:VEVENT
 UID:seminario-de-leitura-iha-what-is-interesting-writing-in-art-a726d-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T160000
 SUMMARY:Seminário de Leitura IHA | What is Interesting Writing in Art Hist
  ory?\, de James Elkins
 LOCATION:Instituto de Historia da Arte
@@ -175,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminarios-clinicos-clinica-e-migracao-0fd68-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T163000
 SUMMARY:Seminários Clínicos – Clínica e Migração
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/seminarios-clinicos-clinica-
@@ -199,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06-11-26-research-seminar-8ff98-2026-11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T140000
 SUMMARY:06.11.26 Research Seminar
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/research-seminar-gender-inequali
@@ -222,9 +232,35 @@ URL:https://lykeion.pt/e/06-11-26-seminario-new-trends-in-international-pol
  itics-and-bef19.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-a-justica-antes-do-estado-o-final-da-idade-media-a8e3d-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T100000
+SUMMARY:Aula Aberta “A Justiça Antes do Estado: O Final da Idade Média 
+ em Portugal
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-a-justica-antes-do-estado
+ -o-final-da-idade-media-em-portugal/
+URL:https://lykeion.pt/e/aula-aberta-a-justica-antes-do-estado-o-final-da-i
+ dade-media-a8e3d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-asia-central-ator-estrategico-ou-tabuleiro-geopo-691bf-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T090000
+SUMMARY:Aula Aberta “Ásia Central: Ator Estratégico ou Tabuleiro Geopol
+ ítico?
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-asia-central-ator-estrate
+ gico-ou-tabuleiro-geopolitico/
+URL:https://lykeion.pt/e/aula-aberta-asia-central-ator-estrategico-ou-tabul
+ eiro-geopo-691bf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-direito-do-trabalho-851f6-2026-11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T183000
 SUMMARY:Conferência Direito do Trabalho
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
   Lisboa
@@ -244,23 +280,10 @@ URL:https://lykeion.pt/e/mesa-redonda-sobre-politicas-de-emigracao-e-regres
  so-15ff8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:open-class-central-asia-strategic-player-or-geopolitical-che-e44d9-2026
- -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Open class “Central Asia: strategic player or geopolitical chessb
- oard?
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/open-class-central-asia-strategic-
- player-or-geopolitical-chessboard/
-URL:https://lykeion.pt/e/open-class-central-asia-strategic-player-or-geopol
- itical-che-e44d9.html
-END:VEVENT
-BEGIN:VEVENT
 UID:palestra-entre-imagens-sinteticas-e-ia-conversacional-comuni-e81d6-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T160000
 SUMMARY:Palestra "Entre imagens sintéticas e IA conversacional: comunicaç
  ão\, informação e subjetividade na era algorítmica"
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -273,7 +296,7 @@ BEGIN:VEVENT
 UID:palestra-l-histoire-de-l-immigration-portugaise-en-france-95ed9-2026-11
  -06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T150000
 SUMMARY:Palestra "L'histoire de l'immigration portugaise en France"
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/l-histoire-de-l-immigration-por
@@ -282,20 +305,9 @@ URL:https://lykeion.pt/e/palestra-l-histoire-de-l-immigration-portugaise-en
  -france-95ed9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:palestra-anual-alexis-de-tocqueville-2026-ac171-2026-11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Palestra Anual Alexis de Tocqueville 2026
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/palestra-anual-alexis-de-tocqu
- eville-2026
-URL:https://lykeion.pt/e/palestra-anual-alexis-de-tocqueville-2026-ac171.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:sala-3-6-seminario-15d64-2026-11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T190000
 SUMMARY:Sala 3.6 Seminário
 LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
   Coimbra
@@ -308,7 +320,7 @@ BEGIN:VEVENT
 UID:8-e-9-de-novembro-conferencia-a-reforma-do-codigo-civil-e-a-5e013-2026-
  11-08@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T120000
 SUMMARY:8 e 9 de novembro: Conferência “A Reforma do Código Civil e a I
  gualdade de Género 1977-2017"
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -318,10 +330,23 @@ URL:https://lykeion.pt/e/8-e-9-de-novembro-conferencia-a-reforma-do-codigo-
  civil-e-a-5e013.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T143000
+SUMMARY:Aula Aberta “Intervenção Psicológica nas Perturbações do Com
+ portamento Alimentar
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/intervencao-psicologica-nas-perturbac
+ oes-do-comportamento-alimentar/
+URL:https://lykeion.pt/e/aula-aberta-intervencao-psicologica-nas-perturbaco
+ es-do-comp-c6dc5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-por-linhas-tortas-o-desenho-das-politicas-e-a-su-19730-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T180000
 SUMMARY:Aula Aberta: Por linhas tortas: o desenho das políticas e a sua ex
  ecução
 LOCATION:Iscte – Instituto Universitário de Lisboa
@@ -334,7 +359,7 @@ BEGIN:VEVENT
 UID:aula-aberta-a-volta-de-questoes-da-culpa-o-crime-de-homicidi-3d0a1-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T180000
 SUMMARY:Aula Aberta: À volta de questões da culpa: o crime de homicídio 
  privilegiado e os crimes passionais
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
@@ -346,7 +371,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-os-proximos-cinco-anos-793ca-2026-11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T113000
 SUMMARY:Conferência "Os próximos cinco anos"
 LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
  iada\, Porto
@@ -357,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-de-abertura-cdbbe-2026-11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T091500
 SUMMARY:Conferência de Abertura
 LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
  iada\, Porto
@@ -366,10 +391,20 @@ DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-de-abertura-jorna
 URL:https://lykeion.pt/e/conferencia-de-abertura-cdbbe.html
 END:VEVENT
 BEGIN:VEVENT
+UID:palestra-com-bogumia-wolska-40a88-2026-11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T161500
+SUMMARY:Palestra com Bogumiła Wolska
+LOCATION:Local na página do evento
+DESCRIPTION:https://www.patrimoniocultural.gov.pt/2026/11/palestra-com-bogu
+ mila-wolska/
+URL:https://lykeion.pt/e/palestra-com-bogumia-wolska-40a88.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-inteligencia-artificial-direito-e-medicina-edec7-2026-11-09@l
  agenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T094500
 SUMMARY:Seminário - Inteligência Artificial\, Direito e Medicina
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-inteligencia-art
@@ -401,10 +436,23 @@ URL:https://lykeion.pt/e/10-11-26-conferencia-abretciencia-6-protecao-de-da
  dos-em-inv-2e93d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-gestao-de-conflitos-interpessoais-pelos-estudant-9eb99-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T140000
+SUMMARY:Aula Aberta “Gestão de Conflitos Interpessoais pelos Estudantes 
+ do Ensino Superior: Contributos da Mediação
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-gestao-de-conflitos-inter
+ pessoais-pelos-estudantes-do-ensino-superior-contributos-da-mediacao/
+URL:https://lykeion.pt/e/aula-aberta-gestao-de-conflitos-interpessoais-pelo
+ s-estudant-9eb99.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-sobre-metodos-de-analise-dos-produtos-comunicaci-5d31e-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Aula aberta sobre Métodos de análise dos produtos comunicacionais
  : mediação e estruturas narrativas
 LOCATION:Escola Superior de Comunicação Social
@@ -416,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-what-to-do-with-a-text-1f1a5-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Aula aberta «What to do with a text?»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/aula-aberta-what-to-do-with-a-t
@@ -458,22 +506,9 @@ DESCRIPTION:https://unu.edu/events
 URL:https://lykeion.pt/e/eprm-webinar-0a0f3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cege4all-markets-policy-seminar-how-ecosystem-maturity-shape-06490-2026
- -11-11@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:CEGE4All: Markets & Policy Seminar "How Ecosystem Maturity Shapes S
- tartup Success"
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/cege4all-markets-policy-semina
- r-how-ecosystem-maturity-shapes-startup-success
-URL:https://lykeion.pt/e/cege4all-markets-policy-seminar-how-ecosystem-matu
- rity-shape-06490.html
-END:VEVENT
-BEGIN:VEVENT
 UID:debate-atual-situacao-da-habitacao-25705-2026-11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T180000
 SUMMARY:Debate "atual Situação da Habitação"
 LOCATION:Universidade Lusíada (Porto)\, Porto
 DESCRIPTION:https://www.por.ulusiada.pt/noticias/eventos.php
@@ -482,24 +517,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-55282-2026-11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T133000
 SUMMARY:Seminário
 LOCATION:Centro de Ciências do Mar do Algarve\, Faro
 DESCRIPTION:https://ccmar.ualg.pt/activity/cetaceans-phytoplankton
 URL:https://lykeion.pt/e/seminario-55282.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-26-8220-fortificacoes-e-patrimonio-militar-ciencia-06590-2026
+UID:seminario-fortificacoes-e-patrimonio-militar-ciencia-patrimo-06590-2026
  -11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Seminário %26#8220\,Fortificações e Património Militar - Ciênc
- ia\, Património e Sociedade: Desafios do Futuro
+DTSTART;TZID=Europe/Lisbon:20261111T143000
+SUMMARY:Seminário “Fortificações e Património Militar – Ciência\, 
+ Património e Sociedade: Desafios do Futuro
 LOCATION:Universidade Portucalense\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-fortificacoes-e-patrimonio-
  militar-ciencia-patrimonio-e-sociedade-desafios-do-futuro/
-URL:https://lykeion.pt/e/seminario-26-8220-fortificacoes-e-patrimonio-milit
- ar-ciencia-06590.html
+URL:https://lykeion.pt/e/seminario-fortificacoes-e-patrimonio-militar-cienc
+ ia-patrimo-06590.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminarios-de-internacionalizacao-26-27-0da02-2026-11-11@lagenda.pt
@@ -516,7 +551,7 @@ BEGIN:VEVENT
 UID:12-11-2026-27-11-2026-seminario-regionalism-in-the-age-of-po-afe7d-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T153000
 SUMMARY:12.11.2026 27.11.2026 Seminário “Regionalism in the Age of Polyc
  risis
 LOCATION:Centro de Estudos Interdisciplinares do Século XX\, Coimbra
@@ -526,19 +561,32 @@ URL:https://lykeion.pt/e/12-11-2026-27-11-2026-seminario-regionalism-in-the
  -age-of-po-afe7d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-152c0-2026-11-12@lagenda.pt
+UID:conferencia-o-pai-na-familia-contemporanea-uma-reflexao-sobr-152c0-2026
+ -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Conferência
+DTSTART;TZID=Europe/Lisbon:20261112T143000
+SUMMARY:CONFERÊNCIA | O pai na família contemporânea: Uma reflexão sobr
+ e perspectivas teóricas\, evidências empíricas e desafios metodológico
+ s
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/ciclo_de_conferencias_ispa_e
  nvolvimento_paterno_e_parentalidade/
-URL:https://lykeion.pt/e/conferencia-152c0.html
+URL:https://lykeion.pt/e/conferencia-o-pai-na-familia-contemporanea-uma-ref
+ lexao-sobr-152c0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-democracia-em-africa-7af61-2026-11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T180000
+SUMMARY:Conferência: Democracia em África
+LOCATION:Iscte – Instituto Universitário de Lisboa
+DESCRIPTION:https://www.iscte-iul.pt/evento/democracia-6203
+URL:https://lykeion.pt/e/conferencia-democracia-em-africa-7af61.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conversa-de-sofa-sobre-ia-e-saude-mental-e4efc-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T150000
 SUMMARY:Conversa de Sofá\, sobre IA e Saúde Mental
 LOCATION:Instituto Superior de Agronomia
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/conversa-de-sofa-sobre-ia-e-s
@@ -561,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:debate-do-orcamento-do-estado-2027-0aa3b-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T143000
 SUMMARY:Debate do Orçamento do Estado 2027
 LOCATION:AESE Business School
 DESCRIPTION:https://www.aese.pt/agenda/debate-do-orcamento-do-estado-2027/
@@ -571,7 +619,7 @@ BEGIN:VEVENT
 UID:palestra-a-obra-mais-dificil-da-minha-carreira-profissional-b67d3-2026-
  11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T110000
 SUMMARY:Palestra: A obra mais difícil da minha carreira profissional
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/palestra-obra-mais-dificil-da-minha
@@ -582,7 +630,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:research-seminar-fb22c-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T113000
 SUMMARY:Research Seminar
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/research-seminar-financial-de
@@ -592,7 +640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-a-lideranca-feminina-no-desporto-a5d65-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:Seminário A Liderança Feminina no Desporto
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/seminario-lideranca-feminina-no
@@ -604,7 +652,7 @@ BEGIN:VEVENT
 UID:seminario-da-ia-generativa-a-ia-agentica-impactos-na-advocac-8c6a2-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T170000
 SUMMARY:Seminário | Da IA Generativa à IA Agêntica: impactos na advocaci
  a e na consultoria jurídica
 LOCATION:Faculdade de Direito da Universidade de Lisboa
@@ -635,7 +683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-55e40-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Webinar
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/webinar-retomar-o-controlo-do
@@ -645,7 +693,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:13-11-26-research-seminar-b7b71-2026-11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:13.11.26 Research Seminar
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/research-seminar-predict-or-to-b
@@ -671,7 +719,7 @@ BEGIN:VEVENT
 UID:conferencia-body-shape-politics-the-political-divide-in-body-2a464-2026
  -11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T163000
 SUMMARY:CONFERÊNCIA | “Body-Shape Politics: The Political Divide in Body
  -Inclusive Advertising
 LOCATION:ISPA – Instituto Universitário
@@ -684,7 +732,7 @@ BEGIN:VEVENT
 UID:online-ciclo-de-webinarios-ser-jornalista-hoje-precariedade-a8082-2026-
  11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T183000
 SUMMARY:Online Ciclo de Webinários “Ser jornalista hoje: precariedade\, 
  novas fronteiras e crise de confiança
 LOCATION:Escola Superior de Educação de Coimbra\, Coimbra
@@ -694,17 +742,18 @@ URL:https://lykeion.pt/e/online-ciclo-de-webinarios-ser-jornalista-hoje-pre
  cariedade-a8082.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-47b9c-2026
+UID:seminario-ia-e-o-futuro-da-investigacao-em-ciencias-juridica-f4b4b-2026
  -11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Seminário: A mobilidade transnacional dos trabalhadores e das empr
- esas
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/seminario-mobilidade-transnaci
- onal-dos-trabalhadores-e-das-empresas
-URL:https://lykeion.pt/e/seminario-a-mobilidade-transnacional-dos-trabalhad
- ores-e-das-47b9c.html
+DTSTART;TZID=Europe/Lisbon:20261113T180000
+SUMMARY:Seminário IA e o futuro da investigação em Ciências Jurídicas 
+ e Gestão
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/eventos/seminario-ia-e-o-futuro-da-inv
+ estigacao-em-ciencias-juridicas-e-gestao
+URL:https://lykeion.pt/e/seminario-ia-e-o-futuro-da-investigacao-em-ciencia
+ s-juridica-f4b4b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:a-conversa-com-marion-nestle-64e5a-2026-11-13@lagenda.pt
@@ -720,7 +769,7 @@ BEGIN:VEVENT
 UID:ultima-licao-do-professor-doutor-francisco-louca-c84f5-2026-11-13@lagen
  da.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T180000
 SUMMARY:Última Lição do Professor Doutor Francisco Louçã
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/ultima-licao-do-professor-dou
@@ -766,7 +815,7 @@ BEGIN:VEVENT
 UID:aula-aberta-investigacao-com-pessoas-vitimizadas-que-desafio-46cec-2026
  -11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T180000
 SUMMARY:Aula Aberta "Investigação com pessoas vitimizadas: que desafios\,
   reflexões e práticas se apresentam nesse percurso?"
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -791,7 +840,7 @@ BEGIN:VEVENT
 UID:17-11-26-g2-convida-palestra-red-and-green-the-politics-of-t-69e88-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:17.11.26 G2 CONVIDA | Palestra "Red and Green: The Politics of the 
  Left and the Environment" | Afinidades Disciplinares 17 novembro Anfiteatr
  o V\, FLUC
@@ -808,8 +857,7 @@ UID:6o-seminario-cpcj-covilha-violencia-domestica-quebrar-ciclos-43bc0-2026
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:6o Seminário CPCJ Covilhã "Violência Doméstica: Quebrar Ciclos
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24163
 URL:https://lykeion.pt/e/6o-seminario-cpcj-covilha-violencia-domestica-queb
  rar-ciclos-43bc0.html
@@ -818,7 +866,7 @@ BEGIN:VEVENT
 UID:aula-aberta-investigacao-com-pessoas-vitimizadas-que-desafio-bf49e-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Aula Aberta "Investigação com pessoas vitimizadas: que desafios\,
   reflexões e práticas se apresentam nesse percurso?"
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -831,7 +879,7 @@ BEGIN:VEVENT
 UID:aula-aberta-sobre-comunicacao-e-envelhecimento-em-contexto-r-22ff7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T183000
 SUMMARY:Aula Aberta sobre Comunicação e envelhecimento em contexto: regis
  tos de um trabalho de campo
 LOCATION:Escola Superior de Comunicação Social
@@ -844,7 +892,7 @@ BEGIN:VEVENT
 UID:memory-and-collective-identity-activists-narratives-of-the-a-9fa83-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Memory and Collective Identity: Activists’ Narratives of the Arme
  d Conflict in Former Basque and Northern Irish Radical Milieus Seminário
 LOCATION:Centro de Investigação e Estudos de Sociologia

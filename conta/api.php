@@ -15,6 +15,8 @@ header('Content-Type: application/json; charset=utf-8');
 header('Cache-Control: no-store');
 if (!function_exists('bd')) { http_response_code(503); echo json_encode(['erro' => 'As contas ainda não estão ligadas neste servidor.']); exit; }
 
+// o mesmo cliente Google do asfeiras.pt (público); cada domínio tem de estar nas origens autorizadas do cliente
+if (empty($CFG['google_client_id'])) $CFG['google_client_id'] = '206764452565-4kjemfh1kd05fingifhj1ipav01vta4l.apps.googleusercontent.com';
 const COOKIE = 'lagenda_sessao';
 $BASE = rtrim(dirname(dirname($_SERVER['SCRIPT_NAME'])), '/') . '/';      // /  ou  /lagenda/
 $URL = 'https://lykeion.pt/';  // links dos emails: sempre o domínio (antes https://HTTP_HOST/BASE)
@@ -131,7 +133,7 @@ try {
     $t = bin2hex(random_bytes(32)); $voltar = (string)($p['voltar'] ?? '');
     lg_bd()->prepare('INSERT INTO lg_links (hash, email, voltar, criado_em, usado) VALUES (?,?,?,?,0)')->execute([hash('sha256', $t), $email, mb_substr($voltar, 0, 200), agora()]);
     $link = $URL . 'conta/api.php?link=' . $t;
-    [$ok, $erro] = enviar_email($email, 'Entrar no lagenda', "Olá,\n\nPara entrar no lagenda, abra este link (vale durante uma hora e só uma vez):\n\n$link\n\nSe não pediu para entrar, ignore este email: sem abrir o link, nada acontece.\n\nlagenda · Lisboa, todas as salas, num só sítio", '', 'lagenda');
+    [$ok, $erro] = enviar_email($email, 'Entrar no Lykeion', "Olá,\n\nPara entrar no Lykeion, abra este link (vale durante uma hora e só uma vez):\n\n$link\n\nSe não pediu para entrar, ignore este email: sem abrir o link, nada acontece.\n\nLykeion · Tudo o que se passa na ciência do país", '', 'Lykeion');
     if (!$ok) sai(['erro' => 'Não conseguimos enviar o email agora. Tente daqui a pouco.'], 502);
     sai(['ok' => true]);
   }

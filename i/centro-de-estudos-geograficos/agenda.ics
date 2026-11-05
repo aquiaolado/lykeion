@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-negative-atmospheres-33a13-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T083000
 SUMMARY:Seminário Negative Atmospheres
 LOCATION:Centro de Estudos Geográficos
 DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/seminario-negative-atmosphe

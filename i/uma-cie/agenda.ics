@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:x-encontro-de-outono-do-forum-portugues-de-administracao-edu-24809-2026
  -11-08@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T090000
 SUMMARY:X Encontro de Outono do Fórum Português de Administração Educac
  ional “Entre velhos e novos desafios da Escola: tempo de repensar práti
  cas e reinventar caminhos
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:xvii-congresso-da-sociedade-portuguesa-de-ciencias-da-educac-469ed-2026
  -11-14@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T090000
 SUMMARY:XVII Congresso da Sociedade Portuguesa de Ciências da Educação
 LOCATION:Centro de Investigação em Educação\, Braga
 DESCRIPTION:https://cied.uminho.pt/evento-cientifico/19352/

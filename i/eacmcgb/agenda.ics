@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:ii-ciclo-de-masterclasses-trombone-e5b2f-2026-11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T000000
 SUMMARY:II Ciclo de Masterclasses – Trombone
 LOCATION:Escola Artística do Conservatório de Música Calouste Gulbenkian
   de Braga\, Braga
@@ -19,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:observacao-da-lua-com-telescopio-dc325-2026-11-18@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T190000
 SUMMARY:Observação da Lua com Telescópio
 LOCATION:Escola Artística do Conservatório de Música Calouste Gulbenkian
   de Braga\, Braga

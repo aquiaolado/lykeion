@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CECH (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:21-10-2026-20-11-2026-exposicao-cadernos-de-receitas-de-fami-0ad42-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:21.10.2026 20.11.2026 [Exposição] Cadernos de Receitas de Famíli
+ a — Grandes Obras da Literatura Culinária 21 outubro - 20 novembro\, 20
+ 26 21 outubro Sala do Catálogo\, BGUC
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/cadernos-de-receitas-de-familia/
+URL:https://lykeion.pt/e/21-10-2026-20-11-2026-exposicao-cadernos-de-receit
+ as-de-fami-0ad42.html
+END:VEVENT
+BEGIN:VEVENT
+UID:09-11-26-aula-aberta-construcoes-culturais-e-tensoes-dramati-f8d48-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T180000
+SUMMARY:09.11.26 [Aula Aberta] Construções culturais e tensões dramátic
+ as na 'Togata': para uma reflexão sobre Titínio e Áta
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-togata/
+URL:https://lykeion.pt/e/09-11-26-aula-aberta-construcoes-culturais-e-tenso
+ es-dramati-f8d48.html
+END:VEVENT
+BEGIN:VEVENT
+UID:12-11-26-aula-aberta-cordas-gregas-voz-romana-a-arte-da-liri-549fc-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T200000
+SUMMARY:12.11.26 [Aula Aberta] Cordas gregas\, voz romana: a arte da líric
+ a grega e a sua influência em Horácio.
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-cordas-gregas/
+URL:https://lykeion.pt/e/12-11-26-aula-aberta-cordas-gregas-voz-romana-a-ar
+ te-da-liri-549fc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:17-11-26-aula-aberta-ancient-greece-and-rome-for-children-an-5a2aa-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:17.11.26 [Aula Aberta] Ancient Greece and Rome for children and you
+ ng people: reception\, teaching practices and adaptations
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-grecia-e-roma-antigas
+ /
+URL:https://lykeion.pt/e/17-11-26-aula-aberta-ancient-greece-and-rome-for-c
+ hildren-an-5a2aa.html
+END:VEVENT
+END:VCALENDAR

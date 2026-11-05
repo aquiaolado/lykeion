@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:lancamento-do-livro-life-skills-da-autolideranca-ao-talento-2b916-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T180000
 SUMMARY:Lançamento do Livro “life Skills: da Autoliderança AO Talento d
  a Liderança Organizacional” de Ferreira Cascão
 LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 UID:seminario-do-servico-publico-a-eficiencia-privada-d5850-2026-11-08@lage
  nda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T100000
 SUMMARY:Seminário | do Serviço Público À Eficiência Privada
 LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
 DESCRIPTION:https://esce.unips.pt/eventos/seminario-do-servico-publico-a-ef

@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-graziela-mozeli-mac-ca225-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T110000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Graziela Mozeli Machado
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-matilde-gomes-caned-6ec6e-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Matilde Gomes Canedo
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
@@ -30,10 +30,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-matilde-g
  omes-caned-6ec6e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-internacional-193ec-2026-11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Seminário Internacional
+LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
+ 7614
+URL:https://lykeion.pt/e/seminario-internacional-193ec.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciada-luisa-costa-ba-d5946-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T150000
 SUMMARY:Provas de Mestrado em Criminologia - Licenciada Luísa Costa Barcel
  os
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -46,7 +56,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciada-thayna-mourao-cbab8-2026-
  11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T143000
 SUMMARY:Provas de Mestrado em Criminologia - Licenciada Thayná Mourão Sil
  va
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -59,7 +69,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciado-angelo-carvalh-fb66a-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T110000
 SUMMARY:Provas de Mestrado em Criminologia - Licenciado Ângelo Carvalho Ri
  beiro
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -72,7 +82,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciado-eduardo-tavares-lop-805ea-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T150000
 SUMMARY:Provas de Mestrado em Direito - Licenciado Eduardo Tavares Lopes
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
@@ -84,7 +94,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciada-jessica-luiza-51f89-2026-
  11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T143000
 SUMMARY:Provas de Mestrado em Criminologia - Licenciada Jéssica Luiza Long
  en
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -97,7 +107,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-alexandra-raquel-ba-2b43d-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T090000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Alexandra Raquel Barros 
  da Silva
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -110,7 +120,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciada-andreia-sofia-0229f-2026-
  11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T100000
 SUMMARY:Provas de Mestrado em Criminologia - Licenciada Andreia Sofia Campo
  s Gomes
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -123,7 +133,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-leonor-castro-silva-2d9f4-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T143000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Leonor Castro Silva Barb
  osa
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -136,7 +146,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-patricia-teixeira-d-2cebf-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T111500
 SUMMARY:Provas de Mestrado em Direito - Licenciada Patrícia Teixeira da Si
  lva
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -149,7 +159,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-rute-patricia-garri-0ef76-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T093000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Rute Patrícia Garrido M
  agalhães
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -175,7 +185,7 @@ BEGIN:VEVENT
 UID:aula-aberta-investigacao-com-pessoas-vitimizadas-que-desafio-46cec-2026
  -11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T180000
 SUMMARY:Aula Aberta "Investigação com pessoas vitimizadas: que desafios\,
   reflexões e práticas se apresentam nesse percurso?"
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -188,7 +198,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-maria-rita-coelho-a-a8004-2026
  -11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T150000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Maria Rita Coelho Azeved
  o Tinoco
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -201,7 +211,7 @@ BEGIN:VEVENT
 UID:aula-aberta-investigacao-com-pessoas-vitimizadas-que-desafio-bf49e-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Aula Aberta "Investigação com pessoas vitimizadas: que desafios\,
   reflexões e práticas se apresentam nesse percurso?"
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -214,7 +224,7 @@ BEGIN:VEVENT
 UID:provas-de-agregacao-doutora-helena-maria-machado-barbosa-da-1f12d-2026-
  11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T100000
 SUMMARY:Provas de Agregação - Doutora Helena Maria Machado Barbosa da Mot
  a
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -227,7 +237,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciada-isabella-cardo-24acf-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T140000
 SUMMARY:Provas de Mestrado em Criminologia - Licenciada Isabella Cardoso Ri
  beiro
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -240,7 +250,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciada-victoria-sousa-0fde0-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T100000
 SUMMARY:Provas de Mestrado em Criminologia - Licenciada Victoria Sousa Silv
  a
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -253,7 +263,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-beatriz-silva-teixe-e46c2-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T103000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Beatriz Silva Teixeira
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
@@ -265,7 +275,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-joana-magalhaes-dos-75f01-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Joana Magalhães dos San
  tos Pereira
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -278,7 +288,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciado-pedro-jorge-va-d99b3-2026
  -11-18@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T143000
 SUMMARY:Provas de Mestrado em Criminologia - Licenciado Pedro Jorge Valente
   Alegria
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -291,7 +301,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciado-vitor-borba-shnaide-cb546-2026
  -11-18@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T150000
 SUMMARY:Provas de Mestrado em Direito - Licenciado Vítor Borba Shnaiderman
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5

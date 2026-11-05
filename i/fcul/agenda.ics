@@ -21,7 +21,7 @@ BEGIN:VEVENT
 UID:encontro-anual-da-associacao-de-antigos-alunos-da-universida-265c2-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T173000
 SUMMARY:Encontro Anual da Associação de Antigos Alunos da Universidade de
   Lisboa - Alumni ULisboa
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 UID:seminario-de-logica-matematica-was-principia-mathematica-a-f-025cf-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T150000
 SUMMARY:Seminário de Lógica Matemática "Was Principia Mathematica a fail
  ure? Alonzo Church as historian of logic: Frege\, Russell\, and Ramsey"
 LOCATION:Faculdade de Ciências da Universidade de Lisboa

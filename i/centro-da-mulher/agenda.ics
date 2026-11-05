@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:workshops-para-gravidas-e-pais-f54b5-2026-11-07@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T103000
 SUMMARY:Workshops para Grávidas e Pais
 LOCATION:Centro da Mulher
 DESCRIPTION:https://www.cuf.pt/eventos/workshops-para-gravidas-e-pais-clini
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshops-para-gravidas-e-pais-48285-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T010000
 SUMMARY:Workshops para Grávidas e Pais
 LOCATION:Centro da Mulher
 DESCRIPTION:https://www.cuf.pt/eventos/workshops-para-gravidas-e-pais-hospi

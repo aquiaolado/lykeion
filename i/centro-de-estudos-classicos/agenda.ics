@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:17o-encontro-de-leitura-125cf-2026-11-07@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T150000
 SUMMARY:17o Encontro de Leitura
 LOCATION:Centro de Estudos Clássicos
 DESCRIPTION:https://centroclassicos.letras.ulisboa.pt/event/17o-encontro-de
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:lisbon-classic-seminars-rosalba-dimundo-christopher-star-e-m-3c305-2026
  -11-15@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261115
+DTSTART;TZID=Europe/Lisbon:20261115T100000
 SUMMARY:Lisbon Classic Seminars: Rosalba Dimundo\, Christopher Star e Marti
  n Dinter
 LOCATION:Centro de Estudos Clássicos

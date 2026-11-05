@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:conferencia-cooperacao-transnacional-em-iniciativas-liderada-f767b-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T090000
 SUMMARY:Conferência: Cooperação transnacional em iniciativas lideradas p
  ela comunidade
 LOCATION:Iscte – Instituto Universitário de Lisboa
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-do-lapso-00a16-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:Open Day do LAPSO
 LOCATION:Iscte – Instituto Universitário de Lisboa
 DESCRIPTION:https://www.iscte-iul.pt/evento/open-day-lapso
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 UID:the-future-of-food-sustainability-engineering-ethics-seminar-782cf-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:The future of food: sustainability\, engineering & ethics Seminári
  o
 LOCATION:Centro de Investigação e Estudos de Sociologia
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:aula-aberta-por-linhas-tortas-o-desenho-das-politicas-e-a-su-19730-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T180000
 SUMMARY:Aula Aberta: Por linhas tortas: o desenho das políticas e a sua ex
  ecução
 LOCATION:Iscte – Instituto Universitário de Lisboa
@@ -65,10 +65,19 @@ URL:https://lykeion.pt/e/aula-aberta-por-linhas-tortas-o-desenho-das-politi
  cas-e-a-su-19730.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-democracia-em-africa-7af61-2026-11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T180000
+SUMMARY:Conferência: Democracia em África
+LOCATION:Iscte – Instituto Universitário de Lisboa
+DESCRIPTION:https://www.iscte-iul.pt/evento/democracia-6203
+URL:https://lykeion.pt/e/conferencia-democracia-em-africa-7af61.html
+END:VEVENT
+BEGIN:VEVENT
 UID:atitudes-da-opiniao-publica-em-relacao-a-imigracao-e-as-mino-f8552-2026
  -11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T143000
 SUMMARY:Atitudes da opinião pública em relação à imigração e às min
  orias étnicas em Portugal e Espanha Encontro
 LOCATION:Centro de Investigação e Estudos de Sociologia
@@ -92,7 +101,7 @@ BEGIN:VEVENT
 UID:memory-and-collective-identity-activists-narratives-of-the-a-9fa83-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Memory and Collective Identity: Activists’ Narratives of the Arme
  d Conflict in Former Basque and Northern Irish Radical Milieus Seminário
 LOCATION:Centro de Investigação e Estudos de Sociologia

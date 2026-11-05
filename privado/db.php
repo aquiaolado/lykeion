@@ -97,7 +97,7 @@ function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeira
     }
     $cmd('AUTH LOGIN', 334); $cmd(base64_encode($utilizador), 334); $cmd(base64_encode($pass), 235);
     $cmd("MAIL FROM:<$de>", 250); $cmd("RCPT TO:<$para>", [250, 251]); $cmd('DATA', 354);
-    $msg = 'Date: ' . date('r') . "\r\nMessage-ID: <" . bin2hex(random_bytes(12)) . "@asfeiras.pt>\r\nTo: <$para>\r\nSubject: $as\r\n$cab\r\n$corpo";
+    $msg = 'Date: ' . date('r') . "\r\nMessage-ID: <" . bin2hex(random_bytes(12)) . "@" . (explode('@', $de)[1] ?? 'asfeiras.pt') . ">\r\nTo: <$para>\r\nSubject: $as\r\n$cab\r\n$corpo";
     $msg = str_replace(["\r\n", "\r"], "\n", $msg);
     $msg = preg_replace('/^\./m', '..', $msg);
     $cmd(str_replace("\n", "\r\n", rtrim($msg, "\n")) . "\r\n.", 250);

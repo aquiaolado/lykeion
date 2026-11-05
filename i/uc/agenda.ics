@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:05-11-26-aula-aberta-6dea8-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:05.11.26 Aula aberta
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-doutoramento-em-soci
@@ -30,10 +30,23 @@ DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-doutoramento-em-soci
 URL:https://lykeion.pt/e/05-11-26-aula-aberta-6dea8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:23-10-2026-06-11-2026-comemoracoes-do-46-o-aniversario-da-fp-ddf33-2026
+UID:21-10-2026-20-11-2026-exposicao-cadernos-de-receitas-de-fami-0ad42-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
+SUMMARY:21.10.2026 20.11.2026 [Exposição] Cadernos de Receitas de Famíli
+ a — Grandes Obras da Literatura Culinária 21 outubro - 20 novembro\, 20
+ 26 21 outubro Sala do Catálogo\, BGUC
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/cadernos-de-receitas-de-familia/
+URL:https://lykeion.pt/e/21-10-2026-20-11-2026-exposicao-cadernos-de-receit
+ as-de-fami-0ad42.html
+END:VEVENT
+BEGIN:VEVENT
+UID:23-10-2026-06-11-2026-comemoracoes-do-46-o-aniversario-da-fp-ddf33-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T100000
 SUMMARY:23.10.2026 06.11.2026 Comemorações do 46.o Aniversário da FPCEUC
   Programa das comemorações do 46.o aniversário da Faculdade de Psicolog
  ia e de Ciências da Educação da Universidade de Coimbra\, de 23 de
@@ -60,7 +73,7 @@ BEGIN:VEVENT
 UID:06-11-26-prova-de-doutoramento-06-novembro-gratuito-faculdad-6a43c-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T111500
 SUMMARY:06.11.26 Prova de Doutoramento 06 novembro Gratuito Faculdade de Ec
  onomia da Universidade de Coimbra - Sala dos Atos
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
@@ -71,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06-11-26-research-seminar-8ff98-2026-11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T140000
 SUMMARY:06.11.26 Research Seminar
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/research-seminar-gender-inequali
@@ -94,10 +107,22 @@ URL:https://lykeion.pt/e/06-11-26-seminario-new-trends-in-international-pol
  itics-and-bef19.html
 END:VEVENT
 BEGIN:VEVENT
+UID:09-11-26-aula-aberta-construcoes-culturais-e-tensoes-dramati-f8d48-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T180000
+SUMMARY:09.11.26 [Aula Aberta] Construções culturais e tensões dramátic
+ as na 'Togata': para uma reflexão sobre Titínio e Áta
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-togata/
+URL:https://lykeion.pt/e/09-11-26-aula-aberta-construcoes-culturais-e-tenso
+ es-dramati-f8d48.html
+END:VEVENT
+BEGIN:VEVENT
 UID:12-11-2026-27-11-2026-seminario-regionalism-in-the-age-of-po-afe7d-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T153000
 SUMMARY:12.11.2026 27.11.2026 Seminário “Regionalism in the Age of Polyc
  risis
 LOCATION:Centro de Estudos Interdisciplinares do Século XX\, Coimbra
@@ -107,9 +132,21 @@ URL:https://lykeion.pt/e/12-11-2026-27-11-2026-seminario-regionalism-in-the
  -age-of-po-afe7d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:12-11-26-aula-aberta-cordas-gregas-voz-romana-a-arte-da-liri-549fc-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T200000
+SUMMARY:12.11.26 [Aula Aberta] Cordas gregas\, voz romana: a arte da líric
+ a grega e a sua influência em Horácio.
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-cordas-gregas/
+URL:https://lykeion.pt/e/12-11-26-aula-aberta-cordas-gregas-voz-romana-a-ar
+ te-da-liri-549fc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:13-11-26-research-seminar-b7b71-2026-11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:13.11.26 Research Seminar
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/research-seminar-predict-or-to-b
@@ -146,7 +183,7 @@ BEGIN:VEVENT
 UID:17-11-26-g2-convida-palestra-red-and-green-the-politics-of-t-69e88-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:17.11.26 G2 CONVIDA | Palestra "Red and Green: The Politics of the 
  Left and the Environment" | Afinidades Disciplinares 17 novembro Anfiteatr
  o V\, FLUC
@@ -156,5 +193,18 @@ DESCRIPTION:https://www.uc.pt/ceis20/conferencias/g2-convida-palestra-red-a
  ares/
 URL:https://lykeion.pt/e/17-11-26-g2-convida-palestra-red-and-green-the-pol
  itics-of-t-69e88.html
+END:VEVENT
+BEGIN:VEVENT
+UID:17-11-26-aula-aberta-ancient-greece-and-rome-for-children-an-5a2aa-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:17.11.26 [Aula Aberta] Ancient Greece and Rome for children and you
+ ng people: reception\, teaching practices and adaptations
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-grecia-e-roma-antigas
+ /
+URL:https://lykeion.pt/e/17-11-26-aula-aberta-ancient-greece-and-rome-for-c
+ hildren-an-5a2aa.html
 END:VEVENT
 END:VCALENDAR

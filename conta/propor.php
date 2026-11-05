@@ -116,7 +116,7 @@ try {
     if (!$pessoal) { if ($dono) $v['instituicao'] = $dono; elseif (!isset($A['inst'][$v['instituicao']])) $v['instituicao'] = ''; }
     $ip = hash('sha256', ($_SERVER['REMOTE_ADDR'] ?? '') . segredo());
     $q = pp_bd()->prepare('SELECT COUNT(*) FROM lg_propostas WHERE ip = ? AND criado_em >= ?'); $q->execute([$ip, date('Y-m-d 00:00:00')]);
-    if (!$pessoal && (int)$q->fetchColumn() >= MAX_DIA_IP) $erros[] = 'Recebemos muitas propostas deste endereço hoje. Tente amanhã ou escreva para todas@asfeiras.pt.';
+    if (!$pessoal && (int)$q->fetchColumn() >= MAX_DIA_IP) $erros[] = 'Recebemos muitas propostas deste endereço hoje. Tente amanhã ou escreva para info@lykeion.pt.';
     if (!$erros) {
       $v['id'] = substr(sha1($v['titulo'] . '|' . $v['data_inicio'] . '|' . $v['url']), 0, 12);
       $v['enviado_em'] = date('Y-m-d'); $v['quem'] = $pessoal ? 'instituicao' : ($dono ? 'site-da-instituicao' : 'visitante');
@@ -167,9 +167,9 @@ try {
     $rot('Em poucas palavras', '(opcional, até 600 caracteres)'), '<textarea name="descricao" maxlength="600" rows="4" style="', $campo, '">', $val('descricao'), '</textarea>',
     $pessoal ? '' : $rot('O seu email', '(só para uma dúvida; não aparece no site)') . '<input name="email" type="email" required maxlength="190" style="' . $campo . '">',
     '<p style="margin-top:18px"><button style="padding:12px 18px;background:#2F5D46;color:#fff;border:0;border-radius:6px;font-weight:600">Enviar</button></p></form>',
-    '<p style="color:#5E6A62;font-size:13px">É de uma instituição e quer juntar eventos sempre que houver? Peça o link pessoal da sua instituição para todas@asfeiras.pt: o que juntar aparece logo, sem revisão. ',
+    '<p style="color:#5E6A62;font-size:13px">É de uma instituição e quer juntar eventos sempre que houver? Peça o link pessoal da sua instituição para info@lykeion.pt: o que juntar aparece logo, sem revisão. ',
     'Também pode <a href="', $URL, 'incorporar/">pôr a agenda da instituição no seu site</a>.</p>', $fim;
 } catch (Throwable $e) {
   error_log('lykeion propor: ' . $e->getMessage());
-  http_response_code(500); echo 'Algo correu mal do nosso lado. Tente outra vez daqui a pouco, ou escreva para todas@asfeiras.pt.';
+  http_response_code(500); echo 'Algo correu mal do nosso lado. Tente outra vez daqui a pouco, ou escreva para info@lykeion.pt.';
 }

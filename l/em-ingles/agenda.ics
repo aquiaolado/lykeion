@@ -6,16 +6,16 @@ X-WR-CALNAME:Em inglês (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:22nd-european-conference-on-management-leadership-and-govern-f4468-2026
+UID:22nd-european-conference-on-management-leadership-and-govern-3a249-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T090000
 SUMMARY:22nd European Conference on Management Leadership and Governance
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/22nd-european-conference-on-manage
- ment-leadership-and-governance-3/
+DESCRIPTION:https://www.upt.pt/agenda/22nd-european-conference-on-managemen
+ t-leadership-and-governance/
 URL:https://lykeion.pt/e/22nd-european-conference-on-management-leadership-
- and-govern-f4468.html
+ and-govern-3a249.html
 END:VEVENT
 BEGIN:VEVENT
 UID:inscricoes-workshop-hands-on-science-a-ciencia-nao-fala-por-e7150-2026-
@@ -24,8 +24,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
@@ -34,7 +33,7 @@ BEGIN:VEVENT
 UID:the-future-of-food-sustainability-engineering-ethics-seminar-782cf-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:The future of food: sustainability\, engineering & ethics Seminári
  o
 LOCATION:Centro de Investigação e Estudos de Sociologia
@@ -57,16 +56,16 @@ URL:https://lykeion.pt/e/06-11-26-seminario-new-trends-in-international-pol
  itics-and-bef19.html
 END:VEVENT
 BEGIN:VEVENT
-UID:22nd-european-conference-on-management-leadership-and-govern-f4468-2026
+UID:22nd-european-conference-on-management-leadership-and-govern-3a249-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T090000
 SUMMARY:22nd European Conference on Management Leadership and Governance
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/22nd-european-conference-on-manage
- ment-leadership-and-governance-4/
+DESCRIPTION:https://www.upt.pt/agenda/22nd-european-conference-on-managemen
+ t-leadership-and-governance-2/
 URL:https://lykeion.pt/e/22nd-european-conference-on-management-leadership-
- and-govern-f4468.html
+ and-govern-3a249.html
 END:VEVENT
 BEGIN:VEVENT
 UID:4th-international-conference-of-the-portuguese-association-f-533fc-2026
@@ -79,32 +78,6 @@ LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
 DESCRIPTION:https://cba.uac.pt/news-events/ver.php?id=36
 URL:https://lykeion.pt/e/4th-international-conference-of-the-portuguese-ass
  ociation-f-533fc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:inaugural-lecture-of-the-international-relations-and-diploma-e8d2d-2026
- -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Inaugural Lecture of the International Relations and Diplomacy mast
- er’s degree
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/inaugural-lecture-of-the-internati
- onal-relations-and-diplomacy-masters-degree/
-URL:https://lykeion.pt/e/inaugural-lecture-of-the-international-relations-a
- nd-diploma-e8d2d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:open-class-justice-before-the-state-the-end-of-the-middle-ag-0e83a-2026
- -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Open class “Justice before the state: the end of the Middle Ages 
- in Portugal
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/open-class-justice-before-the-stat
- e-the-end-of-the-middle-ages-in-portugal/
-URL:https://lykeion.pt/e/open-class-justice-before-the-state-the-end-of-the
- -middle-ag-0e83a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2nd-next-generation-forum-for-gender-equality-our-well-being-cb477-2026
@@ -134,7 +107,7 @@ BEGIN:VEVENT
 UID:conferencia-are-qalys-still-relevant-delivering-the-quintupl-210fa-2026
  -11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T103000
 SUMMARY:CONFERÊNCIA | Are QALY’s Still Relevant? Delivering The Quintupl
  e Goal of Healthcare Through Spotlight-AQ Digital Health
 LOCATION:ISPA – Instituto Universitário
@@ -147,7 +120,7 @@ BEGIN:VEVENT
 UID:12-11-2026-27-11-2026-seminario-regionalism-in-the-age-of-po-afe7d-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T153000
 SUMMARY:12.11.2026 27.11.2026 Seminário “Regionalism in the Age of Polyc
  risis
 LOCATION:Centro de Estudos Interdisciplinares do Século XX\, Coimbra
@@ -160,7 +133,7 @@ BEGIN:VEVENT
 UID:34th-world-congress-on-controversies-in-obstetrics-gynecolog-9f261-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T210000
 SUMMARY:34th World Congress on Controversies in Obstetrics\, Gynecology & I
  nfertility (COGI)
 LOCATION:Sociedade Portuguesa de Obstetrícia e Medicina Materno-Fetal
@@ -173,7 +146,7 @@ BEGIN:VEVENT
 UID:masterclass-grapevines-and-wine-from-the-landscape-of-domest-43196-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T180000
 SUMMARY:Masterclass “Grapevines and Wine: From the Landscape of Domestica
  tion to the Post-Phylloxera Terroir
 LOCATION:Instituto de Estudos Medievais
@@ -200,7 +173,7 @@ BEGIN:VEVENT
 UID:conferencia-body-shape-politics-the-political-divide-in-body-2a464-2026
  -11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T163000
 SUMMARY:CONFERÊNCIA | “Body-Shape Politics: The Political Divide in Body
  -Inclusive Advertising
 LOCATION:ISPA – Instituto Universitário
@@ -226,7 +199,7 @@ BEGIN:VEVENT
 UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026
  -11-14@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T110000
 SUMMARY:XVI International Colloquium Arts for Childhood and Social and Huma
  n Development
 LOCATION:Centro de Estudos em Música\, Avenidas Novas
@@ -236,23 +209,10 @@ URL:https://lykeion.pt/e/xvi-international-colloquium-arts-for-childhood-an
  d-social-a-3bdbe.html
 END:VEVENT
 BEGIN:VEVENT
-UID:international-symposium-on-blockchain-and-cybersecurity-ribc-33906-2026
- -11-16@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:International Symposium on Blockchain and Cybersecurity – RIBCi
- –CYTED 2026
-LOCATION:Centro de Estudos Organizacionais e Sociais\, Porto
-DESCRIPTION:https://ceos.iscap.ipp.pt/event-details/international-symposium
- -on-blockchain-and-cybersecurity-ribci-cyted-2026
-URL:https://lykeion.pt/e/international-symposium-on-blockchain-and-cybersec
- urity-ribc-33906.html
-END:VEVENT
-BEGIN:VEVENT
 UID:workshop-open-source-tools-for-analog-and-mixed-signal-ic-de-cf423-2026
  -11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T093000
 SUMMARY:Workshop "Open-Source Tools for Analog and Mixed-Signal IC Design"
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/workshop-open-source-tools-analog-a
@@ -264,7 +224,7 @@ BEGIN:VEVENT
 UID:17-11-26-g2-convida-palestra-red-and-green-the-politics-of-t-69e88-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:17.11.26 G2 CONVIDA | Palestra "Red and Green: The Politics of the 
  Left and the Environment" | Afinidades Disciplinares 17 novembro Anfiteatr
  o V\, FLUC
@@ -276,10 +236,23 @@ URL:https://lykeion.pt/e/17-11-26-g2-convida-palestra-red-and-green-the-pol
  itics-of-t-69e88.html
 END:VEVENT
 BEGIN:VEVENT
+UID:17-11-26-aula-aberta-ancient-greece-and-rome-for-children-an-5a2aa-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:17.11.26 [Aula Aberta] Ancient Greece and Rome for children and you
+ ng people: reception\, teaching practices and adaptations
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-grecia-e-roma-antigas
+ /
+URL:https://lykeion.pt/e/17-11-26-aula-aberta-ancient-greece-and-rome-for-c
+ hildren-an-5a2aa.html
+END:VEVENT
+BEGIN:VEVENT
 UID:memory-and-collective-identity-activists-narratives-of-the-a-9fa83-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Memory and Collective Identity: Activists’ Narratives of the Arme
  d Conflict in Former Basque and Northern Irish Radical Milieus Seminário
 LOCATION:Centro de Investigação e Estudos de Sociologia
@@ -314,6 +287,20 @@ DESCRIPTION:https://www.ceied.ulusofona.pt/en/events/roundtable-discussion-
  alfa-movement-student-brigades-for-work-and-literacy-50-years
 URL:https://lykeion.pt/e/roundtable-discussion-alfa-movement-student-brigad
  es-for-wor-bfe7c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
+ migration\, Health and Wellbeing
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
+ e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
+ pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
+URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
+ orkshop-on-fd2e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026

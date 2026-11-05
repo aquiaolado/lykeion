@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:debate-do-orcamento-do-estado-2027-0aa3b-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T143000
 SUMMARY:Debate do Orçamento do Estado 2027
 LOCATION:AESE Business School
 DESCRIPTION:https://www.aese.pt/agenda/debate-do-orcamento-do-estado-2027/

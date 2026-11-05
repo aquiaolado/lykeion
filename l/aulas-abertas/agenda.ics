@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:05-11-26-aula-aberta-6dea8-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:05.11.26 Aula aberta
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-doutoramento-em-soci
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:jorge-dias-memorial-lecture-a-antropologia-historica-do-colo-0aba4-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T190000
 SUMMARY:Jorge Dias Memorial Lecture - A antropologia histórica do colonial
  ismo português em Moçambique no século XX. Cidade\, Corpo e Cultura Pop
  ular
@@ -31,49 +31,61 @@ URL:https://lykeion.pt/e/jorge-dias-memorial-lecture-a-antropologia-histori
  ca-do-colo-0aba4.html
 END:VEVENT
 BEGIN:VEVENT
-UID:inaugural-lecture-of-the-international-relations-and-diploma-e8d2d-2026
+UID:aula-aberta-a-justica-antes-do-estado-o-final-da-idade-media-a8e3d-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Inaugural Lecture of the International Relations and Diplomacy mast
- er’s degree
+DTSTART;TZID=Europe/Lisbon:20261106T100000
+SUMMARY:Aula Aberta “A Justiça Antes do Estado: O Final da Idade Média 
+ em Portugal
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/inaugural-lecture-of-the-internati
- onal-relations-and-diplomacy-masters-degree/
-URL:https://lykeion.pt/e/inaugural-lecture-of-the-international-relations-a
- nd-diploma-e8d2d.html
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-a-justica-antes-do-estado
+ -o-final-da-idade-media-em-portugal/
+URL:https://lykeion.pt/e/aula-aberta-a-justica-antes-do-estado-o-final-da-i
+ dade-media-a8e3d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:open-class-central-asia-strategic-player-or-geopolitical-che-e44d9-2026
+UID:aula-aberta-asia-central-ator-estrategico-ou-tabuleiro-geopo-691bf-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Open class “Central Asia: strategic player or geopolitical chessb
- oard?
+DTSTART;TZID=Europe/Lisbon:20261106T090000
+SUMMARY:Aula Aberta “Ásia Central: Ator Estratégico ou Tabuleiro Geopol
+ ítico?
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/open-class-central-asia-strategic-
- player-or-geopolitical-chessboard/
-URL:https://lykeion.pt/e/open-class-central-asia-strategic-player-or-geopol
- itical-che-e44d9.html
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-asia-central-ator-estrate
+ gico-ou-tabuleiro-geopolitico/
+URL:https://lykeion.pt/e/aula-aberta-asia-central-ator-estrategico-ou-tabul
+ eiro-geopo-691bf.html
 END:VEVENT
 BEGIN:VEVENT
-UID:open-class-justice-before-the-state-the-end-of-the-middle-ag-0e83a-2026
- -11-06@lagenda.pt
+UID:09-11-26-aula-aberta-construcoes-culturais-e-tensoes-dramati-f8d48-2026
+ -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Open class “Justice before the state: the end of the Middle Ages 
- in Portugal
+DTSTART;TZID=Europe/Lisbon:20261109T180000
+SUMMARY:09.11.26 [Aula Aberta] Construções culturais e tensões dramátic
+ as na 'Togata': para uma reflexão sobre Titínio e Áta
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-togata/
+URL:https://lykeion.pt/e/09-11-26-aula-aberta-construcoes-culturais-e-tenso
+ es-dramati-f8d48.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T143000
+SUMMARY:Aula Aberta “Intervenção Psicológica nas Perturbações do Com
+ portamento Alimentar
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/open-class-justice-before-the-stat
- e-the-end-of-the-middle-ages-in-portugal/
-URL:https://lykeion.pt/e/open-class-justice-before-the-state-the-end-of-the
- -middle-ag-0e83a.html
+DESCRIPTION:https://www.upt.pt/agenda/intervencao-psicologica-nas-perturbac
+ oes-do-comportamento-alimentar/
+URL:https://lykeion.pt/e/aula-aberta-intervencao-psicologica-nas-perturbaco
+ es-do-comp-c6dc5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-por-linhas-tortas-o-desenho-das-politicas-e-a-su-19730-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T180000
 SUMMARY:Aula Aberta: Por linhas tortas: o desenho das políticas e a sua ex
  ecução
 LOCATION:Iscte – Instituto Universitário de Lisboa
@@ -86,7 +98,7 @@ BEGIN:VEVENT
 UID:aula-aberta-a-volta-de-questoes-da-culpa-o-crime-de-homicidi-3d0a1-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T180000
 SUMMARY:Aula Aberta: À volta de questões da culpa: o crime de homicídio 
  privilegiado e os crimes passionais
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
@@ -96,10 +108,23 @@ URL:https://lykeion.pt/e/aula-aberta-a-volta-de-questoes-da-culpa-o-crime-d
  e-homicidi-3d0a1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-gestao-de-conflitos-interpessoais-pelos-estudant-9eb99-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T140000
+SUMMARY:Aula Aberta “Gestão de Conflitos Interpessoais pelos Estudantes 
+ do Ensino Superior: Contributos da Mediação
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-gestao-de-conflitos-inter
+ pessoais-pelos-estudantes-do-ensino-superior-contributos-da-mediacao/
+URL:https://lykeion.pt/e/aula-aberta-gestao-de-conflitos-interpessoais-pelo
+ s-estudant-9eb99.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-sobre-metodos-de-analise-dos-produtos-comunicaci-5d31e-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Aula aberta sobre Métodos de análise dos produtos comunicacionais
  : mediação e estruturas narrativas
 LOCATION:Escola Superior de Comunicação Social
@@ -111,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-what-to-do-with-a-text-1f1a5-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Aula aberta «What to do with a text?»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/aula-aberta-what-to-do-with-a-t
@@ -119,10 +144,22 @@ DESCRIPTION:https://www.up.pt/eventos/event/aula-aberta-what-to-do-with-a-t
 URL:https://lykeion.pt/e/aula-aberta-what-to-do-with-a-text-1f1a5.html
 END:VEVENT
 BEGIN:VEVENT
+UID:12-11-26-aula-aberta-cordas-gregas-voz-romana-a-arte-da-liri-549fc-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T200000
+SUMMARY:12.11.26 [Aula Aberta] Cordas gregas\, voz romana: a arte da líric
+ a grega e a sua influência em Horácio.
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-cordas-gregas/
+URL:https://lykeion.pt/e/12-11-26-aula-aberta-cordas-gregas-voz-romana-a-ar
+ te-da-liri-549fc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-protecao-de-menores-em-ambientes-digitais-a95ee-2026-11-12@
  lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T120000
 SUMMARY:Aula Aberta: Proteção de menores em ambientes digitais
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/open-class-protection-of-m
@@ -134,7 +171,7 @@ BEGIN:VEVENT
 UID:ultima-licao-do-professor-doutor-francisco-louca-c84f5-2026-11-13@lagen
  da.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T180000
 SUMMARY:Última Lição do Professor Doutor Francisco Louçã
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/ultima-licao-do-professor-dou
@@ -156,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:annual-lecture-2023-c0e9e-2026-11-14@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T120000
 SUMMARY:Annual Lecture 2023
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/annual-lecture-2023
@@ -166,7 +203,7 @@ BEGIN:VEVENT
 UID:aula-aberta-investigacao-com-pessoas-vitimizadas-que-desafio-46cec-2026
  -11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T180000
 SUMMARY:Aula Aberta "Investigação com pessoas vitimizadas: que desafios\,
   reflexões e práticas se apresentam nesse percurso?"
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -176,10 +213,23 @@ URL:https://lykeion.pt/e/aula-aberta-investigacao-com-pessoas-vitimizadas-q
  ue-desafio-46cec.html
 END:VEVENT
 BEGIN:VEVENT
+UID:17-11-26-aula-aberta-ancient-greece-and-rome-for-children-an-5a2aa-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:17.11.26 [Aula Aberta] Ancient Greece and Rome for children and you
+ ng people: reception\, teaching practices and adaptations
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-grecia-e-roma-antigas
+ /
+URL:https://lykeion.pt/e/17-11-26-aula-aberta-ancient-greece-and-rome-for-c
+ hildren-an-5a2aa.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-investigacao-com-pessoas-vitimizadas-que-desafio-bf49e-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Aula Aberta "Investigação com pessoas vitimizadas: que desafios\,
   reflexões e práticas se apresentam nesse percurso?"
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -192,7 +242,7 @@ BEGIN:VEVENT
 UID:aula-aberta-sobre-comunicacao-e-envelhecimento-em-contexto-r-22ff7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T183000
 SUMMARY:Aula Aberta sobre Comunicação e envelhecimento em contexto: regis
  tos de um trabalho de campo
 LOCATION:Escola Superior de Comunicação Social
@@ -205,7 +255,7 @@ BEGIN:VEVENT
 UID:inesc-id-distinguished-lecture-professor-robbert-van-renness-f2d62-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T120000
 SUMMARY:INESC-ID Distinguished Lecture: Professor Robbert van Rennesse on 
  “Chain Replication Revisited
 LOCATION:Instituto de Engenharia de Sistemas e Computadores Investigação 

@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:10-00-am-07-nov-7-12-30-pm-250-anos-do-hospital-de-sao-jose-7e399-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T100000
 SUMMARY:10:00 am 07 (nov 7) 12:30 pm 250 anos do Hospital de São José Con
  gresso 10:00 am - 12:30 pm (7) Hospital de São José \, Rua José Antóni
  o Serrano — 1150-199 Lisboa Tipologia do Evento: Congresso
@@ -17,6 +17,18 @@ LOCATION:Instituto de História Contemporânea
 DESCRIPTION:https://ihc.fcsh.unl.pt/events/250anos-hospital-saojose/
 URL:https://lykeion.pt/e/10-00-am-07-nov-7-12-30-pm-250-anos-do-hospital-de
  -sao-jose-7e399.html
+END:VEVENT
+BEGIN:VEVENT
+UID:1o-ciclo-de-conferencias-um-novo-olhar-sobre-o-cuidador-info-61cd7-2026
+ -11-05@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261105T090000
+SUMMARY:1o ciclo de conferências "Um novo olhar sobre o cuidador informal"
+LOCATION:Local na página do evento\, Tomar
+DESCRIPTION:https://www.cm-tomar.pt/comunicacao/agenda/conferencias-seminar
+ ios/1o-ciclo-de-conferencias-um-novo-olhar-sobre-o-cuidador-informal
+URL:https://lykeion.pt/e/1o-ciclo-de-conferencias-um-novo-olhar-sobre-o-cui
+ dador-info-61cd7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:33-o-encontro-do-internato-de-medicina-geral-e-familiar-da-z-9c10e-2026
@@ -35,7 +47,7 @@ BEGIN:VEVENT
 UID:ciclo-de-palestras-em-atividade-fisica-e-saude-b3623-2026-11-05@lagenda
  .pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T110000
 SUMMARY:Ciclo de Palestras em Atividade Física e Saúde
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fadeup/pt/noticias_geral.ver_noticia?P_NR
@@ -44,21 +56,9 @@ URL:https://lykeion.pt/e/ciclo-de-palestras-em-atividade-fisica-e-saude-b36
  23.html
 END:VEVENT
 BEGIN:VEVENT
-UID:congresso-hospital-de-sao-jose-250-anos-ciencia-saude-ensino-246be-2026
- -11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261105T100000
-SUMMARY:Congresso "Hospital de São José - 250 Anos: Ciência\, Saúde\, E
- nsino e Inovação"
-LOCATION:Hospital de São José
-DESCRIPTION:http://www.chlc.min-saude.pt/hospital-de-sao-jose/
-URL:https://lykeion.pt/e/congresso-hospital-de-sao-jose-250-anos-ciencia-sa
- ude-ensino-246be.html
-END:VEVENT
-BEGIN:VEVENT
 UID:encontro-anual-do-projeto-sape-2-0-da-ulo-485d3-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T090000
 SUMMARY:Encontro Anual do Projeto SAPE 2.0 da ULO
 LOCATION:Politécnico de Leiria\, Leiria
 DESCRIPTION:https://www.ipleiria.pt/encontro-anual-do-projeto-sape-2-0-da-u
@@ -69,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:i-seminario-de-enfermagem-do-trabalho-5696c-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T093000
 SUMMARY:I Seminário de Enfermagem do Trabalho
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
  eira de Azeméis
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-marco-7f593-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Marco Gasp
  ar Ramos de Abreu
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -100,39 +100,26 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-em-ciencias-do-desporto-mes
  tre-marco-7f593.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-integrado-em-ciencias-farmaceuticas-d480e-2026-11-05
+UID:provas-de-mestrado-integrado-em-ciencias-farmaceuticas-d0bce-2026-11-05
  @lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Provas de Mestrado Integrado em Ciências Farmacêuticas
 LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
 DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-integrado-em-ciencias-fa
- rmaceuticas-258
+ rmaceuticas-259
 URL:https://lykeion.pt/e/provas-de-mestrado-integrado-em-ciencias-farmaceut
- icas-d480e.html
+ icas-d0bce.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminarios-clinicos-clinica-e-migracao-0fd68-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T163000
 SUMMARY:Seminários Clínicos – Clínica e Migração
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/seminarios-clinicos-clinica-
  e-migracao/
 URL:https://lykeion.pt/e/seminarios-clinicos-clinica-e-migracao-0fd68.html
-END:VEVENT
-BEGIN:VEVENT
-UID:7-o-encontro-de-estudantes-de-doutoramento-do-colegio-mente-d7b22-2026-
- 11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:7.o Encontro de Estudantes de Doutoramento do Colégio Mente-Céreb
- ro
-LOCATION:Universidade de Lisboa
-DESCRIPTION:https://colegiomente-cerebro.ulisboa.pt/evento/7o-encontro-de-e
- studantes-de-doutoramento-do-colegio-mente-cerebro
-URL:https://lykeion.pt/e/7-o-encontro-de-estudantes-de-doutoramento-do-cole
- gio-mente-d7b22.html
 END:VEVENT
 BEGIN:VEVENT
 UID:7o-workshop-em-dermatologia-cosmetica-e-estetica-bdcdb-2026-11-06@lagen
@@ -150,7 +137,7 @@ BEGIN:VEVENT
 UID:cerimonia-de-abertura-do-ano-letivo-ihmt-nova-1f4a6-2026-11-06@lagenda.
  pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T180000
 SUMMARY:Cerimónia de Abertura do Ano Letivo – IHMT NOVA
 LOCATION:Instituto de Higiene e Medicina Tropical
 DESCRIPTION:https://www.ihmt.unl.pt/events/cerimonia-de-abertura-do-ano-let
@@ -159,17 +146,17 @@ URL:https://lykeion.pt/e/cerimonia-de-abertura-do-ano-letivo-ihmt-nova-1f4a
  6.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ii-jornadas-de-analises-clinicas-ipo-de-coimbra-5e07e-2026-11-06@lagend
- a.pt
+UID:simposio-cientifico-2026-envelhecimento-e-longevidade-da-cie-021e9-2026
+ -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261106
-SUMMARY:II Jornadas de Análises Clínicas IPO de Coimbra
-LOCATION:Instituto Português de Oncologia de Coimbra Francisco Gentil\, Co
- imbra
-DESCRIPTION:https://www.ipocoimbra.min-saude.pt/eventos_ipo/iijornadasanali
- sesclinicas/
-URL:https://lykeion.pt/e/ii-jornadas-de-analises-clinicas-ipo-de-coimbra-5e
- 07e.html
+SUMMARY:Simpósio Científico 2026 - Envelhecimento e Longevidade: da Ciên
+ cia à Prática Farmacêutica
+LOCATION:Ordem dos Farmaceuticos
+DESCRIPTION:https://www.ordemfarmaceuticos.pt/pt/eventos/simposio-cientific
+ o-2026-envelhecimento-e-longevidade-da-ciencia-a-pratica-farmaceutica/
+URL:https://lykeion.pt/e/simposio-cientifico-2026-envelhecimento-e-longevid
+ ade-da-cie-021e9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2018-joint-meeting-spbd-b0cd1-2026-11-07@lagenda.pt
@@ -194,7 +181,7 @@ BEGIN:VEVENT
 UID:x-congresso-de-medicina-felina-geriatria-e-cuidados-paliativ-ea057-2026
  -11-07@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T090000
 SUMMARY:X Congresso de Medicina Felina: Geriatria e cuidados paliativos no 
  paciente felino
 LOCATION:Associação Portuguesa de Médicos Veterinários Especialistas em
@@ -218,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-ec67c-2026-11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T113000
 SUMMARY:Prova de Mestrado em Informática Médica
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -229,7 +216,7 @@ BEGIN:VEVENT
 UID:seminario-inteligencia-artificial-direito-e-medicina-edec7-2026-11-09@l
  agenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T094500
 SUMMARY:Seminário - Inteligência Artificial\, Direito e Medicina
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-inteligencia-art
@@ -238,20 +225,9 @@ URL:https://lykeion.pt/e/seminario-inteligencia-artificial-direito-e-medici
  na-edec7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Exposição fotográfica “Echoes in Concrete
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/exposicao-fotografica-echoes-c
- oncrete
-URL:https://lykeion.pt/e/exposicao-fotografica-echoes-in-concrete-bcd1a.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-mestrado-em-cuidados-paliativos-af09b-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Prova de Mestrado em Cuidados Paliativos
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -262,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-e2354-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Prova de Mestrado em Informática Médica
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -272,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-em-neurociencias-cc3bc-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T103000
 SUMMARY:Provas de Agregação em Neurociências
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -283,7 +259,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-doencas-tropicais-e-saude-global-l-513fa-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T143000
 SUMMARY:Provas de Doutoramento em Doenças Tropicais e Saúde Global • Le
  onardo Moerbeck da Costa Moreira
 LOCATION:Instituto de Higiene e Medicina Tropical
@@ -296,7 +272,7 @@ BEGIN:VEVENT
 UID:conferencia-are-qalys-still-relevant-delivering-the-quintupl-210fa-2026
  -11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T103000
 SUMMARY:CONFERÊNCIA | Are QALY’s Still Relevant? Delivering The Quintupl
  e Goal of Healthcare Through Spotlight-AQ Digital Health
 LOCATION:ISPA – Instituto Universitário
@@ -309,7 +285,7 @@ BEGIN:VEVENT
 UID:iv-jornadas-da-equipa-local-de-intervencao-santo-tirso-trofa-a2809-2026
  -11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T083000
 SUMMARY:IV Jornadas da Equipa Local de Intervenção Santo Tirso/Trofa
 LOCATION:Unidade Hospitalar de Famalicão\, Vila Nova de Famalicão
 DESCRIPTION:https://www.ulsmave.min-saude.pt/eventos/iv-jornadas-da-equipa-
@@ -318,26 +294,40 @@ URL:https://lykeion.pt/e/iv-jornadas-da-equipa-local-de-intervencao-santo-t
  irso-trofa-a2809.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
- 11-12@lagenda.pt
+UID:iv-jornadas-da-equipa-local-de-intervencao-santo-tirso-trofa-a2809-2026
+ -11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:4.o Congresso Nacional de Saúde Mental no Local de Trabalho
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de-saude
- -mental-no-local-de-trabalho
-URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
- -trabalho-d859d.html
+DTSTART;TZID=Europe/Lisbon:20261111T083000
+SUMMARY:IV Jornadas da Equipa Local de Intervenção Santo Tirso/Trofa
+LOCATION:Unidade Hospitalar de Santo Tirso\, Santo Tirso
+DESCRIPTION:https://www.ulsmave.min-saude.pt/eventos/iv-jornadas-da-equipa-
+ local-de-intervencao-santo-tirso-trofa/
+URL:https://lykeion.pt/e/iv-jornadas-da-equipa-local-de-intervencao-santo-t
+ irso-trofa-a2809.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-152c0-2026-11-12@lagenda.pt
+UID:prova-de-mestrado-em-informatica-medica-0ce58-2026-11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Conferência
+DTSTART;TZID=Europe/Lisbon:20261111T153000
+SUMMARY:Prova de Mestrado em Informática Médica
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19423
+URL:https://lykeion.pt/e/prova-de-mestrado-em-informatica-medica-0ce58.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-o-pai-na-familia-contemporanea-uma-reflexao-sobr-152c0-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T143000
+SUMMARY:CONFERÊNCIA | O pai na família contemporânea: Uma reflexão sobr
+ e perspectivas teóricas\, evidências empíricas e desafios metodológico
+ s
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/ciclo_de_conferencias_ispa_e
  nvolvimento_paterno_e_parentalidade/
-URL:https://lykeion.pt/e/conferencia-152c0.html
+URL:https://lykeion.pt/e/conferencia-o-pai-na-familia-contemporanea-uma-ref
+ lexao-sobr-152c0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:congresso-nacional-da-ordem-dos-medicos-5a5c8-2026-11-12@lagenda.pt
@@ -351,7 +341,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conversa-de-sofa-sobre-ia-e-saude-mental-e4efc-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T150000
 SUMMARY:Conversa de Sofá\, sobre IA e Saúde Mental
 LOCATION:Instituto Superior de Agronomia
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/conversa-de-sofa-sobre-ia-e-s
@@ -372,30 +362,32 @@ URL:https://lykeion.pt/e/iii-congresso-do-algarve-de-alzheimer-e-outras-dem
  encias-2867b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc2-2026-11-12@lagenda.
+ pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T090000
+SUMMARY:IV Encontro dos Farmacêuticos da Distribuição
+LOCATION:Ordem dos Farmaceuticos
+DESCRIPTION:https://www.ordemfarmaceuticos.pt/pt/eventos/iv-encontro-dos-fa
+ rmaceuticos-da-distribuicao/
+URL:https://lykeion.pt/e/iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc
+ 2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:jornadas-da-diabetes-do-cacb-beiras-diabetes-360o-e7bb1-2026-11-12@lage
  nda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Jornadas da Diabetes do CACB - Beiras Diabetes 360o
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24139
 URL:https://lykeion.pt/e/jornadas-da-diabetes-do-cacb-beiras-diabetes-360o-
  e7bb1.html
 END:VEVENT
 BEGIN:VEVENT
-UID:prova-publica-de-mestrado-1d671-2026-11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Prova Pública de Mestrado
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-477/
-URL:https://lykeion.pt/e/prova-publica-de-mestrado-1d671.html
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-c6ea1-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Prova de Mestrado em Informática Médica
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -441,17 +433,28 @@ UID:i-jornada-cientifica-sobre-exercicio-e-envelhecimento-a6ed6-2026-11-13@
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:I Jornada Científica sobre Exercício e Envelhecimento
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24194
 URL:https://lykeion.pt/e/i-jornada-cientifica-sobre-exercicio-e-envelhecime
  nto-a6ed6.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-de-mestrado-em-metabolismo-biopatologia-e-experimentac-ae43c-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T093000
+SUMMARY:Prova de Mestrado em Metabolismo - Biopatologia e Experimentação
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19483
+URL:https://lykeion.pt/e/prova-de-mestrado-em-metabolismo-biopatologia-e-ex
+ perimentac-ae43c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-marisa-maria-fernandes-de-aguiar-alem-e1e3d-2026-
  11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T110000
 SUMMARY:Provas de Mestrado de MARISA MARIA FERNANDES DE AGUIAR «Além das 
  Décadas: Trajetórias\, Motivações e Experiências dos Estudantes
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -459,6 +462,27 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  00631
 URL:https://lykeion.pt/e/provas-de-mestrado-de-marisa-maria-fernandes-de-ag
  uiar-alem-e1e3d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-internacional-inovacao-e-desafios-em-saude-materna-3a764-2026-1
+ 1-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T090000
+SUMMARY:Webinar Internacional "Inovação e Desafios em Saúde Materna"
+LOCATION:Escola Superior de Enfermagem de Lisboa
+DESCRIPTION:https://enfermagem.ulisboa.pt/node/9361
+URL:https://lykeion.pt/e/webinar-internacional-inovacao-e-desafios-em-saude
+ -materna-3a764.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xxi-congresso-aeffup-72db4-2026-11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:XXI Congresso AEFFUP
+LOCATION:Faculdade de Farmácia da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/ffup/pt/noticias_geral.ver_noticia?P_NR=5
+ 2678
+URL:https://lykeion.pt/e/xxi-congresso-aeffup-72db4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:a-conversa-com-marion-nestle-64e5a-2026-11-13@lagenda.pt
@@ -485,7 +509,7 @@ BEGIN:VEVENT
 UID:grupo-de-estudos-em-diabetologia-organiza-webinar-no-dia-mun-3bd0c-2026
  -11-14@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T100000
 SUMMARY:Grupo de Estudos em Diabetologia organiza webinar no Dia Mundial da
   Diabetes (14 de novembro)!
 LOCATION:Associacao Portuguesa de Medicina Geral e Familiar
@@ -522,7 +546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-ciencias-forenses-9ebe4-2026-11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T143000
 SUMMARY:Prova de Mestrado em Ciências Forenses
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -530,9 +554,21 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
 URL:https://lykeion.pt/e/prova-de-mestrado-em-ciencias-forenses-9ebe4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-de-mestrado-em-evidencia-e-decisao-em-saude-5db4d-2026-11-16@lage
+ nda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T140000
+SUMMARY:Prova de Mestrado em Evidência e Decisão em Saúde
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19464
+URL:https://lykeion.pt/e/prova-de-mestrado-em-evidencia-e-decisao-em-saude-
+ 5db4d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-e0a2a-2026-11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Prova de Mestrado em Informática Médica
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -543,7 +579,7 @@ BEGIN:VEVENT
 UID:aula-aberta-sobre-comunicacao-e-envelhecimento-em-contexto-r-22ff7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T183000
 SUMMARY:Aula Aberta sobre Comunicação e envelhecimento em contexto: regis
  tos de um trabalho de campo
 LOCATION:Escola Superior de Comunicação Social
@@ -556,7 +592,7 @@ BEGIN:VEVENT
 UID:ciclo-de-palestras-em-atividade-fisica-e-saude-adaptacion-sa-fbcfd-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:Ciclo de Palestras em Atividade Física e Saúde | Adaptación\, sa
  lud y transferencia: nuestra experiencia en ejercicio oncológico y cronic
  idad
@@ -570,7 +606,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-em-metabolismo-clinica-e-experimentaca-e7477-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T103000
 SUMMARY:Prova de Doutoramento em Metabolismo - Clínica e Experimentação
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -582,7 +618,7 @@ BEGIN:VEVENT
 UID:prova-de-mestrado-em-ciencias-forenses-juliana-raquel-silva-dab93-2026-
  11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:Prova de Mestrado em Ciências Forenses | Juliana Raquel Silva Leit
  e
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -594,7 +630,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-fisioterapia-caceb-2026-11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T140000
 SUMMARY:Provas de Doutoramento em Fisioterapia
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fadeup/pt/noticias_geral.ver_noticia?P_NR
@@ -604,7 +640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1o-congresso-internacional-de-acupuntura-97975-2026-11-18@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:1o Congresso Internacional de Acupuntura
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
  eira de Azeméis
@@ -617,7 +653,7 @@ BEGIN:VEVENT
 UID:prova-de-mestrado-em-cuidados-de-saude-primarios-bc7ff-2026-11-18@lagen
  da.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:Prova de Mestrado em Cuidados de Saúde Primários
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -629,7 +665,7 @@ BEGIN:VEVENT
 UID:prova-de-mestrado-em-medicina-e-oncologia-moleculares-bb2b5-2026-11-18@
  lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T143000
 SUMMARY:Prova de Mestrado em Medicina e Oncologia Moleculares
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
@@ -663,7 +699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-bfcdd-2026-11-18@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T010000
 SUMMARY:Workshop
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto

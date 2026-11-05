@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:05-11-26-aula-aberta-6dea8-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:05.11.26 Aula aberta
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-doutoramento-em-soci
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:06-11-26-prova-de-doutoramento-06-novembro-gratuito-faculdad-6a43c-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T111500
 SUMMARY:06.11.26 Prova de Doutoramento 06 novembro Gratuito Faculdade de Ec
  onomia da Universidade de Coimbra - Sala dos Atos
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06-11-26-research-seminar-8ff98-2026-11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T140000
 SUMMARY:06.11.26 Research Seminar
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/research-seminar-gender-inequali
@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:13-11-26-research-seminar-b7b71-2026-11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:13.11.26 Research Seminar
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/research-seminar-predict-or-to-b

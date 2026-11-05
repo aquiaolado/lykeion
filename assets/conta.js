@@ -6,6 +6,7 @@
 (function () {
   "use strict";
   const B = (window.LG && LG.base) || "/", AC = (window.LG && LG.ac != null) ? LG.ac : "academia/", API = B + "conta/api.php";
+  const LY = !!(window.LG && LG.ly);  // em lykeion.pt (5/11/2026): página da conta só com o que é do Lykeion; a conta é a mesma da Lagenda
   const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const ler = (k, v) => { try { return JSON.parse(localStorage.getItem(k)) || v; } catch (_) { return v; } };
   const gravar = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (_) {} };
@@ -86,7 +87,7 @@
   seguirLykeion();
   function lykeionEditor(c) {
     const g = lyk(), n = g.inst.length + g.areas.length + g.listas.length;
-    return `<h2 id="lykeion">Lykeion: universidades e ciência</h2><p class="sub">${n ? `Segue ${g.inst.length} ${g.inst.length === 1 ? "instituição" : "instituições"}, ${g.areas.length} ${g.areas.length === 1 ? "área" : "áreas"} e ${g.listas.length} ${g.listas.length === 1 ? "lista" : "listas"}. ` : "Ainda não segue nenhuma instituição nem área. "}` +
+    return `<h2 id="lykeion">${LY ? "O que segue" : "Lykeion: a agenda da ciência"}</h2><p class="sub">${n ? `Segue ${g.inst.length} ${g.inst.length === 1 ? "instituição" : "instituições"}, ${g.areas.length} ${g.areas.length === 1 ? "área" : "áreas"} e ${g.listas.length} ${g.listas.length === 1 ? "lista" : "listas"}. ` : "Ainda não segue nenhuma instituição nem área. "}` +
       `<a href="${B}${AC}instituicoes/">Escolher instituições</a> · <a href="${B}${AC}listas/">escolher listas e áreas</a></p>` +
       (c ? `<label class="chk"><input type="checkbox" id="glyka"${g.avisos === false ? "" : " checked"}> Avisar-me por email dos eventos novos do que sigo</label>
       <label class="chk"><input type="checkbox" id="glyks"${g.semanal === false ? "" : " checked"}> Receber à segunda-feira a semana académica <a href="${B}conta/lykeion.php?ver" target="_blank" rel="noopener">(ver)</a></label>` : "");
@@ -128,7 +129,7 @@
     servidor = true; conta = j.conta; google = j.google;
     if (conta) {
       if (conta.gostos && Object.keys(conta.gostos).length) { gostos = Object.assign({ cats: [], bairros: [], salas: [], artistas: [], onde: [], avisos: true, livre: false }, conta.gostos); gravar("lagenda-gostos", gostos); }
-      else if (gostos.cats.length || gostos.salas.length || gostos.bairros.length || gostos.artistas.length) gravarGostos(); // os gostos deste aparelho passam para a conta
+      else if (gostos.cats.length || gostos.salas.length || gostos.bairros.length || gostos.artistas.length || (gostos.lyk && (gostos.lyk.inst || []).concat(gostos.lyk.areas || [], gostos.lyk.listas || []).length)) gravarGostos(); // os gostos deste aparelho passam para a conta
       const locais = ler("lagenda-guardados", []);
       const novos = locais.filter(x => !j.guardados.includes(x));
       if (novos.length) post({ acao: "juntar", guardados: novos }).catch(() => {});
@@ -285,6 +286,7 @@
   // ---- página da conta ----
   function paginaConta() {
     const raiz = document.getElementById("conta"); if (!raiz) return;
+    if (LY) return contaLykeion(raiz);
     const msg = location.hash === "#expirado" ? '<p class="aviso">Esse link já foi usado ou passou de prazo. Peça outro.</p>' : location.hash === "#entrou" ? '<p class="aviso ok">Entrou. Bem-vindo ao lagenda.</p>' : "";
     if (!servidor) { raiz.innerHTML = '<p class="sub">As contas ainda não estão ligadas neste endereço. Os seus gostos e guardados ficam, entretanto, neste aparelho.</p>' + editor(null); ligarEditor(); return; }
     if (!conta) {
@@ -332,6 +334,43 @@
     document.getElementById("apagar1").addEventListener("click", () => { document.getElementById("apagar2").hidden = false; });
     document.getElementById("apagar3").addEventListener("click", () => post({ acao: "apagar" }).then(() => { ["lagenda-gostos", "lagenda-guardados", "lagenda-vistos"].forEach(k => { try { localStorage.removeItem(k); } catch (_) {} }); location.href = B; }));
     ligarEditor();
+  }
+  // ---- a conta em lykeion.pt: entrar, o que segue no Lykeion, avisos e a semana académica; sem salas, artistas nem amigos da Lagenda ----
+  function contaLykeion(raiz) {
+    const msg = location.hash === "#expirado" ? '<p class="aviso">Esse link já foi usado ou passou de prazo. Peça outro.</p>' : location.hash === "#entrou" ? '<p class="aviso ok">Entrou. Bem-vindo ao Lykeion.</p>' : "";
+    const form = c => `<form id="flyk" class="gostos">${lykeionEditor(c)}${c ? "" : '<p class="sub">Entre com o seu email para receber os avisos e a semana académica.</p>'}` +
+      (c ? '<p class="acoes"><button class="bt prim">Gravar</button> <span id="rlyk" class="sub" aria-live="polite"></span></p>' : "") + "</form>";
+    if (!servidor) { raiz.innerHTML = '<p class="sub">As contas ainda não estão ligadas neste endereço. O que segue fica, entretanto, neste aparelho.</p>' + form(null); return; }
+    if (!conta) {
+      raiz.innerHTML = msg + `<div class="entrar"><div><h2>Entrar</h2><p>Sem palavra-passe: enviamos-lhe um link por email.</p>
+        <form id="fentrar" class="linha"><label class="vis" for="email">Email</label><input id="email" type="email" required autocomplete="email" placeholder="o.seu@email.pt"><button class="bt prim">Enviar link</button></form>
+        <p id="rentrar" class="sub" aria-live="polite"></p>${google ? '<div id="gbotao"></div>' : ""}
+        <p class="sub">Com conta, as instituições e áreas que segue acompanham-no em todos os aparelhos, avisamos por email dos eventos novos e, à segunda-feira, mandamos a semana académica. É a mesma conta da Lagenda. <a href="${B}privacidade.html">Privacidade</a>.</p></div></div>` + form(null);
+      document.getElementById("fentrar").addEventListener("submit", ev => {
+        ev.preventDefault(); const r = document.getElementById("rentrar"), em = document.getElementById("email").value.trim();
+        r.textContent = "A enviar…";
+        post({ acao: "entrar", email: em, voltar: B + "conta.html#entrou" }).then(() => { r.textContent = `Enviámos um link para ${em}. Abra-o neste aparelho para entrar (vale durante uma hora).`; })
+          .catch(e => { r.textContent = e.message; });
+      });
+      if (google) {
+        const s = document.createElement("script"); s.src = "https://accounts.google.com/gsi/client"; s.async = true;
+        s.onload = () => { window.google && window.google.accounts.id.initialize({ client_id: google, callback: r => post({ acao: "google", credencial: r.credential }).then(() => location.reload()).catch(e => alert(e.message)) });
+          window.google.accounts.id.renderButton(document.getElementById("gbotao"), { theme: "outline", size: "large", text: "continue_with", locale: "pt-PT" }); };
+        document.head.appendChild(s);
+      }
+      return;
+    }
+    raiz.innerHTML = msg + `<p class="sub">Entrou como <b>${esc(conta.email)}</b> · <button class="lnk" id="sair">Sair</button></p>` + form(conta) +
+      `<details class="perigo"><summary>Apagar a conta</summary><p>Apaga a conta e tudo o que está ligado a ela, aqui e na Lagenda (é a mesma conta). Não dá para desfazer.</p><button class="bt" id="apagar1">Quero apagar</button><span id="apagar2" hidden> Tem a certeza? <button class="bt perigo" id="apagar3">Sim, apagar tudo</button></span></details>`;
+    document.getElementById("sair").addEventListener("click", () => post({ acao: "sair" }).then(() => location.reload()));
+    document.getElementById("flyk").addEventListener("submit", ev => {
+      ev.preventDefault();
+      gostos.lyk = Object.assign({}, lyk(), { avisos: document.getElementById("glyka").checked, semanal: document.getElementById("glyks").checked });
+      const r = document.getElementById("rlyk"); r.textContent = "A gravar…";
+      gravarGostos().then(() => { r.textContent = "Gravado."; });
+    });
+    document.getElementById("apagar1").addEventListener("click", () => { document.getElementById("apagar2").hidden = false; });
+    document.getElementById("apagar3").addEventListener("click", () => post({ acao: "apagar" }).then(() => { ["lagenda-gostos", "lagenda-guardados", "lagenda-vistos"].forEach(k => { try { localStorage.removeItem(k); } catch (_) {} }); location.href = B; }));
   }
   function editor(c) {
     return `<form id="fgostos" class="gostos"><h2>Do que gosta</h2><div class="lin" id="gcats"></div>

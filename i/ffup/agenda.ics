@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Farmácia da Universidade do Porto (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:xxi-congresso-aeffup-72db4-2026-11-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:XXI Congresso AEFFUP
+LOCATION:Faculdade de Farmácia da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/ffup/pt/noticias_geral.ver_noticia?P_NR=5
+ 2678
+URL:https://lykeion.pt/e/xxi-congresso-aeffup-72db4.html
+END:VEVENT
+END:VCALENDAR

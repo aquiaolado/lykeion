@@ -110,7 +110,7 @@ function montar(array $u, string $titulo, array $blocos): array {
   $html = '<!doctype html><html lang="pt-PT"><body style="margin:0;background:#F3EFE6"><div style="max-width:600px;margin:0 auto;padding:24px 18px;font:15px/1.5 Arial,sans-serif;color:#1D2A23">'
     . '<div style="font:400 30px Georgia,serif"><a href="' . $h($LYK) . '" style="color:#1D2A23;text-decoration:none;border-bottom:3px solid #B4532A">Lykeion</a></div>'
     . '<h1 style="font:400 24px/1.25 Georgia,serif;margin:18px 0 6px">' . $h($titulo) . '</h1>' . $corpo
-    . '<p style="color:#5E6A62;font-size:12px;margin-top:30px">Recebe este email porque segue instituições ou áreas no Lykeion, a agenda das universidades do país (um projeto da Lagenda). '
+    . '<p style="color:#5E6A62;font-size:12px;margin-top:30px">Recebe este email porque segue instituições ou áreas no Lykeion, a agenda da ciência do país (um projeto da Lagenda). '
     . '<a href="' . $h($URL . 'conta.html#lykeion') . '" style="color:#5E6A62">Mudar o que segue</a> · <a href="' . $h($sair) . '" style="color:#5E6A62">Deixar de receber</a></p>'
     . '</div></body></html>';
   return [$txt, $html, $sair];

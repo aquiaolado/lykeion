@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:workshop-c64a7-2026-11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T020000
 SUMMARY:Workshop
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
@@ -19,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-a1e58-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T020000
 SUMMARY:Workshop
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-2e64f-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T093000
 SUMMARY:Workshop
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-cb646-2026-11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T093000
 SUMMARY:Workshop
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-7f14e-2026-11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Webinar
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-bfcdd-2026-11-18@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T010000
 SUMMARY:Workshop
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto

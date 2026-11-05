@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:lancamento-do-livro-life-skills-da-autolideranca-ao-talento-2b916-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T180000
 SUMMARY:Lançamento do Livro “life Skills: da Autoliderança AO Talento d
  a Liderança Organizacional” de Ferreira Cascão
 LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:lancamento-do-livro-o-contrato-de-volume-e-o-transporte-mari-1cbdf-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T120000
 SUMMARY:Lançamento do livro 'O contrato de volume e o transporte marítimo
   de mercadorias'
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 UID:apresentacao-do-livro-filosofia-educacao-e-politica-17-00-ca-6c993-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T170000
 SUMMARY:Apresentação do livro “Filosofia\, Educação e Política” 17
  :00 | Campus da Penteada\, Sala do Senado
 LOCATION:Universidade da Madeira\, Funchal
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 UID:apresentacao-do-livro-arqueologia-nos-territorios-da-literat-fc926-2026
  -11-08@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T160000
 SUMMARY:Apresentação do livro Arqueologia nos Territórios da Literatura 
  08-NOV-2026
 LOCATION:Local na página do evento\, Moimenta da Beira
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 UID:lancamento-do-livro-o-governo-dos-outros-poder-e-diferenca-n-83d23-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T120000
 SUMMARY:Lançamento do livro: "O Governo dos Outros. Poder e Diferença no 
  Império Português"
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -156,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-verde-0d7a0-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Apresentação do Livro Verde
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/apresentacao-do-livro-verde-d

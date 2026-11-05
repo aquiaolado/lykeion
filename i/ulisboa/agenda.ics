@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:jorge-dias-memorial-lecture-a-antropologia-historica-do-colo-0aba4-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T190000
 SUMMARY:Jorge Dias Memorial Lecture - A antropologia histórica do colonial
  ismo português em Moçambique no século XX. Cidade\, Corpo e Cultura Pop
  ular
@@ -33,23 +33,10 @@ URL:https://lykeion.pt/e/quinta-exposicao-china-education-expo-cee-2026-d20
  61.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7-o-encontro-de-estudantes-de-doutoramento-do-colegio-mente-d7b22-2026-
- 11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:7.o Encontro de Estudantes de Doutoramento do Colégio Mente-Céreb
- ro
-LOCATION:Universidade de Lisboa
-DESCRIPTION:https://colegiomente-cerebro.ulisboa.pt/evento/7o-encontro-de-e
- studantes-de-doutoramento-do-colegio-mente-cerebro
-URL:https://lykeion.pt/e/7-o-encontro-de-estudantes-de-doutoramento-do-cole
- gio-mente-d7b22.html
-END:VEVENT
-BEGIN:VEVENT
 UID:encontro-anual-da-associacao-de-antigos-alunos-da-universida-265c2-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T173000
 SUMMARY:Encontro Anual da Associação de Antigos Alunos da Universidade de
   Lisboa - Alumni ULisboa
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
@@ -62,7 +49,7 @@ BEGIN:VEVENT
 UID:programa-de-desenvolvimento-de-investigacao-do-capp-oficinas-b0866-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T173000
 SUMMARY:Programa de Desenvolvimento de Investigação do CAPP: Oficinas de 
  Escrita e Publicação 2026
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -76,7 +63,7 @@ BEGIN:VEVENT
 UID:seminario-de-logica-matematica-was-principia-mathematica-a-f-025cf-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T150000
 SUMMARY:Seminário de Lógica Matemática "Was Principia Mathematica a fail
  ure? Alonzo Church as historian of logic: Frege\, Russell\, and Ramsey"
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
@@ -98,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17o-encontro-de-leitura-125cf-2026-11-07@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T150000
 SUMMARY:17o Encontro de Leitura
 LOCATION:Centro de Estudos Clássicos
 DESCRIPTION:https://centroclassicos.letras.ulisboa.pt/event/17o-encontro-de
@@ -129,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jornadas-de-outono-de-maeg-86b64-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T144500
 SUMMARY:Jornadas de Outono de MAEG
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/jornadas-de-outono-de-maeg-7/
@@ -151,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-verde-0d7a0-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Apresentação do Livro Verde
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/apresentacao-do-livro-verde-d
@@ -161,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conversa-de-sofa-sobre-ia-e-saude-mental-e4efc-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T150000
 SUMMARY:Conversa de Sofá\, sobre IA e Saúde Mental
 LOCATION:Instituto Superior de Agronomia
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/conversa-de-sofa-sobre-ia-e-s
@@ -173,7 +160,7 @@ BEGIN:VEVENT
 UID:instituto-superior-de-agronomia-marca-presenca-na-web-summit-0f17c-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T143000
 SUMMARY:Instituto Superior de Agronomia marca presença na Web Summit 2026
 LOCATION:Instituto Superior de Agronomia
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/instituto-superior-de-agronom
@@ -184,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:research-seminar-fb22c-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T113000
 SUMMARY:Research Seminar
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/research-seminar-financial-de
@@ -195,7 +182,7 @@ BEGIN:VEVENT
 UID:seminario-da-ia-generativa-a-ia-agentica-impactos-na-advocac-8c6a2-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T170000
 SUMMARY:Seminário | Da IA Generativa à IA Agêntica: impactos na advocaci
  a e na consultoria jurídica
 LOCATION:Faculdade de Direito da Universidade de Lisboa
@@ -207,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-55e40-2026-11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Webinar
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/webinar-retomar-o-controlo-do
@@ -215,10 +202,21 @@ DESCRIPTION:https://www.iseg.ulisboa.pt/event/webinar-retomar-o-controlo-do
 URL:https://lykeion.pt/e/webinar-55e40.html
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-internacional-inovacao-e-desafios-em-saude-materna-3a764-2026-1
+ 1-13@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T090000
+SUMMARY:Webinar Internacional "Inovação e Desafios em Saúde Materna"
+LOCATION:Escola Superior de Enfermagem de Lisboa
+DESCRIPTION:https://enfermagem.ulisboa.pt/node/9361
+URL:https://lykeion.pt/e/webinar-internacional-inovacao-e-desafios-em-saude
+ -materna-3a764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ultima-licao-do-professor-doutor-francisco-louca-c84f5-2026-11-13@lagen
  da.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T180000
 SUMMARY:Última Lição do Professor Doutor Francisco Louçã
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/ultima-licao-do-professor-dou
@@ -230,7 +228,7 @@ BEGIN:VEVENT
 UID:lisbon-classic-seminars-rosalba-dimundo-christopher-star-e-m-3c305-2026
  -11-15@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261115
+DTSTART;TZID=Europe/Lisbon:20261115T100000
 SUMMARY:Lisbon Classic Seminars: Rosalba Dimundo\, Christopher Star e Marti
  n Dinter
 LOCATION:Centro de Estudos Clássicos
@@ -242,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:phd-open-days-2026-99d70-2026-11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T170000
 SUMMARY:PhD Open Days 2026
 LOCATION:ISEG – Lisbon School of Economics and Management
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/phd-open-days-2026/
@@ -251,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-co-criacao-54988-2026-11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Workshop de Co-Criação
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-de-co-criacao-te
@@ -261,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-co-criacao-54988-2026-11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Workshop de Co-Criação
 LOCATION:Instituto Superior Técnico
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-de-co-criacao-te
@@ -272,7 +270,7 @@ BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:das 09:30 às 14:30 Conferência | AI Readiness ISEG\, Auditório C
  GD (Edifício Quelhas)
 LOCATION:ISEG – Lisbon School of Economics and Management

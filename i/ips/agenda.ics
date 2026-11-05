@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:lancamento-do-livro-life-skills-da-autolideranca-ao-talento-2b916-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T180000
 SUMMARY:Lançamento do Livro “life Skills: da Autoliderança AO Talento d
  a Liderança Organizacional” de Ferreira Cascão
 LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-e-debate-os-sonhos-nao-moram-aqui-08824-2026-11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T110000
 SUMMARY:Exposição e debate “Os sonhos não moram aqui
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
 DESCRIPTION:https://www.unips.pt/eventos/instalacao-artistica-os-sonhos-nao
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:seminario-do-servico-publico-a-eficiencia-privada-d5850-2026-11-08@lage
  nda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T100000
 SUMMARY:Seminário | do Serviço Público À Eficiência Privada
 LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
 DESCRIPTION:https://esce.unips.pt/eventos/seminario-do-servico-publico-a-ef
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:curso-breve-42c2c-2026-11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T120000
 SUMMARY:Curso breve
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
 DESCRIPTION:https://www.unips.pt/eventos/curso-breve-focus-groups-in-qualit

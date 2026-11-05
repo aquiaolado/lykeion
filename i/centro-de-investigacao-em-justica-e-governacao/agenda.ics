@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:v-congresso-iberico-de-direito-da-familia-e-das-sucessoes-9104c-2026-11
  -05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T023000
 SUMMARY:V Congresso Ibérico de Direito da Família e das Sucessões
 LOCATION:Centro de Investigação em Justiça e Governação\, Braga
 DESCRIPTION:https://www.jusgov.uminho.pt/event/v-congresso-iberico-de-direi
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vii-congresso-juscrim-bd652-2026-11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T103000
 SUMMARY:VII Congresso Juscrim
 LOCATION:Centro de Investigação em Justiça e Governação\, Braga
 DESCRIPTION:https://www.jusgov.uminho.pt/event/vii-congresso-juscrim/

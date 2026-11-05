@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:astana-amadeo-de-vicente-alves-do-o-no-ciclo-de-cinema-portu-46ecf-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T150000
 SUMMARY:Astana: Amadeo\, de Vicente Alves do Ó no Ciclo de Cinema Portugu
  ês
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 UID:atenas-xiii-oficina-de-traducao-literaria-coletiva-dedicada-46ecf-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T180000
 SUMMARY:Atenas: XIII Oficina de Tradução Literária Coletiva\, dedicada 
  à poesia de Júlio Pomar
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 UID:berlim-ciclo-de-cinema-portugues-ha-cinema-na-embaixada-6fb40-2026-11-0
  5@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T180000
 SUMMARY:Berlim: Ciclo de Cinema Português “Há Cinema na Embaixada
 LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 UID:paris-escrever-angola-no-feminino-entre-historia-e-literatur-9207b-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T180000
 SUMMARY:Paris: Escrever Angola no feminino\, entre História e literatura -
   Encontro com Ana Paula Tavares\, Prémio Camões 2025
 LOCATION:Camões - Instituto da Cooperação e da Língua

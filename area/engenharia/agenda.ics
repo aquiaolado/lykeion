@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:seminario-chirality-across-scales-helicoidal-cellulose-struc-2dabc-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:Seminário - Chirality Across Scales: Helicoidal Cellulose Structur
  es from Nature to Adaptive Materials
 LOCATION:Instituto Superior de Engenharia de Lisboa
@@ -47,8 +47,7 @@ UID:speedfest-jornadas-de-desporto-motorizado-b7d52-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:SpeedFest - Jornadas de Desporto Motorizado
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24193
 URL:https://lykeion.pt/e/speedfest-jornadas-de-desporto-motorizado-b7d52.ht
  ml
@@ -57,7 +56,7 @@ BEGIN:VEVENT
 UID:the-future-of-food-sustainability-engineering-ethics-seminar-782cf-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:The future of food: sustainability\, engineering & ethics Seminári
  o
 LOCATION:Centro de Investigação e Estudos de Sociologia
@@ -69,7 +68,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-online-order-allocation-from-problem-2e129-2026-
  11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T103000
 SUMMARY:Provas de Doutoramento: ''Online Order Allocation: From Problem Cla
  ssification to Decision Support''
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
@@ -82,7 +81,7 @@ BEGIN:VEVENT
 UID:workshop-de-azeites-aprenda-a-provar-e-avaliar-0e32a-2026-11-07@lagenda
  .pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T090000
 SUMMARY:Workshop de Azeites: aprenda a provar e avaliar
 LOCATION:Ordem dos Engenheiros
 DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/workshop-de-azeit
@@ -94,7 +93,7 @@ BEGIN:VEVENT
 UID:8-e-9-de-novembro-conferencia-a-reforma-do-codigo-civil-e-a-5e013-2026-
  11-08@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T120000
 SUMMARY:8 e 9 de novembro: Conferência “A Reforma do Código Civil e a I
  gualdade de Género 1977-2017"
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -119,7 +118,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-miguel-de-freitas-goncalves-o-cus-aa74a-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T110000
 SUMMARY:Provas de Mestrado de LUIS MIGUEL DE FREITAS GONÇALVES «O Custo T
  emporal da Pendularidade em Santo Tirso: Transporte Público vs Transporte
   Individual»
@@ -133,7 +132,7 @@ BEGIN:VEVENT
 UID:auditorio-marques-de-almeida-1-o-forum-de-inovacao-e-sustent-6c08c-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Auditório Marques de Almeida 1.o Fórum de Inovação e Sustentabi
  lidade
 LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
@@ -146,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Open Day NOS
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -157,7 +156,7 @@ BEGIN:VEVENT
 UID:palestra-patologia-e-reabilitacao-da-construcao-casos-de-est-3858b-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T110000
 SUMMARY:Palestra: Patologia e Reabilitação da Construção – Casos de e
  studo
 LOCATION:Instituto Superior de Engenharia de Lisboa
@@ -169,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-a1e58-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T020000
 SUMMARY:Workshop
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
@@ -178,20 +177,28 @@ DESCRIPTION:https://www.ciimar.up.pt/events/geospatial-information-manageme
 URL:https://lykeion.pt/e/workshop-a1e58.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
+UID:workshop-ieee-aess-spacetech-b0d60-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Workshop IEEE AESS SpaceTech
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/workshop-ieee-aess-spacetech
+URL:https://lykeion.pt/e/workshop-ieee-aess-spacetech-b0d60.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-11@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T094500
 SUMMARY:2.a Conferência Anual do NOVA Green Lab
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
- ova-green-lab
-URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-21c63.html
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/2-a-conferencia-anual-do-nova-green-lab/
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-f78ee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-liposomes-as-delivery-vectors-of-nucl-0c9bb-2026
  -11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T100000
 SUMMARY:Provas de Doutoramento: ''Liposomes as delivery vectors of Nucleic 
  Acid Mimics (NAMs) into foodborne pathogens''
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
@@ -204,7 +211,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-tomas-joao-vieira-de-sampaio-alem-do-m-55e6c-2026
  -11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T100000
 SUMMARY:Provas de Mestrado de TOMÁS JOÃO VIEIRA DE SAMPAIO « Além do ma
  nual: A adaptação e criação de materiais didáticos e a sua relação 
  com a perceção dos alunos sobre a motivação e o envolvimento nas aulas
@@ -213,6 +220,19 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  01131
 URL:https://lykeion.pt/e/provas-de-mestrado-de-tomas-joao-vieira-de-sampaio
  -alem-do-m-55e6c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-setor-dos-transportes-os-biofuels-na-transicao-e-9f24e-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Conferência : Setor dos Transportes – Os “BioFuels” na Trans
+ ição Energética
+LOCATION:Ordem dos Engenheiros
+DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/conferencia-setor
+ -dos-transportes-os-biofuels-na-transicao-energetica/
+URL:https://lykeion.pt/e/conferencia-setor-dos-transportes-os-biofuels-na-t
+ ransicao-e-9f24e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-setor-dos-transportes-os-biofuels-na-transicao-e-99239-2026
@@ -231,7 +251,7 @@ BEGIN:VEVENT
 UID:palestra-a-obra-mais-dificil-da-minha-carreira-profissional-b67d3-2026-
  11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T110000
 SUMMARY:Palestra: A obra mais difícil da minha carreira profissional
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/palestra-obra-mais-dificil-da-minha
@@ -243,7 +263,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-susana-maria-vieira-ramos-a-utilizacao-8ca5f-2026
  -11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T113000
 SUMMARY:Provas de Mestrado de SUSANA MARIA VIEIRA RAMOS «A utilização da
   Inteligência Artificial Generativa na conceção de materiais didáticos
   para o ensino de Português Língua Estrangeira»
@@ -267,7 +287,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-demand-supply-integrated-planning-for-41c7e-2026
  -11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:Provas de Doutoramento: ''Demand-Supply Integrated Planning for Onl
  ine Grocery Retail: From Strategy to Operations''
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
@@ -279,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-cb646-2026-11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T093000
 SUMMARY:Workshop
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
@@ -291,7 +311,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-demand-supply-integrated-planning-for-96d53-2026
  -11-14@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T140000
 SUMMARY:Provas de Doutoramento: ''Demand-Supply Integrated Planning for Onl
  ine Grocery Retail: From Strategy to Operations''
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
@@ -314,7 +334,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ivo-filipe-silva-maia-modelo-de-susten-48a1c-2026
  -11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Provas de Mestrado de IVO FILIPE SILVA MAIA «Modelo de Sustentabil
  idade Cultural Híbrido Relatório de Estágio no Espaço Agra»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -327,7 +347,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-on-the-role-of-dry-fibre-preform-auto-da4af-2026
  -11-18@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T093000
 SUMMARY:Provas de Doutoramento: ''On the role of dry fibre preform automati
  on on the quality and variability of liquid composite moulding''
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto

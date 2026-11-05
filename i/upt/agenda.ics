@@ -6,73 +6,69 @@ X-WR-CALNAME:UPT (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:22nd-european-conference-on-management-leadership-and-govern-f4468-2026
+UID:22nd-european-conference-on-management-leadership-and-govern-3a249-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T090000
 SUMMARY:22nd European Conference on Management Leadership and Governance
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/22nd-european-conference-on-manage
- ment-leadership-and-governance-3/
+DESCRIPTION:https://www.upt.pt/agenda/22nd-european-conference-on-managemen
+ t-leadership-and-governance/
 URL:https://lykeion.pt/e/22nd-european-conference-on-management-leadership-
- and-govern-f4468.html
+ and-govern-3a249.html
 END:VEVENT
 BEGIN:VEVENT
-UID:22nd-european-conference-on-management-leadership-and-govern-f4468-2026
+UID:22nd-european-conference-on-management-leadership-and-govern-3a249-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T090000
 SUMMARY:22nd European Conference on Management Leadership and Governance
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/22nd-european-conference-on-manage
- ment-leadership-and-governance-4/
+DESCRIPTION:https://www.upt.pt/agenda/22nd-european-conference-on-managemen
+ t-leadership-and-governance-2/
 URL:https://lykeion.pt/e/22nd-european-conference-on-management-leadership-
- and-govern-f4468.html
+ and-govern-3a249.html
 END:VEVENT
 BEGIN:VEVENT
-UID:inaugural-lecture-of-the-international-relations-and-diploma-e8d2d-2026
+UID:aula-aberta-a-justica-antes-do-estado-o-final-da-idade-media-a8e3d-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Inaugural Lecture of the International Relations and Diplomacy mast
- er’s degree
+DTSTART;TZID=Europe/Lisbon:20261106T100000
+SUMMARY:Aula Aberta “A Justiça Antes do Estado: O Final da Idade Média 
+ em Portugal
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/inaugural-lecture-of-the-internati
- onal-relations-and-diplomacy-masters-degree/
-URL:https://lykeion.pt/e/inaugural-lecture-of-the-international-relations-a
- nd-diploma-e8d2d.html
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-a-justica-antes-do-estado
+ -o-final-da-idade-media-em-portugal/
+URL:https://lykeion.pt/e/aula-aberta-a-justica-antes-do-estado-o-final-da-i
+ dade-media-a8e3d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:open-class-central-asia-strategic-player-or-geopolitical-che-e44d9-2026
+UID:aula-aberta-asia-central-ator-estrategico-ou-tabuleiro-geopo-691bf-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Open class “Central Asia: strategic player or geopolitical chessb
- oard?
+DTSTART;TZID=Europe/Lisbon:20261106T090000
+SUMMARY:Aula Aberta “Ásia Central: Ator Estratégico ou Tabuleiro Geopol
+ ítico?
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/open-class-central-asia-strategic-
- player-or-geopolitical-chessboard/
-URL:https://lykeion.pt/e/open-class-central-asia-strategic-player-or-geopol
- itical-che-e44d9.html
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-asia-central-ator-estrate
+ gico-ou-tabuleiro-geopolitico/
+URL:https://lykeion.pt/e/aula-aberta-asia-central-ator-estrategico-ou-tabul
+ eiro-geopo-691bf.html
 END:VEVENT
 BEGIN:VEVENT
-UID:open-class-justice-before-the-state-the-end-of-the-middle-ag-0e83a-2026
- -11-06@lagenda.pt
+UID:prova-publica-de-mestrado-4c0a6-2026-11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Open class “Justice before the state: the end of the Middle Ages 
- in Portugal
+DTSTART;TZID=Europe/Lisbon:20261106T150000
+SUMMARY:Prova Pública de Mestrado
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/en/agenda/open-class-justice-before-the-stat
- e-the-end-of-the-middle-ages-in-portugal/
-URL:https://lykeion.pt/e/open-class-justice-before-the-state-the-end-of-the
- -middle-ag-0e83a.html
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-476/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-4c0a6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:viii-congresso-internacional-de-politicas-publicas-e-desenvo-cc2ca-2026
  -11-06@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTART;TZID=Europe/Lisbon:20261106T180000
 SUMMARY:VIII Congresso Internacional de Políticas Públicas e Desenvolvime
  nto Social
 LOCATION:Universidade Portucalense\, Porto
@@ -82,10 +78,36 @@ URL:https://lykeion.pt/e/viii-congresso-internacional-de-politicas-publicas
  -e-desenvo-cc2ca.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T143000
+SUMMARY:Aula Aberta “Intervenção Psicológica nas Perturbações do Com
+ portamento Alimentar
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/intervencao-psicologica-nas-perturbac
+ oes-do-comportamento-alimentar/
+URL:https://lykeion.pt/e/aula-aberta-intervencao-psicologica-nas-perturbaco
+ es-do-comp-c6dc5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-gestao-de-conflitos-interpessoais-pelos-estudant-9eb99-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T140000
+SUMMARY:Aula Aberta “Gestão de Conflitos Interpessoais pelos Estudantes 
+ do Ensino Superior: Contributos da Mediação
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-gestao-de-conflitos-inter
+ pessoais-pelos-estudantes-do-ensino-superior-contributos-da-mediacao/
+URL:https://lykeion.pt/e/aula-aberta-gestao-de-conflitos-interpessoais-pelo
+ s-estudant-9eb99.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-investigar-e-intervir-no-terreno-relatos-e-aprendiz-9b194-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Workshop “Investigar e Intervir no Terreno: Relatos e Aprendizage
  ns de um Ano de Estágio em Educação Social
 LOCATION:Universidade Portucalense\, Porto
@@ -95,56 +117,25 @@ URL:https://lykeion.pt/e/workshop-investigar-e-intervir-no-terreno-relatos-
  e-aprendiz-9b194.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-26-8220-fortificacoes-e-patrimonio-militar-ciencia-06590-2026
+UID:seminario-fortificacoes-e-patrimonio-militar-ciencia-patrimo-06590-2026
  -11-11@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Seminário %26#8220\,Fortificações e Património Militar - Ciênc
- ia\, Património e Sociedade: Desafios do Futuro
+DTSTART;TZID=Europe/Lisbon:20261111T143000
+SUMMARY:Seminário “Fortificações e Património Militar – Ciência\, 
+ Património e Sociedade: Desafios do Futuro
 LOCATION:Universidade Portucalense\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-fortificacoes-e-patrimonio-
  militar-ciencia-patrimonio-e-sociedade-desafios-do-futuro/
-URL:https://lykeion.pt/e/seminario-26-8220-fortificacoes-e-patrimonio-milit
- ar-ciencia-06590.html
-END:VEVENT
-BEGIN:VEVENT
-UID:prova-publica-de-mestrado-1d671-2026-11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Prova Pública de Mestrado
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-477/
-URL:https://lykeion.pt/e/prova-publica-de-mestrado-1d671.html
+URL:https://lykeion.pt/e/seminario-fortificacoes-e-patrimonio-militar-cienc
+ ia-patrimo-06590.html
 END:VEVENT
 BEGIN:VEVENT
 UID:26-8220-legal-debate-87a54-2026-11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T173000
 SUMMARY:26#8220\,Legal Debate
 LOCATION:Universidade Portucalense\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/legal-debate/
 URL:https://lykeion.pt/e/26-8220-legal-debate-87a54.html
-END:VEVENT
-BEGIN:VEVENT
-UID:prova-publica-de-mestrado-47410-2026-11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Prova Pública de Mestrado
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-478/
-URL:https://lykeion.pt/e/prova-publica-de-mestrado-47410.html
-END:VEVENT
-BEGIN:VEVENT
-UID:viii-congresso-internacional-de-politicas-publicas-e-desenvo-cc2ca-2026
- -11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:VIII Congresso Internacional de Políticas Públicas e Desenvolvime
- nto Social
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/viii-congresso-internacional-de-polit
- icas-publicas-e-desenvolvimento-social-2/
-URL:https://lykeion.pt/e/viii-congresso-internacional-de-politicas-publicas
- -e-desenvo-cc2ca.html
 END:VEVENT
 END:VCALENDAR

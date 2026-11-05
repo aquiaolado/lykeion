@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:workshop-discover-strategy-consulting-with-mckinsey-company-d1733-2026-
  11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T170000
 SUMMARY:Workshop: Discover Strategy Consulting with McKinsey & Company
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Open Day NOS
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:nova-math-statistics-and-risk-management-seminar-d8568-2026-11-11@lagen
  da.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:NOVA Math] Statistics and Risk Management Seminar
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada

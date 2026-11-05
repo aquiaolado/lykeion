@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:conferencia-os-proximos-cinco-anos-793ca-2026-11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T113000
 SUMMARY:Conferência "Os próximos cinco anos"
 LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
  iada\, Porto
@@ -19,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-de-abertura-cdbbe-2026-11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T091500
 SUMMARY:Conferência de Abertura
 LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
  iada\, Porto

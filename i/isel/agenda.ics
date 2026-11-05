@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:seminario-chirality-across-scales-helicoidal-cellulose-struc-2dabc-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T140000
 SUMMARY:Seminário - Chirality Across Scales: Helicoidal Cellulose Structur
  es from Nature to Adaptive Materials
 LOCATION:Instituto Superior de Engenharia de Lisboa
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 UID:palestra-patologia-e-reabilitacao-da-construcao-casos-de-est-3858b-2026
  -11-10@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T110000
 SUMMARY:Palestra: Patologia e Reabilitação da Construção – Casos de e
  studo
 LOCATION:Instituto Superior de Engenharia de Lisboa
@@ -32,10 +32,19 @@ URL:https://lykeion.pt/e/palestra-patologia-e-reabilitacao-da-construcao-ca
  sos-de-est-3858b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:workshop-ieee-aess-spacetech-b0d60-2026-11-10@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Workshop IEEE AESS SpaceTech
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/workshop-ieee-aess-spacetech
+URL:https://lykeion.pt/e/workshop-ieee-aess-spacetech-b0d60.html
+END:VEVENT
+BEGIN:VEVENT
 UID:palestra-a-obra-mais-dificil-da-minha-carreira-profissional-b67d3-2026-
  11-12@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T110000
 SUMMARY:Palestra: A obra mais difícil da minha carreira profissional
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/palestra-obra-mais-dificil-da-minha
@@ -47,7 +56,7 @@ BEGIN:VEVENT
 UID:workshop-open-source-tools-for-analog-and-mixed-signal-ic-de-cf423-2026
  -11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T093000
 SUMMARY:Workshop "Open-Source Tools for Analog and Mixed-Signal IC Design"
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/workshop-open-source-tools-analog-a

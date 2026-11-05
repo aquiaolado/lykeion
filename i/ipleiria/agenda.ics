@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:encontro-anual-do-projeto-sape-2-0-da-ulo-485d3-2026-11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T090000
 SUMMARY:Encontro Anual do Projeto SAPE 2.0 da ULO
 LOCATION:Politécnico de Leiria\, Leiria
 DESCRIPTION:https://www.ipleiria.pt/encontro-anual-do-projeto-sape-2-0-da-u

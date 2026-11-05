@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:lancamento-do-livro-o-contrato-de-volume-e-o-transporte-mari-1cbdf-2026
  -11-05@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T120000
 SUMMARY:Lançamento do livro 'O contrato de volume e o transporte marítimo
   de mercadorias'
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 UID:seminario-perspectivas-do-direito-na-historia-047d6-2026-11-05@lagenda.
  pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T120000
 SUMMARY:Seminário Perspectivas do Direito na História
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-19-de-ja
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 UID:seminario-de-historia-europeia-do-direito-e-justica-3d598-2026-11-05@la
  genda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+DTSTART;TZID=Europe/Lisbon:20261105T120000
 SUMMARY:Seminário de História Europeia do Direito e Justiça
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-16-de-de
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 UID:8-e-9-de-novembro-conferencia-a-reforma-do-codigo-civil-e-a-5e013-2026-
  11-08@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T120000
 SUMMARY:8 e 9 de novembro: Conferência “A Reforma do Código Civil e a I
  gualdade de Género 1977-2017"
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 UID:lancamento-do-livro-o-governo-dos-outros-poder-e-diferenca-n-83d23-2026
  -11-09@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T120000
 SUMMARY:Lançamento do livro: "O Governo dos Outros. Poder e Diferença no 
  Império Português"
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -69,20 +69,10 @@ URL:https://lykeion.pt/e/lancamento-do-livro-o-governo-dos-outros-poder-e-d
  iferenca-n-83d23.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:2.a Conferência Anual do NOVA Green Lab
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
- ova-green-lab
-URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-21c63.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-protecao-de-menores-em-ambientes-digitais-a95ee-2026-11-12@
  lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T120000
 SUMMARY:Aula Aberta: Proteção de menores em ambientes digitais
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/open-class-protection-of-m
@@ -94,7 +84,7 @@ BEGIN:VEVENT
 UID:13-e-14-de-novembro-i-congresso-luso-brasileiro-de-justica-a-aba53-2026
  -11-13@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T120000
 SUMMARY:13 e 14 de novembro: I Congresso Luso-Brasileiro de Justiça Admini
  strativa e Fiscal
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -106,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:annual-lecture-2023-c0e9e-2026-11-14@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T120000
 SUMMARY:Annual Lecture 2023
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/annual-lecture-2023
@@ -115,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-webinarios-de-protecao-de-dados-23-60936-2026-11-14@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T120000
 SUMMARY:Ciclo de webinários de Proteção de Dados ’23
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/ciclo-de-webinarios-de-pro
@@ -126,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-curso-breve-a-revisao-do-etaf-e-do-cpta-20fa2-2026-11-16@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T120000
 SUMMARY:II Curso Breve A Revisão do ETAF e do CPTA
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/ii-curso-breve-a-revisao-d
@@ -137,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:i-congresso-luso-cabo-verdiano-de-direito-b54f5-2026-11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T120000
 SUMMARY:I Congresso Luso-Cabo-Verdiano de Direito
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/i-congresso-luso-cabo-verd
@@ -148,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:milano-21t-meeting-809d9-2026-11-17@lagenda.pt
 DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T120000
 SUMMARY:Milano 21T Meeting
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/milano-20t-meeting

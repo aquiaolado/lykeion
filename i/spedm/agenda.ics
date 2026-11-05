@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPEDM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-c1713-2026-11-18@lagenda.pt
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T180000
+SUMMARY:Webinar
+LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
+DESCRIPTION:https://www.spedm.pt/pt/agenda/webinar-nutricao-e-cancro
+URL:https://lykeion.pt/e/webinar-c1713.html
+END:VEVENT
+END:VCALENDAR
