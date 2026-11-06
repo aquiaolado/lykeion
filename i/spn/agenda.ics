@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPN (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:er2024-encontro-renal-2024-a-edicao-de-2024-do-encontro-rena-36fb8-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:ER2024 Encontro Renal 2024 A edição de 2024 do Encontro Renal dec
+ orrerá entre os dias 14 e 16 de novembro no Centro de Congressos da Madei
+ ra\, na ilha do Funchal.
+LOCATION:Sociedade Portuguesa de Nefrologia
+DESCRIPTION:https://www.spnefro.pt/noticias/encontro-renal-2024
+URL:https://lykeion.pt/e/er2024-encontro-renal-2024-a-edicao-de-2024-do-enc
+ ontro-rena-36fb8.html
+END:VEVENT
+END:VCALENDAR

@@ -6,17 +6,6 @@ X-WR-CALNAME:Humanidades e Artes (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:apresentacao-de-livro-os-majores-de-maio-a4a85-2026-11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T150000
-SUMMARY:Apresentação de livro “Os Majores de Maio
-LOCATION:Museu do Abade de Baçal\, Bragança
-DESCRIPTION:https://www.mabadebacal.gov.pt/event-item/apresentacao-de-livro
- -os-majores-de-maio/
-URL:https://lykeion.pt/e/apresentacao-de-livro-os-majores-de-maio-a4a85.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 UID:berlim-ciclo-de-cinema-portugues-ha-cinema-na-embaixada-6fb40-2026-11-0
  6@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -54,19 +43,6 @@ DESCRIPTION:https://citcem.org/eventos/chamada-de-artigos-cem-cultura-espac
  o-e-memoria-n-o-23/
 URL:https://lykeion.pt/e/cem-cultura-espaco-e-memoria-n-o-23-chamada-de-art
  igos-da9c3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:call-for-papers-10-a-conferencia-internacional-de-assuntos-c-6131d-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Call for papers: 10.ª Conferência Internacional de Assuntos Conte
- mporâneos em Arquitetura e Urbanismo
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
-DESCRIPTION:https://www.ubi.pt/Evento/24200
-URL:https://lykeion.pt/e/call-for-papers-10-a-conferencia-internacional-de-
- assuntos-c-6131d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cartografias-poeticas-por-helena-cardoso-exposicao-b2aba-2026-11-06@lag
@@ -177,17 +153,6 @@ URL:https://lykeion.pt/e/encontro-co-designing-nature-based-solutions-with-
  and-for-pe-ec805.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-call-for-papers-working-clil-2027-2fb5a-2026-11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Encontro: [Call for Papers] Working CLIL 2027
-LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/call-for-papers-working-clil-20
- 27
-URL:https://lykeion.pt/e/encontro-call-for-papers-working-clil-2027-2fb5a.h
- tml
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-b0b52-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -198,9 +163,19 @@ DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-doacoes-na-ar
 URL:https://lykeion.pt/e/exposicao-b0b52.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-13c96-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T180000
+SUMMARY:Exposição
+LOCATION:Instituto de Hidráulica e Recursos Hídricos\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-selos-postais-impress
+ oes-da-natureza
+URL:https://lykeion.pt/e/exposicao-13c96.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-a9a54-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T090000
+DTSTART;VALUE=DATE:20261106
 SUMMARY:Exposição
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
@@ -230,6 +205,17 @@ DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-structural-s
  e_id=20260928090000
 URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
  de-formas-ab38b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-de-pintura-pintar-sem-tinta-em-cores-na-cmtg-e8e5f-2026-11-06
+ @lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Exposição de Pintura “Pintar sem tinta... em cores" na CMTG
+LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
+DESCRIPTION:
+URL:https://lykeion.pt/e/exposicao-de-pintura-pintar-sem-tinta-em-cores-na-
+ cmtg-e8e5f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-7c0a9-2026-
@@ -317,6 +303,17 @@ URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-olhares-a-proposito-do-dia-mundial-da-fotografia-3ca51-2026-1
+ 1-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T100000
+SUMMARY:Exposição “Olhares... a propósito do Dia Mundial da Fotografia
+LOCATION:Centro de Estudos Ibéricos\, Guarda
+DESCRIPTION:https://www.cei.pt/ca-o/
+URL:https://lykeion.pt/e/exposicao-olhares-a-proposito-do-dia-mundial-da-fo
+ tografia-3ca51.html
+END:VEVENT
+BEGIN:VEVENT
 UID:haia-exposicao-rui-chafes-x-alberto-giacometti-gris-vide-cri-bd362-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -329,20 +326,6 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  -cris-iii-no-museu-beelden-aan-zee
 URL:https://lykeion.pt/e/haia-exposicao-rui-chafes-x-alberto-giacometti-gri
  s-vide-cri-bd362.html
-END:VEVENT
-BEGIN:VEVENT
-UID:idade-da-inocencia-cinco-filmes-cinco-retratos-de-infancia-e-cfd4e-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T213000
-SUMMARY:Idade da Inocência: cinco filmes\, cinco retratos de infância e j
- uventude – 1o Ciclo de Cinema ao Ar Livre
-LOCATION:Museu do Abade de Baçal\, Bragança
-DESCRIPTION:https://www.mabadebacal.gov.pt/event-item/idade-da-inocencia-ci
- nco-filmes-cinco-retratos-de-infancia-e-juventude-1o-ciclo-de-cinema-ao-ar
- -livre/
-URL:https://lykeion.pt/e/idade-da-inocencia-cinco-filmes-cinco-retratos-de-
- infancia-e-cfd4e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:inscricoes-workshop-hands-on-science-a-ciencia-nao-fala-por-e7150-2026-
@@ -358,17 +341,17 @@ URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
 END:VEVENT
 BEGIN:VEVENT
-UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-b33e4-2026
+UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T090000
+DTSTART;VALUE=DATE:20261106
 SUMMARY:Inteligência Arquitetónica " >Exposição | Anuária 25.26 - Inte
  ligência Arquitetónica
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
  5485
 URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
- -inteligen-b33e4.html
+ -inteligen-a9a54.html
 END:VEVENT
 BEGIN:VEVENT
 UID:madrid-exposicao-camoes-vida-obra-e-permanencia-na-cultura-h-0f0e2-2026
@@ -408,6 +391,19 @@ LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
 DESCRIPTION:https://www.ubi.pt/Evento/24181
 URL:https://lykeion.pt/e/mes-da-filosofia-celebrado-no-requisite-e-leia-da-
  biblioteca-a3ddc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nov-06-nov-06-apresentacao-do-livro-filosofia-educacao-e-pol-6c993-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T170000
+SUMMARY:Nov 06 nov 06 Apresentação do livro «Filosofia\, Educação e Po
+ lítica» 17:00 | Campus da Penteada\, Sala do Senado
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://www.uma.pt/noticias/apresentacao-do-livro-filosofia-edu
+ cacao-e-politica
+URL:https://lykeion.pt/e/nov-06-nov-06-apresentacao-do-livro-filosofia-educ
+ acao-e-pol-6c993.html
 END:VEVENT
 BEGIN:VEVENT
 UID:novi-sad-ciclo-de-cinema-portugues-51e99-2026-11-06@lagenda.pt
@@ -597,17 +593,17 @@ URL:https://lykeion.pt/e/toquio-proxima-sessao-do-6o-workshop-de-traducao-l
  iteraria-e-dc37f.html
 END:VEVENT
 BEGIN:VEVENT
-UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
- 11-06@lagenda.pt
+UID:webinar-como-fazer-uma-apresentacao-de-sucesso-via-zoom-meet-8bb2b-2026
+ -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T150000
-SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
- ce\, Uncaptured City
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/visita-orientada-a-exposicao-ed
- son-chagas-intimate-distance-uncaptured-city/
-URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
- -distance-dd687.html
+DTSTART;TZID=Europe/Lisbon:20261106T100000
+SUMMARY:Webinar – Como fazer uma apresentação de sucesso – via Zoom m
+ eeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-fazer-uma
+ -apresentacao-de-sucesso-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-como-fazer-uma-apresentacao-de-sucesso-via
+ -zoom-meet-8bb2b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshops-de-pintura-e-desenho-2026-2027-5cd6c-2026-11-06@lagenda.pt
@@ -706,18 +702,18 @@ URL:https://lykeion.pt/e/seminario-de-lingua-gestual-portuguesa-em-emergenc
  ia-pre-hos-45214.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-ela-e-um-vibrar-aeroelastico-o-choro-que-chora-a-b-34f08-2026
+UID:webinar-como-pesquisar-e-recuperar-recursos-de-informacao-co-91508-2026
  -11-07@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Seminário: Ela é? Um Vibrar Aeroelástico\, o Choro que Chora a B
- ruxa que Chora cada Bruxa que Chora\, ou uma Estória de Alguma Maneira
-LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
-DESCRIPTION:https://i2ads.up.pt/eventos/ela-e-um-vibrar-aeroelastico-o-chor
- o-que-chora-a-bruxa-que-chora-cada-bruxa-que-chora-ou-uma-estoria-de-algum
- a-maneira/
-URL:https://lykeion.pt/e/seminario-ela-e-um-vibrar-aeroelastico-o-choro-que
- -chora-a-b-34f08.html
+DTSTART;TZID=Europe/Lisbon:20261107T153000
+SUMMARY:Webinar – Como pesquisar e recuperar recursos de informação com
+  a Biblioteca do Conhecimento Online (b-on) – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-pesquisar
+ -e-recuperar-recursos-de-informacao-com-a-biblioteca-do-conhecimento-onlin
+ e-b-on-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-como-pesquisar-e-recuperar-recursos-de-inf
+ ormacao-co-91508.html
 END:VEVENT
 BEGIN:VEVENT
 UID:do-lugar-comum-a-criacao-artistica-debate-sobre-praticas-art-d03bd-2026
@@ -795,6 +791,30 @@ URL:https://lykeion.pt/e/seminario-a-protecao-juridica-da-religiao-em-portu
  gal-8bc32.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciclo-de-conferencias-2026-nos-40-anos-do-centro-portugues-d-be8ba-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T150000
+SUMMARY:Ciclo de Conferências 2026 “Nos 40 anos do Centro Português de 
+ Serigrafia Celebrando a Democratização da Arte em Portugal a Homenagem a
+  António e João Prates
+LOCATION:Academia Nacional de Belas Artes
+DESCRIPTION:https://academiabelasartes.pt/ciclo-de-conferencias-2026-nos-40
+ -anos-do-centro-portugues-de-serigrafia-celebrando-a-democratizacao-da-art
+ e-em-portugal-a-homenagem-a-antonio-e-joao-prates/
+URL:https://lykeion.pt/e/ciclo-de-conferencias-2026-nos-40-anos-do-centro-p
+ ortugues-d-be8ba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:contar-historias-com-sons-4b60b-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Contar Histórias com Sons
+LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
+DESCRIPTION:https://www.cenjor.pt
+URL:https://lykeion.pt/e/contar-historias-com-sons-4b60b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontro-clup-26-do-legado-ao-desafio-da-inovacao-50-anos-01dd1-2026-11
  -09@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -805,6 +825,29 @@ DESCRIPTION:https://www.up.pt/eventos/event/clup-26-do-legado-ao-desafio-da
  -inovacao
 URL:https://lykeion.pt/e/encontro-clup-26-do-legado-ao-desafio-da-inovacao-
  50-anos-01dd1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:executar-cake-design-af750-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Executar cake design
+LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
+ as
+DESCRIPTION:https://www.cfpsa.pt/courses/show/18332.html?order_by=-1
+URL:https://lykeion.pt/e/executar-cake-design-af750.html
+END:VEVENT
+BEGIN:VEVENT
+UID:forum-de-debate-intervir-no-patrimonio-edificado-incorporand-41543-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T093000
+SUMMARY:Fórum de debate: Intervir no património edificado\, incorporando 
+ o passado no futuro
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/news/forum-de-debate-intervir-no-patrimonio-
+ edificado-incorporando-o-passado-no-futuro
+URL:https://lykeion.pt/e/forum-de-debate-intervir-no-patrimonio-edificado-i
+ ncorporand-41543.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ganhar-asas-ciclo-de-workshops-5c3aa-2026-11-09@lagenda.pt
@@ -910,16 +953,17 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-tiago-mendes-gomes-do-record
  ar-ao-ques-ff48b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-arquipelago-ilhas-14-15-e-16-partilha-de-investiga-65d5a-2026
- -11-09@lagenda.pt
+UID:1-o-congresso-internacional-gestores-e-administradores-etica-97263-2026
+ -11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T123000
-SUMMARY:Seminário: Arquipélago: Ilhas #14\, #15 e #16 — Partilha de Inv
- estigação em Práticas Artísticas que Emergem do Território
-LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
-DESCRIPTION:https://i2ads.up.pt/eventos/arquipelago-ilhas-14-15-e-16/
-URL:https://lykeion.pt/e/seminario-arquipelago-ilhas-14-15-e-16-partilha-de
- -investiga-65d5a.html
+DTSTART;TZID=Europe/Lisbon:20261110T143000
+SUMMARY:1.º Congresso Internacional Gestores e Administradores - Ética Co
+ rporativa e Interesse Público
+LOCATION:Instituto Superior Miguel Torga\, Coimbra
+DESCRIPTION:https://www.ismt.pt/events/1o-congresso-internacional-gestores-
+ e-administradores-etica-corporativa-e-interesse-publico.html
+URL:https://lykeion.pt/e/1-o-congresso-internacional-gestores-e-administrad
+ ores-etica-97263.html
 END:VEVENT
 BEGIN:VEVENT
 UID:das-18-00-as-20-00-conferencia-ferreira-de-castro-referencia-84711-2026
@@ -1289,6 +1333,21 @@ URL:https://lykeion.pt/e/coloquio-internacional-imagens-sonoras-dialogos-en
  tre-cinema-c574f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-de-carlos-costa-performance-na-paisagem-em-comun-81681-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T180000
+SUMMARY:Conferência de Carlos Costa: “Performance na paisagem\, em comun
+ idade e para sítios específicos: uma viagem pelas dramaturgias do Visõe
+ s Úteis nos primeiros 25 anos do século XXI
+LOCATION:Escola Superior Artística do Porto\, Porto
+DESCRIPTION:https://esap.pt/atividades_dep/conferencia-de-carlos-costa-perf
+ ormance-na-paisagem-em-comunidade-e-para-sitios-especificos-uma-viagem-pel
+ as-dramaturgias-do-visoes-uteis-nos-primeiros-25-anos-do-seculo-xxi/
+URL:https://lykeion.pt/e/conferencia-de-carlos-costa-performance-na-paisage
+ m-em-comun-81681.html
+END:VEVENT
+BEGIN:VEVENT
 UID:designing-impactful-proposals-for-adaptation-and-resilience-25c77-2026-
  11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -1331,6 +1390,16 @@ DESCRIPTION:https://www.museuolaria.pt/pt/evento/ii-jornadas-nortear-a-cera
 URL:https://lykeion.pt/e/ii-jornadas-nortear-a-ceramica-2026-741f4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ii-jornadas-nortear-a-ceramica-57727-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:II Jornadas “Nortear a Cerâmica
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/conferences/congresses/ii-jornadas-nortear-a
+ -ceramica
+URL:https://lykeion.pt/e/ii-jornadas-nortear-a-ceramica-57727.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-dionisse-vieira-da-silva-subjectivity-6362e-2026-
  11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -1344,17 +1413,17 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-dionisse-vieira-da-silva-sub
  jectivity-6362e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-ines-daniela-silva-valente-rare-as-the-7abbb-2026
+UID:provas-de-mestrado-de-ines-daniela-silva-vicente-rare-as-the-7abbb-2026
  -11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T170000
-SUMMARY:Provas de Mestrado de Inês Daniela Silva Valente «Rare as the gli
- mmer of a comet in the sky": a comparative analysis of Taylor Swift's and 
- Bárbara Tinoco's songwriting and public image»
+SUMMARY:Provas de Mestrado de Inês Daniela Silva Vicente «Rare as the gli
+ mmer of a comet in the sky: a comparative analysis of Taylor Swift's and B
+ árbara Tinoco's songwriting and public image»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  01653
-URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-daniela-silva-valente-r
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-daniela-silva-vicente-r
  are-as-the-7abbb.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1457,17 +1526,15 @@ URL:https://lykeion.pt/e/13-november-2026-xtremers-symposium-on-body-as-int
  erface-for-5c074.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-materialidade-posse-obrigacao-a-colecao-como-div-07650-2026
- -11-13@lagenda.pt
+UID:conferencia-106b3-2026-11-13@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Conferência | Materialidade\, posse\, obrigação: a coleção com
- o dívida
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/conferencia-materia
- lidade-posse-obrigacao-a-colecao-como-divida/
-URL:https://lykeion.pt/e/conferencia-materialidade-posse-obrigacao-a-coleca
- o-como-div-07650.html
+DTSTART;TZID=Europe/Lisbon:20261113T173000
+SUMMARY:Conferência
+LOCATION:Biblioteca Nacional de Portugal\, Alvalade
+DESCRIPTION:https://www.bnportugal.gov.pt/index.php?option=com_content&view
+ =article&id=2194%3Aconferencia-por-ocasiao-da-estreia-moderna-de-obra-prim
+ a-de-niccolo-jommelli&catid=178%3A2026&Itemid=2179&lang=pt
+URL:https://lykeion.pt/e/conferencia-106b3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conversas-na-capela-uma-rua-cheia-de-arqueologia-8761a-2026-11-13@lagen
@@ -1573,6 +1640,19 @@ URL:https://lykeion.pt/e/sex-13-nov-18-30-fri-13-nov-18-30-filmes-e-convers
  a-films-an-fcf62.html
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-mendeley-revisitado-descubra-o-novo-mendeley-referen-df43a-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T153000
+SUMMARY:Webinar – Mendeley revisitado: descubra o novo Mendeley Reference
+  Manager – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-mendeley-revis
+ itado-descubra-o-novo-mendeley-reference-manager-via-zoom-meeting-3/
+URL:https://lykeion.pt/e/webinar-mendeley-revisitado-descubra-o-novo-mendel
+ ey-referen-df43a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:annual-lecture-2023-c0e9e-2026-11-14@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T120000
@@ -1605,17 +1685,6 @@ DESCRIPTION:https://sismografo.org/pt/programacao/encontros-arte-e-trabalho
 URL:https://lykeion.pt/e/encontros-arte-e-trabalho-8ffe3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:obra-dadiva-exposicao-coletiva-de-artes-plasticas-d47cb-2026-11-14@lage
- nda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Obra-Dádiva — Exposição Coletiva de Artes Plásticas
-LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
-DESCRIPTION:https://i2ads.up.pt/eventos/obra-dadiva/
-URL:https://lykeion.pt/e/obra-dadiva-exposicao-coletiva-de-artes-plasticas-
- d47cb.html
-END:VEVENT
-BEGIN:VEVENT
 UID:palestra-os-romanos-debaixo-da-quinta-de-sao-domingos-benesp-5529f-2026
  -11-14@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -1627,6 +1696,20 @@ DESCRIPTION:https://www.mun-guarda.pt/agenda-de-eventos/palestra-os-romanos
  -debaixo-da-quinta-de-sao-domingos-benespera/
 URL:https://lykeion.pt/e/palestra-os-romanos-debaixo-da-quinta-de-sao-domin
  gos-benesp-5529f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-ler-a-organizacao-casos-e-experiencias-de-diagnost-1b7cd-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T100000
+SUMMARY:Seminário | LER a Organização: Casos e Experiências de Diagnós
+ tico Organizacional e Gestão da Mudança em Recursos Humanos
+LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
+DESCRIPTION:https://esce.unips.pt/eventos/seminario-ler-a-organizacao-casos
+ -e-experiencias-de-diagnostico-organizacional-e-gestao-da-mudanca-em-recur
+ sos-humanos/
+URL:https://lykeion.pt/e/seminario-ler-a-organizacao-casos-e-experiencias-d
+ e-diagnost-1b7cd.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-fotografia-analogica-b5905-2026-11-14@lagenda.pt
@@ -1664,15 +1747,18 @@ URL:https://lykeion.pt/e/xvi-international-colloquium-arts-for-childhood-an
  d-social-a-3bdbe.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8ei-ea-encontro-internacional-sobre-educacao-artistica-6230d-2026-11-15
- @lagenda.pt
+UID:bruxelas-ciclo-de-conferencias-regards-croises-sur-la-langue-6fb40-2026
+ -11-16@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261115
-SUMMARY:8ei_ea — Encontro Internacional sobre Educação Artística
-LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
-DESCRIPTION:https://i2ads.up.pt/eventos/8ei_ea/
-URL:https://lykeion.pt/e/8ei-ea-encontro-internacional-sobre-educacao-artis
- tica-6230d.html
+DTSTART;TZID=Europe/Lisbon:20261116T150000
+SUMMARY:Bruxelas: Ciclo de conferências Regards croisés sur la langue\, l
+ a littérature et la culture portugaises
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/bruxelas-ciclo-de-conferencias-regards-croises-sur-la-la
+ ngue-la-litterature-et-la-culture-portugaises
+URL:https://lykeion.pt/e/bruxelas-ciclo-de-conferencias-regards-croises-sur
+ -la-langue-6fb40.html
 END:VEVENT
 BEGIN:VEVENT
 UID:jornal-arkivo-2233e-2026-11-16@lagenda.pt
@@ -1682,6 +1768,16 @@ SUMMARY:Jornal Arkivo
 LOCATION:Arquivo Municipal de Lisboa\, Campolide
 DESCRIPTION:https://www.agendalx.pt/events/event/jornal-arkivo/
 URL:https://lykeion.pt/e/jornal-arkivo-2233e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-59732-2026-11-16@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T143000
+SUMMARY:Lançamento do livro
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 6225
+URL:https://lykeion.pt/e/lancamento-do-livro-59732.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-moura-pinto-um-patrimonio-68f98-2026
@@ -1810,6 +1906,19 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
 URL:https://lykeion.pt/e/prova-de-mestrado-em-bioetica-77027.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-filipa-guedes-ornelas-viana-the-ni-d1712-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T140000
+SUMMARY:Provas de Mestrado de Ana Filipa Guedes Ornelas Viana ««The Night
+  Is Mine»: Privacy\, Identity\, and Resistance in The Handmaid's Tale»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
+ 02113
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-filipa-guedes-ornelas-vi
+ ana-the-ni-d1712.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-fabiana-laranjeira-mota-storytelling-e-82b32-2026
  -11-17@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -1906,6 +2015,19 @@ URL:https://lykeion.pt/e/41st-conference-on-design-of-circuits-and-integrat
  ed-systems-c6c7a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:apresentacao-do-livro-manual-de-arqueologia-de-la-arquitectu-a26f7-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T190000
+SUMMARY:Apresentação do livro «Manual de Arqueología de la Arquitectura
+ »
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/news/apresentacao-do-livro-manual-de-arqueol
+ ogia-de-la-arquitectura
+URL:https://lykeion.pt/e/apresentacao-do-livro-manual-de-arqueologia-de-la-
+ arquitectu-a26f7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-ecfaa-2026-11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261118
@@ -1954,6 +2076,19 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  01791
 URL:https://lykeion.pt/e/provas-de-mestrado-de-luis-filipe-barbosa-marques-
  trabalhos-9f0f1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-micael-andre-da-silva-leal-de-azevedo-8bbec-2026-
+ 11-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T110000
+SUMMARY:Provas de Mestrado de Micael André da Silva Leal de Azevedo Moura 
+ «Os Tabeliães do Duque de Guimarães (século XV)»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
+ 02211
+URL:https://lykeion.pt/e/provas-de-mestrado-de-micael-andre-da-silva-leal-d
+ e-azevedo-8bbec.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-maria-real-assuncao-contributo-da-1522c-2026
@@ -2107,6 +2242,19 @@ DESCRIPTION:https://chsc.uc.pt/eventos-chsc/coloquios-coimbra-historia-e-pa
 URL:https://lykeion.pt/e/coloquios-coimbra-historia-e-patrimonio-19a01.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conversas-com-a-academia-participacao-interculturalidade-e-m-b3656-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Conversas com a Academia: Participação\, Interculturalidade e Mud
+ ança Social
+LOCATION:Universidade Lusófona
+DESCRIPTION:https://www.ulusofona.pt/eventos/conversas-com-a-academia-parti
+ cipacao-interculturalidade-e-mudanca-social
+URL:https://lykeion.pt/e/conversas-com-a-academia-participacao-intercultura
+ lidade-e-m-b3656.html
+END:VEVENT
+BEGIN:VEVENT
 UID:corredor-do-edificio-principal-da-esac-exposicao-de-fotograf-3e2b7-2026
  -11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -2142,6 +2290,20 @@ DESCRIPTION:https://eurocid.mne.gov.pt/eventos/o-contributo-da-dimensao-atl
  antica-para-seguranca-internacional-no-contexto-do-papel-da-ue
 URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-70da
  6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nov-19-nov-19-xxviii-coloquio-de-outono-narrativas-e-represe-a0435-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Nov 19 nov 19 XXVIII Colóquio de Outono Narrativas e Representaç
+ ões Transculturais do Amor - Call for Papers Universidade do Minho\, Audi
+ tório ELACH
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://www.uma.pt/noticias/xxviii-coloquio-de-outono-narrativa
+ s-e-representacoes-transculturais-do-amor-call-for-papers
+URL:https://lykeion.pt/e/nov-19-nov-19-xxviii-coloquio-de-outono-narrativas
+ -e-represe-a0435.html
 END:VEVENT
 BEGIN:VEVENT
 UID:o-homem-a-sexualidade-no-seculo-xxi-2d75b-2026-11-19@lagenda.pt
@@ -2288,15 +2450,17 @@ URL:https://lykeion.pt/e/seminars-self-regulation-and-co-regulation-in-bios
  ynthesis-p-ac274.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-estacao-1-o-lugar-do-som-nas-artes-plasticas-5faef-2026-11-19
- @lagenda.pt
+UID:seminario-internacional-permanente-historia-social-a-norte-c-8350c-2026
+ -11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Seminário: Estação #1 — O Lugar do Som nas Artes Plásticas
-LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
-DESCRIPTION:https://i2ads.up.pt/eventos/o-lugar-do-som-nas-artes-plasticas/
-URL:https://lykeion.pt/e/seminario-estacao-1-o-lugar-do-som-nas-artes-plast
- icas-5faef.html
+DTSTART;TZID=Europe/Lisbon:20261119T173000
+SUMMARY:Seminário Internacional Permanente História Social a Norte: Como?
+  Minorias
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/conferences/seminars/seminario-internacional
+ -permanente-historia-social-a-norte-como-minorias
+URL:https://lykeion.pt/e/seminario-internacional-permanente-historia-social
+ -a-norte-c-8350c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-e-mesa-redonda-a-pintura-de-tereza-arriaga-tem-ddaeb-2026

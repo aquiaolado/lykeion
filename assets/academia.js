@@ -15,6 +15,25 @@
   const ler = (k, v) => { try { return JSON.parse(localStorage.getItem(k)) || v; } catch (_) { return v; } };
   const gravar = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (_) {} };
   const $ = id => document.getElementById(id);
+  // 6/11/2026: a entrada e as listas são geradas de noite; o que já passou sai à vista de quem visita (dias passados e,
+  // hoje, o que tem hora e acabou há mais de duas horas)
+  (() => {
+    const agora = new Date(), min = agora.getHours() * 60 + agora.getMinutes(), dia0 = iso(agora);
+    document.querySelectorAll(".li[data-fim]").forEach(a => {
+      const fim = a.dataset.fim, d = a.dataset.dia, m = /^(\d\d):(\d\d)/.exec(a.dataset.hr || "");
+      const passou = fim < dia0 || (d === dia0 && fim === dia0 && m && +m[1] * 60 + +m[2] + 120 < min);
+      if (!passou) return;
+      const rot = a.previousElementSibling;
+      a.remove();
+      if (rot && rot.classList.contains("rot") && !(rot.nextElementSibling && rot.nextElementSibling.classList.contains("li"))) rot.remove();
+    });
+    document.querySelectorAll(".lyk-bloco").forEach((b, n) => {
+      [...b.querySelectorAll(".li")].slice(+b.dataset.mostra || 99).forEach(a => a.remove());  // só os primeiros
+      b.querySelectorAll(".rot").forEach(r => { if (!(r.nextElementSibling && r.nextElementSibling.classList.contains("li"))) r.remove(); });
+      if (!b.querySelector(".li") && !b.querySelector(".vazio")) b.querySelector("h2").insertAdjacentHTML("afterend",
+        `<p class="vazio">${n === 0 ? "Já não há nada para hoje. Veja a semana." : "Os próximos aparecem na atualização desta noite."}</p>`);
+    });
+  })();
 
   fetch(B + "academia.json").then(r => r.json()).then(D => {
     const SUB = Object.fromEntries(D.subtipos.map(([s, n, f]) => [s, { n, f }]));

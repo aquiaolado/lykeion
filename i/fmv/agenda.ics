@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Medicina Veterinária da Universidade de Lisboa (
+ Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminario-pecuaria-digital-1bffe-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T090000
+SUMMARY:Seminário - Pecuária Digital
+LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
+DESCRIPTION:https://www.fmv.ulisboa.pt/pt/noticias/faculdade/seminario-pecu
+ aria-digital
+URL:https://lykeion.pt/e/seminario-pecuaria-digital-1bffe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:vi-congresso-da-sociedade-portuguesa-de-ciencias-em-animais-26643-2026-
+ 11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:VI Congresso da Sociedade Portuguesa de Ciências em Animais de Lab
+ oratório
+LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
+DESCRIPTION:https://www.fmv.ulisboa.pt/pt/noticias/faculdade/vi-congresso-d
+ a-sociedade-portuguesa-de-ciencias-em-animais-de-laboratorio
+URL:https://lykeion.pt/e/vi-congresso-da-sociedade-portuguesa-de-ciencias-e
+ m-animais-26643.html
+END:VEVENT
+END:VCALENDAR

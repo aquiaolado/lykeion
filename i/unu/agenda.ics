@@ -6,16 +6,17 @@ X-WR-CALNAME:UNU (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:2nd-next-generation-forum-for-gender-equality-our-well-being-cb477-2026
+UID:2nd-next-generation-forum-for-gender-equality-our-well-being-d48e6-2026
  -11-07@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T133000
 SUMMARY:2nd Next Generation Forum for Gender Equality “Our Well-being in 
  the Digital Age\, Paved by Gender Equality"
 LOCATION:United Nations University\, Guimarães
-DESCRIPTION:https://unu.edu/events
+DESCRIPTION:https://unu.edu/event/2nd-next-generation-forum-gender-equality
+ -our-well-being-digital-age-paved-gender-equality
 URL:https://lykeion.pt/e/2nd-next-generation-forum-for-gender-equality-our-
- well-being-cb477.html
+ well-being-d48e6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:unu-global-health-at-cop31-9be24-2026-11-09@lagenda.pt

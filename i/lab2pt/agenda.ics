@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:LAB2PT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:xlv-encontro-da-aphes-11186-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:XLV Encontro da APHES
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/conferences/congresses/xlv-encontro-da-aphes
+URL:https://lykeion.pt/e/xlv-encontro-da-aphes-11186.html
+END:VEVENT
+BEGIN:VEVENT
+UID:forum-de-debate-intervir-no-patrimonio-edificado-incorporand-41543-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T093000
+SUMMARY:Fórum de debate: Intervir no património edificado\, incorporando 
+ o passado no futuro
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/news/forum-de-debate-intervir-no-patrimonio-
+ edificado-incorporando-o-passado-no-futuro
+URL:https://lykeion.pt/e/forum-de-debate-intervir-no-patrimonio-edificado-i
+ ncorporand-41543.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-jornadas-nortear-a-ceramica-57727-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:II Jornadas “Nortear a Cerâmica
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/conferences/congresses/ii-jornadas-nortear-a
+ -ceramica
+URL:https://lykeion.pt/e/ii-jornadas-nortear-a-ceramica-57727.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-manual-de-arqueologia-de-la-arquitectu-a26f7-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T190000
+SUMMARY:Apresentação do livro «Manual de Arqueología de la Arquitectura
+ »
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/news/apresentacao-do-livro-manual-de-arqueol
+ ogia-de-la-arquitectura
+URL:https://lykeion.pt/e/apresentacao-do-livro-manual-de-arqueologia-de-la-
+ arquitectu-a26f7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-internacional-permanente-historia-social-a-norte-c-8350c-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T173000
+SUMMARY:Seminário Internacional Permanente História Social a Norte: Como?
+  Minorias
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/conferences/seminars/seminario-internacional
+ -permanente-historia-social-a-norte-como-minorias
+URL:https://lykeion.pt/e/seminario-internacional-permanente-historia-social
+ -a-norte-c-8350c.html
+END:VEVENT
+END:VCALENDAR

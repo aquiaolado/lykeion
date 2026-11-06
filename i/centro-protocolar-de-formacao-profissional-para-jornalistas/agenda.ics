@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro Protocolar de Formação Profissional para Jornalistas 
+ (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:contar-historias-com-sons-4b60b-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Contar Histórias com Sons
+LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
+DESCRIPTION:https://www.cenjor.pt
+URL:https://lykeion.pt/e/contar-historias-com-sons-4b60b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:introducao-ao-seo-e-geo-94b61-2026-11-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Introdução ao SEO e GEO
+LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
+DESCRIPTION:https://www.cenjor.pt
+URL:https://lykeion.pt/e/introducao-ao-seo-e-geo-94b61.html
+END:VEVENT
+END:VCALENDAR

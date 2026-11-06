@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:INCD (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:a-incd-no-encontro-da-rede-nacional-de-computacao-avancada-9c4c3-2026-1
+ 1-15@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:A INCD no Encontro da Rede Nacional de Computação Avançada
+LOCATION:Infraestrutura Nacional de Computação Distribuída / Centro Naci
+ onal de Computação Avançada.
+DESCRIPTION:https://www.incd.pt?p=noticias/index&lang=pt
+URL:https://lykeion.pt/e/a-incd-no-encontro-da-rede-nacional-de-computacao-
+ avancada-9c4c3.html
+END:VEVENT
+END:VCALENDAR

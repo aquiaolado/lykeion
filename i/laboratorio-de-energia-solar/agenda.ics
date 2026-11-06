@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Laboratório de Energia Solar (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:energia-em-jogo-os-desafios-da-transicao-energetica-cae0a-2026-11-06@la
+ genda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T013000
+SUMMARY:Energia em Jogo: os desafios da transição energética
+LOCATION:Laboratório de Energia Solar
+DESCRIPTION:https://www.lneg.pt/energia-em-jogo-os-desafios-da-transicao-en
+ ergetica/
+URL:https://lykeion.pt/e/energia-em-jogo-os-desafios-da-transicao-energetic
+ a-cae0a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lneg-reconhecido-no-set-plan-progress-report-2026-por-contri-0b6eb-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:LNEG reconhecido no SET Plan Progress Report 2026 por contributos p
+ ara a transição energética europeia
+LOCATION:Laboratório de Energia Solar
+DESCRIPTION:https://www.lneg.pt/lneg-reconhecido-no-set-plan-progress-repor
+ t-2026-por-contributos-para-a-transicao-energetica-europeia/
+URL:https://lykeion.pt/e/lneg-reconhecido-no-set-plan-progress-report-2026-
+ por-contri-0b6eb.html
+END:VEVENT
+END:VCALENDAR

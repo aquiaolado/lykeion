@@ -15,13 +15,13 @@ DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
 URL:https://lykeion.pt/e/6-novembro-c0314.html
 END:VEVENT
 BEGIN:VEVENT
-UID:informacoes-9166d-2026-11-06@lagenda.pt
+UID:ciencia-viva-bcc60-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Informações
-LOCATION:Centro Ciência Viva de Tavira\, Tavira
-DESCRIPTION:https://tavira.cienciaviva.pt/99999/Atividades
-URL:https://lykeion.pt/e/informacoes-9166d.html
+DTSTART;TZID=Europe/Lisbon:20261106T170000
+SUMMARY:Ciência Viva
+LOCATION:Ciência Viva\, Grândola
+DESCRIPTION:https://lousal.cienciaviva.pt/category/ciencia-viva/
+URL:https://lykeion.pt/e/ciencia-viva-bcc60.html
 END:VEVENT
 BEGIN:VEVENT
 UID:clube-de-ciencia-106ea-2026-11-07@lagenda.pt
@@ -44,6 +44,16 @@ URL:https://lykeion.pt/e/conference-histoires-d-art-leonard-de-vinci-8d38e.
  html
 END:VEVENT
 BEGIN:VEVENT
+UID:espaco-kids-100-ciencia-7-de-novembro-08ad5-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T110000
+SUMMARY:Espaço Kids: 100 Ciência - 7 de novembro
+LOCATION:Centro Ciência Viva de Bragança\, Bragança
+DESCRIPTION:https://braganca.cienciaviva.pt/12640/espaco-kids:-100-ciencia-
+ --7-de-novembro
+URL:https://lykeion.pt/e/espaco-kids-100-ciencia-7-de-novembro-08ad5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:manha-de-ciencia-093f1-2026-11-07@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261107T103000
@@ -62,5 +72,15 @@ LOCATION:Centro Ciência Viva de Tavira\, Tavira
 DESCRIPTION:
 URL:https://lykeion.pt/e/oficinas-em-ferias-sais-de-banho-ecologicos-d01ce.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciencia-em-familia-94e87-2026-11-14@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Ciência em Família
+LOCATION:Centro Ciência Viva de Bragança\, Bragança
+DESCRIPTION:https://braganca.cienciaviva.pt/3200/ciencia-em-familia---14-de
+ -novembro
+URL:https://lykeion.pt/e/ciencia-em-familia-94e87.html
 END:VEVENT
 END:VCALENDAR

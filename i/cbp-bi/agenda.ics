@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CBP-BI (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:csto2ne-legacy-future-52f70-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Csto2ne Legacy & Future
+LOCATION:Centro de Biotecnologia de Plantas da Beira Interior\, Castelo Bra
+ nco
+DESCRIPTION:https://cbpbi.ipcb.pt/wp-content/uploads/2026/10/Programme-Guid
+ e-CSTO2NE-LEGACY-FUTURE.pdf
+URL:https://lykeion.pt/e/csto2ne-legacy-future-52f70.html
+END:VEVENT
+END:VCALENDAR

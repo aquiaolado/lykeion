@@ -6,17 +6,6 @@ X-WR-CALNAME:IPL (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conferencia-direito-do-trabalho-851f6-2026-11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T183000
-SUMMARY:Conferência Direito do Trabalho
-LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
-  Lisboa
-DESCRIPTION:https://www.iscal.upl.pt/eventos/conferencia-direito-do-trabalh
- o-diretiva-ue-2023970
-URL:https://lykeion.pt/e/conferencia-direito-do-trabalho-851f6.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-sobre-metodos-de-analise-dos-produtos-comunicaci-5d31e-2026
  -11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -34,8 +23,8 @@ UID:palestra-patologia-e-reabilitacao-da-construcao-casos-de-est-3858b-2026
  -11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T110000
-SUMMARY:Palestra: Patologia e Reabilitação da Construção – Casos de e
- studo
+SUMMARY:Palestra «Patologia e Reabilitação da Construção – Casos de 
+ estudo»
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/palestra-patologia-e-reabilitacao-d
  a-construcao-casos-de-estudo
@@ -46,7 +35,7 @@ BEGIN:VEVENT
 UID:workshop-ieee-aess-spacetech-b0d60-2026-11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261110
-SUMMARY:Workshop Ieee Aess SpaceTech
+SUMMARY:Workshop Ieee Aess «SpaceTech»
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/workshop-ieee-aess-spacetech
 URL:https://lykeion.pt/e/workshop-ieee-aess-spacetech-b0d60.html
@@ -61,6 +50,18 @@ LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
 DESCRIPTION:https://www.iscal.upl.pt/eventos/seminarios-de-internacionaliza
  cao-26-27-fechar-negocios-no-mundo-o-que-cultura-e-os
 URL:https://lykeion.pt/e/seminarios-de-internacionalizacao-26-27-0da02.html
+END:VEVENT
+BEGIN:VEVENT
+UID:construir-pontes-para-a-inclusao-a-experiencia-do-projeto-ri-8dcd7-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T103000
+SUMMARY:Construir Pontes para a Inclusão: A Experiência do Projeto RITMO
+LOCATION:Centro Interdisciplinar de Estudos Educacionais
+DESCRIPTION:https://www.eselx.upl.pt/eventos/construir-pontes-para-inclusao
+ -experiencia-do-projeto-ritmo
+URL:https://lykeion.pt/e/construir-pontes-para-a-inclusao-a-experiencia-do-
+ projeto-ri-8dcd7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gestao-e-lideranca-em-contextos-educativos-e-socioeducativos-b3e69-2026
@@ -80,7 +81,7 @@ UID:palestra-a-obra-mais-dificil-da-minha-carreira-profissional-b67d3-2026-
  11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T110000
-SUMMARY:Palestra: A obra mais difícil da minha carreira profissional
+SUMMARY:Palestra «A obra mais difícil da minha carreira profissional»
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/palestra-obra-mais-dificil-da-minha
  -carreira-profissional

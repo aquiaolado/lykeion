@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:LIP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:bepicolombo-science-meeting-27-75e62-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T133000
+SUMMARY:BepiColombo Science Meeting 27
+LOCATION:LIP - Laboratório de Instrumentação e Física Experimental de P
+ artículas
+DESCRIPTION:https://indico.lip.pt/event/2302/
+URL:https://lykeion.pt/e/bepicolombo-science-meeting-27-75e62.html
+END:VEVENT
+BEGIN:VEVENT
+UID:doing-the-search-political-bias-in-search-engines-and-llms-7d6fe-2026-1
+ 1-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T113000
+SUMMARY:Doing the search: political bias in search engines and LLMs
+LOCATION:LIP - Laboratório de Instrumentação e Física Experimental de P
+ artículas
+DESCRIPTION:https://indico.lip.pt/event/2244/
+URL:https://lykeion.pt/e/doing-the-search-political-bias-in-search-engines-
+ and-llms-7d6fe.html
+END:VEVENT
+END:VCALENDAR

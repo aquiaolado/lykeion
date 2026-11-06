@@ -76,6 +76,15 @@ URL:https://lykeion.pt/e/cartografias-poeticas-por-helena-cardoso-exposicao
  -b2aba.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciencia-viva-bcc60-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T170000
+SUMMARY:Ciência Viva
+LOCATION:Ciência Viva\, Grândola
+DESCRIPTION:https://lousal.cienciaviva.pt/category/ciencia-viva/
+URL:https://lykeion.pt/e/ciencia-viva-bcc60.html
+END:VEVENT
+BEGIN:VEVENT
 UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -124,9 +133,19 @@ DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-doacoes-na-ar
 URL:https://lykeion.pt/e/exposicao-b0b52.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-13c96-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T180000
+SUMMARY:Exposição
+LOCATION:Instituto de Hidráulica e Recursos Hídricos\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-selos-postais-impress
+ oes-da-natureza
+URL:https://lykeion.pt/e/exposicao-13c96.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-a9a54-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T090000
+DTSTART;VALUE=DATE:20261106
 SUMMARY:Exposição
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
@@ -156,6 +175,17 @@ DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-structural-s
  e_id=20260928090000
 URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
  de-formas-ab38b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-de-pintura-pintar-sem-tinta-em-cores-na-cmtg-e8e5f-2026-11-06
+ @lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Exposição de Pintura “Pintar sem tinta... em cores" na CMTG
+LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
+DESCRIPTION:
+URL:https://lykeion.pt/e/exposicao-de-pintura-pintar-sem-tinta-em-cores-na-
+ cmtg-e8e5f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-7c0a9-2026-
@@ -268,6 +298,17 @@ URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
  inauguraca-672a9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-olhares-a-proposito-do-dia-mundial-da-fotografia-3ca51-2026-1
+ 1-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T100000
+SUMMARY:Exposição “Olhares... a propósito do Dia Mundial da Fotografia
+LOCATION:Centro de Estudos Ibéricos\, Guarda
+DESCRIPTION:https://www.cei.pt/ca-o/
+URL:https://lykeion.pt/e/exposicao-olhares-a-proposito-do-dia-mundial-da-fo
+ tografia-3ca51.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-anatomia-de-um-sentimento-de-bruno-vieira-6db46-2026-11-06@la
  genda.pt
 DTSTAMP:20261106T000000Z
@@ -324,50 +365,17 @@ DESCRIPTION:https://constancia.cienciaviva.pt/1195/exposicoes
 URL:https://lykeion.pt/e/horarios-b8bae.html
 END:VEVENT
 BEGIN:VEVENT
-UID:idade-da-inocencia-cinco-filmes-cinco-retratos-de-infancia-e-cfd4e-2026
+UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T213000
-SUMMARY:Idade da Inocência: cinco filmes\, cinco retratos de infância e j
- uventude – 1o Ciclo de Cinema ao Ar Livre
-LOCATION:Museu do Abade de Baçal\, Bragança
-DESCRIPTION:https://www.mabadebacal.gov.pt/event-item/idade-da-inocencia-ci
- nco-filmes-cinco-retratos-de-infancia-e-juventude-1o-ciclo-de-cinema-ao-ar
- -livre/
-URL:https://lykeion.pt/e/idade-da-inocencia-cinco-filmes-cinco-retratos-de-
- infancia-e-cfd4e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:informacoes-9166d-2026-11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
-SUMMARY:Informações
-LOCATION:Centro Ciência Viva de Tavira\, Tavira
-DESCRIPTION:https://tavira.cienciaviva.pt/99999/Atividades
-URL:https://lykeion.pt/e/informacoes-9166d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:informacoes-11aed-2026-11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Informações
-LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
- ância
-DESCRIPTION:https://constancia.cienciaviva.pt/1195/espacos
-URL:https://lykeion.pt/e/informacoes-11aed.html
-END:VEVENT
-BEGIN:VEVENT
-UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-b33e4-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T090000
 SUMMARY:Inteligência Arquitetónica " >Exposição | Anuária 25.26 - Inte
  ligência Arquitetónica
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
  5485
 URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
- -inteligen-b33e4.html
+ -inteligen-a9a54.html
 END:VEVENT
 BEGIN:VEVENT
 UID:madrid-exposicao-camoes-vida-obra-e-permanencia-na-cultura-h-0f0e2-2026
@@ -416,20 +424,6 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
 URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:03-11-2026-08-11-2026-portas-fechadas-direitos-em-aberto-exp-240ae-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Portas Fechadas\, Direitos em Aberto: exposição fotográfica de e
- studantes A Biblioteca da FPCEUC recebe\,…
-LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
- de de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fpce/eventos/portas-fechadas-direitos-em-aber
- to-exposicao-fotografica-de-estudantes/
-URL:https://lykeion.pt/e/03-11-2026-08-11-2026-portas-fechadas-direitos-em-
- aberto-exp-240ae.html
-END:VEVENT
-BEGIN:VEVENT
 UID:semana-da-ciencia-tecnologia-2026-0a9a6-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -460,19 +454,6 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  an
 URL:https://lykeion.pt/e/singapura-exposicao-sunflower-surprise-garden-by-t
  he-ocean-ec164.html
-END:VEVENT
-BEGIN:VEVENT
-UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
- 11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T150000
-SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
- ce\, Uncaptured City
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/visita-orientada-a-exposicao-ed
- son-chagas-intimate-distance-uncaptured-city/
-URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
- -distance-dd687.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xangai-participacao-portuguesa-na-exposicao-between-elsewher-4b65b-2026
@@ -549,6 +530,16 @@ LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
  \, Coimbra
 DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/astronomia
 URL:https://lykeion.pt/e/em-pleno-dia-astronomia-80418.html
+END:VEVENT
+BEGIN:VEVENT
+UID:espaco-kids-100-ciencia-7-de-novembro-08ad5-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T110000
+SUMMARY:Espaço Kids: 100 Ciência - 7 de novembro
+LOCATION:Centro Ciência Viva de Bragança\, Bragança
+DESCRIPTION:https://braganca.cienciaviva.pt/12640/espaco-kids:-100-ciencia-
+ --7-de-novembro
+URL:https://lykeion.pt/e/espaco-kids-100-ciencia-7-de-novembro-08ad5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-30838-2026-11-07@lagenda.pt
@@ -656,16 +647,6 @@ URL:https://lykeion.pt/e/exposicao-13-13-escritoras-galegas-e-lusofonas-em-
  dialogo-34804.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mina-de-ciencia-encerrada-nos-dias-10-f7a0e-2026-11-10@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Mina de Ciência encerrada nos dias 10
-LOCATION:Mina de Ciência - Centro Ciência Viva do Lousal\, Grândola
-DESCRIPTION:https://lousal.cienciaviva.pt/ciencia-viva/mina-de-ciencia-ence
- rrada-nos-dias-10-13-e-25-de-novembro/
-URL:https://lykeion.pt/e/mina-de-ciencia-encerrada-nos-dias-10-f7a0e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T140000
@@ -686,6 +667,16 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  portuguesa/agenda/sion-exposicao-retrospetiva-julio-pomar-100-anos
 URL:https://lykeion.pt/e/sion-exposicao-retrospetiva-julio-pomar-100-anos-e
  c164.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cafe-ciencia-9d751-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Café Ciência
+LOCATION:Instituto de Hidráulica e Recursos Hídricos\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/cafe-ciencia-o-nosso-clima-esta
+ -a-mudar-e-as-nossa
+URL:https://lykeion.pt/e/cafe-ciencia-9d751.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-bioetica-da-fmup-5586d-2026-11-12@lagenda.pt
@@ -716,6 +707,16 @@ DESCRIPTION:https://aimmportugal.org/event/cafe-com-ciencia-7/
 URL:https://lykeion.pt/e/cafe-com-ciencia-8-d3fea.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciencia-em-familia-94e87-2026-11-14@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Ciência em Família
+LOCATION:Centro Ciência Viva de Bragança\, Bragança
+DESCRIPTION:https://braganca.cienciaviva.pt/3200/ciencia-em-familia---14-de
+ -novembro
+URL:https://lykeion.pt/e/ciencia-em-familia-94e87.html
+END:VEVENT
+BEGIN:VEVENT
 UID:feira-da-ciencia-do-nordeste-5641d-2026-11-14@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -725,17 +726,6 @@ DESCRIPTION:
 URL:https://lykeion.pt/e/feira-da-ciencia-do-nordeste-5641d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:obra-dadiva-exposicao-coletiva-de-artes-plasticas-d47cb-2026-11-14@lage
- nda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Obra-Dádiva — Exposição Coletiva de Artes Plásticas
-LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
-DESCRIPTION:https://i2ads.up.pt/eventos/obra-dadiva/
-URL:https://lykeion.pt/e/obra-dadiva-exposicao-coletiva-de-artes-plasticas-
- d47cb.html
-END:VEVENT
-BEGIN:VEVENT
 UID:planetario-do-porto-3clipse-0641e-2026-11-14@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T160000
@@ -743,6 +733,18 @@ SUMMARY:Planetário do Porto- 3CLIPSE
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
 DESCRIPTION:
 URL:https://lykeion.pt/e/planetario-do-porto-3clipse-0641e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-volte-face-de-vasco-futscher-ate-15-de-novembro-ar-463e7-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T100000
+SUMMARY:Exposição «Volte-Face» de Vasco Futscher até 15 de Novembro\, 
+ Ar.Co Xabregas
+LOCATION:Ar.Co Centro de Arte e Comunicação Visual
+DESCRIPTION:https://arco.pt/site/news/412/2024-10-07
+URL:https://lykeion.pt/e/exposicao-volte-face-de-vasco-futscher-ate-15-de-n
+ ovembro-ar-463e7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:mostra-cinema-resistencia-entre-leiras-6a8f4-2026-11-17@lagenda.pt
@@ -787,6 +789,18 @@ URL:https://lykeion.pt/e/exposicao-doacoes-na-area-das-literaturas-e-cultur
  as-do-mund-ecfaa.html
 END:VEVENT
 BEGIN:VEVENT
+UID:inauguracao-da-exposicao-urbanitas-de-rogerio-araujo-5e548-2026-11-18@l
+ agenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T170000
+SUMMARY:Inauguração da Exposição URBANITAS de Rogério Araújo
+LOCATION:Instituto de Geografia e Ordenamento do Território
+DESCRIPTION:https://www.igot.ulisboa.pt/eventos/inauguracao-da-exposicao-ur
+ banitas-de-rogerio-araujo
+URL:https://lykeion.pt/e/inauguracao-da-exposicao-urbanitas-de-rogerio-arau
+ jo-5e548.html
+END:VEVENT
+BEGIN:VEVENT
 UID:observacao-da-lua-com-telescopio-dc325-2026-11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T190000
@@ -809,5 +823,19 @@ DESCRIPTION:https://www.esac.pt/index.php/eventos/exposicao-de-fotografia-m
  acrocosmos-os-insetos/
 URL:https://lykeion.pt/e/corredor-do-edificio-principal-da-esac-exposicao-d
  e-fotograf-3e2b7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:drones-do-sentinela-atlantica-em-exposicao-no-evento-de-inov-b0e3e-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Drones do Sentinela Atlântica em exposição no evento de inovaç
+ ão do Exército
+LOCATION:Agencia Regional para o Desenvolvimento da Investigacao Tecnologia
+  e Inovacao\, Funchal
+DESCRIPTION:https://www.arditi.pt/pt/noticias/drones-do-sentinela-atlantica
+ -em-exposicao-no-evento-de-inovacao-do-exercito.html
+URL:https://lykeion.pt/e/drones-do-sentinela-atlantica-em-exposicao-no-even
+ to-de-inov-b0e3e.html
 END:VEVENT
 END:VCALENDAR

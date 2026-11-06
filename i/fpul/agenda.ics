@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Psicologia da Universidade de Lisboa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:fred-talks-conferences-in-psychological-science-73e69-2026-11-16@lagend
+ a.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T140000
+SUMMARY:Fred Talks | Conferences in Psychological Science
+LOCATION:Faculdade de Psicologia da Universidade de Lisboa
+DESCRIPTION:https://www.psicologia.ulisboa.pt/fredtalks-22/
+URL:https://lykeion.pt/e/fred-talks-conferences-in-psychological-science-73
+ e69.html
+END:VEVENT
+END:VCALENDAR

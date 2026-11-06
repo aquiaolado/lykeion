@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Laboratório da Paisagem (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:eurocities-forum-ambiental-2026-c921a-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Eurocities Fórum Ambiental 2026
+LOCATION:Laboratório da Paisagem\, Guimarães
+DESCRIPTION:https://labpaisagem.pt
+URL:https://lykeion.pt/e/eurocities-forum-ambiental-2026-c921a.html
+END:VEVENT
+END:VCALENDAR

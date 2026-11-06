@@ -6,19 +6,6 @@ X-WR-CALNAME:Lusófona (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:gamificacao-literacia-mediatica-e-transformacao-em-contextos-f0b59-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Gamificação\, literacia mediática e transformação em contextos
-  educativos
-LOCATION:Universidade Lusófona
-DESCRIPTION:https://www.ulusofona.pt/eventos/gamificacao-literacia-mediatic
- a-e-transformacao-em-contextos-educativos
-URL:https://lykeion.pt/e/gamificacao-literacia-mediatica-e-transformacao-em
- -contextos-f0b59.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ii-encontros-participativos-e-interculturais-inclusao-e-dive-b5280-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -153,6 +140,16 @@ URL:https://lykeion.pt/e/aula-aberta-servico-social-em-contexto-escolar-pra
  ticas-e-de-b397e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-a-logica-no-direito-64d17-2026-11-17@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:Aula Aberta - A Lógica no Direito
+LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
+DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-a-logica-no-di
+ reito
+URL:https://lykeion.pt/e/aula-aberta-a-logica-no-direito-64d17.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontros-great-artists-on-campus-6-90954-2026-11-17@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
@@ -210,10 +207,23 @@ DESCRIPTION:https://www.ulusofona.pt/eventos/conferencia-nacional-storyline
 URL:https://lykeion.pt/e/conferencia-nacional-storyline-adac4.html
 END:VEVENT
 BEGIN:VEVENT
-UID:the-portuguese-executive-triangle-in-comparative-perspective-1aa50-2026
+UID:conversas-com-a-academia-participacao-interculturalidade-e-m-b3656-2026
  -11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261119
+SUMMARY:Conversas com a Academia: Participação\, Interculturalidade e Mud
+ ança Social
+LOCATION:Universidade Lusófona
+DESCRIPTION:https://www.ulusofona.pt/eventos/conversas-com-a-academia-parti
+ cipacao-interculturalidade-e-mudanca-social
+URL:https://lykeion.pt/e/conversas-com-a-academia-participacao-intercultura
+ lidade-e-m-b3656.html
+END:VEVENT
+BEGIN:VEVENT
+UID:the-portuguese-executive-triangle-in-comparative-perspective-1aa50-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T100000
 SUMMARY:The Portuguese Executive Triangle in Comparative Perspective: Minis
  ters\, Advisers and Senior Public Administration Officials
 LOCATION:Centro de Investigação em Política Economia e Sociedade

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IST (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-como-fazer-uma-apresentacao-de-sucesso-via-zoom-meet-8bb2b-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T100000
+SUMMARY:Webinar – Como fazer uma apresentação de sucesso – via Zoom m
+ eeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-fazer-uma
+ -apresentacao-de-sucesso-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-como-fazer-uma-apresentacao-de-sucesso-via
+ -zoom-meet-8bb2b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-como-pesquisar-e-recuperar-recursos-de-informacao-co-91508-2026
+ -11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T153000
+SUMMARY:Webinar – Como pesquisar e recuperar recursos de informação com
+  a Biblioteca do Conhecimento Online (b-on) – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-pesquisar
+ -e-recuperar-recursos-de-informacao-com-a-biblioteca-do-conhecimento-onlin
+ e-b-on-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-como-pesquisar-e-recuperar-recursos-de-inf
+ ormacao-co-91508.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-introducao-ao-mendeley-via-zoom-meeting-2dd7e-2026-11-08@lagen
+ da.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T100000
+SUMMARY:Formação – Introdução ao Mendeley – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-introducao-ao
+ -mendeley-via-zoom-meeting-3/
+URL:https://lykeion.pt/e/formacao-introducao-ao-mendeley-via-zoom-meeting-2
+ dd7e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-mendeley-revisitado-descubra-o-novo-mendeley-referen-df43a-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T153000
+SUMMARY:Webinar – Mendeley revisitado: descubra o novo Mendeley Reference
+  Manager – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-mendeley-revis
+ itado-descubra-o-novo-mendeley-reference-manager-via-zoom-meeting-3/
+URL:https://lykeion.pt/e/webinar-mendeley-revisitado-descubra-o-novo-mendel
+ ey-referen-df43a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-introducao-ao-zotero-via-zoom-meeting-ecfd9-2026-11-19@lagenda
+ .pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T100000
+SUMMARY:Formação – Introdução ao Zotero – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-introducao-ao
+ -zotero-via-zoom-meeting/
+URL:https://lykeion.pt/e/formacao-introducao-ao-zotero-via-zoom-meeting-ecf
+ d9.html
+END:VEVENT
+END:VCALENDAR

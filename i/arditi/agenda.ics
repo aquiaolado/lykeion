@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ARDITI (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:drones-do-sentinela-atlantica-em-exposicao-no-evento-de-inov-b0e3e-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Drones do Sentinela Atlântica em exposição no evento de inovaç
+ ão do Exército
+LOCATION:Agencia Regional para o Desenvolvimento da Investigacao Tecnologia
+  e Inovacao\, Funchal
+DESCRIPTION:https://www.arditi.pt/pt/noticias/drones-do-sentinela-atlantica
+ -em-exposicao-no-evento-de-inovacao-do-exercito.html
+URL:https://lykeion.pt/e/drones-do-sentinela-atlantica-em-exposicao-no-even
+ to-de-inov-b0e3e.html
+END:VEVENT
+END:VCALENDAR

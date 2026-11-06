@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UC CDB (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:8o-congresso-internacional-da-adfas-ab031-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T110000
+SUMMARY:8o Congresso Internacional da Adfas
+LOCATION:Centro de Direito Biomédico\, Coimbra
+DESCRIPTION:https://centrodedireitobiomedico.org/curso/8-congresso-internac
+ ional-da-adfas-presente-e-futuro-do-biodireito-da/35/
+URL:https://lykeion.pt/e/8o-congresso-internacional-da-adfas-ab031.html
+END:VEVENT
+END:VCALENDAR

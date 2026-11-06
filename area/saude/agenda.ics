@@ -111,20 +111,11 @@ URL:https://lykeion.pt/e/simposio-cientifico-2026-envelhecimento-e-longevid
  ade-da-cie-021e9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2018-joint-meeting-spbd-b0cd1-2026-11-07@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:2018 Joint Meeting SPBD
-LOCATION:Sociedade Portuguesa de Biologia do Desenvolvimento
-DESCRIPTION:http://www.spbd.pt/index.php/events/101-4th-spbd-meeting-2018
-URL:https://lykeion.pt/e/2018-joint-meeting-spbd-b0cd1.html
-END:VEVENT
-BEGIN:VEVENT
 UID:coloquio-saude-mental-e-seguranca-1a50e-2026-11-07@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261107
+DTSTART;TZID=Europe/Lisbon:20261107T190000
 SUMMARY:Colóquio “Saúde Mental e Segurança
-LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
 DESCRIPTION:http://www.medicina.ulisboa.pt/coloquio-saude-mental-e-seguranc
  a
 URL:https://lykeion.pt/e/coloquio-saude-mental-e-seguranca-1a50e.html
@@ -163,6 +154,18 @@ DESCRIPTION:https://www.ualg.pt/gala-solidaria-humanizar-espera-oncologia-f
  aro
 URL:https://lykeion.pt/e/gala-solidaria-humanizar-a-espera-oncologia-faro-3
  5a76.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-encontro-nacional-da-fedra-doencas-raras-2026-8739c-2026-11-07@lage
+ nda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T090000
+SUMMARY:III Encontro Nacional da FEDRA | Doenças Raras 2026
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/iii-encontro-nacional-da-fedra-
+ doencas-raras-2026
+URL:https://lykeion.pt/e/iii-encontro-nacional-da-fedra-doencas-raras-2026-
+ 8739c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-de-lingua-gestual-portuguesa-em-emergencia-pre-hos-45214-2026
@@ -269,6 +272,19 @@ URL:https://lykeion.pt/e/17-00-conferencia-desigualdades-urbanas-mobilidade
  -pedonal-e-1c7ee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:defesa-da-tese-do-programa-doutoral-em-ciencia-e-tecnologia-2def4-2026-
+ 11-10@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Defesa da tese do Programa Doutoral em Ciência e Tecnologia Alimen
+ tar e Nutrição - Maria João da Silva
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
+ o.aspx?Codigo=69646
+URL:https://lykeion.pt/e/defesa-da-tese-do-programa-doutoral-em-ciencia-e-t
+ ecnologia-2def4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:envelhecimento-sem-estereotipos-servico-social-e-direitos-da-40283-2026
  -11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -324,6 +340,19 @@ DESCRIPTION:https://www.ihmt.unl.pt/events/provas-de-doutoramento-em-doenca
  s-tropicais-e-saude-global-leonardo-moerbeck-da-costa-moreira/
 URL:https://lykeion.pt/e/provas-de-doutoramento-em-doencas-tropicais-e-saud
  e-global-l-513fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:auditorio-esec-seminario-kaizen-nos-servicos-administrativos-e0daa-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T180000
+SUMMARY:Auditório ESEC Seminário “Kaizen nos serviços administrativos 
+ do Hospital da Luz – Coimbra
+LOCATION:Escola Superior de Educação de Coimbra\, Coimbra
+DESCRIPTION:https://www.esec.pt/eventos/seminario-kaizen-nos-servicos-admin
+ istrativos-do-hospital-da-luz-coimbra/
+URL:https://lykeion.pt/e/auditorio-esec-seminario-kaizen-nos-servicos-admin
+ istrativos-e0daa.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-are-qalys-still-relevant-delivering-the-quintupl-210fa-2026
@@ -434,7 +463,7 @@ UID:iii-congresso-do-algarve-de-alzheimer-e-outras-demencias-2867b-2026-11-
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:III Congresso do Algarve de Alzheimer e outras demências
-LOCATION:Casa de Odeleite\, Castro Marim
+LOCATION:Casa do Sal\, Castro Marim
 DESCRIPTION:https://cm-castromarim.pt/site/evento/iii-congresso-do-algarve-
  de-alzheimer-e-outras-demencias
 URL:https://lykeion.pt/e/iii-congresso-do-algarve-de-alzheimer-e-outras-dem
@@ -495,17 +524,17 @@ URL:https://lykeion.pt/e/xxxi-jornadas-de-leiria-e-caldas-da-rainha-cda82.h
  tml
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-internacional-social-mentoring-in-europe-prospec-440ed-2026
+UID:aula-aberta-grupos-de-diagnostico-homogeneos-gdh-e-financiam-4b14f-2026
  -11-13@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261113
-SUMMARY:Conferência Internacional “Social Mentoring in Europe: Prospects
-  for Social Inclusion and Engagement
-LOCATION:Associacao Portuguesa de Sociologia
-DESCRIPTION:https://aps.pt/event/conferencia-internacional-social-mentoring
- -in-europe-prospects-for-social-inclusion-and-engagement/
-URL:https://lykeion.pt/e/conferencia-internacional-social-mentoring-in-euro
- pe-prospec-440ed.html
+SUMMARY:Aula-Aberta “Grupos de Diagnóstico Homogéneos (GDH) e Financiam
+ ento Hospitalar
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24216
+URL:https://lykeion.pt/e/aula-aberta-grupos-de-diagnostico-homogeneos-gdh-e
+ -financiam-4b14f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gea-13-11-26-programa-de-doutoramento-mariana-ladeira-afonso-db83b-2026
@@ -531,6 +560,29 @@ LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
 DESCRIPTION:https://www.ubi.pt/Evento/24194
 URL:https://lykeion.pt/e/i-jornada-cientifica-sobre-exercicio-e-envelhecime
  nto-a6ed6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-observatorio-fundacao-para-a-saude-40cf5-2026-11-13@lagen
+ da.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Lançamento do Observatório Fundação para a Saúde
+LOCATION:Centro de Estudos e Investigação em Saúde\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceisuc/noticias/lancamento-do-observatorio-fu
+ ndacao-para-a-saude/
+URL:https://lykeion.pt/e/lancamento-do-observatorio-fundacao-para-a-saude-4
+ 0cf5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plataforma-teams-webinar-f8a92-2026-11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T190000
+SUMMARY:Plataforma Teams Webinar
+LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
+  Coimbra
+DESCRIPTION:https://www.iscac.pt/eventos/webinar-alteracoes-impactos-da-nov
+ a-iso-90012026-e-iso-140012026/
+URL:https://lykeion.pt/e/plataforma-teams-webinar-f8a92.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-metabolismo-biopatologia-e-experimentac-ae43c-2026
@@ -730,6 +782,16 @@ URL:https://lykeion.pt/e/ciclo-de-palestras-em-atividade-fisica-e-saude-ada
  ptacion-sa-fbcfd.html
 END:VEVENT
 BEGIN:VEVENT
+UID:coloquio-saude-mental-e-seguranca-4f4a4-2026-11-17@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T190000
+SUMMARY:Colóquio “Saúde Mental e Segurança
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:http://www.medicina.ulisboa.pt/coloquio-saude-mental-e-seguranc
+ a
+URL:https://lykeion.pt/e/coloquio-saude-mental-e-seguranca-4f4a4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-saude-mental-e-seguranca-desafios-na-resposta-a-091c5-2026-
  11-17@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -882,6 +944,15 @@ DESCRIPTION:https://www.ciimar.up.pt/events/mind-tide-perfectionism-strengt
 URL:https://lykeion.pt/e/workshop-bfcdd.html
 END:VEVENT
 BEGIN:VEVENT
+UID:30a-reuniao-anual-f7e3b-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:30a Reunião Anual
+LOCATION:Sociedade Portuguesa de Genética Humana\, Coimbra
+DESCRIPTION:https://spgh.net/reunioes/reuniao-anual-2026/
+URL:https://lykeion.pt/e/30a-reuniao-anual-f7e3b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:3o-encontro-de-outono-da-apmgf-aveiro-espera-por-ti-em-novem-4352e-2026
  -11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -893,6 +964,16 @@ DESCRIPTION:https://apmgf.pt/evento/iii-encontro-de-outono-da-apmgf-19-a-21
  -de-novembro-de-2026-na-cidade-de-aveiro-2/
 URL:https://lykeion.pt/e/3o-encontro-de-outono-da-apmgf-aveiro-espera-por-t
  i-em-novem-4352e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8o-congresso-internacional-da-adfas-ab031-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T110000
+SUMMARY:8o Congresso Internacional da Adfas
+LOCATION:Centro de Direito Biomédico\, Coimbra
+DESCRIPTION:https://centrodedireitobiomedico.org/curso/8-congresso-internac
+ ional-da-adfas-presente-e-futuro-do-biodireito-da/35/
+URL:https://lykeion.pt/e/8o-congresso-internacional-da-adfas-ab031.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-conferencias-errancias-culturas-e-identidades-outra-7f70c-2026
@@ -921,6 +1002,16 @@ DESCRIPTION:https://www.unips.pt/eventos/clube-de-leitura-debate-novo-livro
  -sobre-bem-estar-nas-organizacoes/
 URL:https://lykeion.pt/e/clube-de-leitura-debate-novo-livro-sobre-bem-estar
  -nas-organ-7a5a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hitech-2027-information-session-at-i3s-a4156-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T143000
+SUMMARY:HiTech 2027 | Information Session at i3S
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:https://www.eventbrite.pt/e/hitech-2027-information-session-at-
+ i3s-tickets-2003304607007
+URL:https://lykeion.pt/e/hitech-2027-information-session-at-i3s-a4156.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iii-encontro-da-rede-portuguesa-de-humanidades-medicas-60a63-2026-11-19

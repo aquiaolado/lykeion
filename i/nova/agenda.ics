@@ -101,19 +101,6 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/trial-plataforma
 URL:https://lykeion.pt/e/trial-a-plataforma-jove-b7423.html
 END:VEVENT
 BEGIN:VEVENT
-UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
- 11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T150000
-SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
- ce\, Uncaptured City
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/visita-orientada-a-exposicao-ed
- son-chagas-intimate-distance-uncaptured-city/
-URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
- -distance-dd687.html
-END:VEVENT
-BEGIN:VEVENT
 UID:anual-whatnext-law-inovacao-nas-cidades-do-futuro-f1314-2026-11-07@lage
  nda.pt
 DTSTAMP:20261106T000000Z
@@ -222,6 +209,17 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/8-de-novembro-english-spee
  the-eu-example
 URL:https://lykeion.pt/e/seminario-english-speed-the-relevance-of-transatla
  ntic-coope-25667.html
+END:VEVENT
+BEGIN:VEVENT
+UID:click-here-to-join-the-seminar-022ea-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Click here to join the seminar
+LOCATION:NOVAMath Center for Mathematics and Applications\, Almada
+DESCRIPTION:https://www.google.com/url?q=https://meet.google.com/bpr-bvke-t
+ zr&sa=D&source=calendar&ust=1794255127034155&usg=AOvVaw2vnp1y3TvM97H6E58W1
+ 5np
+URL:https://lykeion.pt/e/click-here-to-join-the-seminar-022ea.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-o-governo-dos-outros-poder-e-diferenca-n-83d23-2026
@@ -349,14 +347,24 @@ URL:https://lykeion.pt/e/seminario-irmgard-emmelhainz-sobre-violencia-preda
  toria-e-om-22e06.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
+UID:universe-academia-empreendedora-2026-f624e-2026-11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T120000
+DTSTART;TZID=Europe/Lisbon:20261110T170000
+SUMMARY:UniVerse – Academia Empreendedora 2026
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/universe-academi
+ a-empreendedora-2026
+URL:https://lykeion.pt/e/universe-academia-empreendedora-2026-f624e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-11@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T094500
 SUMMARY:2.ª Conferência Anual do NOVA Green Lab
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
- ova-green-lab
-URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-21c63.html
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/2-a-conferencia-anual-do-nova-green-lab/
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-f78ee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:49-o-aniversario-nova-fct-75285-2026-11-11@lagenda.pt
@@ -476,6 +484,19 @@ URL:https://lykeion.pt/e/masterclass-vinha-e-vinho-da-paisagem-da-domestica
  cao-ao-ter-db9ee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-nova-fcsh-urbanismo-e-mobilidade-que-papel-na-incl-1b2d1-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T141500
+SUMMARY:Seminário Nova Fcsh “Urbanismo e Mobilidade: que papel na inclus
+ ão social?
+LOCATION:Universidade NOVA de Lisboa
+DESCRIPTION:https://www.unl.pt/eventos/seminario-nova-fcsh-urbanismo-e-mobi
+ lidade-que-papel-na-inclusao-social/
+URL:https://lykeion.pt/e/seminario-nova-fcsh-urbanismo-e-mobilidade-que-pap
+ el-na-incl-1b2d1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-primazia-do-fragmentario-walter-benjamin-e-a-psica-5ec05-2026
  -11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -500,19 +521,6 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/13-e-14-de-novembro-i-cong
  resso-luso-brasileiro-de-justica-administrativa-e-fiscal
 URL:https://lykeion.pt/e/13-e-14-de-novembro-i-congresso-luso-brasileiro-de
  -justica-a-aba53.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conferencia-materialidade-posse-obrigacao-a-colecao-como-div-07650-2026
- -11-13@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Conferência | Materialidade\, posse\, obrigação: a coleção com
- o dívida
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/conferencia-materia
- lidade-posse-obrigacao-a-colecao-como-divida/
-URL:https://lykeion.pt/e/conferencia-materialidade-posse-obrigacao-a-coleca
- o-como-div-07650.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ihc-vai-acolher-13-novos-contratos-ceec-da-fct-1c374-2026-11-13@lagenda
@@ -824,6 +832,19 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/nova-science-inn
 URL:https://lykeion.pt/e/encontro-nova-science-innovation-day-790dd.html
 END:VEVENT
 BEGIN:VEVENT
+UID:iv-conferencia-internacional-counter-image-divulga-programa-0deb5-2026-
+ 11-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:IV Conferência Internacional Counter-Image divulga programa comple
+ to
+LOCATION:Instituto de Comunicação da Nova
+DESCRIPTION:https://www.icnova.fcsh.unl.pt/iv-conferencia-internacional-cou
+ nter-image-divulga-programa-completo/
+URL:https://lykeion.pt/e/iv-conferencia-internacional-counter-image-divulga
+ -programa-0deb5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:nova-science-innovation-day-c5861-2026-11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T110000
@@ -892,6 +913,19 @@ LOCATION:NOVA School of Law
 DESCRIPTION:https://novalaw.unl.pt/iv-conferencia-anual-do-nova-bhre/
 URL:https://lykeion.pt/e/4rd-annual-conference-nova-bhre-thumbnail-dae13.ht
  ml
+END:VEVENT
+BEGIN:VEVENT
+UID:a-cubic-underestimator-for-deterministic-global-optimization-69e29-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T110000
+SUMMARY:A Cubic Underestimator for Deterministic Global Optimization
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/cubic-underestim
+ ator-deterministic-global-optimization
+URL:https://lykeion.pt/e/a-cubic-underestimator-for-deterministic-global-op
+ timization-69e29.html
 END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-entre-guerras-e-paz-633a3-2026-11-19@lagenda.pt

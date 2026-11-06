@@ -6,6 +6,19 @@ X-WR-CALNAME:UMa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:nov-06-nov-06-apresentacao-do-livro-filosofia-educacao-e-pol-6c993-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T170000
+SUMMARY:Nov 06 nov 06 Apresentação do livro «Filosofia\, Educação e Po
+ lítica» 17:00 | Campus da Penteada\, Sala do Senado
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://www.uma.pt/noticias/apresentacao-do-livro-filosofia-edu
+ cacao-e-politica
+URL:https://lykeion.pt/e/nov-06-nov-06-apresentacao-do-livro-filosofia-educ
+ acao-e-pol-6c993.html
+END:VEVENT
+BEGIN:VEVENT
 UID:x-encontro-de-outono-do-forum-portugues-de-administracao-edu-24809-2026
  -11-08@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -56,5 +69,19 @@ DESCRIPTION:https://cie.uma.pt/eventos/mesa-tematica-orientacoes-curricular
  es-para-a-educacao-pre-escolar-caminhos-percorridos-e-a-percorrer/
 URL:https://lykeion.pt/e/mesa-tematica-orientacoes-curriculares-para-a-educ
  acao-pre-e-66849.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nov-19-nov-19-xxviii-coloquio-de-outono-narrativas-e-represe-a0435-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Nov 19 nov 19 XXVIII Colóquio de Outono Narrativas e Representaç
+ ões Transculturais do Amor - Call for Papers Universidade do Minho\, Audi
+ tório ELACH
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://www.uma.pt/noticias/xxviii-coloquio-de-outono-narrativa
+ s-e-representacoes-transculturais-do-amor-call-for-papers
+URL:https://lykeion.pt/e/nov-19-nov-19-xxviii-coloquio-de-outono-narrativas
+ -e-represe-a0435.html
 END:VEVENT
 END:VCALENDAR

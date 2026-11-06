@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPMR (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-sindrome-antifosfolipidica-e-perda-gestacional-recor-761ba-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Webinar: Síndrome antifosfolipídica e perda gestacional recorrent
+ e
+LOCATION:Sociedade Portuguesa de Medicina da Reprodução\, Coimbra
+DESCRIPTION:https://www.spmr.pt
+URL:https://lykeion.pt/e/webinar-sindrome-antifosfolipidica-e-perda-gestaci
+ onal-recor-761ba.html
+END:VEVENT
+END:VCALENDAR

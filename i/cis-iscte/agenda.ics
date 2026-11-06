@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CIS-Iscte (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:research-kiosk-on-the-employability-forum-51e76-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T010000
+SUMMARY:Research Kiosk on the Employability Forum
+LOCATION:Centro de Investigação e Intervenção Social
+DESCRIPTION:https://www.cis.iscte-iul.pt/post/research-kiosk-on-the-employa
+ bility-forum
+URL:https://lykeion.pt/e/research-kiosk-on-the-employability-forum-51e76.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:5th-sociodigitallab-conference-for-public-policy-2026-03dc4-2026-11-19@
+ lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:5th SocioDigitalLAB Conference for Public Policy 2026
+LOCATION:Centro de Investigação e Intervenção Social
+DESCRIPTION:https://www.cis.iscte-iul.pt/post/5th-sociodigitallab-conferenc
+ e-for-public-policy-2026
+URL:https://lykeion.pt/e/5th-sociodigitallab-conference-for-public-policy-2
+ 026-03dc4.html
+END:VEVENT
+END:VCALENDAR
