@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fábrica - Centro Ciência Viva de Aveiro (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:pai-vou-ao-espaco-e-ja-volto-0b149-2026-11-08@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T110000
+SUMMARY:Pai\, vou ao espaço e já volto!
+LOCATION:Fábrica - Centro Ciência Viva de Aveiro\, Aveiro
+DESCRIPTION:
+URL:https://lykeion.pt/e/pai-vou-ao-espaco-e-ja-volto-0b149.html
+END:VEVENT
+END:VCALENDAR

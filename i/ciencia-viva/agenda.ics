@@ -6,6 +6,15 @@ X-WR-CALNAME:Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:6-novembro-c0314-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:6 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/6-novembro-c0314.html
+END:VEVENT
+BEGIN:VEVENT
 UID:informacoes-9166d-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -25,6 +34,16 @@ DESCRIPTION:https://lagos.cienciaviva.pt/14861/clube-de-ciencia-|-7-de-nove
 URL:https://lykeion.pt/e/clube-de-ciencia-106ea.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conference-histoires-d-art-leonard-de-vinci-8d38e-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T150000
+SUMMARY:Conférence Histoires d'art - Léonard de Vinci
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:
+URL:https://lykeion.pt/e/conference-histoires-d-art-leonard-de-vinci-8d38e.
+ html
+END:VEVENT
+BEGIN:VEVENT
 UID:manha-de-ciencia-093f1-2026-11-07@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261107T103000
@@ -33,5 +52,15 @@ LOCATION:Centro Ciência Viva do Algarve\, Faro
 DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
  cia/manhas-de-ciencia
 URL:https://lykeion.pt/e/manha-de-ciencia-093f1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oficinas-em-ferias-sais-de-banho-ecologicos-d01ce-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T143000
+SUMMARY:Oficinas em Férias | Sais de Banho Ecológicos
+LOCATION:Centro Ciência Viva de Tavira\, Tavira
+DESCRIPTION:
+URL:https://lykeion.pt/e/oficinas-em-ferias-sais-de-banho-ecologicos-d01ce.
+ html
 END:VEVENT
 END:VCALENDAR

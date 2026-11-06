@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro Ciência Viva de Constância - Parque de Astronomia (Ly
+ keion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:de-2-a-6-de-novembro-escola-ciencia-viva-a89ba-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:De 2 a 6 de novembro Escola Ciência Viva
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/17978/de-2-a-6-de-novembro
+URL:https://lykeion.pt/e/de-2-a-6-de-novembro-escola-ciencia-viva-a89ba.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:horarios-b8bae-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Horários
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1195/exposicoes
+URL:https://lykeion.pt/e/horarios-b8bae.html
+END:VEVENT
+BEGIN:VEVENT
+UID:informacoes-11aed-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Informações
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1195/espacos
+URL:https://lykeion.pt/e/informacoes-11aed.html
+END:VEVENT
+END:VCALENDAR
