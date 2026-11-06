@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UAL (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminario-f9d9e-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T141500
+SUMMARY:Seminário
+LOCATION:Universidade Autónoma de Lisboa
+DESCRIPTION:https://autonoma.pt/evento/seminario-a-producao-do-visivel/
+URL:https://lykeion.pt/e/seminario-f9d9e.html
+END:VEVENT
+END:VCALENDAR

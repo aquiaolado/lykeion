@@ -6,47 +6,9 @@ X-WR-CALNAME:Universidade de Aveiro (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
- 11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261105T080000
-SUMMARY:Exposição '[Structural stacking]: do arquivo Colector de Formas' 
- na Biblioteca Domingos Cravo
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-structural-s
- tacking-do-arquivo-colector-de-formas-na-biblioteca-domingos-cravo?instanc
- e_id=20260928090000
-URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
- de-formas-ab38b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-anatomia-de-um-sentimento-de-bruno-vieira-6db46-2026-11-05@la
- genda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261105T163000
-SUMMARY:Exposição: Anatomia de um Sentimento\, de Bruno Vieira
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-anatomia-de-
- um-sentimento-de-bruno-vieira?instance_id=20261102163000
-URL:https://lykeion.pt/e/exposicao-anatomia-de-um-sentimento-de-bruno-vieir
- a-6db46.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oficina-de-desenho-figura-humana-e-linguagem-arte-nova-77dca-2026-11-05
- @lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261105T133000
-SUMMARY:Oficina de Desenho: Figura humana e linguagem Arte Nova
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://events.timely.fun/2x770b0s/event/figura-humana-e-lingua
- gem-arte-nova?instance_id=20261010143000
-URL:https://lykeion.pt/e/oficina-de-desenho-figura-humana-e-linguagem-arte-
- nova-77dca.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-a-unidade-de-emergencia-de-protecao-e-socorro-da-2a0b2-2026
  -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T143000
 SUMMARY:Aula Aberta - “A Unidade de Emergência de Proteção e Socorro d
  a Guarda Nacional Republicana — O uso da tecnologia no apoio à tomada d
@@ -59,9 +21,47 @@ URL:https://lykeion.pt/e/aula-aberta-a-unidade-de-emergencia-de-protecao-e-
  socorro-da-2a0b2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
+ 11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T080000
+SUMMARY:Exposição '[Structural stacking]: do arquivo Colector de Formas' 
+ na Biblioteca Domingos Cravo
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-structural-s
+ tacking-do-arquivo-colector-de-formas-na-biblioteca-domingos-cravo?instanc
+ e_id=20260928090000
+URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
+ de-formas-ab38b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-anatomia-de-um-sentimento-de-bruno-vieira-6db46-2026-11-06@la
+ genda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T163000
+SUMMARY:Exposição: Anatomia de um Sentimento\, de Bruno Vieira
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-anatomia-de-
+ um-sentimento-de-bruno-vieira?instance_id=20261102163000
+URL:https://lykeion.pt/e/exposicao-anatomia-de-um-sentimento-de-bruno-vieir
+ a-6db46.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oficina-de-desenho-figura-humana-e-linguagem-arte-nova-77dca-2026-11-06
+ @lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T133000
+SUMMARY:Oficina de Desenho: Figura humana e linguagem Arte Nova
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://events.timely.fun/2x770b0s/event/figura-humana-e-lingua
+ gem-arte-nova?instance_id=20261010143000
+URL:https://lykeion.pt/e/oficina-de-desenho-figura-humana-e-linguagem-arte-
+ nova-77dca.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-administracao-publica-politicas-e-desafios-da-ge-ea76a-2026
  -11-10@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Aula Aberta - 'Administração Pública: Políticas e Desafios da G
  estão Autárquica'
@@ -75,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-open-class-climate-change-alternative-resources-an-49ff0-2026
  -11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T143000
 SUMMARY:Seminário: OPEN CLASS | Climate Change\, Alternative Resources and
   Conservation
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-entre-fisicos-2026-encontro-anual-da-comunidade-de-69429-2026-
  11-14@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T090000
 SUMMARY:Encontro “Entre Físicos 2026”: Encontro Anual da comunidade de
   Física Médica

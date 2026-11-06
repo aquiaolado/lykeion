@@ -6,9 +6,49 @@ X-WR-CALNAME:ICS (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:seminarios-e-workshops-9ad60-2026-11-11@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T170000
+SUMMARY:Seminários e Workshops
+LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
+DESCRIPTION:https://www.ics.ulisboa.pt/evento/relacoes-e-territorios-entre-
+ plantations-e-ressurgencias-os-guarani-e-kaiowa-em-movimento
+URL:https://lykeion.pt/e/seminarios-e-workshops-9ad60.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminarios-gi-15e5d-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T143000
+SUMMARY:Seminários GI
+LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
+DESCRIPTION:https://www.ics.ulisboa.pt/evento/universities-are-enemy-higher
+ -education-episodes-democratic-backsliding
+URL:https://lykeion.pt/e/seminarios-gi-15e5d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminarios-gi-b9b73-2026-11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T110000
+SUMMARY:Seminários GI
+LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
+DESCRIPTION:https://www.ics.ulisboa.pt/evento/right-wing-rule-takers-and-le
+ ft-wing-rule-makers-party-ethics-self-regulation-latin-america
+URL:https://lykeion.pt/e/seminarios-gi-b9b73.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminarios-e-workshops-9b79e-2026-11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T143000
+SUMMARY:Seminários e Workshops
+LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
+DESCRIPTION:https://www.ics.ulisboa.pt/evento/imagine-workshops-series-rese
+ arch-journey-proposal-impact
+URL:https://lykeion.pt/e/seminarios-e-workshops-9b79e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:v-congresso-associacao-dos-arqueologos-portugueses-7fe4a-2026-11-18@lag
  enda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:V Congresso – Associação dos Arqueólogos Portugueses
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa\, Braga

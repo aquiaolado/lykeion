@@ -8,9 +8,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
- 11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
+ 11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T150000
 SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
  ce\, Uncaptured City
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -20,16 +20,16 @@ URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
  -distance-dd687.html
 END:VEVENT
 BEGIN:VEVENT
-UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
- 11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Visita orientada à exposição “Edson Chagas – Intimate Distan
- ce\, Uncaptured City
+UID:seminario-irmgard-emmelhainz-sobre-violencia-predatoria-e-om-22e06-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T103000
+SUMMARY:Seminário: Irmgard Emmelhainz sobre “Violência predatória e om
+ nicida
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/visita-orientada-a-exposicao-ed
- son-chagas-intimate-distance-uncaptured-city/
-URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
- -distance-dd687.html
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/irmgard-emmelhainz-sobre-violen
+ cia-predatoria-e-omnicida/
+URL:https://lykeion.pt/e/seminario-irmgard-emmelhainz-sobre-violencia-preda
+ toria-e-om-22e06.html
 END:VEVENT
 END:VCALENDAR

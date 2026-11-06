@@ -6,34 +6,9 @@ X-WR-CALNAME:Ciências Agrárias e Veterinárias (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
- -11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
- dos Investigadores
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
- r-dos-investigadores/
-URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
- lhar-dos-i-8501f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:paisagens-vivas-masterclasses-sobre-estudos-de-animais-e-pla-1652d-2026
- -11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Paisagens Vivas: Masterclasses sobre Estudos de Animais e Plantas
-LOCATION:Universidade NOVA de Lisboa
-DESCRIPTION:https://www.unl.pt/eventos/paisagens-vivas-masterclasses-sobre-
- estudos-de-animais-e-plantas/
-URL:https://lykeion.pt/e/paisagens-vivas-masterclasses-sobre-estudos-de-ani
- mais-e-pla-1652d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:4th-international-conference-of-the-portuguese-association-f-533fc-2026
  -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:4th International Conference of the Portuguese Association for Cell
  ular Agriculture
@@ -43,19 +18,21 @@ URL:https://lykeion.pt/e/4th-international-conference-of-the-portuguese-ass
  ociation-f-533fc.html
 END:VEVENT
 BEGIN:VEVENT
-UID:palestra-anual-alexis-de-tocqueville-2026-ac171-2026-11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T180000
-SUMMARY:Palestra Anual Alexis de Tocqueville 2026
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/palestra-anual-alexis-de-tocqu
- eville-2026
-URL:https://lykeion.pt/e/palestra-anual-alexis-de-tocqueville-2026-ac171.ht
- ml
+UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
+ dos Investigadores
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
+ r-dos-investigadores/
+URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
+ lhar-dos-i-8501f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:somos-alabe-2026-encontro-da-associacao-dos-cb772-2026-11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T093000
 SUMMARY:SOMOS ALABE 2026  Encontro da Associação dos...
 LOCATION:Universidade de Évora\, Évora
@@ -66,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-viagem-ao-reino-do-algarve-6057d-2026-11-07@lagen
  da.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Apresentação do livro «Viagem ao Reino do Algarve»
 LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
@@ -78,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-azeites-aprenda-a-provar-e-avaliar-0e32a-2026-11-07@lagenda
  .pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261107T090000
 SUMMARY:Workshop de Azeites: aprenda a provar e avaliar
 LOCATION:Ordem dos Engenheiros
@@ -90,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
  -11-09@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T143000
 SUMMARY:Aula Aberta “Intervenção Psicológica nas Perturbações do Com
  portamento Alimentar
@@ -103,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-tempestades-mitigacao-e-prevencao-de-incendios-f-87d46-2026
  -11-09@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T090000
 SUMMARY:Conferência | Tempestades - Mitigação e Prevenção de Incêndio
  s Florestais
@@ -116,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-refloresta-tecnicas-de-prevencao-de-incendios-e-in-359be-2026
  -11-09@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T093000
 SUMMARY:Seminário Refloresta: Técnicas de prevenção de incêndios e int
  ervenção em áreas ardidas
@@ -127,35 +104,9 @@ URL:https://lykeion.pt/e/seminario-refloresta-tecnicas-de-prevencao-de-ince
  ndios-e-in-359be.html
 END:VEVENT
 BEGIN:VEVENT
-UID:congresso-sessao-tecnica-da-rodio-engenharia-e-construcao-na-6810d-2026
- -11-11@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T140000
-SUMMARY:Congresso: Sessão Técnica da RODIO: Engenharia e Construção na 
- Melhoria dos Solos (11 de novembro de 2026
-LOCATION:Sociedade Portuguesa de Geotecnia
-DESCRIPTION:https://spgeotecnia.pt/noticias/sessao-tecnica-da-rodio-engenha
- ria-e-construcao-na-melhoria-dos-solos-11-de-novembro-de-2026-pequeno-audi
- torio-do-centro-de-congressos-do-lnec/
-URL:https://lykeion.pt/e/congresso-sessao-tecnica-da-rodio-engenharia-e-con
- strucao-na-6810d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:12-11-26-aula-aberta-cordas-gregas-voz-romana-a-arte-da-liri-549fc-2026
- -11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T200000
-SUMMARY:12.11.26 [Aula Aberta] Cordas gregas\, voz romana: a arte da líric
- a grega e a sua influência em Horácio.
-LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
-DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-cordas-gregas/
-URL:https://lykeion.pt/e/12-11-26-aula-aberta-cordas-gregas-voz-romana-a-ar
- te-da-liri-549fc.html
-END:VEVENT
-BEGIN:VEVENT
 UID:instituto-superior-de-agronomia-marca-presenca-na-web-summit-0f17c-2026
  -11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Instituto Superior de Agronomia marca presença na Web Summit 2026
 LOCATION:Instituto Superior de Agronomia
@@ -167,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-grapevines-and-wine-from-the-landscape-of-domest-43196-2026
  -11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T180000
 SUMMARY:Masterclass “Grapevines and Wine: From the Landscape of Domestica
  tion to the Post-Phylloxera Terroir
@@ -180,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-vinha-e-vinho-da-paisagem-da-domesticacao-ao-ter-db9ee-2026
  -11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T180000
 SUMMARY:Masterclass “Vinha e vinho: da paisagem da domesticação ao terr
  oir pós-filoxera
@@ -193,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9-30-iniav-promove-conferencia-digitalizacao-e-inovacao-na-a-54896-2026
  -11-17@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:9:30 INIAV promove Conferência "Digitalização e Inovação na Ag
  ricultura" no dia 17 de novembro\, em Oeiras
@@ -207,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9-30-iniav-promove-conferencia-digitalizacao-e-inovacao-na-a-54896-2026
  -11-17@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:9:30 INIAV promove Conferência "Digitalização e Inovação na Ag
  ricultura" no dia 17 de novembro\, em Oeiras
@@ -221,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:esac-auditorio-principal-bloco-e-seminario-sementes-plantas-c7951-2026-
  11-18@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:ESAC - Auditório principal (Bloco E) Seminário “Sementes\, Plan
  tas e Outro Material de Propagação em Agricultura Biológica

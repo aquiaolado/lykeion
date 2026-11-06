@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:acao-de-capacitacao-acv-nivel-introdutorio-1a871-2026-11-11@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T080000
 SUMMARY:Ação de Capacitação ACV - Nível Introdutório
 LOCATION:BUILT CoLAB\, Porto
@@ -18,7 +18,7 @@ URL:https://lykeion.pt/e/acao-de-capacitacao-acv-nivel-introdutorio-1a871.h
 END:VEVENT
 BEGIN:VEVENT
 UID:acao-de-capacitacao-bim-nivel-introdutorio-3f470-2026-11-17@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T080000
 SUMMARY:Ação de Capacitação BIM - Nível Introdutório
 LOCATION:BUILT CoLAB\, Porto
@@ -26,5 +26,14 @@ DESCRIPTION:https://builtcolab.pt/eventos/acao-capacitacao-bim-nivel-introd
  utorio-nov-2025/
 URL:https://lykeion.pt/e/acao-de-capacitacao-bim-nivel-introdutorio-3f470.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+UID:ubi-session-porto-74d4d-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T103000
+SUMMARY:UBI Session Porto
+LOCATION:BUILT CoLAB\, Porto
+DESCRIPTION:https://builtcolab.pt/eventos/ubi-session-porto/
+URL:https://lykeion.pt/e/ubi-session-porto-74d4d.html
 END:VEVENT
 END:VCALENDAR

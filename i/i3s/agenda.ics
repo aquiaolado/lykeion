@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:i3S – Instituto de Investigação e Inovação em Saúde (Ly
+ keion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:13th-i3s-annual-meeting-7c251-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:13th i3S Annual Meeting
+LOCATION:i3S – Instituto de Investigação e Inovação em Saúde\, Porto
+DESCRIPTION:https://www.i3s.up.pt/event.php?v=410
+URL:https://lykeion.pt/e/13th-i3s-annual-meeting-7c251.html
+END:VEVENT
+END:VCALENDAR

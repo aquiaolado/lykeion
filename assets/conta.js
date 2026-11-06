@@ -230,6 +230,12 @@
   function legendaCasa() {
     const sala = document.getElementById("legcasa"), ev = document.getElementById("casaev"), cx = sala || ev; if (!cx || !cx.dataset.lugar) return;
     fetch(B + "conta/sala.php?casa=" + encodeURIComponent(cx.dataset.lugar)).then(r => r.ok ? r.json() : Promise.reject()).then(j => {
+      const fi = j.ficha || {}, pf = sala && document.querySelector(".sala-cab .ficha");
+      if (pf && fi.confirmado_em) {  // a sala corrigiu a ficha no painel: o que ela escreveu passa à frente do diretório
+        const d = pf.dataset, site = fi.site || d.s || "", url = site && !/^https?:/.test(site) ? "https://" + site : site;
+        pf.innerHTML = [esc(fi.morada || d.m || ""), url ? `<a href="${esc(url)}" target="_blank" rel="noopener">site da sala</a>` : "",
+          esc(fi.telefone || d.t || ""), esc(fi.horario || "")].filter(Boolean).join(" · ");
+      }
       if (sala && j.apresentacao) sala.innerHTML = `<p class="rot">A legenda da casa</p>${j.apresentacao.split(/\n+/).map(p => `<p>${esc(p)}</p>`).join("")}`;
       const f = ev && j.legendas[ev.dataset.pg];
       if (f) ev.innerHTML = `<p class="rot">A legenda da casa</p><p class="frase">${esc(f)}</p>`;

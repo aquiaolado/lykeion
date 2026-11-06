@@ -7,20 +7,8 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:22nd-european-conference-on-management-leadership-and-govern-3a249-2026
- -11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261105T090000
-SUMMARY:22nd European Conference on Management Leadership and Governance
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/22nd-european-conference-on-managemen
- t-leadership-and-governance/
-URL:https://lykeion.pt/e/22nd-european-conference-on-management-leadership-
- and-govern-3a249.html
-END:VEVENT
-BEGIN:VEVENT
-UID:22nd-european-conference-on-management-leadership-and-govern-3a249-2026
  -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T090000
 SUMMARY:22nd European Conference on Management Leadership and Governance
 LOCATION:Universidade Portucalense\, Porto
@@ -32,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-10-anos-do-acordo-final-de-paz-na-colombia-d30eb-2026-11-06
  @lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Aula Aberta “10 Anos do Acordo Final de Paz na Colômbia
 LOCATION:Universidade Portucalense\, Porto
@@ -44,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-a-justica-antes-do-estado-o-final-da-idade-media-a8e3d-2026
  -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T100000
 SUMMARY:Aula Aberta “A Justiça Antes do Estado: O Final da Idade Média 
  em Portugal
@@ -57,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-asia-central-ator-estrategico-ou-tabuleiro-geopo-691bf-2026
  -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T090000
 SUMMARY:Aula Aberta “Ásia Central: Ator Estratégico ou Tabuleiro Geopol
  ítico?
@@ -69,7 +57,7 @@ URL:https://lykeion.pt/e/aula-aberta-asia-central-ator-estrategico-ou-tabul
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-4c0a6-2026-11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T150000
 SUMMARY:Prova Pública de Mestrado
 LOCATION:Universidade Portucalense\, Porto
@@ -79,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:viii-congresso-internacional-de-politicas-publicas-e-desenvo-cc2ca-2026
  -11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T180000
 SUMMARY:VIII Congresso Internacional de Políticas Públicas e Desenvolvime
  nto Social
@@ -92,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
  -11-09@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T143000
 SUMMARY:Aula Aberta “Intervenção Psicológica nas Perturbações do Com
  portamento Alimentar
@@ -105,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-gestao-de-conflitos-interpessoais-pelos-estudant-9eb99-2026
  -11-10@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Aula Aberta “Gestão de Conflitos Interpessoais pelos Estudantes 
  do Ensino Superior: Contributos da Mediação
@@ -118,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-investigar-e-intervir-no-terreno-relatos-e-aprendiz-9b194-2026
  -11-10@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Workshop “Investigar e Intervir no Terreno: Relatos e Aprendizage
  ns de um Ano de Estágio em Educação Social
@@ -129,8 +117,21 @@ URL:https://lykeion.pt/e/workshop-investigar-e-intervir-no-terreno-relatos-
  e-aprendiz-9b194.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-fortificacoes-e-patrimonio-militar-ciencia-patrimo-06590-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T143000
+SUMMARY:Seminário “Fortificações e Património Militar – Ciência\, 
+ Património e Sociedade: Desafios do Futuro
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/seminario-fortificacoes-e-patrimonio-
+ militar-ciencia-patrimonio-e-sociedade-desafios-do-futuro/
+URL:https://lykeion.pt/e/seminario-fortificacoes-e-patrimonio-militar-cienc
+ ia-patrimo-06590.html
+END:VEVENT
+BEGIN:VEVENT
 UID:26-8220-legal-debate-87a54-2026-11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T173000
 SUMMARY:26#8220\,Legal Debate
 LOCATION:Universidade Portucalense\, Porto

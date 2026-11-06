@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:seminario-da-ia-generativa-a-ia-agentica-impactos-na-advocac-8c6a2-2026
  -11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T170000
 SUMMARY:Seminário | Da IA Generativa à IA Agêntica: impactos na advocaci
  a e na consultoria jurídica
@@ -17,5 +17,18 @@ DESCRIPTION:https://www.fd.ulisboa.pt/events/seminario-da-ia-generativa-a-i
  a-agentica-impactos-na-advocacia-e-na-consultoria-juridica/
 URL:https://lykeion.pt/e/seminario-da-ia-generativa-a-ia-agentica-impactos-
  na-advocac-8c6a2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-saude-mental-e-seguranca-desafios-na-resposta-a-091c5-2026-
+ 11-17@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T090000
+SUMMARY:Conferência: Saúde mental e Segurança - Desafios na resposta a s
+ ituações críticas
+LOCATION:Faculdade de Direito da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://www.eventbrite.pt/e/bilhetes-saude-mental-e-seguranca-d
+ esafios-na-resposta-a-situacoes-criticas-2002573255515
+URL:https://lykeion.pt/e/conferencia-saude-mental-e-seguranca-desafios-na-r
+ esposta-a-091c5.html
 END:VEVENT
 END:VCALENDAR

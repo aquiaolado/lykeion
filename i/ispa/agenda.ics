@@ -6,9 +6,9 @@ X-WR-CALNAME:ISPA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:seminarios-clinicos-clinica-e-migracao-0fd68-2026-11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;TZID=Europe/Lisbon:20261105T163000
+UID:seminarios-clinicos-clinica-e-migracao-0fd68-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T163000
 SUMMARY:Seminários Clínicos – Clínica e Migração
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/seminarios-clinicos-clinica-
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-solene-de-abertura-do-ano-letivo-2026-2027-c547f-2026-11-06@lage
  nda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T103000
 SUMMARY:Sessão Solene de Abertura do Ano Letivo 2026/2027
 LOCATION:ISPA – Instituto Universitário
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-are-qalys-still-relevant-delivering-the-quintupl-210fa-2026
  -11-11@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T103000
 SUMMARY:CONFERÊNCIA | Are QALY’s Still Relevant? Delivering The Quintupl
  e Goal of Healthcare Through Spotlight-AQ Digital Health
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-o-pai-na-familia-contemporanea-uma-reflexao-sobr-152c0-2026
  -11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T143000
 SUMMARY:CONFERÊNCIA | O pai na família contemporânea: Uma reflexão sobr
  e perspectivas teóricas\, evidências empíricas e desafios metodológico
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-body-shape-politics-the-political-divide-in-body-2a464-2026
  -11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T163000
 SUMMARY:CONFERÊNCIA | “Body-Shape Politics: The Political Divide in Body
  -Inclusive Advertising
@@ -66,5 +66,18 @@ DESCRIPTION:https://www.ispa.pt/agenda/eventos/body-shape-politics-publicid
  ade-inclusiva/
 URL:https://lykeion.pt/e/conferencia-body-shape-politics-the-political-divi
  de-in-body-2a464.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-correcao-de-desinformacao-e-julgamentos-de-verda-2d5d3-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T143000
+SUMMARY:CONFERÊNCIA | Correção de desinformação e julgamentos de verda
+ de: o impacto da repetição e da contradição
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/ciclo_de_conferencias_ispa_d
+ esinformacao_e_julgamentos_de_verdade/
+URL:https://lykeion.pt/e/conferencia-correcao-de-desinformacao-e-julgamento
+ s-de-verda-2d5d3.html
 END:VEVENT
 END:VCALENDAR

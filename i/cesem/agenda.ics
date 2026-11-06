@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:49-o-aniversario-da-nova-fcsh-249a9-2026-11-10@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T110000
 SUMMARY:49.o Aniversário da NOVA FCSH
 LOCATION:Centro de Estudos em Música\, Campolide
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xvi-encontro-internacional-arte-para-a-infancia-e-desenvolvi-56958-2026
  -11-14@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T110000
 SUMMARY:XVI Encontro Internacional Arte para a Infância e Desenvolvimento 
  Social e Humano
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026
  -11-14@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T110000
 SUMMARY:XVI International Colloquium Arts for Childhood and Social and Huma
  n Development
@@ -42,11 +42,24 @@ URL:https://lykeion.pt/e/xvi-international-colloquium-arts-for-childhood-an
 END:VEVENT
 BEGIN:VEVENT
 UID:nova-science-innovation-day-c5861-2026-11-18@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:NOVA Science & Innovation Day
 LOCATION:Centro de Estudos em Música\, Campolide
 DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/nova-science-innovation-day/
 URL:https://lykeion.pt/e/nova-science-innovation-day-c5861.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminars-self-regulation-and-co-regulation-in-biosynthesis-p-ac274-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T180000
+SUMMARY:Seminars: Self-Regulation and Co-Regulation in Biosynthesis: Practi
+ ces for Music Educators
+LOCATION:Centro de Estudos em Música
+DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/self-regulation-and-co-regul
+ ation-in-biosynthesis-practices-for-music-educators/
+URL:https://lykeion.pt/e/seminars-self-regulation-and-co-regulation-in-bios
+ ynthesis-p-ac274.html
 END:VEVENT
 END:VCALENDAR

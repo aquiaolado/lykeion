@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:por-o-mapa-em-perspetiva-desenhar-o-territorio-e-a-paisagem-cea4b-2026-
  11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Pôr o Mapa em Perspetiva: Desenhar o Território e a Paisagem em G
  eografia
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-ela-e-um-vibrar-aeroelastico-o-choro-que-chora-a-b-34f08-2026
  -11-07@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Seminário: Ela é? Um Vibrar Aeroelástico\, o Choro que Chora a B
  ruxa que Chora cada Bruxa que Chora\, ou uma Estória de Alguma Maneira
@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-arquipelago-ilhas-14-15-e-16-partilha-de-investiga-65d5a-2026
  -11-09@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T123000
 SUMMARY:Seminário: Arquipélago: Ilhas #14\, #15 e #16 — Partilha de Inv
  estigação em Práticas Artísticas que Emergem do Território
@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:obra-dadiva-exposicao-coletiva-de-artes-plasticas-d47cb-2026-11-14@lage
  nda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Obra-Dádiva — Exposição Coletiva de Artes Plásticas
 LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
@@ -57,12 +57,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8ei-ea-encontro-internacional-sobre-educacao-artistica-6230d-2026-11-15
  @lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:8ei_ea — Encontro Internacional sobre Educação Artística
 LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
 DESCRIPTION:https://i2ads.up.pt/eventos/8ei_ea/
 URL:https://lykeion.pt/e/8ei-ea-encontro-internacional-sobre-educacao-artis
  tica-6230d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-estacao-1-o-lugar-do-som-nas-artes-plasticas-5faef-2026-11-19
+ @lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Seminário: Estação #1 — O Lugar do Som nas Artes Plásticas
+LOCATION:Instituto de Investigação em Arte Design e Sociedade\, Porto
+DESCRIPTION:https://i2ads.up.pt/eventos/o-lugar-do-som-nas-artes-plasticas/
+URL:https://lykeion.pt/e/seminario-estacao-1-o-lugar-do-som-nas-artes-plast
+ icas-5faef.html
 END:VEVENT
 END:VCALENDAR

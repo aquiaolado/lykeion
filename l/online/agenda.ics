@@ -6,19 +6,9 @@ X-WR-CALNAME:Online (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:seminario-internacional-wsd26-43f23-2026-11-05@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Seminário Internacional WSD’26
-LOCATION:Centro de Estudos Geográficos
-DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/seminario-internacional-wsd
- 26
-URL:https://lykeion.pt/e/seminario-internacional-wsd26-43f23.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-doutoramento-online-order-allocation-from-problem-2e129-2026-
  11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T103000
 SUMMARY:Provas de Doutoramento: ''Online Order Allocation: From Problem Cla
  ssification to Decision Support''
@@ -30,7 +20,7 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-online-order-allocation-fro
 END:VEVENT
 BEGIN:VEVENT
 UID:somos-alabe-2026-encontro-da-associacao-dos-cb772-2026-11-06@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T093000
 SUMMARY:SOMOS ALABE 2026  Encontro da Associação dos...
 LOCATION:Universidade de Évora\, Évora
@@ -39,9 +29,19 @@ URL:https://lykeion.pt/e/somos-alabe-2026-encontro-da-associacao-dos-cb772.
  html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-internacional-wsd26-43f23-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Seminário Internacional WSD’26
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/seminario-internacional-wsd
+ 26
+URL:https://lykeion.pt/e/seminario-internacional-wsd26-43f23.html
+END:VEVENT
+BEGIN:VEVENT
 UID:10-11-26-conferencia-abretciencia-6-protecao-de-dados-em-inv-2e93d-2026
  -11-10@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:10.11.26 Conferência “abreTciência” #6 - Proteção de Dados 
  em Investigação Tema: Proteção de Dados em Investigação 10 novembro 
@@ -54,7 +54,7 @@ URL:https://lykeion.pt/e/10-11-26-conferencia-abretciencia-6-protecao-de-da
 END:VEVENT
 BEGIN:VEVENT
 UID:eprm-webinar-0a0f3-2026-11-10@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:EPRM Webinar
 LOCATION:United Nations University\, Guimarães
@@ -63,7 +63,7 @@ URL:https://lykeion.pt/e/eprm-webinar-0a0f3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-55e40-2026-11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Webinar
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:13-november-2026-xtremers-symposium-on-body-as-interface-for-5c074-2026
  -11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:13 November 2026 XTREMERS — Symposium on Body as Interface for Ex
  treme Users conferência Faculdade de Belas Artes\, Universidade do Porto 
@@ -86,7 +86,7 @@ URL:https://lykeion.pt/e/13-november-2026-xtremers-symposium-on-body-as-int
 END:VEVENT
 BEGIN:VEVENT
 UID:drca-webinar-comercio-eletronico-84263-2026-11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:DRCA - Webinar Comércio Eletrónico
 LOCATION:Ordem dos Economistas
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:online-ciclo-de-webinarios-ser-jornalista-hoje-precariedade-a8082-2026-
  11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T183000
 SUMMARY:Online Ciclo de Webinários “Ser jornalista hoje: precariedade\, 
  novas fronteiras e crise de confiança
@@ -110,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-demand-supply-integrated-planning-for-41c7e-2026
  -11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:Provas de Doutoramento: ''Demand-Supply Integrated Planning for Onl
  ine Grocery Retail: From Strategy to Operations''
@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-internacional-inovacao-e-desafios-em-saude-materna-3a764-2026-1
  1-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T090000
 SUMMARY:Webinar Internacional "Inovação e Desafios em Saúde Materna"
 LOCATION:Escola Superior de Enfermagem de Lisboa
@@ -133,7 +133,7 @@ URL:https://lykeion.pt/e/webinar-internacional-inovacao-e-desafios-em-saude
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-webinarios-de-protecao-de-dados-23-60936-2026-11-14@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T120000
 SUMMARY:Ciclo de webinários de Proteção de Dados ’23
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:grupo-de-estudos-em-diabetologia-organiza-webinar-no-dia-mun-3bd0c-2026
  -11-14@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T100000
 SUMMARY:Grupo de Estudos em Diabetologia organiza webinar no Dia Mundial da
   Diabetes (14 de novembro)!
@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-demand-supply-integrated-planning-for-96d53-2026
  -11-14@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T140000
 SUMMARY:Provas de Doutoramento: ''Demand-Supply Integrated Planning for Onl
  ine Grocery Retail: From Strategy to Operations''
@@ -171,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-de-cardio-oncologia-com-a-sociedade-brasileira-de-ca-f6afd-2026
  -11-14@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Webinar de Cardio-Oncologia com a Sociedade Brasileira de Cardiolog
  ia
@@ -183,7 +183,7 @@ URL:https://lykeion.pt/e/webinar-de-cardio-oncologia-com-a-sociedade-brasil
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-7f14e-2026-11-16@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Webinar
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
@@ -195,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:memory-and-collective-identity-activists-narratives-of-the-a-9fa83-2026
  -11-17@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Memory and Collective Identity: Activists’ Narratives of the Arme
  d Conflict in Former Basque and Northern Irish Radical Milieus Seminário
@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ivo-filipe-silva-maia-modelo-de-susten-48a1c-2026
  -11-17@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Provas de Mestrado de IVO FILIPE SILVA MAIA «Modelo de Sustentabil
  idade Cultural Híbrido Relatório de Estágio no Espaço Agra»
@@ -220,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-camila-de-oliveira-rufino-a-nova-ad19c-2026
  -11-17@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:Provas de Mestrado de MARIA CAMILA DE OLIVEIRA RUFINO «A nova face
  ta do patriarcado? Manutenção de hegemonia em língua portuguesa atravé
@@ -233,11 +233,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-camila-de-oliveira-ruf
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-c1713-2026-11-18@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Webinar
 LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
 DESCRIPTION:https://www.spedm.pt/pt/agenda/webinar-nutricao-e-cancro
 URL:https://lykeion.pt/e/webinar-c1713.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-on-african-urban-planning-e82d3-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T120000
+SUMMARY:Webinar on African Urban Planning
+LOCATION:Associacao Portuguesa de Sociologia
+DESCRIPTION:https://aps.pt/event/webinar-on-african-urban-planning/
+URL:https://lykeion.pt/e/webinar-on-african-urban-planning-e82d3.html
 END:VEVENT
 END:VCALENDAR

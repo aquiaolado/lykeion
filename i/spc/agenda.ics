@@ -6,8 +6,21 @@ X-WR-CALNAME:SPC (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:reuniao-anual-do-grupo-de-estudo-de-risco-cardiovascular-e-g-2b423-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Reunião anual do Grupo de Estudo de Risco Cardiovascular e GE de F
+ isiopatologia do Esforço e Reabilitação Cardíaca
+LOCATION:Sociedade Portuguesa de Cardiologia
+DESCRIPTION:https://spc.pt/evento/reuniao-anual-do-grupo-de-estudo-de-risco
+ -cardiovascular-e-ge-de-fisiopatologia-do-esforco-e-reabilitacao-cardiaca/
+URL:https://lykeion.pt/e/reuniao-anual-do-grupo-de-estudo-de-risco-cardiova
+ scular-e-g-2b423.html
+END:VEVENT
+BEGIN:VEVENT
 UID:congresso-nacional-da-ordem-dos-medicos-5a5c8-2026-11-12@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Congresso Nacional da Ordem dos Médicos
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -16,7 +29,7 @@ URL:https://lykeion.pt/e/congresso-nacional-da-ordem-dos-medicos-5a5c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:4o-forum-rpc-676c6-2026-11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:4o FÓRUM RPC
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -26,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-de-cardio-oncologia-com-a-sociedade-brasileira-de-ca-f6afd-2026
  -11-14@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Webinar de Cardio-Oncologia com a Sociedade Brasileira de Cardiolog
  ia

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:apresentacao-do-livro-inter-ditos-intimidade-poder-e-desejo-4afd8-2026-
  11-07@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Apresentação do livro “(INTER)DITOS: INTIMIDADE\, PODER E DESEJ
  O NO CASAL HETEROSSEXUAL”\, de Iolanda Fontaínhas
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-erc-novas-fronteiras-da-regulacao-dos-media-20f88-2026-11-1
  0@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Conferência ERC “Novas Fronteiras da Regulação dos Media
 LOCATION:Associacao Portuguesa de Sociologia
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-internacional-social-mentoring-in-europe-prospec-440ed-2026
  -11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Conferência Internacional “Social Mentoring in Europe: Prospects
   for Social Inclusion and Engagement
@@ -46,8 +46,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxx-congresso-internacional-da-acms-afirmacoes-e-regressoes-e0be5-2026-
  11-13@lagenda.pt
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T000000
 SUMMARY:XXX Congresso Internacional da ACMS : “AFIRMAÇÕES E REGRESSÕES
   DA DEMOCRACIA NUM MUNDO GLOBAL
 LOCATION:Associacao Portuguesa de Sociologia
@@ -59,13 +59,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-ed469-2026-11-18@lagenda.p
  t
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T000000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Associacao Portuguesa de Sociologia
 DESCRIPTION:https://aps.pt/event/xi-congresso-mundial-de-infancia-e-juventu
  de/
 URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-ed469
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-on-african-urban-planning-e82d3-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T120000
+SUMMARY:Webinar on African Urban Planning
+LOCATION:Associacao Portuguesa de Sociologia
+DESCRIPTION:https://aps.pt/event/webinar-on-african-urban-planning/
+URL:https://lykeion.pt/e/webinar-on-african-urban-planning-e82d3.html
 END:VEVENT
 END:VCALENDAR

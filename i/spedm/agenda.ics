@@ -6,8 +6,20 @@ X-WR-CALNAME:SPEDM (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:reuniao-de-outono-do-grupo-de-estudo-da-tiroide-2026-3dae1-2026-11-07@l
+ agenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Reunião de Outono do Grupo de Estudo da Tiroide 2026
+LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
+DESCRIPTION:https://www.spedm.pt/pt/agenda/reuniao-de-outono-do-grupo-de-es
+ tudo-da-tiroide-2026
+URL:https://lykeion.pt/e/reuniao-de-outono-do-grupo-de-estudo-da-tiroide-20
+ 26-3dae1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:webinar-c1713-2026-11-18@lagenda.pt
-DTSTAMP:20261105T000000Z
+DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Webinar
 LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
