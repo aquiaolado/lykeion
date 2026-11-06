@@ -5,7 +5,7 @@
 // Visitantes únicos: um resumo (hash) do IP + navegador com um «sal» aleatório do dia; o sal é apagado ao fim de
 // dois dias e os resumos também, por isso não se consegue saber quem visitou nem seguir ninguém de um dia para o outro.
 // Lido pela gestão (gestao/?indicadores).
-foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/config.php")) { require_once "$d/db.php"; break; }
+foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/db.php") && (is_file("$d/config.php") || is_file(dirname((string) realpath($d), 2) . '/privado/config.php'))) { require_once "$d/db.php"; break; }
 header('Cache-Control: no-store'); http_response_code(204);
 if (!function_exists('bd')) exit;
 $ua = (string)($_SERVER['HTTP_USER_AGENT'] ?? '');

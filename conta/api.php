@@ -10,7 +10,7 @@
 // Os pedidos POST têm de trazer o cabeçalho X-Lagenda (defesa contra pedidos forjados por outros sites).
 
 // privado/ com config.php: o do próprio site (lagenda.pt) ou, na pré-visualização em asfeiras.pt/lagenda/, o do asfeiras
-foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/config.php")) { require_once "$d/db.php"; break; }
+foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/db.php") && (is_file("$d/config.php") || is_file(dirname((string) realpath($d), 2) . '/privado/config.php'))) { require_once "$d/db.php"; break; }
 header('Content-Type: application/json; charset=utf-8');
 header('Cache-Control: no-store');
 if (!function_exists('bd')) { http_response_code(503); echo json_encode(['erro' => 'As contas ainda não estão ligadas neste servidor.']); exit; }

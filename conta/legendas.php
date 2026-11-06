@@ -7,7 +7,7 @@
 //   GET  ?foto=NOME&k=CHAVE    → mostra uma fotografia por rever
 //   POST ?rever&k=CHAVE: id, decisao (aprovar | rejeitar)
 // As fotos por rever ficam em privado/legendas/ e as aprovadas em fotos/l/ (fora do git).
-foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/config.php")) { require_once "$d/db.php"; $PRIV = $d; break; }
+foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/db.php") && (is_file("$d/config.php") || is_file(dirname((string) realpath($d), 2) . '/privado/config.php'))) { require_once "$d/db.php"; $PRIV = $d; break; }
 if (!function_exists('bd')) { http_response_code(503); header('Content-Type: application/json; charset=utf-8'); echo json_encode(['erro' => 'As contas ainda não estão ligadas neste servidor.']); exit; }
 
 const MAX_FRASE = 200;
