@@ -6,17 +6,6 @@ X-WR-CALNAME:SPECAN (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conferencia-os-proximos-cinco-anos-793ca-2026-11-09@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T113000
-SUMMARY:Conferência "Os próximos cinco anos"
-LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
- iada\, Porto
-DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-os-proximos-cinco
- -anos-jornadas-de-investigacao-2026
-URL:https://lykeion.pt/e/conferencia-os-proximos-cinco-anos-793ca.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-de-abertura-cdbbe-2026-11-09@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T091500
@@ -26,6 +15,17 @@ LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
 DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-de-abertura-jorna
  das-de-investigacao-2026
 URL:https://lykeion.pt/e/conferencia-de-abertura-cdbbe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-os-proximos-cinco-anos-793ca-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T113000
+SUMMARY:Conferência «Os próximos cinco anos»
+LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
+ iada\, Porto
+DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-os-proximos-cinco
+ -anos-jornadas-de-investigacao-2026
+URL:https://lykeion.pt/e/conferencia-os-proximos-cinco-anos-793ca.html
 END:VEVENT
 BEGIN:VEVENT
 UID:jornadas-is-up-e-conferencia-anual-do-instituto-de-sociologi-59c44-2026

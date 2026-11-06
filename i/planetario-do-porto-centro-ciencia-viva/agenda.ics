@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Planetário do Porto - Centro Ciência Viva (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+END:VCALENDAR

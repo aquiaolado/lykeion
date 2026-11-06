@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Arquivo Municipal de Lisboa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:jornal-arkivo-2233e-2026-11-16@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Jornal Arkivo
+LOCATION:Arquivo Municipal de Lisboa\, Campolide
+DESCRIPTION:https://www.agendalx.pt/events/event/jornal-arkivo/
+URL:https://lykeion.pt/e/jornal-arkivo-2233e.html
+END:VEVENT
+END:VCALENDAR

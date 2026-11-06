@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ICBAS – Instituto de Ciências Biomédicas Abel Salazar (Lyk
+ eion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:uma-saude-ciencia-clima-e-futuro-6f8a2-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Uma Saúde: Ciência\, Clima e Futuro!
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/onehealthday?from_unit=icbas
+URL:https://lykeion.pt/e/uma-saude-ciencia-clima-e-futuro-6f8a2.html
+END:VEVENT
+END:VCALENDAR

@@ -326,3 +326,19 @@ h2.dia-t{font-size:1.15rem;margin:22px 0 6px}
 @media (max-width:600px){.ctab td:last-child{width:35%}}
 /* academia/provas/ (4/11/2026) */
 .provas .prova{border-bottom:1px solid #0001;padding:.6rem 0}.provas .prova p{margin:.15rem 0}.provas .prova .rot{font-size:.85rem;opacity:.8}
+/* 6/11/2026 — as 7 melhorias do site */
+/* menu do telemóvel: só o essencial; Mapa e Artistas ficam no rodapé e na entrada */
+@media (max-width:600px){.menu a.largo{display:none}}
+/* cartões sem imagem: só texto, sem bloco vazio */
+.tq-card:has(.tq-fig .sem-img){grid-template-rows:1fr}
+.tq-card:has(.tq-fig .sem-img) .tq-fig{display:none}
+@media (max-width:600px){.tq-card:has(.tq-fig .sem-img){grid-template-columns:minmax(0,1fr)}}
+.ev-topo:has(.ev-img > .sem-img){grid-template-columns:minmax(0,1fr)}
+.ev-topo:has(.ev-img > .sem-img) .ev-img{display:none}
+/* página do evento: facto primeiro */
+.ev-factos{margin:10px 0 14px;font-size:1.05rem}
+.ev-factos b{font:500 1rem/1.4 var(--f-hora);color:var(--cobalto)}
+/* entrada curta: atalhos para a agenda */
+.explorar .atalhos{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.explorar .atalhos .ch{text-decoration:none}
+.agenda-mais{display:flex;justify-content:center;margin:18px 0 6px}

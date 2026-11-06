@@ -7,6 +7,17 @@ X-WR-CALNAME:NOVA FCSH – Faculdade de Ciências Sociais e Humanas (Lykeio
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:1936-1939-espanha-fraturada-c70bb-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:1936-1939: Espanha Fraturada
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas\, Avenidas 
+ Novas
+DESCRIPTION:https://www.agendalx.pt/events/event/1936-1939-espanha-fraturad
+ a/
+URL:https://lykeion.pt/e/1936-1939-espanha-fraturada-c70bb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:visita-orientada-a-exposicao-edson-chagas-intimate-distance-dd687-2026-
  11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -31,5 +42,18 @@ DESCRIPTION:https://www.fcsh.unl.pt/eventos/irmgard-emmelhainz-sobre-violen
  cia-predatoria-e-omnicida/
 URL:https://lykeion.pt/e/seminario-irmgard-emmelhainz-sobre-violencia-preda
  toria-e-om-22e06.html
+END:VEVENT
+BEGIN:VEVENT
+UID:12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-2-00-pm-no-30e4c-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T123000
+SUMMARY:12:30 pm 2:00 pm Inquietações Apetitosas 12:30 pm - 2:00 pm Nova 
+ Fcsh\, Colégio Almada Negreiros\, Copa \, Campus de Campolide da NOVA —
+  1099-085 Lisboa Tipologia do Evento: Outros
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/inquietacoes-apetitosas-01/
+URL:https://lykeion.pt/e/12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-
+ 2-00-pm-no-30e4c.html
 END:VEVENT
 END:VCALENDAR

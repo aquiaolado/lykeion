@@ -10,7 +10,7 @@ UID:2-o-encontro-de-bibliotecas-na-universidade-de-23c64-2026-11-06@lagenda
  .pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T093000
-SUMMARY:2.o Encontro de Bibliotecas na Universidade de...
+SUMMARY:2.º Encontro de Bibliotecas na Universidade de...
 LOCATION:Universidade de Évora\, Évora
 DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47580
 URL:https://lykeion.pt/e/2-o-encontro-de-bibliotecas-na-universidade-de-23c
@@ -27,6 +27,16 @@ DESCRIPTION:https://www.spdv.pt/_7o_workshop_em_dermatologia_cosmetica_e_es
  tetica
 URL:https://lykeion.pt/e/7o-workshop-em-dermatologia-cosmetica-e-estetica-b
  dcdb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:antropo-cenico-no-tempo-dos-humanos-da89b-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Antropo(cénico): No tempo dos Humanos
+LOCATION:Museu Nacional de História Natural e da Ciência\, Santo António
+DESCRIPTION:https://www.agendalx.pt/events/event/antropocenico-no-tempo-dos
+ -humanos/
+URL:https://lykeion.pt/e/antropo-cenico-no-tempo-dos-humanos-da89b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-de-livro-os-majores-de-maio-a4a85-2026-11-06@lagenda.pt
@@ -106,7 +116,7 @@ UID:conversas-com-sentido-ii-ciclo-de-tertulias-d7447-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T143000
 SUMMARY:Conversas com Sentido” – II Ciclo de Tertúlias
-LOCATION:Local na página do evento\, Caminha
+LOCATION:Caminha\, Caminha
 DESCRIPTION:https://www.cm-caminha.pt/visitar/agenda-proximos-eventos/event
  o/conversas-com-sentido-ii-ciclo-de-tertulias
 URL:https://lykeion.pt/e/conversas-com-sentido-ii-ciclo-de-tertulias-d7447.
@@ -172,8 +182,8 @@ UID:palestra-entre-imagens-sinteticas-e-ia-conversacional-comuni-e81d6-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T160000
-SUMMARY:Palestra "Entre imagens sintéticas e IA conversacional: comunicaç
- ão\, informação e subjetividade na era algorítmica"
+SUMMARY:Palestra «Entre imagens sintéticas e IA conversacional: comunica
+ ção\, informação e subjetividade na era algorítmica»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/palestra-entre-imagens-sintetic
  as-e-ia
@@ -195,8 +205,8 @@ UID:seminario-de-logica-matematica-was-principia-mathematica-a-f-025cf-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T150000
-SUMMARY:Seminário de Lógica Matemática "Was Principia Mathematica a fail
- ure? Alonzo Church as historian of logic: Frege\, Russell\, and Ramsey"
+SUMMARY:Seminário de Lógica Matemática «Was Principia Mathematica a fai
+ lure? Alonzo Church as historian of logic: Frege\, Russell\, and Ramsey»
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/seminario-de-logica-matemat
  ica-was-principia-mathematica-a-failure-alonzo-church-as-historian-of-logi
@@ -241,10 +251,20 @@ UID:ciencia-em-movimento-palestra-publica-de-astronomia-3653a-2026-11-07@la
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Ciência em Movimento – palestra pública de astronomia
-LOCATION:Local na página do evento\, Velas
+LOCATION:Velas\, Velas
 DESCRIPTION:
 URL:https://lykeion.pt/e/ciencia-em-movimento-palestra-publica-de-astronomi
  a-3653a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:clube-de-ciencia-106ea-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T100000
+SUMMARY:Clube de Ciência
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://lagos.cienciaviva.pt/14861/clube-de-ciencia-|-7-de-nove
+ mbro
+URL:https://lykeion.pt/e/clube-de-ciencia-106ea.html
 END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-nunes-pereira-ecologia-e-modernidade-na-arte-7a439-2026-11-07@
@@ -252,11 +272,65 @@ UID:coloquio-nunes-pereira-ecologia-e-modernidade-na-arte-7a439-2026-11-07@
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Colóquio «Nunes Pereira. Ecologia e Modernidade na Arte»
-LOCATION:Local na página do evento\, Lousã
+LOCATION:Lousã\, Lousã
 DESCRIPTION:https://cm-lousa.pt/eventos/coloquio-nunes-pereira-ecologia-e-m
  odernidade-na-arte/
 URL:https://lykeion.pt/e/coloquio-nunes-pereira-ecologia-e-modernidade-na-a
  rte-7a439.html
+END:VEVENT
+BEGIN:VEVENT
+UID:coloquio-nunes-pereira-ecologia-e-modernidade-na-arte-4bca0-2026-11-07@
+ lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T090000
+SUMMARY:Colóquio «Nunes Pereira: Ecologia e modernidade na arte»
+LOCATION:Lousã (vila)
+DESCRIPTION:
+URL:https://lykeion.pt/e/coloquio-nunes-pereira-ecologia-e-modernidade-na-a
+ rte-4bca0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencias-palestras-a1948-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T134500
+SUMMARY:Conferências/Palestras
+LOCATION:Casa do Território\, Vila Nova de Famalicão
+DESCRIPTION:https://www.parquedadevesa.com/_conferencia_ambientar-se_regene
+ rar&mop=7
+URL:https://lykeion.pt/e/conferencias-palestras-a1948.html
+END:VEVENT
+BEGIN:VEVENT
+UID:manha-de-ciencia-093f1-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T103000
+SUMMARY:Manhã de Ciência
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
+ cia/manhas-de-ciencia
+URL:https://lykeion.pt/e/manha-de-ciencia-093f1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:uma-saude-ciencia-clima-e-futuro-6f8a2-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Uma Saúde: Ciência\, Clima e Futuro!
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/onehealthday?from_unit=icbas
+URL:https://lykeion.pt/e/uma-saude-ciencia-clima-e-futuro-6f8a2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-luis-louro-na-cambridge-public-library-para-conversa-6fb40-2026-
+ 11-08@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Boston: Luís Louro na Cambridge Public Library para conversa sobre
+  Banda Desenhada portuguesa
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/boston-luis-louro-na-cambridge-public-library-para-conve
+ rsa-sobre-banda-desenhada-portuguesa
+URL:https://lykeion.pt/e/boston-luis-louro-na-cambridge-public-library-para
+ -conversa-6fb40.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-b659a-2026-11-08@lagenda.pt
@@ -272,7 +346,7 @@ BEGIN:VEVENT
 UID:20-o-congresso-do-comite-portugues-da-ursi-8bf96-2026-11-09@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261109
-SUMMARY:20.o Congresso do Comité Português da URSI
+SUMMARY:20.º Congresso do Comité Português da URSI
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/20-congresso-do-comite-port
  ugues-da-ursi
@@ -305,7 +379,7 @@ UID:isec-lisboa-recebe-o-4-o-encontro-nacional-do-orsies-06143-2026-11-09@l
  agenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261109
-SUMMARY:ISEC Lisboa recebe o 4.o Encontro Nacional do ORSIES
+SUMMARY:ISEC Lisboa recebe o 4.º Encontro Nacional do ORSIES
 LOCATION:ISEC Lisboa – Instituto Superior de Educação e Ciências
 DESCRIPTION:https://www.iseclisboa.pt/index.php/conhecer/comunicacao-e-medi
  a/eventos/3375-isec-lisboa-recebe-o-4-o-encontro-nacional-do-orsies
@@ -323,6 +397,16 @@ DESCRIPTION:https://www.up.pt/eventos/event/jornadas-de-investigacao-do-is-
 URL:https://lykeion.pt/e/jornadas-de-investigacao-do-is-up-f8d41.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lideranca-na-era-da-ia-f5ad9-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T140000
+SUMMARY:Liderança na era da IA
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.com/e/lideranca-na-era-da-ia-tickets-200
+ 3711010571
+URL:https://lykeion.pt/e/lideranca-na-era-da-ia-f5ad9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-ec67c-2026-11-09@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T113000
@@ -337,7 +421,7 @@ UID:provas-de-mestrado-de-tiago-alexandre-pereira-rodrigues-o-es-7fdf7-2026
  -11-09@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T110000
-SUMMARY:Provas de Mestrado de TIAGO ALEXANDRE PEREIRA RODRIGUES «O espaço
+SUMMARY:Provas de Mestrado de Tiago Alexandre Pereira Rodrigues «O espaço
   de vivência dos alunos como laboratório geográfico: experiência desen
  volvida numa escola TEIP
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -395,6 +479,18 @@ DESCRIPTION:https://www.iseg.ulisboa.pt/event/jornadas-de-outono-de-maeg-7/
 URL:https://lykeion.pt/e/jornadas-de-outono-de-maeg-86b64.html
 END:VEVENT
 BEGIN:VEVENT
+UID:portugal-e-china-no-digital-e-na-inteligencia-artificial-1a793-2026-11-
+ 10@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Portugal e China no Digital e na Inteligência Artificial
+LOCATION:Universidade Lusófona
+DESCRIPTION:https://www.ulusofona.pt/eventos/portugal-e-china-no-digital-e-
+ na-inteligencia-artificial
+URL:https://lykeion.pt/e/portugal-e-china-no-digital-e-na-inteligencia-arti
+ ficial-1a793.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-e2354-2026-11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T140000
@@ -441,7 +537,7 @@ BEGIN:VEVENT
 UID:workshop-ieee-aess-spacetech-b0d60-2026-11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261110
-SUMMARY:Workshop IEEE AESS SpaceTech
+SUMMARY:Workshop Ieee Aess SpaceTech
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/workshop-ieee-aess-spacetech
 URL:https://lykeion.pt/e/workshop-ieee-aess-spacetech-b0d60.html
@@ -450,7 +546,7 @@ BEGIN:VEVENT
 UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T120000
-SUMMARY:2.a Conferência Anual do NOVA Green Lab
+SUMMARY:2.ª Conferência Anual do NOVA Green Lab
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
  ova-green-lab
@@ -566,6 +662,29 @@ URL:https://lykeion.pt/e/aula-aberta-protecao-de-menores-em-ambientes-digit
  ais-a95ee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:card-accessible-link-e4efc-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Card accessible link
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/conversa-de-sofa-sobre-ia-e-s
+ aude-mental
+URL:https://lykeion.pt/e/card-accessible-link-e4efc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:construir-o-futuro-um-evento-nova-fct-ilove2help-d551b-2026-11-12@lagen
+ da.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T020000
+SUMMARY:Construir o Futuro - um evento NOVA FCT & ILOVE2HELP
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/construir-o-futu
+ ro-um-evento-nova-fct-ilove2help
+URL:https://lykeion.pt/e/construir-o-futuro-um-evento-nova-fct-ilove2help-d
+ 551b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:controlo-de-especies-invasoras-sines-ec523-2026-11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T100000
@@ -592,7 +711,7 @@ UID:conversas-com-sentido-debate-violencia-domestica-d7447-2026-11-12@lagen
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T143000
 SUMMARY:Conversas com Sentido” debate violência doméstica
-LOCATION:Local na página do evento\, Caminha
+LOCATION:Caminha\, Caminha
 DESCRIPTION:https://www.cm-caminha.pt/visitar/agenda-proximos-eventos/event
  o/conversas-com-sentido-debate-violencia-domestica
 URL:https://lykeion.pt/e/conversas-com-sentido-debate-violencia-domestica-d
@@ -632,7 +751,7 @@ UID:provas-de-mestrado-de-eduardo-da-silva-soares-a-fragilidade-271f6-2026-
  11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T163000
-SUMMARY:Provas de Mestrado de EDUARDO DA SILVA SOARES «A fragilidade da ve
+SUMMARY:Provas de Mestrado de Eduardo da Silva Soares «A fragilidade da ve
  rdade factual no espaço público segundo Hannah Arendt: uma reflexão ét
  ico-política sobre a democracia em Timor-Leste»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -646,7 +765,7 @@ UID:provas-de-mestrado-de-susana-maria-vieira-ramos-a-utilizacao-8ca5f-2026
  -11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T113000
-SUMMARY:Provas de Mestrado de SUSANA MARIA VIEIRA RAMOS «A utilização da
+SUMMARY:Provas de Mestrado de Susana Maria Vieira Ramos «A utilização da
   Inteligência Artificial Generativa na conceção de materiais didáticos
   para o ensino de Português Língua Estrangeira»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -693,11 +812,25 @@ URL:https://lykeion.pt/e/xxv-congresso-nacional-de-grupanalise-e-psicoterap
  ia-analiti-a15f1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:por-ocasiao-da-estreia-moderna-de-obra-prima-de-niccolo-jomm-07a14-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T173000
+SUMMARY:Por ocasião da estreia moderna de obra-prima de Niccolò Jommelli 
+ (1714-1774): Laudate pueri Dominum a 16 vozes
+LOCATION:Centro de Estudos em Música
+DESCRIPTION:https://cesem.fcsh.unl.pt/event/por-ocasiao-da-estreia-moderna-
+ de-obra-prima-de-niccolo-jommelli-1714-1774-laudate-pueri-dominum-a-16-voz
+ es/
+URL:https://lykeion.pt/e/por-ocasiao-da-estreia-moderna-de-obra-prima-de-ni
+ ccolo-jomm-07a14.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-jose-pedro-da-cunha-alegre-goncalves-o-e8510-2026
  -11-13@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T100000
-SUMMARY:Provas de Mestrado de JOSÉ PEDRO DA CUNHA ALEGRE GONÇALVES «O Pr
+SUMMARY:Provas de Mestrado de José Pedro da Cunha Alegre Gonçalves «O Pr
  ompting como Mediação Reflexiva na Aprendizagem Filosófica. Inteligênc
  ia Artificial Generativa e Prática de Ensino Supervisionada no Ens
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -751,7 +884,7 @@ DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T170000
 SUMMARY:Palestra | Os Romanos debaixo da Quinta de São Domingos – Benesp
  era
-LOCATION:Local na página do evento\, Guarda
+LOCATION:Guarda\, Guarda
 DESCRIPTION:https://www.mun-guarda.pt/agenda-de-eventos/palestra-os-romanos
  -debaixo-da-quinta-de-sao-domingos-benespera/
 URL:https://lykeion.pt/e/palestra-os-romanos-debaixo-da-quinta-de-sao-domin
@@ -807,6 +940,18 @@ URL:https://lykeion.pt/e/ciclo-de-palestras-em-atividade-fisica-e-saude-ada
  ptacion-sa-fbcfd.html
 END:VEVENT
 BEGIN:VEVENT
+UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Das 09:30 às 14:30 Conferência | AI Readiness ISEG\, Auditório C
+ GD (Edifício Quelhas)
+LOCATION:ISEG – Lisbon School of Economics and Management
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/conferencia-ai-readiness/
+URL:https://lykeion.pt/e/das-09-30-as-14-30-conferencia-ai-readiness-iseg-a
+ uditorio-c-0bb39.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontros-great-artists-on-campus-6-90954-2026-11-17@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
@@ -855,7 +1000,7 @@ UID:provas-de-mestrado-de-francisco-luis-pereira-epistemologia-n-9ed17-2026
  -11-17@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T160000
-SUMMARY:Provas de Mestrado de FRANCISCO LUÍS PEREIRA «Epistemologia Narra
+SUMMARY:Provas de Mestrado de Francisco Luís Pereira «Epistemologia Narra
  tiva e Inteligência Artificial: Uma Avaliação Ética do Discurso Polít
  ico»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -869,7 +1014,7 @@ UID:provas-de-mestrado-de-ivo-filipe-silva-maia-modelo-de-susten-48a1c-2026
  -11-17@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
-SUMMARY:Provas de Mestrado de IVO FILIPE SILVA MAIA «Modelo de Sustentabil
+SUMMARY:Provas de Mestrado de Ivo Filipe Silva Maia «Modelo de Sustentabil
  idade Cultural Híbrido Relatório de Estágio no Espaço Agra»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
@@ -892,24 +1037,33 @@ URL:https://lykeion.pt/e/using-ai-across-the-research-lifecycle-leapspacetm
  -scopus-an-07e32.html
 END:VEVENT
 BEGIN:VEVENT
-UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
- -11-17@lagenda.pt
+UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
+ 1-18@lagenda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:das 09:30 às 14:30 Conferência | AI Readiness ISEG\, Auditório C
- GD (Edifício Quelhas)
-LOCATION:ISEG – Lisbon School of Economics and Management
-DESCRIPTION:https://www.iseg.ulisboa.pt/event/conferencia-ai-readiness/
-URL:https://lykeion.pt/e/das-09-30-as-14-30-conferencia-ai-readiness-iseg-a
- uditorio-c-0bb39.html
+DTSTART;TZID=Europe/Lisbon:20261118T160000
+SUMMARY:26 Ciências Sociais à Conversa – Desafios e Oportunidades da...
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
+ versa-desafios-e-oportunidades-da-transicao-energetica/
+URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-desafios-e-oportuni
+ dades-da-285d6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:como-falar-com-o-a-terra-59dc0-2026-11-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Como falar com(o) a terra?
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/counter-image-2026/
+URL:https://lykeion.pt/e/como-falar-com-o-a-terra-59dc0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-alteracoes-climaticas-devemos-ter-medo-do-futuro-a0818-2026
  -11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:Conferência "Alterações climáticas: devemos ter medo do futuro?
- "
+SUMMARY:Conferência «Alterações climáticas: devemos ter medo do futuro
+ ?»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24166
@@ -957,7 +1111,7 @@ UID:provas-de-mestrado-de-filipa-alexandra-pereira-pinho-potenci-8febf-2026
  -11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T140000
-SUMMARY:Provas de Mestrado de FILIPA ALEXANDRA PEREIRA PINHO «Potencialida
+SUMMARY:Provas de Mestrado de Filipa Alexandra Pereira Pinho «Potencialida
  des de um Tutor de Inteligência Artificial no processo de ensino e aprend
  izagem da disciplina de Geografia A. Estudo de caso numa turm
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -971,7 +1125,7 @@ UID:provas-de-mestrado-de-jessica-cristina-almeida-resende-confi-19fd7-2026
  -11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T100000
-SUMMARY:Provas de Mestrado de JÉSSICA CRISTINA ALMEIDA RESENDE «Confirmar
+SUMMARY:Provas de Mestrado de Jéssica Cristina Almeida Resende «Confirmar
   para Comunicar...A utilização de apresentações geradas por inteligên
  cia artificial (Gamma) no desenvolvimento da verificação de factos
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -1004,12 +1158,22 @@ UID:30-a-reuniao-anual-da-sociedade-portuguesa-de-genetica-human-39904-2026
  -11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261119
-SUMMARY:30.a Reunião Anual da Sociedade Portuguesa de Genética Humana
+SUMMARY:30.ª Reunião Anual da Sociedade Portuguesa de Genética Humana
 LOCATION:Sociedade Portuguesa de Neuropediatria\, Porto
 DESCRIPTION:https://neuropediatria.pt/evento/30-a-reuniao-anual-da-sociedad
  e-portuguesa-de-genetica-humana/
 URL:https://lykeion.pt/e/30-a-reuniao-anual-da-sociedade-portuguesa-de-gene
  tica-human-39904.html
+END:VEVENT
+BEGIN:VEVENT
+UID:4rd-annual-conference-nova-bhre-thumbnail-dae13-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:4rd_Annual_Conference_NOVA_BHRE_thumbnail
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/iv-conferencia-anual-do-nova-bhre/
+URL:https://lykeion.pt/e/4rd-annual-conference-nova-bhre-thumbnail-dae13.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-big-data-and-human-genetics-spgh-30th-annual-meeting-pre-40e17-2026-
@@ -1029,7 +1193,7 @@ BEGIN:VEVENT
 UID:iv-conferencia-anual-do-nova-bhre-09c38-2026-11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T120000
-SUMMARY:IV Conferência Anual do NOVA BHRE
+SUMMARY:IV Conferência Anual do Nova Bhre
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/iv-conferencia-anual-do-no
  va-bhre
@@ -1067,5 +1231,15 @@ LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24195
 URL:https://lykeion.pt/e/workshop-from-zero-to-solana-5f1c5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:arbitragem-retomando-a-normalidade-e93d8-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T140000
+SUMMARY:«Arbitragem: retomando a normalidade»
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/conferencia-arbitragem-retomando-a-norma
+ lidade/
+URL:https://lykeion.pt/e/arbitragem-retomando-a-normalidade-e93d8.html
 END:VEVENT
 END:VCALENDAR

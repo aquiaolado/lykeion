@@ -6,6 +6,26 @@ X-WR-CALNAME:Engenharia e Tecnologia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:1936-1939-espanha-fraturada-c70bb-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:1936-1939: Espanha Fraturada
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas\, Avenidas 
+ Novas
+DESCRIPTION:https://www.agendalx.pt/events/event/1936-1939-espanha-fraturad
+ a/
+URL:https://lykeion.pt/e/1936-1939-espanha-fraturada-c70bb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-4f43c-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -21,12 +41,48 @@ UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-06@lagend
  a.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
-SUMMARY:Ciclo de conferências "O que diz o Direito Civil?"
+SUMMARY:Ciclo de conferências «O que diz o Direito Civil?»
 LOCATION:Universidade do Minho\, Braga
 DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
  o.aspx?Codigo=68370
 URL:https://lykeion.pt/e/ciclo-de-conferencias-o-que-diz-o-direito-civil-97
  4d7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-nos-90-anos-da-guerra-civil-de-espanha-f3042-2026-11-06@lag
+ enda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Conferência “NOS 90 Anos da Guerra Civil de Espanha
+LOCATION:Biblioteca Municipal de Viana do Castelo - Alameda 5 de Outubro\, 
+ 4900-515 Viana do Castelo\, Viana do Castelo
+DESCRIPTION:https://www.cm-viana-castelo.pt/areas-de-atividade/comunicacao/
+ agenda-de-eventos/evento/conferencia-nos-90-anos-da-guerra-civil-de-espanh
+ a
+URL:https://lykeion.pt/e/conferencia-nos-90-anos-da-guerra-civil-de-espanha
+ -f3042.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencias-e-debates-workshops-conferencias-e-debates-work-c241d-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T143000
+SUMMARY:Conferências e Debates Workshops Conferências e Debates Workshops
+LOCATION:Culturgest | Lisboa\, Almeida
+DESCRIPTION:https://www.culturgest.pt/pt/programacao/dialogos-europeus-e-no
+ ite-das-ideias-retomar-os-lacos/
+URL:https://lykeion.pt/e/conferencias-e-debates-workshops-conferencias-e-de
+ bates-work-c241d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iot-na-nossa-casa-e-na-industria-a4e8a-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T090000
+SUMMARY:IoT na nossa casa e na indústria
+LOCATION:Instituto Superior de Entre Douro e Vouga\, Santa Maria da Feira
+DESCRIPTION:https://www.eventbrite.pt/e/bilhetes-iot-na-nossa-casa-e-na-ind
+ ustria-2003141558324
+URL:https://lykeion.pt/e/iot-na-nossa-casa-e-na-industria-a4e8a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-online-order-allocation-from-problem-2e129-2026-
@@ -83,7 +139,7 @@ UID:isec-lisboa-recebe-o-4-o-encontro-nacional-do-orsies-06143-2026-11-09@l
  agenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261109
-SUMMARY:ISEC Lisboa recebe o 4.o Encontro Nacional do ORSIES
+SUMMARY:ISEC Lisboa recebe o 4.º Encontro Nacional do ORSIES
 LOCATION:ISEC Lisboa – Instituto Superior de Educação e Ciências
 DESCRIPTION:https://www.iseclisboa.pt/index.php/conhecer/comunicacao-e-medi
  a/eventos/3375-isec-lisboa-recebe-o-4-o-encontro-nacional-do-orsies
@@ -95,7 +151,7 @@ UID:provas-de-mestrado-de-luis-miguel-de-freitas-goncalves-o-cus-aa74a-2026
  -11-09@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T110000
-SUMMARY:Provas de Mestrado de LUIS MIGUEL DE FREITAS GONÇALVES «O Custo T
+SUMMARY:Provas de Mestrado de Luis Miguel de Freitas Gonçalves «O Custo T
  emporal da Pendularidade em Santo Tirso: Transporte Público vs Transporte
   Individual»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -103,6 +159,16 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  00614
 URL:https://lykeion.pt/e/provas-de-mestrado-de-luis-miguel-de-freitas-gonca
  lves-o-cus-aa74a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:unu-global-health-at-cop31-9be24-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T120000
+SUMMARY:UNU Global Health at COP31
+LOCATION:United Nations University Operating Unit on Policy-Driven Electron
+ ic Governance\, Guimarães
+DESCRIPTION:https://unu.edu/global-health/event/unu-global-health-cop31
+URL:https://lykeion.pt/e/unu-global-health-at-cop31-9be24.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-europeu-de-e-8045d-2026
@@ -123,8 +189,8 @@ UID:auditorio-marques-de-almeida-1-o-forum-de-inovacao-e-sustent-6c08c-2026
  -11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
-SUMMARY:Auditório Marques de Almeida 1.o Fórum de Inovação e Sustentabi
- lidade
+SUMMARY:Auditório Marques de Almeida 1.º Fórum de Inovação e Sustentab
+ ilidade
 LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
   Coimbra
 DESCRIPTION:https://www.iscac.pt/eventos/1-o-forum-de-inovacao-e-sustentabi
@@ -159,7 +225,7 @@ BEGIN:VEVENT
 UID:workshop-ieee-aess-spacetech-b0d60-2026-11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261110
-SUMMARY:Workshop IEEE AESS SpaceTech
+SUMMARY:Workshop Ieee Aess SpaceTech
 LOCATION:Instituto Superior de Engenharia de Lisboa
 DESCRIPTION:https://www.isel.pt/eventos/workshop-ieee-aess-spacetech
 URL:https://lykeion.pt/e/workshop-ieee-aess-spacetech-b0d60.html
@@ -168,7 +234,7 @@ BEGIN:VEVENT
 UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T120000
-SUMMARY:2.a Conferência Anual do NOVA Green Lab
+SUMMARY:2.ª Conferência Anual do NOVA Green Lab
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
  ova-green-lab
@@ -192,7 +258,7 @@ UID:provas-de-mestrado-de-tomas-joao-vieira-de-sampaio-alem-do-m-55e6c-2026
  -11-11@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T100000
-SUMMARY:Provas de Mestrado de TOMÁS JOÃO VIEIRA DE SAMPAIO « Além do ma
+SUMMARY:Provas de Mestrado de Tomás João Vieira de Sampaio « Além do ma
  nual: A adaptação e criação de materiais didáticos e a sua relação 
  com a perceção dos alunos sobre a motivação e o envolvimento nas aulas
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -228,6 +294,17 @@ URL:https://lykeion.pt/e/conferencia-setor-dos-transportes-os-biofuels-na-t
  ransicao-e-99239.html
 END:VEVENT
 BEGIN:VEVENT
+UID:gestao-de-energia-e-eficiencia-energetica-e9b48-2026-11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Gestão de Energia e Eficiência Energética
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-energia-e-eficiencia-e
+ nergetica/
+URL:https://lykeion.pt/e/gestao-de-energia-e-eficiencia-energetica-e9b48.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:palestra-a-obra-mais-dificil-da-minha-carreira-profissional-b67d3-2026-
  11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -244,7 +321,7 @@ UID:provas-de-mestrado-de-susana-maria-vieira-ramos-a-utilizacao-8ca5f-2026
  -11-12@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T113000
-SUMMARY:Provas de Mestrado de SUSANA MARIA VIEIRA RAMOS «A utilização da
+SUMMARY:Provas de Mestrado de Susana Maria Vieira Ramos «A utilização da
   Inteligência Artificial Generativa na conceção de materiais didáticos
   para o ensino de Português Língua Estrangeira»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -262,6 +339,16 @@ LOCATION:Ordem dos Economistas
 DESCRIPTION:https://www.ordemeconomistas.pt/xportalv3/eventos/eventos/event
  o.xvw?p=89052491&drca---webinar-comércio-eletrónico--13-de-novembro
 URL:https://lykeion.pt/e/drca-webinar-comercio-eletronico-84263.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eficiencia-energetica-na-pratica-a0aef-2026-11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T183000
+SUMMARY:Eficiência Energética na Prática
+LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
+DESCRIPTION:https://www.ccvfloresta.com/actividades/cafes-de-ciencia/607-ef
+ iciencia-energetica
+URL:https://lykeion.pt/e/eficiencia-energetica-na-pratica-a0aef.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-demand-supply-integrated-planning-for-41c7e-2026
@@ -327,13 +414,25 @@ UID:provas-de-mestrado-de-ivo-filipe-silva-maia-modelo-de-susten-48a1c-2026
  -11-17@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
-SUMMARY:Provas de Mestrado de IVO FILIPE SILVA MAIA «Modelo de Sustentabil
+SUMMARY:Provas de Mestrado de Ivo Filipe Silva Maia «Modelo de Sustentabil
  idade Cultural Híbrido Relatório de Estágio no Espaço Agra»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  00651
 URL:https://lykeion.pt/e/provas-de-mestrado-de-ivo-filipe-silva-maia-modelo
  -de-susten-48a1c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
+ 1-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T160000
+SUMMARY:26 Ciências Sociais à Conversa – Desafios e Oportunidades da...
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
+ versa-desafios-e-oportunidades-da-transicao-energetica/
+URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-desafios-e-oportuni
+ dades-da-285d6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-on-the-role-of-dry-fibre-preform-auto-da4af-2026
@@ -372,10 +471,20 @@ DESCRIPTION:https://www.iscal.upl.pt/eventos/seminarios-de-internacionaliza
 URL:https://lykeion.pt/e/seminarios-de-internacionalizacao-26-27-f8ae0.html
 END:VEVENT
 BEGIN:VEVENT
+UID:4rd-annual-conference-nova-bhre-thumbnail-dae13-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:4rd_Annual_Conference_NOVA_BHRE_thumbnail
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/iv-conferencia-anual-do-nova-bhre/
+URL:https://lykeion.pt/e/4rd-annual-conference-nova-bhre-thumbnail-dae13.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:iv-conferencia-anual-do-nova-bhre-09c38-2026-11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T120000
-SUMMARY:IV Conferência Anual do NOVA BHRE
+SUMMARY:IV Conferência Anual do Nova Bhre
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/iv-conferencia-anual-do-no
  va-bhre

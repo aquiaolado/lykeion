@@ -19,7 +19,9 @@
   fetch(B + "academia.json").then(r => r.json()).then(D => {
     const SUB = Object.fromEntries(D.subtipos.map(([s, n, f]) => [s, { n, f }]));
     const AREA = Object.fromEntries(D.areas), FINA = Object.fromEntries(D.finas.map(([s, n]) => [s, n]));
-    const est = Object.assign({ fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false, provas: true, q: "" }, ler("lagenda-academia", {}), { q: "" });
+    // 6/11/2026: o botão «Com provas públicas» saiu (as provas filtram-se em «Provas e atos académicos»); as provas aparecem sempre
+    const est = Object.assign({ fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false, q: "" }, ler("lagenda-academia", {}), { q: "", provas: true });
+    const PASSO = 60; let mostrar = PASSO;  // a lista mostra 60 eventos de cada vez («Mostrar mais»), não os 1 400 seguidos
     const h = decodeURIComponent(location.hash.slice(1));  // #congresso, #saude, #ulisboa, #provas…
     if (h) Object.assign(est, { fa: "", sub: "", area: "", inst: "" },
       D.familias.some(([s]) => s === h) ? { fa: h } : SUB[h] ? { sub: h } : AREA[h] ? { area: h } : D.inst[h] ? { inst: h } : {});
@@ -49,21 +51,23 @@
       return true;
     };
     const linha = (e, d) => {
+      // 6/11/2026: sem a etiqueta «Aberto» (quase tudo é aberto; mostra-se o contrário), sem «—» sem hora, sem miniatura sem imagem
       const hh = hora(e.h), etq = [(SUB[e.s] || {}).n].concat(e.m === "online" ? ["Online"] : e.m === "hibrido" ? ["Também online"] : [])
-        .concat(e.ac === "livre" || e.g ? ["Aberto"] : e.ac === "pago" ? ["Inscrição paga"] : e.ac === "inscricao" ? ["Com inscrição"] : [])
+        .concat(e.ac === "pago" ? ["Inscrição paga"] : e.ac === "inscricao" ? ["Com inscrição"] : [])
         .concat(e.li === "en" ? ["Em inglês"] : []);
-      const img = e.i ? `<img src="${esc(e.i)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : `<span class="sem-img">${esc(e.n).slice(0, 60)}</span>`;
-      return `<a class="li" href="${B}e/${e.pg}.html"><span class="hr${hh ? "" : " sem"}">${hh || "—"}</span><span class="mi">${img}</span>` +
+      const mi = e.i ? `<span class="mi"><img src="${esc(e.i)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.li').classList.add('sem-mi');this.parentNode.remove()"></span>` : "";
+      return `<a class="li${mi ? "" : " sem-mi"}" href="${B}e/${e.pg}.html"><span class="hr${hh ? "" : " sem"}">${hh}</span>${mi}` +
         `<span class="tx"><span class="ti">${esc(e.n)}</span><br><span class="lg">${esc(nomeInst(e.in) || e.l)}${e.o ? " · " + esc(e.o) : ""}` +
         `${e.a.length ? " · " + e.a.map(a => esc(AREA[a])).join(", ") : ""}</span></span>` +
-        `<span class="dir">${etq.map(t => `<span class="tag${t === "Aberto" ? " livre" : ""}">${esc(t)}</span>`).join("")}</span></a>`;
+        `<span class="dir">${etq.map(t => `<span class="tag">${esc(t)}</span>`).join("")}</span></a>`;
     };
     const desenha = () => {
       document.querySelectorAll("#afam [data-fa]").forEach(b => b.setAttribute("aria-pressed", b.dataset.fa === est.fa));
       $("aonline").setAttribute("aria-pressed", est.modo === "online");
       $("apresencial").setAttribute("aria-pressed", est.modo === "presencial");
       $("aaberto").setAttribute("aria-pressed", est.aberto);
-      $("aprovas").setAttribute("aria-pressed", est.provas);
+      const nf = [est.sub, est.area, est.inst, est.dist, est.modo, est.aberto].filter(Boolean).length;
+      if ($("anf")) $("anf").textContent = nf ? "(" + nf + ")" : "";
       // cada evento aparece no próximo dia em que acontece; os abertos ao público primeiro
       const dias = {};
       for (const e of D.ev) {
@@ -72,23 +76,31 @@
         (dias[d] = dias[d] || []).push(e);
       }
       const ordem = e => (e.ac === "livre" || e.g ? 0 : e.ac === "pago" ? 2 : 1);
-      let html = "", total = 0;
+      let html = "", total = 0, postos = 0;
       for (const d of Object.keys(dias).sort()) {
         const evs = dias[d].sort((a, b) => ordem(a) - ordem(b) || (hora(a.h) || "99").localeCompare(hora(b.h) || "99") || a.n.localeCompare(b.n));
         total += evs.length; const x = dt(d);
-        html += `<div class="dia"><h3>${d === hoje ? "Hoje" : SEML[x.getDay()]}, ${x.getDate()} de ${MESL[x.getMonth()]}${x.getFullYear() !== dt(hoje).getFullYear() ? " de " + x.getFullYear() : ""} <small>${evs.length}</small></h3>${evs.map(e => linha(e, d)).join("")}</div>`;
+        if (postos >= mostrar) continue;
+        const vai = evs.slice(0, mostrar - postos); postos += vai.length;
+        html += `<div class="dia"><h3>${d === hoje ? "Hoje" : SEML[x.getDay()]}, ${x.getDate()} de ${MESL[x.getMonth()]}${x.getFullYear() !== dt(hoje).getFullYear() ? " de " + x.getFullYear() : ""} <small>${evs.length}</small></h3>${vai.map(e => linha(e, d)).join("")}</div>`;
       }
+      if (total > postos) html += `<p class="lyk-maisev"><button class="bt" id="amaisev">Mostrar mais (faltam ${total - postos})</button></p>`;
       caixa.innerHTML = html || '<p class="vazio">Nada com estes filtros. Experimente tirar um.</p>';
       $("acontagem").textContent = `${total} ${total === 1 ? "evento" : "eventos"} de hoje em diante`;
       gravar("lagenda-academia", Object.assign({}, est, { q: "" }));
     };
-    $("afam").addEventListener("click", ev => { const b = ev.target.closest("[data-fa]"); if (b) { est.fa = b.dataset.fa; desenha(); } });
-    [["asub", "sub"], ["aarea", "area"], ["ainst", "inst"], ["adist", "dist"]].forEach(([id, k]) => $(id).addEventListener("change", ev => { est[k] = ev.target.value; desenha(); }));
-    $("aonline").addEventListener("click", () => { est.modo = est.modo === "online" ? "" : "online"; desenha(); });
-    $("apresencial").addEventListener("click", () => { est.modo = est.modo === "presencial" ? "" : "presencial"; desenha(); });
-    $("aaberto").addEventListener("click", () => { est.aberto = !est.aberto; desenha(); });
-    $("aprovas").addEventListener("click", () => { est.provas = !est.provas; desenha(); });
-    $("abusca").addEventListener("input", ev => { est.q = ev.target.value.trim(); desenha(); });
+    const muda = () => { mostrar = PASSO; desenha(); };  // um filtro novo volta aos primeiros 60
+    $("afam").addEventListener("click", ev => { const b = ev.target.closest("[data-fa]"); if (b) { est.fa = b.dataset.fa; muda(); } });
+    [["asub", "sub"], ["aarea", "area"], ["ainst", "inst"], ["adist", "dist"]].forEach(([id, k]) => $(id).addEventListener("change", ev => { est[k] = ev.target.value; muda(); }));
+    $("aonline").addEventListener("click", () => { est.modo = est.modo === "online" ? "" : "online"; muda(); });
+    $("apresencial").addEventListener("click", () => { est.modo = est.modo === "presencial" ? "" : "presencial"; muda(); });
+    $("aaberto").addEventListener("click", () => { est.aberto = !est.aberto; muda(); });
+    $("abusca").addEventListener("input", ev => { est.q = ev.target.value.trim(); muda(); });
+    caixa.addEventListener("click", ev => { if (ev.target.id === "amaisev") { mostrar += PASSO * 2; desenha(); } });
+    if ($("aabrir")) $("aabrir").addEventListener("click", () => {  // telemóvel: os filtros abrem e fecham
+      const f = $("afiltros"), aberto = !f.classList.contains("aberto");
+      f.classList.toggle("aberto", aberto); $("aabrir").setAttribute("aria-expanded", aberto);
+    });
     desenha();
 
     // «Olá, <nome>» na entrada do Lykeion: o que vem das instituições (e das suas unidades), áreas e listas que a pessoa segue

@@ -6,25 +6,12 @@ X-WR-CALNAME:UBI (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:fundamentos-da-educacao-no-requisite-e-leia-da-biblioteca-da-84526-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:"Fundamentos da Educação" no Requisite e Leia da Biblioteca da FC
- SH
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
-DESCRIPTION:https://www.ubi.pt/Evento/24179
-URL:https://lykeion.pt/e/fundamentos-da-educacao-no-requisite-e-leia-da-bib
- lioteca-da-84526.html
-END:VEVENT
-BEGIN:VEVENT
 UID:call-for-papers-10-a-conferencia-internacional-de-assuntos-c-6131d-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
-SUMMARY:Call for papers: 10.a Conferência Internacional de Assuntos Contem
- porâneos em Arquitetura e Urbanismo
+SUMMARY:Call for papers: 10.ª Conferência Internacional de Assuntos Conte
+ mporâneos em Arquitetura e Urbanismo
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24200
@@ -115,6 +102,19 @@ LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
 DESCRIPTION:https://www.ubi.pt/Evento/24202
 URL:https://lykeion.pt/e/v-conferencia-internacional-televisao-e-novos-meio
  s-dedicada-45feb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fundamentos-da-educacao-no-requisite-e-leia-da-biblioteca-da-84526-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:«Fundamentos da Educação» no Requisite e Leia da Biblioteca da 
+ FCSH
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24179
+URL:https://lykeion.pt/e/fundamentos-da-educacao-no-requisite-e-leia-da-bib
+ lioteca-da-84526.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xix-hospital-faz-de-conta-88f42-2026-11-09@lagenda.pt
@@ -222,8 +222,8 @@ UID:conferencia-alteracoes-climaticas-devemos-ter-medo-do-futuro-a0818-2026
  -11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:Conferência "Alterações climáticas: devemos ter medo do futuro?
- "
+SUMMARY:Conferência «Alterações climáticas: devemos ter medo do futuro
+ ?»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24166
@@ -256,8 +256,8 @@ UID:clube-de-leitura-da-ubi-recebe-henrique-agua-para-o-workshop-c206c-2026
  -11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261119
-SUMMARY:Clube de Leitura da UBI recebe Henrique Água para o workshop "A Po
- esia do Cotidiano"
+SUMMARY:Clube de Leitura da UBI recebe Henrique Água para o workshop «A P
+ oesia do Cotidiano»
 LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24183
 URL:https://lykeion.pt/e/clube-de-leitura-da-ubi-recebe-henrique-agua-para-

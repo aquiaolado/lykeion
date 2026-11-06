@@ -6,11 +6,22 @@ X-WR-CALNAME:NOVA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:1936-1939-espanha-fraturada-c70bb-2026-11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:1936-1939: Espanha Fraturada
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas\, Avenidas 
+ Novas
+DESCRIPTION:https://www.agendalx.pt/events/event/1936-1939-espanha-fraturad
+ a/
+URL:https://lykeion.pt/e/1936-1939-espanha-fraturada-c70bb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:cerimonia-de-abertura-do-ano-letivo-ihmt-nova-1f4a6-2026-11-06@lagenda.
  pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
-SUMMARY:Cerimónia de Abertura do Ano Letivo – IHMT NOVA
+SUMMARY:Cerimónia de Abertura do Ano Letivo – Ihmt Nova
 LOCATION:Instituto de Higiene e Medicina Tropical
 DESCRIPTION:https://www.ihmt.unl.pt/events/cerimonia-de-abertura-do-ano-let
  ivo-ihmt-nova/
@@ -103,6 +114,18 @@ URL:https://lykeion.pt/e/visita-orientada-a-exposicao-edson-chagas-intimate
  -distance-dd687.html
 END:VEVENT
 BEGIN:VEVENT
+UID:anual-whatnext-law-inovacao-nas-cidades-do-futuro-f1314-2026-11-07@lage
+ nda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T143000
+SUMMARY:Anual WhatNext.Law | Inovação nas Cidades do Futuro
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/evento-anual-whatnext-law-inovacao-nas-c
+ idades-do-futuro-2/
+URL:https://lykeion.pt/e/anual-whatnext-law-inovacao-nas-cidades-do-futuro-
+ f1314.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-30838-2026-11-07@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -129,8 +152,8 @@ UID:seminario-speed-sistema-carcerario-feminino-brasileiro-o-aba-d484f-2026
  -11-07@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261107T120000
-SUMMARY:Seminário: SPEED "Sistema carcerário feminino brasileiro: o aband
- ono afetivo e a ‘dupla desviância’"
+SUMMARY:Seminário: SPEED «Sistema carcerário feminino brasileiro: o aban
+ dono afetivo e a ‘dupla desviância’»
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-novembro-speed-sistem
  a-carcerario-feminino-brasileiro-o-abandono-afetivo-e-a-dupla-desviancia
@@ -179,8 +202,8 @@ UID:seminario-english-speed-the-relevance-of-transatlantic-coope-25667-2026
  -11-08@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T120000
-SUMMARY:Seminário: English SPEED "The Relevance of Transatlantic Cooperati
- on on Global Peace and Security: The EU Example"
+SUMMARY:Seminário: English SPEED «The Relevance of Transatlantic Cooperat
+ ion on Global Peace and Security: The EU Example»
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/8-de-novembro-english-spee
  d-the-relevance-of-transatlantic-cooperation-on-global-peace-and-security-
@@ -193,8 +216,8 @@ UID:lancamento-do-livro-o-governo-dos-outros-poder-e-diferenca-n-83d23-2026
  -11-09@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T120000
-SUMMARY:Lançamento do livro: "O Governo dos Outros. Poder e Diferença no 
- Império Português"
+SUMMARY:Lançamento do livro: «O Governo dos Outros. Poder e Diferença no
+  Império Português»
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/lancamento-do-livro-o-gove
  rno-dos-outros-poder-e-diferenca-no-imperio-portugues
@@ -202,10 +225,43 @@ URL:https://lykeion.pt/e/lancamento-do-livro-o-governo-dos-outros-poder-e-d
  iferenca-n-83d23.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lideranca-na-era-da-ia-f5ad9-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T140000
+SUMMARY:Liderança na era da IA
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.com/e/lideranca-na-era-da-ia-tickets-200
+ 3711010571
+URL:https://lykeion.pt/e/lideranca-na-era-da-ia-f5ad9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:the-impact-of-the-rise-of-interest-rates-79196-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T180000
+SUMMARY:The impact of the rise of interest rates
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/the-impact-of-the-rise-of-interest-rates
+ /
+URL:https://lykeion.pt/e/the-impact-of-the-rise-of-interest-rates-79196.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:1st-on-the-road-to-marketing-wave-adapting-to-unexpected-tid-12802-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T100000
+SUMMARY:1st On The Road to Marketing Wave | Adapting to Unexpected Tides
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.com/e/1st-on-the-road-to-marketing-wave-
+ adapting-to-unexpected-tides-tickets-2003874068281
+URL:https://lykeion.pt/e/1st-on-the-road-to-marketing-wave-adapting-to-unex
+ pected-tid-12802.html
+END:VEVENT
+BEGIN:VEVENT
 UID:49-o-aniversario-da-nova-fcsh-249a9-2026-11-10@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T110000
-SUMMARY:49.o Aniversário da NOVA FCSH
+SUMMARY:49.º Aniversário da Nova Fcsh
 LOCATION:Centro de Estudos em Música\, Campolide
 DESCRIPTION:https://cesem.fcsh.unl.pt/event/aniversarionovafcsh/
 URL:https://lykeion.pt/e/49-o-aniversario-da-nova-fcsh-249a9.html
@@ -284,7 +340,7 @@ BEGIN:VEVENT
 UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T120000
-SUMMARY:2.a Conferência Anual do NOVA Green Lab
+SUMMARY:2.ª Conferência Anual do NOVA Green Lab
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
  ova-green-lab
@@ -294,7 +350,7 @@ BEGIN:VEVENT
 UID:49-o-aniversario-nova-fct-75285-2026-11-11@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T090000
-SUMMARY:49.o aniversário NOVA FCT
+SUMMARY:49.º aniversário NOVA FCT
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
 DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/49-aniversario-n
@@ -334,6 +390,19 @@ DESCRIPTION:https://ihc.fcsh.unl.pt/events/margens-possivel-02/
 URL:https://lykeion.pt/e/nas-margens-do-possivel-2-e5597.html
 END:VEVENT
 BEGIN:VEVENT
+UID:12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-2-00-pm-no-30e4c-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T123000
+SUMMARY:12:30 pm 2:00 pm Inquietações Apetitosas 12:30 pm - 2:00 pm Nova 
+ Fcsh\, Colégio Almada Negreiros\, Copa \, Campus de Campolide da NOVA —
+  1099-085 Lisboa Tipologia do Evento: Outros
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/inquietacoes-apetitosas-01/
+URL:https://lykeion.pt/e/12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-
+ 2-00-pm-no-30e4c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-protecao-de-menores-em-ambientes-digitais-a95ee-2026-11-12@
  lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -344,6 +413,19 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/open-class-protection-of-m
  inors-in-digital-environments
 URL:https://lykeion.pt/e/aula-aberta-protecao-de-menores-em-ambientes-digit
  ais-a95ee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:construir-o-futuro-um-evento-nova-fct-ilove2help-d551b-2026-11-12@lagen
+ da.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T020000
+SUMMARY:Construir o Futuro - um evento NOVA FCT & ILOVE2HELP
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/construir-o-futu
+ ro-um-evento-nova-fct-ilove2help
+URL:https://lykeion.pt/e/construir-o-futuro-um-evento-nova-fct-ilove2help-d
+ 551b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ii-coloquio-index-collectiones-acores-a4fe5-2026-11-12@lagenda.pt
@@ -430,6 +512,34 @@ LOCATION:Instituto de História Contemporânea
 DESCRIPTION:https://ihc.fcsh.unl.pt/13-contratos-ceec-fct/
 URL:https://lykeion.pt/e/ihc-vai-acolher-13-novos-contratos-ceec-da-fct-1c3
  74.html
+END:VEVENT
+BEGIN:VEVENT
+UID:on-the-occasion-of-the-modern-premiere-of-niccolo-jommellis-1f73e-2026-
+ 11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T173000
+SUMMARY:On the occasion of the modern premiere of Niccolò Jommelli’s (17
+ 14–1774) masterpiece: Laudate pueri Dominum for 16 voices
+LOCATION:Centro de Estudos em Música
+DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/on-the-occasion-of-the-moder
+ n-premiere-of-niccolo-jommellis-1714-1774-masterpiece-laudate-pueri-dominu
+ m-for-16-voices/
+URL:https://lykeion.pt/e/on-the-occasion-of-the-modern-premiere-of-niccolo-
+ jommellis-1f73e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:por-ocasiao-da-estreia-moderna-de-obra-prima-de-niccolo-jomm-07a14-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T173000
+SUMMARY:Por ocasião da estreia moderna de obra-prima de Niccolò Jommelli 
+ (1714-1774): Laudate pueri Dominum a 16 vozes
+LOCATION:Centro de Estudos em Música
+DESCRIPTION:https://cesem.fcsh.unl.pt/event/por-ocasiao-da-estreia-moderna-
+ de-obra-prima-de-niccolo-jommelli-1714-1774-laudate-pueri-dominum-a-16-voz
+ es/
+URL:https://lykeion.pt/e/por-ocasiao-da-estreia-moderna-de-obra-prima-de-ni
+ ccolo-jomm-07a14.html
 END:VEVENT
 BEGIN:VEVENT
 UID:annual-lecture-2023-c0e9e-2026-11-14@lagenda.pt
@@ -537,8 +647,8 @@ UID:seminario-speed-la-ordenacion-del-tiempo-de-trabajo-en-el-or-ebf69-2026
  -11-15@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261115T120000
-SUMMARY:Seminário: SPEED "La ordenación del tiempo de trabajo en el orden
- amiento español y portugués"
+SUMMARY:Seminário: SPEED «La ordenación del tiempo de trabajo en el orde
+ namiento español y portugués»
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/15-de-novembro-speed-la-or
  denacion-del-tiempo-de-trabajo-en-el-ordenamiento-espanol-y-portugues
@@ -550,7 +660,7 @@ UID:dia-da-faculdade-49-o-aniversario-da-nova-medical-school-4f45f-2026-11-
  16@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261116
-SUMMARY:Dia da Faculdade - 49.o aniversário da NOVA Medical School
+SUMMARY:Dia da Faculdade - 49.º aniversário da NOVA Medical School
 LOCATION:NOVA Medical School
 DESCRIPTION:https://www.nms.unl.pt/pt-pt/comunicacao/noticias-e-eventos/eve
  ntos/detalhe/eventid/21613
@@ -648,6 +758,49 @@ URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-6ea
  7a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
+ 1-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T160000
+SUMMARY:26 Ciências Sociais à Conversa – Desafios e Oportunidades da...
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
+ versa-desafios-e-oportunidades-da-transicao-energetica/
+URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-desafios-e-oportuni
+ dades-da-285d6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:26-dia-da-ciencia-e-inovacao-science-innovation-107e7-2026-11-18@lagend
+ a.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:26 Dia da Ciência e Inovação – Science & Innovation...
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/dia-da-ciencia-e-inova
+ cao-science-innovation-day/
+URL:https://lykeion.pt/e/26-dia-da-ciencia-e-inovacao-science-innovation-10
+ 7e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:como-falar-com-o-a-terra-59dc0-2026-11-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Como falar com(o) a terra?
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/counter-image-2026/
+URL:https://lykeion.pt/e/como-falar-com-o-a-terra-59dc0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-da-ciencia-e-da-inovacao-da-nova-8135f-2026-11-18@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T110000
+SUMMARY:Dia da Ciência e da Inovação da NOVA
+LOCATION:Universidade NOVA de Lisboa\, Campolide
+DESCRIPTION:https://cesem.fcsh.unl.pt/event/dia-da-ciencia-e-da-inovacao-da
+ -nova/
+URL:https://lykeion.pt/e/dia-da-ciencia-e-da-inovacao-da-nova-8135f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontro-nova-science-innovation-day-790dd-2026-11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261118
@@ -719,6 +872,16 @@ URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
  orkshop-on-fd2e8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:4rd-annual-conference-nova-bhre-thumbnail-dae13-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:4rd_Annual_Conference_NOVA_BHRE_thumbnail
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/iv-conferencia-anual-do-nova-bhre/
+URL:https://lykeion.pt/e/4rd-annual-conference-nova-bhre-thumbnail-dae13.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:coloquio-entre-guerras-e-paz-633a3-2026-11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261119
@@ -743,7 +906,7 @@ BEGIN:VEVENT
 UID:iv-conferencia-anual-do-nova-bhre-09c38-2026-11-19@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T120000
-SUMMARY:IV Conferência Anual do NOVA BHRE
+SUMMARY:IV Conferência Anual do Nova Bhre
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/iv-conferencia-anual-do-no
  va-bhre
@@ -788,5 +951,15 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/workshop-aero2cy
  cle-co-desenho-de-solucoes-de-valorizacao-de-co-industrial
 URL:https://lykeion.pt/e/workshop-aero2cycle-co-desenho-de-solucoes-de-valo
  rizacao-de-8cb31.html
+END:VEVENT
+BEGIN:VEVENT
+UID:arbitragem-retomando-a-normalidade-e93d8-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T140000
+SUMMARY:«Arbitragem: retomando a normalidade»
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/conferencia-arbitragem-retomando-a-norma
+ lidade/
+URL:https://lykeion.pt/e/arbitragem-retomando-a-normalidade-e93d8.html
 END:VEVENT
 END:VCALENDAR

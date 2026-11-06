@@ -20,20 +20,6 @@ URL:https://lykeion.pt/e/portugues-moca-da-ribeira-estreia-exposicao-e-leva
  -o-legado-5b553.html
 END:VEVENT
 BEGIN:VEVENT
-UID:03-11-2026-08-11-2026-portas-fechadas-direitos-em-aberto-exp-240ae-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:03.11.2026 08.11.2026 Portas Fechadas\, Direitos em Aberto: exposi
- ção fotográfica de estudantes A Biblioteca da FPCEUC recebe\, a
-LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
- de de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fpce/eventos/portas-fechadas-direitos-em-aber
- to-exposicao-fotografica-de-estudantes/
-URL:https://lykeion.pt/e/03-11-2026-08-11-2026-portas-fechadas-direitos-em-
- aberto-exp-240ae.html
-END:VEVENT
-BEGIN:VEVENT
 UID:berlim-ciclo-de-cinema-portugues-ha-cinema-na-embaixada-6fb40-2026-11-0
  6@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -63,7 +49,7 @@ BEGIN:VEVENT
 UID:cartografias-poeticas-por-helena-cardoso-exposicao-b2aba-2026-11-06@lag
  enda.pt
 DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T000000
+DTSTART;VALUE=DATE:20261106
 SUMMARY:Cartografias Poéticas por Helena Cardoso | Exposição
 LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:http://www.up.pt/casacomum/eventos/cartografias-poeticas-por-he
@@ -129,18 +115,6 @@ DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
 URL:https://lykeion.pt/e/exposicao-239fa.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
- -06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T163000
-SUMMARY:Exposição "Raquel Soeiro de Brito - Uma Geógrafa no Ultramar"
-LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-raquel-soeiro-de-brit
- o-uma-geografa
-URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
- ltramar-76f20.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
  11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -168,31 +142,6 @@ URL:https://lykeion.pt/e/exposicao-de-fotografia-de-augusto-lemos-imagens-a
  nunciadas-7c0a9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-doacoes-na-area-dos-estudos-orientais-b0b52-2026-11-06@lagend
- a.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Exposição | "Doações na área dos Estudos Orientais"
-LOCATION:Faculdade de Letras da Universidade de Lisboa
-DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-doacoes-na-ar
- ea-dos-estudos-orientais-joaquim-ferreira-marques-teotonio-r-de-souza
-URL:https://lykeion.pt/e/exposicao-doacoes-na-area-dos-estudos-orientais-b0
- b52.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-la-fora-at-88fbc-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T170000
-SUMMARY:Exposição | "Jogos da Macaca: Jorge Pinheiro e a vida lá fora" [
- até 28 NOV
-LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-jogos-da-macaca-jorge
- -pinheiro-e-a-vida
-URL:https://lykeion.pt/e/exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-
- la-fora-at-88fbc.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-o-caminho-da-beleza-1d9fd-2026-11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T160000
@@ -214,6 +163,31 @@ URL:https://lykeion.pt/e/exposicao-tereza-arriaga-percursos-de-arte-e-vida-
  43d32.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-doacoes-na-area-dos-estudos-orientais-b0b52-2026-11-06@lagend
+ a.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Exposição | «Doações na área dos Estudos Orientais»
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-doacoes-na-ar
+ ea-dos-estudos-orientais-joaquim-ferreira-marques-teotonio-r-de-souza
+URL:https://lykeion.pt/e/exposicao-doacoes-na-area-dos-estudos-orientais-b0
+ b52.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-la-fora-at-88fbc-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T170000
+SUMMARY:Exposição | «Jogos da Macaca: Jorge Pinheiro e a vida lá fora»
+  [até 28 NOV
+LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-jogos-da-macaca-jorge
+ -pinheiro-e-a-vida
+URL:https://lykeion.pt/e/exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-
+ la-fora-at-88fbc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-13-13-escritoras-galegas-e-lusofonas-em-dialogo-34804-2026-11
  -06@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -225,6 +199,18 @@ DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-13-13-escrito
  ras-galegas-e-lusofonas-em-dialogo
 URL:https://lykeion.pt/e/exposicao-13-13-escritoras-galegas-e-lusofonas-em-
  dialogo-34804.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
+ -06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261106T163000
+SUMMARY:Exposição «Raquel Soeiro de Brito - Uma Geógrafa no Ultramar»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-raquel-soeiro-de-brit
+ o-uma-geografa
+URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
+ ltramar-76f20.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
@@ -292,7 +278,7 @@ UID:idade-da-inocencia-cinco-filmes-cinco-retratos-de-infancia-e-cfd4e-2026
  -11-06@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Lisbon:20261106T213000
-SUMMARY:IDADE DA INOCÊNCIA: cinco filmes\, cinco retratos de infância e j
+SUMMARY:Idade da Inocência: cinco filmes\, cinco retratos de infância e j
  uventude – 1o Ciclo de Cinema ao Ar Livre
 LOCATION:Museu do Abade de Baçal\, Bragança
 DESCRIPTION:https://www.mabadebacal.gov.pt/event-item/idade-da-inocencia-ci
@@ -359,6 +345,20 @@ LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  portuguesa/agenda/paris-exposicao-au-milieu
 URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:03-11-2026-08-11-2026-portas-fechadas-direitos-em-aberto-exp-240ae-2026
+ -11-06@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Portas Fechadas\, Direitos em Aberto: exposição fotográfica de e
+ studantes A Biblioteca da FPCEUC recebe\,…
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fpce/eventos/portas-fechadas-direitos-em-aber
+ to-exposicao-fotografica-de-estudantes/
+URL:https://lykeion.pt/e/03-11-2026-08-11-2026-portas-fechadas-direitos-em-
+ aberto-exp-240ae.html
 END:VEVENT
 BEGIN:VEVENT
 UID:semana-da-ciencia-tecnologia-2026-0a9a6-2026-11-06@lagenda.pt
@@ -568,8 +568,8 @@ UID:exposicao-doacoes-na-area-das-literaturas-e-culturas-do-mund-ecfaa-2026
  -11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:Exposição | "Doações na área das Literaturas e Culturas do Mun
- do"
+SUMMARY:Exposição | «Doações na área das Literaturas e Culturas do Mu
+ ndo»
 LOCATION:Faculdade de Letras da Universidade de Lisboa
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-doacoes-na-ar
  ea-das-literaturas-e-culturas-do-mundo

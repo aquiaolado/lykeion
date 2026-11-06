@@ -81,8 +81,14 @@
   }
 
   function agenda(D, CAT, lug, url) {
-    const est = Object.assign({ quando: "semana", cat: "", livre: false, q: "", onde: "", tag: "" }, ler("lagenda-filtros", {}), { q: "" });
-    const h = location.hash.slice(1), DIST = Object.fromEntries(D.dists || []);
+    // 6/11/2026: a agenda abre sempre em «Hoje» e no sítio da pessoa (o que escolheu aqui, senão o dos três toques, senão Lisboa),
+    // só com o que ainda não começou, 30 de cada vez. Os outros filtros (tipo, para quem, entrada livre) ficam guardados.
+    const DIST = Object.fromEntries(D.dists || []), SLUG = Object.fromEntries((D.dists || []).map(([s, n]) => [n, s]));
+    const guardado = ler("lagenda-filtros", {}), toq = (ler("lagenda-3toques", {}).est || {});
+    const ondeIni = guardado.ondeEscolhido ? (guardado.onde || "") : toq.onde !== undefined ? (SLUG[toq.onde] || "") : (SLUG.Lisboa || "");
+    const est = Object.assign({ cat: "", livre: false, tag: "" }, guardado, { quando: "hoje", q: "", onde: ondeIni });
+    const h = location.hash.slice(1);
+    let limite = 30;
     // taxonomia (3/11/2026): 8 eixos com subcategorias; as etiquetas (famílias, festival, LGP…) cruzam os eixos
     const EIXOS = D.eixos || [], PAI = {}, TAG = Object.fromEntries(D.tags || []);
     EIXOS.forEach(([s, , subs]) => { PAI[s] = s; subs.forEach(x => PAI[x] = s); });
@@ -93,6 +99,7 @@
     if (h.startsWith("d=")) est.onde = DIST[h.slice(2)] ? h.slice(2) : "";
     else if (h === "fora") est.onde = "fora";
     else if (h === "fds") est.quando = "fds"; else if (h === "livre") est.livre = true; else if (CAT[h]) { est.cat = h; est.quando = h === "exposicoes" ? "tudo" : est.quando; }
+    if (h && !h.startsWith("d=") && est.quando === "hoje") est.quando = "semana"; // atalhos da entrada (fim de semana, livre, miúdos…): a semana
     const DIAS = [["hoje", "Hoje"], ["amanha", "Amanhã"], ["fds", "Fim de semana"], ["semana", "7 dias"], ["tudo", "14 dias"]];
     const intervalo = () => {
       if (est.quando === "hoje") return [hoje];
@@ -106,8 +113,9 @@
       sel.innerHTML = '<option value="">Todo o país</option><option value="fora">Fora de Lisboa</option>' + (D.dists || []).map(([s, n]) => `<option value="${s}">${esc(n)}</option>`).join("");
       if (est.onde !== "fora" && !DIST[est.onde]) est.onde = "";
       sel.value = est.onde;
-      sel.addEventListener("change", () => { est.onde = sel.value; desenha(); });
+      sel.addEventListener("change", () => { est.onde = sel.value; est.ondeEscolhido = 1; limite = 30; desenha(); });
     }
+    const agora = new Date(Date.now() - 30 * 6e4), jaPassou = String(agora.getHours()).padStart(2, "0") + ":" + String(agora.getMinutes()).padStart(2, "0");
     const passa = e => {
       if (est.onde && (est.onde === "fora" ? lug(e)[7] : DIST[est.onde] !== lug(e)[5])) return false;
       if (est.cat && !e.c.includes(est.cat)) return false;
@@ -139,25 +147,35 @@
         st.value = est.tag;
       }
       document.getElementById("livre").setAttribute("aria-pressed", est.livre);
-      const dias = intervalo(), set = new Set(dias); let html = "", total = 0;
+      const dias = intervalo(), set = new Set(dias), agoraHoje = iso(new Date()) === hoje && new Date().getHours() >= 5; let html = "", total = 0, mostrados = 0;
       for (const d of dias) {
-        const evs = D.ev.filter(e => !e.x && e.d.includes(d) && passa(e)).sort((a, b) => (hora(a.h, d) || "99").localeCompare(hora(b.h, d) || "99") || a.n.localeCompare(b.n));
+        const evs = D.ev.filter(e => !e.x && e.d.includes(d) && passa(e) && !(d === hoje && agoraHoje && hora(e.h, d) && hora(e.h, d) < jaPassou))
+          .sort((a, b) => (hora(a.h, d) || "99").localeCompare(hora(b.h, d) || "99") || a.n.localeCompare(b.n));
         if (!evs.length) continue; total += evs.length;
+        if (mostrados >= limite) continue;
+        const parte = evs.slice(0, limite - mostrados); mostrados += parte.length;
         const x = dt(d);
-        html += `<div class="dia"><h3>${d === hoje ? "Hoje" : d === mais(hoje, 1) ? "Amanhã" : SEML[x.getDay()]}, ${x.getDate()} de ${MESL[x.getMonth()]} <small>${evs.length}</small></h3>${evs.map(e => linha(e, d)).join("")}</div>`;
+        html += `<div class="dia"><h3>${d === hoje ? "Hoje" : d === mais(hoje, 1) ? "Amanhã" : SEML[x.getDay()]}, ${x.getDate()} de ${MESL[x.getMonth()]} <small>${evs.length}</small></h3>${parte.map(e => linha(e, d)).join("")}</div>`;
       }
-      document.getElementById("agenda").innerHTML = html || '<p class="vazio">Nada com estes filtros. Experimenta outro dia ou «Tudo».</p>';
+      if (total > mostrados) html += `<p class="agenda-mais"><button class="bt" type="button" id="maisag">Mostrar mais ${Math.min(30, total - mostrados)} (faltam ${total - mostrados})</button></p>`;
+      document.getElementById("agenda").innerHTML = html || `<p class="vazio">${est.quando === "hoje" ? "Por hoje já não há nada com estes filtros. Experimenta «Amanhã» ou «Todo o país»." : "Nada com estes filtros. Experimenta outro dia ou «Tudo»."}</p>`;
       const cz = D.ev.filter(e => e.x && e.d.some(x => set.has(x)) && passa(e)).sort((a, b) => a.f.localeCompare(b.f));
-      document.getElementById("cartaz").innerHTML = cz.map(e => cartao(e, CAT, lug, url)).join("") || '<p class="vazio">Nada em cartaz com estes filtros.</p>';
+      const czN = est.cat === "exposicoes" ? cz.length : 12;
+      document.getElementById("cartaz").innerHTML = (cz.slice(0, czN).map(e => cartao(e, CAT, lug, url)).join("") || '<p class="vazio">Nada em cartaz com estes filtros.</p>')
+        + (cz.length > czN ? `<p class="agenda-mais"><a class="bt" href="#exposicoes" data-c-exp>Ver as ${cz.length} em cartaz</a></p>` : "");
       document.getElementById("contagem").textContent = `${total} ${total === 1 ? "evento" : "eventos"} e ${cz.length} em cartaz`;
-      gravar("lagenda-filtros", Object.assign({}, est, { q: "" }));
+      gravar("lagenda-filtros", { cat: est.cat, tag: est.tag, livre: est.livre, onde: est.onde, ondeEscolhido: est.ondeEscolhido || 0 });
     };
-    document.getElementById("dias").addEventListener("click", ev => { const b = ev.target.closest("[data-q]"); if (b) { est.quando = b.dataset.q; desenha(); } });
-    document.getElementById("cats").addEventListener("click", ev => { const b = ev.target.closest("[data-c]"); if (b) { est.cat = b.dataset.c; desenha(); } });
-    const sb = document.getElementById("subs"); if (sb) sb.addEventListener("click", ev => { const b = ev.target.closest("[data-c]"); if (b) { est.cat = b.dataset.c; desenha(); } });
-    const st = document.getElementById("tag"); if (st) st.addEventListener("change", () => { est.tag = st.value; desenha(); });
-    document.getElementById("livre").addEventListener("click", () => { est.livre = !est.livre; desenha(); });
-    document.getElementById("busca").addEventListener("input", ev => { est.q = ev.target.value.trim(); desenha(); });
+    const de_novo = () => { limite = 30; desenha(); };
+    document.getElementById("dias").addEventListener("click", ev => { const b = ev.target.closest("[data-q]"); if (b) { est.quando = b.dataset.q; de_novo(); } });
+    document.getElementById("cats").addEventListener("click", ev => { const b = ev.target.closest("[data-c]"); if (b) { est.cat = b.dataset.c; de_novo(); } });
+    const sb = document.getElementById("subs"); if (sb) sb.addEventListener("click", ev => { const b = ev.target.closest("[data-c]"); if (b) { est.cat = b.dataset.c; de_novo(); } });
+    const st = document.getElementById("tag"); if (st) st.addEventListener("change", () => { est.tag = st.value; de_novo(); });
+    document.getElementById("livre").addEventListener("click", () => { est.livre = !est.livre; de_novo(); });
+    document.getElementById("busca").addEventListener("input", ev => { est.q = ev.target.value.trim(); est.quando = est.q && est.quando === "hoje" ? "tudo" : est.quando; de_novo(); });
+    document.getElementById("agenda").addEventListener("click", ev => { if (ev.target.closest("#maisag")) { limite += 30; desenha(); } });
+    document.getElementById("cartaz").addEventListener("click", ev => { if (ev.target.closest("[data-c-exp]")) { ev.preventDefault(); est.cat = "exposicoes"; est.quando = "tudo"; de_novo(); } });
+    window.addEventListener("hashchange", () => { const k = location.hash.slice(1); if (k.startsWith("d=") && DIST[k.slice(2)]) { est.onde = k.slice(2); est.ondeEscolhido = 1; if (sel) sel.value = est.onde; de_novo(); } });
     desenha();
   }
 

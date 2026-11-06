@@ -6,6 +6,29 @@ X-WR-CALNAME:NOVA School of Law (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:anual-whatnext-law-inovacao-nas-cidades-do-futuro-f1314-2026-11-07@lage
+ nda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T143000
+SUMMARY:Anual WhatNext.Law | Inovação nas Cidades do Futuro
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/evento-anual-whatnext-law-inovacao-nas-c
+ idades-do-futuro-2/
+URL:https://lykeion.pt/e/anual-whatnext-law-inovacao-nas-cidades-do-futuro-
+ f1314.html
+END:VEVENT
+BEGIN:VEVENT
+UID:the-impact-of-the-rise-of-interest-rates-79196-2026-11-09@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T180000
+SUMMARY:The impact of the rise of interest rates
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/the-impact-of-the-rise-of-interest-rates
+ /
+URL:https://lykeion.pt/e/the-impact-of-the-rise-of-interest-rates-79196.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-celebracao-da-diversidade-e-da-inclusao-na-nova-sc-67f29-2026
  -11-18@lagenda.pt
 DTSTAMP:20261106T000000Z
@@ -17,5 +40,25 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/celebracao-da-diversidade-
  e-da-inclusao-na-nova-school-of-law
 URL:https://lykeion.pt/e/seminario-celebracao-da-diversidade-e-da-inclusao-
  na-nova-sc-67f29.html
+END:VEVENT
+BEGIN:VEVENT
+UID:4rd-annual-conference-nova-bhre-thumbnail-dae13-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:4rd_Annual_Conference_NOVA_BHRE_thumbnail
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/iv-conferencia-anual-do-nova-bhre/
+URL:https://lykeion.pt/e/4rd-annual-conference-nova-bhre-thumbnail-dae13.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:arbitragem-retomando-a-normalidade-e93d8-2026-11-19@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T140000
+SUMMARY:«Arbitragem: retomando a normalidade»
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/conferencia-arbitragem-retomando-a-norma
+ lidade/
+URL:https://lykeion.pt/e/arbitragem-retomando-a-normalidade-e93d8.html
 END:VEVENT
 END:VCALENDAR

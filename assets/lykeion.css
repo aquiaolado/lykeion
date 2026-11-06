@@ -33,3 +33,37 @@ body.lyk{
 .lyk :is(.lyk-bloco,#lyk-ola) .li .dir .tag:not(:first-child){display:none}
 .lyk #lyk-ola .rot{margin:.6rem 0 0;font-size:.8rem}
 .lyk h1,.lyk h2,.lyk h3{letter-spacing:-.02em}
+/* revisão do site (6/11/2026) */
+/* lista: sem miniatura quando não há imagem (antes, um quadrado verde com letras ilegíveis) */
+.lyk .li.sem-mi{grid-template-columns:4.2rem minmax(0,1fr) auto}
+.lyk .li .hr:empty::before{content:""}
+/* página do evento sem imagem: o título ocupa a largura toda, sem o bloco verde */
+.lyk .ev-topo.sem-foto{grid-template-columns:minmax(0,1fr)}
+.lyk .ev-topo.sem-foto .ev-cab{max-width:52rem}
+/* filtros: a pesquisa primeiro; no telemóvel o resto abre no botão «Filtros» */
+.lyk-procura{flex-wrap:nowrap}
+.lyk-abrir{display:none;flex:0 0 auto}
+.lyk-maisev{text-align:center;margin:1.5rem 0 0}
+@media(max-width:700px){
+  .lyk .filtros{position:static}
+  .lyk-abrir{display:inline-block}
+  .lyk-filtros .lyk-mais{display:none}
+  .lyk-filtros.aberto .lyk-mais{display:block}
+  .lyk-filtros .lyk-mais .busca.onde{flex:1 1 100%}
+  /* «Seguir áreas»: numa linha que desliza, em vez de seis linhas de botões */
+  .lyk .lyk-areas{display:block;white-space:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+  .lyk .lyk-areas::-webkit-scrollbar{display:none}
+  .lyk .lyk-areas .ch{display:inline-block;margin:0 6px 0 0}
+  .lyk .lyk-areas>.sub{display:block;white-space:normal;margin-bottom:6px}
+}
+@media (max-width:560px){
+  .lyk .li.sem-mi{grid-template-columns:3.4rem minmax(0,1fr)}
+  .lyk .li.sem-mi .dir{grid-column:2}
+}
+/* telemóvel: o menu passa para uma segunda linha, a toda a largura, com sinal de que desliza */
+@media(max-width:600px){
+  .lyk-barra .bin{flex-wrap:wrap;gap:0 12px;min-height:0;padding-block:8px 0}
+  .lyk-barra .menu{flex:1 1 100%;margin:4px -6px 0;padding-bottom:4px;
+    -webkit-mask-image:linear-gradient(90deg,#000 85%,transparent);mask-image:linear-gradient(90deg,#000 85%,transparent)}
+  .lyk-barra .menu a{padding:6px 8px;font-size:.88rem}
+}

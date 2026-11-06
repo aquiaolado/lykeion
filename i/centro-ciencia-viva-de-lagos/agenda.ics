@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro Ciência Viva de Lagos (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:clube-de-ciencia-106ea-2026-11-07@lagenda.pt
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T100000
+SUMMARY:Clube de Ciência
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://lagos.cienciaviva.pt/14861/clube-de-ciencia-|-7-de-nove
+ mbro
+URL:https://lykeion.pt/e/clube-de-ciencia-106ea.html
+END:VEVENT
+END:VCALENDAR
