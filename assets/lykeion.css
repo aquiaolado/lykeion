@@ -171,3 +171,39 @@ body.lyk{
 .lyk .lyk-afinar .ch[aria-pressed="true"]{background:var(--cobalto);color:var(--papel);border-color:var(--cobalto)}
 .lyk .lyk-afinar [data-menos-tipo][aria-pressed="true"],.lyk .lyk-afinar [data-menos-inst][aria-pressed="true"],.lyk .lyk-afinar [data-menos-area][aria-pressed="true"]{background:var(--legenda);border-color:var(--legenda);color:#fff}
 .lyk .lyk-esc{margin:.6rem 0}
+/* 7/11/2026 noite: congressos a toda a largura (duas colunas no computador), provas no fim */
+@media(min-width:900px){.lyk .lyk-congressos{column-count:2;column-gap:2rem}.lyk .lyk-congressos .lyk-cab{column-span:all}.lyk .lyk-congressos .li{break-inside:avoid}.lyk .lyk-congressos .rot{break-after:avoid}}
+.lyk .lyk-congressos .li,.lyk .lyk-provas .li{grid-template-columns:3.4rem minmax(0,1fr)}
+.lyk .lyk-congressos .li .mi,.lyk .lyk-provas .li .mi{display:none}
+.lyk .lyk-congressos .li .dir,.lyk .lyk-provas .li .dir{grid-column:2;justify-self:start}
+.lyk .lyk-congressos .li .dir .tag:not(:first-child),.lyk .lyk-provas .li .dir .tag:not(:first-child){display:none}
+.lyk .lyk-congressos .rot,.lyk .lyk-provas .rot{margin:.6rem 0 0;font-size:.8rem}
+.lyk .lyk-provas .lyk-duas{grid-template-columns:minmax(0,1fr) minmax(0,1.6fr)}
+@media(max-width:800px){.lyk .lyk-provas .lyk-duas{grid-template-columns:minmax(0,1fr)}}
+/* resultados na própria entrada (as páginas Agenda e Provas foram apagadas) */
+.lyk .lyk-res-cab{padding-top:1rem}
+.lyk.lyk-com-res .lyk-inicio,.lyk.lyk-com-res .lyk-abre .lyk-rapido,.lyk.lyk-com-res .lyk-abre .lyk-busca,.lyk.lyk-com-res .lyk-abre>.mol>.sub{display:none}
+.lyk.lyk-com-res .lyk-abre{padding-block:1rem .2rem}
+/* 7/11/2026 noite (Paulo: «todas as páginas à imagem da página inicial»): o mesmo topo em faixa verde clara, os mesmos
+   títulos de secção com o traço verde, os dias como na entrada (letra de máquina, maiúsculas) */
+.lyk{--faixa:color-mix(in srgb,var(--cobalto) 9%,var(--papel))}
+.lyk main>.pcab:first-child,.lyk .lyk-abre{border-image:linear-gradient(var(--faixa),var(--papel)) fill 0//0 100vmax;padding-block:1.6rem 1.1rem;margin-bottom:.4rem}
+.lyk .lyk-abre{background:none}
+.lyk main>.pcab:first-child h1{font-size:clamp(1.8rem,4.5vw,2.6rem);margin:.1rem 0 .4rem;text-wrap:balance}
+.lyk main>.pcab:first-child>.sub{max-width:68ch}
+.lyk main>.migalhas:first-child+.ev .ev-topo{border-image:linear-gradient(var(--faixa),var(--papel)) fill 0//0 100vmax;padding-block:1rem 1.2rem}
+.lyk main .mol>h2,.lyk .lyk-dist h2,.lyk .lyk-h,.lyk .lyk-tipos h2,.lyk .lyk-centros summary h2{font-size:1.2rem;border-bottom:2px solid var(--cobalto);padding-bottom:.35rem;margin:1.6rem 0 .6rem}
+.lyk .lyk-centros summary h2{display:inline-block;border:0;margin:0}
+.lyk .lyk-centros summary{border-bottom:2px solid var(--cobalto);padding-bottom:.35rem;margin:1.6rem 0 .6rem}
+.lyk .lyk-tipos h2{margin-top:.4rem}
+.lyk .dia h3{font:500 .78rem/1.2 var(--f-hora);letter-spacing:.1em;text-transform:uppercase;color:var(--suave);border-bottom:1px solid var(--linha);padding-bottom:.35rem;margin:1.2rem 0 0}
+.lyk .dia h3 small{font-size:inherit;color:var(--legenda)}
+.lyk .prova{border-bottom:1px solid var(--linha);padding:.6rem 0}
+.lyk .prova .rot{color:var(--cobalto)}
+.lyk #resultados{scroll-margin-top:1rem}
+.lyk a.lyk-unid{text-decoration:none;color:var(--tinta);display:flex;flex-direction:column;gap:.2rem;justify-content:flex-start}
+.lyk a.lyk-unid:hover{border-color:var(--cobalto)}.lyk a.lyk-unid b{font:600 .95rem/1.25 var(--f-titulo)}
+.lyk a.lyk-unid span{font-size:.8rem;color:var(--suave)}
+.lyk .lyk-mais-un{margin-top:.6rem}.lyk .lyk-mais-un summary{cursor:pointer;color:var(--cobalto);font-size:.9rem;margin-bottom:.6rem}
+.lyk .lyk-cab>.sub{font:500 .8rem/1 var(--f-hora)}
+.lyk .lyk-voltar .bt{display:inline-block;white-space:nowrap}

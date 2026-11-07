@@ -4,8 +4,6 @@
   "use strict";
   const B = (window.LG && LG.base) || "/", AC = (window.LG && LG.ac != null) ? LG.ac : "academia/", caixa = document.getElementById("academia");
   const ola0 = document.getElementById("lyk-ola");
-  // 7/11/2026: a lista com filtros mudou-se para agenda/; os endereços antigos com filtro (lykeion.pt/#congresso) seguem para lá
-  if (!caixa && ola0 && location.hash.length > 1 && !document.getElementById(location.hash.slice(1))) { location.replace(B + AC + "agenda/" + location.hash); return; }
   if (!caixa && !ola0 && !document.querySelector("[data-fim]")) return;
   const MESL = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
   const SEML = ["Domingo","Segunda","Terça","Quarta","Quinta","Sexta","Sábado"];
@@ -73,11 +71,15 @@
     // 6/11/2026: o botão «Com provas públicas» saiu (as provas filtram-se em «Provas e atos académicos»); as provas aparecem sempre
     const est = Object.assign({ fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false, q: "" }, ler("lagenda-academia", {}), { q: "", quando: "", provas: true });
     // 7/11/2026: a entrada manda para aqui já filtrado (?q=, ?quando=hoje|fds|semana|mes, ?di=Porto)
-    const P = new URLSearchParams(location.search);
-    if (P.has("q") || P.has("quando") || P.has("di")) Object.assign(est, { fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false });
+    // 7/11/2026 (noite): a página Agenda foi apagada; os resultados abrem-se na própria entrada (#resultados)
+    const P = new URLSearchParams(location.search), CH = ["q", "quando", "di", "fa", "sub", "area", "inst"];
+    const comParam = CH.some(k => P.has(k));
+    if (comParam) Object.assign(est, { fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false });
     if (P.get("q")) est.q = P.get("q").trim();
     if (P.get("quando")) est.quando = P.get("quando");
     if (P.get("di")) est.dist = P.get("di");
+    ["fa", "sub", "area", "inst"].forEach(k => { if (P.get(k)) est[k] = P.get(k); });
+    const res = $("resultados");
     const somar = (s, n) => { const x = dt(s); x.setDate(x.getDate() + n); return iso(x); };
     const janela = () => {  // [primeiro dia, último dia] do filtro «quando»
       const w = dt(hoje).getDay();  // 0 = domingo
@@ -89,8 +91,13 @@
     };
     const PASSO = 60; let mostrar = PASSO;  // a lista mostra 60 eventos de cada vez («Mostrar mais»), não os 1 400 seguidos
     const h = decodeURIComponent(location.hash.slice(1));  // #congresso, #saude, #ulisboa, #provas…
-    if (h) Object.assign(est, { fa: "", sub: "", area: "", inst: "" },
+    const hFiltro = h && (D.familias.some(([s]) => s === h) || SUB[h] || AREA[h] || D.inst[h]);
+    if (hFiltro) Object.assign(est, { fa: "", sub: "", area: "", inst: "" },
       D.familias.some(([s]) => s === h) ? { fa: h } : SUB[h] ? { sub: h } : AREA[h] ? { area: h } : D.inst[h] ? { inst: h } : {});
+    if (res && (comParam || hFiltro || h === "resultados")) {
+      res.hidden = false; document.body.classList.add("lyk-com-res");
+      setTimeout(() => { res.scrollIntoView({ block: "start" }); if (!est.q && h === "resultados" && !comParam) $("abusca").focus(); }, 0);
+    }
     const opcoes = (el, lista, val) => { el.innerHTML = el.options[0].outerHTML + lista.map(([v, n]) => `<option value="${esc(v)}">${esc(n)}</option>`).join(""); el.value = val; };
     // só se oferecem as opções que têm eventos
     const usa = k => new Set(D.ev.flatMap(e => [].concat(e[k] || [])));
