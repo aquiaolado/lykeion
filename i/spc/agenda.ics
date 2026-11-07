@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:reuniao-anual-do-grupo-de-estudo-de-risco-cardiovascular-e-g-2b423-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
+ -11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
 SUMMARY:Reunião anual do Grupo de Estudo de Risco Cardiovascular e GE de F
  isiopatologia do Esforço e Reabilitação Cardíaca
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -20,7 +20,7 @@ URL:https://lykeion.pt/e/reuniao-anual-do-grupo-de-estudo-de-risco-cardiova
 END:VEVENT
 BEGIN:VEVENT
 UID:congresso-nacional-da-ordem-dos-medicos-5a5c8-2026-11-12@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Congresso Nacional da Ordem dos Médicos
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -29,7 +29,7 @@ URL:https://lykeion.pt/e/congresso-nacional-da-ordem-dos-medicos-5a5c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:4o-forum-rpc-676c6-2026-11-13@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:4o Fórum Rpc
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-de-cardio-oncologia-com-a-sociedade-brasileira-de-ca-f6afd-2026
  -11-14@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Webinar de Cardio-Oncologia com a Sociedade Brasileira de Cardiolog
  ia
@@ -48,5 +48,14 @@ DESCRIPTION:https://spc.pt/evento/webinar-de-cardio-oncologia-com-a-socieda
  de-brasileira-de-cardiologia/
 URL:https://lykeion.pt/e/webinar-de-cardio-oncologia-com-a-sociedade-brasil
  eira-de-ca-f6afd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conversas-com-evidencia-pfizer-41dbc-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T190000
+SUMMARY:Conversas com Evidência – PFIZER
+LOCATION:Sociedade Portuguesa de Cardiologia
+DESCRIPTION:https://spc.pt/evento/conversas-com-evidencia-pfizer/
+URL:https://lykeion.pt/e/conversas-com-evidencia-pfizer-41dbc.html
 END:VEVENT
 END:VCALENDAR

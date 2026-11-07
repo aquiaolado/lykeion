@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Associacao Portuguesa de Urologia (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:3as-jornadas-do-servico-de-urologia-61a16-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:3as Jornadas do Serviço de Urologia
+LOCATION:Associacao Portuguesa de Urologia
+DESCRIPTION:https://apurologia.pt/eventos/3as-jornadas-do-servico-de-urolog
+ ia/
+URL:https://lykeion.pt/e/3as-jornadas-do-servico-de-urologia-61a16.html
+END:VEVENT
+END:VCALENDAR

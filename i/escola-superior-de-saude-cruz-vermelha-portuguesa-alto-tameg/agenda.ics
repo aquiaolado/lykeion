@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Escola Superior de Saúde Cruz Vermelha Portuguesa - Alto Tâm
+ ega (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:i-encontro-cientifico-em-neonatologia-c07fb-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:I Encontro Científico em Neonatologia
+LOCATION:Escola Superior de Saúde Cruz Vermelha Portuguesa - Alto Tâmega\
+ , Vila Real
+DESCRIPTION:https://esscvpaltotamega.pt/ver/eventos/i-encontro-cientifico-e
+ m-neonatologia
+URL:https://lykeion.pt/e/i-encontro-cientifico-em-neonatologia-c07fb.html
+END:VEVENT
+END:VCALENDAR

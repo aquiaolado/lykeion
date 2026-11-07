@@ -6,22 +6,10 @@ X-WR-CALNAME:ISMAT (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:33-o-aniversario-da-biblioteca-municipal-manuel-teixeira-gom-075b3-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:33.º aniversário da Biblioteca Municipal Manuel Teixeira Gomes (l
- ançamento de livros)
-LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
-DESCRIPTION:
-URL:https://lykeion.pt/e/33-o-aniversario-da-biblioteca-municipal-manuel-te
- ixeira-gom-075b3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-de-pintura-pintar-sem-tinta-em-cores-na-cmtg-e8e5f-2026-11-06
+UID:exposicao-de-pintura-pintar-sem-tinta-em-cores-na-cmtg-e8e5f-2026-11-07
  @lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
 SUMMARY:Exposição de Pintura “Pintar sem tinta... em cores" na CMTG
 LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
 DESCRIPTION:
@@ -31,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ismat-promove-seminario-sobre-construcao-de-menor-impacto-e-f3460-2026-
  11-10@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T144500
 SUMMARY:ISMAT Promove Seminário Sobre Construção de Menor Impacto e Arqu
  itetura Sustentável
@@ -40,5 +28,18 @@ DESCRIPTION:https://www.ismat.pt/pt/agenda-de-eventos/ismat-promove-seminar
  io-sobre-construcao-de-menor-impacto-e-arquitetura-sustentavel
 URL:https://lykeion.pt/e/ismat-promove-seminario-sobre-construcao-de-menor-
  impacto-e-f3460.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ismat-e-universidade-de-agadir-promovem-conferencia-internac-17cf2-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:ISMAT e Universidade de Agadir Promovem Conferência Internacional 
+ Luso-Marroquina de Direito
+LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
+DESCRIPTION:https://www.ismat.pt/pt/agenda-de-eventos/ismat-e-universidade-
+ de-agadir-promovem-conferencia-internacional-luso-marroquina-de-direito
+URL:https://lykeion.pt/e/ismat-e-universidade-de-agadir-promovem-conferenci
+ a-internac-17cf2.html
 END:VEVENT
 END:VCALENDAR

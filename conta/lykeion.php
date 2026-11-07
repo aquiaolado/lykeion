@@ -54,13 +54,14 @@ function nome_inst(string $i): string { $D = acad(); $r = $D['inst'][$i] ?? null
 // [chave, rótulo, dia, título, onde, url, hora] dos eventos que interessam a esta pessoa, de hoje até $ate
 function escolhidos(array $u, string $ate = '', bool $so_novos = true): array {
   global $URL; $L = lyk($u); if (!$L['inst'] && !$L['areas'] && !$L['listas']) return [];
-  $D = acad(); $hoje = date('Y-m-d'); $AREA = array_column($D['areas'], 1, 0);
+  $D = acad(); $hoje = date('Y-m-d'); $AREA = array_column($D['areas'], 1, 0) + array_column($D['finas'] ?? [], 1, 0);
   $ja = [];
   if ($so_novos) { $q = ly_bd()->prepare("SELECT chave FROM lg_alertas WHERE utilizador_id = ? AND chave LIKE 'lyk|%'"); $q->execute([$u['id']]); $ja = array_flip($q->fetchAll(PDO::FETCH_COLUMN)); }
   $r = [];
   foreach ($D['ev'] as $e) {
     $s = seguida((string)($e['in'] ?? ''), $L['inst']);
-    $a = $s ? '' : (string)(array_values(array_filter((array)($e['a'] ?? []), fn($x) => isset($L['areas'][$x])))[0] ?? '');
+    // áreas largas («Ciências Sociais») e finas («Sociologia»: todos os eventos dos centros da lista da APS, 6/11/2026)
+    $a = $s ? '' : (string)(array_values(array_filter(array_merge((array)($e['af'] ?? []), (array)($e['a'] ?? [])), fn($x) => isset($L['areas'][$x])))[0] ?? '');
     $li = ($s || $a) ? '' : (string)(array_values(array_filter($L['listas'], fn($x) => na_lista($e, $x)))[0] ?? '');
     if (!$s && !$a && !$li) continue;
     $dias = array_values(array_filter((array)$e['d'], fn($d) => $d >= $hoje && (!$ate || $d <= $ate))); if (!$dias) continue;

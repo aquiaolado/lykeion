@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:2as-jornadas-viver-com-a-diabetes-19a53-2026-11-14@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:2as Jornadas «Viver com a Diabetes»
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
@@ -19,7 +19,7 @@ URL:https://lykeion.pt/e/2as-jornadas-viver-com-a-diabetes-19a53.html
 END:VEVENT
 BEGIN:VEVENT
 UID:1o-congresso-internacional-de-acupuntura-97975-2026-11-18@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:1o Congresso Internacional de Acupuntura
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
@@ -28,5 +28,18 @@ DESCRIPTION:https://essnortecvp.pt/pt/eventos/1o-congresso-internacional-de
  -acupuntura/
 URL:https://lykeion.pt/e/1o-congresso-internacional-de-acupuntura-97975.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
+ genda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T090000
+SUMMARY:2o Congresso Internacional de Exercício Terapêutico
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/2o-congresso-internacional-de
+ -exercicio-terapeutico-do-cerebro-ao-movimento-ia/
+URL:https://lykeion.pt/e/2o-congresso-internacional-de-exercicio-terapeutic
+ o-b0172.html
 END:VEVENT
 END:VCALENDAR

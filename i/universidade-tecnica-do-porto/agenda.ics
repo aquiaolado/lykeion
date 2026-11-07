@@ -6,14 +6,16 @@ X-WR-CALNAME:IPP (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:aula-aberta-4f43c-2026-11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Aula Aberta
-LOCATION:Centro de Inovação e Investigação em Ciências Empresariais e 
- Sistemas de Informação\, Felgueiras
-DESCRIPTION:https://www.estg.ipp.pt/noticias/aula-aberta-cegid-primavera-e-
- gestao-do-capital-humano
-URL:https://lykeion.pt/e/aula-aberta-4f43c.html
+UID:masterclass-writing-rewriting-surviving-the-graduates-guide-39e16-2026-
+ 11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T183000
+SUMMARY:Masterclass “Writing\, Rewriting\, Surviving: The Graduate’s Gu
+ ide to the Thesis Journey
+LOCATION:Centro de Estudos Interculturais\, Matosinhos
+DESCRIPTION:https://www.iscap.pt/cei/masterclass-writing-rewriting-survivin
+ g-the-graduates-guide-to-the-thesis-journey-20-de-novembro/
+URL:https://lykeion.pt/e/masterclass-writing-rewriting-surviving-the-gradua
+ tes-guide-39e16.html
 END:VEVENT
 END:VCALENDAR

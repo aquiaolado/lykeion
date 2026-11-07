@@ -140,7 +140,7 @@
         const meus = [];
         for (const e of D.ev) {
           const d = e.d.find(x => x >= hoje); if (!d) continue;
-          if (g.inst.some(i => pertence(e.in, i)) || e.a.some(a => g.areas.includes(a)) || g.listas.some(l => D.listas[l] && naLista(e, D.listas[l][1]))) meus.push([d, e]);
+          if (g.inst.some(i => pertence(e.in, i)) || e.a.concat(e.af || []).some(a => g.areas.includes(a)) || g.listas.some(l => D.listas[l] && naLista(e, D.listas[l][1]))) meus.push([d, e]);
         }
         meus.sort((a, b) => a[0].localeCompare(b[0]) || a[1].n.localeCompare(b[1].n));
         let ant = "";

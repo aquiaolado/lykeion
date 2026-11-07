@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:OE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:ii-encontro-da-mceesmo-da-integracao-dos-conhecimentos-a-tra-b6b9d-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T093000
+SUMMARY:II Encontro da MCEESMO - Da Integração dos Conhecimentos à Trans
+ formação dos Cuidados
+LOCATION:Ordem dos Enfermeiros
+DESCRIPTION:https://www.ordemenfermeiros.pt/eventos/conteudos/iiencontromce
+ esmo/
+URL:https://lykeion.pt/e/ii-encontro-da-mceesmo-da-integracao-dos-conhecime
+ ntos-a-tra-b6b9d.html
+END:VEVENT
+END:VCALENDAR

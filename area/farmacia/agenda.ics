@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Farmácia e Medicina Dentária (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc2-2026-11-12@lagenda.
+ pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T090000
+SUMMARY:IV Encontro dos Farmacêuticos da Distribuição
+LOCATION:Ordem dos Farmaceuticos
+DESCRIPTION:https://www.ordemfarmaceuticos.pt/pt/eventos/iv-encontro-dos-fa
+ rmaceuticos-da-distribuicao/
+URL:https://lykeion.pt/e/iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc
+ 2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminarios-de-internacionalizacao-26-27-f8ae0-2026-11-18@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Seminários de Internacionalização 26-27
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/eventos/seminarios-de-internacionaliza
+ cao-26-27-o-mundo-real-lideranca-comercial-e-nossa-gestao
+URL:https://lykeion.pt/e/seminarios-de-internacionalizacao-26-27-f8ae0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T093000
+SUMMARY:18.ª edição Fórum do Medicamento
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
+ kets-2004012616683
+URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
+END:VEVENT
+END:VCALENDAR

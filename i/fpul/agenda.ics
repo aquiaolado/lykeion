@@ -8,12 +8,21 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:fred-talks-conferences-in-psychological-science-73e69-2026-11-16@lagend
  a.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Fred Talks | Conferences in Psychological Science
 LOCATION:Faculdade de Psicologia da Universidade de Lisboa
 DESCRIPTION:https://www.psicologia.ulisboa.pt/fredtalks-22/
 URL:https://lykeion.pt/e/fred-talks-conferences-in-psychological-science-73
  e69.html
+END:VEVENT
+BEGIN:VEVENT
+UID:x-encontro-ser-bebe-0b085-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T010000
+SUMMARY:X Encontro Ser Bebé
+LOCATION:Faculdade de Psicologia da Universidade de Lisboa
+DESCRIPTION:https://www.psicologia.ulisboa.pt/encontro-ser-bebe/
+URL:https://lykeion.pt/e/x-encontro-ser-bebe-0b085.html
 END:VEVENT
 END:VCALENDAR

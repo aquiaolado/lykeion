@@ -6,22 +6,9 @@ X-WR-CALNAME:UMa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:nov-06-nov-06-apresentacao-do-livro-filosofia-educacao-e-pol-6c993-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T170000
-SUMMARY:Nov 06 nov 06 Apresentação do livro «Filosofia\, Educação e Po
- lítica» 17:00 | Campus da Penteada\, Sala do Senado
-LOCATION:Universidade da Madeira\, Funchal
-DESCRIPTION:https://www.uma.pt/noticias/apresentacao-do-livro-filosofia-edu
- cacao-e-politica
-URL:https://lykeion.pt/e/nov-06-nov-06-apresentacao-do-livro-filosofia-educ
- acao-e-pol-6c993.html
-END:VEVENT
-BEGIN:VEVENT
 UID:x-encontro-de-outono-do-forum-portugues-de-administracao-edu-24809-2026
  -11-08@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T090000
 SUMMARY:X Encontro de Outono do Fórum Português de Administração Educac
  ional “Entre velhos e novos desafios da Escola: tempo de repensar práti
@@ -37,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xvii-congresso-da-sociedade-portuguesa-de-ciencias-da-educac-469ed-2026
  -11-14@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T090000
 SUMMARY:XVII Congresso da Sociedade Portuguesa de Ciências da Educação
 LOCATION:Centro de Investigação em Educação\, Braga
@@ -48,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:politicas-educacionais-e-escolas-uma-agenda-de-pesquisas-4980a-2026-11-
  15@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261115T140000
 SUMMARY:Políticas Educacionais e Escolas: Uma agenda de Pesquisas
 LOCATION:Centro de Investigação em Educação\, Braga
@@ -60,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mesa-tematica-orientacoes-curriculares-para-a-educacao-pre-e-66849-2026
  -11-19@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T143000
 SUMMARY:Mesa Temática: “Orientações Curriculares para a Educação Pr
  é-Escolar\, caminhos percorridos e a percorrer
@@ -73,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nov-19-nov-19-xxviii-coloquio-de-outono-narrativas-e-represe-a0435-2026
  -11-19@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Nov 19 nov 19 XXVIII Colóquio de Outono Narrativas e Representaç
  ões Transculturais do Amor - Call for Papers Universidade do Minho\, Audi
@@ -83,5 +70,19 @@ DESCRIPTION:https://www.uma.pt/noticias/xxviii-coloquio-de-outono-narrativa
  s-e-representacoes-transculturais-do-amor-call-for-papers
 URL:https://lykeion.pt/e/nov-19-nov-19-xxviii-coloquio-de-outono-narrativas
  -e-represe-a0435.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nov-20-nov-20-reflexoes-ciclo-de-conferencias-do-conselho-pe-1fa7f-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T143000
+SUMMARY:Nov 20 nov 20 ReflexõES - Ciclo de Conferências do Conselho Pedag
+ ógico Universitário 14.30 - 16:30 | Edifício da Reitoria\, Colégio dos
+  Jesuitas
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://www.uma.pt/noticias/reflexoes-ciclo-de-conferencias-do-
+ conselho-pedagogico-universitario
+URL:https://lykeion.pt/e/nov-20-nov-20-reflexoes-ciclo-de-conferencias-do-c
+ onselho-pe-1fa7f.html
 END:VEVENT
 END:VCALENDAR

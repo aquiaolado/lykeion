@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Química (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:identificacao-de-riscos-no-armazenamento-de-produtos-quimico-1345f-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Identificação de Riscos no Armazenamento de Produtos Químicos Pe
+ rigosos
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/identificacao-de-riscos-no-armaz
+ enamento-de-produtos-quimicos-perigosos/
+URL:https://lykeion.pt/e/identificacao-de-riscos-no-armazenamento-de-produt
+ os-quimico-1345f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-2775d-2026-11-18@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T133000
+SUMMARY:Seminário
+LOCATION:Centro de Ciências do Mar do Algarve\, Faro
+DESCRIPTION:https://ccmar.ualg.pt/activity/recent-environmental-transformat
+ ion-and-recovery-estuaries-and-rias-northern-atlantic
+URL:https://lykeion.pt/e/seminario-2775d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xxx-encontro-galego-portugues-de-quimica-cff0b-2026-11-18@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:XXX Encontro Galego-Portugués de Química
+LOCATION:Sociedade Portuguesa de Química
+DESCRIPTION:https://www.spq.pt
+URL:https://lykeion.pt/e/xxx-encontro-galego-portugues-de-quimica-cff0b.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-aero2cycle-co-desenho-de-solucoes-de-valorizacao-de-8cb31-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T100000
+SUMMARY:Workshop AERO2cycle: Co-desenho de soluções de valorização de C
+ O2 industrial
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/workshop-aero2cy
+ cle-co-desenho-de-solucoes-de-valorizacao-de-co-industrial
+URL:https://lykeion.pt/e/workshop-aero2cycle-co-desenho-de-solucoes-de-valo
+ rizacao-de-8cb31.html
+END:VEVENT
+END:VCALENDAR

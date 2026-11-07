@@ -7,12 +7,22 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-b659a-2026-11-08@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T110000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
 DESCRIPTION:https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-m
  ac-ccb/2026-11-08/
 URL:https://lykeion.pt/e/visitas-as-exposicoes-b659a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T093000
+SUMMARY:18.ª edição Fórum do Medicamento
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
+ kets-2004012616683
+URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
 END:VEVENT
 END:VCALENDAR

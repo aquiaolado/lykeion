@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:12-11-2026-27-11-2026-seminario-regionalism-in-the-age-of-po-afe7d-2026
  -11-12@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T153000
 SUMMARY:Seminário “Regionalism in the Age of Polycrisis
 LOCATION:Centro de Estudos Interdisciplinares do Século XX\, Coimbra
@@ -16,5 +16,19 @@ DESCRIPTION:https://www.uc.pt/ceis20/seminarios/seminario-regionalism-in-th
  e-age-of-polycrisis-latin-american-dynamics-afinidades-disciplinares/
 URL:https://lykeion.pt/e/12-11-2026-27-11-2026-seminario-regionalism-in-the
  -age-of-po-afe7d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20-11-26-webinar-asilo-na-uniao-europeia-governacao-e-direit-a3737-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T090000
+SUMMARY:Webinar «Asilo na União Europeia: governação e direitos fundame
+ ntais»
+LOCATION:Centro de Estudos Interdisciplinares do Século XX\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceis20/conferencias/webinar-asilo-na-uniao-eu
+ ropeia-governacao-e-direitos-fundamentais-modulo-jean-monnet-demforyou-dem
+ ocracy-for-you-in-the-eu/
+URL:https://lykeion.pt/e/20-11-26-webinar-asilo-na-uniao-europeia-governaca
+ o-e-direit-a3737.html
 END:VEVENT
 END:VCALENDAR

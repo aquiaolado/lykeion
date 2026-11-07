@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:instituto-superior-de-agronomia-marca-presenca-na-web-summit-0f17c-2026
  -11-12@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Instituto Superior de Agronomia marca presença na Web Summit 2026
 LOCATION:Instituto Superior de Agronomia
@@ -16,5 +16,18 @@ DESCRIPTION:https://www.isa.ulisboa.pt/evento/instituto-superior-de-agronom
  ia-marca-presenca-na-web-summit-2026
 URL:https://lykeion.pt/e/instituto-superior-de-agronomia-marca-presenca-na-
  web-summit-0f17c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:instituto-superior-de-agronomia-acolhe-workshop-sobre-a-abor-a058b-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Instituto Superior de Agronomia acolhe Workshop sobre a abordagem m
+ ultiator no Horizonte Europa
+LOCATION:Instituto Superior de Agronomia
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/workshop-reforcar-o-sucesso-d
+ as-propostas-com-abordagem-multiator-no-horizonte-europa
+URL:https://lykeion.pt/e/instituto-superior-de-agronomia-acolhe-workshop-so
+ bre-a-abor-a058b.html
 END:VEVENT
 END:VCALENDAR

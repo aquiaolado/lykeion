@@ -6,34 +6,9 @@ X-WR-CALNAME:Livros e estudos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:33-o-aniversario-da-biblioteca-municipal-manuel-teixeira-gom-075b3-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:33.º aniversário da Biblioteca Municipal Manuel Teixeira Gomes (l
- ançamento de livros)
-LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
-DESCRIPTION:
-URL:https://lykeion.pt/e/33-o-aniversario-da-biblioteca-municipal-manuel-te
- ixeira-gom-075b3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:nov-06-nov-06-apresentacao-do-livro-filosofia-educacao-e-pol-6c993-2026
- -11-06@lagenda.pt
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=Europe/Lisbon:20261106T170000
-SUMMARY:Nov 06 nov 06 Apresentação do livro «Filosofia\, Educação e Po
- lítica» 17:00 | Campus da Penteada\, Sala do Senado
-LOCATION:Universidade da Madeira\, Funchal
-DESCRIPTION:https://www.uma.pt/noticias/apresentacao-do-livro-filosofia-edu
- cacao-e-politica
-URL:https://lykeion.pt/e/nov-06-nov-06-apresentacao-do-livro-filosofia-educ
- acao-e-pol-6c993.html
-END:VEVENT
-BEGIN:VEVENT
 UID:apresentacao-do-livro-viagem-ao-reino-do-algarve-6057d-2026-11-07@lagen
  da.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Apresentação do livro «Viagem ao Reino do Algarve»
 LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
@@ -45,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-inter-ditos-intimidade-poder-e-desejo-4afd8-2026-
  11-07@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Apresentação do livro “(INTER)DITOS: INTIMIDADE\, PODER E Desej
  o No Casal Heterossexual”\, de Iolanda Fontaínhas
@@ -58,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-arqueologia-nos-territorios-da-literat-69554-2026
  -11-08@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T160000
 SUMMARY:Apresentação do livro Arqueologia nos Territórios da Literatura 
  08-NOV-2026
@@ -71,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-o-governo-dos-outros-poder-e-diferenca-n-83d23-2026
  -11-09@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T120000
 SUMMARY:Lançamento do livro: «O Governo dos Outros. Poder e Diferença no
   Império Português»
@@ -83,7 +58,7 @@ URL:https://lykeion.pt/e/lancamento-do-livro-o-governo-dos-outros-poder-e-d
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-verde-0d7a0-2026-11-12@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Apresentação do Livro Verde
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -94,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-para-alem-da-regionalizacao-b5a52-2026-11-13@lage
  nda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Apresentação do Livro “Para Além da Regionalização
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -105,7 +80,7 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-para-alem-da-regionalizacao-
 END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-59732-2026-11-16@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T143000
 SUMMARY:Lançamento do livro
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
@@ -116,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-manual-de-arqueologia-de-la-arquitectu-a26f7-2026
  -11-18@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T190000
 SUMMARY:Apresentação do livro «Manual de Arqueología de la Arquitectura
  »
@@ -129,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:clube-de-leitura-lancamento-do-livro-o-well-being-e-super-se-84555-2026
  -11-19@lagenda.pt
-DTSTAMP:20261106T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T130000
 SUMMARY:Clube de Leitura | Lançamento do Livro “o Well-being É ‘super
  ’ Sexy” de Daniela Lima
@@ -138,5 +113,15 @@ DESCRIPTION:https://esce.unips.pt/eventos/clube-de-leitura-lancamento-do-li
  vro-o-well-being-e-super-sexy-de-daniela-lima/
 URL:https://lykeion.pt/e/clube-de-leitura-lancamento-do-livro-o-well-being-
  e-super-se-84555.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-maldito-minerio-d7858-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T213000
+SUMMARY:Apresentação do livro “Maldito Minério
+LOCATION:Museu Etnográfico de Vila Real\, Vila Real
+DESCRIPTION:https://ccr-vilareal.pt/eventos/apresentacao-do-livro-maldito-m
+ inerio/
+URL:https://lykeion.pt/e/apresentacao-do-livro-maldito-minerio-d7858.html
 END:VEVENT
 END:VCALENDAR

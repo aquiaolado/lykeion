@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEI (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:masterclass-writing-rewriting-surviving-the-graduates-guide-39e16-2026-
+ 11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T183000
+SUMMARY:Masterclass “Writing\, Rewriting\, Surviving: The Graduate’s Gu
+ ide to the Thesis Journey
+LOCATION:Centro de Estudos Interculturais\, Matosinhos
+DESCRIPTION:https://www.iscap.pt/cei/masterclass-writing-rewriting-survivin
+ g-the-graduates-guide-to-the-thesis-journey-20-de-novembro/
+URL:https://lykeion.pt/e/masterclass-writing-rewriting-surviving-the-gradua
+ tes-guide-39e16.html
+END:VEVENT
+END:VCALENDAR

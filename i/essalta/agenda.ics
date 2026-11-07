@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ESSALTA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-desafios-de-auditoria-interna-na-saude-77947-2026-11-20@lagenda
+ .pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T190000
+SUMMARY:Webinar: “Desafios de Auditoria Interna na Saúde
+LOCATION:Escola Superior de Saúde Atlântica\, Amadora
+DESCRIPTION:https://essatla.pt/20-de-nov-webinar-desafios-de-auditoria-inte
+ rna-na-saude/
+URL:https://lykeion.pt/e/webinar-desafios-de-auditoria-interna-na-saude-779
+ 47.html
+END:VEVENT
+END:VCALENDAR
