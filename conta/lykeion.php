@@ -10,7 +10,7 @@
 //   ?semana          → um lote da newsletter de segunda (só à segunda, a partir das 7h)
 //   ?ver             → mostra o email de segunda de quem tem a sessão aberta
 //   ?sair=ID&k=CHAVE → deixa de receber os emails do Lykeion
-foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/db.php") && (is_file("$d/config.php") || is_file(dirname((string) realpath($d), 2) . '/privado/config.php'))) { require_once "$d/db.php"; break; }
+foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/db.php") && (is_file("$d/config.php") || is_file(dirname((string) realpath($d), 2) . '/privado/config.php') || (is_file("$d/config_caminho.php") && (include "$d/config_caminho.php")))) { require_once "$d/db.php"; break; }
 if (!function_exists('bd')) { http_response_code(503); exit('{"erro":"As contas ainda não estão ligadas neste servidor."}'); }
 
 $URL = 'https://lykeion.pt/';      // quando houver lykeion.pt, muda aqui e em LY (lykeion.py)

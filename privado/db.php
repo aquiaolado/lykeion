@@ -2,7 +2,7 @@
 // Ligação à base de dados e criação automática da tabela
 // config.php: aqui ou, de preferência, numa pasta privado/ ao lado do public_html (ex.: domains/lagenda.pt/privado/config.php),
 // onde a publicação do Hostinger não lhe toca. A 6/11/2026 uma publicação do lagenda.pt apagou public_html/privado/config.php.
-$CFG = require (is_file(__DIR__ . '/config.php') ? __DIR__ . '/config.php' : dirname(__DIR__, 2) . '/privado/config.php');
+$CFG = require ((is_file(__DIR__ . '/config_caminho.php') ? (include __DIR__ . '/config_caminho.php') : '') ?: (is_file(__DIR__ . '/config.php') ? __DIR__ . '/config.php' : dirname(__DIR__, 2) . '/privado/config.php'));
 mb_internal_encoding('UTF-8');
 
 const CAMPOS = [

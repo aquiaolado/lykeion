@@ -10,7 +10,7 @@
 // Publica logo: com o link pessoal, ou quando a ligação é para o site da própria instituição (academia/dominios.json).
 // Os outros casos ficam à espera de um clique no email da gestão (contra o lixo). Os emails de quem propõe ficam só na
 // base de dados do servidor, nunca no GitHub.
-foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/db.php") && (is_file("$d/config.php") || is_file(dirname((string) realpath($d), 2) . '/privado/config.php'))) { require_once "$d/db.php"; require_once "$d/github.php"; break; }
+foreach ([__DIR__ . '/../privado', __DIR__ . '/../../privado'] as $d) if (is_file("$d/db.php") && (is_file("$d/config.php") || is_file(dirname((string) realpath($d), 2) . '/privado/config.php') || (is_file("$d/config_caminho.php") && (include "$d/config_caminho.php")))) { require_once "$d/db.php"; require_once "$d/github.php"; break; }
 if (!function_exists('bd')) { http_response_code(503); exit('As contas ainda não estão ligadas neste servidor.'); }
 
 $URL = 'https://lykeion.pt/';  // quando houver lykeion.pt, muda aqui e no lykeion.py
