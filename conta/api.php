@@ -162,6 +162,9 @@ try {
     if (is_array($g['lyk'] ?? null)) { // Lykeion (4/11/2026): instituições e áreas seguidas, avisos e newsletter de segunda (conta/lykeion.php)
       $l = $g['lyk']; $ly = [];
       foreach (['inst', 'areas', 'listas'] as $k) $ly[$k] = array_slice(array_values(array_filter(array_map(fn($x) => mb_substr((string)$x, 0, 80), (array)($l[$k] ?? [])))), 0, 300);
+      // «menos disto» (7/11/2026): o que a pessoa escolheu não ver (tipos, instituições, áreas); sai da entrada, da agenda e dos emails
+      $m = (array)($l['menos'] ?? []); $ly['menos'] = [];
+      foreach (['tipos', 'inst', 'areas'] as $k) $ly['menos'][$k] = array_slice(array_values(array_filter(array_map(fn($x) => mb_substr((string)$x, 0, 80), (array)($m[$k] ?? [])))), 0, 300);
       $ly['avisos'] = !array_key_exists('avisos', $l) || !empty($l['avisos']); $ly['semanal'] = !array_key_exists('semanal', $l) || !empty($l['semanal']);
       $limpo['lyk'] = $ly;
     }

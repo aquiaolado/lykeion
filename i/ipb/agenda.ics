@@ -6,6 +6,41 @@ X-WR-CALNAME:IPB (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:seminario-de-enfermagem-veterinaria-fisioterapia-veterinaria-bacbb-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T160000
+SUMMARY:Seminário de Enfermagem Veterinária: Fisioterapia Veterinária 
+ – Aplicações em Diferentes Espécies
+LOCATION:Instituto Politécnico de Bragança\, Bragança
+DESCRIPTION:https://esa.unipb.pt/eventos/seminario-de-enfermagem-veterinari
+ a-fisioterapia-veterinaria-aplicacoes-em-diferentes-especies/
+URL:https://lykeion.pt/e/seminario-de-enfermagem-veterinaria-fisioterapia-v
+ eterinaria-bacbb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-6d49d-2026-11-11@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T180000
+SUMMARY:Workshop
+LOCATION:Instituto Politécnico de Bragança\, Bragança
+DESCRIPTION:https://estig.unipb.pt/events/84/
+URL:https://lykeion.pt/e/workshop-6d49d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-implementacao-do-e-bug-uma-estrategia-integrada-en-1cea1-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Seminário «Implementação do e-Bug: Uma estratégia integrada en
+ tre o PPCIRA\, a Saúde Pública\, a Saúde Escolar e a Comunidade Cientí
+ fica»
+LOCATION:Instituto Politécnico de Bragança\, Chaves
+DESCRIPTION:https://essa.unipb.pt/events/76/
+URL:https://lykeion.pt/e/seminario-implementacao-do-e-bug-uma-estrategia-in
+ tegrada-en-1cea1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ehb-upb-acolhe-debate-sobre-o-futuro-do-ensino-superior-em-t-b579f-2026
  -11-13@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -16,5 +51,14 @@ DESCRIPTION:https://unipb.pt/pt/eventos/ehb-upb-acolhe-debate-sobre-o-futur
  o-do-ensino-superior-em-turismo-327
 URL:https://lykeion.pt/e/ehb-upb-acolhe-debate-sobre-o-futuro-do-ensino-sup
  erior-em-t-b579f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:open-lectures-ce2c8-2026-11-19@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T171500
+SUMMARY:Open Lectures
+LOCATION:Instituto Politécnico de Bragança\, Bragança
+DESCRIPTION:https://estig.unipb.pt/events/94/
+URL:https://lykeion.pt/e/open-lectures-ce2c8.html
 END:VEVENT
 END:VCALENDAR

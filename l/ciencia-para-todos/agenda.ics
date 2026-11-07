@@ -6,6 +6,24 @@ X-WR-CALNAME:Ciência para todos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:7-novembro-ef21c-2026-11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:7 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/7-novembro-ef21c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:berlim-ciclo-de-cinema-portugues-ha-cinema-na-embaixada-6fb40-2026-11-0
  7@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -44,35 +62,6 @@ URL:https://lykeion.pt/e/cartografias-poeticas-por-helena-cardoso-exposicao
  -b2aba.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ciencia-viva-bcc60-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T170000
-SUMMARY:Ciência Viva
-LOCATION:Ciência Viva\, Grândola
-DESCRIPTION:https://lousal.cienciaviva.pt/category/ciencia-viva/
-URL:https://lykeion.pt/e/ciencia-viva-bcc60.html
-END:VEVENT
-BEGIN:VEVENT
-UID:clube-de-ciencia-106ea-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T100000
-SUMMARY:Clube de Ciência
-LOCATION:Centro Ciência Viva de Lagos\, Lagos
-DESCRIPTION:https://lagos.cienciaviva.pt/14861/clube-de-ciencia-|-7-de-nove
- mbro
-URL:https://lykeion.pt/e/clube-de-ciencia-106ea.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conference-histoires-d-art-leonard-de-vinci-8d38e-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T150000
-SUMMARY:Conférence Histoires d'art - Léonard de Vinci
-LOCATION:Centro Ciência Viva do Algarve\, Faro
-DESCRIPTION:
-URL:https://lykeion.pt/e/conference-histoires-d-art-leonard-de-vinci-8d38e.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
  -11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -95,17 +84,6 @@ LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
 DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/cook-lab---o
  ficinas-de-culin%C3%A1ria
 URL:https://lykeion.pt/e/cook-lab-76570.html
-END:VEVENT
-BEGIN:VEVENT
-UID:deste-lado-do-espelho-atividades-na-bancada-de-ciencia-73a19-2026-11-07
- @lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T110000
-SUMMARY:Deste lado do espelho - Atividades na Bancada de Ciência
-LOCATION:Universidade de Coimbra\, Coimbra
-DESCRIPTION:
-URL:https://lykeion.pt/e/deste-lado-do-espelho-atividades-na-bancada-de-cie
- ncia-73a19.html
 END:VEVENT
 BEGIN:VEVENT
 UID:dublin-portugal-na-exposicao-vision-fotografia-contemporanea-3ef75-2026
@@ -152,6 +130,16 @@ DESCRIPTION:https://braganca.cienciaviva.pt/12640/espaco-kids:-100-ciencia-
 URL:https://lykeion.pt/e/espaco-kids-100-ciencia-7-de-novembro-08ad5.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-30838-2026-11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Exposição
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
+ o-do-coracao-de-ana-janeiro/
+URL:https://lykeion.pt/e/exposicao-30838.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-a9a54-2026-11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -172,16 +160,6 @@ DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
 URL:https://lykeion.pt/e/exposicao-239fa.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-30838-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Exposição
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
- o-do-coracao-de-ana-janeiro/
-URL:https://lykeion.pt/e/exposicao-30838.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
  11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -196,7 +174,7 @@ URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
  de-formas-ab38b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-de-pintura-pintar-sem-tinta-em-cores-na-cmtg-e8e5f-2026-11-07
+UID:exposicao-de-pintura-pintar-sem-tinta-em-cores-na-cmtg-9ffdc-2026-11-07
  @lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -204,7 +182,7 @@ SUMMARY:Exposição de Pintura “Pintar sem tinta... em cores" na CMTG
 LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
 DESCRIPTION:
 URL:https://lykeion.pt/e/exposicao-de-pintura-pintar-sem-tinta-em-cores-na-
- cmtg-e8e5f.html
+ cmtg-9ffdc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-7c0a9-2026-
@@ -349,6 +327,16 @@ URL:https://lykeion.pt/e/haia-exposicao-rui-chafes-x-alberto-giacometti-gri
  s-vide-cri-bd362.html
 END:VEVENT
 BEGIN:VEVENT
+UID:horarios-b8bae-2026-11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Horários
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1195/exposicoes
+URL:https://lykeion.pt/e/horarios-b8bae.html
+END:VEVENT
+BEGIN:VEVENT
 UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
  -11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -408,17 +396,6 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
 URL:https://lykeion.pt/e/novi-sad-ciclo-de-cinema-portugues-51e99.html
 END:VEVENT
 BEGIN:VEVENT
-UID:o-fantasma-do-universo-a-procura-da-materia-escura-6b012-2026-11-07@lag
- enda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T160000
-SUMMARY:O Fantasma do Universo - a procura da matéria escura
-LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
-DESCRIPTION:
-URL:https://lykeion.pt/e/o-fantasma-do-universo-a-procura-da-materia-escura
- -6b012.html
-END:VEVENT
-BEGIN:VEVENT
 UID:paris-exposicao-au-milieu-9207b-2026-11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -429,13 +406,17 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
 URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:planetario-do-porto-ha-formas-no-espaco-4ab38-2026-11-07@lagenda.pt
+UID:pedra-dura-aqui-ha-um-buraco-de-jose-ferreira-07-novembro-10-df274-2026
+ -11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Planetário do Porto- Há Formas no Espaço
-LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
-DESCRIPTION:
-URL:https://lykeion.pt/e/planetario-do-porto-ha-formas-no-espaco-4ab38.html
+DTSTART;TZID=Europe/Lisbon:20261107T103000
+SUMMARY:Pedra Dura | Aqui Há Um Buraco\, de José Ferreira 07 novembro 10h
+ 30 Centro Ciência Viva de Lagos
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16168-pedra-dura-aqui
+ -há-um-buraco\,-de-josé-ferreira
+URL:https://lykeion.pt/e/pedra-dura-aqui-ha-um-buraco-de-jose-ferreira-07-n
+ ovembro-10-df274.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seul-exposicao-joao-simoes-video-works-ec164-2026-11-07@lagenda.pt
@@ -473,6 +454,17 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  wheres-memory-and-identity-across-cultures
 URL:https://lykeion.pt/e/xangai-participacao-portuguesa-na-exposicao-betwee
  n-elsewher-4b65b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:deste-lado-do-espelho-atividades-na-bancada-de-ciencia-42eaf-2026-11-08
+ @lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T110000
+SUMMARY:Deste lado do espelho - Atividades na Bancada de Ciência
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:
+URL:https://lykeion.pt/e/deste-lado-do-espelho-atividades-na-bancada-de-cie
+ ncia-42eaf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-08@lagenda
@@ -525,6 +517,17 @@ LOCATION:Faculdade de Letras da Universidade de Lisboa
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-13-13-escrito
  ras-galegas-e-lusofonas-em-dialogo-1
 URL:https://lykeion.pt/e/exposicao-34804.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T170000
+SUMMARY:Exposição fotográfica “Echoes in Concrete
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/exposicao-fotografica-echoes-c
+ oncrete
+URL:https://lykeion.pt/e/exposicao-fotografica-echoes-in-concrete-bcd1a.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-13-13-escritoras-galegas-e-lusofonas-em-dialogo-34804-2026-11
@@ -583,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eficiencia-energetica-na-pratica-a0aef-2026-11-13@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T183000
+DTSTART;VALUE=DATE:20261113
 SUMMARY:Eficiência Energética na Prática
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
 DESCRIPTION:https://www.ccvfloresta.com/actividades/cafes-de-ciencia/607-ef
@@ -638,6 +641,19 @@ LOCATION:Ar.Co Centro de Arte e Comunicação Visual
 DESCRIPTION:https://arco.pt/site/news/412/2024-10-07
 URL:https://lykeion.pt/e/exposicao-volte-face-de-vasco-futscher-ate-15-de-n
  ovembro-ar-463e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:historias-vivas-como-apanhar-uma-estrela-de-oliver-jeffers-1-e59e7-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T103000
+SUMMARY:Histórias Vivas | Como Apanhar Uma Estrela\, de Oliver Jeffers 15 
+ novembro 10h30 Centro Ciência Viva de Lagos
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16209-histórias-viva
+ s-como-apanhar-uma-estrela\,-de-oliver-jeffers
+URL:https://lykeion.pt/e/historias-vivas-como-apanhar-uma-estrela-de-oliver
+ -jeffers-1-e59e7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:mostra-cinema-resistencia-entre-leiras-6a8f4-2026-11-17@lagenda.pt

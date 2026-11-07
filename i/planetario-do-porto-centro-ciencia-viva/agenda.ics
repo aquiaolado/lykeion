@@ -6,24 +6,13 @@ X-WR-CALNAME:Planetário do Porto - Centro Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:o-fantasma-do-universo-a-procura-da-materia-escura-6b012-2026-11-07@lag
- enda.pt
+UID:academia-da-robotica-20262027-4e764-2026-11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T160000
-SUMMARY:O Fantasma do Universo - a procura da matéria escura
+DTSTART;TZID=Europe/Lisbon:20261107T020000
+SUMMARY:Academia da Robótica 2026–2027
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
-DESCRIPTION:
-URL:https://lykeion.pt/e/o-fantasma-do-universo-a-procura-da-materia-escura
- -6b012.html
-END:VEVENT
-BEGIN:VEVENT
-UID:planetario-do-porto-ha-formas-no-espaco-4ab38-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Planetário do Porto- Há Formas no Espaço
-LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
-DESCRIPTION:
-URL:https://lykeion.pt/e/planetario-do-porto-ha-formas-no-espaco-4ab38.html
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-3clipse-0641e-2026-11-14@lagenda.pt

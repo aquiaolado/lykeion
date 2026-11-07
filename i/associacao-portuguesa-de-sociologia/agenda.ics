@@ -58,10 +58,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-on-african-urban-planning-e82d3-2026-11-19@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T120000
+DTSTART;VALUE=DATE:20261119
 SUMMARY:Webinar on African Urban Planning
 LOCATION:Associacao Portuguesa de Sociologia
 DESCRIPTION:https://aps.pt/event/webinar-on-african-urban-planning/
 URL:https://lykeion.pt/e/webinar-on-african-urban-planning-e82d3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-projeto-parental-dos-casais-jovens-8a406-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T140000
+SUMMARY:Webinar “Projeto Parental dos Casais Jovens
+LOCATION:Associacao Portuguesa de Sociologia
+DESCRIPTION:https://aps.pt/event/webinar-projeto-parental-dos-casais-jovens
+ /
+URL:https://lykeion.pt/e/webinar-projeto-parental-dos-casais-jovens-8a406.h
+ tml
 END:VEVENT
 END:VCALENDAR

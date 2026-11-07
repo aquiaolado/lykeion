@@ -6,18 +6,6 @@ X-WR-CALNAME:NOVA SBE (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:workshop-2-tornar-o-jardim-num-refugio-climatico-implementac-0ce0e-2026
- -11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T100000
-SUMMARY:Workshop 2 – Tornar o Jardim num Refúgio Climático (implementa
- ção)
-LOCATION:Nova SBE\, Cascais
-DESCRIPTION:
-URL:https://lykeion.pt/e/workshop-2-tornar-o-jardim-num-refugio-climatico-i
- mplementac-0ce0e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lideranca-na-era-da-ia-f5ad9-2026-11-09@lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T140000
@@ -58,11 +46,20 @@ DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
  migration\, Health and Wellbeing
-LOCATION:Nova SBE
+LOCATION:Nova SBE\, Cascais
 DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
  e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
  pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
 URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
  orkshop-on-fd2e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:experiment-e4cdf-2026-11-20@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Experiment
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/experiment-tickets-2001394905037
+URL:https://lykeion.pt/e/experiment-e4cdf.html
 END:VEVENT
 END:VCALENDAR

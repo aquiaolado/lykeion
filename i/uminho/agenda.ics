@@ -6,6 +6,31 @@ X-WR-CALNAME:Universidade do Minho (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-07@lagend
+ a.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Ciclo de conferências «O que diz o Direito Civil?»
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
+ o.aspx?Codigo=68370
+URL:https://lykeion.pt/e/ciclo-de-conferencias-o-que-diz-o-direito-civil-97
+ 4d7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-do-projeto-de-investigacao-a-tese-de-doutoramento-e-249f3-2026
+ -11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Workshop | Do Projeto de Investigação à Tese de Doutoramento em 
+ Direito
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
+ o.aspx?Codigo=69565
+URL:https://lykeion.pt/e/workshop-do-projeto-de-investigacao-a-tese-de-dout
+ oramento-e-249f3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:xlv-encontro-da-aphes-11186-2026-11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -49,19 +74,6 @@ LOCATION:TecMinho\, Guimarães
 DESCRIPTION:https://www.tecminho.uminho.pt/formar/green-construction-workfo
  rce-conf
 URL:https://lykeion.pt/e/conferencia-europeia-1885e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:defesa-da-tese-do-programa-doutoral-em-ciencia-e-tecnologia-2def4-2026-
- 11-10@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Defesa da tese do Programa Doutoral em Ciência e Tecnologia Alimen
- tar e Nutrição - Maria João da Silva
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
- o.aspx?Codigo=69646
-URL:https://lykeion.pt/e/defesa-da-tese-do-programa-doutoral-em-ciencia-e-t
- ecnologia-2def4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-nacional-eeadc-2026-11-11@lagenda.pt

@@ -6,18 +6,6 @@ X-WR-CALNAME:Medicina (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:15-congresso-nacional-de-enfermagem-oncologica-e-3-congresso-862f9-2026
- -11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:15º Congresso Nacional de Enfermagem Oncológica e 3º Congresso I
- nternacional de Enfermagem Oncológica
-LOCATION:Escola Superior de Saúde de Viana do Castelo\, Viana do Castelo
-DESCRIPTION:
-URL:https://lykeion.pt/e/15-congresso-nacional-de-enfermagem-oncologica-e-3
- -congresso-862f9.html
-END:VEVENT
-BEGIN:VEVENT
 UID:gala-solidaria-humanizar-a-espera-oncologia-faro-35a76-2026-11-07@lagen
  da.pt
 DTSTAMP:20261107T000000Z
@@ -42,29 +30,14 @@ URL:https://lykeion.pt/e/iii-encontro-nacional-da-fedra-doencas-raras-2026-
  8739c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:reuniao-anual-do-grupo-de-estudo-de-risco-cardiovascular-e-g-2b423-2026
- -11-07@lagenda.pt
+UID:seminarios-clinicos-clinica-e-migracao-0fd68-2026-11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Reunião anual do Grupo de Estudo de Risco Cardiovascular e GE de F
- isiopatologia do Esforço e Reabilitação Cardíaca
-LOCATION:Sociedade Portuguesa de Cardiologia
-DESCRIPTION:https://spc.pt/evento/reuniao-anual-do-grupo-de-estudo-de-risco
- -cardiovascular-e-ge-de-fisiopatologia-do-esforco-e-reabilitacao-cardiaca/
-URL:https://lykeion.pt/e/reuniao-anual-do-grupo-de-estudo-de-risco-cardiova
- scular-e-g-2b423.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-de-lingua-gestual-portuguesa-em-emergencia-pre-hos-45214-2026
- -11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T080000
-SUMMARY:Seminário de Língua Gestual Portuguesa em Emergência Pré-hospit
- alar
-LOCATION:Casa da Cultura de Mira de Aire\, Porto de Mós
-DESCRIPTION:
-URL:https://lykeion.pt/e/seminario-de-lingua-gestual-portuguesa-em-emergenc
- ia-pre-hos-45214.html
+DTSTART;TZID=Europe/Lisbon:20261107T163000
+SUMMARY:Seminários Clínicos – Clínica e Migração
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/seminarios-clinicos-clinica-
+ e-migracao/
+URL:https://lykeion.pt/e/seminarios-clinicos-clinica-e-migracao-0fd68.html
 END:VEVENT
 BEGIN:VEVENT
 UID:x-congresso-de-medicina-felina-geriatria-e-cuidados-paliativ-ea057-2026
@@ -134,6 +107,17 @@ LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24204
 URL:https://lykeion.pt/e/xix-hospital-faz-de-conta-88f42.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T170000
+SUMMARY:Exposição fotográfica “Echoes in Concrete
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/exposicao-fotografica-echoes-c
+ oncrete
+URL:https://lykeion.pt/e/exposicao-fotografica-echoes-in-concrete-bcd1a.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-e2354-2026-11-10@lagenda.pt
@@ -219,7 +203,7 @@ UID:iii-congresso-do-algarve-de-alzheimer-e-outras-demencias-2867b-2026-11-
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:III Congresso do Algarve de Alzheimer e outras demências
-LOCATION:Casa do Sal\, Castro Marim
+LOCATION:Casa de Odeleite\, Castro Marim
 DESCRIPTION:https://cm-castromarim.pt/site/evento/iii-congresso-do-algarve-
  de-alzheimer-e-outras-demencias
 URL:https://lykeion.pt/e/iii-congresso-do-algarve-de-alzheimer-e-outras-dem
@@ -236,6 +220,15 @@ LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
 DESCRIPTION:https://www.ubi.pt/Evento/24139
 URL:https://lykeion.pt/e/jornadas-da-diabetes-do-cacb-beiras-diabetes-360o-
  e7bb1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-mestrado-1d671-2026-11-12@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-477/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-1d671.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-c6ea1-2026-11-12@lagenda.pt
@@ -489,6 +482,21 @@ LOCATION:Centro de Direito Biomédico\, Coimbra
 DESCRIPTION:https://centrodedireitobiomedico.org/curso/8-congresso-internac
  ional-da-adfas-presente-e-futuro-do-biodireito-da/35/
 URL:https://lykeion.pt/e/8o-congresso-internacional-da-adfas-ab031.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-conferencias-errancias-culturas-e-identidades-outra-7f70c-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T180000
+SUMMARY:Ciclo de Conferências | Errâncias\, Culturas e Identidades Outras
+  fronteiras do Comum. Errância e hospitalidade na literatura e na arte po
+ r Luca Fazzini
+LOCATION:BMEL\, Guarda
+DESCRIPTION:https://www.mun-guarda.pt/agenda-de-eventos/ciclo-de-conferenci
+ as-errancias-culturas-e-identidades-outras-fronteiras-do-comum-errancia-e-
+ hospitalidade-na-literatura-e-na-arte-por-luca-fazzini/
+URL:https://lykeion.pt/e/ciclo-de-conferencias-errancias-culturas-e-identid
+ ades-outra-7f70c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iii-encontro-da-rede-portuguesa-de-humanidades-medicas-60a63-2026-11-19

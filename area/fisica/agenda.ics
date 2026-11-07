@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-7d131-2026-11-18@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:Seminário
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/seminario-active-hotspots/

@@ -6,14 +6,13 @@ X-WR-CALNAME:Centro Ciência Viva do Algarve (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conference-histoires-d-art-leonard-de-vinci-8d38e-2026-11-07@lagenda.pt
+UID:7-novembro-ef21c-2026-11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T150000
-SUMMARY:Conférence Histoires d'art - Léonard de Vinci
+DTSTART;VALUE=DATE:20261107
+SUMMARY:7 Novembro
 LOCATION:Centro Ciência Viva do Algarve\, Faro
-DESCRIPTION:
-URL:https://lykeion.pt/e/conference-histoires-d-art-leonard-de-vinci-8d38e.
- html
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/7-novembro-ef21c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:manha-de-ciencia-093f1-2026-11-07@lagenda.pt

@@ -34,6 +34,7 @@ function lyk(array $u): array {
   $g = json_decode($u['gostos'] ?: '{}', true) ?: [];
   $l = (array)($g['lyk'] ?? []);
   return ['inst' => array_flip((array)($l['inst'] ?? [])), 'areas' => array_flip((array)($l['areas'] ?? [])), 'listas' => (array)($l['listas'] ?? []),
+          'menos' => ['tipos' => array_flip((array)($l['menos']['tipos'] ?? [])), 'inst' => array_flip((array)($l['menos']['inst'] ?? [])), 'areas' => array_flip((array)($l['menos']['areas'] ?? []))],
           'avisos' => !array_key_exists('avisos', $l) || !empty($l['avisos']), 'semanal' => !array_key_exists('semanal', $l) || !empty($l['semanal'])];
 }
 // a instituição do evento ou uma das suas mães é seguida? devolve a seguida, ou ''
@@ -59,6 +60,9 @@ function escolhidos(array $u, string $ate = '', bool $so_novos = true): array {
   if ($so_novos) { $q = ly_bd()->prepare("SELECT chave FROM lg_alertas WHERE utilizador_id = ? AND chave LIKE 'lyk|%'"); $q->execute([$u['id']]); $ja = array_flip($q->fetchAll(PDO::FETCH_COLUMN)); }
   $r = [];
   foreach ($D['ev'] as $e) {
+    // «menos disto» (7/11/2026): o que a pessoa disse que não quer ver ganha sempre
+    if (isset($L['menos']['tipos'][$e['s'] ?? '']) || seguida((string)($e['in'] ?? ''), $L['menos']['inst']) !== ''
+        || array_filter(array_merge((array)($e['af'] ?? []), (array)($e['a'] ?? [])), fn($x) => isset($L['menos']['areas'][$x]))) continue;
     $s = seguida((string)($e['in'] ?? ''), $L['inst']);
     // áreas largas («Ciências Sociais») e finas («Sociologia»: todos os eventos dos centros da lista da APS, 6/11/2026)
     $a = $s ? '' : (string)(array_values(array_filter(array_merge((array)($e['af'] ?? []), (array)($e['a'] ?? [])), fn($x) => isset($L['areas'][$x])))[0] ?? '');

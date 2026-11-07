@@ -6,6 +6,18 @@ X-WR-CALNAME:Direito (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-07@lagend
+ a.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Ciclo de conferências «O que diz o Direito Civil?»
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
+ o.aspx?Codigo=68370
+URL:https://lykeion.pt/e/ciclo-de-conferencias-o-que-diz-o-direito-civil-97
+ 4d7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontro-passeio-todo-o-terreno-a864c-2026-11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -14,6 +26,30 @@ LOCATION:Ordem dos Engenheiros
 DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/passeio-todo-o-te
  rreno-descobrindo-as-rotas-do-sul/
 URL:https://lykeion.pt/e/encontro-passeio-todo-o-terreno-a864c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-perspectivas-do-direito-na-historia-047d6-2026-11-07@lagenda.
+ pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T120000
+SUMMARY:Seminário Perspectivas do Direito na História
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-19-de-ja
+ neiro-seminario-perspectivas-do-direito-na-historia
+URL:https://lykeion.pt/e/seminario-perspectivas-do-direito-na-historia-047d
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-de-historia-europeia-do-direito-e-justica-3d598-2026-11-07@la
+ genda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T120000
+SUMMARY:Seminário de História Europeia do Direito e Justiça
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-16-de-de
+ zembro-seminario-de-historia-europeia-do-direito-e-justica
+URL:https://lykeion.pt/e/seminario-de-historia-europeia-do-direito-e-justic
+ a-3d598.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-english-speed-indigent-criminal-defense-d0fa1-2026-11-07@lage
@@ -39,6 +75,33 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-novembro-speed-sistem
  a-carcerario-feminino-brasileiro-o-abandono-afetivo-e-a-dupla-desviancia
 URL:https://lykeion.pt/e/seminario-speed-sistema-carcerario-feminino-brasil
  eiro-o-aba-d484f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:toolkit-sobre-questoes-juridicas-protecao-de-dados-e-licenca-0b09f-2026
+ -11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Toolkit sobre questões jurídicas\, proteção de dados e licença
+ s
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/toolkit-sobre-qu
+ estoes-juridicas-protecao-de-dados-e-licencas
+URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
+ -e-licenca-0b09f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-do-projeto-de-investigacao-a-tese-de-doutoramento-e-249f3-2026
+ -11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Workshop | Do Projeto de Investigação à Tese de Doutoramento em 
+ Direito
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
+ o.aspx?Codigo=69565
+URL:https://lykeion.pt/e/workshop-do-projeto-de-investigacao-a-tese-de-dout
+ oramento-e-249f3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:8-e-9-de-novembro-conferencia-a-reforma-do-codigo-civil-e-a-5e013-2026-
@@ -157,6 +220,19 @@ URL:https://lykeion.pt/e/envelhecimento-sem-estereotipos-servico-social-e-d
  ireitos-da-40283.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-89f8c-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Lançamento do livro: «A Morte medicamente assistida à luz da Con
+ stituição»
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/lancamento-do-livro-morte-medi
+ camente-assistida-luz-da-constituicao
+URL:https://lykeion.pt/e/lancamento-do-livro-a-morte-medicamente-assistida-
+ a-luz-da-c-89f8c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciada-andreia-sofia-0229f-2026-
  11-10@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -209,6 +285,16 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-rute-patr
  icia-garri-0ef76.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T120000
+SUMMARY:2.ª Conferência Anual do NOVA Green Lab
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
+ ova-green-lab
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-21c63.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-vida-e-morte-dos-direitos-formas-de-tutela-e-res-65ed4-2026
  -11-11@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -220,6 +306,16 @@ DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/au
  la-aberta-vida-e-morte-dos-direitos-formas-de-tutela-e-restricoes
 URL:https://lykeion.pt/e/aula-aberta-vida-e-morte-dos-direitos-formas-de-tu
  tela-e-res-65ed4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:catolica-talks-30259-2026-11-11@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Católica Talks
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/catolica-talks-aspects-juridiq
+ ues-du-capitalisme-moderne
+URL:https://lykeion.pt/e/catolica-talks-30259.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-ederia-isabel-rodri-12111-2026
@@ -244,16 +340,17 @@ DESCRIPTION:https://www.jusgov.uminho.pt/event/vii-congresso-juscrim/
 URL:https://lykeion.pt/e/vii-congresso-juscrim-bd652.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aula-aberta-protecao-de-menores-em-ambientes-digitais-a95ee-2026-11-12@
- lagenda.pt
+UID:apresentacao-do-livro-a-seguranca-e-saude-no-trabalho-um-enq-dc757-2026
+ -11-12@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T120000
-SUMMARY:Aula Aberta: Proteção de menores em ambientes digitais
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/open-class-protection-of-m
- inors-in-digital-environments
-URL:https://lykeion.pt/e/aula-aberta-protecao-de-menores-em-ambientes-digit
- ais-a95ee.html
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Apresentação do livro «A Segurança e Saúde no Trabalho: um Enq
+ uadramento Jurídico-Laboral dos Riscos Psicossociais»
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/apresentacao-do-livro-seguranc
+ a-e-saude-no-trabalho-um-enquadramento-juridico-laboral-dos
+URL:https://lykeion.pt/e/apresentacao-do-livro-a-seguranca-e-saude-no-traba
+ lho-um-enq-dc757.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-da-ia-generativa-a-ia-agentica-impactos-na-advocac-ec500-2026
@@ -294,6 +391,15 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/13-e-14-de-novembro-i-cong
  resso-luso-brasileiro-de-justica-administrativa-e-fiscal
 URL:https://lykeion.pt/e/13-e-14-de-novembro-i-congresso-luso-brasileiro-de
  -justica-a-aba53.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-mestrado-47410-2026-11-13@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-478/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-47410.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-ia-e-o-futuro-da-investigacao-em-ciencias-juridica-f4b4b-2026

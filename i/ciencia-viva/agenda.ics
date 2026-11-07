@@ -6,6 +6,15 @@ X-WR-CALNAME:Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:7-novembro-ef21c-2026-11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:7 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/7-novembro-ef21c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ciencia-viva-bcc60-2026-11-07@lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261107T170000
@@ -13,26 +22,6 @@ SUMMARY:Ciência Viva
 LOCATION:Ciência Viva\, Grândola
 DESCRIPTION:https://lousal.cienciaviva.pt/category/ciencia-viva/
 URL:https://lykeion.pt/e/ciencia-viva-bcc60.html
-END:VEVENT
-BEGIN:VEVENT
-UID:clube-de-ciencia-106ea-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T100000
-SUMMARY:Clube de Ciência
-LOCATION:Centro Ciência Viva de Lagos\, Lagos
-DESCRIPTION:https://lagos.cienciaviva.pt/14861/clube-de-ciencia-|-7-de-nove
- mbro
-URL:https://lykeion.pt/e/clube-de-ciencia-106ea.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conference-histoires-d-art-leonard-de-vinci-8d38e-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T150000
-SUMMARY:Conférence Histoires d'art - Léonard de Vinci
-LOCATION:Centro Ciência Viva do Algarve\, Faro
-DESCRIPTION:
-URL:https://lykeion.pt/e/conference-histoires-d-art-leonard-de-vinci-8d38e.
- html
 END:VEVENT
 BEGIN:VEVENT
 UID:espaco-kids-100-ciencia-7-de-novembro-08ad5-2026-11-07@lagenda.pt
@@ -55,6 +44,19 @@ DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
 URL:https://lykeion.pt/e/manha-de-ciencia-093f1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:pedra-dura-aqui-ha-um-buraco-de-jose-ferreira-07-novembro-10-df274-2026
+ -11-07@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261107T103000
+SUMMARY:Pedra Dura | Aqui Há Um Buraco\, de José Ferreira 07 novembro 10h
+ 30 Centro Ciência Viva de Lagos
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16168-pedra-dura-aqui
+ -há-um-buraco\,-de-josé-ferreira
+URL:https://lykeion.pt/e/pedra-dura-aqui-ha-um-buraco-de-jose-ferreira-07-n
+ ovembro-10-df274.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oficinas-em-ferias-sais-de-banho-ecologicos-d01ce-2026-11-12@lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T143000
@@ -73,5 +75,18 @@ LOCATION:Centro Ciência Viva de Bragança\, Bragança
 DESCRIPTION:https://braganca.cienciaviva.pt/3200/ciencia-em-familia---14-de
  -novembro
 URL:https://lykeion.pt/e/ciencia-em-familia-94e87.html
+END:VEVENT
+BEGIN:VEVENT
+UID:historias-vivas-como-apanhar-uma-estrela-de-oliver-jeffers-1-e59e7-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T103000
+SUMMARY:Histórias Vivas | Como Apanhar Uma Estrela\, de Oliver Jeffers 15 
+ novembro 10h30 Centro Ciência Viva de Lagos
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16209-histórias-viva
+ s-como-apanhar-uma-estrela\,-de-oliver-jeffers
+URL:https://lykeion.pt/e/historias-vivas-como-apanhar-uma-estrela-de-oliver
+ -jeffers-1-e59e7.html
 END:VEVENT
 END:VCALENDAR

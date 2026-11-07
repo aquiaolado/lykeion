@@ -6,28 +6,6 @@ X-WR-CALNAME:Saúde pública e cuidados (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:15-congresso-nacional-de-enfermagem-oncologica-e-3-congresso-862f9-2026
- -11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:15º Congresso Nacional de Enfermagem Oncológica e 3º Congresso I
- nternacional de Enfermagem Oncológica
-LOCATION:Escola Superior de Saúde de Viana do Castelo\, Viana do Castelo
-DESCRIPTION:
-URL:https://lykeion.pt/e/15-congresso-nacional-de-enfermagem-oncologica-e-3
- -congresso-862f9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:coloquio-saude-mental-e-seguranca-1a50e-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T190000
-SUMMARY:Colóquio “Saúde Mental e Segurança
-LOCATION:Faculdade de Medicina da Universidade de Lisboa
-DESCRIPTION:http://www.medicina.ulisboa.pt/coloquio-saude-mental-e-seguranc
- a
-URL:https://lykeion.pt/e/coloquio-saude-mental-e-seguranca-1a50e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:07-11-26-conferencia-cuidados-continuados-e-paliativos-0f9c9-2026-11-07
  @lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -100,19 +78,6 @@ URL:https://lykeion.pt/e/17-00-conferencia-desigualdades-urbanas-mobilidade
  -pedonal-e-1c7ee.html
 END:VEVENT
 BEGIN:VEVENT
-UID:defesa-da-tese-do-programa-doutoral-em-ciencia-e-tecnologia-2def4-2026-
- 11-10@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Defesa da tese do Programa Doutoral em Ciência e Tecnologia Alimen
- tar e Nutrição - Maria João da Silva
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
- o.aspx?Codigo=69646
-URL:https://lykeion.pt/e/defesa-da-tese-do-programa-doutoral-em-ciencia-e-t
- ecnologia-2def4.html
-END:VEVENT
-BEGIN:VEVENT
 UID:envelhecimento-sem-estereotipos-servico-social-e-direitos-da-40283-2026
  -11-10@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -150,6 +115,19 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-em-doencas-tropicais-e-saud
  e-global-l-513fa.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-de-enfermagem-veterinaria-fisioterapia-veterinaria-bacbb-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T160000
+SUMMARY:Seminário de Enfermagem Veterinária: Fisioterapia Veterinária 
+ – Aplicações em Diferentes Espécies
+LOCATION:Instituto Politécnico de Bragança\, Bragança
+DESCRIPTION:https://esa.unipb.pt/eventos/seminario-de-enfermagem-veterinari
+ a-fisioterapia-veterinaria-aplicacoes-em-diferentes-especies/
+URL:https://lykeion.pt/e/seminario-de-enfermagem-veterinaria-fisioterapia-v
+ eterinaria-bacbb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-are-qalys-still-relevant-delivering-the-quintupl-210fa-2026
  -11-11@lagenda.pt
 DTSTAMP:20261107T000000Z
@@ -185,6 +163,31 @@ DESCRIPTION:https://www.ulsmave.min-saude.pt/eventos/iv-jornadas-da-equipa-
  local-de-intervencao-santo-tirso-trofa/
 URL:https://lykeion.pt/e/iv-jornadas-da-equipa-local-de-intervencao-santo-t
  irso-trofa-a2809.html
+END:VEVENT
+BEGIN:VEVENT
+UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
+ 11-12@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T083000
+SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de-saude
+ -mental-no-local-de-trabalho
+URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
+ -trabalho-d859d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-a-seguranca-e-saude-no-trabalho-um-enq-dc757-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Apresentação do livro «A Segurança e Saúde no Trabalho: um Enq
+ uadramento Jurídico-Laboral dos Riscos Psicossociais»
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/apresentacao-do-livro-seguranc
+ a-e-saude-no-trabalho-um-enquadramento-juridico-laboral-dos
+URL:https://lykeion.pt/e/apresentacao-do-livro-a-seguranca-e-saude-no-traba
+ lho-um-enq-dc757.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-bem-estar-crescimento-e-proposito-ao-longo-da-vi-18565-2026
@@ -232,6 +235,28 @@ DESCRIPTION:https://www.isa.ulisboa.pt/evento/conversa-de-sofa-sobre-ia-e-s
  aude-mental
 URL:https://lykeion.pt/e/conversa-de-sofa-sobre-ia-e-saude-mental-e4efc.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-mestrado-1d671-2026-11-12@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-477/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-1d671.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-implementacao-do-e-bug-uma-estrategia-integrada-en-1cea1-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Seminário «Implementação do e-Bug: Uma estratégia integrada en
+ tre o PPCIRA\, a Saúde Pública\, a Saúde Escolar e a Comunidade Cientí
+ fica»
+LOCATION:Instituto Politécnico de Bragança\, Chaves
+DESCRIPTION:https://essa.unipb.pt/events/76/
+URL:https://lykeion.pt/e/seminario-implementacao-do-e-bug-uma-estrategia-in
+ tegrada-en-1cea1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-implementacao-do-e-bug-7b346-2026-11-12@lagenda.pt
@@ -476,7 +501,7 @@ BEGIN:VEVENT
 UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
  11-18@lagenda.pt
 DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:SEMINÁRIO - Active Hotspots: Tecnologia\, Sustentabilidade e Bem-E
  star
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real

@@ -6,28 +6,6 @@ X-WR-CALNAME:Congressos e jornadas de saúde (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:15-congresso-nacional-de-enfermagem-oncologica-e-3-congresso-862f9-2026
- -11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:15º Congresso Nacional de Enfermagem Oncológica e 3º Congresso I
- nternacional de Enfermagem Oncológica
-LOCATION:Escola Superior de Saúde de Viana do Castelo\, Viana do Castelo
-DESCRIPTION:
-URL:https://lykeion.pt/e/15-congresso-nacional-de-enfermagem-oncologica-e-3
- -congresso-862f9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:coloquio-saude-mental-e-seguranca-1a50e-2026-11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T190000
-SUMMARY:Colóquio “Saúde Mental e Segurança
-LOCATION:Faculdade de Medicina da Universidade de Lisboa
-DESCRIPTION:http://www.medicina.ulisboa.pt/coloquio-saude-mental-e-seguranc
- a
-URL:https://lykeion.pt/e/coloquio-saude-mental-e-seguranca-1a50e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:iii-encontro-nacional-da-fedra-doencas-raras-2026-8739c-2026-11-07@lage
  nda.pt
 DTSTAMP:20261107T000000Z
@@ -38,19 +16,6 @@ DESCRIPTION:https://www.medicina.ulisboa.pt/iii-encontro-nacional-da-fedra-
  doencas-raras-2026
 URL:https://lykeion.pt/e/iii-encontro-nacional-da-fedra-doencas-raras-2026-
  8739c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:reuniao-anual-do-grupo-de-estudo-de-risco-cardiovascular-e-g-2b423-2026
- -11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Reunião anual do Grupo de Estudo de Risco Cardiovascular e GE de F
- isiopatologia do Esforço e Reabilitação Cardíaca
-LOCATION:Sociedade Portuguesa de Cardiologia
-DESCRIPTION:https://spc.pt/evento/reuniao-anual-do-grupo-de-estudo-de-risco
- -cardiovascular-e-ge-de-fisiopatologia-do-esforco-e-reabilitacao-cardiaca/
-URL:https://lykeion.pt/e/reuniao-anual-do-grupo-de-estudo-de-risco-cardiova
- scular-e-g-2b423.html
 END:VEVENT
 BEGIN:VEVENT
 UID:x-congresso-de-medicina-felina-geriatria-e-cuidados-paliativ-ea057-2026
@@ -102,6 +67,18 @@ URL:https://lykeion.pt/e/iv-jornadas-da-equipa-local-de-intervencao-santo-t
  irso-trofa-a2809.html
 END:VEVENT
 BEGIN:VEVENT
+UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
+ 11-12@lagenda.pt
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T083000
+SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de-saude
+ -mental-no-local-de-trabalho
+URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
+ -trabalho-d859d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:congresso-nacional-da-ordem-dos-medicos-5a5c8-2026-11-12@lagenda.pt
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -116,7 +93,7 @@ UID:iii-congresso-do-algarve-de-alzheimer-e-outras-demencias-2867b-2026-11-
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:III Congresso do Algarve de Alzheimer e outras demências
-LOCATION:Casa do Sal\, Castro Marim
+LOCATION:Casa de Odeleite\, Castro Marim
 DESCRIPTION:https://cm-castromarim.pt/site/evento/iii-congresso-do-algarve-
  de-alzheimer-e-outras-demencias
 URL:https://lykeion.pt/e/iii-congresso-do-algarve-de-alzheimer-e-outras-dem
