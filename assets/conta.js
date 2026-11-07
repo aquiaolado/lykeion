@@ -97,14 +97,14 @@
   function legendaArtista() {
     const cx = document.getElementById("artcasa"); if (!cx || !cx.dataset.artista) return;
     fetch(B + "conta/artista.php?pub=" + encodeURIComponent(cx.dataset.artista)).then(r => r.ok ? r.json() : Promise.reject()).then(j => {
-      (j.fora || []).forEach(pg => document.querySelectorAll(`.ad a[href$="/${CSS.escape(pg)}.html"]`).forEach(a => a.parentNode.classList.add("fora")));
+      (j.fora || []).forEach(pg => document.querySelectorAll(`.ld a[href$="/${CSS.escape(pg)}.html"]`).forEach(a => a.parentNode.classList.add("fora")));
       const ROT = { site: "Site", instagram: "Instagram", facebook: "Facebook", youtube: "YouTube", spotify: "Spotify", bandcamp: "Bandcamp", soundcloud: "SoundCloud", bilhetes: "Bilhetes" };
       const links = Object.entries(j.links || {}).filter(([, u]) => /^https:\/\//.test(u)).map(([k, u]) => `<a class="ch" href="${esc(u)}" target="_blank" rel="noopener">${esc(ROT[k] || k)}</a>`).join("");
       if (j.apresentacao || j.foto || links) cx.innerHTML = (j.foto ? `<img class="art-foto" src="${esc(j.foto)}" alt="">` : "") + (j.apresentacao ? `<p class="rot">Nas palavras ${j.grupo ? "da companhia" : "do artista"}</p>` + j.apresentacao.split(/\n+/).map(p => `<p>${esc(p)}</p>`).join("") : "") + (links ? `<div class="lin">${links}</div>` : "");
       const ex = document.getElementById("artextra"), ds = (j.datas || []).filter(d => d.data >= hoje);
-      if (ex && ds.length) ex.innerHTML = `<h3 class="am">Mais datas, indicadas ${j.grupo ? "pela companhia" : "pelo artista"}</h3><ol class="adatas">` + ds.map(d => { const x = dt(d.data);
-        return `<li class="ad" data-di="${esc(d.distrito || "")}"><a href="${esc(/^https:\/\//.test(d.link || "") ? d.link : "#")}" target="_blank" rel="noopener"><span class="ad-d"><b>${x.getDate()}</b> ${MES[x.getMonth()]}<small>${SEM[x.getDay()]}${d.hora ? " · " + esc(d.hora) : ""}</small></span>` +
-          `<span class="ad-t"><span class="ad-n">${esc(d.sala)}</span><span class="sub">${esc([d.terra, d.distrito].filter(Boolean).join(" · "))}</span></span></a></li>`; }).join("") + "</ol>";
+      if (ex && ds.length) ex.innerHTML = `<h3 class="am">Mais datas, indicadas ${j.grupo ? "pela companhia" : "pelo artista"}</h3><ol class="ldatas">` + ds.map(d => { const x = dt(d.data);
+        return `<li class="ld" data-di="${esc(d.distrito || "")}"><a href="${esc(/^https:\/\//.test(d.link || "") ? d.link : "#")}" target="_blank" rel="noopener"><span class="ld-d"><b>${x.getDate()}</b> ${MES[x.getMonth()]}<small>${SEM[x.getDay()]}${d.hora ? " · " + esc(d.hora) : ""}</small></span>` +
+          `<span class="ld-t"><span class="ld-n">${esc(d.sala)}</span><span class="sub">${esc([d.terra, d.distrito].filter(Boolean).join(" · "))}</span></span></a></li>`; }).join("") + "</ol>";
       perto();
     }).catch(() => {});
   }
@@ -113,7 +113,7 @@
     const b = document.getElementById("aperto"), onde = gostos.onde || []; if (!b || !onde.length) return;
     b.hidden = false; b.textContent = "Só em " + (onde.length > 2 ? onde.length + " distritos" : onde.join(" e "));
     const aplica = () => { const on = b.getAttribute("aria-pressed") === "true";
-      document.querySelectorAll(".ad").forEach(li => { li.hidden = on && !onde.includes(li.dataset.di); });
+      document.querySelectorAll(".ld").forEach(li => { li.hidden = on && !onde.includes(li.dataset.di); });
       document.querySelectorAll(".am").forEach(h => { const ol = h.nextElementSibling; h.hidden = on && ol && ![...ol.children].some(li => !li.hidden && !li.classList.contains("fora")); }); };
     if (!b.dataset.ligado) { b.dataset.ligado = "1"; b.addEventListener("click", () => { b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true"); aplica(); }); }
   }

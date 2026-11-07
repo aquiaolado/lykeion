@@ -67,3 +67,26 @@ body.lyk{
     -webkit-mask-image:linear-gradient(90deg,#000 85%,transparent);mask-image:linear-gradient(90deg,#000 85%,transparent)}
   .lyk-barra .menu a{padding:6px 8px;font-size:.88rem}
 }
+/* cada área é um pequeno Lykeion (7/11/2026): fila das próximas duas semanas, blocos por tipo, centros dobrados */
+.lyk .lyk-h{font-size:1.15rem;margin:1.2rem 0 .5rem}
+.lyk .lyk-chips{display:flex;flex-wrap:wrap;gap:.4rem;margin:.6rem 0 0}
+.lyk .lyk-chips .ch{text-decoration:none}.lyk .lyk-chips small{color:var(--suave);font:500 .75rem/1 var(--f-hora)}
+.lyk .lyk-mini{display:grid;grid-template-columns:repeat(14,minmax(0,1fr));gap:4px;margin:.2rem 0 .4rem}
+@media(max-width:600px){.lyk .lyk-mini{grid-template-columns:repeat(7,minmax(0,1fr))}}
+.lyk .lyk-dia{display:flex;flex-direction:column;align-items:center;padding:.35rem 0;border:1px solid var(--linha);border-radius:6px;text-decoration:none;color:var(--tinta);line-height:1.15}
+.lyk a.lyk-dia{border-color:var(--cobalto);background:color-mix(in srgb,var(--cobalto) 8%,transparent)}
+.lyk a.lyk-dia:hover{background:color-mix(in srgb,var(--cobalto) 18%,transparent)}
+.lyk .lyk-dia.vazio{color:var(--suave);opacity:.6}
+.lyk .lyk-dia .sd{font:500 .7rem/1 var(--f-hora);text-transform:uppercase;color:var(--suave)}
+.lyk .lyk-dia b{font-size:1.05rem}
+.lyk .lyk-dia .nd{font:600 .72rem/1 var(--f-hora);color:var(--legenda);min-height:.72rem}
+.lyk .lyk-tipos{grid-template-columns:1fr}
+@media(min-width:900px){.lyk .lyk-tipos{grid-template-columns:1fr 1fr}}
+.lyk .lyk-tipos h2 small{font:500 .8rem/1 var(--f-hora);color:var(--suave)}
+.lyk .lyk-tipos details summary{cursor:pointer;color:var(--cobalto);font-size:.85rem;margin:.4rem 0}
+.lyk .lyk-tipos .li{grid-template-columns:4rem minmax(0,1fr)}.lyk .lyk-tipos .li .hr{white-space:nowrap}
+.lyk .lyk-tipos .li .mi{display:none}
+.lyk .lyk-tipos .li .dir{display:none}
+.lyk .lyk-centros summary{cursor:pointer;list-style:none}.lyk .lyk-centros summary h2{display:inline;font-size:1.15rem}
+.lyk .lyk-centros summary::after{content:" ▾";color:var(--suave)}
+.lyk .dia{scroll-margin-top:5rem}
