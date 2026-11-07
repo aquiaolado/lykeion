@@ -69,7 +69,7 @@
 
   // ---- Lykeion (4/11/2026): seguir instituições e áreas (páginas academia/…); avisos e newsletter de segunda (conta/lykeion.php) ----
   const lyk = () => {
-    gostos.lyk = Object.assign({ inst: [], areas: [], listas: [] }, gostos.lyk || {});
+    gostos.lyk = Object.assign({ inst: [], areas: [], listas: [], series: [], pesquisas: [] }, gostos.lyk || {});
     gostos.lyk.menos = Object.assign({ tipos: [], inst: [], areas: [] }, gostos.lyk.menos || {});
     return gostos.lyk;
   };
@@ -94,8 +94,8 @@
   }
   function seguirLykeion() {
     menosLykeion();
-    document.querySelectorAll("[data-seguir-inst],[data-seguir-area],[data-seguir-lista]").forEach(b => {
-      const k = b.dataset.seguirInst ? "inst" : b.dataset.seguirLista ? "listas" : "areas", id = b.dataset.seguirInst || b.dataset.seguirLista || b.dataset.seguirArea, aviso = document.getElementById("avisoseguir");
+    document.querySelectorAll("[data-seguir-inst],[data-seguir-area],[data-seguir-lista],[data-seguir-serie]").forEach(b => {
+      const k = b.dataset.seguirInst ? "inst" : b.dataset.seguirLista ? "listas" : b.dataset.seguirSerie ? "series" : "areas", id = b.dataset.seguirInst || b.dataset.seguirLista || b.dataset.seguirSerie || b.dataset.seguirArea, aviso = document.getElementById("avisoseguir");
       const marca = (mudou) => {
         const on = lyk()[k].includes(id); b.setAttribute("aria-pressed", on);
         if (b.classList.contains("bt")) b.textContent = on ? "A seguir ✓" : "Seguir";  // as fichas de área (.ch) guardam o nome
@@ -112,6 +112,42 @@
     });
   }
   seguirLykeion();
+  // «Avise-me» (7/11/2026): guardar uma pesquisa da entrada (texto e filtros); os eventos novos que lhe cabem chegam por email
+  const chavePq = p => JSON.stringify(["q", "fa", "sub", "area", "inst", "dist"].map(k => p[k] || ""));
+  document.addEventListener("click", ev => {
+    const b = ev.target.closest("[data-avise]"); if (!b) return;
+    let p; try { p = JSON.parse(b.dataset.avise); } catch (_) { return; }
+    const g = lyk(), k = chavePq(p), ja = g.pesquisas.some(x => chavePq(x) === k);
+    g.pesquisas = ja ? g.pesquisas.filter(x => chavePq(x) !== k) : g.pesquisas.concat(p).slice(-20);
+    gravarGostos(); document.dispatchEvent(new CustomEvent("lykeion:gostos"));
+    b.setAttribute("aria-pressed", !ja); b.textContent = ja ? "Avise-me de eventos novos" : "Aviso ligado ✓";
+    const r = document.getElementById("aaviso");
+    if (r) r.innerHTML = ja ? "Aviso desligado." : !conta ? `Guardado neste aparelho. <a href="${B}conta.html#lykeion">Entre com o seu email</a> para receber os eventos novos desta pesquisa.` :
+      `Feito: quando entrar um evento novo com esta pesquisa, avisamos por email. <a href="${B}conta.html#lykeion">As minhas pesquisas</a>`;
+  });
+  window.LG = Object.assign(window.LG || {}, { lykPesquisaGuardada: p => lyk().pesquisas.some(x => chavePq(x) === chavePq(p)) });
+  // «O que sigo»: séries e pesquisas guardadas, com os nomes (do academia.json) e um × para desfazer
+  function pintaSegue() {
+    const cx = document.getElementById("lyksegue"); if (!cx) return;
+    const g = lyk();
+    if (!g.series.length && !g.pesquisas.length) { cx.innerHTML = '<p class="sub">Nenhuma série nem pesquisa guardada. Numa série de seminários, «+ Série» segue-a toda; numa pesquisa, «Avise-me» manda os eventos novos.</p>'; return; }
+    const desenha = N => {
+      const nPq = p => [p.q ? "«" + p.q + "»" : "", ...["fa", "sub", "area", "inst", "dist"].map(k => p[k] ? ((N[k] || {})[p[k]] || p[k]) : "")].filter(Boolean).join(" · ");
+      cx.innerHTML = (g.series.length ? '<p class="sub">Séries de seminários:</p><p class="lin">' + g.series.map(x => `<button class="ch" type="button" data-tirar-segue="series|${esc(x)}" title="Deixar de seguir">${esc((N.series || {})[x] || x.split("~").pop().replace(/-/g, " "))} ×</button>`).join(" ") + "</p>" : "") +
+        (g.pesquisas.length ? '<p class="sub">Pesquisas com aviso:</p><p class="lin">' + g.pesquisas.map((p, n) => `<button class="ch" type="button" data-tirar-segue="pesquisas|${n}" title="Desligar o aviso">${esc(nPq(p))} ×</button>`).join(" ") + "</p>" : "");
+    };
+    desenha({});
+    fetch(B + "academia.json").then(r => r.json()).then(D => desenha({ series: D.series || {},
+      fa: Object.fromEntries(D.familias), sub: Object.fromEntries(D.subtipos.map(([s, n]) => [s, n])), inst: Object.fromEntries(Object.entries(D.inst).map(([i, r]) => [i, r[1] || r[0]])),
+      area: Object.assign(Object.fromEntries(D.areas), Object.fromEntries(D.finas.map(([s, n]) => [s, n]))) })).catch(() => {});
+  }
+  document.addEventListener("click", ev => {
+    const b = ev.target.closest("[data-tirar-segue]"); if (!b) return;
+    ev.preventDefault();
+    const [k, x] = b.dataset.tirarSegue.split("|"), g = lyk();
+    g[k] = k === "pesquisas" ? g.pesquisas.filter((_, n) => String(n) !== x) : g[k].filter(y => y !== x);
+    gravarGostos(); pintaSegue();
+  });
   // «O que vejo»: a lista do que a pessoa escondeu, com os nomes (do academia.json) e um × para desfazer
   function pintaMenos() {
     const cx = document.getElementById("lykmenos"); if (!cx) return;
@@ -136,7 +172,7 @@
     const g = lyk(), n = g.inst.length + g.areas.length + g.listas.length;
     return `<h2 id="lykeion">${LY ? "O que segue" : "Lykeion: a agenda da ciência"}</h2><p class="sub">${n ? `Segue ${g.inst.length} ${g.inst.length === 1 ? "instituição" : "instituições"}, ${g.areas.length} ${g.areas.length === 1 ? "área" : "áreas"} e ${g.listas.length} ${g.listas.length === 1 ? "lista" : "listas"}. ` : "Ainda não segue nenhuma instituição nem área. "}` +
       `<a href="${B}${AC}instituicoes/">Escolher instituições</a> · <a href="${B}${AC}listas/">escolher listas e áreas</a></p>` +
-      `<h3>O que não quero ver</h3><div id="lykmenos"></div>` + (setTimeout(pintaMenos, 0), "") +
+      `<h3>Séries e pesquisas</h3><div id="lyksegue"></div>` + `<h3>O que não quero ver</h3><div id="lykmenos"></div>` + (setTimeout(() => { pintaMenos(); pintaSegue(); }, 0), "") +
       (c ? `<label class="chk"><input type="checkbox" id="glyka"${g.avisos === false ? "" : " checked"}> Avisar-me por email dos eventos novos do que sigo</label>
       <label class="chk"><input type="checkbox" id="glyks"${g.semanal === false ? "" : " checked"}> Receber à segunda-feira a semana académica <a href="${B}conta/lykeion.php?ver" target="_blank" rel="noopener">(ver)</a></label>` : "");
   }

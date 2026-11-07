@@ -49,10 +49,36 @@
   arrumar();
   document.addEventListener("lagenda:conta", arrumar);
   document.addEventListener("lykeion:gostos", arrumar);
+  // «Novo desde a última visita» (7/11/2026): neste aparelho, sem conta. Guarda os eventos que havia na visita anterior
+  // (mais de 3 horas antes); o que entrou depois leva a etiqueta «Novo» em todas as páginas.
+  let VISTO = ler("lyk-visto", null);
+  const NOVOS = new Set((VISTO && VISTO.novos) || []);
+  const marcaNovos = (raiz) => {
+    if (!NOVOS.size) return;
+    (raiz || document).querySelectorAll('a[href*="/e/"]').forEach(a => {
+      const m = /\/e\/([^/]+)\.html/.exec(a.getAttribute("href") || "");
+      if (m && NOVOS.has(m[1]) && !a.querySelector(".lyk-novo")) { const t = a.querySelector(".lyk-ti,.ti"); if (t) t.insertAdjacentHTML("afterbegin", '<span class="lyk-novo">Novo</span> '); }
+    });
+  };
+  marcaNovos();
 
   if (!caixa && !ola0) return;
   fetch(B + "academia.json").then(r => r.json()).then(D => {
     PAIS = D.pais || {}; arrumar();
+    {  // atualizar a memória da visita (só na entrada, que lê o academia.json)
+      const agora = Date.now(), ids = D.ev.map(e => e.pg);
+      if (!VISTO || !Array.isArray(VISTO.ids)) VISTO = { t: agora, ids, novos: [], antes: 0 };
+      else if (agora - VISTO.t > 3 * 3600e3) { const ja = new Set(VISTO.ids); VISTO = { t: agora, ids, novos: ids.filter(x => !ja.has(x)), antes: VISTO.t }; }
+      gravar("lyk-visto", VISTO);
+      NOVOS.clear(); const aqui = new Set(ids); VISTO.novos.forEach(x => aqui.has(x) && NOVOS.add(x)); marcaNovos();
+      const cx = $("lyk-novos");
+      if (cx && NOVOS.size && VISTO.antes) {
+        const x = new Date(VISTO.antes), quando = x.toDateString() === new Date().toDateString() ? "hoje" : SEML[x.getDay()].toLowerCase() + ", " + x.getDate() + " de " + MESL[x.getMonth()];
+        const nN = D.ev.filter(e => NOVOS.has(e.pg) && e.d.some(x => x >= hoje)).length;
+        cx.innerHTML = `<b>${nN} ${nN === 1 ? "evento novo" : "eventos novos"}</b> desde a sua última visita (${quando}). <a href="${B}${AC}?novos=1#resultados">Ver só os novos</a>`;
+        cx.hidden = false;
+      }
+    }
     const SUB = Object.fromEntries(D.subtipos.map(([s, n, f]) => [s, { n, f }]));
     const AREA = Object.fromEntries(D.areas), FINA = Object.fromEntries(D.finas.map(([s, n]) => [s, n]));
     const nomeInst = i => (D.inst[i] || [])[0] || "";
@@ -72,10 +98,11 @@
     const est = Object.assign({ fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false, q: "" }, ler("lagenda-academia", {}), { q: "", quando: "", provas: true });
     // 7/11/2026: a entrada manda para aqui já filtrado (?q=, ?quando=hoje|fds|semana|mes, ?di=Porto)
     // 7/11/2026 (noite): a página Agenda foi apagada; os resultados abrem-se na própria entrada (#resultados)
-    const P = new URLSearchParams(location.search), CH = ["q", "quando", "di", "fa", "sub", "area", "inst"];
+    const P = new URLSearchParams(location.search), CH = ["q", "quando", "di", "fa", "sub", "area", "inst", "novos"];
     const comParam = CH.some(k => P.has(k));
     if (comParam) Object.assign(est, { fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false });
     if (P.get("q")) est.q = P.get("q").trim();
+    est.novos = P.get("novos") === "1";
     if (P.get("quando")) est.quando = P.get("quando");
     if (P.get("di")) est.dist = P.get("di");
     ["fa", "sub", "area", "inst"].forEach(k => { if (P.get(k)) est[k] = P.get(k); });
@@ -111,6 +138,7 @@
 
     let nEsc = 0, M = menos();
     const passa = e => {
+      if (est.novos && !NOVOS.has(e.pg)) return false;
       if (!est.provas && e.so) return false;
       if (est.fa && e.fa !== est.fa) return false;
       if (est.sub && e.s !== est.sub) return false;
@@ -154,7 +182,17 @@
       if (total > postos) html += `<p class="lyk-maisev"><button class="bt" id="amaisev">Mostrar mais (faltam ${total - postos})</button></p>`;
       caixa.innerHTML = html || '<p class="vazio">Nada com estes filtros. Experimente tirar um.</p>';
       $("acontagem").textContent = `${total} ${total === 1 ? "evento" : "eventos"} ${({ hoje: "hoje", fds: "no fim de semana", semana: "nos próximos sete dias", mes: "nos próximos 30 dias" })[est.quando] || "de hoje em diante"}`;
-      gravar("lagenda-academia", Object.assign({}, est, { q: "", quando: "", verTudo: false }));
+      if (est.novos) $("acontagem").textContent = `${total} ${total === 1 ? "evento novo" : "eventos novos"} desde a sua última visita`;
+      marcaNovos(caixa);
+      // «Avise-me» (7/11/2026): guardar esta pesquisa; o conta.js trata do clique (data-avise) e grava nos gostos
+      const pq = { q: est.q, fa: est.fa, sub: est.sub, area: est.area, inst: est.inst, dist: est.dist };
+      let av = $("aavise");
+      if (!av) { $("acontagem").insertAdjacentHTML("afterend", '<p class="lyk-avise"><button class="ch" id="aavise" type="button">Avise-me de eventos novos</button> <span class="sub" id="aaviso"></span></p>'); av = $("aavise"); }
+      const temPq = Object.values(pq).some(Boolean);
+      av.parentNode.hidden = !temPq;
+      if (temPq) { const on = !!(window.LG && LG.lykPesquisaGuardada && LG.lykPesquisaGuardada(pq)); av.dataset.avise = JSON.stringify(Object.fromEntries(Object.entries(pq).filter(([, v]) => v)));
+        av.setAttribute("aria-pressed", on); av.textContent = on ? "Aviso ligado ✓" : "Avise-me de eventos novos"; }
+      gravar("lagenda-academia", Object.assign({}, est, { q: "", quando: "", verTudo: false, novos: false }));
     };
     const muda = () => { mostrar = PASSO; desenha(); };  // um filtro novo volta aos primeiros 60
     $("abusca").value = est.q;
@@ -182,10 +220,12 @@
       (!f.distritos || f.distritos.includes(e.di)) && (!f.chamada || (e.pz || "") >= (window.LG || {}).hoje);
     const poeOla = (conta, gostos) => {
       if (!ola || !conta) return;
-      const g = Object.assign({ inst: [], areas: [], listas: [] }, (gostos || {}).lyk || {});
+      const g = Object.assign({ inst: [], areas: [], listas: [], series: [], pesquisas: [] }, (gostos || {}).lyk || {});
+      const naPq = (e, p) => (!p.fa || e.fa === p.fa) && (!p.sub || e.s === p.sub) && (!p.area || e.a.concat(e.af || []).includes(p.area)) &&
+        (!p.inst || pertence(e.in, p.inst)) && (!p.dist || e.di === p.dist) && (!p.q || norm([e.n, e.l, e.o, e.di, nomeInst(e.in)].join(" ")).includes(norm(p.q)));
       const nome = (conta.nome || "").trim().split(/\s+/)[0];
       const cab = `<h2>Olá${nome ? ", " + esc(nome) : ""}.</h2>`;
-      if (!g.inst.length && !g.areas.length && !g.listas.length) {
+      if (!g.inst.length && !g.areas.length && !g.listas.length && !g.series.length && !g.pesquisas.length) {
         ola.innerHTML = cab + `<p class="sub">Siga instituições, áreas ou listas e passa a ter aqui o que lhe interessa, com aviso por email e a semana académica à segunda. ` +
           `<a href="${B}${AC}instituicoes/">Escolher instituições</a> · <a href="${B}${AC}listas/">listas e áreas</a></p>`;
       } else {
@@ -193,10 +233,11 @@
         for (const e of D.ev) {
           const d = e.d.find(x => x >= hoje); if (!d) continue;
           if (escondido(e.s, e.in, e.a.concat(e.af || []), menos())) continue;
-          if (g.inst.some(i => pertence(e.in, i)) || e.a.concat(e.af || []).some(a => g.areas.includes(a)) || g.listas.some(l => D.listas[l] && naLista(e, D.listas[l][1]))) meus.push([d, e]);
+          if (g.inst.some(i => pertence(e.in, i)) || e.a.concat(e.af || []).some(a => g.areas.includes(a)) || g.listas.some(l => D.listas[l] && naLista(e, D.listas[l][1])) || (e.se && g.series.includes(e.se)) || g.pesquisas.some(p => naPq(e, p))) meus.push([d, e]);
         }
         meus.sort((a, b) => a[0].localeCompare(b[0]) || a[1].n.localeCompare(b[1].n));
         let ant = "";
+        setTimeout(() => marcaNovos(ola), 0);
         const linhas = meus.slice(0, 5).map(([d, e]) => { const x = dt(d), cab = d === ant ? "" : `<p class="rot">${d === hoje ? "Hoje" : SEML[x.getDay()] + ", " + x.getDate() + " de " + MESL[x.getMonth()]}</p>`; ant = d; return cab + linha(e, d); }).join("");
         ola.innerHTML = cab + `<p class="sub">${meus.length ? `Do que segue, ${meus.length === 1 ? "vem aí 1 evento" : "vêm aí " + meus.length + " eventos"}.` : "Do que segue, ainda não há nada marcado."} ` +
           `<a href="${B}conta.html#lykeion">O que sigo</a></p>` + linhas;

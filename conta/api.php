@@ -165,6 +165,13 @@ try {
       // «menos disto» (7/11/2026): o que a pessoa escolheu não ver (tipos, instituições, áreas); sai da entrada, da agenda e dos emails
       $m = (array)($l['menos'] ?? []); $ly['menos'] = [];
       foreach (['tipos', 'inst', 'areas'] as $k) $ly['menos'][$k] = array_slice(array_values(array_filter(array_map(fn($x) => mb_substr((string)$x, 0, 80), (array)($m[$k] ?? [])))), 0, 300);
+      // séries de seminários seguidas e pesquisas guardadas («Avise-me»), 7/11/2026
+      $ly['series'] = array_slice(array_values(array_filter(array_map(fn($x) => mb_substr((string)$x, 0, 120), (array)($l['series'] ?? [])))), 0, 200);
+      $ly['pesquisas'] = [];
+      foreach (array_slice(array_values(array_filter((array)($l['pesquisas'] ?? []), 'is_array')), 0, 20) as $pq) {
+        $c = []; foreach (['q', 'fa', 'sub', 'area', 'inst', 'dist'] as $k) if (!empty($pq[$k])) $c[$k] = mb_substr((string)$pq[$k], 0, 80);
+        if ($c) $ly['pesquisas'][] = $c;
+      }
       $ly['avisos'] = !array_key_exists('avisos', $l) || !empty($l['avisos']); $ly['semanal'] = !array_key_exists('semanal', $l) || !empty($l['semanal']);
       $limpo['lyk'] = $ly;
     }

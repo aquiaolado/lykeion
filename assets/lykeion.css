@@ -15,7 +15,7 @@ body.lyk{
 .lyk-sigla{font:500 .9rem/1 var(--f-hora);color:var(--suave);letter-spacing:.06em;vertical-align:middle}
 .lyk-lista{list-style:none;padding:0;margin:.4rem 0 1.2rem}.lyk-lista li{padding:.35rem 0;border-bottom:1px solid var(--linha)}
 .lyk-lista a{text-decoration:none;font-weight:500}.lyk-lista a:hover{text-decoration:underline}.lyk-lista small{color:var(--suave)}
-.lyk-dist h2{margin-top:1.4rem}.lyk-dist h2 small{font:500 .8rem/1 var(--f-hora);color:var(--suave)}
+.lyk-dist h2 small{font:500 .8rem/1 var(--f-hora);color:var(--suave)}
 #lykq{margin-top:.8rem;width:100%;max-width:520px}
 .lyk .bt[aria-pressed="true"]{background:var(--cobalto);color:var(--papel);border-color:var(--cobalto)}
 /* entrada do Lykeion: hoje, esta semana, próximas provas (4/11/2026) */
@@ -192,7 +192,7 @@ body.lyk{
 .lyk main>.pcab:first-child h1{font-size:clamp(1.8rem,4.5vw,2.6rem);margin:.1rem 0 .4rem;text-wrap:balance}
 .lyk main>.pcab:first-child>.sub{max-width:68ch}
 .lyk main>.migalhas:first-child+.ev .ev-topo{border-image:linear-gradient(var(--faixa),var(--papel)) fill 0//0 100vmax;padding-block:1rem 1.2rem}
-.lyk main .mol>h2,.lyk .lyk-dist h2,.lyk .lyk-h,.lyk .lyk-tipos h2,.lyk .lyk-centros summary h2{font-size:1.2rem;border-bottom:2px solid var(--cobalto);padding-bottom:.35rem;margin:1.6rem 0 .6rem}
+.lyk main .mol>h2,.lyk .lyk-h,.lyk .lyk-tipos h2,.lyk .lyk-centros summary h2{font-size:1.2rem;border-bottom:2px solid var(--cobalto);padding-bottom:.35rem;margin:1.6rem 0 .6rem}
 .lyk .lyk-centros summary h2{display:inline-block;border:0;margin:0}
 .lyk .lyk-centros summary{border-bottom:2px solid var(--cobalto);padding-bottom:.35rem;margin:1.6rem 0 .6rem}
 .lyk .lyk-tipos h2{margin-top:.4rem}
@@ -207,3 +207,20 @@ body.lyk{
 .lyk .lyk-mais-un{margin-top:.6rem}.lyk .lyk-mais-un summary{cursor:pointer;color:var(--cobalto);font-size:.9rem;margin-bottom:.6rem}
 .lyk .lyk-cab>.sub{font:500 .8rem/1 var(--f-hora)}
 .lyk .lyk-voltar .bt{display:inline-block;white-space:nowrap}
+/* 7/11/2026 noite: Áreas, Chamadas e Instituições com o desenho da entrada */
+.lyk .lyk-h3{font:600 .8rem/1.2 var(--f-hora);text-transform:uppercase;letter-spacing:.06em;color:var(--suave);margin:1rem 0 .4rem}
+.lyk .lyk-finas .lyk-chips{margin:0}
+.lyk .lyk-dist{margin-top:1.4rem}
+.lyk .lyk-dist .lyk-lista{margin:.4rem 0 0}
+.lyk .lyk-area[hidden],.lyk .lyk-sec[hidden],.lyk .lyk-numeros[hidden]{display:none!important}
+.lyk .lyk-cartao.lyk-urg .lyk-quando,.lyk .li.lyk-urg .lyk-falta{color:var(--legenda);font-weight:700}
+.lyk .lyk-chamadas .li .hr.lyk-falta{white-space:nowrap;font-variant-numeric:tabular-nums}
+/* 7/11/2026 noite: novo desde a última visita, «Avise-me», fim de semana por cidade, mapa */
+.lyk .lyk-novo{display:inline-block;font:700 .62rem/1 var(--f-hora);text-transform:uppercase;letter-spacing:.05em;background:var(--legenda);color:#fff;border-radius:4px;padding:.2rem .35rem;vertical-align:.15em}
+.lyk .lyk-novos{margin:.8rem 0 0;padding:.55rem .8rem;border-left:3px solid var(--legenda);background:var(--cartao);border-radius:0 8px 8px 0}
+.lyk .lyk-mapa-lig{margin:.6rem 0 0;font-size:.9rem}
+.lyk.lyk-com-res .lyk-mapa-lig{display:none}
+.lyk .lyk-avise{margin:.2rem 0 .6rem}.lyk .lyk-avise[hidden]{display:none}
+.lyk .lyk-fds{margin-top:.8rem;align-items:center}
+.lyk .lyk-mapa{height:min(70vh,620px);border:1px solid var(--linha);border-radius:10px;margin:.4rem 0 1rem;z-index:0}
+.lyk .ch[aria-current=page]{background:var(--cobalto);color:#fff;border-color:var(--cobalto)}

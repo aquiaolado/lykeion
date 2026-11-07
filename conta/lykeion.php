@@ -34,6 +34,7 @@ function lyk(array $u): array {
   $g = json_decode($u['gostos'] ?: '{}', true) ?: [];
   $l = (array)($g['lyk'] ?? []);
   return ['inst' => array_flip((array)($l['inst'] ?? [])), 'areas' => array_flip((array)($l['areas'] ?? [])), 'listas' => (array)($l['listas'] ?? []),
+          'series' => array_flip((array)($l['series'] ?? [])), 'pesquisas' => array_values(array_filter((array)($l['pesquisas'] ?? []), 'is_array')),
           'menos' => ['tipos' => array_flip((array)($l['menos']['tipos'] ?? [])), 'inst' => array_flip((array)($l['menos']['inst'] ?? [])), 'areas' => array_flip((array)($l['menos']['areas'] ?? []))],
           'avisos' => !array_key_exists('avisos', $l) || !empty($l['avisos']), 'semanal' => !array_key_exists('semanal', $l) || !empty($l['semanal'])];
 }
@@ -51,13 +52,27 @@ function na_lista(array $e, string $slug): bool {
     && $em('lingua', $e['li'] ?? 'pt') && (empty($f['areas']) || array_intersect((array)($e['a'] ?? []), $f['areas']))
     && (empty($f['chamada']) || (string)($e['pz'] ?? '') >= date('Y-m-d'));
 }
+// «Avise-me» (7/11/2026): o evento cabe numa pesquisa guardada? (texto, tipo, formato, área, instituição e unidades, distrito; todos com «e»)
+function na_pesquisa(array $e, array $p): bool {
+  $D = acad(); $nrm = fn($t) => mb_strtolower(iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', (string)$t) ?: (string)$t);
+  if (!empty($p['fa']) && ($e['fa'] ?? '') !== $p['fa']) return false;
+  if (!empty($p['sub']) && ($e['s'] ?? '') !== $p['sub']) return false;
+  if (!empty($p['area']) && !in_array($p['area'], array_merge((array)($e['a'] ?? []), (array)($e['af'] ?? [])), true)) return false;
+  if (!empty($p['inst']) && seguida((string)($e['in'] ?? ''), [$p['inst'] => 1]) === '') return false;
+  if (!empty($p['dist']) && ($e['di'] ?? '') !== $p['dist']) return false;
+  if (!empty($p['q'])) {
+    $txt = $nrm(implode(' ', [$e['n'] ?? '', $e['l'] ?? '', $e['o'] ?? '', $e['di'] ?? '', nome_inst((string)($e['in'] ?? '')), $D['inst'][$e['in'] ?? ''][0] ?? '']));
+    if (strpos($txt, $nrm($p['q'])) === false) return false;
+  }
+  return !empty($p['q']) || !empty($p['fa']) || !empty($p['sub']) || !empty($p['area']) || !empty($p['inst']) || !empty($p['dist']);
+}
 function nome_inst(string $i): string { $D = acad(); $r = $D['inst'][$i] ?? null; return $r ? ($r[1] ?: $r[0]) : ''; }
 // [chave, rótulo, dia, título, onde, url, hora] dos eventos que interessam a esta pessoa, de hoje até $ate
 function escolhidos(array $u, string $ate = '', bool $so_novos = true): array {
-  global $URL; $L = lyk($u); if (!$L['inst'] && !$L['areas'] && !$L['listas']) return [];
+  global $URL; $L = lyk($u); if (!$L['inst'] && !$L['areas'] && !$L['listas'] && !$L['series'] && !$L['pesquisas']) return [];
   $D = acad(); $hoje = date('Y-m-d'); $AREA = array_column($D['areas'], 1, 0) + array_column($D['finas'] ?? [], 1, 0);
   $ja = [];
-  if ($so_novos) { $q = ly_bd()->prepare("SELECT chave FROM lg_alertas WHERE utilizador_id = ? AND chave LIKE 'lyk|%'"); $q->execute([$u['id']]); $ja = array_flip($q->fetchAll(PDO::FETCH_COLUMN)); }
+  if ($so_novos) { $q = ly_bd()->prepare("SELECT chave FROM lg_alertas WHERE utilizador_id = ? AND chave LIKE 'lyk%'"); $q->execute([$u['id']]); $ja = array_flip($q->fetchAll(PDO::FETCH_COLUMN)); }
   $r = [];
   foreach ($D['ev'] as $e) {
     // «menos disto» (7/11/2026): o que a pessoa disse que não quer ver ganha sempre
@@ -67,10 +82,19 @@ function escolhidos(array $u, string $ate = '', bool $so_novos = true): array {
     // áreas largas («Ciências Sociais») e finas («Sociologia»: todos os eventos dos centros da lista da APS, 6/11/2026)
     $a = $s ? '' : (string)(array_values(array_filter(array_merge((array)($e['af'] ?? []), (array)($e['a'] ?? [])), fn($x) => isset($L['areas'][$x])))[0] ?? '');
     $li = ($s || $a) ? '' : (string)(array_values(array_filter($L['listas'], fn($x) => na_lista($e, $x)))[0] ?? '');
-    if (!$s && !$a && !$li) continue;
+    // séries de seminários seguidas e pesquisas guardadas («Avise-me»), 7/11/2026
+    $se = (!$s && !$a && !$li && !empty($e['se']) && isset($L['series'][$e['se']])) ? $e['se'] : '';
+    $pq = (!$s && !$a && !$li && !$se) ? (array_values(array_filter($L['pesquisas'], fn($p) => na_pesquisa($e, $p)))[0] ?? null) : null;
+    // chamadas: aviso uma semana antes de fechar o prazo, para quem segue as chamadas abertas ou o que o evento toca
+    $pz = (string)($e['pz'] ?? '');
+    if ($so_novos && $pz >= $hoje && $pz <= date('Y-m-d', strtotime($hoje) + 7 * 86400) && ($s || $a || $se || in_array('chamadas-abertas', $L['listas'], true))) {
+      $kp = 'lykpz|' . $e['pg'];
+      if (!isset($ja[$kp])) $r[] = [$kp, 'Prazo da chamada a fechar: ' . dia_txt($pz), $pz, $e['n'], trim(($e['in'] ? nome_inst($e['in']) : $e['l']) . ' · ' . ($e['o'] ?? ''), ' ·'), $URL . 'e/' . $e['pg'] . '.html', ''];
+    }
+    if (!$s && !$a && !$li && !$se && !$pq) continue;
     $dias = array_values(array_filter((array)$e['d'], fn($d) => $d >= $hoje && (!$ate || $d <= $ate))); if (!$dias) continue;
     $k = 'lyk|' . $e['pg']; if (isset($ja[$k])) continue;
-    $rot = $s ? nome_inst($s) : ($a ? ($AREA[$a] ?? $a) : (string)($D['listas'][$li][0] ?? $li));
+    $rot = $s ? nome_inst($s) : ($a ? ($AREA[$a] ?? $a) : ($li ? (string)($D['listas'][$li][0] ?? $li) : ($se ? 'Série que segue' : 'A sua pesquisa' . (!empty($pq['q']) ? ' «' . $pq['q'] . '»' : ''))));
     $r[] = [$k, $rot, $dias[0], $e['n'], trim(($e['in'] ? nome_inst($e['in']) : $e['l']) . ' · ' . ($e['o'] ?? ''), ' ·'), $URL . 'e/' . $e['pg'] . '.html', hora((string)($e['h'] ?? ''), $dias[0])];
   }
   usort($r, fn($a, $b) => strcmp($a[2] . $a[3], $b[2] . $b[3]));
