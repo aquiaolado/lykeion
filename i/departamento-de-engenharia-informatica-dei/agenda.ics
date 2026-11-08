@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Engenharia Informática (DEI) (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
+ @lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T100000
+SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
+LOCATION:Departamento de Engenharia Informática (DEI)
+DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
+ rova-de-doutoramento-do-aluno-anthony-andrea-faustine
+URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-anthony-andrea-faus
+ tine-18cd9.html
+END:VEVENT
+END:VCALENDAR

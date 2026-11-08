@@ -122,15 +122,6 @@ DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/astronomia
 URL:https://lykeion.pt/e/em-pleno-dia-astronomia-80418.html
 END:VEVENT
 BEGIN:VEVENT
-UID:pai-vou-ao-espaco-e-ja-volto-0b149-2026-11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T110000
-SUMMARY:Pai\, vou ao espaço e já volto!
-LOCATION:Fábrica - Centro Ciência Viva de Aveiro\, Aveiro
-DESCRIPTION:
-URL:https://lykeion.pt/e/pai-vou-ao-espaco-e-ja-volto-0b149.html
-END:VEVENT
-BEGIN:VEVENT
 UID:visitas-as-exposicoes-b659a-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T110000
@@ -327,6 +318,16 @@ URL:https://lykeion.pt/e/aula-aberta-from-risk-to-performance-how-data-eco-
  driving-an-2546c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:cbr-pi-seminars-2026-nina-schmolka-60acf-2026-11-10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:CBR PI Seminars 2026: Nina Schmolka
+LOCATION:Católica Biomedical Research Centre\, Sintra
+DESCRIPTION:https://cbr.fm.ucp.pt/en/events/cbr-pi-seminars-2026-nina-schmo
+ lka
+URL:https://lykeion.pt/e/cbr-pi-seminars-2026-nina-schmolka-60acf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:identificacao-de-riscos-no-armazenamento-de-produtos-quimico-1345f-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -461,14 +462,13 @@ DESCRIPTION:https://ciencias.ulisboa.pt/eventos/coloquio-de-matematica-maks
 URL:https://lykeion.pt/e/16-00-coloquio-coloquio-de-matematica-e9574.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
+UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-11@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T120000
+DTSTART;TZID=Europe/Lisbon:20261111T094500
 SUMMARY:2.ª Conferência Anual do NOVA Green Lab
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
- ova-green-lab
-URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-21c63.html
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/2-a-conferencia-anual-do-nova-green-lab/
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-f78ee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-horizon-conference-2026-b0fed-2026-11-11@lagenda.pt
@@ -697,6 +697,18 @@ DESCRIPTION:https://www.aese.pt/agenda/debate-do-orcamento-do-estado-2027/
 URL:https://lykeion.pt/e/debate-do-orcamento-do-estado-2027-0aa3b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:graduate-forum-gestao-laboral-algoritmica-e-discriminacao-6f5c0-2026-11
+ -12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Graduate Forum | Gestão laboral algorítmica e discriminação
+LOCATION:Centro de Estudos e Investigação em Direito
+DESCRIPTION:https://ceid.fd.ucp.pt/events/graduate-forum-gestao-laboral-alg
+ oritmica-e-discriminacao
+URL:https://lykeion.pt/e/graduate-forum-gestao-laboral-algoritmica-e-discri
+ minacao-6f5c0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ii-jornadas-nortear-a-ceramica-2026-741f4-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -907,6 +919,16 @@ URL:https://lykeion.pt/e/santarem-recebe-conferencia-nacional-dedicada-a-cr
  iptoeconom-51903.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sessao-do-seminario-de-formacao-cehr-44e0c-2026-11-14@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Sessão do Seminário de formação CEHR
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-formacao-cehr
+ -2
+URL:https://lykeion.pt/e/sessao-do-seminario-de-formacao-cehr-44e0c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:15-oct-2026-live-sos-cagarro-campaign-do-you-know-what-to-do-93f52-2026
  -11-15@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -958,18 +980,6 @@ URL:https://lykeion.pt/e/bruxelas-ciclo-de-conferencias-regards-croises-sur
  -la-langue-6fb40.html
 END:VEVENT
 BEGIN:VEVENT
-UID:colheita-de-amostras-para-analise-microbiologica-a3ade-2026-11-16@lagen
- da.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T040000
-SUMMARY:Colheita de amostras para análise microbiológica
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/15791.html?order_by=-1
-URL:https://lykeion.pt/e/colheita-de-amostras-para-analise-microbiologica-a
- 3ade.html
-END:VEVENT
-BEGIN:VEVENT
 UID:icone6-6th-international-conference-in-neuroethics-2e1c5-2026-11-16@lag
  enda.pt
 DTSTAMP:20261108T000000Z
@@ -980,6 +990,18 @@ DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=training/allevents/103%2B104%2B
  118
 URL:https://lykeion.pt/e/icone6-6th-international-conference-in-neuroethics
  -2e1c5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
+ @lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T100000
+SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
+LOCATION:Departamento de Engenharia Informática (DEI)
+DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
+ rova-de-doutoramento-do-aluno-anthony-andrea-faustine
+URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-anthony-andrea-faus
+ tine-18cd9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-e0a2a-2026-11-16@lagenda.pt

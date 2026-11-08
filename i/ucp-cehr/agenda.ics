@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UCP CEHR (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:sessao-do-seminario-de-formacao-cehr-44e0c-2026-11-14@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Sessão do Seminário de formação CEHR
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-formacao-cehr
+ -2
+URL:https://lykeion.pt/e/sessao-do-seminario-de-formacao-cehr-44e0c.html
+END:VEVENT
+END:VCALENDAR

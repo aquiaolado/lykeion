@@ -61,15 +61,6 @@ DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/astronomia
 URL:https://lykeion.pt/e/em-pleno-dia-astronomia-80418.html
 END:VEVENT
 BEGIN:VEVENT
-UID:pai-vou-ao-espaco-e-ja-volto-0b149-2026-11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T110000
-SUMMARY:Pai\, vou ao espaço e já volto!
-LOCATION:Fábrica - Centro Ciência Viva de Aveiro\, Aveiro
-DESCRIPTION:
-URL:https://lykeion.pt/e/pai-vou-ao-espaco-e-ja-volto-0b149.html
-END:VEVENT
-BEGIN:VEVENT
 UID:visitas-as-exposicoes-b659a-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T110000
@@ -206,6 +197,16 @@ SUMMARY:Planetário do Porto- 3CLIPSE
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
 DESCRIPTION:
 URL:https://lykeion.pt/e/planetario-do-porto-3clipse-0641e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-do-seminario-de-formacao-cehr-44e0c-2026-11-14@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Sessão do Seminário de formação CEHR
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-formacao-cehr
+ -2
+URL:https://lykeion.pt/e/sessao-do-seminario-de-formacao-cehr-44e0c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontros-great-artists-on-campus-6-90954-2026-11-17@lagenda.pt

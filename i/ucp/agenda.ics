@@ -6,6 +6,16 @@ X-WR-CALNAME:UCP (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:cbr-pi-seminars-2026-nina-schmolka-60acf-2026-11-10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:CBR PI Seminars 2026: Nina Schmolka
+LOCATION:Católica Biomedical Research Centre\, Sintra
+DESCRIPTION:https://cbr.fm.ucp.pt/en/events/cbr-pi-seminars-2026-nina-schmo
+ lka
+URL:https://lykeion.pt/e/cbr-pi-seminars-2026-nina-schmolka-60acf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T170000
@@ -77,16 +87,38 @@ URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
  -trabalho-d859d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:apresentacao-do-livro-a-seguranca-e-saude-no-trabalho-um-enq-dc757-2026
- -11-12@lagenda.pt
+UID:graduate-forum-gestao-laboral-algoritmica-e-discriminacao-6f5c0-2026-11
+ -12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T173000
-SUMMARY:Apresentação do livro «A Segurança e Saúde no Trabalho: um Enq
- uadramento Jurídico-Laboral dos Riscos Psicossociais»
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/apresentacao-do-livro-seguranc
- a-e-saude-no-trabalho-um-enquadramento-juridico-laboral-dos
-URL:https://lykeion.pt/e/apresentacao-do-livro-a-seguranca-e-saude-no-traba
- lho-um-enq-dc757.html
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Graduate Forum | Gestão laboral algorítmica e discriminação
+LOCATION:Centro de Estudos e Investigação em Direito
+DESCRIPTION:https://ceid.fd.ucp.pt/events/graduate-forum-gestao-laboral-alg
+ oritmica-e-discriminacao
+URL:https://lykeion.pt/e/graduate-forum-gestao-laboral-algoritmica-e-discri
+ minacao-6f5c0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-do-seminario-de-formacao-cehr-44e0c-2026-11-14@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Sessão do Seminário de formação CEHR
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-formacao-cehr
+ -2
+URL:https://lykeion.pt/e/sessao-do-seminario-de-formacao-cehr-44e0c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cedh-learning-coffee-mapping-an-emerging-field-lessons-from-505a3-2026-
+ 11-18@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:CEDH Learning Coffee: Mapping an Emerging Field: Lessons from a Sco
+ ping Review on Compassionate Leadership in Education
+LOCATION:Centre for Studies in Human Development\, Porto
+DESCRIPTION:https://cedh.fep.porto.ucp.pt/events/cedh-learning-coffee-mappi
+ ng-emerging-field-lessons-scoping-review-compassionate-leadership
+URL:https://lykeion.pt/e/cedh-learning-coffee-mapping-an-emerging-field-les
+ sons-from-505a3.html
 END:VEVENT
 END:VCALENDAR
