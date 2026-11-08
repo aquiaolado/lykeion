@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:exposicao-linhas-de-tensao-85621-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T180000
+DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição Linhas de Tensão
 LOCATION:Politécnico do Porto\, Porto
 DESCRIPTION:https://centrodecultura.ipp.pt/evento/exposicao-linhas-de-tensa
@@ -178,6 +178,30 @@ URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-f3d96.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-marketing-e-comunicacao-f3d96-2026-11-17@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Provas de Mestrado – Marketing e Comunicação
+LOCATION:Instituto Politécnico da Guarda\, Seia
+DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-marketi
+ ng-e-comunicacao-20/
+URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-f3d96.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:aproximacao-da-data-ix-congresso-internacional-de-ciberjorna-8e515-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Aproximação da Data] IX Congresso Internacional de Ciberjornalism
+ o (#9COBCIBER)
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://citcem.org/eventos/aproximacao-da-data-ix-congresso-int
+ ernacional-de-ciberjornalismo/
+URL:https://lykeion.pt/e/aproximacao-da-data-ix-congresso-internacional-de-
+ ciberjorna-8e515.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-processos-de-criacao-2026-813f3-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261118
@@ -288,6 +312,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-tiago-dos-santos-ferreira-de
  -castro-co-51e80.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sara-pascoal-na-international-conference-life-writing-self-f-e1802-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Sara Pascoal na International Conference Life Writing\, Self-Figura
+ tions\, and Critical Digital Humanities
+LOCATION:Centro de Estudos Interculturais\, Matosinhos
+DESCRIPTION:https://www.iscap.pt/cei/sara-pascoal-na-international-conferen
+ ce-life-writing-self-figurations-and-critical-digital-humanities/
+URL:https://lykeion.pt/e/sara-pascoal-na-international-conference-life-writ
+ ing-self-f-e1802.html
+END:VEVENT
+BEGIN:VEVENT
 UID:culturelab-palestra-20-11-2026-from-new-fascism-to-mimetic-s-e81a7-2026
  -11-20@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -313,6 +350,16 @@ URL:https://lykeion.pt/e/masterclass-writing-rewriting-surviving-the-gradua
  tes-guide-39e16.html
 END:VEVENT
 BEGIN:VEVENT
+UID:nidesh-lawtoo-sobre-novo-fascismo-530ba-2026-11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Nidesh Lawtoo sobre “(Novo) Fascismo
+LOCATION:Universidade NOVA de Lisboa
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/nidesh-lawtoo-sobre-novo-fascis
+ mo/
+URL:https://lykeion.pt/e/nidesh-lawtoo-sobre-novo-fascismo-530ba.html
+END:VEVENT
+BEGIN:VEVENT
 UID:webinar-publicacao-de-comunicacao-cientifica-ferramentas-via-6f6c6-2026
  -11-20@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -324,6 +371,19 @@ DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-publicacao-de-
  comunicacao-cientifica-ferramentas-via-zoom-meeting-2/
 URL:https://lykeion.pt/e/webinar-publicacao-de-comunicacao-cientifica-ferra
  mentas-via-6f6c6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-a-comunicacao-social-e-o-espirito-iberico-novos-ho-0f23d-2026
+ -11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Seminário “A Comunicação Social e o Espírito Ibérico: novos 
+ horizontes de cooperação
+LOCATION:Centro de Estudos Ibéricos\, Guarda
+DESCRIPTION:https://www.cei.pt/seminario-a-comunicacao-social-e-o-espirito-
+ iberico-novos-horizontes-de-cooperacao/
+URL:https://lykeion.pt/e/seminario-a-comunicacao-social-e-o-espirito-iberic
+ o-novos-ho-0f23d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-publicacao-de-comunicacao-cientifica-web-of-science-6f6c6-2026-

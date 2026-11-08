@@ -68,10 +68,13 @@
   seguirArtistas();
 
   // ---- Lykeion (4/11/2026): seguir instituições e áreas (páginas academia/…); avisos e newsletter de segunda (conta/lykeion.php) ----
+  // 8/11/2026: completa o objeto no próprio sítio (antes criava um novo a cada chamada, e quem guardava uma referência ficava a mexer numa cópia)
   const lyk = () => {
-    gostos.lyk = Object.assign({ inst: [], areas: [], listas: [], series: [], pesquisas: [] }, gostos.lyk || {});
-    gostos.lyk.menos = Object.assign({ tipos: [], inst: [], areas: [] }, gostos.lyk.menos || {});
-    return gostos.lyk;
+    const g = gostos.lyk = (gostos.lyk && typeof gostos.lyk === "object") ? gostos.lyk : {};
+    ["inst", "areas", "listas", "series", "pesquisas", "ecos"].forEach(k => { if (!Array.isArray(g[k])) g[k] = []; });
+    g.menos = (g.menos && typeof g.menos === "object") ? g.menos : {};
+    ["tipos", "inst", "areas"].forEach(k => { if (!Array.isArray(g.menos[k])) g.menos[k] = []; });
+    return g;
   };
   // «Mais disto / menos disto» (7/11/2026, ideia do Paulo): na página do evento, «+» segue a área ou a instituição e «−» esconde
   // o tipo, a instituição ou a área. Transparente: tudo fica em «O que vejo» (conta) e desfaz-se. Seguir e esconder excluem-se.
@@ -146,7 +149,7 @@
     ev.preventDefault();
     const [k, x] = b.dataset.tirarSegue.split("|"), g = lyk();
     g[k] = k === "pesquisas" ? g.pesquisas.filter((_, n) => String(n) !== x) : g[k].filter(y => y !== x);
-    gravarGostos(); pintaSegue();
+    gravarGostos(); pintaSegue(); document.dispatchEvent(new CustomEvent("lykeion:gostos"));
   });
   // «O que vejo»: a lista do que a pessoa escondeu, com os nomes (do academia.json) e um × para desfazer
   function pintaMenos() {
@@ -166,16 +169,185 @@
     const b = ev.target.closest("[data-tirar-menos]"); if (!b) return;
     ev.preventDefault();
     const [k, x] = b.dataset.tirarMenos.split("|"), g = lyk(); g.menos[k] = g.menos[k].filter(y => y !== x);
-    gravarGostos(); pintaMenos();
+    gravarGostos(); pintaMenos(); document.dispatchEvent(new CustomEvent("lykeion:gostos"));
   });
   function lykeionEditor(c) {
     const g = lyk(), n = g.inst.length + g.areas.length + g.listas.length;
     return `<h2 id="lykeion">${LY ? "O que segue" : "Lykeion: a agenda da ciência"}</h2><p class="sub">${n ? `Segue ${g.inst.length} ${g.inst.length === 1 ? "instituição" : "instituições"}, ${g.areas.length} ${g.areas.length === 1 ? "área" : "áreas"} e ${g.listas.length} ${g.listas.length === 1 ? "lista" : "listas"}. ` : "Ainda não segue nenhuma instituição nem área. "}` +
-      `<a href="${B}${AC}instituicoes/">Escolher instituições</a> · <a href="${B}${AC}listas/">escolher listas e áreas</a></p>` +
+      `<a href="${B}${AC}instituicoes/">Escolher instituições</a> · <a href="${B}${AC}listas/">escolher listas e áreas</a>${LY ? ` · <a href="${B}${AC}a-minha-area/">A minha área</a> (ecossistemas e disposição)` : ""}</p>` +
       `<h3>Séries e pesquisas</h3><div id="lyksegue"></div>` + `<h3>O que não quero ver</h3><div id="lykmenos"></div>` + (setTimeout(() => { pintaMenos(); pintaSegue(); }, 0), "") +
       (c ? `<label class="chk"><input type="checkbox" id="glyka"${g.avisos === false ? "" : " checked"}> Avisar-me por email dos eventos novos do que sigo</label>
       <label class="chk"><input type="checkbox" id="glyks"${g.semanal === false ? "" : " checked"}> Receber à segunda-feira a semana académica <a href="${B}conta/lykeion.php?ver" target="_blank" rel="noopener">(ver)</a></label>` : "");
   }
+
+  // ---- ecossistemas da pessoa e «A minha área» (8/11/2026, pedido do Paulo) ----
+  // Um ecossistema é uma lista sua de instituições («Sociologia em Portugal»). Pode partir de uma área fina (base: os centros que a
+  // sociedade científica indica, academia.json → ia) e a pessoa junta (inst) ou tira (fora) à vontade. Os eventos de todas contam
+  // como seguidos: entrada, «A minha área» e emails (conta/lykeion.php).
+  let ACD = null;
+  const acd = () => ACD || (ACD = fetch(B + "academia.json").then(r => r.ok ? r.json() : Promise.reject()).catch(e => { ACD = null; throw e; }));
+  const ecos = () => { const es = lyk().ecos; es.forEach(e => { e.base = e.base || ""; if (!Array.isArray(e.inst)) e.inst = []; if (!Array.isArray(e.fora)) e.fora = []; }); return es; };
+  const ecoId = () => "e" + Date.now().toString(36);
+  // a instituição i (ou uma das mães) está no ecossistema?
+  const ecoTem = (ec, i, D) => {
+    for (let k = 0, x = i; x && k < 7; k++, x = (D.pais || {})[x]) {
+      if (ec.fora.includes(x)) return false;
+      if (ec.inst.includes(x) || (ec.base && ((D.ia || {})[x] || []).includes(ec.base))) return true;
+    }
+    return false;
+  };
+  // as instituições que o ecossistema tem diretamente (sem contar as unidades de cada uma)
+  const ecoMembros = (ec, D) => Object.keys(D.inst).filter(i => !ec.fora.includes(i) && (ec.inst.includes(i) || (ec.base && ((D.ia || {})[i] || []).includes(ec.base))));
+  const ecoEv = (ec, e, D) => ecoTem(ec, e.in, D) || (ec.base && (e.af || []).includes(ec.base) && !(e.in && ec.fora.some(f => ecoTem({ base: "", inst: [f], fora: [] }, e.in, D))));
+  const fina = (D, s) => ((D.finas || []).find(f => f[0] === s) || [])[1] || s;
+  const mudou = () => { gravarGostos(); document.dispatchEvent(new CustomEvent("lykeion:gostos")); };
+
+  // o menu «+ Ao meu ecossistema» na página da instituição
+  function menuEco(b) {
+    const cx = b.parentNode.parentNode.querySelector(".lyk-eco-menu"); if (!cx) return;
+    const i = b.dataset.ecoInst, nome = b.dataset.nome, areas = (b.dataset.areas || "").split("|").filter(Boolean);
+    const dentro = ec => !ec.fora.includes(i) && (ec.inst.includes(i) || (!!ec.base && areas.includes(ec.base)));
+    const desenha = D => {
+      const es = ecos(), sem = areas.filter(a => !es.some(ec => ec.base === a));
+      cx.innerHTML = `<p class="sub">Juntar ${esc(nome)} a um ecossistema seu. Os eventos de todas as instituições do ecossistema aparecem na <a href="${B}${AC}a-minha-area/">sua área</a> e nos avisos.</p>` +
+        es.map((ec, n) => `<label class="chk"><input type="checkbox" data-eco-n="${n}"${dentro(ec) ? " checked" : ""}> <span><b>${esc(ec.nome)}</b> <small class="sub">${ec.base ? "parte dos centros de " + esc(fina(D, ec.base).toLowerCase()) + (ec.inst.length ? ` · mais ${ec.inst.length} ${ec.inst.length === 1 ? "sua" : "suas"}` : "") : ec.inst.length + (ec.inst.length === 1 ? " instituição" : " instituições")}</small></span></label>`).join("") +
+        sem.map(a => `<p><button class="ch" type="button" data-eco-cria-base="${esc(a)}">+ Criar «${esc(fina(D, a))} em Portugal», com os centros da área</button></p>`).join("") +
+        `<form class="linha lyk-eco-novo"><label class="vis" for="ecnovo">Novo ecossistema</label><input id="ecnovo" maxlength="80" placeholder="Novo ecossistema, por exemplo «Estudos urbanos»"><button class="bt">Criar</button></form>`;
+    };
+    const abre = !cx.hidden ? false : true;
+    cx.hidden = !abre; b.setAttribute("aria-expanded", abre);
+    if (!abre) return;
+    cx.innerHTML = '<p class="sub">A carregar…</p>';
+    acd().catch(() => ({ finas: [] })).then(D => {
+      desenha(D);
+      if (cx.dataset.ligado) return; cx.dataset.ligado = "1";
+      cx.addEventListener("change", ev => {
+        const c = ev.target.closest("[data-eco-n]"); if (!c) return;
+        const ec = ecos()[+c.dataset.ecoN], pelaBase = !!ec.base && areas.includes(ec.base);
+        if (c.checked) { ec.fora = ec.fora.filter(x => x !== i); if (!pelaBase && !ec.inst.includes(i)) ec.inst.push(i); }
+        else { ec.inst = ec.inst.filter(x => x !== i); if (pelaBase && !ec.fora.includes(i)) ec.fora.push(i); }
+        mudou(); desenha(D); aviso(`${c.checked ? "Juntou" : "Tirou"} ${nome} ${c.checked ? "a" : "de"} «${ec.nome}».`);
+      });
+      cx.addEventListener("click", ev => {
+        const c = ev.target.closest("[data-eco-cria-base]"); if (!c) return;
+        const a = c.dataset.ecoCriaBase; ecos().push({ id: ecoId(), nome: fina(D, a) + " em Portugal", base: a, inst: [], fora: [] });
+        mudou(); desenha(D); aviso(`Criou «${fina(D, a)} em Portugal», com ${esc(nome)} e os outros centros da área.`);
+      });
+      cx.addEventListener("submit", ev => {
+        ev.preventDefault(); const inp = cx.querySelector("#ecnovo"), n = inp.value.trim(); if (!n) { inp.focus(); return; }
+        ecos().push({ id: ecoId(), nome: n.slice(0, 80), base: "", inst: [i], fora: [] });
+        mudou(); desenha(D); aviso(`Criou «${esc(n)}» com ${esc(nome)}. Junte mais instituições na página de cada uma.`);
+      });
+    });
+    function aviso(t) { const a = document.getElementById("avisoseguir"); if (a) a.innerHTML = t + ` <a href="${B}${AC}a-minha-area/">Ver na minha área</a>` + (!conta && servidor ? ` · <a href="${B}conta.html">Entre</a> para o ter em todos os aparelhos e receber avisos.` : ""); }
+  }
+  document.addEventListener("click", ev => {
+    const b = ev.target.closest("[data-eco-inst]"); if (b) { menuEco(b); return; }
+    const a = ev.target.closest("[data-eco-base]"); if (!a) return;
+    const es = ecos(), base = a.dataset.ecoBase, ja = es.find(ec => ec.base === base);
+    if (!ja) { es.push({ id: ecoId(), nome: a.dataset.nome, base, inst: [], fora: [] }); mudou(); }
+    a.outerHTML = `<a class="bt" href="${B}${AC}a-minha-area/">${ja ? "Já tem «" + esc(ja.nome) + "»" : "Criado ✓"}: abrir na minha área</a>`;
+  });
+  // nas páginas de área: quem já tem o ecossistema vê logo a ligação
+  document.querySelectorAll("[data-eco-base]").forEach(a => { const ja = ecos().find(ec => ec.base === a.dataset.ecoBase); if (ja) a.textContent = "O meu ecossistema: «" + ja.nome + "»"; });
+
+  const BLOCOS = [["prox", "Próximos do que sigo"], ["ecos", "Os meus ecossistemas"], ["inst", "Instituições que sigo"], ["areas", "Áreas e listas"],
+                  ["guard", "Guardados"], ["pesq", "Séries e pesquisas com aviso"], ["avisos", "Avisos por email"], ["menos", "O que não quero ver"]];
+  const DISP0 = { ordem: BLOCOS.map(b => b[0]), largos: ["prox", "ecos"], esc: [] };
+  let editar = false, proxTodos = false;
+  function minhaArea() {
+    const raiz = document.getElementById("minhaarea"); if (!raiz) return;
+    acd().then(D => {
+      const g = lyk(), es = ecos(), disp = Object.assign({}, DISP0, g.disp && (g.disp.ordem || []).length ? g.disp : {});
+      const ordem = disp.ordem.filter(k => BLOCOS.some(b => b[0] === k)).concat(BLOCOS.map(b => b[0]).filter(k => !disp.ordem.includes(k)));
+      const nomeI = i => { const r = D.inst[i] || []; return r[1] || r[0] || i; }, nomeL = i => (D.inst[i] || [])[0] || i;
+      const AREA = Object.assign(Object.fromEntries(D.areas), Object.fromEntries(D.finas.map(([s, n]) => [s, n])));
+      const SUB = Object.fromEntries(D.subtipos.map(([s, n]) => [s, n]));
+      const pertence = (i, alvo) => { for (let k = 0; i && k < 7; k++) { if (i === alvo) return true; i = (D.pais || {})[i]; } return false; };
+      const m = g.menos, esc_ = e => m.tipos.includes(e.s) || m.inst.some(i => pertence(e.in, i)) || e.a.concat(e.af || []).some(a => m.areas.includes(a));
+      const naLista = (e, f) => (!f.subtipos || f.subtipos.includes(e.s)) && (!f.familias || f.familias.includes(e.fa)) && (!f.areas || e.a.some(a => f.areas.includes(a))) &&
+        (!f.modo || f.modo.includes(e.m)) && (!f.lingua || f.lingua.includes(e.li)) && (!f.distritos || f.distritos.includes(e.di)) && (!f.chamada || (e.pz || "") >= hoje);
+      const porque = e => {
+        const i = g.inst.find(x => pertence(e.in, x)); if (i) return nomeI(i);
+        const ec = es.find(x => ecoEv(x, e, D)); if (ec) return ec.nome;
+        const a = e.a.concat(e.af || []).find(x => g.areas.includes(x)); if (a) return AREA[a] || a;
+        const l = g.listas.find(x => D.listas[x] && naLista(e, D.listas[x][1])); if (l) return D.listas[l][0];
+        if (e.se && g.series.includes(e.se)) return "Série que segue";
+        return "";
+      };
+      const fim = iso(new Date(Date.now() + 60 * 864e5)), meus = [];
+      for (const e of D.ev) { const d = e.d.find(x => x >= hoje && x <= fim); if (!d || esc_(e)) continue; const p = porque(e); if (p) meus.push([d, e, p]); }
+      meus.sort((a, b) => a[0].localeCompare(b[0]) || a[1].n.localeCompare(b[1].n));
+      const quando = d => { const x = dt(d); return d === hoje ? "Hoje" : SEM[x.getDay()] + " " + x.getDate() + " " + MES[x.getMonth()]; };
+      const ev1 = (d, e, p) => `<li><span class="ma-dia">${quando(d)}</span><span class="ma-tx"><a href="${B}e/${e.pg}.html">${esc(e.n)}</a><small>${esc([nomeI(e.in) || e.l, SUB[e.s], p].filter(Boolean).join(" · "))}</small></span></li>`;
+      const em30 = iso(new Date(Date.now() + 30 * 864e5));
+      const vazio = t => `<p class="vazio">${t}</p>`;
+      const C = {
+        prox: () => meus.length ? `<ul class="ma-lista">${meus.slice(0, proxTodos ? 60 : 8).map(([d, e, p]) => ev1(d, e, p)).join("")}</ul>` +
+            (meus.length > 8 && !proxTodos ? `<p><button class="ch" type="button" id="maprox">Mostrar os ${meus.length} dos próximos 60 dias</button></p>` : "")
+          : vazio(`Ainda não há nada marcado do que segue. <a href="${B}${AC}instituicoes/">Siga instituições</a> ou <a href="${B}${AC}listas/">áreas</a>.`),
+        ecos: () => es.map((ec, n) => {
+            const mb = ecoMembros(ec, D).sort((a, b) => nomeL(a).localeCompare(nomeL(b), "pt")), nEv = D.ev.filter(e => e.d.some(d => d >= hoje && d <= em30) && ecoEv(ec, e, D)).length;
+            return `<div class="ma-eco"><div class="ma-eco-cab"><b>${esc(ec.nome)}</b><span class="sub">${mb.length} ${mb.length === 1 ? "instituição" : "instituições"} · ${nEv} ${nEv === 1 ? "evento" : "eventos"} nos próximos 30 dias</span></div>` +
+              (ec.base ? `<p class="sub">Parte dos centros de <a href="${B}${AC}area/${esc(ec.base)}/">${esc(fina(D, ec.base).toLowerCase())}</a>${ec.fora.length ? ` (tirou ${ec.fora.length})` : ""}${ec.inst.length ? `, mais ${ec.inst.length} que juntou` : ""}.</p>` : "") +
+              `<details><summary>Ver as instituições</summary><p class="lin">${mb.map(i => `<span class="ch ma-ch"><a href="${B}${AC}i/${esc(i)}/">${esc(nomeL(i))}</a> <button type="button" class="ma-x" data-eco-tira="${n}|${esc(i)}" title="Tirar deste ecossistema" aria-label="Tirar ${esc(nomeL(i))}">×</button></span>`).join(" ") || '<span class="sub">Nenhuma ainda.</span>'}</p>` +
+              `<p class="sub">Para juntar uma instituição, abra a página dela e carregue em «+ Ao meu ecossistema».</p></details>` +
+              `<p class="ma-eco-acoes"><button class="lnk" type="button" data-eco-renomear="${n}">Mudar o nome</button> · <button class="lnk" type="button" data-eco-apagar="${n}">Apagar</button></p></div>`;
+          }).join("") + (es.length ? "" : `<p class="sub">Um ecossistema junta as instituições de um tema seu, por exemplo «Sociologia em Portugal». Pode partir dos centros de uma área e juntar ou tirar à vontade.</p>`) +
+          `<form class="linha ma-eco-novo"><label class="vis" for="maeconome">Nome</label><input id="maeconome" maxlength="80" placeholder="Novo ecossistema" required>` +
+          `<label class="vis" for="maecobase">Partir de</label><select id="maecobase" class="busca"><option value="">Começar vazio</option>${[...new Set(Object.values(D.ia || {}).flat())].map(s => [s, fina(D, s)]).sort((a, b) => a[1].localeCompare(b[1], "pt")).map(([s, n]) => `<option value="${esc(s)}">Os centros de ${esc(n.toLowerCase())}</option>`).join("")}</select><button class="bt">Criar</button></form>`,
+        inst: () => g.inst.length ? `<p class="lin">${g.inst.map(i => `<span class="ch ma-ch"><a href="${B}${AC}i/${esc(i)}/">${esc(nomeI(i))}</a> <button type="button" class="ma-x" data-tirar-segue="inst|${esc(i)}" title="Deixar de seguir" aria-label="Deixar de seguir ${esc(nomeI(i))}">×</button></span>`).join(" ")}</p>`
+          : vazio(`Ainda não segue nenhuma instituição. <a href="${B}${AC}instituicoes/">Escolher</a>`),
+        areas: () => (g.areas.length || g.listas.length) ? `<p class="lin">${g.areas.map(a => `<span class="ch ma-ch">${esc(AREA[a] || a)} <button type="button" class="ma-x" data-tirar-segue="areas|${esc(a)}" aria-label="Deixar de seguir">×</button></span>`).concat(g.listas.map(l => `<span class="ch ma-ch">${esc((D.listas[l] || [l])[0])} <button type="button" class="ma-x" data-tirar-segue="listas|${esc(l)}" aria-label="Deixar de seguir">×</button></span>`)).join(" ")}</p>`
+          : vazio(`Ainda não segue nenhuma área. <a href="${B}${AC}listas/">Escolher</a>`),
+        guard: () => { const gs = ler("lagenda-guardados", []), P = Object.fromEntries(D.ev.map(e => [e.pg, e])), xs = gs.map(p => P[p]).filter(Boolean).map(e => [e.d.find(d => d >= hoje), e]).filter(x => x[0]).sort((a, b) => a[0].localeCompare(b[0]));
+          return xs.length ? `<ul class="ma-lista">${xs.slice(0, 8).map(([d, e]) => ev1(d, e, "")).join("")}</ul><p><a href="${B}guardados.html">Todos os guardados</a></p>` : vazio("Nada guardado. Em cada evento, «Guardar» põe-no aqui."); },
+        pesq: () => '<div id="lyksegue"></div>',
+        menos: () => '<div id="lykmenos"></div>',
+        avisos: () => conta ? `<label class="chk"><input type="checkbox" id="maavisos"${g.avisos === false ? "" : " checked"}> Avisar-me por email dos eventos novos do que sigo</label>` +
+            `<label class="chk"><input type="checkbox" id="masemanal"${g.semanal === false ? "" : " checked"}> Receber à segunda-feira a semana académica <a href="${B}conta/lykeion.php?ver" target="_blank" rel="noopener">(ver)</a></label><p class="sub">Para ${esc(conta.email)} · <a href="${B}conta.html">A minha conta</a></p>`
+          : `<p>${servidor ? `<a class="bt prim" href="${B}conta.html">Entrar com o email</a>` : ""}</p><p class="sub">Sem conta, a sua área fica só neste aparelho. Com conta, acompanha-o em todos e avisamos por email dos eventos novos.</p>`
+      };
+      const ctl = k => `<span class="ma-ctl"><button type="button" class="ma-b" data-ma="sobe|${k}" aria-label="Subir">↑</button><button type="button" class="ma-b" data-ma="desce|${k}" aria-label="Descer">↓</button>` +
+        `<button type="button" class="ma-b" data-ma="largo|${k}">${disp.largos.includes(k) ? "Estreito" : "Largo"}</button><button type="button" class="ma-b" data-ma="esc|${k}">${disp.esc.includes(k) ? "Mostrar" : "Esconder"}</button></span>`;
+      const nome = ((conta && conta.nome) || "").trim().split(/\s+/)[0], h1 = document.getElementById("maola"); if (h1) h1.textContent = nome ? `A área de ${nome}` : "A minha área";
+      raiz.innerHTML = `<p class="ma-topo"><span class="sub">${meus.length ? `Do que segue, ${meus.length === 1 ? "vem aí 1 evento" : "vêm aí " + meus.length + " eventos"} nos próximos 60 dias.` : ""}${!conta && servidor ? ` <a href="${B}conta.html">Entre</a> para a ter em todos os aparelhos.` : ""}</span>` +
+        `<span>${editar ? '<button class="lnk" type="button" id="marepor">Repor como estava</button> ' : ""}<button class="bt${editar ? " prim" : ""}" type="button" id="maorg" aria-pressed="${editar}">${editar ? "Pronto" : "Organizar"}</button></span></p>` +
+        `<div class="ma-grade${editar ? " ma-editar" : ""}">` + ordem.filter(k => editar || !disp.esc.includes(k)).map(k => `<section class="lyk-sec ma-bloco${disp.largos.includes(k) ? " ma-largo" : ""}${disp.esc.includes(k) ? " ma-esc" : ""}" data-bloco="${k}">` +
+          `<div class="lyk-cab"><h2>${BLOCOS.find(b => b[0] === k)[1]}</h2>${editar ? ctl(k) : ""}</div>${disp.esc.includes(k) ? '<p class="sub">Escondido.</p>' : C[k]()}</section>`).join("") + "</div>";
+      pintaSegue(); pintaMenos();
+      const grava = nd => { g.disp = nd; gravarGostos(); minhaArea(); };
+      raiz.onclick = ev => {
+        const t = ev.target.closest("button"); if (!t) return;
+        if (t.id === "maorg") { editar = !editar; minhaArea(); return; }
+        if (t.id === "marepor") { delete g.disp; gravarGostos(); minhaArea(); return; }
+        if (t.id === "maprox") { proxTodos = true; minhaArea(); return; }
+        if (t.dataset.ma) {
+          const [a, k] = t.dataset.ma.split("|"), nd = { ordem: ordem.slice(), largos: disp.largos.slice(), esc: disp.esc.slice() }, p = nd.ordem.indexOf(k);
+          const vis = nd.ordem.filter(x => editar || !nd.esc.includes(x));
+          if (a === "sobe" && p > 0) nd.ordem.splice(p - 1, 0, nd.ordem.splice(p, 1)[0]);
+          if (a === "desce" && p < nd.ordem.length - 1) nd.ordem.splice(p + 1, 0, nd.ordem.splice(p, 1)[0]);
+          if (a === "largo") nd.largos = nd.largos.includes(k) ? nd.largos.filter(x => x !== k) : nd.largos.concat(k);
+          if (a === "esc") nd.esc = nd.esc.includes(k) ? nd.esc.filter(x => x !== k) : nd.esc.concat(k);
+          void vis; grava(nd); setTimeout(() => { const b = raiz.querySelector(`[data-ma="${a}|${k}"]`); if (b) b.focus(); }, 0); return;
+        }
+        if (t.dataset.ecoTira) { const [n, i] = t.dataset.ecoTira.split("|"), ec = es[+n]; ec.inst = ec.inst.filter(x => x !== i); if (ec.base && ((D.ia || {})[i] || []).includes(ec.base) && !ec.fora.includes(i)) ec.fora.push(i); mudou(); return; }
+        if (t.dataset.ecoApagar) { if (t.dataset.confirma) { es.splice(+t.dataset.ecoApagar, 1); mudou(); } else { t.dataset.confirma = "1"; t.textContent = "Apagar mesmo?"; } return; }
+        if (t.dataset.ecoRenomear) { const ec = es[+t.dataset.ecoRenomear], cab = t.closest(".ma-eco").querySelector(".ma-eco-cab b");
+          cab.innerHTML = `<form class="linha ma-ren"><label class="vis" for="maren">Nome</label><input id="maren" maxlength="80" value="${esc(ec.nome)}"><button class="bt">Gravar</button></form>`;
+          const f = cab.querySelector("form"); f.querySelector("input").focus(); f.onsubmit = e2 => { e2.preventDefault(); const v = f.querySelector("input").value.trim(); if (v) { ec.nome = v.slice(0, 80); mudou(); } }; }
+      };
+      raiz.onchange = ev => {
+        if (ev.target.id === "maavisos" || ev.target.id === "masemanal") { g.avisos = document.getElementById("maavisos").checked; g.semanal = document.getElementById("masemanal").checked; gravarGostos(); }
+      };
+      raiz.onsubmit = ev => {
+        if (!ev.target.classList.contains("ma-eco-novo")) return;
+        ev.preventDefault(); const n = document.getElementById("maeconome").value.trim(), base = document.getElementById("maecobase").value; if (!n) return;
+        es.push({ id: ecoId(), nome: n.slice(0, 80), base, inst: [], fora: [] }); mudou();
+      };
+    }).catch(() => { raiz.innerHTML = '<p class="vazio">Não foi possível carregar a sua área agora. Tente daqui a pouco.</p>'; });
+  }
+  document.addEventListener("lykeion:gostos", minhaArea);
 
   // ---- o que o próprio artista escreveu no painel (conta/artista.php): apresentação, fotografia, ligações, datas acrescentadas ----
   function legendaArtista() {
@@ -213,7 +385,7 @@
     servidor = true; conta = j.conta; google = j.google;
     if (conta) {
       if (conta.gostos && Object.keys(conta.gostos).length) { gostos = Object.assign({ cats: [], bairros: [], salas: [], artistas: [], onde: [], avisos: true, livre: false }, conta.gostos); gravar("lagenda-gostos", gostos); }
-      else if (gostos.cats.length || gostos.salas.length || gostos.bairros.length || gostos.artistas.length || (gostos.lyk && (gostos.lyk.inst || []).concat(gostos.lyk.areas || [], gostos.lyk.listas || []).length)) gravarGostos(); // os gostos deste aparelho passam para a conta
+      else if (gostos.cats.length || gostos.salas.length || gostos.bairros.length || gostos.artistas.length || (gostos.lyk && (gostos.lyk.inst || []).concat(gostos.lyk.areas || [], gostos.lyk.listas || [], gostos.lyk.ecos || []).length)) gravarGostos(); // os gostos deste aparelho passam para a conta
       const locais = ler("lagenda-guardados", []);
       const novos = locais.filter(x => !j.guardados.includes(x));
       if (novos.length) post({ acao: "juntar", guardados: novos }).catch(() => {});
@@ -228,7 +400,7 @@
     aceitar.then(() => {
       window.LG = Object.assign(window.LG || {}, { conta, servidor, gostos, contaPronta: true, gravarToques: t => { gostos.toques = t; return gravarGostos(); } });
       document.dispatchEvent(new CustomEvent("lagenda:conta", { detail: { conta, servidor, gostos } }));
-      nav(); paraSi(); paginaConta(); social(); filasSociais(); tuaLegenda(); deQuemFoi(); seguirArtistas(); seguirLykeion(); perto(); });
+      nav(); paraSi(); paginaConta(); social(); filasSociais(); tuaLegenda(); deQuemFoi(); seguirArtistas(); seguirLykeion(); perto(); minhaArea(); });
   legendaCasa(); legendaArtista(); // não dependem da conta
   });
   let avisoAmigo = "";

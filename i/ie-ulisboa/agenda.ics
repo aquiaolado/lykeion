@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Instituto de Educação da Universidade de Lisboa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:forum-cafe-forum-jovens-investigadores-e25cb-2026-11-13@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T130000
+SUMMARY:Fórum Café - Fórum Jovens Investigadores
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/evento/forum-cafe-2026-11-13
+URL:https://lykeion.pt/e/forum-cafe-forum-jovens-investigadores-e25cb.html
+END:VEVENT
+END:VCALENDAR

@@ -240,12 +240,16 @@
       (!f.distritos || f.distritos.includes(e.di)) && (!f.chamada || (e.pz || "") >= (window.LG || {}).hoje);
     const poeOla = (conta, gostos) => {
       if (!ola || !conta) return;
-      const g = Object.assign({ inst: [], areas: [], listas: [], series: [], pesquisas: [] }, (gostos || {}).lyk || {});
+      const g = Object.assign({ inst: [], areas: [], listas: [], series: [], pesquisas: [], ecos: [] }, (gostos || {}).lyk || {});
+      // os ecossistemas da pessoa (8/11/2026): instituições juntadas, os centros da área de base, menos as tiradas
+      const noEco = (ec, e) => { const fora = ec.fora || [], ia = D.ia || {};
+        for (let k = 0, x = e.in; x && k < 7; k++, x = (D.pais || {})[x]) { if (fora.includes(x)) return false; if ((ec.inst || []).includes(x) || (ec.base && (ia[x] || []).includes(ec.base))) return true; }
+        return !!ec.base && (e.af || []).includes(ec.base); };
       const naPq = (e, p) => (!p.fa || e.fa === p.fa) && (!p.sub || e.s === p.sub) && (!p.area || e.a.concat(e.af || []).includes(p.area)) &&
         (!p.inst || pertence(e.in, p.inst)) && (!p.dist || e.di === p.dist) && (!p.q || norm([e.n, e.l, e.o, e.di, nomeInst(e.in)].join(" ")).includes(norm(p.q)));
       const nome = (conta.nome || "").trim().split(/\s+/)[0];
       const cab = `<h2>Olá${nome ? ", " + esc(nome) : ""}.</h2>`;
-      if (!g.inst.length && !g.areas.length && !g.listas.length && !g.series.length && !g.pesquisas.length) {
+      if (!g.inst.length && !g.areas.length && !g.listas.length && !g.series.length && !g.pesquisas.length && !g.ecos.length) {
         ola.innerHTML = cab + `<p class="sub">Siga instituições, áreas ou listas e passa a ter aqui o que lhe interessa, com aviso por email e a semana académica à segunda. ` +
           `<a href="${B}${AC}instituicoes/">Escolher instituições</a> · <a href="${B}${AC}listas/">listas e áreas</a></p>`;
       } else {
@@ -253,14 +257,14 @@
         for (const e of D.ev) {
           const d = e.d.find(x => x >= hoje); if (!d) continue;
           if (escondido(e.s, e.in, e.a.concat(e.af || []), menos())) continue;
-          if (g.inst.some(i => pertence(e.in, i)) || e.a.concat(e.af || []).some(a => g.areas.includes(a)) || g.listas.some(l => D.listas[l] && naLista(e, D.listas[l][1])) || (e.se && g.series.includes(e.se)) || g.pesquisas.some(p => naPq(e, p))) meus.push([d, e]);
+          if (g.inst.some(i => pertence(e.in, i)) || e.a.concat(e.af || []).some(a => g.areas.includes(a)) || g.listas.some(l => D.listas[l] && naLista(e, D.listas[l][1])) || (e.se && g.series.includes(e.se)) || g.pesquisas.some(p => naPq(e, p)) || g.ecos.some(ec => noEco(ec, e))) meus.push([d, e]);
         }
         meus.sort((a, b) => a[0].localeCompare(b[0]) || a[1].n.localeCompare(b[1].n));
         let ant = "";
         setTimeout(() => marcaNovos(ola), 0);
         const linhas = meus.slice(0, 5).map(([d, e]) => { const x = dt(d), cab = d === ant ? "" : `<p class="rot">${d === hoje ? "Hoje" : SEML[x.getDay()] + ", " + x.getDate() + " de " + MESL[x.getMonth()]}</p>`; ant = d; return cab + linha(e, d); }).join("");
         ola.innerHTML = cab + `<p class="sub">${meus.length ? `Do que segue, ${meus.length === 1 ? "vem aí 1 evento" : "vêm aí " + meus.length + " eventos"}.` : "Do que segue, ainda não há nada marcado."} ` +
-          `<a href="${B}conta.html#lykeion">O que sigo</a></p>` + linhas;
+          `<a href="${B}${AC}a-minha-area/">A minha área</a></p>` + linhas;
       }
       ola.hidden = false;
     };

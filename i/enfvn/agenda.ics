@@ -6,17 +6,44 @@ X-WR-CALNAME:ENFVN (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:9-30-iniav-promove-conferencia-digitalizacao-e-inovacao-na-a-54896-2026
- -11-17@lagenda.pt
+UID:workshop-internacional-sobre-gestao-de-dados-de-microrganism-34992-2026
+ -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T093000
-SUMMARY:9:30 INIAV promove Conferência «Digitalização e Inovação na A
- gricultura» no dia 17 de novembro\, em Oeiras
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Workshop internacional sobre gestão de dados de microrganismos pat
+ ogénicos
+LOCATION:Estação Nacional de Fruticultura Vieira Natividade\, Alcobaça
+DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1049/
+ -/workshop-internacional-sobre-gestao-de-dados-de-microrganismos-patogenic
+ os
+URL:https://lykeion.pt/e/workshop-internacional-sobre-gestao-de-dados-de-mi
+ crorganism-34992.html
+END:VEVENT
+BEGIN:VEVENT
+UID:09-30-iniav-promove-conferencia-digitalizacao-e-inovacao-na-54896-2026-
+ 11-17@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:09:30 : INIAV promove Conferência «Digitalização e Inovação n
+ a Agricultura» no dia 17 de novembro\, em Oeiras
 LOCATION:Estação Nacional de Fruticultura Vieira Natividade\, Alcobaça
 DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1059/
  -/iniav-promove-conferencia-digitalizacao-e-inovacao-na-agricultura-no-dia
  -17-de-novembro-em-oeiras
-URL:https://lykeion.pt/e/9-30-iniav-promove-conferencia-digitalizacao-e-ino
- vacao-na-a-54896.html
+URL:https://lykeion.pt/e/09-30-iniav-promove-conferencia-digitalizacao-e-in
+ ovacao-na-54896.html
+END:VEVENT
+BEGIN:VEVENT
+UID:09-30-coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-e-31b08-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:09:30 : Colóquio “Alterações Climáticas: Como nos Adaptarmos 
+ a esta Nova Realidade?
+LOCATION:Estação Nacional de Fruticultura Vieira Natividade\, Alcobaça
+DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1062/
+ -/coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-esta-nova-realidade
+URL:https://lykeion.pt/e/09-30-coloquio-alteracoes-climaticas-como-nos-adap
+ tarmos-a-e-31b08.html
 END:VEVENT
 END:VCALENDAR

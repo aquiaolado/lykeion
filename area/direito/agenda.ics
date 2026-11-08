@@ -105,10 +105,24 @@ URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
  -e-licenca-0b09f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:viii-congresso-internacional-de-politicas-publicas-e-desenvo-c3db1-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T180000
+SUMMARY:VIII Congresso Internacional de Políticas Públicas e Desenvolvime
+ nto Social
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/congresso-internacional-de-politicas-publica
+ s-e-desenvolvimento-social/?utm_source=rss&#038\,utm_medium=rss&#038\,utm_
+ campaign=criatividade-e-turismo-sustentavel
+URL:https://lykeion.pt/e/viii-congresso-internacional-de-politicas-publicas
+ -e-desenvo-c3db1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-a-volta-de-questoes-da-culpa-o-crime-de-homicidi-3d0a1-2026
  -11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T180000
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Aula Aberta: À volta de questões da culpa: o crime de homicídio 
  privilegiado e os crimes passionais
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
@@ -161,13 +175,25 @@ BEGIN:VEVENT
 UID:seminario-inteligencia-artificial-direito-e-medicina-edec7-2026-11-09@l
  agenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T094500
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Seminário - Inteligência Artificial\, Direito e Medicina
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-inteligencia-art
  ificial-direito-e-medicina
 URL:https://lykeion.pt/e/seminario-inteligencia-artificial-direito-e-medici
  na-edec7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cerimonia-de-entrega-de-certificados-da-clinica-juridica-2c1f0-2026-11-
+ 10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T170000
+SUMMARY:Cerimónia de entrega de Certificados da Clínica Jurídica
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/cerimonia-de-entrega-de-certificad
+ os-da-clinica-juridica
+URL:https://lykeion.pt/e/cerimonia-de-entrega-de-certificados-da-clinica-ju
+ ridica-2c1f0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:envelhecimento-sem-estereotipos-servico-social-e-direitos-da-40283-2026
@@ -248,6 +274,16 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-rute-patr
  icia-garri-0ef76.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T120000
+SUMMARY:2.ª Conferência Anual do NOVA Green Lab
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
+ ova-green-lab
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-21c63.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-vida-e-morte-dos-direitos-formas-de-tutela-e-res-65ed4-2026
  -11-11@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -291,6 +327,20 @@ SUMMARY:VII Congresso Juscrim
 LOCATION:Centro de Investigação em Justiça e Governação\, Braga
 DESCRIPTION:https://www.jusgov.uminho.pt/event/vii-congresso-juscrim/
 URL:https://lykeion.pt/e/vii-congresso-juscrim-bd652.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-a-seguranca-e-saude-no-trabalho-um-enq-aa81a-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T173000
+SUMMARY:Apresentação do livro «A Segurança e Saúde no Trabalho: um Enq
+ uadramento Jurídico-Laboral dos Riscos Psicossociais»
+LOCATION:Universidade Católica Portuguesa\, Porto
+DESCRIPTION:https://fd.porto.ucp.pt/pt-pt/eventos/apresentacao-do-livro-seg
+ uranca-e-saude-no-trabalho-um-enquadramento-juridico-laboral-dos-riscos-49
+ 266
+URL:https://lykeion.pt/e/apresentacao-do-livro-a-seguranca-e-saude-no-traba
+ lho-um-enq-aa81a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:graduate-forum-gestao-laboral-algoritmica-e-discriminacao-6f5c0-2026-11
@@ -500,7 +550,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-a-logica-no-direito-64d17-2026-11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T110000
+DTSTART;VALUE=DATE:20261117
 SUMMARY:Aula Aberta - A Lógica no Direito
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-a-logica-no-di
@@ -658,6 +708,29 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/iv-conferencia-anual-do-no
 URL:https://lykeion.pt/e/iv-conferencia-anual-do-nova-bhre-09c38.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ix-jornadas-de-restauro-fluvial-7ad62-2026-11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T100000
+SUMMARY:IX Jornadas de Restauro Fluvial
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/ix-jornadas-de-restauro-fluvial/
+URL:https://lykeion.pt/e/ix-jornadas-de-restauro-fluvial-7ad62.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-4c4d0-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T183000
+SUMMARY:Lançamento do livro «A Morte Medicamente Assistida à Luz da Cons
+ tituição»\, de António Manuel Abrantes
+LOCATION:Universidade Católica Portuguesa\, Porto
+DESCRIPTION:https://fd.porto.ucp.pt/pt-pt/eventos/lancamento-do-livro-morte
+ -medicamente-assistida-luz-da-constituicao-de-antonio-manuel-abrantes-4924
+ 1
+URL:https://lykeion.pt/e/lancamento-do-livro-a-morte-medicamente-assistida-
+ a-luz-da-c-4c4d0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-em-criminologia-licenciada-andreia-filipa-f23a8-2026
  -11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -798,6 +871,19 @@ DESCRIPTION:https://www.uc.pt/ceis20/conferencias/webinar-asilo-na-uniao-eu
  ocracy-for-you-in-the-eu/
 URL:https://lykeion.pt/e/20-11-26-webinar-asilo-na-uniao-europeia-governaca
  o-e-direit-a3737.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ibeb-no-19o-congresso-do-comite-portugues-da-ursi-com-direit-aa174-2026
+ -11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:IBEB no 19o Congresso do Comité Português da URSI com direito a p
+ rémio
+LOCATION:Instituto de Biofísica e Engenharia Biomédica (IBEB)
+DESCRIPTION:https://ibeb.ciencias.ulisboa.pt/ibeb-no-19o-congresso-do-comit
+ e-portugues-da-ursi-com-direito-a-premio/
+URL:https://lykeion.pt/e/ibeb-no-19o-congresso-do-comite-portugues-da-ursi-
+ com-direit-aa174.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-da-colecao-criminalia-estudos-de-ciencias-crimina-48056-2026

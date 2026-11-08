@@ -21,13 +21,26 @@ BEGIN:VEVENT
 UID:exposicao-tereza-arriaga-percursos-de-arte-e-vida-43d32-2026-11-08@lage
  nda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T110000
+DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição | Tereza Arriaga: Percursos de Arte e Vida
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-tereza-ar
  riaga-percursos-de-arte-e-vida/
 URL:https://lykeion.pt/e/exposicao-tereza-arriaga-percursos-de-arte-e-vida-
  43d32.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-tereza-arriaga-percursos-de-arte-e-vida-visita-gui-9aa20-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição ‘Tereza Arriaga: Percursos de Arte e Vida’ | Visita
+  guiada e Mesa-redonda 6 e 19 nov.
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/exposicao-tereza-arriaga-
+ percursos-de-arte-e-vida-visita-guiada-e-mesa-redonda-6-e-19-nov/
+URL:https://lykeion.pt/e/exposicao-tereza-arriaga-percursos-de-arte-e-vida-
+ visita-gui-9aa20.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ii-coloquio-index-collectiones-acores-a4fe5-2026-11-12@lagenda.pt

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:LNEG INIESC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:lneg-participa-no-forum-industrial-nacional-eu-solaris-b111c-2026-11-19
+ @lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:LNEG participa no Fórum Industrial Nacional EU-SOLARIS
+LOCATION:Infraestrutura Nacional de Investigação para Energia Solar de Co
+ ncentração\, Amadora
+DESCRIPTION:https://www.lneg.pt/forum-industrial-nacional-eu-solaris/
+URL:https://lykeion.pt/e/lneg-participa-no-forum-industrial-nacional-eu-sol
+ aris-b111c.html
+END:VEVENT
+END:VCALENDAR

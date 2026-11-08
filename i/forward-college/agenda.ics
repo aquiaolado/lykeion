@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Forward College (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinars-educating-students-for-tomorrow-s-ai-driven-workpla-ca966-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Webinars Educating students for tomorrow's AI-driven workplace 17 N
+ ov.
+LOCATION:Forward College
+DESCRIPTION:https://zoom.us/webinar/register/WN_eF-pGF0nSju6lV2rTh38rQ
+URL:https://lykeion.pt/e/webinars-educating-students-for-tomorrow-s-ai-driv
+ en-workpla-ca966.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinars-what-makes-forward-college-unique-02-dec-1722c-2026-11-17@lage
+ nda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Webinars What Makes Forward College Unique 02 Dec.
+LOCATION:Forward College
+DESCRIPTION:https://zoom.us/webinar/register/WN_NRoBxmVUQmqwn3RpGcvlBQ
+URL:https://lykeion.pt/e/webinars-what-makes-forward-college-unique-02-dec-
+ 1722c.html
+END:VEVENT
+END:VCALENDAR

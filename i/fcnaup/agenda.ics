@@ -7,13 +7,14 @@ X-WR-CALNAME:Faculdade de Ciências da Nutrição e da Alimentação da Uni
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:a-conversa-com-marion-nestle-64e5a-2026-11-13@lagenda.pt
+UID:a-conversa-com-marion-nestle-b7605-2026-11-13@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T100000
 SUMMARY:À Conversa com Marion Nestle
 LOCATION:Faculdade de Ciências da Nutrição e da Alimentação da Univers
  idade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/conversa-com-marion-nestle
-URL:https://lykeion.pt/e/a-conversa-com-marion-nestle-64e5a.html
+DESCRIPTION:https://sigarra.up.pt/fcnaup/pt/noticias_geral.ver_noticia?P_NR
+ =26265
+URL:https://lykeion.pt/e/a-conversa-com-marion-nestle-b7605.html
 END:VEVENT
 END:VCALENDAR

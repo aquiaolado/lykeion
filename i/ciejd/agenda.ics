@@ -6,6 +6,47 @@ X-WR-CALNAME:CIEJD (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:semana-europeia-da-igualdade-de-genero-4a48e-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Semana Europeia da Igualdade de Género
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/semana-europeia-da-igualdade
+ -de-genero
+URL:https://lykeion.pt/e/semana-europeia-da-igualdade-de-genero-4a48e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-mundial-da-ciencia-pela-paz-e-o-desenvolvimento-71bc3-2026-11-10@la
+ genda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Dia Mundial da Ciência pela Paz e o Desenvolvimento
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/dia-mundial-da-ciencia-pela-
+ paz-e-o-desenvolvimento
+URL:https://lykeion.pt/e/dia-mundial-da-ciencia-pela-paz-e-o-desenvolviment
+ o-71bc3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-da-independencia-da-polonia-51309-2026-11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Dia da Independência da Polónia
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/dia-da-independencia-da-polo
+ nia
+URL:https://lykeion.pt/e/dia-da-independencia-da-polonia-51309.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-dos-autores-europeus-4ac50-2026-11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Dia dos Autores Europeus
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/dia-dos-autores-europeus
+URL:https://lykeion.pt/e/dia-dos-autores-europeus-4ac50.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-sobre-o-futuro-da-europa-2-a-sessao-do-2-o-paine-a0553-2026
  -11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -54,6 +95,15 @@ DESCRIPTION:https://eurocid.mne.gov.pt/eventos/migracoes-e-parcerias-intern
  acionais-conferencia-sobre-o-futuro-da-europa
 URL:https://lykeion.pt/e/migracoes-e-parcerias-internacionais-conferencia-s
  obre-o-fut-92179.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cimeira-apply-ai-bd7b5-2026-11-17@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T073000
+SUMMARY:Cimeira Apply AI
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/cimeira-apply-ai
+URL:https://lykeion.pt/e/cimeira-apply-ai-bd7b5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-sobre-o-futuro-da-europa-2-a-sessao-do-3-o-paine-a0553-2026

@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Universidade Católica Portuguesa (Porto) (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:cerimonia-de-entrega-de-certificados-da-clinica-juridica-2c1f0-2026-11-
+ 10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T170000
+SUMMARY:Cerimónia de entrega de Certificados da Clínica Jurídica
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/cerimonia-de-entrega-de-certificad
+ os-da-clinica-juridica
+URL:https://lykeion.pt/e/cerimonia-de-entrega-de-certificados-da-clinica-ju
+ ridica-2c1f0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cege4all-markets-policy-seminar-af2d8-2026-11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T143000
+SUMMARY:CEGE4All: Markets & Policy Seminar
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/cege4all-markets-policy-seminar-ho
+ w-ecosystem-maturity-shapes-startup-success
+URL:https://lykeion.pt/e/cege4all-markets-policy-seminar-af2d8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-doutoramento-em-ciencia-e-tecnologia-das-artes-susp-33b22-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T143000
+SUMMARY:Prova de Doutoramento em Ciência e Tecnologia das Artes: “Suspen
+ der o Fluxo: O Dissentimento da Arte sob o Feitiço Digital
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/prova-de-doutoramento-em-ciencia-e
+ -tecnologia-das-artes-suspender-o-fluxo-o-dissentimento
+URL:https://lykeion.pt/e/prova-de-doutoramento-em-ciencia-e-tecnologia-das-
+ artes-susp-33b22.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-b85e2-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T093000
+SUMMARY:Seminário: A mobilidade transnacional dos trabalhadores e das empr
+ esas
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/seminario-mobilidade-transnacional
+ -dos-trabalhadores-e-das-empresas
+URL:https://lykeion.pt/e/seminario-a-mobilidade-transnacional-dos-trabalhad
+ ores-e-das-b85e2.html
+END:VEVENT
+END:VCALENDAR

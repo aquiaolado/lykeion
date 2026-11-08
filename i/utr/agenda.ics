@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UTR (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:17-a-sessao-do-programa-contigo-hard-fun-some-learnings-from-0acf8-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T163000
+SUMMARY:17.ª Sessão do Programa Contigo+ “Hard Fun: Some Learnings from
+  Olin College
+LOCATION:Unidade Tecnológica de Radioesterilização\, Boticas
+DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/17-a-sessao-do-programa-c
+ ontigo-hard-fun-some-learnings-from-olin-college/
+URL:https://lykeion.pt/e/17-a-sessao-do-programa-contigo-hard-fun-some-lear
+ nings-from-0acf8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-get-to-know-vodafone-everyone-connected-dd003-2026-11-18@lagenda
+ .pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T160000
+SUMMARY:Sessão “Get to Know | Vodafone — Everyone.Connected
+LOCATION:Unidade Tecnológica de Radioesterilização\, Boticas
+DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/sessao-get-to-know-vodafo
+ ne-everyone-connected/
+URL:https://lykeion.pt/e/sessao-get-to-know-vodafone-everyone-connected-dd0
+ 03.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tecnico-alumni-mentoring-evento-de-lancamento-ddfea-2026-11-19@lagenda.
+ pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T170000
+SUMMARY:Técnico Alumni Mentoring | Evento de Lançamento
+LOCATION:Unidade Tecnológica de Radioesterilização\, Boticas
+DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/tecnico-alumni-mentoring-
+ evento-de-lancamento/
+URL:https://lykeion.pt/e/tecnico-alumni-mentoring-evento-de-lancamento-ddfe
+ a.html
+END:VEVENT
+END:VCALENDAR

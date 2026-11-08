@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Escola Superior de Educação do Porto (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:apresentacao-do-livro-do-problema-do-galego-ao-galego-como-p-ff73a-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Apresentação do livro Do problema do Galego ao Galego como proble
+ ma na Faculdade de Educação da UTP
+LOCATION:Escola Superior de Educação do Porto\, Porto
+DESCRIPTION:https://www.ese.ipp.pt
+URL:https://lykeion.pt/e/apresentacao-do-livro-do-problema-do-galego-ao-gal
+ ego-como-p-ff73a.html
+END:VEVENT
+END:VCALENDAR

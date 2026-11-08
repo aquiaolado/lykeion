@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IDL (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:workshop-numerical-weather-prediction-in-portugal-2024-c47eb-2026-11-14
+ @lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Workshop: Numerical Weather Prediction in Portugal 2024
+LOCATION:Instituto Dom Luiz
+DESCRIPTION:https://idl.ciencias.ulisboa.pt/instituto-dom-luiz-news/worksho
+ p-numerical-weather-prediction-in-portugal-2024
+URL:https://lykeion.pt/e/workshop-numerical-weather-prediction-in-portugal-
+ 2024-c47eb.html
+END:VEVENT
+END:VCALENDAR

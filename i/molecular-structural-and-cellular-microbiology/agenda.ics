@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Molecular Structural and Cellular Microbiology (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:crosstalk-between-ribosome-biogenesis-and-the-stringent-resp-e3783-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T120000
+SUMMARY:Crosstalk between ribosome biogenesis and the stringent response pa
+ thways regulates bacterial cell growth
+LOCATION:Molecular Structural and Cellular Microbiology\, Oeiras
+DESCRIPTION:https://www.itqb.unl.pt/events/cryo-em-activities-at-nova-fct/
+URL:https://lykeion.pt/e/crosstalk-between-ribosome-biogenesis-and-the-stri
+ ngent-resp-e3783.html
+END:VEVENT
+BEGIN:VEVENT
+UID:introduction-to-image-analysis-course-8th-edition-5890b-2026-11-17@lage
+ nda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T040000
+SUMMARY:Introduction to Image Analysis Course – 8th Edition
+LOCATION:Molecular Structural and Cellular Microbiology\, Oeiras
+DESCRIPTION:https://www.itqb.unl.pt/events/introduction-to-image-analysis-c
+ ourse-8th-edition/
+URL:https://lykeion.pt/e/introduction-to-image-analysis-course-8th-edition-
+ 5890b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eco-evolutionary-dynamics-of-escherichia-coli-invasion-acros-0cbfe-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T110000
+SUMMARY:Eco-evolutionary dynamics of Escherichia coli invasion across human
+  gut microbiotas
+LOCATION:Molecular Structural and Cellular Microbiology\, Oeiras
+DESCRIPTION:https://www.itqb.unl.pt/events/eco-evolutionary-dynamics-of-esc
+ herichia-coli-invasion-across-human-gut-microbiotas/
+URL:https://lykeion.pt/e/eco-evolutionary-dynamics-of-escherichia-coli-inva
+ sion-acros-0cbfe.html
+END:VEVENT
+END:VCALENDAR

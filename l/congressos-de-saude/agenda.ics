@@ -45,6 +45,30 @@ URL:https://lykeion.pt/e/3as-jornadas-de-pediatria-da-pennsula-de-setbal-94
  f80.html
 END:VEVENT
 BEGIN:VEVENT
+UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
+ a.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
+LOCATION:Instituto Politécnico de Santarém\, Rio Maior
+DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
+ o-superior/
+URL:https://lykeion.pt/e/iii-jornadas-da-saude-mental-no-ensino-superior-d6
+ 9d4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
+ a.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
+LOCATION:Instituto Politécnico de Santarém\, Santarém
+DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
+ o-superior/
+URL:https://lykeion.pt/e/iii-jornadas-da-saude-mental-no-ensino-superior-d6
+ 9d4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:iv-jornadas-da-equipa-local-de-intervencao-santo-tirso-trofa-a2809-2026
  -11-11@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -67,6 +91,18 @@ DESCRIPTION:https://www.ulsmave.min-saude.pt/eventos/iv-jornadas-da-equipa-
  local-de-intervencao-santo-tirso-trofa/
 URL:https://lykeion.pt/e/iv-jornadas-da-equipa-local-de-intervencao-santo-t
  irso-trofa-a2809.html
+END:VEVENT
+BEGIN:VEVENT
+UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-b3ea8-2026-
+ 11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T090000
+SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
+LOCATION:Universidade Católica Portuguesa\, Porto
+DESCRIPTION:https://fep.porto.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de
+ -saude-mental-no-local-de-trabalho-65786
+URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
+ -trabalho-b3ea8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
@@ -95,7 +131,7 @@ UID:iii-congresso-do-algarve-de-alzheimer-e-outras-demencias-2867b-2026-11-
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:III Congresso do Algarve de Alzheimer e outras demências
-LOCATION:Casa de Odeleite\, Castro Marim
+LOCATION:Casa do Sal\, Castro Marim
 DESCRIPTION:https://cm-castromarim.pt/site/evento/iii-congresso-do-algarve-
  de-alzheimer-e-outras-demencias
 URL:https://lykeion.pt/e/iii-congresso-do-algarve-de-alzheimer-e-outras-dem
@@ -105,7 +141,7 @@ BEGIN:VEVENT
 UID:iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc2-2026-11-12@lagenda.
  pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T090000
+DTSTART;VALUE=DATE:20261112
 SUMMARY:IV Encontro dos Farmacêuticos da Distribuição
 LOCATION:Ordem dos Farmaceuticos
 DESCRIPTION:https://www.ordemfarmaceuticos.pt/pt/eventos/iv-encontro-dos-fa

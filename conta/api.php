@@ -172,6 +172,18 @@ try {
         $c = []; foreach (['q', 'fa', 'sub', 'area', 'inst', 'dist'] as $k) if (!empty($pq[$k])) $c[$k] = mb_substr((string)$pq[$k], 0, 80);
         if ($c) $ly['pesquisas'][] = $c;
       }
+      // os ecossistemas da pessoa (8/11/2026): listas suas de instituições («Sociologia em Portugal»), que podem partir de uma área fina
+      // (base: os centros da lista da sociedade científica), com instituições juntadas (inst) e tiradas (fora)
+      $lim = fn($xs, $n = 300) => array_slice(array_values(array_filter(array_map(fn($x) => mb_substr((string)$x, 0, 80), (array)$xs))), 0, $n);
+      $ly['ecos'] = [];
+      foreach (array_slice(array_values(array_filter((array)($l['ecos'] ?? []), 'is_array')), 0, 30) as $ec) {
+        $nome = trim(mb_substr((string)($ec['nome'] ?? ''), 0, 80)); if ($nome === '') continue;
+        $ly['ecos'][] = ['id' => preg_replace('/[^a-z0-9]/', '', mb_substr((string)($ec['id'] ?? ''), 0, 20)) ?: 'e' . count($ly['ecos']), 'nome' => $nome,
+                         'base' => mb_substr((string)($ec['base'] ?? ''), 0, 80), 'inst' => $lim($ec['inst'] ?? []), 'fora' => $lim($ec['fora'] ?? [])];
+      }
+      // «A minha área» (8/11/2026): a disposição que a pessoa escolheu (ordem dos blocos, os largos e os escondidos)
+      $d = (array)($l['disp'] ?? []); $ly['disp'] = [];
+      foreach (['ordem', 'largos', 'esc'] as $k) $ly['disp'][$k] = $lim($d[$k] ?? [], 30);
       $ly['avisos'] = !array_key_exists('avisos', $l) || !empty($l['avisos']); $ly['semanal'] = !array_key_exists('semanal', $l) || !empty($l['semanal']);
       $limpo['lyk'] = $ly;
     }

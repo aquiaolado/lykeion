@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Instituto CRIAP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinario-vitimas-e-dinamicas-relacionais-mitos-trauma-e-dep-05670-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T180000
+SUMMARY:Webinário Vítimas e dinâmicas relacionais: Mitos\, Trauma e Depe
+ ndência Emocional As dinâmicas relacionais marcadas por violência\, con
+ trolo\, manipulação ou dependência emocional podem dificultar o reco
+LOCATION:Instituto CRIAP\, Porto
+DESCRIPTION:https://www.institutocriap.com/evento/webinario/vitimas-e-dinam
+ icas-relacionais-mitos-trauma-e-dependencia-emocional
+URL:https://lykeion.pt/e/webinario-vitimas-e-dinamicas-relacionais-mitos-tr
+ auma-e-dep-05670.html
+END:VEVENT
+END:VCALENDAR

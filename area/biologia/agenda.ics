@@ -78,7 +78,7 @@ UID:provas-de-mestrado-em-biologia-marinha-1c504-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:Provas de Mestrado em Biologia Marinha
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+LOCATION:Centro de Investigação em Biomedicina\, Faro
 DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-biologia-marinha-315
 URL:https://lykeion.pt/e/provas-de-mestrado-em-biologia-marinha-1c504.html
 END:VEVENT
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 UID:seminario-de-enfermagem-veterinaria-fisioterapia-veterinaria-bacbb-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T160000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Seminário de Enfermagem Veterinária: Fisioterapia Veterinária 
  – Aplicações em Diferentes Espécies
 LOCATION:Instituto Politécnico de Bragança\, Bragança
@@ -129,13 +129,27 @@ URL:https://lykeion.pt/e/seminario-de-enfermagem-veterinaria-fisioterapia-v
  eterinaria-bacbb.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-11@lagenda.pt
+UID:seminario-soil-values-in-the-climate-change-era-challenges-a-fb6d2-2026
+ -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T094500
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Seminário: Soil Values in the Climate Change Era: Challenges and O
+ pportunities
+LOCATION:Universidade NOVA de Lisboa
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/soil-values-in-the-climate-chan
+ ge-era-challenges-and-opportunities/
+URL:https://lykeion.pt/e/seminario-soil-values-in-the-climate-change-era-ch
+ allenges-a-fb6d2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T120000
 SUMMARY:2.ª Conferência Anual do NOVA Green Lab
-LOCATION:NOVA School of Law
-DESCRIPTION:https://novalaw.unl.pt/2-a-conferencia-anual-do-nova-green-lab/
-URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-f78ee.html
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-a-conferencia-anual-do-n
+ ova-green-lab
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-21c63.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-a-fauna-e-flora-terrestre-e-marinha-130a4-2026-11-11@lagenda.p
@@ -180,6 +194,16 @@ DESCRIPTION:https://estsetubal.unips.pt/eventos/seminario-instrumentacao-e-
  ca/
 URL:https://lykeion.pt/e/seminario-instrumentacao-e-sequenciacao-de-nova-ge
  racao-ngs-9ddcf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-influenciar-para-conservar-c839d-2026-11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T183000
+SUMMARY:Workshop “Influenciar para Conservar
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/workshop-influenciar-para-conservar-
+ 3/
+URL:https://lykeion.pt/e/workshop-influenciar-para-conservar-c839d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24o-congresso-portugues-de-obstetricia-e-ginecologia-fspog-e3a10-2026-1
@@ -253,7 +277,7 @@ BEGIN:VEVENT
 UID:xxv-congresso-nacional-de-grupanalise-e-psicoterapia-analiti-a15f1-2026
  -11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T080000
+DTSTART;VALUE=DATE:20261112
 SUMMARY:XXV Congresso Nacional de Grupanálise e Psicoterapia Analítica de
   Grupo
 LOCATION:Sociedade Portuguesa de Grupanálise e Psicoterapia Analítica de 
@@ -273,6 +297,19 @@ LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
 DESCRIPTION:https://www.iscac.pt/eventos/webinar-alteracoes-impactos-da-nov
  a-iso-90012026-e-iso-140012026/
 URL:https://lykeion.pt/e/plataforma-teams-webinar-f8a92.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sara-vitorino-fernandez-investigadora-do-ciac-participa-na-c-8619f-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Sara Vitorino Fernandez\, investigadora do CIAC\, participa na conf
+ erência “No Nations: Punks without Borders
+LOCATION:Centro de Investigação em Artes e Comunicação\, Faro
+DESCRIPTION:https://ciac.pt/sem-categoria/sara-vitorino-fernandez-investiga
+ dora-do-ciac-participa-na-conferencia-no-nations-punks-without-borders/
+URL:https://lykeion.pt/e/sara-vitorino-fernandez-investigadora-do-ciac-part
+ icipa-na-c-8619f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xxi-congresso-aeffup-72db4-2026-11-13@lagenda.pt
@@ -315,6 +352,21 @@ LOCATION:Instituto de Investigação em Ciências do Mar Okeanos\, Horta
 DESCRIPTION:https://okeanos.uac.pt/event-38
 URL:https://lykeion.pt/e/15-oct-2026-live-sos-cagarro-campaign-do-you-know-
  what-to-do-93f52.html
+END:VEVENT
+BEGIN:VEVENT
+UID:announcement-for-the-award-of-a-post-doctoral-research-fello-d6560-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Announcement for the award of a Post-Doctoral Research Fellowship 
+ – BIPD/ToDeFuture-CBMA/2026
+LOCATION:Centro de Biologia Molecular e Ambiental\, Braga
+DESCRIPTION:https://cbma.uminho.pt/announcement-for-the-award-of-a-post-doc
+ toral-research-fellowship-bipd-todefuture-cbma-2026/?utm_source=rss&#038\,
+ utm_medium=rss&#038\,utm_campaign=announcement-for-the-award-of-a-post-doc
+ toral-research-fellowship-bipd-todefuture-cbma-2026
+URL:https://lykeion.pt/e/announcement-for-the-award-of-a-post-doctoral-rese
+ arch-fello-d6560.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bruxelas-ciclo-de-conferencias-regards-croises-sur-la-langue-6fb40-2026
@@ -475,6 +527,28 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/iv-conferencia-anual-do-no
 URL:https://lykeion.pt/e/iv-conferencia-anual-do-nova-bhre-09c38.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ix-jornadas-de-restauro-fluvial-7ad62-2026-11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T100000
+SUMMARY:IX Jornadas de Restauro Fluvial
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/ix-jornadas-de-restauro-fluvial/
+URL:https://lykeion.pt/e/ix-jornadas-de-restauro-fluvial-7ad62.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
+ 11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T141500
+SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
+ a às Ciências da Saúde
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84254
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-biotecnologia-molecular-
+ e-celular-fbc57.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-aero2cycle-co-desenho-de-solucoes-de-valorizacao-de-8cb31-2026
  -11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -498,6 +572,19 @@ LOCATION:Escola Superior de Saúde Cruz Vermelha Portuguesa - Alto Tâmega\
 DESCRIPTION:https://esscvpaltotamega.pt/ver/eventos/i-encontro-cientifico-e
  m-neonatologia
 URL:https://lykeion.pt/e/i-encontro-cientifico-em-neonatologia-c07fb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T163000
+SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
+ ns d’animaux dans les imprimés du XVIe siècle
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/inauguracao-da-exposicao-la-faun
+ e-des-voyageurs-illustrations-danimaux-dans-les-imprimes-du-xvie-siecle/
+URL:https://lykeion.pt/e/inauguracao-da-exposicao-la-faune-des-voyageurs-il
+ lustration-7bc58.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-tiago-miguel-costa-nunes-pinto-2f962-2026-11-

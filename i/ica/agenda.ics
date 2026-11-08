@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ICA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:conferencia-em-lisboa-reune-profissionais-e-instituicoes-do-bc462-2026-
+ 11-09@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T173000
+SUMMARY:Conferência em Lisboa reúne profissionais e instituições do set
+ or da CPLP
+LOCATION:Instituto do Cinema e do Audiovisual
+DESCRIPTION:http://www.ica-ip.pt/pt/noticias/conferencia-em-lisboa-reune-pr
+ ofissionais-e-instituicoes-do-setor-da-cplp/
+URL:https://lykeion.pt/e/conferencia-em-lisboa-reune-profissionais-e-instit
+ uicoes-do-bc462.html
+END:VEVENT
+END:VCALENDAR

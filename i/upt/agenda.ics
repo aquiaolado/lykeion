@@ -6,6 +6,20 @@ X-WR-CALNAME:UPT (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:viii-congresso-internacional-de-politicas-publicas-e-desenvo-c3db1-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T180000
+SUMMARY:VIII Congresso Internacional de Políticas Públicas e Desenvolvime
+ nto Social
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/congresso-internacional-de-politicas-publica
+ s-e-desenvolvimento-social/?utm_source=rss&#038\,utm_medium=rss&#038\,utm_
+ campaign=criatividade-e-turismo-sustentavel
+URL:https://lykeion.pt/e/viii-congresso-internacional-de-politicas-publicas
+ -e-desenvo-c3db1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
  -11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -85,19 +99,6 @@ DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-478/
 URL:https://lykeion.pt/e/prova-publica-de-mestrado-47410.html
 END:VEVENT
 BEGIN:VEVENT
-UID:viii-congresso-internacional-de-politicas-publicas-e-desenvo-cc2ca-2026
- -11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T180000
-SUMMARY:VIII Congresso Internacional de Políticas Públicas e Desenvolvime
- nto Social
-LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/viii-congresso-internacional-de-polit
- icas-publicas-e-desenvolvimento-social-2/
-URL:https://lykeion.pt/e/viii-congresso-internacional-de-politicas-publicas
- -e-desenvo-cc2ca.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
  -17@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -108,5 +109,20 @@ DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese
  nvolvimento-regional/
 URL:https://lykeion.pt/e/seminario-criatividade-turismo-e-desenvolvimento-r
  egional-6c9fc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:universidade-portucalense-promove-workshop-sobre-iot-na-cons-34ee2-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Universidade Portucalense promove workshop sobre IoT na Construçã
+ o
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/newsletter/destaques-outubro-2026/universida
+ de-portucalense-promove-workshop-sobre-iot-na-construcao/?utm_source=rss&#
+ 038\,utm_medium=rss&#038\,utm_campaign=universidade-portucalense-promove-w
+ orkshop-sobre-iot-na-construcao
+URL:https://lykeion.pt/e/universidade-portucalense-promove-workshop-sobre-i
+ ot-na-cons-34ee2.html
 END:VEVENT
 END:VCALENDAR

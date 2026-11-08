@@ -8,11 +8,36 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:exposicao-linhas-de-tensao-85621-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T180000
+DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição Linhas de Tensão
 LOCATION:Politécnico do Porto\, Porto
 DESCRIPTION:https://centrodecultura.ipp.pt/evento/exposicao-linhas-de-tensa
  o/
 URL:https://lykeion.pt/e/exposicao-linhas-de-tensao-85621.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-do-problema-do-galego-ao-galego-como-p-ff73a-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Apresentação do livro Do problema do Galego ao Galego como proble
+ ma na Faculdade de Educação da UTP
+LOCATION:Escola Superior de Educação do Porto\, Porto
+DESCRIPTION:https://www.ese.ipp.pt
+URL:https://lykeion.pt/e/apresentacao-do-livro-do-problema-do-galego-ao-gal
+ ego-como-p-ff73a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iscap-e-cei-acolhem-a-segunda-reuniao-internacional-do-proje-847bc-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:ISCAP e CEI acolhem a segunda reunião internacional do projeto Sci
+ Art
+LOCATION:ISCAP – Instituto Superior de Contabilidade e Administração do
+  Porto\, Matosinhos
+DESCRIPTION:https://www.iscap.ipp.pt
+URL:https://lykeion.pt/e/iscap-e-cei-acolhem-a-segunda-reuniao-internaciona
+ l-do-proje-847bc.html
 END:VEVENT
 END:VCALENDAR

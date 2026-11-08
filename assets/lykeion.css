@@ -250,3 +250,34 @@ body.lyk{
 .lyk .lyk-res-dia .li .dir .tag:not(:first-child){display:none}
 @media(min-width:900px){.lyk .lyk-res-dia{column-count:2;column-gap:2rem}.lyk .lyk-res-dia .lyk-cab{column-span:all}.lyk .lyk-res-dia .li{break-inside:avoid}}
 .lyk #academia>.lyk-numeros{margin-top:1rem}
+/* «A minha área» e os ecossistemas (8/11/2026): blocos que a pessoa ordena, alarga e esconde */
+.lyk .lyk-eco-menu{border:1px solid var(--linha);border-radius:10px;padding:.7rem .9rem;margin:.4rem 0 .6rem;background:var(--cartao);max-width:560px}
+.lyk .lyk-eco-menu .chk{display:flex;gap:.5rem;align-items:flex-start;margin:.35rem 0}
+.lyk .lyk-eco-menu .linha,.lyk .ma-eco-novo{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.5rem}
+.lyk .lyk-eco-menu input:not([type]),.lyk .ma-eco-novo input,.lyk .ma-ren input{flex:1 1 12rem;min-width:0}
+.lyk .ma-topo{display:flex;justify-content:space-between;align-items:center;gap:.8rem;flex-wrap:wrap;margin:0 0 1rem}
+.lyk .ma-grade{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.4rem 1.6rem;align-items:start}
+@media(max-width:760px){.lyk .ma-grade{grid-template-columns:minmax(0,1fr)}}
+.lyk .ma-largo{grid-column:1/-1}
+.lyk .ma-editar .ma-bloco{background:var(--cartao);border-radius:0 0 10px 10px;padding:0 .7rem .7rem;outline:1px dashed var(--linha)}
+.lyk .ma-editar .ma-esc{opacity:.55}
+.lyk .ma-ctl{display:flex;gap:.25rem;flex-wrap:wrap}
+.lyk .ma-b{border:1px solid var(--linha);background:var(--papel);color:var(--tinta);border-radius:6px;font:500 .8rem var(--f-texto,inherit);padding:.2rem .5rem;cursor:pointer}
+.lyk .ma-b:hover{border-color:var(--cobalto)}
+.lyk .ma-lista{list-style:none;padding:0;margin:0}
+.lyk .ma-lista li{display:flex;gap:.8rem;padding:.45rem 0;border-bottom:1px solid var(--linha);min-width:0}
+.lyk .ma-dia{flex:0 0 4.6rem;font:600 .8rem/1.35 var(--f-hora,inherit);color:var(--legenda);font-variant-numeric:tabular-nums}
+.lyk .ma-tx{min-width:0;display:flex;flex-direction:column}
+.lyk .ma-tx a{font-weight:600;text-decoration:none;color:var(--tinta)}.lyk .ma-tx a:hover{text-decoration:underline}
+.lyk .ma-tx small{color:var(--suave)}
+.lyk .ma-eco{border:1px solid var(--linha);border-radius:10px;padding:.6rem .8rem;margin-bottom:.6rem}
+.lyk .ma-eco-cab{display:flex;justify-content:space-between;gap:.6rem;flex-wrap:wrap;align-items:baseline}
+.lyk .ma-eco-cab b{font:600 1rem var(--f-titulo)}
+.lyk .ma-eco p{margin:.35rem 0}.lyk .ma-eco summary{cursor:pointer;font-size:.9rem;margin-top:.3rem}
+.lyk .ma-eco-acoes{font-size:.85rem}
+.lyk .ma-ch{display:inline-flex;align-items:center;gap:.25rem;margin:.15rem .1rem}
+.lyk .ma-ch a{text-decoration:none;color:inherit}
+.lyk .ma-x{border:0;background:none;color:var(--suave);cursor:pointer;font-size:1rem;line-height:1;padding:0 .1rem}
+.lyk .ma-x:hover{color:var(--legenda)}
+.lyk .ma-bloco .chk{display:block;margin:.3rem 0}
+.lyk [data-eco-base],.lyk [data-eco-inst],.lyk [data-seguir-area],.lyk [data-seguir-inst]{margin-block:.2rem}

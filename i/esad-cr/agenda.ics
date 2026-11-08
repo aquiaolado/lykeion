@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Escola Superior de Artes e Design das Caldas da Rainha (Lykeio
+ n)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:care-workshop-conferencia-e-exposicao-na-esad-cr-9-13-nov-32123-2026-11
+ -09@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:CARE | Workshop\, Conferência e Exposição na ESAD.CR | 9-13 nov.
+LOCATION:Escola Superior de Artes e Design das Caldas da Rainha
+DESCRIPTION:https://institutodehistoriadaarte.com/care-workshop-conferencia
+ -exposicao-na-esad-cr-9-13-nov/
+URL:https://lykeion.pt/e/care-workshop-conferencia-e-exposicao-na-esad-cr-9
+ -13-nov-32123.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-care-contemporary-arts-activism-for-reproductive-dd648-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T143000
+SUMMARY:Conferência: Care - Contemporary Arts Activism For Reproductive He
+ althcare
+LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
+  Rainha
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/10/28/care-esad-cr/
+URL:https://lykeion.pt/e/conferencia-care-contemporary-arts-activism-for-re
+ productive-dd648.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3o-encontro-rpac-31123-2026-11-13@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:3o Encontro RPAC
+LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
+  Rainha
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/05/3o-encontro-rpac/
+URL:https://lykeion.pt/e/3o-encontro-rpac-31123.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-arte-contemporanea-um-bem-comum-d586d-2026-11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Encontro: Arte Contemporânea - UM BEM COMUM
+LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
+  Rainha
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/05/3o-encontro-rpac/
+URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-d586d.htm
+ l
+END:VEVENT
+END:VCALENDAR

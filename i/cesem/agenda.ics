@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:49-o-aniversario-da-nova-fcsh-249a9-2026-11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T110000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:49.º Aniversário da Nova Fcsh
 LOCATION:Centro de Estudos em Música\, Campolide
 DESCRIPTION:https://cesem.fcsh.unl.pt/event/aniversarionovafcsh/
@@ -41,19 +41,6 @@ DESCRIPTION:https://cesem.fcsh.unl.pt/event/por-ocasiao-da-estreia-moderna-
  es/
 URL:https://lykeion.pt/e/por-ocasiao-da-estreia-moderna-de-obra-prima-de-ni
  ccolo-jomm-07a14.html
-END:VEVENT
-BEGIN:VEVENT
-UID:xvi-encontro-internacional-arte-para-a-infancia-e-desenvolvi-56958-2026
- -11-14@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T110000
-SUMMARY:XVI Encontro Internacional Arte para a Infância e Desenvolvimento 
- Social e Humano
-LOCATION:Centro de Estudos em Música\, Avenidas Novas
-DESCRIPTION:https://cesem.fcsh.unl.pt/event/xvi-encontro-internacional-arte
- -para-a-infancia-e-desenvolvimento-social-e-humano/
-URL:https://lykeion.pt/e/xvi-encontro-internacional-arte-para-a-infancia-e-
- desenvolvi-56958.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026

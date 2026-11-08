@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:LPC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:pj-organiza-conferencia-dedicada-a-criminalidade-sexual-6a214-2026-11-1
+ 0@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:PJ organiza conferência dedicada à criminalidade sexual
+LOCATION:Laboratório de Polícia Científica
+DESCRIPTION:https://www.policiajudiciaria.pt/pj-organiza-conferencia-dedica
+ da-a-criminalidade-sexual/
+URL:https://lykeion.pt/e/pj-organiza-conferencia-dedicada-a-criminalidade-s
+ exual-6a214.html
+END:VEVENT
+END:VCALENDAR

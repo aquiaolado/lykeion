@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:BRU-Iscte (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:bru-iscte-seed-funding-round-2-closes-on-15-november-8b096-2026-11-15@l
+ agenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:BRU-Iscte Seed Funding – Round 2 closes on 15 November
+LOCATION:Unidade de Investigação em Desenvolvimento Empresarial
+DESCRIPTION:https://bru.iscte-iul.pt/bru-iscte-seed-funding-round-2-closes-
+ on-november-15/
+URL:https://lykeion.pt/e/bru-iscte-seed-funding-round-2-closes-on-15-novemb
+ er-8b096.html
+END:VEVENT
+END:VCALENDAR

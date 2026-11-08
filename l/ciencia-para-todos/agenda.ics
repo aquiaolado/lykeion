@@ -139,6 +139,16 @@ DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/astronomia
 URL:https://lykeion.pt/e/em-pleno-dia-astronomia-80418.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-e4318-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição
+LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
+ 48630
+URL:https://lykeion.pt/e/exposicao-e4318.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-a9a54-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
@@ -173,9 +183,27 @@ URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
  de-formas-ab38b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-alexandre-estrela-415e2-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição Alexandre Estrela
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13478&lang=pt
+URL:https://lykeion.pt/e/exposicao-alexandre-estrela-415e2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-ana-vieira-f26d1-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição Ana Vieira
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13334&lang=pt
+URL:https://lykeion.pt/e/exposicao-ana-vieira-f26d1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-linhas-de-tensao-85621-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T180000
+DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição Linhas de Tensão
 LOCATION:Politécnico do Porto\, Porto
 DESCRIPTION:https://centrodecultura.ipp.pt/evento/exposicao-linhas-de-tensa
@@ -221,7 +249,7 @@ BEGIN:VEVENT
 UID:exposicao-tereza-arriaga-percursos-de-arte-e-vida-43d32-2026-11-08@lage
  nda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T110000
+DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição | Tereza Arriaga: Percursos de Arte e Vida
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-tereza-ar
@@ -241,6 +269,15 @@ DESCRIPTION:https://www.up.pt/eventos/event/exposicao-jogos-da-macaca-jorge
  -pinheiro-e-a-vida
 URL:https://lykeion.pt/e/exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-
  la-fora-at-88fbc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-peace-of-mind-21e26-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição «Peace of Mind»
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
+URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
@@ -265,6 +302,27 @@ DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
  erpretacoes-da-escrita-a-setima-arte/
 URL:https://lykeion.pt/e/exposicao-reinterpretacoes-da-escrita-a-setima-art
  e-cb00e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-por-dentro-do-barroco-no-museu-diocesano-de-lamego-60168-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T080000
+SUMMARY:Exposição «por Dentro do Barroco» no Museu Diocesano de Lamego
+LOCATION:Museu de Lamego\, Lamego
+DESCRIPTION:https://museudelamego.gov.pt/exposicao-por-dentro-do-barroco-no
+ -museu-diocesano-de-lamego/
+URL:https://lykeion.pt/e/exposicao-por-dentro-do-barroco-no-museu-diocesano
+ -de-lamego-60168.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-angela-ferreira-8078e-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição Ângela Ferreira
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13466&lang=pt
+URL:https://lykeion.pt/e/exposicao-angela-ferreira-8078e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
@@ -302,6 +360,19 @@ LOCATION:Centro de Estudos Ibéricos\, Guarda
 DESCRIPTION:https://www.cei.pt/ca-o/
 URL:https://lykeion.pt/e/exposicao-olhares-a-proposito-do-dia-mundial-da-fo
  tografia-3ca51.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-transversalidades-fotografia-sem-fronteiras-2025-v-94aa5-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T163000
+SUMMARY:Exposição “Transversalidades – Fotografia sem Fronteiras 2025
+ ” Vila do Conde
+LOCATION:Centro de Estudos Ibéricos\, Guarda
+DESCRIPTION:https://www.cei.pt/exposicao-transversalidades-fotografia-sem-f
+ ronteiras-2025-vila-do-conde/
+URL:https://lykeion.pt/e/exposicao-transversalidades-fotografia-sem-frontei
+ ras-2025-v-94aa5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-anatomia-de-um-sentimento-de-bruno-vieira-6db46-2026-11-08@la
@@ -737,6 +808,19 @@ DESCRIPTION:https://www.arditi.pt/pt/noticias/drones-do-sentinela-atlantica
  -em-exposicao-no-evento-de-inovacao-do-exercito.html
 URL:https://lykeion.pt/e/drones-do-sentinela-atlantica-em-exposicao-no-even
  to-de-inov-b0e3e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T163000
+SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
+ ns d’animaux dans les imprimés du XVIe siècle
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/inauguracao-da-exposicao-la-faun
+ e-des-voyageurs-illustrations-danimaux-dans-les-imprimes-du-xvie-siecle/
+URL:https://lykeion.pt/e/inauguracao-da-exposicao-la-faune-des-voyageurs-il
+ lustration-7bc58.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ulo-promove-open-day-industry-20741-2026-11-20@lagenda.pt

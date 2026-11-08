@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CiB (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:pampilhosa-da-serra-acolhe-i-congresso-internacional-do-medr-1ab0a-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Pampilhosa da Serra acolhe I Congresso Internacional do Medronheiro
+  e do Medronho
+LOCATION:Centro de Informação de Biotecnologia\, Oeiras
+DESCRIPTION:https://cibpt.org/2026/10/28/pampilhosa-da-serra-acolhe-i-congr
+ esso-internacional-do-medronheiro-e-do-medronho/
+URL:https://lykeion.pt/e/pampilhosa-da-serra-acolhe-i-congresso-internacion
+ al-do-medr-1ab0a.html
+END:VEVENT
+END:VCALENDAR
