@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPN (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:reuniao-de-outono-do-grupo-de-estudos-de-esclerose-multipla-01e02-2026-
+ 11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Reunião de Outono do Grupo de Estudos de Esclerose Múltipla (GEEM
+ )
+LOCATION:Sociedade Portuguesa de Neurologia\, Matosinhos
+DESCRIPTION:http://www.spneurologia.com/evento/reuniao-de-outono-do-grupo-d
+ e-estudos-de-esclerose/530
+URL:https://lykeion.pt/e/reuniao-de-outono-do-grupo-de-estudos-de-esclerose
+ -multipla-01e02.html
+END:VEVENT
+END:VCALENDAR

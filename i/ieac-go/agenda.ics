@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IEAC-GO (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:save-the-date-010b1-2026-11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Save the date
+LOCATION:Instituto de Estudos Avançados em Catolicismo e Globalização\, 
+ Oeiras
+DESCRIPTION:https://ieacgo.pt/save-the-date-21-de-novembro-de-2026-simposio
+ -debate-atualidade-do-pensamento-e-da-obra-do-padre-manuel-formigao/
+URL:https://lykeion.pt/e/save-the-date-010b1.html
+END:VEVENT
+END:VCALENDAR

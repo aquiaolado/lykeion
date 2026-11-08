@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:card-accessible-link-e4efc-2026-11-12@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Card accessible link
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
@@ -17,7 +17,7 @@ URL:https://lykeion.pt/e/card-accessible-link-e4efc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conversa-de-sofa-sobre-ia-e-saude-mental-e4efc-2026-11-12@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Conversa de Sofá\, sobre IA e Saúde Mental
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:15th-biennale-of-european-towns-and-town-planners-b8afc-2026-11-13@lage
  nda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:15th Biennale of European Towns and Town Planners
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
@@ -40,12 +40,21 @@ URL:https://lykeion.pt/e/15th-biennale-of-european-towns-and-town-planners-
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-city-hackathon-unite-widening-2026-a60d3-2026-11-20@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T083000
 SUMMARY:Tri-City Hackathon - Unite! Widening 2026
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/tri-city-hackathon-unite-wide
  ning-2026
 URL:https://lykeion.pt/e/tri-city-hackathon-unite-widening-2026-a60d3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-arquitetura-paisagista-0bd9a-2026-11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Conferencia Arquitetura Paisagista
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/conferencia
+URL:https://lykeion.pt/e/conferencia-arquitetura-paisagista-0bd9a.html
 END:VEVENT
 END:VCALENDAR

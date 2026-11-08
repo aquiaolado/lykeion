@@ -6,23 +6,9 @@ X-WR-CALNAME:IST (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:webinar-como-pesquisar-e-recuperar-recursos-de-informacao-co-91508-2026
- -11-07@lagenda.pt
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=Europe/Lisbon:20261107T153000
-SUMMARY:Webinar – Como pesquisar e recuperar recursos de informação com
-  a Biblioteca do Conhecimento Online (b-on) – via Zoom meeting
-LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-pesquisar
- -e-recuperar-recursos-de-informacao-com-a-biblioteca-do-conhecimento-onlin
- e-b-on-via-zoom-meeting/
-URL:https://lykeion.pt/e/webinar-como-pesquisar-e-recuperar-recursos-de-inf
- ormacao-co-91508.html
-END:VEVENT
-BEGIN:VEVENT
 UID:formacao-introducao-ao-mendeley-via-zoom-meeting-2dd7e-2026-11-08@lagen
  da.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T100000
 SUMMARY:Formação – Introdução ao Mendeley – via Zoom meeting
 LOCATION:Instituto Superior Técnico
@@ -34,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-mendeley-revisitado-descubra-o-novo-mendeley-referen-df43a-2026
  -11-13@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T153000
 SUMMARY:Webinar – Mendeley revisitado: descubra o novo Mendeley Reference
   Manager – via Zoom meeting
@@ -47,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-introducao-ao-zotero-via-zoom-meeting-ecfd9-2026-11-19@lagenda
  .pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T100000
 SUMMARY:Formação – Introdução ao Zotero – via Zoom meeting
 LOCATION:Instituto Superior Técnico
@@ -59,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tropical-talks-researchers-for-the-future-universidade-de-li-19d0c-2026
  -11-20@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Tropical Talks “Researchers for the future” – Universidade de
   Lisboa
@@ -72,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-publicacao-de-comunicacao-cientifica-ferramentas-via-6f6c6-2026
  -11-20@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T100000
 SUMMARY:Webinar – Publicação de comunicação científica: ferramentas 
  – via Zoom meeting
@@ -81,5 +67,18 @@ DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-publicacao-de-
  comunicacao-cientifica-ferramentas-via-zoom-meeting-2/
 URL:https://lykeion.pt/e/webinar-publicacao-de-comunicacao-cientifica-ferra
  mentas-via-6f6c6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-publicacao-de-comunicacao-cientifica-web-of-science-6f6c6-2026-
+ 11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T100000
+SUMMARY:Webinar – Publicação de comunicação científica: Web of Scien
+ ce – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-publicacao-de-
+ comunicacao-cientifica-web-of-science-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-publicacao-de-comunicacao-cientifica-web-o
+ f-science-6f6c6.html
 END:VEVENT
 END:VCALENDAR

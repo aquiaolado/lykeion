@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:identificacao-de-riscos-no-armazenamento-de-produtos-quimico-1345f-2026
  -11-10@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Identificação de Riscos no Armazenamento de Produtos Químicos Pe
  rigosos
@@ -20,7 +20,7 @@ URL:https://lykeion.pt/e/identificacao-de-riscos-no-armazenamento-de-produt
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-2775d-2026-11-18@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T133000
 SUMMARY:Seminário
 LOCATION:Centro de Ciências do Mar do Algarve\, Faro
@@ -30,7 +30,7 @@ URL:https://lykeion.pt/e/seminario-2775d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xxx-encontro-galego-portugues-de-quimica-cff0b-2026-11-18@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:XXX Encontro Galego-Portugués de Química
 LOCATION:Sociedade Portuguesa de Química
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-aero2cycle-co-desenho-de-solucoes-de-valorizacao-de-8cb31-2026
  -11-19@lagenda.pt
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T100000
 SUMMARY:Workshop AERO2cycle: Co-desenho de soluções de valorização de C
  O2 industrial
@@ -51,5 +51,15 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/workshop-aero2cy
  cle-co-desenho-de-solucoes-de-valorizacao-de-co-industrial
 URL:https://lykeion.pt/e/workshop-aero2cycle-co-desenho-de-solucoes-de-valo
  rizacao-de-8cb31.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-cultura-cientifica-4c823-2026-11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T110000
+SUMMARY:Semana da Cultura Científica
+LOCATION:Fábrica de Moagem da Antiga Manutenção Militar
+DESCRIPTION:https://www.agendalx.pt/events/event/semana-da-cultura-cientifi
+ ca-2/
+URL:https://lykeion.pt/e/semana-da-cultura-cientifica-4c823.html
 END:VEVENT
 END:VCALENDAR

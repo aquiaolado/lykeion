@@ -55,10 +55,15 @@ $h = fn($s) => htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8');
 
 try {
   header('Content-Type: text/html; charset=utf-8'); header('Cache-Control: no-store'); header('X-Robots-Tag: noindex');
-  $topo = '<!doctype html><html lang="pt-PT"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>Propor um evento · Lykeion</title>'
-    . '<body style="font:16px/1.5 Arial,sans-serif;max-width:760px;margin:30px auto;padding:0 16px;color:#1D2A23;background:#F3EFE6">'
-    . '<div style="font:400 28px Georgia,serif"><a href="' . $URL . '" style="color:inherit;text-decoration:none;border-bottom:3px solid #B4532A">Lykeion</a></div>';
-  $fim = '</body></html>';
+  // 7/11/2026 (Paulo: «uniformizar tudo no site»): o mesmo cabeçalho, tipos de letra e cores das outras páginas do Lykeion
+  $topo = '<!doctype html><html lang="pt-PT"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>Propor um evento · Lykeion</title>'
+    . '<link rel="icon" href="' . $URL . 'assets/marca/lykeion/icone.svg" type="image/svg+xml"><meta name="theme-color" content="#1F4E3D">'
+    . '<link rel="stylesheet" href="' . $URL . 'assets/fontes.css"><link rel="stylesheet" href="' . $URL . 'assets/lagenda.css"><link rel="stylesheet" href="' . $URL . 'assets/lykeion.css">'
+    . '<style>.lyk-form label{display:block;margin:14px 0 4px;font-weight:600}.lyk-form table td,.lyk-form table th{border-bottom:1px solid var(--linha);padding:6px 4px;text-align:left}.lyk main{border-image:linear-gradient(var(--faixa),var(--papel) 18rem) fill 0//0 100vmax}.lyk-form div[style*="grid-template-columns:1fr 1fr 1fr"]{grid-template-columns:repeat(auto-fit,minmax(140px,1fr))!important}</style></head>'
+    . '<body class="lyk"><header class="barra lyk-barra"><div class="mol bin"><a class="marca lyk-marca" href="' . $URL . '">' . (@file_get_contents(__DIR__ . '/../assets/marca/lykeion/cabecalho.svg') ?: 'Lykeion') . '</a>'
+    . '<nav class="menu"><a class="lyk-so-pc" href="' . $URL . '">Início</a><a class="lyk-so-pc" href="' . $URL . 'listas/">Áreas</a><a class="lyk-so-pc" href="' . $URL . 'instituicoes/">Instituições</a><a class="lyk-so-pc" href="' . $URL . 'chamadas/">Chamadas</a></nav></div></header>'
+    . '<main><div class="mol lyk-form" style="max-width:760px;padding-block:1.4rem 2.4rem">';
+  $fim = '</div></main></body></html>';
 
   // ---- links pessoais das instituições (para a gestão) ----
   if (isset($_GET['links'])) {
@@ -67,10 +72,10 @@ try {
         enviar_email($CFG['email_avisos'], '[Lykeion] Links das instituições', "Para ver e copiar o link pessoal de cada instituição:\n{$URL}conta/propor.php?links&k=" . chave_links() . "\n", '', 'Lykeion');
         exit($topo . '<p>Enviado para o email da gestão.</p>' . $fim);
       }
-      exit($topo . '<h1 style="font:400 26px Georgia,serif">Links das instituições</h1><form method="post"><p>O link para esta lista vai para o email da gestão.</p><button style="padding:10px 16px">Enviar</button></form>' . $fim);
+      exit($topo . '<h1>Links das instituições</h1><form method="post"><p>O link para esta lista vai para o email da gestão.</p><button style="padding:10px 16px">Enviar</button></form>' . $fim);
     }
     $I = acad()['inst']; uasort($I, fn($a, $b) => strcoll($a[0], $b[0]));
-    echo $topo, '<h1 style="font:400 26px Georgia,serif">Links das instituições</h1><p>Com o seu link, a instituição junta eventos ao Lykeion e eles aparecem logo, sem revisão. Envie-o só a quem fala pela instituição (gabinete de comunicação).</p><table style="border-collapse:collapse;width:100%;font-size:14px">';
+    echo $topo, '<h1>Links das instituições</h1><p>Com o seu link, a instituição junta eventos ao Lykeion e eles aparecem logo, sem revisão. Envie-o só a quem fala pela instituição (gabinete de comunicação).</p><table style="border-collapse:collapse;width:100%;font-size:14px">';
     foreach ($I as $id => $r) echo '<tr style="border-top:1px solid #DCD6C8"><td style="padding:6px 8px 6px 0"><b>', $h($r[0]), '</b></td><td style="padding:6px 0;width:55%"><input readonly style="width:100%;font:13px monospace" value="', $h($URL . 'conta/propor.php?i=' . rawurlencode($id) . '&k=' . chave_inst($id)), '" onclick="this.select()"></td></tr>';
     exit('</table>' . $fim);
   }
@@ -140,17 +145,17 @@ try {
       $v = [];
     }
   }
-  $campo = 'font:15px/1.4 Arial,sans-serif;width:100%;box-sizing:border-box;padding:8px;border:1px solid #DCD6C8;border-radius:4px;background:#FFFDF8';
-  $rot = fn($t, $x = '') => '<label style="display:block;margin:14px 0 4px;font-weight:600">' . $t . ($x ? ' <span style="font-weight:400;color:#5E6A62">' . $x . '</span>' : '') . '</label>';
+  $campo = 'font:inherit;width:100%;box-sizing:border-box;padding:.6rem .7rem;border:1px solid var(--linha);border-radius:8px;background:var(--papel);color:var(--tinta)';
+  $rot = fn($t, $x = '') => '<label>' . $t . ($x ? ' <span style="font-weight:400;color:var(--suave)">' . $x . '</span>' : '') . '</label>';
   $val = fn($k) => $h($v[$k] ?? '');
   $opt = fn($lista, $sel) => implode('', array_map(fn($o) => '<option value="' . $h($o[0]) . '"' . ($o[0] === $sel ? ' selected' : '') . '>' . $h($o[1]) . '</option>', $lista));
   $insts = []; foreach ((array)$A['inst'] as $id => $r) $insts[] = [$id, $r[0] . ($r[1] && stripos($r[0], $r[1]) === false ? " ({$r[1]})" : '')];
   usort($insts, fn($a, $b) => strcoll($a[1], $b[1]));
-  echo $topo, '<h1 style="font:400 28px Georgia,serif;margin:16px 0 0">Propor um evento</h1>',
+  echo $topo, '<h1>Propor um evento</h1>',
     $pessoal ? '<p style="margin:4px 0 0">Link pessoal de <b>' . $h(nome_inst($inst)) . '</b>: o que juntar aqui aparece logo no Lykeion, daqui a uns minutos. Guarde este link.</p>'
-             : '<p style="color:#5E6A62;margin:4px 0 0">Congressos, conferências, seminários, aulas abertas, provas públicas e ciência para todos, de instituições portuguesas. Só os factos e a ligação para a página oficial. Se a ligação for para o site da instituição, aparece logo; se não, vemos primeiro.</p>',
-    $msg ? '<p style="background:#2F5D46;color:#fff;padding:8px 12px;border-radius:4px">' . $h($msg) . '</p>' : '',
-    $erros ? '<div style="background:#FBE9E1;border-left:3px solid #B4532A;padding:8px 12px;margin-top:12px">' . implode('<br>', array_map($h, $erros)) . '</div>' : '',
+             : '<p style="color:var(--suave);margin:4px 0 0">Congressos, conferências, seminários, aulas abertas, provas públicas e ciência para todos, de instituições portuguesas. Só os factos e a ligação para a página oficial. Se a ligação for para o site da instituição, aparece logo; se não, vemos primeiro.</p>',
+    $msg ? '<p style="background:var(--cobalto);color:#fff;padding:8px 12px;border-radius:4px">' . $h($msg) . '</p>' : '',
+    $erros ? '<div style="background:#FBE9E1;border-left:3px solid var(--legenda);padding:8px 12px;margin-top:12px">' . implode('<br>', array_map($h, $erros)) . '</div>' : '',
     '<form method="post"><input type="hidden" name="t" value="', time(), '"><div style="position:absolute;left:-9999px" aria-hidden="true"><input name="site" tabindex="-1" autocomplete="off"></div>',
     $rot('Título'), '<input name="titulo" required maxlength="200" value="', $val('titulo'), '" style="', $campo, '">',
     $rot('Tipo'), '<select name="subtipo" required style="', $campo, '"><option value="">Escolha…</option>', $opt(array_map(fn($s) => [$s[0], $s[1]], $subs), (string)($v['subtipo'] ?? '')), '</select>',
@@ -166,8 +171,8 @@ try {
     $rot('Prazo para submeter comunicações', '(congressos com chamada aberta; aparece em «Chamadas abertas»)'), '<input type="date" name="prazo" value="', $val('prazo'), '" style="', $campo, '">',
     $rot('Em poucas palavras', '(opcional, até 600 caracteres)'), '<textarea name="descricao" maxlength="600" rows="4" style="', $campo, '">', $val('descricao'), '</textarea>',
     $pessoal ? '' : $rot('O seu email', '(só para uma dúvida; não aparece no site)') . '<input name="email" type="email" required maxlength="190" style="' . $campo . '">',
-    '<p style="margin-top:18px"><button style="padding:12px 18px;background:#2F5D46;color:#fff;border:0;border-radius:6px;font-weight:600">Enviar</button></p></form>',
-    '<p style="color:#5E6A62;font-size:13px">É de uma instituição e quer juntar eventos sempre que houver? Peça o link pessoal da sua instituição para info@lykeion.pt: o que juntar aparece logo, sem revisão. ',
+    '<p style="margin-top:18px"><button class="bt" style="background:var(--cobalto);color:#fff;border-color:var(--cobalto)">Enviar</button></p></form>',
+    '<p style="color:var(--suave);font-size:13px">É de uma instituição e quer juntar eventos sempre que houver? Peça o link pessoal da sua instituição para info@lykeion.pt: o que juntar aparece logo, sem revisão. ',
     'Também pode <a href="', $URL, 'incorporar/">pôr a agenda da instituição no seu site</a>.</p>', $fim;
 } catch (Throwable $e) {
   error_log('lykeion propor: ' . $e->getMessage());

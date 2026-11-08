@@ -224,3 +224,21 @@ body.lyk{
 .lyk .lyk-fds{margin-top:.8rem;align-items:center}
 .lyk .lyk-mapa{height:min(70vh,620px);border:1px solid var(--linha);border-radius:10px;margin:.4rem 0 1rem;z-index:0}
 .lyk .ch[aria-current=page]{background:var(--cobalto);color:#fff;border-color:var(--cobalto)}
+/* 7/11/2026 (Paulo: «uniformizar tudo no site») */
+.lyk .pcab h1{line-height:1.12;text-wrap:balance}
+/* resultados: os filtros num cartão, como os blocos da entrada, e a mesma faixa em cima */
+.lyk #resultados .filtros{position:static;background:none;border:0;padding:0;margin:0}
+.lyk #resultados .filtros{max-width:calc(1180px - 32px);margin-inline:max(16px,calc((100% - 1148px)/2));border:1px solid var(--linha);border-radius:12px;background:var(--cartao)}
+.lyk #resultados .filtros>.mol{padding:.8rem .9rem;display:flex;flex-direction:column;gap:.5rem}
+.lyk #resultados .filtros .lin{margin:0}
+.lyk.lyk-com-res .lyk-abre{padding-block:1.4rem .6rem}
+.lyk .lyk-res-cab{padding-top:.4rem}
+.lyk #academia .dia h3{border-bottom:1px solid var(--linha);padding-bottom:.3rem}
+/* página do evento: o caminho dentro da faixa */
+.lyk main>.migalhas:first-child{border-image:linear-gradient(var(--faixa),var(--faixa)) fill 0//0 100vmax;padding-block:1rem .2rem;margin-block:0}.lyk main>.migalhas:first-child p{margin:0}
+.lyk main>.migalhas:first-child+.ev{padding-top:0}
+/* conta: títulos como as secções da entrada */
+.lyk #conta h2{font:600 1.2rem/1.2 var(--f-titulo);text-transform:none;letter-spacing:0;color:var(--tinta);border-bottom:2px solid var(--cobalto);padding-bottom:.35rem;margin:1.6rem 0 .6rem}
+.lyk #conta h3{font:600 .8rem/1.2 var(--f-hora);text-transform:uppercase;letter-spacing:.06em;color:var(--suave);margin:1.2rem 0 .4rem}
+.lyk #guardados .vazio,.lyk .grelha>.vazio{grid-column:1/-1;max-width:none}
+.lyk.lyk-com-res .lyk-abre :is(#lyk-ola,.lyk-novos){display:none!important}

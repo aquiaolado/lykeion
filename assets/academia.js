@@ -123,7 +123,9 @@
       D.familias.some(([s]) => s === h) ? { fa: h } : SUB[h] ? { sub: h } : AREA[h] ? { area: h } : D.inst[h] ? { inst: h } : {});
     if (res && (comParam || hFiltro || h === "resultados")) {
       res.hidden = false; document.body.classList.add("lyk-com-res");
-      setTimeout(() => { res.scrollIntoView({ block: "start" }); if (!est.q && h === "resultados" && !comParam) $("abusca").focus(); }, 0);
+      // 7/11/2026 (uniformizar): os resultados abrem com o mesmo topo das outras páginas, em vez de saltar por cima dele
+      const t1 = document.querySelector(".lyk-abre h1"); if (t1) t1.textContent = est.novos ? "Novos desde a última visita" : "Procurar na agenda";
+      setTimeout(() => { scrollTo(0, 0); if (!est.q && h === "resultados" && !comParam) $("abusca").focus({ preventScroll: true }); }, 0);
     }
     const opcoes = (el, lista, val) => { el.innerHTML = el.options[0].outerHTML + lista.map(([v, n]) => `<option value="${esc(v)}">${esc(n)}</option>`).join(""); el.value = val; };
     // só se oferecem as opções que têm eventos
