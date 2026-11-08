@@ -6,6 +6,20 @@ X-WR-CALNAME:Psicologia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:03-11-2026-08-11-2026-portas-fechadas-direitos-em-aberto-exp-240ae-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Portas Fechadas\, Direitos em Aberto: exposição fotográfica de e
+ studantes
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fpce/eventos/portas-fechadas-direitos-em-aber
+ to-exposicao-fotografica-de-estudantes/
+URL:https://lykeion.pt/e/03-11-2026-08-11-2026-portas-fechadas-direitos-em-
+ aberto-exp-240ae.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
  -11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -37,7 +51,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:Provas de Mestrado em Psicologia Social\, do Trabalho e das Organiz
  ações
-LOCATION:Centro de Investigação em Biomedicina\, Faro
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
 DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-psicologia-social-do-
  trabalho-e-das-organizacoes-57
 URL:https://lykeion.pt/e/provas-de-mestrado-em-psicologia-social-do-trabalh
@@ -91,6 +105,19 @@ DESCRIPTION:https://www.isa.ulisboa.pt/evento/conversa-de-sofa-sobre-ia-e-s
  aude-mental
 URL:https://lykeion.pt/e/conversa-de-sofa-sobre-ia-e-saude-mental-e4efc.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:mesa-redonda-centro-cultural-penedo-da-saudade-unigreen-equa-0047a-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T170000
+SUMMARY:Mesa redonda: Centro Cultural Penedo da Saudade UNIgreen Equality D
+ ay
+LOCATION:Politécnico de Coimbra\, Coimbra
+DESCRIPTION:https://www.ipc.pt/eventos/unigreen-equality-day-mesa-redonda-i
+ nclusion-for-all-in-higher-education/
+URL:https://lykeion.pt/e/mesa-redonda-centro-cultural-penedo-da-saudade-uni
+ green-equa-0047a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:research-kiosk-on-the-employability-forum-51e76-2026-11-12@lagenda.pt

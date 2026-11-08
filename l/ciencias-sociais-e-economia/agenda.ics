@@ -240,6 +240,18 @@ URL:https://lykeion.pt/e/aula-aberta-a-volta-de-questoes-da-culpa-o-crime-d
  e-homicidi-3d0a1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:care-workshop-conferencia-e-exposicao-na-esad-cr-2243a-2026-11-09@lagen
+ da.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:CARE - Workshop\, Conferência e Exposição na ESAD.CR
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/care-workshop-conferencia-e-exp
+ osicao-na-esad-cr/
+URL:https://lykeion.pt/e/care-workshop-conferencia-e-exposicao-na-esad-cr-2
+ 243a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-de-abertura-cdbbe-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -683,7 +695,7 @@ BEGIN:VEVENT
 UID:seminario-irmgard-emmelhainz-sobre-violencia-predatoria-e-om-22e06-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T103000
 SUMMARY:Seminário: Irmgard Emmelhainz sobre “Violência predatória e om
  nicida
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -913,6 +925,21 @@ URL:https://lykeion.pt/e/comunicacao-interpessoal-e-assertividade-366d1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-de-carlos-costa-performance-na-paisagem-em-comun-81681-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T180000
+SUMMARY:Conferência de Carlos Costa: “Performance na paisagem\, em comun
+ idade e para sítios específicos: uma viagem pelas dramaturgias do Visõe
+ s Úteis nos primeiros 25 anos do século XXI
+LOCATION:Escola Superior Artística do Porto\, Porto
+DESCRIPTION:https://esap.pt/atividades_dep/conferencia-de-carlos-costa-perf
+ ormance-na-paisagem-em-comunidade-e-para-sitios-especificos-uma-viagem-pel
+ as-dramaturgias-do-visoes-uteis-nos-primeiros-25-anos-do-seculo-xxi/
+URL:https://lykeion.pt/e/conferencia-de-carlos-costa-performance-na-paisage
+ m-em-comun-81681.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-sobre-o-futuro-da-europa-2-a-sessao-do-2-o-paine-a0553-2026
  -11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -1018,6 +1045,19 @@ DESCRIPTION:https://www.iep.pt/incentivar-o-setor-eletrotecnico-oportunidad
  es-para-empresas/
 URL:https://lykeion.pt/e/incentivar-o-setor-eletrotecnico-oportunidades-par
  a-empresas-0c8b9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mesa-redonda-centro-cultural-penedo-da-saudade-unigreen-equa-0047a-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T170000
+SUMMARY:Mesa redonda: Centro Cultural Penedo da Saudade UNIgreen Equality D
+ ay
+LOCATION:Politécnico de Coimbra\, Coimbra
+DESCRIPTION:https://www.ipc.pt/eventos/unigreen-equality-day-mesa-redonda-i
+ nclusion-for-all-in-higher-education/
+URL:https://lykeion.pt/e/mesa-redonda-centro-cultural-penedo-da-saudade-uni
+ green-equa-0047a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:o-papel-do-prr-na-concretizacao-das-politicas-europeias-57a05-2026-11-1
@@ -1564,18 +1604,6 @@ URL:https://lykeion.pt/e/fred-talks-conferences-in-psychological-science-73
  e69.html
 END:VEVENT
 BEGIN:VEVENT
-UID:implementar-ferramentas-analiticas-em-marketing-digital-ae979-2026-11-1
- 6@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Implementar ferramentas analíticas em marketing digital
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18451.html?order_by=-1
-URL:https://lykeion.pt/e/implementar-ferramentas-analiticas-em-marketing-di
- gital-ae979.html
-END:VEVENT
-BEGIN:VEVENT
 UID:jornal-arkivo-2233e-2026-11-16@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -1585,12 +1613,39 @@ DESCRIPTION:https://www.agendalx.pt/events/event/jornal-arkivo/
 URL:https://lykeion.pt/e/jornal-arkivo-2233e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:16-11-26-learning-social-mobility-and-political-conflict-at-a9331-2026-
+ 11-16@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Learning\, social mobility\, and political conflict at early modern
+  English universities Conferência 16 novembro Anfiteatro III (piso 4\, FL
+ UC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/learning-social-mobility-and
+ -political-conflict-at-early-modern-english-universities/
+URL:https://lykeion.pt/e/16-11-26-learning-social-mobility-and-political-co
+ nflict-at-a9331.html
+END:VEVENT
+BEGIN:VEVENT
+UID:marketing-como-promover-a-sua-imagem-pessoal-e-profissional-587b6-2026-
+ 11-16@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T120000
+SUMMARY:Marketing - como promover a sua imagem pessoal e profissional
+LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
+ as
+DESCRIPTION:https://www.cfpsa.pt/courses/show/18114.html?order_by=-1
+URL:https://lykeion.pt/e/marketing-como-promover-a-sua-imagem-pessoal-e-pro
+ fissional-587b6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:6o-seminario-cpcj-covilha-violencia-domestica-quebrar-ciclos-43bc0-2026
  -11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:6o Seminário CPCJ Covilhã "Violência Doméstica: Quebrar Ciclos
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24163
 URL:https://lykeion.pt/e/6o-seminario-cpcj-covilha-violencia-domestica-queb
  rar-ciclos-43bc0.html
@@ -1694,6 +1749,21 @@ DESCRIPTION:https://lisbonpubliclaw.pt/eventos/interaction-in-the-law-of-th
 URL:https://lykeion.pt/e/direito-internacional-e-europeu-0c121.html
 END:VEVENT
 BEGIN:VEVENT
+UID:17-11-26-g2-convida-palestra-red-and-green-the-politics-of-t-69e88-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:G2 CONVIDA | Palestra «Red and Green: The Politics of the Left and
+  the Environment» | Afinidades Disciplinares 17 novembro Anfiteatro V\, F
+ LUC
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceis20/conferencias/g2-convida-palestra-red-a
+ nd-green-the-politics-of-the-left-and-the-environment-afinidades-disciplin
+ ares/
+URL:https://lykeion.pt/e/17-11-26-g2-convida-palestra-red-and-green-the-pol
+ itics-of-t-69e88.html
+END:VEVENT
+BEGIN:VEVENT
 UID:gestao-da-seguranca-em-ambiente-industrial-e-construcao-c7670-2026-11-1
  7@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -1753,17 +1823,6 @@ DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese
  nvolvimento-regional/
 URL:https://lykeion.pt/e/seminario-criatividade-turismo-e-desenvolvimento-r
  egional-6c9fc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-hiking-up-to-the-griffith-park-b3a8b-2026-11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T120000
-SUMMARY:Seminário: Hiking Up to the Griffith Park
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/hiking-up-to-the-griffith-
- park
-URL:https://lykeion.pt/e/seminario-hiking-up-to-the-griffith-park-b3a8b.htm
- l
 END:VEVENT
 BEGIN:VEVENT
 UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
@@ -2174,13 +2233,18 @@ URL:https://lykeion.pt/e/mesa-tematica-orientacoes-curriculares-para-a-educ
  acao-pre-e-66849.html
 END:VEVENT
 BEGIN:VEVENT
-UID:open-lectures-ce2c8-2026-11-19@lagenda.pt
+UID:o-contributo-da-dimensao-atlantica-para-a-seguranca-internac-70da6-2026
+ -11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T171500
-SUMMARY:Open Lectures
-LOCATION:Instituto Politécnico de Bragança\, Bragança
-DESCRIPTION:https://estig.unipb.pt/events/94/
-URL:https://lykeion.pt/e/open-lectures-ce2c8.html
+DTSTART;TZID=Europe/Lisbon:20261119T170000
+SUMMARY:O contributo da dimensão atlântica para a segurança internaciona
+ l no contexto do papel da UE no mundo - Conferência Sobre o Futuro da Eur
+ opa
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/o-contributo-da-dimensao-atl
+ antica-para-seguranca-internacional-no-contexto-do-papel-da-ue
+URL:https://lykeion.pt/e/o-contributo-da-dimensao-atlantica-para-a-seguranc
+ a-internac-70da6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:percursos-da-consciencia-fonologica-a-compreensao-leitora-es-362fa-2026
@@ -2383,6 +2447,19 @@ DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/tropical-talks-researcher
  s-for-the-future-universidade-de-lisboa/
 URL:https://lykeion.pt/e/tropical-talks-researchers-for-the-future-universi
  dade-de-li-19d0c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20-11-26-unpaid-debts-socialist-internationalism-and-the-bir-e0664-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Unpaid Debts: Socialist Internationalism and the Birth of Financial
+ ization after Empire Conferência 20 novembro Anfiteatro I (piso 3\, FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/unpaid-debts-socialist-inter
+ nationalism-and-the-birth-of-financialization-after-empire/
+URL:https://lykeion.pt/e/20-11-26-unpaid-debts-socialist-internationalism-a
+ nd-the-bir-e0664.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20-11-26-webinar-asilo-na-uniao-europeia-governacao-e-direit-a3737-2026

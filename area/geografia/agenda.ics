@@ -60,7 +60,8 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -194,7 +195,7 @@ BEGIN:VEVENT
 UID:seminario-irmgard-emmelhainz-sobre-violencia-predatoria-e-om-22e06-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T103000
 SUMMARY:Seminário: Irmgard Emmelhainz sobre “Violência predatória e om
  nicida
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -215,6 +216,21 @@ DESCRIPTION:https://dinamiacet.iscte-iul.pt/post/eremoceno-becoming-more-th
  an-human-seminar-with-four-guest-speakers-on-11-november
 URL:https://lykeion.pt/e/eremoceno-becoming-more-than-human-seminar-with-fo
  ur-guest-s-9101b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-de-carlos-costa-performance-na-paisagem-em-comun-81681-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T180000
+SUMMARY:Conferência de Carlos Costa: “Performance na paisagem\, em comun
+ idade e para sítios específicos: uma viagem pelas dramaturgias do Visõe
+ s Úteis nos primeiros 25 anos do século XXI
+LOCATION:Escola Superior Artística do Porto\, Porto
+DESCRIPTION:https://esap.pt/atividades_dep/conferencia-de-carlos-costa-perf
+ ormance-na-paisagem-em-comunidade-e-para-sitios-especificos-uma-viagem-pel
+ as-dramaturgias-do-visoes-uteis-nos-primeiros-25-anos-do-seculo-xxi/
+URL:https://lykeion.pt/e/conferencia-de-carlos-costa-performance-na-paisage
+ m-em-comun-81681.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-magda-vieira-liborio-aguiar-pinto-patr-4f1b0-2026
@@ -308,7 +324,8 @@ UID:6o-seminario-cpcj-covilha-violencia-domestica-quebrar-ciclos-43bc0-2026
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:6o Seminário CPCJ Covilhã "Violência Doméstica: Quebrar Ciclos
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24163
 URL:https://lykeion.pt/e/6o-seminario-cpcj-covilha-violencia-domestica-queb
  rar-ciclos-43bc0.html

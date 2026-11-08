@@ -80,6 +80,20 @@ URL:https://lykeion.pt/e/bolonha-e-milao-exposicao-revolucoes-guine-bissau-
  angola-e-p-6fb40.html
 END:VEVENT
 BEGIN:VEVENT
+UID:boston-luis-louro-na-cambridge-public-library-para-conversa-6fb40-2026-
+ 11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Boston: Luís Louro na Cambridge Public Library para conversa sobre
+  Banda Desenhada portuguesa
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/boston-luis-louro-na-cambridge-public-library-para-conve
+ rsa-sobre-banda-desenhada-portuguesa
+URL:https://lykeion.pt/e/boston-luis-louro-na-cambridge-public-library-para
+ -conversa-6fb40.html
+END:VEVENT
+BEGIN:VEVENT
 UID:cem-cultura-espaco-e-memoria-n-o-23-chamada-de-artigos-da9c3-2026-11-08
  @lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -400,7 +414,8 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -450,7 +465,8 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
@@ -499,7 +515,8 @@ UID:mostra-cinema-resistencia-cinanima-nas-universidades-05290-2026-11-08@l
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Mostra Cinema Resistência - CINANIMA nas Universidades
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24174
 URL:https://lykeion.pt/e/mostra-cinema-resistencia-cinanima-nas-universidad
  es-05290.html
@@ -692,18 +709,6 @@ URL:https://lykeion.pt/e/aulas-abertas-workshops-e-conversas-com-artistas-c
  onvidados-a1e5d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:care-workshop-conferencia-e-exposicao-na-esad-cr-9-13-nov-32123-2026-11
- -09@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:CARE | Workshop\, Conferência e Exposição na ESAD.CR | 9-13 nov.
-LOCATION:Escola Superior de Artes e Design das Caldas da Rainha
-DESCRIPTION:https://institutodehistoriadaarte.com/care-workshop-conferencia
- -exposicao-na-esad-cr-9-13-nov/
-URL:https://lykeion.pt/e/care-workshop-conferencia-e-exposicao-na-esad-cr-9
- -13-nov-32123.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ciclo-de-cinema-e-masterclasses-ea8ef-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T140000
@@ -727,6 +732,20 @@ DESCRIPTION:https://academiabelasartes.pt/ciclo-de-conferencias-2026-nos-40
  e-em-portugal-a-homenagem-a-antonio-e-joao-prates/
 URL:https://lykeion.pt/e/ciclo-de-conferencias-2026-nos-40-anos-do-centro-p
  ortugues-d-be8ba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:09-11-26-construcoes-culturais-e-tensoes-dramaticas-na-togat-e0240-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Construções culturais e tensões dramáticas na 'Togata': para um
+ a reflexão sobre Titínio e Áta Aula aberta 09 novembro Sala TP1 (piso 4
+ \, FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/construcoes-culturais-e-tens
+ oes-dramaticas-na-togata-para-uma-reflexao-sobre-titinio-e-ata/
+URL:https://lykeion.pt/e/09-11-26-construcoes-culturais-e-tensoes-dramatica
+ s-na-togat-e0240.html
 END:VEVENT
 BEGIN:VEVENT
 UID:contar-historias-com-sons-4b60b-2026-11-09@lagenda.pt
@@ -1195,7 +1214,7 @@ BEGIN:VEVENT
 UID:seminario-irmgard-emmelhainz-sobre-violencia-predatoria-e-om-22e06-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T103000
 SUMMARY:Seminário: Irmgard Emmelhainz sobre “Violência predatória e om
  nicida
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -1288,6 +1307,19 @@ DESCRIPTION:http://portal2.ipt.pt/pt/noticias/erasmus/3_coloquio_kreativeu_
  de_estudantes_de_doutoramento_2026_09_10
 URL:https://lykeion.pt/e/coloquio-kreativeu-patrimonio-e-transformacoes-soc
  iais-6f21c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:11-11-2026-30-11-2026-conferencias-estudos-europeus-1-o-sem-8348d-2026-
+ 11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Conferências Estudos Europeus 1.º sem. 2026/27 Ciclo 11 novembro 
+ Faculdade de Letras (vários espaços)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/ciclo-de-conferencias-estudo
+ s-europeus/
+URL:https://lykeion.pt/e/11-11-2026-30-11-2026-conferencias-estudos-europeu
+ s-1-o-sem-8348d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:curso-breve-centro-historico-do-porto-30-anos-olhares-cruzad-edffb-2026
@@ -1508,6 +1540,21 @@ URL:https://lykeion.pt/e/conferencia-da-popularizacao-da-figura-de-camoes-a
  9097.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-de-carlos-costa-performance-na-paisagem-em-comun-81681-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T180000
+SUMMARY:Conferência de Carlos Costa: “Performance na paisagem\, em comun
+ idade e para sítios específicos: uma viagem pelas dramaturgias do Visõe
+ s Úteis nos primeiros 25 anos do século XXI
+LOCATION:Escola Superior Artística do Porto\, Porto
+DESCRIPTION:https://esap.pt/atividades_dep/conferencia-de-carlos-costa-perf
+ ormance-na-paisagem-em-comunidade-e-para-sitios-especificos-uma-viagem-pel
+ as-dramaturgias-do-visoes-uteis-nos-primeiros-25-anos-do-seculo-xxi/
+URL:https://lykeion.pt/e/conferencia-de-carlos-costa-performance-na-paisage
+ m-em-comun-81681.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conversas-com-sentido-debate-violencia-domestica-d7447-2026-11-12@lagen
  da.pt
 DTSTAMP:20261108T000000Z
@@ -1718,7 +1765,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:X Fórum Ibérico de Estudos Museológicos – Museus\, Mundos em M
  udança
-LOCATION:Instituto de Historia da Arte
+LOCATION:Instituto de Historia da Arte\, Loulé
 DESCRIPTION:https://institutodehistoriadaarte.com/event/x-forum-iberico-de-
  estudos-museologicos-museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/x-forum-iberico-de-estudos-museologicos-museus-mun
@@ -1854,6 +1901,19 @@ URL:https://lykeion.pt/e/museus-mundos-em-mudanca-x-forum-iberico-de-estudo
  s-museolog-a4a43.html
 END:VEVENT
 BEGIN:VEVENT
+UID:13-11-26-o-papel-dos-elementos-naturais-em-espacos-urbanos-c-7f1d9-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:O papel dos elementos naturais em espaços urbanos Conferência 13 
+ novembro Anfiteatro III (piso 4\, FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/o-papel-dos-elementos-natura
+ is-em-espacos-urbanos/
+URL:https://lykeion.pt/e/13-11-26-o-papel-dos-elementos-naturais-em-espacos
+ -urbanos-c-7f1d9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:on-the-occasion-of-the-modern-premiere-of-niccolo-jommellis-1f73e-2026-
  11-13@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -1943,6 +2003,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-jose-pedro-da-cunha-alegre-g
  oncalves-o-e8510.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sex-13-nov-18-30-fri-13-nov-18-30-filmes-e-conversa-films-an-fcf62-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:SEX 13 NOV · 18:30 FRI 13 NOV · 18:30 Filmes e Conversa Films and
+  Talk Sete Curtas Portuguesas Seven Portuguese Shorts Atmosfera M\, Audit
+ ório
+LOCATION:Lisboa
+DESCRIPTION:https://www.olharesdomediterraneo.org/actividades/sete-curtas-p
+ ortuguesas/
+URL:https://lykeion.pt/e/sex-13-nov-18-30-fri-13-nov-18-30-filmes-e-convers
+ a-films-an-fcf62.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sara-vitorino-fernandez-investigadora-do-ciac-participa-na-c-8619f-2026
  -11-13@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -1971,7 +2045,8 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
@@ -2135,6 +2210,20 @@ DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
 URL:https://lykeion.pt/e/lancamento-do-livro-59732.html
 END:VEVENT
 BEGIN:VEVENT
+UID:16-11-26-learning-social-mobility-and-political-conflict-at-a9331-2026-
+ 11-16@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Learning\, social mobility\, and political conflict at early modern
+  English universities Conferência 16 novembro Anfiteatro III (piso 4\, FL
+ UC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/learning-social-mobility-and
+ -political-conflict-at-early-modern-english-universities/
+URL:https://lykeion.pt/e/16-11-26-learning-social-mobility-and-political-co
+ nflict-at-a9331.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -2274,6 +2363,18 @@ URL:https://lykeion.pt/e/workshop-open-source-tools-for-analog-and-mixed-si
  gnal-ic-de-cf423.html
 END:VEVENT
 BEGIN:VEVENT
+UID:17-11-26-amicitia-seminario-permanente-para-doutorandos-17-n-4593a-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Amicitia Seminário permanente para doutorandos 17 novembro Sala 14
+  (piso 6\, FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/amicitia/
+URL:https://lykeion.pt/e/17-11-26-amicitia-seminario-permanente-para-doutor
+ andos-17-n-4593a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:development-studies-seminars-2026-2027-urbanizacao-e-desenvo-97024-2026
  -11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -2298,6 +2399,21 @@ DESCRIPTION:https://www.ulusofona.pt/evento/great-artists-on-campus-6-lisbo
 URL:https://lykeion.pt/e/encontros-great-artists-on-campus-6-90954.html
 END:VEVENT
 BEGIN:VEVENT
+UID:17-11-26-g2-convida-palestra-red-and-green-the-politics-of-t-69e88-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:G2 CONVIDA | Palestra «Red and Green: The Politics of the Left and
+  the Environment» | Afinidades Disciplinares 17 novembro Anfiteatro V\, F
+ LUC
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceis20/conferencias/g2-convida-palestra-red-a
+ nd-green-the-politics-of-the-left-and-the-environment-afinidades-disciplin
+ ares/
+URL:https://lykeion.pt/e/17-11-26-g2-convida-palestra-red-and-green-the-pol
+ itics-of-t-69e88.html
+END:VEVENT
+BEGIN:VEVENT
 UID:lisbon-classics-seminars-professor-lowell-edmunds-rutgers-un-f400f-2026
  -11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -2316,7 +2432,8 @@ UID:mostra-cinema-resistencia-entre-leiras-6a8f4-2026-11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Mostra Cinema Resistência – “Entre Leiras
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24186
 URL:https://lykeion.pt/e/mostra-cinema-resistencia-entre-leiras-6a8f4.html
 END:VEVENT
@@ -2728,6 +2845,21 @@ URL:https://lykeion.pt/e/aula-aberta-epistemologias-feministas-no-sul-globa
  l-historia-c03e9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciclo-de-conferencias-errancias-culturas-e-identidades-outra-7f70c-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T180000
+SUMMARY:Ciclo de Conferências | Errâncias\, Culturas e Identidades Outras
+  fronteiras do Comum. Errância e hospitalidade na literatura e na arte po
+ r Luca Fazzini
+LOCATION:BMEL\, Guarda
+DESCRIPTION:https://www.mun-guarda.pt/agenda-de-eventos/ciclo-de-conferenci
+ as-errancias-culturas-e-identidades-outras-fronteiras-do-comum-errancia-e-
+ hospitalidade-na-literatura-e-na-arte-por-luca-fazzini/
+URL:https://lykeion.pt/e/ciclo-de-conferencias-errancias-culturas-e-identid
+ ades-outra-7f70c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:clube-de-leitura-da-ubi-recebe-henrique-agua-para-o-workshop-c206c-2026
  -11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -2863,13 +2995,18 @@ DESCRIPTION:https://www.ulsmave.min-saude.pt/eventos/o-homem-a-sexualidade-
 URL:https://lykeion.pt/e/o-homem-a-sexualidade-no-seculo-xxi-2d75b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:open-lectures-ce2c8-2026-11-19@lagenda.pt
+UID:o-contributo-da-dimensao-atlantica-para-a-seguranca-internac-70da6-2026
+ -11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T171500
-SUMMARY:Open Lectures
-LOCATION:Instituto Politécnico de Bragança\, Bragança
-DESCRIPTION:https://estig.unipb.pt/events/94/
-URL:https://lykeion.pt/e/open-lectures-ce2c8.html
+DTSTART;TZID=Europe/Lisbon:20261119T170000
+SUMMARY:O contributo da dimensão atlântica para a segurança internaciona
+ l no contexto do papel da UE no mundo - Conferência Sobre o Futuro da Eur
+ opa
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/o-contributo-da-dimensao-atl
+ antica-para-seguranca-internacional-no-contexto-do-papel-da-ue
+URL:https://lykeion.pt/e/o-contributo-da-dimensao-atlantica-para-a-seguranc
+ a-internac-70da6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-chi-han-a-comparative-study-of-debate-4b006-2026-
@@ -3038,7 +3175,7 @@ UID:apresentacao-do-livro-maldito-minerio-d7858-2026-11-20@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T213000
 SUMMARY:Apresentação do livro “Maldito Minério
-LOCATION:Centro Cultural Regional de Vila Real\, Vila Real
+LOCATION:Museu Etnográfico de Vila Real\, Vila Real
 DESCRIPTION:https://ccr-vilareal.pt/eventos/apresentacao-do-livro-maldito-m
  inerio/
 URL:https://lykeion.pt/e/apresentacao-do-livro-maldito-minerio-d7858.html
@@ -3066,6 +3203,18 @@ LOCATION:Instituto de Filosofia da Nova
 DESCRIPTION:http://ifilnova.pt/eventos/from-new-fascism-to-mimetic-studies/
 URL:https://lykeion.pt/e/culturelab-palestra-20-11-2026-from-new-fascism-to
  -mimetic-s-e81a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:i-ciclo-de-palestras-redes-fantasma-do-conhecimento-a-acao-bddc1-2026-1
+ 1-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T100000
+SUMMARY:I Ciclo de Palestras: Redes Fantasma: do Conhecimento à Ação
+LOCATION:Espaço Museológico da Praia da Vagueira\, Vagos
+DESCRIPTION:https://www.cm-vagos.pt/visitar/agenda/evento/i-ciclo-de-palest
+ ras-redes-fantasma-do-conhecimento-a-acao
+URL:https://lykeion.pt/e/i-ciclo-de-palestras-redes-fantasma-do-conheciment
+ o-a-acao-bddc1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:macau-ipor-realiza-o-xi-encontro-de-pontos-de-rede-de-ensino-0f0e2-2026
@@ -3122,11 +3271,37 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-marina-pokutniaia-a-construc
  ao-linguis-bec00.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sex-20-nov-21-00-fri-20-nov-21-00-filme-e-conversa-film-and-a727a-2026-
+ 11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:SEX 20 NOV · 21:00 FRI 20 NOV · 21:00 Filme e Conversa Film and T
+ alk Mulheres\, Terra\, Revolução Avenidas - Um Teatro em Cada Bairro
+LOCATION:Lisboa
+DESCRIPTION:https://www.olharesdomediterraneo.org/actividades/mulheres-terr
+ a-revolucao/
+URL:https://lykeion.pt/e/sex-20-nov-21-00-fri-20-nov-21-00-filme-e-conversa
+ -film-and-a727a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20-11-26-unpaid-debts-socialist-internationalism-and-the-bir-e0664-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Unpaid Debts: Socialist Internationalism and the Birth of Financial
+ ization after Empire Conferência 20 novembro Anfiteatro I (piso 3\, FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/unpaid-debts-socialist-inter
+ nationalism-and-the-birth-of-financialization-after-empire/
+URL:https://lykeion.pt/e/20-11-26-unpaid-debts-socialist-internationalism-a
+ nd-the-bir-e0664.html
+END:VEVENT
+BEGIN:VEVENT
 UID:vi-encontro-patrimonios-e-cultura-maritima-0d96a-2026-11-20@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T170000
 SUMMARY:VI Encontro Patrimónios e Cultura Marítima
-LOCATION:Capela do Espírito Santo dos Mareantes\, Sesimbra
+LOCATION:Cineteatro Municipal João Mota\, Sesimbra
 DESCRIPTION:https://www.sesimbra.pt/agenda-online/evento/vi-encontro-patrim
  onios-e-cultura-maritima
 URL:https://lykeion.pt/e/vi-encontro-patrimonios-e-cultura-maritima-0d96a.h
@@ -3239,5 +3414,18 @@ LOCATION:Instituto de Estudos Avançados em Catolicismo e Globalização\,
 DESCRIPTION:https://ieacgo.pt/save-the-date-21-de-novembro-de-2026-simposio
  -debate-atualidade-do-pensamento-e-da-obra-do-padre-manuel-formigao/
 URL:https://lykeion.pt/e/save-the-date-010b1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sab-21-nov-21-00-sat-21-nov-21-00-filme-e-conversa-film-and-33eee-2026-
+ 11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:SÁB 21 NOV · 21:00 SAT 21 NOV · 21:00 Filme e Conversa Film and 
+ Talk My Sextortion Diary Avenidas - Um Teatro em Cada Bairro
+LOCATION:Lisboa
+DESCRIPTION:https://www.olharesdomediterraneo.org/actividades/my-sextortion
+ -diary/
+URL:https://lykeion.pt/e/sab-21-nov-21-00-sat-21-nov-21-00-filme-e-conversa
+ -film-and-33eee.html
 END:VEVENT
 END:VCALENDAR

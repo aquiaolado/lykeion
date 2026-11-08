@@ -656,7 +656,8 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
@@ -714,16 +715,16 @@ URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-9217
  9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:implementar-ferramentas-analiticas-em-marketing-digital-ae979-2026-11-1
- 6@lagenda.pt
+UID:marketing-como-promover-a-sua-imagem-pessoal-e-profissional-587b6-2026-
+ 11-16@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Implementar ferramentas analíticas em marketing digital
+DTSTART;TZID=Europe/Lisbon:20261116T120000
+SUMMARY:Marketing - como promover a sua imagem pessoal e profissional
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
  as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18451.html?order_by=-1
-URL:https://lykeion.pt/e/implementar-ferramentas-analiticas-em-marketing-di
- gital-ae979.html
+DESCRIPTION:https://www.cfpsa.pt/courses/show/18114.html?order_by=-1
+URL:https://lykeion.pt/e/marketing-como-promover-a-sua-imagem-pessoal-e-pro
+ fissional-587b6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-rodrigues-da-costa-nogueira-asses-df5b9-2026
@@ -960,7 +961,8 @@ UID:13o-forum-de-gestao-de-dados-de-investigacao-831e4-2026-11-19@lagenda.p
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:13o Fórum de Gestão de Dados de Investigação
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24167
 URL:https://lykeion.pt/e/13o-forum-de-gestao-de-dados-de-investigacao-831e4
  .html
@@ -1035,15 +1037,6 @@ LOCATION:Laboratório Nacional de Energia e Geologia
 DESCRIPTION:https://www.lneg.pt/forum-industrial-nacional-eu-solaris/
 URL:https://lykeion.pt/e/lneg-participa-no-forum-industrial-nacional-eu-sol
  aris-b111c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:open-lectures-ce2c8-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T171500
-SUMMARY:Open Lectures
-LOCATION:Instituto Politécnico de Bragança\, Bragança
-DESCRIPTION:https://estig.unipb.pt/events/94/
-URL:https://lykeion.pt/e/open-lectures-ce2c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:pampilhosa-da-serra-acolhe-i-congresso-internacional-do-medr-1ab0a-2026
@@ -1193,6 +1186,19 @@ DESCRIPTION:https://www.upt.pt/newsletter/destaques-outubro-2026/universida
  orkshop-sobre-iot-na-construcao
 URL:https://lykeion.pt/e/universidade-portucalense-promove-workshop-sobre-i
  ot-na-cons-34ee2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20-11-26-unpaid-debts-socialist-internationalism-and-the-bir-e0664-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Unpaid Debts: Socialist Internationalism and the Birth of Financial
+ ization after Empire Conferência 20 novembro Anfiteatro I (piso 3\, FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/unpaid-debts-socialist-inter
+ nationalism-and-the-birth-of-financialization-after-empire/
+URL:https://lykeion.pt/e/20-11-26-unpaid-debts-socialist-internationalism-a
+ nd-the-bir-e0664.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xi-simposio-de-organizacao-e-gestao-escolar-b7b14-2026-11-21@lagenda.pt

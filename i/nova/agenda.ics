@@ -218,6 +218,18 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/trial-plataforma
 URL:https://lykeion.pt/e/trial-a-plataforma-jove-b7423.html
 END:VEVENT
 BEGIN:VEVENT
+UID:care-workshop-conferencia-e-exposicao-na-esad-cr-2243a-2026-11-09@lagen
+ da.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:CARE - Workshop\, Conferência e Exposição na ESAD.CR
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/care-workshop-conferencia-e-exp
+ osicao-na-esad-cr/
+URL:https://lykeion.pt/e/care-workshop-conferencia-e-exposicao-na-esad-cr-2
+ 243a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:click-here-to-join-the-seminar-022ea-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -403,7 +415,7 @@ BEGIN:VEVENT
 UID:seminario-irmgard-emmelhainz-sobre-violencia-predatoria-e-om-22e06-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T103000
 SUMMARY:Seminário: Irmgard Emmelhainz sobre “Violência predatória e om
  nicida
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -612,7 +624,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:X Fórum Ibérico de Estudos Museológicos – Museus\, Mundos em M
  udança
-LOCATION:Instituto de Historia da Arte
+LOCATION:Instituto de Historia da Arte\, Loulé
 DESCRIPTION:https://institutodehistoriadaarte.com/event/x-forum-iberico-de-
  estudos-museologicos-museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/x-forum-iberico-de-estudos-museologicos-museus-mun
@@ -874,26 +886,6 @@ DESCRIPTION:https://www.itqb.unl.pt/events/introduction-to-image-analysis-c
  ourse-8th-edition/
 URL:https://lykeion.pt/e/introduction-to-image-analysis-course-8th-edition-
  5890b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:milano-21t-meeting-809d9-2026-11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T120000
-SUMMARY:Milano 21T Meeting
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/milano-20t-meeting
-URL:https://lykeion.pt/e/milano-21t-meeting-809d9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-hiking-up-to-the-griffith-park-b3a8b-2026-11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T120000
-SUMMARY:Seminário: Hiking Up to the Griffith Park
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/hiking-up-to-the-griffith-
- park
-URL:https://lykeion.pt/e/seminario-hiking-up-to-the-griffith-park-b3a8b.htm
- l
 END:VEVENT
 BEGIN:VEVENT
 UID:using-ai-across-the-research-lifecycle-leapspacetm-scopus-an-07e32-2026
