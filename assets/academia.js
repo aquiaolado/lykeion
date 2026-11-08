@@ -65,6 +65,7 @@
   if (!caixa && !ola0) return;
   fetch(B + "academia.json").then(r => r.json()).then(D => {
     PAIS = D.pais || {}; arrumar();
+    document.dispatchEvent(new CustomEvent("lyk:dados", { detail: D }));
     {  // atualizar a memória da visita (só na entrada, que lê o academia.json)
       const agora = Date.now(), ids = D.ev.map(e => e.pg);
       if (!VISTO || !Array.isArray(VISTO.ids)) VISTO = { t: agora, ids, novos: [], antes: 0 };
@@ -308,5 +309,74 @@
         s.querySelectorAll(".lyk-insc-msg").forEach(x => x.remove()); f.after(p);
         if (d.ok) { f.hidden = true; fetch(`${api}?ev=${encodeURIComponent(ev)}&n`, { cache: "no-store" }).then(r => r.json()).then(x => { mostra(x); f.hidden = true; }).catch(() => {}); }
       }).catch(() => { b.disabled = false; f.submit(); }).finally(() => { b.disabled = false; });
+  });
+})();
+
+/* Lykeion (8/11/2026): as três portas da entrada. «A minha faculdade» procura nas entidades (academia/faculdades.json,
+   lido só quando a pessoa escreve), «a minha área» e «sou…». A escolha fica neste navegador (lyk-porta) e, na volta,
+   a entrada mostra logo o que vem aí da faculdade e da área, sem precisar de conta. */
+(function () {
+  "use strict";
+  const box = document.getElementById("lyk-portas"); if (!box) return;
+  const B = (window.LG && LG.base) || "/";
+  const inp = document.getElementById("lykfac"), op = document.getElementById("lykfacop"), volta = document.getElementById("lyk-volta");
+  const ler = () => { try { return JSON.parse(localStorage.getItem("lyk-porta")) || {}; } catch (_) { return {}; } };
+  const gravar = o => { try { localStorage.setItem("lyk-porta", JSON.stringify(Object.assign(ler(), o))); } catch (_) {} };
+  const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const norm = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  let L = null, pedido = null, sel = -1, vis = [];
+  const carregar = () => pedido || (pedido = fetch(inp.dataset.lista).then(r => r.json()).then(x => (L = x.map(r => [r, norm(r[0] + " " + r[1] + " " + r[2] + " " + r[3])]))).catch(() => (L = [])));
+  const ir = r => { gravar({ inst: r[0], nome: r[2] || r[1] }); location.href = inp.dataset.pag + r[0] + "/"; };
+  const desenha = () => {
+    op.innerHTML = vis.map((r, k) => `<li role="option" data-k="${k}"${k === sel ? ' aria-selected="true"' : ""}><b>${esc(r[1])}</b>` +
+      `${r[2] && !norm(r[1]).includes(norm(r[2])) ? " <span>" + esc(r[2]) + "</span>" : ""}${r[3] ? ' <span class="sub">' + esc(r[3]) + "</span>" : ""}` +
+      `${r[4] ? ' <span class="n">' + r[4] + (r[4] === 1 ? " evento" : " eventos") + "</span>" : ""}</li>`).join("");
+    op.hidden = !vis.length;
+  };
+  const procura = () => {
+    const q = norm(inp.value.trim()); sel = -1;
+    if (q.length < 2 || !L) { vis = []; desenha(); return; }
+    const ps = q.split(/\s+/), sig = L.filter(([r]) => norm(r[2]) === q || r[0] === q).map(x => x[0]);
+    vis = sig.concat(L.filter(([r, t]) => !sig.includes(r) && ps.every(p => t.includes(p))).map(x => x[0])).slice(0, 8);
+    desenha();
+  };
+  inp.addEventListener("focus", carregar);
+  inp.addEventListener("input", () => { if (L) procura(); else carregar().then(procura); });
+  inp.addEventListener("keydown", ev => {
+    if (ev.key === "ArrowDown" || ev.key === "ArrowUp") { if (!vis.length) return; ev.preventDefault(); sel = (sel + (ev.key === "ArrowDown" ? 1 : vis.length - 1)) % vis.length; desenha(); }
+    else if (ev.key === "Enter") { ev.preventDefault(); const r = vis[sel < 0 ? 0 : sel]; if (r) ir(r); }
+    else if (ev.key === "Escape") { vis = []; desenha(); }
+  });
+  op.addEventListener("mousedown", ev => { const li = ev.target.closest("li"); if (li) { ev.preventDefault(); ir(vis[+li.dataset.k]); } });
+  inp.addEventListener("blur", () => setTimeout(() => { vis = []; desenha(); }, 150));
+  box.addEventListener("click", ev => {
+    const a = ev.target.closest("[data-porta-area],[data-porta-sou]"); if (!a) return;
+    if (a.dataset.portaArea) gravar({ area: a.dataset.portaArea, areaNome: a.textContent });
+    else gravar({ sou: a.dataset.portaSou });
+  });
+  // na volta: a faculdade e a área escolhidas, com o que vem aí
+  const P = ler();
+  if (P.sou) { const a = box.querySelector(`[data-porta-sou="${P.sou}"]`); if (a) a.classList.add("on"); }
+  if (P.area) { const a = box.querySelector(`[data-porta-area="${P.area}"]`); if (a) a.classList.add("on"); }
+  if (!P.inst && !P.area) return;
+  document.addEventListener("lyk:dados", ev => {
+    const D = ev.detail, hoje = (window.LG && LG.hoje) || new Date().toISOString().slice(0, 10);
+    const pertence = (i, alvo) => { for (let k = 0; i && k < 7; k++) { if (i === alvo) return true; i = (D.pais || {})[i]; } return false; };
+    const prox = e => e.d.find(x => x >= hoje);
+    const bloco = (titulo, ver, f) => {
+      const xs = D.ev.filter(e => prox(e) && f(e) && e.s !== "exposicao" && !e.pz).sort((a, b) => prox(a).localeCompare(prox(b)));
+      const dd = d => { const [, m, x] = d.split("-"); return +x + "/" + +m; };
+      return `<div><p><b>${esc(titulo)}</b> · ${xs.length ? (xs.length === 1 ? "1 evento marcado" : xs.length + " eventos marcados") : "nada marcado por agora"} · <a href="${ver}">ver</a>` +
+        ` <button type="button" class="lyk-x" data-tirar="${f === fi ? "inst" : "area"}" aria-label="Esquecer">×</button></p>` +
+        (xs.length ? "<ul>" + xs.slice(0, 3).map(e => `<li><span class="lyk-vd">${dd(prox(e))}</span> <a href="${B}e/${e.pg}.html">${esc(e.n)}</a></li>`).join("") + "</ul>" : "") + "</div>";
+    };
+    const fi = e => pertence(e.in, P.inst), fa = e => e.a.concat(e.af || []).includes(P.area);
+    let h = "";
+    if (P.inst) h += bloco(P.nome || (D.inst[P.inst] || [])[0] || "A minha faculdade", inp.dataset.pag + P.inst + "/", fi);
+    if (P.area) h += bloco(P.areaNome || (Object.fromEntries(D.areas)[P.area]) || "A minha área", B + "academia/area/" + P.area + "/", fa);
+    volta.innerHTML = h; volta.hidden = false;
+    volta.addEventListener("click", ev2 => { const b = ev2.target.closest("[data-tirar]"); if (!b) return;
+      const o = ler(); if (b.dataset.tirar === "inst") { delete o.inst; delete o.nome; } else { delete o.area; delete o.areaNome; }
+      try { localStorage.setItem("lyk-porta", JSON.stringify(o)); } catch (_) {} b.closest("div").remove(); if (!volta.children.length) volta.hidden = true; });
   });
 })();
