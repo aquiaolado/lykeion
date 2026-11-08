@@ -115,7 +115,7 @@ BEGIN:VEVENT
 UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
  11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T083000
+DTSTART;VALUE=DATE:20261118
 SUMMARY:SEMINÁRIO - Active Hotspots: Tecnologia\, Sustentabilidade e Bem-E
  star
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -134,5 +134,18 @@ DESCRIPTION:https://esce.unips.pt/eventos/seminario-pink-tax-sustentabilida
  de-e-diversidade/
 URL:https://lykeion.pt/e/seminario-pink-tax-sustentabilidade-e-diversidade-
  cae8d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:palestra-macroalgas-na-gastronomia-sustentabilidade-e-tenden-cadd8-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T173000
+SUMMARY:Palestra | Macroalgas na Gastronomia: Sustentabilidade e Tendência
+ s
+LOCATION:Instituto Politécnico de Setúbal\, Setúbal
+DESCRIPTION:https://estsetubal.unips.pt/eventos/palestra-macroalgas-na-gast
+ ronomia-sustentabilidade-e-tendencias/
+URL:https://lykeion.pt/e/palestra-macroalgas-na-gastronomia-sustentabilidad
+ e-e-tenden-cadd8.html
 END:VEVENT
 END:VCALENDAR

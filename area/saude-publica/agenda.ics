@@ -48,7 +48,7 @@ UID:17-00-conferencia-desigualdades-urbanas-mobilidade-pedonal-e-1c7ee-2026
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T170000
 SUMMARY:17:00 Conferência Desigualdades Urbanas\, Mobilidade Pedonal e Bem
- -Estar Mental: uma Abordagem em Ciência da Informação Geográfica
+ -estar Mental
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/desigualdades-urbanas-mobil
  idade-pedonal-e-bem-estar-mental-uma-abordagem-em-ciencia-da-informacao-ge
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 UID:apresentacao-do-livro-a-seguranca-e-saude-no-trabalho-um-enq-dc757-2026
  -11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T173000
 SUMMARY:Apresentação do livro «A Segurança e Saúde no Trabalho: um Enq
  uadramento Jurídico-Laboral dos Riscos Psicossociais»
 LOCATION:Universidade Católica Portuguesa
@@ -218,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-1d671-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T103000
 SUMMARY:Prova Pública de Mestrado
 LOCATION:Universidade Portucalense\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-477/
@@ -408,6 +408,18 @@ DESCRIPTION:http://www.medicina.ulisboa.pt/coloquio-saude-mental-e-seguranc
 URL:https://lykeion.pt/e/coloquio-saude-mental-e-seguranca-4f4a4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-ciclo-reformar-o-estado-saude-em-portugal-9039a-2026-11-17@
+ lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T183000
+SUMMARY:Conferência: Ciclo Reformar o Estado: Saúde em Portugal
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.eventbrite.com/e/ciclo-reformar-o-estado-saude-em-p
+ ortugal-tickets-2004526297115
+URL:https://lykeion.pt/e/conferencia-ciclo-reformar-o-estado-saude-em-portu
+ gal-9039a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-saude-mental-e-seguranca-desafios-na-resposta-a-091c5-2026-
  11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -480,7 +492,7 @@ BEGIN:VEVENT
 UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
  11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T083000
+DTSTART;VALUE=DATE:20261118
 SUMMARY:SEMINÁRIO - Active Hotspots: Tecnologia\, Sustentabilidade e Bem-E
  star
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -523,6 +535,15 @@ LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:https://www.eventbrite.pt/e/hitech-2027-information-session-at-
  i3s-tickets-2003304607007
 URL:https://lykeion.pt/e/hitech-2027-information-session-at-i3s-a4156.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-encontro-de-tecnicos-de-secretariado-bf22b-2026-11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:IV Encontro de Técnicos de Secretariado
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://esght.ualg.pt/iv-encontro-de-tecnicos-de-secretariado
+URL:https://lykeion.pt/e/iv-encontro-de-tecnicos-de-secretariado-bf22b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-in2me-congresso-de-educacao-medica-da-faculdade-de-cienci-7d8ce-2026

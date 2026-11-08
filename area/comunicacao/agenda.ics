@@ -6,6 +6,16 @@ X-WR-CALNAME:Comunicação e Media (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:exposicao-linhas-de-tensao-85621-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T180000
+SUMMARY:Exposição Linhas de Tensão
+LOCATION:Politécnico do Porto\, Porto
+DESCRIPTION:https://centrodecultura.ipp.pt/evento/exposicao-linhas-de-tensa
+ o/
+URL:https://lykeion.pt/e/exposicao-linhas-de-tensao-85621.html
+END:VEVENT
+BEGIN:VEVENT
 UID:inscricoes-workshop-hands-on-science-a-ciencia-nao-fala-por-e7150-2026-
  11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -276,6 +286,18 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  01592
 URL:https://lykeion.pt/e/provas-de-mestrado-de-tiago-dos-santos-ferreira-de
  -castro-co-51e80.html
+END:VEVENT
+BEGIN:VEVENT
+UID:culturelab-palestra-20-11-2026-from-new-fascism-to-mimetic-s-e81a7-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T150000
+SUMMARY:CultureLab • Palestra 20/11/2026 From New Fascism to Mimetic Stud
+ ies Nidesh Lawtoo
+LOCATION:Instituto de Filosofia da Nova
+DESCRIPTION:http://ifilnova.pt/eventos/from-new-fascism-to-mimetic-studies/
+URL:https://lykeion.pt/e/culturelab-palestra-20-11-2026-from-new-fascism-to
+ -mimetic-s-e81a7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-writing-rewriting-surviving-the-graduates-guide-39e16-2026-

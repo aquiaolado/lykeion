@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-entre-guerras-e-paz-633a3-2026-11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T090000
 SUMMARY:Colóquio: Entre guerras e paz
 LOCATION:Instituto de História Contemporânea
 DESCRIPTION:https://ihc.fcsh.unl.pt/events/entre-guerras-paz/

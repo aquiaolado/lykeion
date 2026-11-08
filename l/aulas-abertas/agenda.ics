@@ -17,6 +17,16 @@ URL:https://lykeion.pt/e/aula-aberta-a-imagem-numa-linguagem-pessoal-arte-3
  3-mta2026-70939.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aulas-abertas-065f2-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T160000
+SUMMARY:Aulas Abertas
+LOCATION:Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://chul.letras.ulisboa.pt/evento/historia-da-asia-temas-e-
+ problemas/
+URL:https://lykeion.pt/e/aulas-abertas-065f2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
  -11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -73,11 +83,11 @@ BEGIN:VEVENT
 UID:aula-aberta-conferencia-public-archaeology-and-the-managemen-df7fc-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Aula Aberta / Conferência: «Public Archaeology and the Management
   of Megalithic Heritage: The Sicilian Case»\, por Valentina Molozzu (Univ
  ersidad Complutense de Madrid)
-LOCATION:Faculdade de Letras da Universidade de Lisboa
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/aula-aberta-conferencia
  -public-archaeology-and-the-management-of-megalithic-heritage-the-sicilian
  -case-por-valentina-molozzu-universidad-complutense-de-madrid
@@ -109,6 +119,20 @@ DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-gestao-de-conflitos-inter
  pessoais-pelos-estudantes-do-ensino-superior-contributos-da-mediacao/
 URL:https://lykeion.pt/e/aula-aberta-gestao-de-conflitos-interpessoais-pelo
  s-estudant-9eb99.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-de-maos-dadas-na-mudanca-a-crianca-em-transicao-bf0ed-2026-
+ 11-10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Aula Aberta: De mãos dadas na mudança – A criança em transiç
+ ão
+LOCATION:Observatório da Formação e da Educação Inclusiva (OFEI)\, Por
+ to
+DESCRIPTION:https://ofei.esepf.pt/?mec-events=aula-aberta-o-educador-coorde
+ nador-e-diretor-uma-outra-faceta-profissional-2
+URL:https://lykeion.pt/e/aula-aberta-de-maos-dadas-na-mudanca-a-crianca-em-
+ transicao-bf0ed.html
 END:VEVENT
 BEGIN:VEVENT
 UID:10-11-26-aula-aberta-523f7-2026-11-10@lagenda.pt
@@ -176,21 +200,21 @@ DTSTART;TZID=Europe/Lisbon:20261111T150000
 SUMMARY:Ciclo de Aulas Abertas «O Realismo Mágico aquém e além da Amér
  ica Latina» Ciclo de Aulas Abertas «O Realismo Mágico aquém e além da
   América Latina»
-LOCATION:Faculdade de Letras da Universidade de Lisboa
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/ciclo-de-aulas-abertas-
  o-realismo-magico-aquem-e-alem-da-america-latina
 URL:https://lykeion.pt/e/ciclo-de-aulas-abertas-o-realismo-magico-aquem-e-a
  lem-da-ame-92926.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aula-aberta-f4739-2026-11-12@lagenda.pt
+UID:aula-aberta-b17b2-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T183000
+DTSTART;TZID=Europe/Lisbon:20261112T100000
 SUMMARY:Aula Aberta
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/aula-aberta-politicas-publicas
- -com-vitor-bento-e-miguel-morgado
-URL:https://lykeion.pt/e/aula-aberta-f4739.html
+LOCATION:Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://chul.letras.ulisboa.pt/evento/aula-aberta-o-manto-tupin
+ amba-um-objeto-acronico-e-incomodo-da-historiografia/
+URL:https://lykeion.pt/e/aula-aberta-b17b2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-bem-estar-crescimento-e-proposito-ao-longo-da-vi-18565-2026
@@ -215,6 +239,17 @@ LOCATION:Universidade Lusíada\, Porto
 DESCRIPTION:https://www.por.ulusiada.pt/noticias/evento.php?cod=3504
 URL:https://lykeion.pt/e/aula-aberta-centro-de-recursos-para-a-inclusao-o-t
  rabalho-em-b0931.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-o-regime-juridico-da-educacao-inclusiva-773d0-2026-11-13@la
+ genda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T090000
+SUMMARY:Aula Aberta «o Regime Jurídico da Educação Inclusiva»
+LOCATION:Universidade Lusíada\, Porto
+DESCRIPTION:https://www.por.ulusiada.pt/noticias/evento.php?cod=3505
+URL:https://lykeion.pt/e/aula-aberta-o-regime-juridico-da-educacao-inclusiv
+ a-773d0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-open-class-climate-change-alternative-resources-an-49ff0-2026
@@ -284,17 +319,6 @@ URL:https://lykeion.pt/e/aula-aberta-investigacao-com-pessoas-vitimizadas-q
  ue-desafio-46cec.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aula-aberta-o-regime-juridico-da-educacao-inclusiva-f06f5-2026-11-16@la
- genda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T090000
-SUMMARY:Aula Aberta «o Regime Jurídico da Educação Inclusiva»
-LOCATION:Universidade Lusíada\, Porto
-DESCRIPTION:https://www.por.ulusiada.pt/noticias/evento.php?cod=3505
-URL:https://lykeion.pt/e/aula-aberta-o-regime-juridico-da-educacao-inclusiv
- a-f06f5.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-servico-social-em-contexto-escolar-praticas-e-de-b397e-2026
  -11-16@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -344,6 +368,20 @@ URL:https://lykeion.pt/e/aula-aberta-investigacao-com-pessoas-vitimizadas-q
  ue-desafio-bf49e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-projetos-que-comecam-pequeninos-o-trabalho-de-pr-bf0ed-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Aula Aberta: Projetos que começam pequeninos: o trabalho de projet
+ o em creche.
+LOCATION:Observatório da Formação e da Educação Inclusiva (OFEI)\, Por
+ to
+DESCRIPTION:https://ofei.esepf.pt/?mec-events=aula-aberta-o-educador-coorde
+ nador-e-diretor-uma-outra-faceta-profissional-2-2
+URL:https://lykeion.pt/e/aula-aberta-projetos-que-comecam-pequeninos-o-trab
+ alho-de-pr-bf0ed.html
+END:VEVENT
+BEGIN:VEVENT
 UID:inesc-id-distinguished-lecture-professor-robbert-van-renness-f2d62-2026
  -11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -387,8 +425,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T150000
 SUMMARY:Aula Aberta: Epistemologias feministas no Sul Global: história dos
   conceitos e linguagens políticas a partir da escrevivência
-LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
- iada\, Porto
+LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:https://isociologia.up.pt/eventos/epistemologias-feministas-no-
  sul-global-historia-dos-conceitos-e-linguagens-politicas
 URL:https://lykeion.pt/e/aula-aberta-epistemologias-feministas-no-sul-globa

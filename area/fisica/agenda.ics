@@ -6,6 +6,19 @@ X-WR-CALNAME:Física (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:sportdiscus-fontes-de-pesquisa-sobre-ciencias-da-atividade-f-72e87-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:SPORTDiscus: Fontes de pesquisa sobre ciências da atividade fisíc
+ a e do desporto
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+DESCRIPTION:https://www.ualg.pt/sportdiscus-fontes-de-pesquisa-sobre-cienci
+ as-da-atividade-fisica-e-do-desporto
+URL:https://lykeion.pt/e/sportdiscus-fontes-de-pesquisa-sobre-ciencias-da-a
+ tividade-f-72e87.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-negative-atmospheres-33a13-2026-11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T083000
@@ -16,7 +29,7 @@ DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/seminario-negative-atmosphe
 URL:https://lykeion.pt/e/seminario-negative-atmospheres-33a13.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-entre-fisicos-2026-encontro-anual-da-comunidade-de-69429-2026-
+UID:encontro-entre-fisicos-2026-encontro-anual-da-comunidade-de-d7fda-2026-
  11-14@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T090000
@@ -24,10 +37,9 @@ SUMMARY:Encontro “Entre Físicos 2026”: Encontro Anual da comunidade de
   Física Médica
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://events.timely.fun/2x770b0s/event/encontro-entre-fisicos
- -2026-encontro-anual-da-comunidade-de-fisica-medica?instance_id=2026111409
- 0000
+ -2026?instance_id=20261114090000
 URL:https://lykeion.pt/e/encontro-entre-fisicos-2026-encontro-anual-da-comu
- nidade-de-69429.html
+ nidade-de-d7fda.html
 END:VEVENT
 BEGIN:VEVENT
 UID:congress-physics-cases-and-instrumentation-for-the-eurisol-d-4d6c1-2026
@@ -71,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-7d131-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T083000
+DTSTART;VALUE=DATE:20261118
 SUMMARY:Seminário
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/seminario-active-hotspots/

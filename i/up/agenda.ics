@@ -6,6 +6,19 @@ X-WR-CALNAME:Universidade do Porto (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:cem-cultura-espaco-e-memoria-n-o-23-chamada-de-artigos-da9c3-2026-11-08
+ @lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:CEM - Cultura\, Espaço e Memória\, n.o 23_chamada de artigos
+LOCATION:Centro de Investigação Transdisciplinar Cultura Espaço e Memór
+ ia\, Porto
+DESCRIPTION:https://citcem.org/eventos/chamada-de-artigos-cem-cultura-espac
+ o-e-memoria-n-o-23/
+URL:https://lykeion.pt/e/cem-cultura-espaco-e-memoria-n-o-23-chamada-de-art
+ igos-da9c3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:cartografias-poeticas-por-helena-cardoso-exposicao-b2aba-2026-11-08@lag
  enda.pt
 DTSTAMP:20261108T000000Z
@@ -38,17 +51,18 @@ DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
 URL:https://lykeion.pt/e/exposicao-239fa.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-7c0a9-2026-
+UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
  11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T180000
+DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
  , em torno da obra de José Leite de Vasconcelos (1858-1941)
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-fotografia-augusto-le
- mos-imagens-anuncia
+DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-de-fo
+ tografia-de-augusto-lemos-imagens-anunciadas-em-torno-da-obra-de-jose-leit
+ e-de-vasconcelos-1858-1941/
 URL:https://lykeion.pt/e/exposicao-de-fotografia-de-augusto-lemos-imagens-a
- nunciadas-7c0a9.html
+ nunciadas-13a55.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-o-caminho-da-beleza-1d9fd-2026-11-08@lagenda.pt
@@ -85,6 +99,18 @@ URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
  ltramar-76f20.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-08@la
+ genda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição «Reinterpretações: da Escrita à Sétima Arte»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
+ erpretacoes-da-escrita-a-setima-arte/
+URL:https://lykeion.pt/e/exposicao-reinterpretacoes-da-escrita-a-setima-art
+ e-cb00e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
  -11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -96,6 +122,26 @@ DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
  5485
 URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
  -inteligen-a9a54.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-de-abertura-cdbbe-2026-11-09@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Conferência de Abertura
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-de-abertura-jorna
+ das-de-investigacao-2026
+URL:https://lykeion.pt/e/conferencia-de-abertura-cdbbe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-os-proximos-cinco-anos-793ca-2026-11-09@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Conferência «Os próximos cinco anos»
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-os-proximos-cinco
+ -anos-jornadas-de-investigacao-2026
+URL:https://lykeion.pt/e/conferencia-os-proximos-cinco-anos-793ca.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-clup-26-do-legado-ao-desafio-da-inovacao-50-anos-01dd1-2026-11
@@ -118,6 +164,18 @@ LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:http://www.up.pt/casacomum/eventos/ganhar-asas-ciclo-de-worksho
  ps/
 URL:https://lykeion.pt/e/ganhar-asas-ciclo-de-workshops-5c3aa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:jornadas-is-up-e-conferencia-anual-do-instituto-de-sociologi-59c44-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Jornadas IS-UP e Conferência Anual do Instituto de Sociologia
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:https://isociologia.up.pt/eventos/jornadas-e-conferencia-anual-
+ do-instituto-de-sociologia
+URL:https://lykeion.pt/e/jornadas-is-up-e-conferencia-anual-do-instituto-de
+ -sociologi-59c44.html
 END:VEVENT
 BEGIN:VEVENT
 UID:jornadas-de-investigacao-do-is-up-f8d41-2026-11-09@lagenda.pt
@@ -275,13 +333,16 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-alexandra
  -raquel-ba-2b43d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminarios-fep-e646e-2026-11-09@lagenda.pt
+UID:seminarios-fep-investimento-internacional-numa-era-de-turbul-e646e-2026
+ -11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
-SUMMARY:Seminários FEP
+SUMMARY:Seminários FEP | Investimento Internacional numa Era de Turbulênc
+ ia (World Investment Report 2026)
 LOCATION:Faculdade de Economia da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/FEP/
-URL:https://lykeion.pt/e/seminarios-fep-e646e.html
+URL:https://lykeion.pt/e/seminarios-fep-investimento-internacional-numa-era
+ -de-turbul-e646e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-what-to-do-with-a-text-1f1a5-2026-11-10@lagenda.pt
@@ -625,6 +686,16 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-ederia-is
  abel-rodri-12111.html
 END:VEVENT
 BEGIN:VEVENT
+UID:cafe-ciencia-9d751-2026-11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Café Ciência
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/cafe-ciencia-o-nosso-clima-esta
+ -a-mudar-e-as-nossa
+URL:https://lykeion.pt/e/cafe-ciencia-9d751.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ciclo-de-cinema-bioetica-da-fmup-5586d-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T160000
@@ -792,13 +863,16 @@ URL:https://lykeion.pt/e/seminario-a-lideranca-feminina-no-desporto-a5d65.h
  tml
 END:VEVENT
 BEGIN:VEVENT
-UID:seminarios-fep-66cac-2026-11-12@lagenda.pt
+UID:seminarios-fep-economia-social-estado-atual-e-desafios-futur-66cac-2026
+ -11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
-SUMMARY:Seminários FEP
+SUMMARY:Seminários FEP | Economia social – Estado atual e desafios futur
+ os
 LOCATION:Faculdade de Economia da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/FEP/
-URL:https://lykeion.pt/e/seminarios-fep-66cac.html
+URL:https://lykeion.pt/e/seminarios-fep-economia-social-estado-atual-e-desa
+ fios-futur-66cac.html
 END:VEVENT
 BEGIN:VEVENT
 UID:13-november-2026-xtremers-symposium-on-body-as-interface-for-5c074-2026
@@ -1668,6 +1742,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciado-vitor-bor
  ba-shnaide-cb546.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-epistemologias-feministas-no-sul-global-historia-c03e9-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T150000
+SUMMARY:Aula Aberta: Epistemologias feministas no Sul Global: história dos
+  conceitos e linguagens políticas a partir da escrevivência
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:https://isociologia.up.pt/eventos/epistemologias-feministas-no-
+ sul-global-historia-dos-conceitos-e-linguagens-politicas
+URL:https://lykeion.pt/e/aula-aberta-epistemologias-feministas-no-sul-globa
+ l-historia-c03e9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:hitech-2027-information-session-at-i3s-a4156-2026-11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T143000
@@ -1848,16 +1935,6 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-aurea-mar
  ia-felix-m-b0c6b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2o-workshop-projeto-caop-f8fbb-2026-11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261120
-SUMMARY:2o Workshop Projeto CAOP
-LOCATION:Centro de Investigação do Território Transportes e Ambiente\, P
- orto
-DESCRIPTION:https://citta.fe.up.pt/events/2o-workshop-projeto-caop
-URL:https://lykeion.pt/e/2o-workshop-projeto-caop-f8fbb.html
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-mestrado-em-medicina-e-oncologia-moleculares-85814-2026-11-20@
  lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -1868,6 +1945,18 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19383
 URL:https://lykeion.pt/e/prova-de-mestrado-em-medicina-e-oncologia-molecula
  res-85814.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-tiago-miguel-costa-nunes-pinto-2f962-2026-11-
+ 20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T143000
+SUMMARY:Provas de Doutoramento de Tiago Miguel Costa Nunes Pinto
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:https://isociologia.up.pt/eventos/provas-de-doutoramento-de-tia
+ go-miguel-costa-nunes-pinto
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-tiago-miguel-costa-nunes
+ -pinto-2f962.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-clara-costa-paolino-reforma-ou-ruptura-1bb33-2026

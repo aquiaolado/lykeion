@@ -6,23 +6,11 @@ X-WR-CALNAME:Informática e Dados (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:20-o-congresso-do-comite-portugues-da-ursi-8bf96-2026-11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:20.º Congresso do Comité Português da URSI
-LOCATION:Faculdade de Ciências da Universidade de Lisboa
-DESCRIPTION:https://ciencias.ulisboa.pt/eventos/20-congresso-do-comite-port
- ugues-da-ursi
-URL:https://lykeion.pt/e/20-o-congresso-do-comite-portugues-da-ursi-8bf96.h
- tml
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-de-abertura-cdbbe-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T091500
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Conferência de Abertura
-LOCATION:Sociedade Portuguesa para o Estudo da Criança Abusada e Negligenc
- iada\, Porto
+LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-de-abertura-jorna
  das-de-investigacao-2026
 URL:https://lykeion.pt/e/conferencia-de-abertura-cdbbe.html
@@ -151,6 +139,18 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
 URL:https://lykeion.pt/e/prova-de-mestrado-em-informatica-medica-e2354.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-ia-superinteligente-e-o-sentido-na-vida-b0337-2026-11-10@lage
+ nda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T103000
+SUMMARY:Seminário: IA superinteligente e o sentido na vida
+LOCATION:Instituto de Filosofia da Nova
+DESCRIPTION:http://ifilnova.pt/eventos/ia-superinteligente-e-o-sentido-na-v
+ ida/
+URL:https://lykeion.pt/e/seminario-ia-superinteligente-e-o-sentido-na-vida-
+ b0337.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-ieee-aess-spacetech-b0d60-2026-11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261110
@@ -274,20 +274,6 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  01472
 URL:https://lykeion.pt/e/provas-de-mestrado-de-jose-pedro-da-cunha-alegre-g
  oncalves-o-e8510.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-ia-e-o-futuro-da-investigacao-em-ciencias-juridica-f4b4b-2026
- -11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T180000
-SUMMARY:Seminário IA e o futuro da investigação em Ciências Jurídicas 
- e Gestão
-LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
-  Lisboa
-DESCRIPTION:https://www.iscal.upl.pt/eventos/seminario-ia-e-o-futuro-da-inv
- estigacao-em-ciencias-juridicas-e-gestao
-URL:https://lykeion.pt/e/seminario-ia-e-o-futuro-da-investigacao-em-ciencia
- s-juridica-f4b4b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:santarem-recebe-conferencia-nacional-dedicada-a-criptoeconom-51903-2026

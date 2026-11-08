@@ -20,13 +20,27 @@ BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-08@lagenda
  .pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T170000
 SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
  o-do-coracao-de-ana-janeiro/
 URL:https://lykeion.pt/e/exposicao-damao-fogo-do-coracao-de-ana-janeiro-308
  38.html
+END:VEVENT
+BEGIN:VEVENT
+UID:programa-de-desenvolvimento-de-investigacao-do-capp-oficinas-b0866-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T173000
+SUMMARY:Programa de Desenvolvimento de Investigação do CAPP: Oficinas de 
+ Escrita e Publicação 2026
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
+ ograma-de-desenvolvimento-de-investigacao-do-capp-oficinas-de-escrita-e-pu
+ blicacao-2026
+URL:https://lykeion.pt/e/programa-de-desenvolvimento-de-investigacao-do-cap
+ p-oficinas-b0866.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2-o-simposio-de-investigacao-em-licenciaturas-do-iscte-simpo-573b7-2026
@@ -78,7 +92,7 @@ BEGIN:VEVENT
 UID:seminario-navigating-the-future-of-tourism-ar-vr-and-xr-62324-2026-11-0
  9@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T141500
 SUMMARY:Seminário: Navigating the Future of Tourism: AR\, VR\, and XR...
 LOCATION:Universidade de Évora\, Évora
 DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47815
@@ -263,7 +277,7 @@ BEGIN:VEVENT
 UID:encontro-a-fauna-e-flora-terrestre-e-marinha-130a4-2026-11-11@lagenda.p
  t
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T093000
 SUMMARY:Encontro: «A Fauna e Flora Terrestre e Marinha»
 LOCATION:Universidade de Évora\, Évora
 DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47759
@@ -417,6 +431,18 @@ DESCRIPTION:https://www.ulsne.min-saude.pt/eventos/seminario-implementacao-
 URL:https://lykeion.pt/e/seminario-implementacao-do-e-bug-7b346.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminarios-fep-economia-social-estado-atual-e-desafios-futur-66cac-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Seminários FEP | Economia social – Estado atual e desafios futur
+ os
+LOCATION:Faculdade de Economia da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/FEP/
+URL:https://lykeion.pt/e/seminarios-fep-economia-social-estado-atual-e-desa
+ fios-futur-66cac.html
+END:VEVENT
+BEGIN:VEVENT
 UID:apresentacao-do-livro-para-alem-da-regionalizacao-b5a52-2026-11-13@lage
  nda.pt
 DTSTAMP:20261108T000000Z
@@ -466,33 +492,6 @@ DESCRIPTION:https://www.uc.pt/uid/ceber/eventos/predict-or-to-be-predicted-
  nd-sentiment-index/
 URL:https://lykeion.pt/e/13-11-26-predict-or-to-be-predicted-a-transfer-ent
  ropy-view-fa609.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-ia-e-o-futuro-da-investigacao-em-ciencias-juridica-f4b4b-2026
- -11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T180000
-SUMMARY:Seminário IA e o futuro da investigação em Ciências Jurídicas 
- e Gestão
-LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
-  Lisboa
-DESCRIPTION:https://www.iscal.upl.pt/eventos/seminario-ia-e-o-futuro-da-inv
- estigacao-em-ciencias-juridicas-e-gestao
-URL:https://lykeion.pt/e/seminario-ia-e-o-futuro-da-investigacao-em-ciencia
- s-juridica-f4b4b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-47b9c-2026
- -11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T093000
-SUMMARY:Seminário: A mobilidade transnacional dos trabalhadores e das empr
- esas
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/seminario-mobilidade-transnaci
- onal-dos-trabalhadores-e-das-empresas
-URL:https://lykeion.pt/e/seminario-a-mobilidade-transnacional-dos-trabalhad
- ores-e-das-47b9c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ultima-licao-do-professor-doutor-francisco-louca-c84f5-2026-11-13@lagen
@@ -558,18 +557,6 @@ DESCRIPTION:https://eurocid.mne.gov.pt/eventos/migracoes-e-parcerias-intern
  acionais-conferencia-sobre-o-futuro-da-europa
 URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-9217
  9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:implementar-ferramentas-analiticas-em-marketing-digital-ae979-2026-11-1
- 6@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Implementar ferramentas analíticas em marketing digital
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18451.html?order_by=-1
-URL:https://lykeion.pt/e/implementar-ferramentas-analiticas-em-marketing-di
- gital-ae979.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-rodrigues-da-costa-nogueira-asses-df5b9-2026
@@ -657,7 +644,7 @@ BEGIN:VEVENT
 UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
  -17@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:Seminário “Criatividade\, Turismo e Desenvolvimento Regional
 LOCATION:Universidade Portucalense\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese
@@ -738,18 +725,16 @@ URL:https://lykeion.pt/e/seminario-internacional-da-formacao-a-competicao-c
  omo-concil-9540c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
- -11-18@lagenda.pt
+UID:utilizacao-da-plataforma-de-gestao-documental-edoc-4d01c-2026-11-18@lag
+ enda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
- migration\, Health and Wellbeing
-LOCATION:Nova SBE\, Cascais
-DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
- e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
- pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
-URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
- orkshop-on-fd2e8.html
+SUMMARY:Utilização da plataforma de Gestão Documental EDOC
+LOCATION:NFC - Núcleo de Formação Contínua\, Portalegre
+DESCRIPTION:https://nfc.ipportalegre.pt/agenda/utilizacao-da-plataforma-de-
+ gestao-documental-edoc-18nov2026/
+URL:https://lykeion.pt/e/utilizacao-da-plataforma-de-gestao-documental-edoc
+ -4d01c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:13o-forum-de-gestao-de-dados-de-investigacao-831e4-2026-11-19@lagenda.p
@@ -837,13 +822,15 @@ URL:https://lykeion.pt/e/conferencia-terceiro-setor-novos-desafios-novas-re
  spostas-fbd99.html
 END:VEVENT
 BEGIN:VEVENT
-UID:experiment-e4cdf-2026-11-20@lagenda.pt
+UID:ferramentas-de-gestao-da-qualidade-3e982-2026-11-20@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261120
-SUMMARY:Experiment
-LOCATION:Nova SBE\, Cascais
-DESCRIPTION:https://www.eventbrite.pt/e/experiment-tickets-2001394905037
-URL:https://lykeion.pt/e/experiment-e4cdf.html
+SUMMARY:Ferramentas de Gestão da Qualidade
+LOCATION:Associação Colab4Food – Laboratório Colaborativo para a Inova
+ ção da Indústria Agroalimentar\, Vila do Conde
+DESCRIPTION:https://colab4food.com/events/ferramentas-de-gestao-da-qualidad
+ e/
+URL:https://lykeion.pt/e/ferramentas-de-gestao-da-qualidade-3e982.html
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-writing-rewriting-surviving-the-graduates-guide-39e16-2026-

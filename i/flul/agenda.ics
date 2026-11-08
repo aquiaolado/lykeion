@@ -6,12 +6,24 @@ X-WR-CALNAME:Faculdade de Letras da Universidade de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:artis-workshops-de-historia-da-arte-e-patrimonio-1db2b-2026-11-08@lagen
+ da.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T110000
+SUMMARY:Artis + [workshops de História da Arte e Património
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:http://www.artis.letras.ulisboa.pt/eventos\,9\,2454\,detalhe.as
+ px
+URL:https://lykeion.pt/e/artis-workshops-de-historia-da-arte-e-patrimonio-1
+ db2b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:iii-jornadas-de-iniciacao-cientifica-em-estudos-literarios-a21bd-2026-1
  1-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:III Jornadas de Iniciação Científica em Estudos Literários
-LOCATION:Faculdade de Letras da Universidade de Lisboa
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/iii-jornadas-de-iniciac
  ao-cientifica-em-estudos-literarios
 URL:https://lykeion.pt/e/iii-jornadas-de-iniciacao-cientifica-em-estudos-li
@@ -33,11 +45,11 @@ BEGIN:VEVENT
 UID:aula-aberta-conferencia-public-archaeology-and-the-managemen-df7fc-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Aula Aberta / Conferência: «Public Archaeology and the Management
   of Megalithic Heritage: The Sicilian Case»\, por Valentina Molozzu (Univ
  ersidad Complutense de Madrid)
-LOCATION:Faculdade de Letras da Universidade de Lisboa
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/aula-aberta-conferencia
  -public-archaeology-and-the-management-of-megalithic-heritage-the-sicilian
  -case-por-valentina-molozzu-universidad-complutense-de-madrid
@@ -75,7 +87,7 @@ DTSTART;TZID=Europe/Lisbon:20261110T080000
 SUMMARY:International Conference - Historicizing Global Contemporary Art Ma
  rkets: Trajectories\, Infrastructures\, and Regimes of Value International
   Conference - Historicizing Global Contemporary Art Markets
-LOCATION:Faculdade de Letras da Universidade de Lisboa
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/international-conferenc
  e-historicizing-global-contemporary-art-markets-trajectories-infrastructur
  es-and-regimes-of-value
@@ -89,7 +101,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T183000
 SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
  ra
-LOCATION:Faculdade de Letras da Universidade de Lisboa
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/workshop-de-filosofia-e
  -literatura-49
 URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
@@ -103,7 +115,7 @@ DTSTART;TZID=Europe/Lisbon:20261111T150000
 SUMMARY:Ciclo de Aulas Abertas «O Realismo Mágico aquém e além da Amér
  ica Latina» Ciclo de Aulas Abertas «O Realismo Mágico aquém e além da
   América Latina»
-LOCATION:Faculdade de Letras da Universidade de Lisboa
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/ciclo-de-aulas-abertas-
  o-realismo-magico-aquem-e-alem-da-america-latina
 URL:https://lykeion.pt/e/ciclo-de-aulas-abertas-o-realismo-magico-aquem-e-a
@@ -113,7 +125,7 @@ BEGIN:VEVENT
 UID:mestrado-em-ciencias-da-documentacao-e-informacao-1f04a-2026-11-11@lage
  nda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T103000
 SUMMARY:Mestrado em Ciências da Documentação e Informação
 LOCATION:Faculdade de Letras da Universidade de Lisboa
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/mestrado-em-ciencias-da
@@ -148,7 +160,7 @@ BEGIN:VEVENT
 UID:lisbon-classics-seminars-professor-lowell-edmunds-rutgers-un-f400f-2026
  -11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T170000
 SUMMARY:Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Univers
  ity) Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Universit
  y)
@@ -165,7 +177,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T183000
 SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
  ra
-LOCATION:Faculdade de Letras da Universidade de Lisboa
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/workshop-de-filosofia-e
  -literatura-51
 URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
@@ -193,6 +205,18 @@ DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-doacoes-na-ar
  ea-das-literaturas-e-culturas-do-mundo
 URL:https://lykeion.pt/e/exposicao-doacoes-na-area-das-literaturas-e-cultur
  as-do-mund-ecfaa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-congresso-internacional-a-hidraulica-em-edificios-monume-53210-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:III Congresso Internacional a Hidráulica em Edifícios Monumentais
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:http://www.artis.letras.ulisboa.pt/eventos\,9\,2447\,detalhe.as
+ px
+URL:https://lykeion.pt/e/iii-congresso-internacional-a-hidraulica-em-edific
+ ios-monume-53210.html
 END:VEVENT
 BEGIN:VEVENT
 UID:mestrado-em-ciencias-da-documentacao-e-informacao-1f04a-2026-11-20@lage

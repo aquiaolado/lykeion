@@ -6,6 +6,20 @@ X-WR-CALNAME:Congressos e jornadas de saúde (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:ciuhct-na-organizacao-do-iii-encontro-luso-brasileiro-de-his-b7779-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T090000
+SUMMARY:CIUHCT na organização do III Encontro Luso-brasileiro de Históri
+ a da Medicina Tropical
+LOCATION:Departamento de Ciências Sociais Aplicadas da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcsa.fct.unl.pt/eventos/2018/10/ciuhct-na-organizac
+ ao-do-iii-encontro-luso-brasileiro-de-historia-da-medicina-tropical-5-9-no
+ vembro
+URL:https://lykeion.pt/e/ciuhct-na-organizacao-do-iii-encontro-luso-brasile
+ iro-de-his-b7779.html
+END:VEVENT
+BEGIN:VEVENT
 UID:x-congresso-de-medicina-felina-geriatria-e-cuidados-paliativ-ea057-2026
  -11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -155,7 +169,7 @@ DESCRIPTION:https://essnortecvp.pt/pt/eventos/jornadas-viver-com-a-diabetes
 URL:https://lykeion.pt/e/2as-jornadas-viver-com-a-diabetes-19a53.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-entre-fisicos-2026-encontro-anual-da-comunidade-de-69429-2026-
+UID:encontro-entre-fisicos-2026-encontro-anual-da-comunidade-de-d7fda-2026-
  11-14@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T090000
@@ -163,10 +177,18 @@ SUMMARY:Encontro “Entre Físicos 2026”: Encontro Anual da comunidade de
   Física Médica
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://events.timely.fun/2x770b0s/event/encontro-entre-fisicos
- -2026-encontro-anual-da-comunidade-de-fisica-medica?instance_id=2026111409
- 0000
+ -2026?instance_id=20261114090000
 URL:https://lykeion.pt/e/encontro-entre-fisicos-2026-encontro-anual-da-comu
- nidade-de-69429.html
+ nidade-de-d7fda.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-dia-mundial-da-diabetes-2ec78-2026-11-16@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T140000
+SUMMARY:Encontro: Dia Mundial da Diabetes
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47750
+URL:https://lykeion.pt/e/encontro-dia-mundial-da-diabetes-2ec78.html
 END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-saude-mental-e-seguranca-4f4a4-2026-11-17@lagenda.pt
@@ -233,6 +255,15 @@ DESCRIPTION:https://www.muzeu.com/pt/eventos/epifanias-e-acolhimentos-encon
  tro-rede-portuguesa-humanidades-medicas
 URL:https://lykeion.pt/e/iii-encontro-da-rede-portuguesa-de-humanidades-med
  icas-60a63.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-encontro-de-tecnicos-de-secretariado-bf22b-2026-11-19@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:IV Encontro de Técnicos de Secretariado
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://esght.ualg.pt/iv-encontro-de-tecnicos-de-secretariado
+URL:https://lykeion.pt/e/iv-encontro-de-tecnicos-de-secretariado-bf22b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-in2me-congresso-de-educacao-medica-da-faculdade-de-cienci-7d8ce-2026

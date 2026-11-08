@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-1d671-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T103000
 SUMMARY:Prova Pública de Mestrado
 LOCATION:Universidade Portucalense\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-477/
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-47410-2026-11-13@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T150000
 SUMMARY:Prova Pública de Mestrado
 LOCATION:Universidade Portucalense\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-478/
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 UID:viii-congresso-internacional-de-politicas-publicas-e-desenvo-cc2ca-2026
  -11-13@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T180000
 SUMMARY:VIII Congresso Internacional de Políticas Públicas e Desenvolvime
  nto Social
 LOCATION:Universidade Portucalense\, Porto
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
  -17@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:Seminário “Criatividade\, Turismo e Desenvolvimento Regional
 LOCATION:Universidade Portucalense\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese

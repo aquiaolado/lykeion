@@ -6,17 +6,18 @@ X-WR-CALNAME:Faculdade de Letras da Universidade do Porto (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-7c0a9-2026-
+UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
  11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T180000
+DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
  , em torno da obra de José Leite de Vasconcelos (1858-1941)
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-fotografia-augusto-le
- mos-imagens-anuncia
+DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-de-fo
+ tografia-de-augusto-lemos-imagens-anunciadas-em-torno-da-obra-de-jose-leit
+ e-de-vasconcelos-1858-1941/
 URL:https://lykeion.pt/e/exposicao-de-fotografia-de-augusto-lemos-imagens-a
- nunciadas-7c0a9.html
+ nunciadas-13a55.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
@@ -29,6 +30,18 @@ DESCRIPTION:https://www.up.pt/eventos/event/exposicao-raquel-soeiro-de-brit
  o-uma-geografa
 URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
  ltramar-76f20.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-08@la
+ genda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição «Reinterpretações: da Escrita à Sétima Arte»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
+ erpretacoes-da-escrita-a-setima-arte/
+URL:https://lykeion.pt/e/exposicao-reinterpretacoes-da-escrita-a-setima-art
+ e-cb00e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-clup-26-do-legado-ao-desafio-da-inovacao-50-anos-01dd1-2026-11

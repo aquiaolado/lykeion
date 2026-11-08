@@ -6,6 +6,16 @@ X-WR-CALNAME:Ciências da Terra e do Mar (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:conferencias-palestras-a1948-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T134500
+SUMMARY:Conferências/Palestras
+LOCATION:Casa do Território\, Vila Nova de Famalicão
+DESCRIPTION:https://www.parquedadevesa.com/_conferencia_ambientar-se_regene
+ rar&mop=7
+URL:https://lykeion.pt/e/conferencias-palestras-a1948.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-c64a7-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T020000
@@ -39,24 +49,24 @@ DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/seminario-negative-atmosphe
 URL:https://lykeion.pt/e/seminario-negative-atmospheres-33a13.html
 END:VEVENT
 BEGIN:VEVENT
-UID:adaptlocal-10-seminario-de-adaptacao-local-as-alteracoes-cli-760a5-2026
+UID:adaptlocal-10-o-seminario-de-adaptacao-local-as-alteracoes-c-760a5-2026
  -11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T090000
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Adaptlocal - 10.º Seminário de Adaptação Local às Alterações
   Climáticas
 LOCATION:CCC Centro Cultural e de Congressos das Caldas da Rainha\, Caldas 
  da Rainha
 DESCRIPTION:https://www.ccc.com.pt/
-URL:https://lykeion.pt/e/adaptlocal-10-seminario-de-adaptacao-local-as-alte
- racoes-cli-760a5.html
+URL:https://lykeion.pt/e/adaptlocal-10-o-seminario-de-adaptacao-local-as-al
+ teracoes-c-760a5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-ciencia-9d751-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Café Ciência
-LOCATION:Instituto de Hidráulica e Recursos Hídricos\, Porto
+LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/cafe-ciencia-o-nosso-clima-esta
  -a-mudar-e-as-nossa
 URL:https://lykeion.pt/e/cafe-ciencia-9d751.html

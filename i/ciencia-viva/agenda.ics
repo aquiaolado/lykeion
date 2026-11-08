@@ -6,6 +6,15 @@ X-WR-CALNAME:Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:8-novembro-b4779-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:8 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/8-novembro-b4779.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ciencia-viva-bcc60-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T170000
@@ -33,6 +42,16 @@ LOCATION:Centro Ciência Viva de Bragança\, Bragança
 DESCRIPTION:https://braganca.cienciaviva.pt/3200/ciencia-em-familia---14-de
  -novembro
 URL:https://lykeion.pt/e/ciencia-em-familia-94e87.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cores-e-sabores-do-outono-093f1-2026-11-14@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T103000
+SUMMARY:Cores e Sabores do Outono
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
+ cia/manhas-de-ciencia
+URL:https://lykeion.pt/e/cores-e-sabores-do-outono-093f1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:historias-vivas-como-apanhar-uma-estrela-de-oliver-jeffers-1-e59e7-2026

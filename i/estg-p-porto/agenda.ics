@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ESTG-P.PORTO (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:workshop-15de3-2026-11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T190000
+SUMMARY:Workshop
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-ethics-integrity-and
+ -ai-in-research-2
+URL:https://lykeion.pt/e/workshop-15de3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-d0e87-2026-11-18@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T190000
+SUMMARY:Workshop
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-scientific-communica
+ tion-and-presentation-techniques-2
+URL:https://lykeion.pt/e/workshop-d0e87.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-05d87-2026-11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T190000
+SUMMARY:Workshop
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-data-analysis-in-jas
+ p-3
+URL:https://lykeion.pt/e/workshop-05d87.html
+END:VEVENT
+END:VCALENDAR

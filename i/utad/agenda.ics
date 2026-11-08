@@ -6,10 +6,19 @@ X-WR-CALNAME:UTAD (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:semana-da-ciencia-tecnologia-2026-0a9a6-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Semana da Ciência & Tecnologia 2026
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/semana-ciencia-tecnologia-2026/
+URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-2026-0a9a6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-refloresta-tecnicas-de-prevencao-de-incendios-e-in-359be-2026
  -11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T093000
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Seminário Refloresta: Técnicas de prevenção de incêndios e int
  ervenção em áreas ardidas
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -36,7 +45,7 @@ BEGIN:VEVENT
 UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
  11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T083000
+DTSTART;VALUE=DATE:20261118
 SUMMARY:SEMINÁRIO - Active Hotspots: Tecnologia\, Sustentabilidade e Bem-E
  star
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -47,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-7d131-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T083000
+DTSTART;VALUE=DATE:20261118
 SUMMARY:Seminário
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/seminario-active-hotspots/
@@ -56,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-origami-uma-folha-infinitas-2499d-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T160000
+DTSTART;VALUE=DATE:20261118
 SUMMARY:Workshop de Origami: Uma folha\, infinitas
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/workshop-origami-uma-folha-infin

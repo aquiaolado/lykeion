@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:apresentacao-do-livro-arqueologia-nos-territorios-da-literat-69554-2026
  -11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T160000
+DTSTART;TZID=Europe/Lisbon:20261108T090000
 SUMMARY:Apresentação do livro Arqueologia nos Territórios da Literatura 
  08-NOV-2026
 LOCATION:Moimenta da Beira\, Moimenta da Beira
@@ -26,6 +26,7 @@ DTSTART;TZID=Europe/Lisbon:20261109T120000
 SUMMARY:Lançamento do livro: «O Governo dos Outros. Poder e Diferença no
   Império Português»
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+ \, Alvalade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/lancamento-do-livro-o-gove
  rno-dos-outros-poder-e-diferenca-no-imperio-portugues
 URL:https://lykeion.pt/e/lancamento-do-livro-o-governo-dos-outros-poder-e-d
@@ -35,7 +36,7 @@ BEGIN:VEVENT
 UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-89f8c-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T183000
 SUMMARY:Lançamento do livro: «A Morte medicamente assistida à luz da Con
  stituição»
 LOCATION:Universidade Católica Portuguesa
@@ -50,7 +51,7 @@ UID:apresentacao-do-livro-imaginacao-livro-2-utopias-ciencias-e-906b1-2026-
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Apresentação do livro “Imaginação – Livro 2\, Utopias\, ci
- ências e vida quotidiana”
+ ências e vida quotidiana
 LOCATION:Fonte de Letras\, Évora
 DESCRIPTION:
 URL:https://lykeion.pt/e/apresentacao-do-livro-imaginacao-livro-2-utopias-c
@@ -70,7 +71,7 @@ BEGIN:VEVENT
 UID:apresentacao-do-livro-a-seguranca-e-saude-no-trabalho-um-enq-dc757-2026
  -11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T173000
 SUMMARY:Apresentação do livro «A Segurança e Saúde no Trabalho: um Enq
  uadramento Jurídico-Laboral dos Riscos Psicossociais»
 LOCATION:Universidade Católica Portuguesa
@@ -132,10 +133,24 @@ UID:apresentacao-do-livro-maldito-minerio-d7858-2026-11-20@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T213000
 SUMMARY:Apresentação do livro “Maldito Minério
-LOCATION:Museu Etnográfico de Vila Real\, Vila Real
+LOCATION:Centro Cultural Regional de Vila Real\, Vila Real
 DESCRIPTION:https://ccr-vilareal.pt/eventos/apresentacao-do-livro-maldito-m
  inerio/
 URL:https://lykeion.pt/e/apresentacao-do-livro-maldito-minerio-d7858.html
+END:VEVENT
+BEGIN:VEVENT
+UID:culturelab-lancamento-21-11-2026-lancamento-do-livro-novo-fa-b351d-2026
+ -11-21@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T180000
+SUMMARY:CultureLab • Lançamento 21/11/2026 Lançamento do livro (Novo) F
+ ascismo\, de Nidesh... Com Nidesh Lawtoo\, Maria João Mayer Branco\, Tere
+ sa Projecto\, Sara Belo e Pedro Bismarck
+LOCATION:Instituto de Filosofia da Nova
+DESCRIPTION:http://ifilnova.pt/eventos/lancamento-do-livro-novo-fascismo-de
+ -nidesh-lawtoo/
+URL:https://lykeion.pt/e/culturelab-lancamento-21-11-2026-lancamento-do-liv
+ ro-novo-fa-b351d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-de-livro-de-caxias-a-penamacor-uma-passado-presen-d8ff8-2026

@@ -6,6 +6,24 @@ X-WR-CALNAME:Ciência para todos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:8-novembro-b4779-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:8 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/8-novembro-b4779.html
+END:VEVENT
+BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:berlim-ciclo-de-cinema-portugues-ha-cinema-na-embaixada-6fb40-2026-11-0
  8@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -44,6 +62,15 @@ URL:https://lykeion.pt/e/cartografias-poeticas-por-helena-cardoso-exposicao
  -b2aba.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciencia-viva-bcc60-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T170000
+SUMMARY:Ciência Viva
+LOCATION:Ciência Viva\, Grândola
+DESCRIPTION:https://lousal.cienciaviva.pt/category/ciencia-viva/
+URL:https://lykeion.pt/e/ciencia-viva-bcc60.html
+END:VEVENT
+BEGIN:VEVENT
 UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
  -11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -55,6 +82,16 @@ DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
  r-dos-investigadores/
 URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
  lhar-dos-i-8501f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:convite-exposicao-73c38-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Convite Exposição
+LOCATION:Departamento de Conservação e Restauro da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcr.fct.unl.pt/eventos/2018/11/convite-exposicao-re
+ cordar-o-soldado-portugues-8-nov-27-jan-museu-militar-de-lisboa
+URL:https://lykeion.pt/e/convite-exposicao-73c38.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cook-lab-76570-2026-11-08@lagenda.pt
@@ -147,23 +184,34 @@ URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
  de-formas-ab38b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-7c0a9-2026-
- 11-08@lagenda.pt
+UID:exposicao-linhas-de-tensao-85621-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261108T180000
+SUMMARY:Exposição Linhas de Tensão
+LOCATION:Politécnico do Porto\, Porto
+DESCRIPTION:https://centrodecultura.ipp.pt/evento/exposicao-linhas-de-tensa
+ o/
+URL:https://lykeion.pt/e/exposicao-linhas-de-tensao-85621.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
+ 11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
  , em torno da obra de José Leite de Vasconcelos (1858-1941)
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-fotografia-augusto-le
- mos-imagens-anuncia
+DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-de-fo
+ tografia-de-augusto-lemos-imagens-anunciadas-em-torno-da-obra-de-jose-leit
+ e-de-vasconcelos-1858-1941/
 URL:https://lykeion.pt/e/exposicao-de-fotografia-de-augusto-lemos-imagens-a
- nunciadas-7c0a9.html
+ nunciadas-13a55.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-08@lagenda
  .pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T170000
 SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
@@ -216,6 +264,18 @@ DESCRIPTION:https://www.up.pt/eventos/event/exposicao-raquel-soeiro-de-brit
  o-uma-geografa
 URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
  ltramar-76f20.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-08@la
+ genda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição «Reinterpretações: da Escrita à Sétima Arte»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
+ erpretacoes-da-escrita-a-setima-arte/
+URL:https://lykeion.pt/e/exposicao-reinterpretacoes-da-escrita-a-setima-art
+ e-cb00e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
@@ -290,6 +350,16 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  -cris-iii-no-museu-beelden-aan-zee
 URL:https://lykeion.pt/e/haia-exposicao-rui-chafes-x-alberto-giacometti-gri
  s-vide-cri-bd362.html
+END:VEVENT
+BEGIN:VEVENT
+UID:horarios-b8bae-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Horários
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1195/exposicoes
+URL:https://lykeion.pt/e/horarios-b8bae.html
 END:VEVENT
 BEGIN:VEVENT
 UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
@@ -369,6 +439,15 @@ LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  portuguesa/agenda/paris-exposicao-au-milieu
 URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-tecnologia-2026-0a9a6-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Semana da Ciência & Tecnologia 2026
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/semana-ciencia-tecnologia-2026/
+URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-2026-0a9a6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seul-exposicao-joao-simoes-video-works-ec164-2026-11-08@lagenda.pt
@@ -478,7 +557,7 @@ UID:cafe-ciencia-9d751-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Café Ciência
-LOCATION:Instituto de Hidráulica e Recursos Hídricos\, Porto
+LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/cafe-ciencia-o-nosso-clima-esta
  -a-mudar-e-as-nossa
 URL:https://lykeion.pt/e/cafe-ciencia-9d751.html
@@ -522,6 +601,16 @@ DESCRIPTION:https://braganca.cienciaviva.pt/3200/ciencia-em-familia---14-de
 URL:https://lykeion.pt/e/ciencia-em-familia-94e87.html
 END:VEVENT
 BEGIN:VEVENT
+UID:cores-e-sabores-do-outono-093f1-2026-11-14@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T103000
+SUMMARY:Cores e Sabores do Outono
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
+ cia/manhas-de-ciencia
+URL:https://lykeion.pt/e/cores-e-sabores-do-outono-093f1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:feira-da-ciencia-do-nordeste-5641d-2026-11-14@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -563,6 +652,19 @@ DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16209-histórias-viva
  s-como-apanhar-uma-estrela\,-de-oliver-jeffers
 URL:https://lykeion.pt/e/historias-vivas-como-apanhar-uma-estrela-de-oliver
  -jeffers-1-e59e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-um-lustro-5-anos-5-temas-25-aguarelas-de-madureira-aa194-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T143000
+SUMMARY:Exposição: Um Lustro: 5 anos\, 5 temas\, 25 aguarelas de Madureir
+ a Pais
+LOCATION:Instituto Politécnico de Setúbal\, Barreiro
+DESCRIPTION:https://estbarreiro.unips.pt/eventos/exposicao-um-lustro-5-anos
+ -5-temas-25-aguarelas-de-madureira-pais/
+URL:https://lykeion.pt/e/exposicao-um-lustro-5-anos-5-temas-25-aguarelas-de
+ -madureira-aa194.html
 END:VEVENT
 BEGIN:VEVENT
 UID:mostra-cinema-resistencia-entre-leiras-6a8f4-2026-11-17@lagenda.pt
@@ -655,32 +757,6 @@ DESCRIPTION:https://www.arditi.pt/pt/noticias/drones-do-sentinela-atlantica
  -em-exposicao-no-evento-de-inovacao-do-exercito.html
 URL:https://lykeion.pt/e/drones-do-sentinela-atlantica-em-exposicao-no-even
  to-de-inov-b0e3e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
- -11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261120
-SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
- ns d’animaux dans les imprimés du XVIe siècle
-LOCATION:Instituto de Estudos Medievais
-DESCRIPTION:https://iem.fcsh.unl.pt/evento/inauguracao-da-exposicao-la-faun
- e-des-voyageurs-illustrations-danimaux-dans-les-imprimes-du-xvie-siecle/
-URL:https://lykeion.pt/e/inauguracao-da-exposicao-la-faune-des-voyageurs-il
- lustration-7bc58.html
-END:VEVENT
-BEGIN:VEVENT
-UID:opening-of-the-exhibition-la-faune-des-voyageurs-illustratio-3d72b-2026
- -11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T163000
-SUMMARY:Opening of the exhibition “La faune des voyageurs. Illustrations 
- of Animals in 16th-Century Printed Books
-LOCATION:Instituto de Estudos Medievais
-DESCRIPTION:https://iem.fcsh.unl.pt/en/event/opening-of-the-exhibition-la-f
- aune-des-voyageurs-illustrations-of-animals-in-16th-century-printed-books/
-URL:https://lykeion.pt/e/opening-of-the-exhibition-la-faune-des-voyageurs-i
- llustratio-3d72b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ulo-promove-open-day-industry-20741-2026-11-20@lagenda.pt

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UCIBIO (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:icone6-6th-international-conference-in-neuroethics-2e1c5-2026-11-16@lag
+ enda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:ICONE6 - 6th International Conference in Neuroethics
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=training/allevents/103%2B104%2B
+ 118
+URL:https://lykeion.pt/e/icone6-6th-international-conference-in-neuroethics
+ -2e1c5.html
+END:VEVENT
+END:VCALENDAR
