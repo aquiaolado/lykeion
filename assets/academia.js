@@ -86,7 +86,7 @@
       // 6/11/2026: sem a etiqueta «Aberto» (quase tudo é aberto; mostra-se o contrário), sem «—» sem hora, sem miniatura sem imagem
       const hh = hora(e.h), etq = [(SUB[e.s] || {}).n].concat(e.m === "online" ? ["Online"] : e.m === "hibrido" ? ["Também online"] : [])
         .concat(e.ac === "pago" ? ["Inscrição paga"] : e.ac === "inscricao" ? ["Com inscrição"] : [])
-        .concat(e.li === "en" ? ["Em inglês"] : []);
+        .concat(e.li === "en" ? ["Em inglês"] : []).concat(e.ins ? ["Inscrição aqui"] : []).concat(e.ax ? ["Acessível"] : []);
       const mi = e.i ? `<span class="mi"><img src="${esc(e.i)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.li').classList.add('sem-mi');this.parentNode.remove()"></span>` : "";
       return `<a class="li${mi ? "" : " sem-mi"}" href="${B}e/${e.pg}.html"><span class="hr${hh ? "" : " sem"}">${hh}</span>${mi}` +
         `<span class="tx"><span class="ti">${esc(e.n)}</span><br><span class="lg">${esc(nomeInst(e.in) || e.l)}${e.o ? " · " + esc(e.o) : ""}` +
@@ -100,7 +100,7 @@
     // 7/11/2026 (noite): a página Agenda foi apagada; os resultados abrem-se na própria entrada (#resultados)
     const P = new URLSearchParams(location.search), CH = ["q", "quando", "di", "fa", "sub", "area", "inst", "novos"];
     const comParam = CH.some(k => P.has(k));
-    if (comParam) Object.assign(est, { fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false });
+    if (comParam) Object.assign(est, { fa: "", sub: "", area: "", inst: "", dist: "", modo: "", aberto: false, ingles: false, acess: false, tv: false });
     if (P.get("q")) est.q = P.get("q").trim();
     est.novos = P.get("novos") === "1";
     if (P.get("quando")) est.quando = P.get("quando");
@@ -150,6 +150,9 @@
       if (est.modo === "online" && e.m === "presencial") return false;
       if (est.modo === "presencial" && e.m === "online") return false;
       if (est.aberto && e.ac !== "livre" && !e.g) return false;
+      if (est.ingles && e.li !== "en") return false;  // 8/11/2026
+      if (est.acess && !(e.ax || []).length) return false;
+      if (est.tv && !e.tv) return false;
       if (!est.verTudo && !est.q && escondido(e.s, e.in, e.a.concat(e.af || []), M)) { nEsc++; return false; }
       if (est.q && !norm([e.n, e.l, e.o, e.di, nomeInst(e.in), (SUB[e.s] || {}).n, ...e.a.map(a => AREA[a]), ...e.af.map(a => FINA[a])].join(" ")).includes(norm(est.q))) return false;
       return true;
@@ -162,7 +165,8 @@
       $("aonline").setAttribute("aria-pressed", est.modo === "online");
       $("apresencial").setAttribute("aria-pressed", est.modo === "presencial");
       $("aaberto").setAttribute("aria-pressed", est.aberto);
-      const nf = [est.sub, est.area, est.inst, est.dist, est.modo, est.aberto].filter(Boolean).length;
+      [["aingles", "ingles"], ["aacess", "acess"], ["atv", "tv"]].forEach(([i, k]) => { if ($(i)) $(i).setAttribute("aria-pressed", !!est[k]); });
+      const nf = [est.sub, est.area, est.inst, est.dist, est.modo, est.aberto, est.ingles, est.acess, est.tv].filter(Boolean).length;
       if ($("anf")) $("anf").textContent = nf ? "(" + nf + ")" : "";
       // cada evento aparece no próximo dia em que acontece; os abertos ao público primeiro
       const dias = {};
@@ -222,6 +226,7 @@
     $("aonline").addEventListener("click", () => { est.modo = est.modo === "online" ? "" : "online"; muda(); });
     $("apresencial").addEventListener("click", () => { est.modo = est.modo === "presencial" ? "" : "presencial"; muda(); });
     $("aaberto").addEventListener("click", () => { est.aberto = !est.aberto; muda(); });
+    [["aingles", "ingles"], ["aacess", "acess"], ["atv", "tv"]].forEach(([i, k]) => { if ($(i)) $(i).addEventListener("click", () => { est[k] = !est[k]; muda(); }); });
     $("abusca").addEventListener("input", ev => { est.q = ev.target.value.trim(); muda(); });
     caixa.addEventListener("click", ev => { if (ev.target.id === "amaisev") { mostrar += PASSO * 2; desenha(); } if (ev.target.id === "avertudo") { est.verTudo = true; desenha(); } });
     document.addEventListener("lagenda:conta", desenha);
@@ -237,7 +242,8 @@
     const pertence = (i, alvo) => { for (let k = 0; i && k < 6; k++) { if (i === alvo) return true; i = (D.pais || {})[i]; } return false; };
     const naLista = (e, f) => (!f.subtipos || f.subtipos.includes(e.s)) && (!f.familias || f.familias.includes(e.fa)) &&
       (!f.areas || e.a.some(a => f.areas.includes(a))) && (!f.modo || f.modo.includes(e.m)) && (!f.lingua || f.lingua.includes(e.li)) &&
-      (!f.distritos || f.distritos.includes(e.di)) && (!f.chamada || (e.pz || "") >= (window.LG || {}).hoje);
+      (!f.distritos || f.distritos.includes(e.di)) && (!f.chamada || (e.pz || "") >= (window.LG || {}).hoje) &&
+      (!f.acess || (e.ax || []).some(x => f.acess.includes(x)));
     const poeOla = (conta, gostos) => {
       if (!ola || !conta) return;
       const g = Object.assign({ inst: [], areas: [], listas: [], series: [], pesquisas: [], ecos: [] }, (gostos || {}).lyk || {});
@@ -271,4 +277,36 @@
     if (window.LG && LG.contaPronta) poeOla(LG.conta, LG.gostos);
     document.addEventListener("lagenda:conta", ev => poeOla(ev.detail.conta, ev.detail.gostos));
   }).catch(() => {});  // sem dados, fica a lista feita no servidor
+})();
+/* Lykeion (8/11/2026): inscrição gratuita na página do evento (conta/inscrever.php). Mostra quantos já se inscreveram e
+   quantos lugares restam, envia sem sair da página e preenche nome e email com os da conta, se houver. */
+(function () {
+  "use strict";
+  const s = document.getElementById("inscricao");
+  if (!s) return;
+  const api = s.dataset.api, ev = s.dataset.insc, f = s.querySelector("form"), n = s.querySelector(".lyk-insc-n");
+  const t = f.querySelector('[name="t"]'); if (t) t.value = Math.floor(Date.now() / 1000);
+  const conta = () => { const c = (window.LG && LG.conta) || null; if (!c) return;
+    if (c.email && !f.email.value) f.email.value = c.email; if (c.nome && !f.nome.value) f.nome.value = c.nome; };
+  conta(); document.addEventListener("lagenda:conta", conta);
+  const mostra = d => {
+    if (!d || !d.ok) return;
+    if (d.cancelado) { n.textContent = "Este evento foi cancelado."; f.hidden = true; return; }
+    if (d.fechado) { n.textContent = "As inscrições estão fechadas." + (d.n ? ` ${d.n} inscritos.` : ""); f.hidden = true; return; }
+    const p = d.n === 1 ? "1 pessoa inscrita" : `${d.n} pessoas inscritas`;
+    n.textContent = d.lot ? (!d.n ? `${d.lot} lugares. Ainda ninguém se inscreveu.` : d.restam > 0 ? `${p} · ${d.restam === 1 ? "resta 1 lugar" : `restam ${d.restam} lugares`} de ${d.lot}.` : `${p} · cheio: quem se inscrever fica em lista de espera.`)
+                          : (d.n ? `${p}.` : "Seja o primeiro a inscrever-se.");
+    f.querySelector("button").textContent = d.lot && d.restam <= 0 ? "Entrar na lista de espera" : "Inscrever-me";
+  };
+  fetch(`${api}?ev=${encodeURIComponent(ev)}&n`, { cache: "no-store" }).then(r => r.json()).then(mostra).catch(() => {});
+  f.addEventListener("submit", ev_ => {
+    ev_.preventDefault();
+    const b = f.querySelector("button"); b.disabled = true;
+    fetch(f.action, { method: "POST", body: new FormData(f), headers: { Accept: "application/json" } })
+      .then(r => r.json()).then(d => {
+        const p = document.createElement("p"); p.className = "lyk-insc-msg" + (d.ok ? " ok" : ""); p.textContent = d.msg || "Não conseguimos receber. Tente outra vez.";
+        s.querySelectorAll(".lyk-insc-msg").forEach(x => x.remove()); f.after(p);
+        if (d.ok) { f.hidden = true; fetch(`${api}?ev=${encodeURIComponent(ev)}&n`, { cache: "no-store" }).then(r => r.json()).then(x => { mostra(x); f.hidden = true; }).catch(() => {}); }
+      }).catch(() => { b.disabled = false; f.submit(); }).finally(() => { b.disabled = false; });
+  });
 })();

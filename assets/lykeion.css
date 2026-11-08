@@ -281,3 +281,16 @@ body.lyk{
 .lyk .ma-x:hover{color:var(--legenda)}
 .lyk .ma-bloco .chk{display:block;margin:.3rem 0}
 .lyk [data-eco-base],.lyk [data-eco-inst],.lyk [data-seguir-area],.lyk [data-seguir-inst]{margin-block:.2rem}
+/* 8/11/2026: inscrição gratuita na página do evento */
+.lyk .lyk-insc{border:1px solid var(--linha);border-left:4px solid var(--cobalto);border-radius:10px;padding:.9rem 1.1rem 1rem;margin:0 0 1.4rem;background:var(--papel)}
+.lyk .lyk-insc h2{margin:0 0 .2rem;font-size:1.15rem}
+.lyk .lyk-insc-n{font-weight:600;color:var(--tinta);margin:.1rem 0 .6rem}
+.lyk .lyk-insc form{display:grid;gap:.55rem}
+.lyk .lyk-insc label{display:block;font-weight:600;font-size:.92rem}
+.lyk .lyk-insc input:not([type=checkbox]){display:block;width:100%;box-sizing:border-box;margin-top:.2rem;font:inherit;padding:.55rem .7rem;border:1px solid var(--linha);border-radius:8px;background:var(--papel);color:var(--tinta)}
+.lyk .lyk-insc .lyk-insc-ok{font-weight:400;display:flex;gap:.5rem;align-items:flex-start}
+.lyk .lyk-insc .lyk-insc-ok input{margin-top:.25rem}
+.lyk .lyk-insc button{justify-self:start}
+.lyk .lyk-insc .sub{font-size:.85rem;margin:.6rem 0 0}
+.lyk .lyk-insc-msg{padding:.6rem .8rem;border-radius:8px;background:#FBE9E1;margin:.4rem 0 0}
+.lyk .lyk-insc-msg.ok{background:var(--cobalto);color:#fff}

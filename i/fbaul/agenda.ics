@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Belas-Artes da Universidade de Lisboa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:doutoramento-em-belas-artes-ciencias-da-arte-e-do-patrimonio-8b13f-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T113000
+SUMMARY:Doutoramento em Belas-Artes [Ciências da Arte e do Património] / 
+ Michele Dias Augusto
+LOCATION:Faculdade de Belas-Artes da Universidade de Lisboa
+DESCRIPTION:https://www.belasartes.ulisboa.pt/evento/doutoramento-em-belas-
+ artes-ciencias-da-arte-e-do-patrimonio-diana-ramos/
+URL:https://lykeion.pt/e/doutoramento-em-belas-artes-ciencias-da-arte-e-do-
+ patrimonio-8b13f.html
+END:VEVENT
+END:VCALENDAR

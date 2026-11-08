@@ -50,7 +50,8 @@ function na_lista(array $e, string $slug): bool {
   $em = fn($k, $v) => empty($f[$k]) || in_array($v, $f[$k], true);
   return $em('subtipos', $e['s'] ?? '') && $em('familias', $e['fa'] ?? '') && $em('distritos', $e['di'] ?? '') && $em('modo', $e['m'] ?? '')
     && $em('lingua', $e['li'] ?? 'pt') && (empty($f['areas']) || array_intersect((array)($e['a'] ?? []), $f['areas']))
-    && (empty($f['chamada']) || (string)($e['pz'] ?? '') >= date('Y-m-d'));
+    && (empty($f['chamada']) || (string)($e['pz'] ?? '') >= date('Y-m-d'))
+    && (empty($f['acess']) || array_intersect((array)($e['ax'] ?? []), $f['acess']));  // 8/11/2026: acessibilidade
 }
 // «Avise-me» (7/11/2026): o evento cabe numa pesquisa guardada? (texto, tipo, formato, área, instituição e unidades, distrito; todos com «e»)
 function na_pesquisa(array $e, array $p): bool {
