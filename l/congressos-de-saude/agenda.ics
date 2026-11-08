@@ -48,19 +48,7 @@ BEGIN:VEVENT
 UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
  a.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
-LOCATION:Instituto Politécnico de Santarém\, Rio Maior
-DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
- o-superior/
-URL:https://lykeion.pt/e/iii-jornadas-da-saude-mental-no-ensino-superior-d6
- 9d4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
- a.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T210000
 SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
 LOCATION:Instituto Politécnico de Santarém\, Santarém
 DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
@@ -105,18 +93,6 @@ URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
  -trabalho-b3ea8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
- 11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T083000
-SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de-saude
- -mental-no-local-de-trabalho
-URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
- -trabalho-d859d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:congresso-nacional-da-ordem-dos-medicos-5a5c8-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -131,7 +107,7 @@ UID:iii-congresso-do-algarve-de-alzheimer-e-outras-demencias-2867b-2026-11-
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:III Congresso do Algarve de Alzheimer e outras demências
-LOCATION:Casa do Sal\, Castro Marim
+LOCATION:Casa de Odeleite\, Castro Marim
 DESCRIPTION:https://cm-castromarim.pt/site/evento/iii-congresso-do-algarve-
  de-alzheimer-e-outras-demencias
 URL:https://lykeion.pt/e/iii-congresso-do-algarve-de-alzheimer-e-outras-dem
@@ -141,7 +117,7 @@ BEGIN:VEVENT
 UID:iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc2-2026-11-12@lagenda.
  pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:IV Encontro dos Farmacêuticos da Distribuição
 LOCATION:Ordem dos Farmaceuticos
 DESCRIPTION:https://www.ordemfarmaceuticos.pt/pt/eventos/iv-encontro-dos-fa
@@ -155,8 +131,7 @@ UID:jornadas-da-diabetes-do-cacb-beiras-diabetes-360o-e7bb1-2026-11-12@lage
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Jornadas da Diabetes do CACB - Beiras Diabetes 360o
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24139
 URL:https://lykeion.pt/e/jornadas-da-diabetes-do-cacb-beiras-diabetes-360o-
  e7bb1.html
@@ -177,8 +152,7 @@ UID:i-jornada-cientifica-sobre-exercicio-e-envelhecimento-a6ed6-2026-11-13@
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:I Jornada Científica sobre Exercício e Envelhecimento
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24194
 URL:https://lykeion.pt/e/i-jornada-cientifica-sobre-exercicio-e-envelhecime
  nto-a6ed6.html
@@ -308,11 +282,20 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T093000
+SUMMARY:18.ª edição Fórum do Medicamento
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
+ kets-2004012616683
+URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la

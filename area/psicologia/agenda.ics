@@ -22,19 +22,7 @@ BEGIN:VEVENT
 UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
  a.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
-LOCATION:Instituto Politécnico de Santarém\, Rio Maior
-DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
- o-superior/
-URL:https://lykeion.pt/e/iii-jornadas-da-saude-mental-no-ensino-superior-d6
- 9d4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
- a.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T210000
 SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
 LOCATION:Instituto Politécnico de Santarém\, Santarém
 DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
@@ -49,7 +37,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:Provas de Mestrado em Psicologia Social\, do Trabalho e das Organiz
  ações
-LOCATION:Centro de Investigação em Biomedicina\, Faro
+LOCATION:Escola Superior de Educação e Comunicação (UAlg)\, Faro
 DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-psicologia-social-do-
  trabalho-e-das-organizacoes-57
 URL:https://lykeion.pt/e/provas-de-mestrado-em-psicologia-social-do-trabalh
@@ -92,18 +80,6 @@ DESCRIPTION:https://fep.porto.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de
  -saude-mental-no-local-de-trabalho-65786
 URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
  -trabalho-b3ea8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
- 11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T083000
-SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de-saude
- -mental-no-local-de-trabalho
-URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
- -trabalho-d859d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conversa-de-sofa-sobre-ia-e-saude-mental-e4efc-2026-11-12@lagenda.pt

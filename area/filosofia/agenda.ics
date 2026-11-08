@@ -96,9 +96,9 @@ BEGIN:VEVENT
 UID:as-ciencias-da-etica-e-da-filosofia-politica-65375-2026-11-11@lagenda.p
  t
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T160000
 SUMMARY:As Ciências da Ética e da Filosofia Política
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/as-ciencias-da-etica-e-da-filos
  ofia-politica-2/
 URL:https://lykeion.pt/e/as-ciencias-da-etica-e-da-filosofia-politica-65375

@@ -145,9 +145,9 @@ BEGIN:VEVENT
 UID:encontro-ia-superinteligente-e-o-sentido-na-vida-47a85-2026-11-10@lagen
  da.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T103000
 SUMMARY:Encontro: IA superinteligente e o sentido na vida
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/ia-superinteligente-e-o-sentido
  -na-vida/
 URL:https://lykeion.pt/e/encontro-ia-superinteligente-e-o-sentido-na-vida-4
@@ -560,8 +560,7 @@ UID:workshop-from-zero-to-solana-5f1c5-2026-11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop From Zero to Solana
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24195
 URL:https://lykeion.pt/e/workshop-from-zero-to-solana-5f1c5.html
 END:VEVENT

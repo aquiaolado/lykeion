@@ -137,19 +137,7 @@ BEGIN:VEVENT
 UID:universidade-politecnica-de-santarem-na-web-summit-2026-182a8-2026-11-0
  9@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Universidade Politécnica de Santarém na Web Summit 2026
-LOCATION:Instituto Politécnico de Santarém\, Rio Maior
-DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
- na-web-summit-2026/
-URL:https://lykeion.pt/e/universidade-politecnica-de-santarem-na-web-summit
- -2026-182a8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:universidade-politecnica-de-santarem-na-web-summit-2026-182a8-2026-11-0
- 9@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T143000
 SUMMARY:Universidade Politécnica de Santarém na Web Summit 2026
 LOCATION:Instituto Politécnico de Santarém\, Santarém
 DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
@@ -318,20 +306,6 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Workshop internacional sobre gestão de dados de microrganismos pat
  ogénicos
-LOCATION:Estação Nacional de Fruticultura Vieira Natividade\, Alcobaça
-DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1049/
- -/workshop-internacional-sobre-gestao-de-dados-de-microrganismos-patogenic
- os
-URL:https://lykeion.pt/e/workshop-internacional-sobre-gestao-de-dados-de-mi
- crorganism-34992.html
-END:VEVENT
-BEGIN:VEVENT
-UID:workshop-internacional-sobre-gestao-de-dados-de-microrganism-34992-2026
- -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Workshop internacional sobre gestão de dados de microrganismos pat
- ogénicos
 LOCATION:Instituto Nacional de Investigação Agrária e Veterinária
 DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1049/
  -/workshop-internacional-sobre-gestao-de-dados-de-microrganismos-patogenic
@@ -351,6 +325,15 @@ DESCRIPTION:https://www.esec.pt/eventos/seminario-benchmarking-aprender-com
  -os-melhores-para-melhorar-a-qualidade/
 URL:https://lykeion.pt/e/auditorio-esec-seminario-benchmarking-aprender-com
  -os-melhor-b306c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:catolica-talks-2ed32-2026-11-11@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T124500
+SUMMARY:Católica Talks
+LOCATION:Centro de Estudos e Investigação em Direito
+DESCRIPTION:https://ceid.fd.ucp.pt/search?f%5B0%5D=categories%3A715
+URL:https://lykeion.pt/e/catolica-talks-2ed32.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-a-fauna-e-flora-terrestre-e-marinha-130a4-2026-11-11@lagenda.p
@@ -573,8 +556,7 @@ UID:apresentacao-do-livro-para-alem-da-regionalizacao-b5a52-2026-11-13@lage
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Apresentação do Livro “Para Além da Regionalização
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24217
 URL:https://lykeion.pt/e/apresentacao-do-livro-para-alem-da-regionalizacao-
  b5a52.html
@@ -650,8 +632,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
@@ -707,18 +688,6 @@ DESCRIPTION:https://eurocid.mne.gov.pt/eventos/migracoes-e-parcerias-intern
  acionais-conferencia-sobre-o-futuro-da-europa
 URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-9217
  9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:implementar-ferramentas-analiticas-em-marketing-digital-ae979-2026-11-1
- 6@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Implementar ferramentas analíticas em marketing digital
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18451.html?order_by=-1
-URL:https://lykeion.pt/e/implementar-ferramentas-analiticas-em-marketing-di
- gital-ae979.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-rodrigues-da-costa-nogueira-asses-df5b9-2026
@@ -943,8 +912,7 @@ UID:13o-forum-de-gestao-de-dados-de-investigacao-831e4-2026-11-19@lagenda.p
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:13o Fórum de Gestão de Dados de Investigação
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24167
 URL:https://lykeion.pt/e/13o-forum-de-gestao-de-dados-de-investigacao-831e4
  .html
@@ -992,19 +960,7 @@ BEGIN:VEVENT
 UID:lneg-participa-no-forum-industrial-nacional-eu-solaris-b111c-2026-11-19
  @lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:LNEG participa no Fórum Industrial Nacional EU-SOLARIS
-LOCATION:Infraestrutura Nacional de Investigação para Energia Solar de Co
- ncentração\, Amadora
-DESCRIPTION:https://www.lneg.pt/forum-industrial-nacional-eu-solaris/
-URL:https://lykeion.pt/e/lneg-participa-no-forum-industrial-nacional-eu-sol
- aris-b111c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lneg-participa-no-forum-industrial-nacional-eu-solaris-b111c-2026-11-19
- @lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T093000
 SUMMARY:LNEG participa no Fórum Industrial Nacional EU-SOLARIS
 LOCATION:Laboratório Nacional de Energia e Geologia
 DESCRIPTION:https://www.lneg.pt/forum-industrial-nacional-eu-solaris/
@@ -1049,19 +1005,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-literacia-financeira-ef5a2-2026-11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T120000
 SUMMARY:Workshop “Literacia Financeira
 LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-literacia-financ
- eira/
-URL:https://lykeion.pt/e/workshop-literacia-financeira-ef5a2.html
-END:VEVENT
-BEGIN:VEVENT
-UID:workshop-literacia-financeira-ef5a2-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Workshop “Literacia Financeira
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-literacia-financ
  eira/
 URL:https://lykeion.pt/e/workshop-literacia-financeira-ef5a2.html

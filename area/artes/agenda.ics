@@ -157,6 +157,28 @@ URL:https://lykeion.pt/e/exposicao-tereza-arriaga-percursos-de-arte-e-vida-
  43d32.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-la-fora-at-88fbc-2026
+ -11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261108T170000
+SUMMARY:Exposição | «Jogos da Macaca: Jorge Pinheiro e a vida lá fora»
+  [até 28 NOV
+LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-jogos-da-macaca-jorge
+ -pinheiro-e-a-vida
+URL:https://lykeion.pt/e/exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-
+ la-fora-at-88fbc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-peace-of-mind-21e26-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição «Peace of Mind»
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
+URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-08@la
  genda.pt
 DTSTAMP:20261108T000000Z
@@ -237,8 +259,7 @@ UID:mostra-cinema-resistencia-cinanima-nas-universidades-05290-2026-11-08@l
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Mostra Cinema Resistência - CINANIMA nas Universidades
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24174
 URL:https://lykeion.pt/e/mostra-cinema-resistencia-cinanima-nas-universidad
  es-05290.html
@@ -598,9 +619,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-museus-mundos-em-mudanca-f2951-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:Encontro: Museus\, Mundos em Mudança
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/encontro-museus-mundos-em-mudanca-f2951.html
 END:VEVENT
@@ -857,8 +878,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
@@ -867,9 +887,9 @@ BEGIN:VEVENT
 UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
  -11-14@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T083000
 SUMMARY:Encontro: Arte para a Infância e Desenvolvimento Social e Humano
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
  -para-a-infancia-e-desenvolvimento-social-e-humano/
 URL:https://lykeion.pt/e/encontro-arte-para-a-infancia-e-desenvolvimento-so
@@ -1010,8 +1030,7 @@ UID:mostra-cinema-resistencia-entre-leiras-6a8f4-2026-11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Mostra Cinema Resistência – “Entre Leiras
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24186
 URL:https://lykeion.pt/e/mostra-cinema-resistencia-entre-leiras-6a8f4.html
 END:VEVENT

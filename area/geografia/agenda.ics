@@ -60,8 +60,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -351,8 +350,7 @@ UID:6o-seminario-cpcj-covilha-violencia-domestica-quebrar-ciclos-43bc0-2026
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:6o Seminário CPCJ Covilhã "Violência Doméstica: Quebrar Ciclos
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24163
 URL:https://lykeion.pt/e/6o-seminario-cpcj-covilha-violencia-domestica-queb
  rar-ciclos-43bc0.html
@@ -385,7 +383,7 @@ BEGIN:VEVENT
 UID:cos-2025-novos-dados-para-conhecer-e-monitorizar-as-dinamica-6f153-2026
  -11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:COS 2025: novos dados para conhecer e monitorizar as dinâmicas do 
  território
 LOCATION:Laboratório Associado TERRA

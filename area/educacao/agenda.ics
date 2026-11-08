@@ -73,19 +73,7 @@ BEGIN:VEVENT
 UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
  a.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
-LOCATION:Instituto Politécnico de Santarém\, Rio Maior
-DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
- o-superior/
-URL:https://lykeion.pt/e/iii-jornadas-da-saude-mental-no-ensino-superior-d6
- 9d4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
- a.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T210000
 SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
 LOCATION:Instituto Politécnico de Santarém\, Santarém
 DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
@@ -708,18 +696,6 @@ URL:https://lykeion.pt/e/seminario-internacional-da-formacao-a-competicao-c
  omo-concil-9540c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:webinar-pesquisa-avancada-pesquise-menos-encontre-mais-87b75-2026-11-18
- @lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Webinar “Pesquisa avançada: pesquise menos\, encontre mais
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/webinar-pesquisa-avancada
- -pesquise-menos-encontre-mais/
-URL:https://lykeion.pt/e/webinar-pesquisa-avancada-pesquise-menos-encontre-
- mais-87b75.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-f58ed-2026-11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T183000
@@ -774,8 +750,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -836,19 +811,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-literacia-financeira-ef5a2-2026-11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T120000
 SUMMARY:Workshop “Literacia Financeira
 LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-literacia-financ
- eira/
-URL:https://lykeion.pt/e/workshop-literacia-financeira-ef5a2.html
-END:VEVENT
-BEGIN:VEVENT
-UID:workshop-literacia-financeira-ef5a2-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Workshop “Literacia Financeira
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-literacia-financ
  eira/
 URL:https://lykeion.pt/e/workshop-literacia-financeira-ef5a2.html

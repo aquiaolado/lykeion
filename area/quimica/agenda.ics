@@ -21,19 +21,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ip-talks-pesquisa-ao-estado-da-tecnica-006cd-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T120000
 SUMMARY:IP Talks | Pesquisa ao Estado da Técnica
 LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/ip-talks-pesquisa-ao-esta
- do-da-tecnica/
-URL:https://lykeion.pt/e/ip-talks-pesquisa-ao-estado-da-tecnica-006cd.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ip-talks-pesquisa-ao-estado-da-tecnica-006cd-2026-11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:IP Talks | Pesquisa ao Estado da Técnica
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/ip-talks-pesquisa-ao-esta
  do-da-tecnica/
 URL:https://lykeion.pt/e/ip-talks-pesquisa-ao-estado-da-tecnica-006cd.html

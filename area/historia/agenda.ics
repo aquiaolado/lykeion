@@ -126,9 +126,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-nas-margens-do-possivel-d26f2-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T183000
 SUMMARY:Encontro: Nas Margens do Possível
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
 URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
 END:VEVENT
@@ -165,8 +165,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -178,8 +177,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
@@ -363,17 +361,6 @@ DESCRIPTION:https://www.iseg.ulisboa.pt/event/conferencia-ferreira-de-castr
  o-referencia-moral-do-seculo-xx/
 URL:https://lykeion.pt/e/das-18-00-as-20-00-conferencia-ferreira-de-castro-
  referencia-84711.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T170000
-SUMMARY:Exposição fotográfica “Echoes in Concrete
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/exposicao-fotografica-echoes-c
- oncrete
-URL:https://lykeion.pt/e/exposicao-fotografica-echoes-in-concrete-bcd1a.htm
- l
 END:VEVENT
 BEGIN:VEVENT
 UID:international-conference-historicizing-global-contemporary-a-041cc-2026
@@ -645,9 +632,9 @@ BEGIN:VEVENT
 UID:outros-textos-paisagens-memorias-arquivos-e-pessoas-032bc-2026-11-13@la
  genda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T170000
 SUMMARY:Outros Textos - paisagens\, memórias\, arquivos e pessoas
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/outros-textos/
 URL:https://lykeion.pt/e/outros-textos-paisagens-memorias-arquivos-e-pessoa
  s-032bc.html
@@ -659,8 +646,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html

@@ -256,7 +256,7 @@ UID:math-colloquium-cidma-ualg-04e4e-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:Math Colloquium CIDMA/UAlg
-LOCATION:Universidade do Algarve\, Faro
+LOCATION:Escola Superior de Educação e Comunicação (UAlg)\, Faro
 DESCRIPTION:https://www.ualg.pt/math-colloquium-cidmaualg-1
 URL:https://lykeion.pt/e/math-colloquium-cidma-ualg-04e4e.html
 END:VEVENT
@@ -289,7 +289,7 @@ UID:provas-de-mestrado-em-biologia-marinha-1c504-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:Provas de Mestrado em Biologia Marinha
-LOCATION:Centro de Investigação em Biomedicina\, Faro
+LOCATION:Escola Superior de Educação e Comunicação (UAlg)\, Faro
 DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-biologia-marinha-315
 URL:https://lykeion.pt/e/provas-de-mestrado-em-biologia-marinha-1c504.html
 END:VEVENT
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 UID:sessao-de-apresentacao-do-centro-de-seguranca-climatica-e-re-00715-2026
  -11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T100000
 SUMMARY:Sessão de apresentação do Centro de Segurança Climática e Resi
  liência
 LOCATION:Laboratório Associado TERRA
@@ -322,19 +322,7 @@ BEGIN:VEVENT
 UID:universidade-politecnica-de-santarem-na-web-summit-2026-182a8-2026-11-0
  9@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Universidade Politécnica de Santarém na Web Summit 2026
-LOCATION:Instituto Politécnico de Santarém\, Rio Maior
-DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
- na-web-summit-2026/
-URL:https://lykeion.pt/e/universidade-politecnica-de-santarem-na-web-summit
- -2026-182a8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:universidade-politecnica-de-santarem-na-web-summit-2026-182a8-2026-11-0
- 9@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T143000
 SUMMARY:Universidade Politécnica de Santarém na Web Summit 2026
 LOCATION:Instituto Politécnico de Santarém\, Santarém
 DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
@@ -406,9 +394,9 @@ BEGIN:VEVENT
 UID:encontro-ia-superinteligente-e-o-sentido-na-vida-47a85-2026-11-10@lagen
  da.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T103000
 SUMMARY:Encontro: IA superinteligente e o sentido na vida
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/ia-superinteligente-e-o-sentido
  -na-vida/
 URL:https://lykeion.pt/e/encontro-ia-superinteligente-e-o-sentido-na-vida-4
@@ -476,7 +464,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:SPORTDiscus: Fontes de pesquisa sobre ciências da atividade fisíc
  a e do desporto
-LOCATION:Centro de Investigação em Biomedicina\, Faro
+LOCATION:Escola Superior de Educação e Comunicação (UAlg)\, Faro
 DESCRIPTION:https://www.ualg.pt/sportdiscus-fontes-de-pesquisa-sobre-cienci
  as-da-atividade-fisica-e-do-desporto
 URL:https://lykeion.pt/e/sportdiscus-fontes-de-pesquisa-sobre-ciencias-da-a
@@ -521,10 +509,10 @@ BEGIN:VEVENT
 UID:seminario-soil-values-in-the-climate-change-era-challenges-a-fb6d2-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T163000
 SUMMARY:Seminário: Soil Values in the Climate Change Era: Challenges and O
  pportunities
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/soil-values-in-the-climate-chan
  ge-era-challenges-and-opportunities/
 URL:https://lykeion.pt/e/seminario-soil-values-in-the-climate-change-era-ch
@@ -1359,23 +1347,10 @@ BEGIN:VEVENT
 UID:09-30-coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-e-31b08-2026
  -11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T093000
 SUMMARY:09:30 : Colóquio “Alterações Climáticas: Como nos Adaptarmos 
  a esta Nova Realidade?
-LOCATION:Estação Nacional de Fruticultura Vieira Natividade\, Alcobaça
-DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1062/
- -/coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-esta-nova-realidade
-URL:https://lykeion.pt/e/09-30-coloquio-alteracoes-climaticas-como-nos-adap
- tarmos-a-e-31b08.html
-END:VEVENT
-BEGIN:VEVENT
-UID:09-30-coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-e-31b08-2026
- -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:09:30 : Colóquio “Alterações Climáticas: Como nos Adaptarmos 
- a esta Nova Realidade?
-LOCATION:Instituto Nacional de Investigação Agrária e Veterinária
+LOCATION:Instituto Superior de Agronomia
 DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1062/
  -/coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-esta-nova-realidade
 URL:https://lykeion.pt/e/09-30-coloquio-alteracoes-climaticas-como-nos-adap
@@ -1449,8 +1424,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Conferência «Alterações climáticas: devemos ter medo do futuro
  ?»
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24166
 URL:https://lykeion.pt/e/conferencia-alteracoes-climaticas-devemos-ter-medo
  -do-futuro-a0818.html
@@ -1471,19 +1445,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ip-talks-pesquisa-ao-estado-da-tecnica-006cd-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T120000
 SUMMARY:IP Talks | Pesquisa ao Estado da Técnica
 LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/ip-talks-pesquisa-ao-esta
- do-da-tecnica/
-URL:https://lykeion.pt/e/ip-talks-pesquisa-ao-estado-da-tecnica-006cd.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ip-talks-pesquisa-ao-estado-da-tecnica-006cd-2026-11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:IP Talks | Pesquisa ao Estado da Técnica
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/ip-talks-pesquisa-ao-esta
  do-da-tecnica/
 URL:https://lykeion.pt/e/ip-talks-pesquisa-ao-estado-da-tecnica-006cd.html
@@ -1785,8 +1749,7 @@ UID:workshop-from-zero-to-solana-5f1c5-2026-11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop From Zero to Solana
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24195
 URL:https://lykeion.pt/e/workshop-from-zero-to-solana-5f1c5.html
 END:VEVENT

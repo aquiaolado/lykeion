@@ -248,9 +248,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-nas-margens-do-possivel-d26f2-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T183000
 SUMMARY:Encontro: Nas Margens do Possível
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
 URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
 END:VEVENT
@@ -359,6 +359,15 @@ URL:https://lykeion.pt/e/exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-
  la-fora-at-88fbc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-peace-of-mind-21e26-2026-11-08@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Exposição «Peace of Mind»
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
+URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
  -08@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -414,8 +423,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -465,8 +473,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
@@ -515,8 +522,7 @@ UID:mostra-cinema-resistencia-cinanima-nas-universidades-05290-2026-11-08@l
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Mostra Cinema Resistência - CINANIMA nas Universidades
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24174
 URL:https://lykeion.pt/e/mostra-cinema-resistencia-cinanima-nas-universidad
  es-05290.html
@@ -1043,17 +1049,6 @@ DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-13-13-escrito
 URL:https://lykeion.pt/e/exposicao-34804.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T170000
-SUMMARY:Exposição fotográfica “Echoes in Concrete
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/exposicao-fotografica-echoes-c
- oncrete
-URL:https://lykeion.pt/e/exposicao-fotografica-echoes-in-concrete-bcd1a.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-13-13-escritoras-galegas-e-lusofonas-em-dialogo-34804-2026-11
  -10@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -1260,9 +1255,9 @@ BEGIN:VEVENT
 UID:as-ciencias-da-etica-e-da-filosofia-politica-65375-2026-11-11@lagenda.p
  t
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTART;TZID=Europe/Lisbon:20261111T160000
 SUMMARY:As Ciências da Ética e da Filosofia Política
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/as-ciencias-da-etica-e-da-filos
  ofia-politica-2/
 URL:https://lykeion.pt/e/as-ciencias-da-etica-e-da-filosofia-politica-65375
@@ -1553,9 +1548,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-museus-mundos-em-mudanca-f2951-2026-11-12@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:Encontro: Museus\, Mundos em Mudança
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/encontro-museus-mundos-em-mudanca-f2951.html
 END:VEVENT
@@ -1830,7 +1825,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:CHAM Talks: Mulheres trabalhadoras na literatura espanhola contempo
  rânea\, com Cristina Somolinos Molina
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/cham-talks-mulheres-trabalhador
  as-na-literatura-espanhola-contemporanea-com-cristina-somolinos-molina/
 URL:https://lykeion.pt/e/cham-talks-mulheres-trabalhadoras-na-literatura-es
@@ -1923,9 +1918,9 @@ BEGIN:VEVENT
 UID:outros-textos-paisagens-memorias-arquivos-e-pessoas-032bc-2026-11-13@la
  genda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T170000
 SUMMARY:Outros Textos - paisagens\, memórias\, arquivos e pessoas
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/outros-textos/
 URL:https://lykeion.pt/e/outros-textos-paisagens-memorias-arquivos-e-pessoa
  s-032bc.html
@@ -2037,8 +2032,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
@@ -2047,9 +2041,9 @@ BEGIN:VEVENT
 UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
  -11-14@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T083000
 SUMMARY:Encontro: Arte para a Infância e Desenvolvimento Social e Humano
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
  -para-a-infancia-e-desenvolvimento-social-e-humano/
 URL:https://lykeion.pt/e/encontro-arte-para-a-infancia-e-desenvolvimento-so
@@ -2398,8 +2392,7 @@ UID:mostra-cinema-resistencia-entre-leiras-6a8f4-2026-11-17@lagenda.pt
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Mostra Cinema Resistência – “Entre Leiras
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24186
 URL:https://lykeion.pt/e/mostra-cinema-resistencia-entre-leiras-6a8f4.html
 END:VEVENT
@@ -2763,18 +2756,6 @@ DESCRIPTION:https://www.maddiogosousa.gov.pt/event-item/v-congresso-associa
  cao-dos-arqueologos-portugueses/
 URL:https://lykeion.pt/e/v-congresso-associacao-dos-arqueologos-portugueses
  -7fe4a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-pesquisa-avancada-pesquise-menos-encontre-mais-87b75-2026-11-18
- @lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Webinar “Pesquisa avançada: pesquise menos\, encontre mais
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/webinar-pesquisa-avancada
- -pesquise-menos-encontre-mais/
-URL:https://lykeion.pt/e/webinar-pesquisa-avancada-pesquise-menos-encontre-
- mais-87b75.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-origami-uma-folha-infinitas-2499d-2026-11-18@lagenda.pt

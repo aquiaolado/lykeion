@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:sessao-de-apresentacao-do-centro-de-seguranca-climatica-e-re-00715-2026
  -11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T100000
 SUMMARY:Sessão de apresentação do Centro de Segurança Climática e Resi
  liência
 LOCATION:Laboratório Associado TERRA
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:cos-2025-novos-dados-para-conhecer-e-monitorizar-as-dinamica-6f153-2026
  -11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:COS 2025: novos dados para conhecer e monitorizar as dinâmicas do 
  território
 LOCATION:Laboratório Associado TERRA
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensing-migration-webinars-ef950-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T130000
 SUMMARY:Sensing Migration Webinars
 LOCATION:Laboratório Associado TERRA
 DESCRIPTION:https://labterra.pt/agenda/sensing-migration-webinars/
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 UID:workshop-reforcar-o-sucesso-das-propostas-com-abordagem-mult-5764f-2026
  -11-20@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T111500
 SUMMARY:Workshop: Reforçar o sucesso das propostas com abordagem multiator
   no Horizonte Europa
 LOCATION:Laboratório Associado TERRA

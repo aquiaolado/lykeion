@@ -84,9 +84,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-nas-margens-do-possivel-d26f2-2026-11-08@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTART;TZID=Europe/Lisbon:20261108T183000
 SUMMARY:Encontro: Nas Margens do Possível
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
 URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
 END:VEVENT
@@ -323,7 +323,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:CHAM Talks: Mulheres trabalhadoras na literatura espanhola contempo
  rânea\, com Cristina Somolinos Molina
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/cham-talks-mulheres-trabalhador
  as-na-literatura-espanhola-contemporanea-com-cristina-somolinos-molina/
 URL:https://lykeion.pt/e/cham-talks-mulheres-trabalhadoras-na-literatura-es
@@ -499,18 +499,6 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  01451
 URL:https://lykeion.pt/e/provas-de-mestrado-de-zhimei-lian-estrategias-para
  -o-ensino-f43c1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-pesquisa-avancada-pesquise-menos-encontre-mais-87b75-2026-11-18
- @lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Webinar “Pesquisa avançada: pesquise menos\, encontre mais
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/webinar-pesquisa-avancada
- -pesquise-menos-encontre-mais/
-URL:https://lykeion.pt/e/webinar-pesquisa-avancada-pesquise-menos-encontre-
- mais-87b75.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-f58ed-2026-11-19@lagenda.pt

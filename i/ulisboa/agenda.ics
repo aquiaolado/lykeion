@@ -128,20 +128,7 @@ BEGIN:VEVENT
 UID:2-o-encontro-dos-embaixadores-e-embaixadoras-dos-valores-ori-d5ba5-2026
  -11-10@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:2.º Encontro dos Embaixadores e Embaixadoras dos Valores Orientado
- res do Técnico
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/2-o-encontro-dos-embaixad
- ores-e-embaixadoras-dos-valores-orientadores-do-tecnico/
-URL:https://lykeion.pt/e/2-o-encontro-dos-embaixadores-e-embaixadoras-dos-v
- alores-ori-d5ba5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:2-o-encontro-dos-embaixadores-e-embaixadoras-dos-valores-ori-d5ba5-2026
- -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T160000
 SUMMARY:2.º Encontro dos Embaixadores e Embaixadoras dos Valores Orientado
  res do Técnico
 LOCATION:Instituto Superior Técnico
@@ -603,19 +590,6 @@ URL:https://lykeion.pt/e/lisbon-classic-seminars-rosalba-dimundo-christophe
  r-star-e-m-3c305.html
 END:VEVENT
 BEGIN:VEVENT
-UID:17-a-sessao-do-programa-contigo-hard-fun-some-learnings-from-0acf8-2026
- -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T163000
-SUMMARY:17.ª Sessão do Programa Contigo+ “Hard Fun: Some Learnings from
-  Olin College
-LOCATION:Unidade Tecnológica de Radioesterilização\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/17-a-sessao-do-programa-c
- ontigo-hard-fun-some-learnings-from-olin-college/
-URL:https://lykeion.pt/e/17-a-sessao-do-programa-contigo-hard-fun-some-lear
- nings-from-0acf8.html
-END:VEVENT
-BEGIN:VEVENT
 UID:fred-talks-conferences-in-psychological-science-73e69-2026-11-16@lagend
  a.pt
 DTSTAMP:20261108T000000Z
@@ -756,6 +730,19 @@ URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
  osofia-e-l-b64bd.html
 END:VEVENT
 BEGIN:VEVENT
+UID:09-30-coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-e-31b08-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T093000
+SUMMARY:09:30 : Colóquio “Alterações Climáticas: Como nos Adaptarmos 
+ a esta Nova Realidade?
+LOCATION:Instituto Superior de Agronomia
+DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1062/
+ -/coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-esta-nova-realidade
+URL:https://lykeion.pt/e/09-30-coloquio-alteracoes-climaticas-como-nos-adap
+ tarmos-a-e-31b08.html
+END:VEVENT
+BEGIN:VEVENT
 UID:4-a-sessao-gender-lab-lunch-talks-promessas-e-riscos-da-ia-n-2e8a0-2026
  -11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -804,17 +791,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ip-talks-pesquisa-ao-estado-da-tecnica-006cd-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:IP Talks | Pesquisa ao Estado da Técnica
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/ip-talks-pesquisa-ao-esta
- do-da-tecnica/
-URL:https://lykeion.pt/e/ip-talks-pesquisa-ao-estado-da-tecnica-006cd.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ip-talks-pesquisa-ao-estado-da-tecnica-006cd-2026-11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T120000
 SUMMARY:IP Talks | Pesquisa ao Estado da Técnica
 LOCATION:Instituto Superior Técnico
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/ip-talks-pesquisa-ao-esta
@@ -843,18 +820,6 @@ DESCRIPTION:https://sites.google.com/scgp.stonybrook.edu/juanmunozechaniz/
 URL:https://lykeion.pt/e/juan-munoz-echaniz-9a93f.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sessao-get-to-know-vodafone-everyone-connected-dd003-2026-11-18@lagenda
- .pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T160000
-SUMMARY:Sessão “Get to Know | Vodafone — Everyone.Connected
-LOCATION:Unidade Tecnológica de Radioesterilização\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/sessao-get-to-know-vodafo
- ne-everyone-connected/
-URL:https://lykeion.pt/e/sessao-get-to-know-vodafone-everyone-connected-dd0
- 03.html
-END:VEVENT
-BEGIN:VEVENT
 UID:v-congresso-associacao-dos-arqueologos-portugueses-7fe4a-2026-11-18@lag
  enda.pt
 DTSTAMP:20261108T000000Z
@@ -865,18 +830,6 @@ DESCRIPTION:https://www.maddiogosousa.gov.pt/event-item/v-congresso-associa
  cao-dos-arqueologos-portugueses/
 URL:https://lykeion.pt/e/v-congresso-associacao-dos-arqueologos-portugueses
  -7fe4a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-pesquisa-avancada-pesquise-menos-encontre-mais-87b75-2026-11-18
- @lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Webinar “Pesquisa avançada: pesquise menos\, encontre mais
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/webinar-pesquisa-avancada
- -pesquise-menos-encontre-mais/
-URL:https://lykeion.pt/e/webinar-pesquisa-avancada-pesquise-menos-encontre-
- mais-87b75.html
 END:VEVENT
 BEGIN:VEVENT
 UID:formacao-introducao-ao-zotero-via-zoom-meeting-ecfd9-2026-11-19@lagenda
@@ -932,18 +885,6 @@ DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/licao-anual-da-finisterra-2
 URL:https://lykeion.pt/e/licao-anual-da-finisterra-2026-cb387.html
 END:VEVENT
 BEGIN:VEVENT
-UID:tecnico-alumni-mentoring-evento-de-lancamento-ddfea-2026-11-19@lagenda.
- pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T170000
-SUMMARY:Técnico Alumni Mentoring | Evento de Lançamento
-LOCATION:Unidade Tecnológica de Radioesterilização\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/tecnico-alumni-mentoring-
- evento-de-lancamento/
-URL:https://lykeion.pt/e/tecnico-alumni-mentoring-evento-de-lancamento-ddfe
- a.html
-END:VEVENT
-BEGIN:VEVENT
 UID:vi-congresso-da-sociedade-portuguesa-de-ciencias-em-animais-26643-2026-
  11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
@@ -959,17 +900,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-literacia-financeira-ef5a2-2026-11-19@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Workshop “Literacia Financeira
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-literacia-financ
- eira/
-URL:https://lykeion.pt/e/workshop-literacia-financeira-ef5a2.html
-END:VEVENT
-BEGIN:VEVENT
-UID:workshop-literacia-financeira-ef5a2-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T120000
 SUMMARY:Workshop “Literacia Financeira
 LOCATION:Instituto Superior Técnico
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-literacia-financ

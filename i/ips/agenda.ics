@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:curso-breve-42c2c-2026-11-09@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T120000
 SUMMARY:Curso breve
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
 DESCRIPTION:https://www.unips.pt/eventos/curso-breve-focus-groups-in-qualit

@@ -22,8 +22,7 @@ DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
@@ -352,9 +351,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nidesh-lawtoo-sobre-novo-fascismo-530ba-2026-11-20@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T150000
 SUMMARY:Nidesh Lawtoo sobre “(Novo) Fascismo
-LOCATION:Universidade NOVA de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/nidesh-lawtoo-sobre-novo-fascis
  mo/
 URL:https://lykeion.pt/e/nidesh-lawtoo-sobre-novo-fascismo-530ba.html

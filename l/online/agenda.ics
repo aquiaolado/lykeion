@@ -333,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensing-migration-webinars-ef950-2026-11-18@lagenda.pt
 DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T130000
 SUMMARY:Sensing Migration Webinars
 LOCATION:Laboratório Associado TERRA
 DESCRIPTION:https://labterra.pt/agenda/sensing-migration-webinars/
@@ -347,18 +347,6 @@ SUMMARY:Webinar
 LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
 DESCRIPTION:https://www.spedm.pt/pt/agenda/webinar-nutricao-e-cancro
 URL:https://lykeion.pt/e/webinar-c1713.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-pesquisa-avancada-pesquise-menos-encontre-mais-87b75-2026-11-18
- @lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Webinar “Pesquisa avançada: pesquise menos\, encontre mais
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/webinar-pesquisa-avancada
- -pesquise-menos-encontre-mais/
-URL:https://lykeion.pt/e/webinar-pesquisa-avancada-pesquise-menos-encontre-
- mais-87b75.html
 END:VEVENT
 BEGIN:VEVENT
 UID:8o-congresso-internacional-da-adfas-ab031-2026-11-19@lagenda.pt
