@@ -242,3 +242,11 @@ body.lyk{
 .lyk #conta h3{font:600 .8rem/1.2 var(--f-hora);text-transform:uppercase;letter-spacing:.06em;color:var(--suave);margin:1.2rem 0 .4rem}
 .lyk #guardados .vazio,.lyk .grelha>.vazio{grid-column:1/-1;max-width:none}
 .lyk.lyk-com-res .lyk-abre :is(#lyk-ola,.lyk-novos){display:none!important}
+/* 8/11/2026: resultados com o desenho da entrada (cada dia numa secção, linhas compactas, duas colunas no PC) */
+.lyk .lyk-res-dia{margin-top:1.4rem}
+.lyk .lyk-res-dia .li{grid-template-columns:3.2rem minmax(0,1fr)}
+.lyk .lyk-res-dia .li .mi{display:none}
+.lyk .lyk-res-dia .li .dir{grid-column:2;justify-self:start}
+.lyk .lyk-res-dia .li .dir .tag:not(:first-child){display:none}
+@media(min-width:900px){.lyk .lyk-res-dia{column-count:2;column-gap:2rem}.lyk .lyk-res-dia .lyk-cab{column-span:all}.lyk .lyk-res-dia .li{break-inside:avoid}}
+.lyk #academia>.lyk-numeros{margin-top:1rem}

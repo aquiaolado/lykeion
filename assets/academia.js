@@ -172,14 +172,32 @@
         (dias[d] = dias[d] || []).push(e);
       }
       const ordem = e => (e.ac === "livre" || e.g ? 0 : e.ac === "pago" ? 2 : 1);
-      let html = "", total = 0, postos = 0;
-      for (const d of Object.keys(dias).sort()) {
-        const evs = dias[d].sort((a, b) => ordem(a) - ordem(b) || (hora(a.h) || "99").localeCompare(hora(b.h) || "99") || a.n.localeCompare(b.n));
-        total += evs.length; const x = dt(d);
-        if (postos >= mostrar) continue;
-        const vai = evs.slice(0, mostrar - postos); postos += vai.length;
-        html += `<div class="dia"><h3>${d === hoje ? "Hoje" : SEML[x.getDay()]}, ${x.getDate()} de ${MESL[x.getMonth()]}${x.getFullYear() !== dt(hoje).getFullYear() ? " de " + x.getFullYear() : ""} <small>${evs.length}</small></h3>${vai.map(e => linha(e, d)).join("")}</div>`;
+      // 8/11/2026 (Paulo: os resultados «à imagem da página inicial»): números, «Em destaque» em cartões e cada dia numa secção
+      const SEMC = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"], MESC = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"];
+      const cartao = (e, d) => { const x = dt(d), hh = hora(e.h);
+        return `<a class="lyk-cartao" href="${B}e/${e.pg}.html"><span class="lyk-quando">${SEMC[x.getDay()]} ${x.getDate()} ${MESC[x.getMonth()]}${hh ? " · " + hh : ""}</span>` +
+          `<span class="lyk-ti">${esc(e.n)}</span><span class="lyk-onde">${esc(nomeInst(e.in) || e.l)}${e.o ? " · " + esc(e.o) : ""}</span><span class="tag">${esc((SUB[e.s] || {}).n || "")}</span></a>`; };
+      const PESO = { congresso: 0, "conferencia-cientifica": 0, simposio: 0, coloquio: 1, jornadas: 1, "aula-aberta": 1, licao: 1, conferencia: 2, seminario: 3 };
+      const FORA = ["exposicao", "cinema-debate", "workshop", "curso-livre", "masterclass", "sessao-solene", "webinar", "provas-mestrado"];
+      let html = "", total = 0, postos = 0; const insts = new Set(), todosDias = Object.keys(dias).sort(), cand = [];
+      for (const d of todosDias) for (const e of dias[d]) { if (e.in) insts.add(e.in); if (!FORA.includes(e.s) && cand.length < 400) cand.push([d, e]); }
+      const nTotal = todosDias.reduce((n, d) => n + dias[d].length, 0);
+      const dest = [], vistas = new Set();
+      if (nTotal > 8) for (const [d, e] of cand.sort((a, b) => (PESO[a[1].s] ?? 4) - (PESO[b[1].s] ?? 4) || (a[1].i ? 0 : 1) - (b[1].i ? 0 : 1) || a[0].localeCompare(b[0]))) {
+        const q = e.in || e.l; if (vistas.has(q)) continue; vistas.add(q); dest.push([d, e]); if (dest.length === 4) break;
       }
+      dest.sort((a, b) => a[0].localeCompare(b[0]));
+      const noDest = new Set(dest.map(([, e]) => e.pg));
+      html += `<div class="lyk-numeros"><div><b>${nTotal}</b><span>${nTotal === 1 ? "evento" : "eventos"}</span></div><div><b>${insts.size}</b><span>${insts.size === 1 ? "instituição" : "instituições"}</span></div><div><b>${todosDias.length}</b><span>${todosDias.length === 1 ? "dia" : "dias"}</span></div></div>`;
+      if (dest.length) html += `<section class="lyk-sec"><div class="lyk-cab"><h2>Em destaque</h2></div><div class="lyk-cartoes">${dest.map(([d, e]) => cartao(e, d)).join("")}</div></section>`;
+      for (const d of todosDias) {
+        const evs = dias[d].filter(e => !noDest.has(e.pg)).sort((a, b) => (hora(a.h) || "99").localeCompare(hora(b.h) || "99") || ordem(a) - ordem(b) || a.n.localeCompare(b.n));
+        total += evs.length; const x = dt(d);
+        if (postos >= mostrar || !evs.length) continue;
+        const vai = evs.slice(0, mostrar - postos); postos += vai.length;
+        html += `<section class="lyk-sec lyk-res-dia"><div class="lyk-cab"><h2>${d === hoje ? "Hoje" : SEML[x.getDay()]}, ${x.getDate()} de ${MESL[x.getMonth()]}${x.getFullYear() !== dt(hoje).getFullYear() ? " de " + x.getFullYear() : ""}</h2><span class="sub">${dias[d].length}</span></div>${vai.map(e => linha(e, d)).join("")}</section>`;
+      }
+      total += dest.length; postos += dest.length;
       if (nEsc) html = `<p class="sub lyk-esc">${nEsc} ${nEsc === 1 ? "evento escondido" : "eventos escondidos"} pelo que escolheu não ver. <button class="ch" id="avertudo">Mostrar também</button> · <a href="${B}conta.html#lykeion">O que vejo</a></p>` + html;
       if (total > postos) html += `<p class="lyk-maisev"><button class="bt" id="amaisev">Mostrar mais (faltam ${total - postos})</button></p>`;
       caixa.innerHTML = html || '<p class="vazio">Nada com estes filtros. Experimente tirar um.</p>';
