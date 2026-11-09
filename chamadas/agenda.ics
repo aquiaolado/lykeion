@@ -1,45 +1,238 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Lykeion//Agenda academica//PT
+PRODID:-//Lykeion//Prazos//PT
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Chamadas abertas: prazos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:6th-eugloh-plant-science-meeting-331a9-2026-11-16@lagenda.pt
+UID:cham-6th-eugloh-plant-science-meeting-331a9@lykeion.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
 SUMMARY:Prazo: 6th EUGLOH Plant Science Meeting
-LOCATION:Faculdade de Ciências da Universidade do Porto\, Porto
 DESCRIPTION:Prazo de submissão. https://www.up.pt/eventos/event/6th-eugloh
  -plant-science-meeting
-URL:https://lykeion.pt/e/6th-eugloh-plant-science-meeting-331a9.html
+URL:https://www.up.pt/eventos/event/6th-eugloh-plant-science-meeting
 END:VEVENT
 BEGIN:VEVENT
-UID:reuniao-anual-do-gehp-beyond-one-disease-redefining-the-face-28b71-2026
- -11-16@lagenda.pt
+UID:cham-reuniao-anual-do-gehp-beyond-one-disease-redefining-the-face-28b71
+ @lykeion.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
 SUMMARY:Prazo: Reunião Anual do Gehp “beyond One Disease: Redefining The
   Faces Of Pulmonary Hypertension Annual Meeting
-LOCATION:Sociedade Portuguesa de Cardiologia
 DESCRIPTION:Prazo de submissão. https://spc.pt/evento/reuniao-anual-do-gru
  po-de-estudos-da-hipertensao-pulmonar-beyond-one-disease-redefining-the-fa
  ces-of-pulmonary-hypertension/
-URL:https://lykeion.pt/e/reuniao-anual-do-gehp-beyond-one-disease-redefinin
- g-the-face-28b71.html
+URL:https://spc.pt/evento/reuniao-anual-do-grupo-de-estudos-da-hipertensao-
+ pulmonar-beyond-one-disease-redefining-the-faces-of-pulmonary-hypertension
+ /
 END:VEVENT
 BEGIN:VEVENT
-UID:1-a-reuniao-nacional-de-capsula-endoscopica-e-enteroscopia-6254e-2026-1
- 1-30@lagenda.pt
+UID:cham-1-a-reuniao-nacional-de-capsula-endoscopica-e-enteroscopia-6254e@l
+ ykeion.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
 SUMMARY:Prazo: 1.ª Reunião Nacional de Cápsula Endoscópica e Enteroscop
  ia
-LOCATION:Sociedade Portuguesa de Gastrenterologia
 DESCRIPTION:Prazo de submissão. https://www.spg.pt/events/1-a-reuniao-naci
  onal-de-capsula-endoscopica-e-enteroscopia/
-URL:https://lykeion.pt/e/1-a-reuniao-nacional-de-capsula-endoscopica-e-ente
- roscopia-6254e.html
+URL:https://www.spg.pt/events/1-a-reuniao-nacional-de-capsula-endoscopica-e
+ -enteroscopia/
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-revista-soils-and-rocks-n-mero-especial-@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Prazo: Revista Soils and Rocks. Número especial: “Geotechnical E
+ ngineering in the Context of Climate Change”. Submissão de artigos até
+DESCRIPTION:Prazo de submissão. https://spgeotecnia.pt/noticias/revista-so
+ ils-and-rocks-numero-especial-geotechnical-engineering-in-the-context-of-c
+ limate-change-submissao-de-artigos-ate-15-de-novembro-de-2026/
+URL:https://spgeotecnia.pt/noticias/revista-soils-and-rocks-numero-especial
+ -geotechnical-engineering-in-the-context-of-climate-change-submissao-de-ar
+ tigos-ate-15-de-novembro-de-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-easychair-student-symposium-on-emerging-topics-in-@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Prazo: Student Symposium on Emerging Topics in Informatics
+DESCRIPTION:Prazo de submissão. https://easychair.org/cfp/SEMINARS2627
+URL:https://easychair.org/cfp/SEMINARS2627
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-xxviii-col-quio-de-outono-narrativas-e-r@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Prazo: XXVIII Colóquio de Outono Narrativas e Representações Tra
+ nsculturais do Amor
+DESCRIPTION:Prazo de submissão. https://www.uma.pt/noticias/xxviii-coloqui
+ o-de-outono-narrativas-e-representacoes-transculturais-do-amor-call-for-pa
+ pers
+URL:https://www.uma.pt/noticias/xxviii-coloquio-de-outono-narrativas-e-repr
+ esentacoes-transculturais-do-amor-call-for-papers
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-ii-confer-ncia-ibero-americana-de-public@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Prazo: II Conferência Ibero-Americana de Publicidade
+DESCRIPTION:Prazo de submissão. https://www.ubi.pt/Evento/24209
+URL:https://www.ubi.pt/Evento/24209
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-ii-confer-ncia-ibero-americana-de-public@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Prazo: II Conferência Ibero-Americana de Publicidade
+DESCRIPTION:Prazo de submissão. https://www.icnova.fcsh.unl.pt/call-for-pa
+ pers-ii-conferencia-ibero-americana-de-publicidade/
+URL:https://www.icnova.fcsh.unl.pt/call-for-papers-ii-conferencia-ibero-ame
+ ricana-de-publicidade/
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-10-confer-ncia-internacional-de-assuntos@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Prazo: 10.ª Conferência Internacional de Assuntos Contemporâneos
+  em Arquitetura e Urbanismo
+DESCRIPTION:Prazo de submissão. https://www.ubi.pt/Evento/24200
+URL:https://www.ubi.pt/Evento/24200
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-17-confer-ncia-lus-fona-de-ci-ncia-abert@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Prazo: 17.ª Conferência Lusófona de Ciência Aberta
+DESCRIPTION:Prazo de submissão. https://www.uc.pt/buc/noticias/17-conferen
+ cia-lusofona-de-ciencia-aberta-aberta-a-chamada-de-trabalhos/
+URL:https://www.uc.pt/buc/noticias/17-conferencia-lusofona-de-ciencia-abert
+ a-aberta-a-chamada-de-trabalhos/
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-easychair-2027-the-14th-international-conference-o@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Prazo: 2027 The 14th International Conference on Industrial Enginee
+ ring and Applications
+DESCRIPTION:Prazo de submissão. https://easychair.org/cfp/ICIEAEU2027
+URL:https://easychair.org/cfp/ICIEAEU2027
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-revista-interact-n-43@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Prazo: Revista Interact nº 43
+DESCRIPTION:Prazo de submissão. https://www.icnova.fcsh.unl.pt/revista-int
+ eract-43-chamada-contributos/
+URL:https://www.icnova.fcsh.unl.pt/revista-interact-43-chamada-contributos/
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-easychair-curators-in-the-loop-human-centred-ai-fo@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Prazo: Curators in the loop: human-centred AI for the digital curat
+ ion of cultural heritage collections
+DESCRIPTION:Prazo de submissão. https://easychair.org/cfp/cair2027
+URL:https://easychair.org/cfp/cair2027
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-easychair-international-symposium-on-occupational-@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Prazo: International Symposium on Occupational Safety and Hygiene 2
+ 027
+DESCRIPTION:Prazo de submissão. https://easychair.org/cfp/SHO2027
+URL:https://easychair.org/cfp/SHO2027
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-cem-cultura-espa-o-e-mem-ria-n-23-chamad@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Prazo: CEM - Cultura\, Espaço e Memória\, n.º 23_chamada de arti
+ gos
+DESCRIPTION:Prazo de submissão. https://citcem.org/eventos/chamada-de-arti
+ gos-cem-cultura-espaco-e-memoria-n-o-23/
+URL:https://citcem.org/eventos/chamada-de-artigos-cem-cultura-espaco-e-memo
+ ria-n-o-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-chamada-de-trabalhos-para-a-revista-psia@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Prazo: Chamada de trabalhos para a Revista PSIAX#10
+DESCRIPTION:Prazo de submissão. https://lab2pt.net/opportunities/chamada-d
+ e-trabalhos-para-a-revista-psiax10
+URL:https://lab2pt.net/opportunities/chamada-de-trabalhos-para-a-revista-ps
+ iax10
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-easychair-international-congress-student-engagemen@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Prazo: International Congress Student Engagement in Learning and in
+  the Academic Community: Challenges of Education in the Age of Artificial 
+ Intelligence.
+DESCRIPTION:Prazo de submissão. https://easychair.org/cfp/SELAC-27
+URL:https://easychair.org/cfp/SELAC-27
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-agendas-confer-ncia-anual-da-eastap-lisboa-2027-@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Prazo: Conferência Anual da EASTAP – Lisboa 2027 Call for Papers
+DESCRIPTION:Prazo de submissão. https://ceteatro.pt/call-for-papers-confer
+ encia-anual-da-eastap-lisboa-2027-guerras-civis-e-a-performance-do-conflit
+ o-22-a-25-de-setembro-de-2027-lisboa/
+URL:https://ceteatro.pt/call-for-papers-conferencia-anual-da-eastap-lisboa-
+ 2027-guerras-civis-e-a-performance-do-conflito-22-a-25-de-setembro-de-2027
+ -lisboa/
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-easychair-13th-international-conference-on-rigorou@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Prazo: 13th International Conference on Rigorous State Based Method
+ s
+DESCRIPTION:Prazo de submissão. https://easychair.org/cfp/ABZ2027
+URL:https://easychair.org/cfp/ABZ2027
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-easychair-ii-international-congress-of-accounting-@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Prazo: II International Congress of Accounting History
+DESCRIPTION:Prazo de submissão. https://easychair.org/cfp/2ICAH
+URL:https://easychair.org/cfp/2ICAH
+END:VEVENT
+BEGIN:VEVENT
+UID:cham-easychair-corporate-purpose-international-conferen@lykeion.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Prazo: Corporate Purpose International Conference 2027
+DESCRIPTION:Prazo de submissão. https://easychair.org/cfp/cpic2027
+URL:https://easychair.org/cfp/cpic2027
 END:VEVENT
 END:VCALENDAR
