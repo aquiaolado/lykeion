@@ -225,19 +225,6 @@ URL:https://lykeion.pt/e/exposicao-por-dentro-do-barroco-no-museu-diocesano
  -de-lamego-60168.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-tereza-arriaga-percursos-de-arte-e-vida-visita-gui-9aa20-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Exposição ‘Tereza Arriaga: Percursos de Arte e Vida’ | Visita
-  guiada e Mesa-redonda 6 e 19 nov.
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/exposicao-tereza-arriaga-
- percursos-de-arte-e-vida-visita-guiada-e-mesa-redonda-6-e-19-nov/
-URL:https://lykeion.pt/e/exposicao-tereza-arriaga-percursos-de-arte-e-vida-
- visita-gui-9aa20.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-olhares-a-proposito-do-dia-mundial-da-fotografia-3ca51-2026-1
  1-09@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -595,6 +582,20 @@ URL:https://lykeion.pt/e/coloquio-internacional-imagens-sonoras-dialogos-en
  tre-cinema-c574f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-relacoes-entre-artes-e-patrimonio-na-pratica-art-b320c-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T140000
+SUMMARY:Conferência | Relações entre Artes e Património: na prática ar
+ tística de Fernanda Fragateiro e no âmbito do Projeto Passa ao Futuro
+LOCATION:Instituto Politécnico de Tomar\, Tomar
+DESCRIPTION:http://portal2.ipt.pt/pt/noticias/conferencias/conferencia_rela
+ coes_entre_artes_e_patrimonio_na_pratica_artistica_de_fernanda_fragateiro_
+ e_no_ambito_do_projeto_passa_ao_futuro_2026_11_09
+URL:https://lykeion.pt/e/conferencia-relacoes-entre-artes-e-patrimonio-na-p
+ ratica-art-b320c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:designing-impactful-proposals-for-adaptation-and-resilience-25c77-2026-
  11-12@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -690,7 +691,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:X Fórum Ibérico de Estudos Museológicos – Museus\, Mundos em M
  udança
-LOCATION:Instituto de Historia da Arte\, Loulé
+LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/x-forum-iberico-de-
  estudos-museologicos-museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/x-forum-iberico-de-estudos-museologicos-museus-mun
@@ -884,19 +885,6 @@ LOCATION:Sismógrafo\, Porto
 DESCRIPTION:https://sismografo.org/pt/programacao/encontros-arte-e-trabalho
  /
 URL:https://lykeion.pt/e/encontros-arte-e-trabalho-8ffe3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:neste-workshop-conduzido-por-miguel-pereira-da-silva-os-part-b5905-2026
- -11-14@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Neste workshop conduzido por Miguel Pereira da Silva\, os participa
- ntes descobrem a fotografia analógica sem necessidade de um laboratório 
- tradicional.
-LOCATION:Instituto Superior Bissaya Barreto\, Coimbra
-DESCRIPTION:https://agenda.fbb.pt/eventos/workshop-de-fotografia-analogica/
-URL:https://lykeion.pt/e/neste-workshop-conduzido-por-miguel-pereira-da-sil
- va-os-part-b5905.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-ler-a-organizacao-casos-e-experiencias-de-diagnost-1b7cd-2026
@@ -1245,14 +1233,14 @@ URL:https://lykeion.pt/e/economics-extra-economia-em-tempos-de-mudanca-da-i
  nflacao-ao-fccc9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-arte-contemporanea-um-bem-comum-d586d-2026-11-19@lagenda.pt
+UID:encontro-arte-contemporanea-um-bem-comum-f3770-2026-11-19@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Encontro: Arte Contemporânea - UM BEM COMUM
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
   Rainha
-DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/05/3o-encontro-rpac/
-URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-d586d.htm
+DESCRIPTION:
+URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-f3770.htm
  l
 END:VEVENT
 BEGIN:VEVENT

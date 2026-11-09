@@ -1,6 +1,7 @@
 # Lykeion (gerado por gerar_lagenda.py --lykeion)
 Options -Indexes
 DirectoryIndex index.html index.php
+ErrorDocument 404 /404.html
 RewriteEngine On
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]

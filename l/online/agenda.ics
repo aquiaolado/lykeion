@@ -6,6 +6,18 @@ X-WR-CALNAME:Online (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-mestrados-integrados-simulacao-de-sist-1d949-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Provas de mestrado de Mestrados Integrados — “Simulação de si
+ stemas de energia renovável híbridos para alimentar cargas offshore
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mestrados-integrados-simulac
+ ao-de-sist-1d949.html
+END:VEVENT
+BEGIN:VEVENT
 UID:10-11-26-conferencia-abretciencia-6-protecao-de-dados-em-inv-2e93d-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -23,7 +35,8 @@ UID:eprm-webinar-0a0f3-2026-11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:EPRM Webinar
-LOCATION:United Nations University\, Guimarães
+LOCATION:United Nations University Operating Unit on Policy-Driven Electron
+ ic Governance\, Guimarães
 DESCRIPTION:https://unu.edu/events
 URL:https://lykeion.pt/e/eprm-webinar-0a0f3.html
 END:VEVENT
@@ -131,7 +144,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Online Ciclo de Webinários “Ser jornalista hoje: precariedade\, 
  novas fronteiras e crise de confiança
-LOCATION:Departamento de Artes e Tecnologias\, Coimbra
+LOCATION:Departamento de Comunicação\, Coimbra
 DESCRIPTION:https://www.esec.pt/eventos/ciclo-de-webinarios-ser-jornalista-
  hoje-precariedade-novas-fronteiras-e-crise-de-confianca/
 URL:https://lykeion.pt/e/online-ciclo-de-webinarios-ser-jornalista-hoje-pre
@@ -267,6 +280,16 @@ SUMMARY:Cimeira Apply AI
 LOCATION:Centro de Informação Europeia Jacques Delors
 DESCRIPTION:https://eurocid.mne.gov.pt/eventos/cimeira-apply-ai
 URL:https://lykeion.pt/e/cimeira-apply-ai-bd7b5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ed-17-11-26-webinar-03613-2026-11-17@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T143000
+SUMMARY:ED 17.11.26 Webinar
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/iii/ensino/escolas-doutorais/agenda/webinar-d
+ esenho-de-investigacao-com-o-software-idea-puzzle-1/
+URL:https://lykeion.pt/e/ed-17-11-26-webinar-03613.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ivo-filipe-silva-maia-modelo-de-susten-48a1c-2026
