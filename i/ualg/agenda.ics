@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:math-colloquium-cidma-ualg-04e4e-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T110000
 SUMMARY:Math Colloquium CIDMA/UAlg
 LOCATION:Universidade do Algarve\, Faro
 DESCRIPTION:https://www.ualg.pt/math-colloquium-cidmaualg-1
@@ -43,19 +43,6 @@ LOCATION:Universidade do Algarve\, Faro
 DESCRIPTION:
 URL:https://lykeion.pt/e/conferencia-residuos-um-futuro-urgente-13-de-novem
  bro-de-202-20ec7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:museus-mundos-em-mudanca-x-forum-iberico-de-estudos-museolog-a4a43-2026
- -11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Museus\, Mundos em Mudança - X Fórum Ibérico de Estudos Museoló
- gicos
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://fchs.ualg.pt/museus-mundos-em-mudanca-x-forum-iberico-d
- e-estudos-museologicos
-URL:https://lykeion.pt/e/museus-mundos-em-mudanca-x-forum-iberico-de-estudo
- s-museolog-a4a43.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sara-vitorino-fernandez-investigadora-do-ciac-participa-na-c-8619f-2026

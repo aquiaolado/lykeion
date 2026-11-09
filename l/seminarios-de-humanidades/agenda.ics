@@ -19,14 +19,30 @@ URL:https://lykeion.pt/e/cem-cultura-espaco-e-memoria-n-o-23-chamada-de-art
  igos-da9c3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ciclo-de-conferencias-fb0f3-2026-11-09@lagenda.pt
+UID:ciclo-de-conferencias-2026-nos-40-anos-do-centro-portugues-d-be8ba-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T150000
+SUMMARY:Ciclo de Conferências 2026 “Nos 40 anos do Centro Português de 
+ Serigrafia Celebrando a Democratização da Arte em Portugal a Homenagem a
+  António e João Prates
+LOCATION:Academia Nacional de Belas Artes
+DESCRIPTION:https://academiabelasartes.pt/ciclo-de-conferencias-2026-nos-40
+ -anos-do-centro-portugues-de-serigrafia-celebrando-a-democratizacao-da-art
+ e-em-portugal-a-homenagem-a-antonio-e-joao-prates/
+URL:https://lykeion.pt/e/ciclo-de-conferencias-2026-nos-40-anos-do-centro-p
+ ortugues-d-be8ba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-conferencias-disputas-de-memoria-fb0f3-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T180000
-SUMMARY:Ciclo de Conferências
+SUMMARY:Ciclo de Conferências | Disputas de Memória
 LOCATION:Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://chul.letras.ulisboa.pt/evento/ciclo-de-conferencias-dis
  putas-de-memoria/
-URL:https://lykeion.pt/e/ciclo-de-conferencias-fb0f3.html
+URL:https://lykeion.pt/e/ciclo-de-conferencias-disputas-de-memoria-fb0f3.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:co-designing-and-usability-testing-loopalot-a-digital-multiv-d9272-2026
@@ -42,19 +58,6 @@ URL:https://lykeion.pt/e/co-designing-and-usability-testing-loopalot-a-digi
  tal-multiv-d9272.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-care-contemporary-arts-activism-for-reproductive-9782b-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Conferência: Care - Contemporary Arts Activism For Reproductive He
- althcare
-LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
-  Rainha
-DESCRIPTION:
-URL:https://lykeion.pt/e/conferencia-care-contemporary-arts-activism-for-re
- productive-9782b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:contar-historias-com-sons-4b60b-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -62,6 +65,16 @@ SUMMARY:Contar Histórias com Sons
 LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
 DESCRIPTION:https://www.cenjor.pt
 URL:https://lykeion.pt/e/contar-historias-com-sons-4b60b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eposicao-linhas-de-tensao-9a052-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Eposição Linhas de Tensão
+LOCATION:Instituto de Investigação em Design Media e Cultura\, Porto
+DESCRIPTION:https://idmais.org/event/eposicao-linhas-de-tensao-5-a-27-de-no
+ vembro/
+URL:https://lykeion.pt/e/eposicao-linhas-de-tensao-9a052.html
 END:VEVENT
 BEGIN:VEVENT
 UID:mestrado-em-ciencias-da-documentacao-e-informacao-1f04a-2026-11-09@lage
@@ -273,10 +286,10 @@ BEGIN:VEVENT
 UID:seminario-irmgard-emmelhainz-sobre-violencia-predatoria-e-om-22e06-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T103000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Seminário: Irmgard Emmelhainz sobre “Violência predatória e om
  nicida
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+LOCATION:Departamento de Antropologia
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/irmgard-emmelhainz-sobre-violen
  cia-predatoria-e-omnicida/
 URL:https://lykeion.pt/e/seminario-irmgard-emmelhainz-sobre-violencia-preda
@@ -405,7 +418,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Seminário “Fortificações e Património Militar – Ciência\, 
  Património e Sociedade: Desafios do Futuro
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-fortificacoes-e-patrimonio-
  militar-ciencia-patrimonio-e-sociedade-desafios-do-futuro/
 URL:https://lykeion.pt/e/seminario-fortificacoes-e-patrimonio-militar-cienc
@@ -578,6 +591,18 @@ DESCRIPTION:https://www.bnportugal.gov.pt/index.php?option=com_content&view
  =article&id=2194%3Aconferencia-por-ocasiao-da-estreia-moderna-de-obra-prim
  a-de-niccolo-jommelli&catid=178%3A2026&Itemid=2179&lang=pt
 URL:https://lykeion.pt/e/conferencia-106b3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:docs-kingdom-seminario-internacional-sobre-cinema-documental-16712-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Doc’s Kingdom – Seminário Internacional sobre Cinema Documenta
+ l
+LOCATION:Odemira (vila)\, Odemira
+DESCRIPTION:
+URL:https://lykeion.pt/e/docs-kingdom-seminario-internacional-sobre-cinema-
+ documental-16712.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gea-13-11-26-programa-de-doutoramento-mariana-ladeira-afonso-db83b-2026
@@ -991,6 +1016,16 @@ LOCATION:Centro de Filosofia
 DESCRIPTION:https://cful.letras.ulisboa.pt/events/hphil-seminar-november-19
  -2026/
 URL:https://lykeion.pt/e/hphil-seminar-november-19-2026-3bc7d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mariana-pinto-coelho-dias-terra-miraculosa-3c88f-2026-11-19@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T173000
+SUMMARY:Mariana Pinto Coelho Dias\, «Terra Miraculosa»
+LOCATION:Centro de Investigação e de Estudos em Belas-Artes
+DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/681
+URL:https://lykeion.pt/e/mariana-pinto-coelho-dias-terra-miraculosa-3c88f.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:o-homem-a-sexualidade-no-seculo-xxi-2d75b-2026-11-19@lagenda.pt

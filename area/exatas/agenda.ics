@@ -220,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:math-colloquium-cidma-ualg-04e4e-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T110000
 SUMMARY:Math Colloquium CIDMA/UAlg
 LOCATION:Universidade do Algarve\, Faro
 DESCRIPTION:https://www.ualg.pt/math-colloquium-cidmaualg-1
@@ -353,17 +353,6 @@ DESCRIPTION:https://cbr.fm.ucp.pt/en/events/cbr-pi-seminars-2026-nina-schmo
 URL:https://lykeion.pt/e/cbr-pi-seminars-2026-nina-schmolka-60acf.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cop31-em-debate-do-compromisso-a-acao-d88b6-2026-11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T150000
-SUMMARY:COP31 em debate | Do compromisso à ação
-LOCATION:Infraestrutura Nacional de Investigação para Energia Solar de Co
- ncentração\, Amadora
-DESCRIPTION:https://www.lneg.pt/event/cop31-em-debate-do-compromisso-a-acao
- /
-URL:https://lykeion.pt/e/cop31-em-debate-do-compromisso-a-acao-d88b6.html
-END:VEVENT
-BEGIN:VEVENT
 UID:crosstalk-between-ribosome-biogenesis-and-the-stringent-resp-e3783-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -386,19 +375,6 @@ DESCRIPTION:https://www.fcsh.unl.pt/eventos/ia-superinteligente-e-o-sentido
  -na-vida/
 URL:https://lykeion.pt/e/encontro-ia-superinteligente-e-o-sentido-na-vida-4
  7a85.html
-END:VEVENT
-BEGIN:VEVENT
-UID:identificacao-de-riscos-no-armazenamento-de-produtos-quimico-1345f-2026
- -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Identificação de Riscos no Armazenamento de Produtos Químicos Pe
- rigosos
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/identificacao-de-riscos-no-armaz
- enamento-de-produtos-quimicos-perigosos/
-URL:https://lykeion.pt/e/identificacao-de-riscos-no-armazenamento-de-produt
- os-quimico-1345f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:jornadas-de-outono-de-maeg-86b64-2026-11-10@lagenda.pt
@@ -937,6 +913,20 @@ URL:https://lykeion.pt/e/xxv-congresso-nacional-de-grupanalise-e-psicoterap
  ia-analiti-a15f1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:a-iniciativa-engloba-com-uma-palestra-sobre-a-industria-cons-b0bf0-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:A iniciativa engloba com uma palestra sobre a Indústria Conserveir
+ a Local\, pela Confraria do Atum de Vila Real de Santo António\, e com um
+ a mostra ...
+LOCATION:Vila Real de Santo António\, Vila Real de Santo António
+DESCRIPTION:https://www.cm-vrsa.pt/pt/agenda/58383/comemoracao-do-dia-nacio
+ nal-das-conservas-de-peixe.aspx
+URL:https://lykeion.pt/e/a-iniciativa-engloba-com-uma-palestra-sobre-a-indu
+ stria-cons-b0bf0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:forum-cafe-forum-jovens-investigadores-e25cb-2026-11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T130000
@@ -1314,30 +1304,6 @@ DESCRIPTION:https://www.ulusofona.pt/evento/great-artists-on-campus-6-lisbo
 URL:https://lykeion.pt/e/encontros-great-artists-on-campus-6-90954.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-da-seguranca-em-ambiente-industrial-e-construcao-c7670-2026-11-1
- 7@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Gestão da Segurança em Ambiente Industrial e Construção
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-da-seguranca-em-ambiente-
- industrial-e-construcao/
-URL:https://lykeion.pt/e/gestao-da-seguranca-em-ambiente-industrial-e-const
- rucao-c7670.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ia-no-trabalho-comandos-eficazes-para-simplificar-tarefas-ebbda-2026-11
- -17@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:IA no Trabalho: Comandos Eficazes para Simplificar Tarefas
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/ia-no-trabalho-comandos-eficazes
- -para-simplificar-tarefas/
-URL:https://lykeion.pt/e/ia-no-trabalho-comandos-eficazes-para-simplificar-
- tarefas-ebbda.html
-END:VEVENT
-BEGIN:VEVENT
 UID:inesc-id-distinguished-lecture-professor-robbert-van-renness-f2d62-2026
  -11-17@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -1500,6 +1466,16 @@ LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
 DESCRIPTION:https://www.ubi.pt/Evento/24166
 URL:https://lykeion.pt/e/conferencia-alteracoes-climaticas-devemos-ter-medo
  -do-futuro-a0818.html
+END:VEVENT
+BEGIN:VEVENT
+UID:deec-talk-com-marco-piccardo-829f3-2026-11-18@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T120000
+SUMMARY:Deec Talk com Marco Piccardo
+LOCATION:Departamento de Engenharia Eletrotécnica e de Computadores (DEEC)
+DESCRIPTION:https://deec.tecnico.ulisboa.pt/eventos/palestras/deec-talk-com
+ -marco-piccardo
+URL:https://lykeion.pt/e/deec-talk-com-marco-piccardo-829f3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:esac-auditorio-principal-bloco-e-seminario-sementes-plantas-c7951-2026-

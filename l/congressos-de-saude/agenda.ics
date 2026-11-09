@@ -100,16 +100,16 @@ DESCRIPTION:https://spc.pt/evento/congresso-nacional-da-ordem-dos-medicos/
 URL:https://lykeion.pt/e/congresso-nacional-da-ordem-dos-medicos-5a5c8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iii-congresso-do-algarve-de-alzheimer-e-outras-demencias-2867b-2026-11-
- 12@lagenda.pt
+UID:congresso-do-algarve-de-alzheimer-e-outras-demencias-6ecf0-2026-11-12@l
+ agenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:III Congresso do Algarve de Alzheimer e outras demências
+DTSTART;TZID=Europe/Lisbon:20261112T090000
+SUMMARY:Congresso do Algarve de Alzheimer e Outras Demências
 LOCATION:Casa de Odeleite\, Castro Marim
-DESCRIPTION:https://cm-castromarim.pt/site/evento/iii-congresso-do-algarve-
- de-alzheimer-e-outras-demencias
-URL:https://lykeion.pt/e/iii-congresso-do-algarve-de-alzheimer-e-outras-dem
- encias-2867b.html
+DESCRIPTION:https://cm-castromarim.pt/site/evento/congresso-do-algarve-de-a
+ lzheimer-e-outras-demencias
+URL:https://lykeion.pt/e/congresso-do-algarve-de-alzheimer-e-outras-demenci
+ as-6ecf0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc2-2026-11-12@lagenda.
@@ -289,16 +289,6 @@ URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
 END:VEVENT
 BEGIN:VEVENT
-UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T093000
-SUMMARY:18.ª edição Fórum do Medicamento
-LOCATION:Centro Cultural de Belém\, Belém
-DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
- kets-2004012616683
-URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
  genda.pt
 DTSTAMP:20261109T000000Z
@@ -355,6 +345,18 @@ SUMMARY:X Encontro Ser Bebé
 LOCATION:Faculdade de Psicologia da Universidade de Lisboa
 DESCRIPTION:https://www.psicologia.ulisboa.pt/encontro-ser-bebe/
 URL:https://lykeion.pt/e/x-encontro-ser-bebe-0b085.html
+END:VEVENT
+BEGIN:VEVENT
+UID:12o-encontro-de-pneumologia-oncologica-do-sul-befcb-2026-11-21@lagenda.
+ pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T090000
+SUMMARY:12o Encontro de Pneumologia Oncológica do Sul
+LOCATION:Sociedade Portuguesa de Pneumologia
+DESCRIPTION:https://www.sppneumologia.pt/agenda/12-encontro-de-pneumologia-
+ oncologica-do-sul
+URL:https://lykeion.pt/e/12o-encontro-de-pneumologia-oncologica-do-sul-befc
+ b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-1-o-encontro-nacional-de-c5e00-2026-

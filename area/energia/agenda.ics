@@ -6,18 +6,6 @@ X-WR-CALNAME:Energia e Sustentabilidade (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-mestrados-integrados-simulacao-de-sist-1d949-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Provas de mestrado de Mestrados Integrados — “Simulação de si
- stemas de energia renovável híbridos para alimentar cargas offshore
-LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
-DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
-URL:https://lykeion.pt/e/provas-de-mestrado-de-mestrados-integrados-simulac
- ao-de-sist-1d949.html
-END:VEVENT
-BEGIN:VEVENT
 UID:auditorio-marques-de-almeida-1-o-forum-de-inovacao-e-sustent-6c08c-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -30,6 +18,20 @@ DESCRIPTION:https://www.iscac.pt/eventos/1-o-forum-de-inovacao-e-sustentabi
  lidade/
 URL:https://lykeion.pt/e/auditorio-marques-de-almeida-1-o-forum-de-inovacao
  -e-sustent-6c08c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-caroline-wosniak-de-carvalho-design-de-f606b-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Provas de mestrado de Caroline Wosniak de Carvalho — Design de Em
+ balagens Recarregáveis como Vantagem Competitiva em Cosméticos: Um Enfoq
+ ue na Sustentabilidade e Decisão de Compra
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/categoria/ensino/ensino-estudar-na-ff
+ ul/provas-academicas/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-caroline-wosniak-de-carvalho
+ -design-de-f606b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2-a-conferencia-anual-do-nova-green-lab-21c63-2026-11-11@lagenda.pt
@@ -93,17 +95,6 @@ URL:https://lykeion.pt/e/palestra-workshop-potencializacao-da-cosmetologia-
  atraves-da-36787.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-de-energia-e-eficiencia-energetica-e9b48-2026-11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Gestão de Energia e Eficiência Energética
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-energia-e-eficiencia-e
- nergetica/
-URL:https://lykeion.pt/e/gestao-de-energia-e-eficiencia-energetica-e9b48.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:palestra-f1043-2026-11-17@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -127,6 +118,16 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ivo-filipe-silva-maia-modelo
  -de-susten-48a1c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:tecinnov-brisa-workshop-de-co-criacao-34366-2026-11-17@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T093000
+SUMMARY:TecInnov Brisa - Workshop de Co-Criação
+LOCATION:Departamento de Engenharia Eletrotécnica e de Computadores (DEEC)
+DESCRIPTION:https://deec.tecnico.ulisboa.pt/eventos/palestras/tecinnov-bris
+ a-workshop-de-co-criacao
+URL:https://lykeion.pt/e/tecinnov-brisa-workshop-de-co-criacao-34366.html
+END:VEVENT
+BEGIN:VEVENT
 UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
  1-18@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -137,20 +138,6 @@ DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
  versa-desafios-e-oportunidades-da-transicao-energetica/
 URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-desafios-e-oportuni
  dades-da-285d6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:palestra-solos-marginais-para-producao-de-bioenergia-como-id-3d418-2026
- -11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T110000
-SUMMARY:Palestra “Solos marginais para produção de bioenergia – Como 
- identificar estes solos em Portugal?
-LOCATION:Infraestrutura Nacional de Investigação para Energia Solar de Co
- ncentração\, Amadora
-DESCRIPTION:https://www.lneg.pt/event/palestra-solos-marginais-para-produca
- o-de-bioenergia-como-identificar-estes-solos-em-portugal/
-URL:https://lykeion.pt/e/palestra-solos-marginais-para-producao-de-bioenerg
- ia-como-id-3d418.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-

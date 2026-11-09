@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ISBB (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:neste-workshop-conduzido-por-miguel-pereira-da-silva-os-part-b5905-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Neste workshop conduzido por Miguel Pereira da Silva\, os participa
+ ntes descobrem a fotografia analógica sem necessidade de um laboratório 
+ tradicional.
+LOCATION:Instituto Superior Bissaya Barreto\, Coimbra
+DESCRIPTION:https://agenda.fbb.pt/eventos/workshop-de-fotografia-analogica/
+URL:https://lykeion.pt/e/neste-workshop-conduzido-por-miguel-pereira-da-sil
+ va-os-part-b5905.html
+END:VEVENT
+END:VCALENDAR

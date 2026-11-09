@@ -6,16 +6,6 @@ X-WR-CALNAME:Geografia e Território (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-linhas-de-tensao-85621-2026-11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Exposição Linhas de Tensão
-LOCATION:Politécnico do Porto\, Porto
-DESCRIPTION:https://centrodecultura.ipp.pt/evento/exposicao-linhas-de-tensa
- o/
-URL:https://lykeion.pt/e/exposicao-linhas-de-tensao-85621.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
  -09@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -182,10 +172,10 @@ BEGIN:VEVENT
 UID:seminario-irmgard-emmelhainz-sobre-violencia-predatoria-e-om-22e06-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T103000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Seminário: Irmgard Emmelhainz sobre “Violência predatória e om
  nicida
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+LOCATION:Departamento de Antropologia
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/irmgard-emmelhainz-sobre-violen
  cia-predatoria-e-omnicida/
 URL:https://lykeion.pt/e/seminario-irmgard-emmelhainz-sobre-violencia-preda
@@ -226,7 +216,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Desigualdades Urbanas\, Mobilidade Pedonal e Bem-Estar Mental: uma 
  Abordagem em Ciência da Informação Geográfica
-LOCATION:Universidade de Lisboa
+LOCATION:Departamento de Apoio ao Museu e ao IICT
 DESCRIPTION:https://www.ulisboa.pt/evento/desigualdades-urbanas-mobilidade-
  pedonal-e-bem-estar-mental-uma-abordagem-em-ciencia-da
 URL:https://lykeion.pt/e/desigualdades-urbanas-mobilidade-pedonal-e-bem-est
@@ -258,20 +248,6 @@ DESCRIPTION:https://www.unl.pt/eventos/seminario-nova-fcsh-urbanismo-e-mobi
  lidade-que-papel-na-inclusao-social/
 URL:https://lykeion.pt/e/seminario-nova-fcsh-urbanismo-e-mobilidade-que-pap
  el-na-incl-1b2d1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conference-a-new-approach-to-territorial-intelligence-in-the-1522e-2026
- -11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:CONFERENCE | A New Approach to Territorial Intelligence in the Face
-  of Wildfires
-LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
- icas\, Vila Real
-DESCRIPTION:https://www.citab.utad.pt/events/conference-a-new-approach-to-t
- erritorial-intelligence-in-the-face-of-wildfires
-URL:https://lykeion.pt/e/conference-a-new-approach-to-territorial-intellige
- nce-in-the-1522e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-b85e2-2026

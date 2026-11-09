@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:math-colloquium-cidma-ualg-04e4e-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T110000
 SUMMARY:Math Colloquium CIDMA/UAlg
 LOCATION:Universidade do Algarve\, Faro
 DESCRIPTION:https://www.ualg.pt/math-colloquium-cidmaualg-1

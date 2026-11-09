@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro de Enfermagem da Católica (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:fcse-promove-masterclass-com-especialistas-internacionais-so-a9a74-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T040000
+SUMMARY:FCSE promove masterclass com especialistas internacionais sobre “
+ The Living Wound: From Cellular Forces to Intelligent Tissue Regeneration
+LOCATION:Centro de Enfermagem da Católica\, Porto
+DESCRIPTION:https://enfermagem.porto.ucp.pt/pt-pt
+URL:https://lykeion.pt/e/fcse-promove-masterclass-com-especialistas-interna
+ cionais-so-a9a74.html
+END:VEVENT
+END:VCALENDAR

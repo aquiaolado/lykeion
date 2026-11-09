@@ -36,7 +36,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:Aula Aberta “Intervenção Psicológica nas Perturbações do Com
  portamento Alimentar
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/intervencao-psicologica-nas-perturbac
  oes-do-comportamento-alimentar/
 URL:https://lykeion.pt/e/aula-aberta-intervencao-psicologica-nas-perturbaco
@@ -94,16 +94,6 @@ URL:https://lykeion.pt/e/cem-cultura-espaco-e-memoria-n-o-23-chamada-de-art
  igos-da9c3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ciclo-de-conferencias-fb0f3-2026-11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T180000
-SUMMARY:Ciclo de Conferências
-LOCATION:Universidade de Lisboa\, Campo Grande
-DESCRIPTION:https://chul.letras.ulisboa.pt/evento/ciclo-de-conferencias-dis
- putas-de-memoria/
-URL:https://lykeion.pt/e/ciclo-de-conferencias-fb0f3.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-09@lagend
  a.pt
 DTSTAMP:20261109T000000Z
@@ -134,6 +124,19 @@ LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-os-proximos-cinco
  -anos-jornadas-de-investigacao-2026
 URL:https://lykeion.pt/e/conferencia-os-proximos-cinco-anos-793ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-care-contemporary-arts-activism-for-reproductive-2db5f-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T143000
+SUMMARY:Conferência: Care - Contemporary Arts Activism For Reproductive He
+ althcare
+LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
+  Rainha
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/04/care-esad-cr/
+URL:https://lykeion.pt/e/conferencia-care-contemporary-arts-activism-for-re
+ productive-2db5f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lideranca-na-era-da-ia-f5ad9-2026-11-09@lagenda.pt
@@ -374,7 +377,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Aula Aberta “Gestão de Conflitos Interpessoais pelos Estudantes 
  do Ensino Superior: Contributos da Mediação
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-gestao-de-conflitos-inter
  pessoais-pelos-estudantes-do-ensino-superior-contributos-da-mediacao/
 URL:https://lykeion.pt/e/aula-aberta-gestao-de-conflitos-interpessoais-pelo
@@ -516,16 +519,6 @@ URL:https://lykeion.pt/e/envelhecimento-sem-estereotipos-servico-social-e-d
  ireitos-da-40283.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-estrategica-de-projetos-pmbok-3027d-2026-11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Gestão Estratégica de Projetos (PMBOK)
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-projetos-metodologia-p
- mbok/
-URL:https://lykeion.pt/e/gestao-estrategica-de-projetos-pmbok-3027d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:praxis-seminar-series-2026-2027-session-8-bartholomew-ryan-2f4e0-2026-1
  1-10@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -622,10 +615,10 @@ BEGIN:VEVENT
 UID:seminario-irmgard-emmelhainz-sobre-violencia-predatoria-e-om-22e06-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T103000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Seminário: Irmgard Emmelhainz sobre “Violência predatória e om
  nicida
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+LOCATION:Departamento de Antropologia
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/irmgard-emmelhainz-sobre-violen
  cia-predatoria-e-omnicida/
 URL:https://lykeion.pt/e/seminario-irmgard-emmelhainz-sobre-violencia-preda
@@ -906,7 +899,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Desigualdades Urbanas\, Mobilidade Pedonal e Bem-Estar Mental: uma 
  Abordagem em Ciência da Informação Geográfica
-LOCATION:Universidade de Lisboa
+LOCATION:Departamento de Apoio ao Museu e ao IICT
 DESCRIPTION:https://www.ulisboa.pt/evento/desigualdades-urbanas-mobilidade-
  pedonal-e-bem-estar-mental-uma-abordagem-em-ciencia-da
 URL:https://lykeion.pt/e/desigualdades-urbanas-mobilidade-pedonal-e-bem-est
@@ -1166,20 +1159,6 @@ URL:https://lykeion.pt/e/aula-aberta-grupos-de-diagnostico-homogeneos-gdh-e
  -financiam-4b14f.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conference-a-new-approach-to-territorial-intelligence-in-the-1522e-2026
- -11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:CONFERENCE | A New Approach to Territorial Intelligence in the Face
-  of Wildfires
-LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
- icas\, Vila Real
-DESCRIPTION:https://www.citab.utad.pt/events/conference-a-new-approach-to-t
- erritorial-intelligence-in-the-face-of-wildfires
-URL:https://lykeion.pt/e/conference-a-new-approach-to-territorial-intellige
- nce-in-the-1522e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ehb-upb-acolhe-debate-sobre-o-futuro-do-ensino-superior-em-t-b579f-2026
  -11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -1223,7 +1202,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Online Ciclo de Webinários “Ser jornalista hoje: precariedade\, 
  novas fronteiras e crise de confiança
-LOCATION:Departamento de Comunicação\, Coimbra
+LOCATION:Departamento de Artes e Tecnologias\, Coimbra
 DESCRIPTION:https://www.esec.pt/eventos/ciclo-de-webinarios-ser-jornalista-
  hoje-precariedade-novas-fronteiras-e-crise-de-confianca/
 URL:https://lykeion.pt/e/online-ciclo-de-webinarios-ser-jornalista-hoje-pre
@@ -1742,29 +1721,6 @@ URL:https://lykeion.pt/e/17-11-26-g2-convida-palestra-red-and-green-the-pol
  itics-of-t-69e88.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-da-seguranca-em-ambiente-industrial-e-construcao-c7670-2026-11-1
- 7@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Gestão da Segurança em Ambiente Industrial e Construção
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-da-seguranca-em-ambiente-
- industrial-e-construcao/
-URL:https://lykeion.pt/e/gestao-da-seguranca-em-ambiente-industrial-e-const
- rucao-c7670.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-de-energia-e-eficiencia-energetica-e9b48-2026-11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Gestão de Energia e Eficiência Energética
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-energia-e-eficiencia-e
- nergetica/
-URL:https://lykeion.pt/e/gestao-de-energia-e-eficiencia-energetica-e9b48.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:memory-and-collective-identity-activists-narratives-of-the-a-23979-2026
  -11-17@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -1796,7 +1752,7 @@ UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Seminário “Criatividade\, Turismo e Desenvolvimento Regional
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese
  nvolvimento-regional/
 URL:https://lykeion.pt/e/seminario-criatividade-turismo-e-desenvolvimento-r
@@ -2186,19 +2142,6 @@ DESCRIPTION:https://eurocid.mne.gov.pt/eventos/o-contributo-da-dimensao-atl
  antica-para-seguranca-internacional-no-contexto-do-papel-da-ue
 URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-70da
  6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-de-laboratorios-industriais-controlo-e-garantia-da-qu-33100-2026
- -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Gestão de Laboratórios Industriais – controlo e garantia da qua
- lidade dos ensaios
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-laboratorios-industria
- is-controlo-e-garantia-da-qualidade-dos-ensaios/
-URL:https://lykeion.pt/e/gestao-de-laboratorios-industriais-controlo-e-gara
- ntia-da-qu-33100.html
 END:VEVENT
 BEGIN:VEVENT
 UID:licao-anual-da-finisterra-2026-cb387-2026-11-19@lagenda.pt
