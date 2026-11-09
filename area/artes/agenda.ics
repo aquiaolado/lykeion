@@ -102,16 +102,6 @@ URL:https://lykeion.pt/e/dublin-portugal-na-exposicao-vision-fotografia-con
  temporanea-3ef75.html
 END:VEVENT
 BEGIN:VEVENT
-UID:executar-cake-design-af750-2026-11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Executar cake design
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18332.html?order_by=-1
-URL:https://lykeion.pt/e/executar-cake-design-af750.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-e4318-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -573,26 +563,14 @@ BEGIN:VEVENT
 UID:seminario-fortificacoes-e-patrimonio-militar-ciencia-patrimo-06590-2026
  -11-11@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T143000
+DTSTART;VALUE=DATE:20261111
 SUMMARY:Seminário “Fortificações e Património Militar – Ciência\, 
  Património e Sociedade: Desafios do Futuro
-LOCATION:Universidade Portucalense\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-fortificacoes-e-patrimonio-
  militar-ciencia-patrimonio-e-sociedade-desafios-do-futuro/
 URL:https://lykeion.pt/e/seminario-fortificacoes-e-patrimonio-militar-cienc
  ia-patrimo-06590.html
-END:VEVENT
-BEGIN:VEVENT
-UID:workshop-de-origami-uma-folha-infinitas-obras-de-arte-2499d-2026-11-11@
- lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Workshop de Origami: Uma folha\, infinitas obras de arte!
-LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
-DESCRIPTION:https://eventos.utad.pt/evento/workshop-origami-uma-folha-infin
- itas-obras-arte/
-URL:https://lykeion.pt/e/workshop-de-origami-uma-folha-infinitas-obras-de-a
- rte-2499d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-bioetica-da-fmup-5586d-2026-11-12@lagenda.pt
@@ -712,7 +690,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:X Fórum Ibérico de Estudos Museológicos – Museus\, Mundos em M
  udança
-LOCATION:Instituto de Historia da Arte\, Loulé
+LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/x-forum-iberico-de-
  estudos-museologicos-museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/x-forum-iberico-de-estudos-museologicos-museus-mun
@@ -1408,6 +1386,16 @@ DESCRIPTION:https://institutodehistoriadaarte.com/event/visita-guiada-e-mes
  a-redonda-a-pintura-de-tereza-arriaga-temas-modos-escrita/
 URL:https://lykeion.pt/e/visita-guiada-e-mesa-redonda-a-pintura-de-tereza-a
  rriaga-tem-ddaeb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2o-workshop-projeto-caop-f8fbb-2026-11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:2o Workshop Projeto CAOP
+LOCATION:Centro de Investigação do Território Transportes e Ambiente\, P
+ orto
+DESCRIPTION:https://citta.fe.up.pt/events/2o-workshop-projeto-caop
+URL:https://lykeion.pt/e/2o-workshop-projeto-caop-f8fbb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-terceiro-setor-novos-desafios-novas-respostas-fbd99-2026-11

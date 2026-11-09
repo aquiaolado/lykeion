@@ -42,18 +42,6 @@ URL:https://lykeion.pt/e/cursos-livres-a-convencao-de-faro-e-o-turismo-do-s
  ec-xxi-26a5c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:executar-auditorias-a-sistemas-de-gestao-da-qualidade-e9cfe-2026-11-09@
- lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T210000
-SUMMARY:Executar auditorias a sistemas de gestão da qualidade
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18170.html?order_by=-1
-URL:https://lykeion.pt/e/executar-auditorias-a-sistemas-de-gestao-da-qualid
- ade-e9cfe.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-09@lagenda
  .pt
 DTSTAMP:20261109T000000Z
@@ -88,18 +76,6 @@ DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
  blicacao-2026
 URL:https://lykeion.pt/e/programa-de-desenvolvimento-de-investigacao-do-cap
  p-oficinas-b0866.html
-END:VEVENT
-BEGIN:VEVENT
-UID:projetos-de-organizacao-de-eventos-planeamento-e-gestao-cbd2c-2026-11-0
- 9@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T213000
-SUMMARY:Projetos de Organização de Eventos - Planeamento e Gestão
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/8568.html?order_by=-1
-URL:https://lykeion.pt/e/projetos-de-organizacao-de-eventos-planeamento-e-g
- estao-cbd2c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-navigating-the-future-of-tourism-ar-vr-and-xr-62324-2026-11-0
@@ -199,10 +175,10 @@ BEGIN:VEVENT
 UID:aula-aberta-gestao-de-conflitos-interpessoais-pelos-estudant-9eb99-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T140000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Aula Aberta “Gestão de Conflitos Interpessoais pelos Estudantes 
  do Ensino Superior: Contributos da Mediação
-LOCATION:Universidade Portucalense\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-gestao-de-conflitos-inter
  pessoais-pelos-estudantes-do-ensino-superior-contributos-da-mediacao/
 URL:https://lykeion.pt/e/aula-aberta-gestao-de-conflitos-interpessoais-pelo
@@ -280,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T140000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Open Day NOS
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -330,7 +306,7 @@ BEGIN:VEVENT
 UID:auditorio-esec-seminario-benchmarking-aprender-com-os-melhor-b306c-2026
  -11-11@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T170000
+DTSTART;VALUE=DATE:20261111
 SUMMARY:Auditório ESEC Seminário “Benchmarking: Aprender com os melhore
  s para melhorar a qualidade
 LOCATION:Escola Superior de Educação de Coimbra\, Coimbra
@@ -338,25 +314,6 @@ DESCRIPTION:https://www.esec.pt/eventos/seminario-benchmarking-aprender-com
  -os-melhores-para-melhorar-a-qualidade/
 URL:https://lykeion.pt/e/auditorio-esec-seminario-benchmarking-aprender-com
  -os-melhor-b306c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:cege4all-markets-policy-seminar-af2d8-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T143000
-SUMMARY:CEGE4All: Markets & Policy Seminar
-LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
-DESCRIPTION:https://porto.ucp.pt/eventos/cege4all-markets-policy-seminar-ho
- w-ecosystem-maturity-shapes-startup-success
-URL:https://lykeion.pt/e/cege4all-markets-policy-seminar-af2d8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:catolica-talks-2ed32-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T124500
-SUMMARY:Católica Talks
-LOCATION:Centro de Estudos e Investigação em Direito
-DESCRIPTION:https://ceid.fd.ucp.pt/search?f%5B0%5D=categories%3A715
-URL:https://lykeion.pt/e/catolica-talks-2ed32.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-a-fauna-e-flora-terrestre-e-marinha-130a4-2026-11-11@lagenda.p
@@ -735,6 +692,31 @@ URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-9217
  9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:implementar-ferramentas-analiticas-em-marketing-digital-ae979-2026-11-1
+ 6@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Implementar ferramentas analíticas em marketing digital
+LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
+ as
+DESCRIPTION:https://www.cfpsa.pt/courses/show/18451.html?order_by=-1
+URL:https://lykeion.pt/e/implementar-ferramentas-analiticas-em-marketing-di
+ gital-ae979.html
+END:VEVENT
+BEGIN:VEVENT
+UID:international-symposium-on-blockchain-and-cybersecurity-ribc-33906-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T090000
+SUMMARY:International Symposium on Blockchain and Cybersecurity – RIBCi
+ –CYTED 2026
+LOCATION:Centro de Estudos Organizacionais e Sociais\, Porto
+DESCRIPTION:https://ceos.iscap.ipp.pt/event-details/international-symposium
+ -on-blockchain-and-cybersecurity-ribci-cyted-2026
+URL:https://lykeion.pt/e/international-symposium-on-blockchain-and-cybersec
+ urity-ribc-33906.html
+END:VEVENT
+BEGIN:VEVENT
 UID:marketing-como-promover-a-sua-imagem-pessoal-e-profissional-587b6-2026-
  11-16@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -869,9 +851,9 @@ BEGIN:VEVENT
 UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
  -17@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T143000
+DTSTART;VALUE=DATE:20261117
 SUMMARY:Seminário “Criatividade\, Turismo e Desenvolvimento Regional
-LOCATION:Universidade Portucalense\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese
  nvolvimento-regional/
 URL:https://lykeion.pt/e/seminario-criatividade-turismo-e-desenvolvimento-r
@@ -937,6 +919,19 @@ DESCRIPTION:https://www.inetmd.pt/eventos/provas-de-doutoramento-ana-leitao
 URL:https://lykeion.pt/e/provas-de-doutoramento-ana-leitao-0ac73.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-joana-mendes-de-brito-rodrigues-barret-5ee65-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de mestrado de Joana Mendes de Brito Rodrigues Barreto Xavie
+ r — Informação Online Disponível para Pais sobre a Gestão da Dor e d
+ o Distress na Vacinação Pediátrica: Um Environmental Scan em Port
+LOCATION:Centro de Investigação em Ciência Psicológica
+DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joana-mendes-de-brito-rodrig
+ ues-barret-5ee65.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-internacional-da-formacao-a-competicao-como-concil-9540c-2026
  -11-18@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -962,18 +957,17 @@ URL:https://lykeion.pt/e/utilizacao-da-plataforma-de-gestao-documental-edoc
  -4d01c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
+UID:who-trains-who-retains-attracting-and-keeping-health-workers-88059-2026
  -11-18@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
- migration\, Health and Wellbeing
+DTSTART;TZID=Europe/Lisbon:20261118T141500
+SUMMARY:Who Trains\, Who Retains?Attracting and Keeping Health Workers Acro
+ ss Border
 LOCATION:Nova SBE\, Cascais
-DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
- e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
- pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
-URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
- orkshop-on-fd2e8.html
+DESCRIPTION:https://www.eventbrite.pt/e/who-trains-who-retainsattracting-an
+ d-keeping-health-workers-across-border-tickets-2004082711338
+URL:https://lykeion.pt/e/who-trains-who-retains-attracting-and-keeping-heal
+ th-workers-88059.html
 END:VEVENT
 BEGIN:VEVENT
 UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
@@ -1132,6 +1126,15 @@ DESCRIPTION:https://www.fea.pt/agenda/detalhes/conferencia-terceiro-setor-n
  ovos-desafios-novas-respostas
 URL:https://lykeion.pt/e/conferencia-terceiro-setor-novos-desafios-novas-re
  spostas-fbd99.html
+END:VEVENT
+BEGIN:VEVENT
+UID:experiment-e4cdf-2026-11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T140000
+SUMMARY:Experiment
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/experiment-tickets-2001394905037
+URL:https://lykeion.pt/e/experiment-e4cdf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ferramentas-de-gestao-da-qualidade-3e982-2026-11-20@lagenda.pt

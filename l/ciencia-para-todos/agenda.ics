@@ -6,6 +6,15 @@ X-WR-CALNAME:Ciência para todos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:9-novembro-54a39-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:9 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/9-novembro-54a39.html
+END:VEVENT
+BEGIN:VEVENT
 UID:academia-da-robotica-20262027-4e764-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T020000
@@ -134,6 +143,24 @@ URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
  de-formas-ab38b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-alexandre-estrela-5a874-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Exposição Alexandre Estrela
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13478&lang=pt
+URL:https://lykeion.pt/e/exposicao-alexandre-estrela-5a874.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-ana-vieira-e0b30-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Exposição Ana Vieira
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13334&lang=pt
+URL:https://lykeion.pt/e/exposicao-ana-vieira-e0b30.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-linhas-de-tensao-85621-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -247,6 +274,15 @@ DESCRIPTION:https://museudelamego.gov.pt/exposicao-por-dentro-do-barroco-no
  -museu-diocesano-de-lamego/
 URL:https://lykeion.pt/e/exposicao-por-dentro-do-barroco-no-museu-diocesano
  -de-lamego-60168.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-angela-ferreira-56091-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Exposição Ângela Ferreira
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13466&lang=pt
+URL:https://lykeion.pt/e/exposicao-angela-ferreira-56091.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
@@ -461,6 +497,17 @@ DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/exposicao-13-13-escrito
 URL:https://lykeion.pt/e/exposicao-34804.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T170000
+SUMMARY:Exposição fotográfica “Echoes in Concrete
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/exposicao-fotografica-echoes-c
+ oncrete
+URL:https://lykeion.pt/e/exposicao-fotografica-echoes-in-concrete-bcd1a.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-13-13-escritoras-galegas-e-lusofonas-em-dialogo-34804-2026-11
  -10@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -476,7 +523,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T140000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Open Day NOS
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -700,6 +747,32 @@ DESCRIPTION:https://www.arditi.pt/pt/noticias/drones-do-sentinela-atlantica
  -em-exposicao-no-evento-de-inovacao-do-exercito.html
 URL:https://lykeion.pt/e/drones-do-sentinela-atlantica-em-exposicao-no-even
  to-de-inov-b0e3e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
+ ns d’animaux dans les imprimés du XVIe siècle
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/inauguracao-da-exposicao-la-faun
+ e-des-voyageurs-illustrations-danimaux-dans-les-imprimes-du-xvie-siecle/
+URL:https://lykeion.pt/e/inauguracao-da-exposicao-la-faune-des-voyageurs-il
+ lustration-7bc58.html
+END:VEVENT
+BEGIN:VEVENT
+UID:opening-of-the-exhibition-la-faune-des-voyageurs-illustratio-3d72b-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T163000
+SUMMARY:Opening of the exhibition “La faune des voyageurs. Illustrations 
+ of Animals in 16th-Century Printed Books
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/en/event/opening-of-the-exhibition-la-f
+ aune-des-voyageurs-illustrations-of-animals-in-16th-century-printed-books/
+URL:https://lykeion.pt/e/opening-of-the-exhibition-la-faune-des-voyageurs-i
+ llustratio-3d72b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ulo-promove-open-day-industry-20741-2026-11-20@lagenda.pt

@@ -19,10 +19,10 @@ BEGIN:VEVENT
 UID:aula-aberta-intervencao-psicologica-nas-perturbacoes-do-comp-c6dc5-2026
  -11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T143000
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Aula Aberta “Intervenção Psicológica nas Perturbações do Com
  portamento Alimentar
-LOCATION:Universidade Portucalense\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/intervencao-psicologica-nas-perturbac
  oes-do-comportamento-alimentar/
 URL:https://lykeion.pt/e/aula-aberta-intervencao-psicologica-nas-perturbaco
@@ -40,5 +40,31 @@ LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
 DESCRIPTION:https://www.cfpsa.pt/courses/show/18300.html?order_by=-1
 URL:https://lykeion.pt/e/implementar-as-normas-de-higiene-e-seguranca-alime
  ntar-em-ho-ec9e4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-madalena-vilhena-leite-landeiro-escari-a2c81-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de mestrado de Madalena Vilhena Leite Landeiro Escarigo — 
+ A Mesa como Espelho: Significados Emocionais e Fantasias Maternas Movidas 
+ Através da Recusa Alimentar na Primeira Infância
+LOCATION:Centro de Investigação em Ciência Psicológica
+DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-madalena-vilhena-leite-lande
+ iro-escari-a2c81.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-beatriz-nunes-ferreira-correlato-5ee65-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de mestrado de Maria Beatriz Nunes Ferreira — Correlatos d
+ as Crenças e Práticas Educativas Alimentares dos Educadores de Infância
+  Após a Participação num Programa de Promoção de Alimentação Res
+LOCATION:Centro de Investigação em Ciência Psicológica
+DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-beatriz-nunes-ferreira
+ -correlato-5ee65.html
 END:VEVENT
 END:VCALENDAR

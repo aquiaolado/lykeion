@@ -115,20 +115,6 @@ URL:https://lykeion.pt/e/26th-international-congress-on-vocational-training
  -northern-30fc6.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-europeu-de-e-8045d-2026
- -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:AI\, Data\, Robotics Forum (ADRF26) O ADRF é um fórum europeu de 
- elevado impacto que reúne centenas de representant... 14 outubro 2026
-LOCATION:Institute for Systems and Computer Engineering\, Technology and Sc
- ience\, Porto
-DESCRIPTION:https://www.inesctec.pt/pt/eventos/ai-data-robotics-forum-adrf2
- 6
-URL:https://lykeion.pt/e/ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-eu
- ropeu-de-e-8045d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-from-risk-to-performance-how-data-eco-driving-an-2546c-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -198,7 +184,7 @@ BEGIN:VEVENT
 UID:auditorio-esec-seminario-benchmarking-aprender-com-os-melhor-b306c-2026
  -11-11@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T170000
+DTSTART;VALUE=DATE:20261111
 SUMMARY:Auditório ESEC Seminário “Benchmarking: Aprender com os melhore
  s para melhorar a qualidade
 LOCATION:Escola Superior de Educação de Coimbra\, Coimbra

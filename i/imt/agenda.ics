@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IMT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:transport-research-arena-tra-2022-instituto-da-mobilidade-e-af5cf-2026-
+ 11-14@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Transport Research Arena (TRA) 2022 - Instituto da Mobilidade e dos
+  Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/transport-research-arena-tra-2022/
+URL:https://lykeion.pt/e/transport-research-arena-tra-2022-instituto-da-mob
+ ilidade-e-af5cf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a-escola-com-autonomia-instituto-da-mobilidade-e-dos-transpo-18cd0-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:A Escola com Autonomia - Instituto da Mobilidade e dos Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/ir-para-a-escola-com-autonomia/
+URL:https://lykeion.pt/e/a-escola-com-autonomia-instituto-da-mobilidade-e-d
+ os-transpo-18cd0.html
+END:VEVENT
+END:VCALENDAR

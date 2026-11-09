@@ -226,20 +226,6 @@ URL:https://lykeion.pt/e/3o-congresso-da-appc-com-o-apoio-institucional-da-
  ordem-dos-50123.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-europeu-de-e-8045d-2026
- -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:AI\, Data\, Robotics Forum (ADRF26) O ADRF é um fórum europeu de 
- elevado impacto que reúne centenas de representant... 14 outubro 2026
-LOCATION:Institute for Systems and Computer Engineering\, Technology and Sc
- ience\, Porto
-DESCRIPTION:https://www.inesctec.pt/pt/eventos/ai-data-robotics-forum-adrf2
- 6
-URL:https://lykeion.pt/e/ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-eu
- ropeu-de-e-8045d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:auditorio-marques-de-almeida-1-o-forum-de-inovacao-e-sustent-6c08c-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -267,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T140000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Open Day NOS
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -394,6 +380,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-tomas-joao-vieira-de-sampaio
  -alem-do-m-55e6c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-fernando-miguel-tavares-bulhoes-desenv-bd873-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Provas de mestrado de Fernando Miguel Tavares Bulhões — Desenvol
+ vimento de Materiais Didáticos para Promover a Aprendizagem do Vulcanismo
+  no 3.º Ciclo do Ensino Básico e no Ensino Secundário
+LOCATION:Universidade dos Açores\, Ponta Delgada
+DESCRIPTION:https://uac.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-fernando-miguel-tavares-bulh
+ oes-desenv-bd873.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-instrumentacao-e-sequenciacao-de-nova-geracao-ngs-9ddcf-2026-
  11-11@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -418,6 +417,17 @@ DESCRIPTION:https://estsetubal.unips.pt/eventos/seminario-metrologia-e-enge
 URL:https://lykeion.pt/e/seminario-metrologia-e-engenharia-40614.html
 END:VEVENT
 BEGIN:VEVENT
+UID:celebrating-the-life-work-and-legacy-of-professor-carlos-sal-b4382-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T020000
+SUMMARY:Celebrating the life\, work and legacy of Professor Carlos Salema
+LOCATION:Instituto de Telecomunicações
+DESCRIPTION:https://www.it.pt/Events/Event/5745
+URL:https://lykeion.pt/e/celebrating-the-life-work-and-legacy-of-professor-
+ carlos-sal-b4382.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-setor-dos-transportes-os-biofuels-na-transicao-e-9f24e-2026
  -11-12@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -437,7 +447,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Conferência Setor dos Transportes – OS “biofuels” na Transi
  ção Energética Saber Mais
-LOCATION:Escola Superior Náutica Infante D. Henrique\, Oeiras
+LOCATION:Departamento de Engenharia Marítima\, Oeiras
 DESCRIPTION:https://www.enautica.pt:443/pt/enidh/agenda-26/conferencia-seto
  r-dos-transportes--os-biofuels-na-transicao-energetica-2407
 URL:https://lykeion.pt/e/conferencia-setor-dos-transportes-os-biofuels-na-t
@@ -736,7 +746,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-shear-flow-effects-in-nematics-aad29-2026-11-16@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T113000
+DTSTART;VALUE=DATE:20261116
 SUMMARY:Seminário: Shear flow effects in nematics
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -1072,6 +1082,17 @@ DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
  84254
 URL:https://lykeion.pt/e/provas-de-doutoramento-em-biotecnologia-molecular-
  e-celular-fbc57.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maicon-hugo-block-engenharia-civil-1de67-2026-11-
+ 19@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Provas de mestrado de Maicon Hugo Block — Engenharia Civil
+LOCATION:Universidade Fernando Pessoa\, Porto
+DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maicon-hugo-block-engenharia
+ -civil-1de67.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-pink-tax-sustentabilidade-e-diversidade-cae8d-2026-11-19@lage

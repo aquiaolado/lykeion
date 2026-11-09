@@ -86,10 +86,10 @@ BEGIN:VEVENT
 UID:aula-aberta-gestao-de-conflitos-interpessoais-pelos-estudant-9eb99-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T140000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Aula Aberta “Gestão de Conflitos Interpessoais pelos Estudantes 
  do Ensino Superior: Contributos da Mediação
-LOCATION:Universidade Portucalense\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-gestao-de-conflitos-inter
  pessoais-pelos-estudantes-do-ensino-superior-contributos-da-mediacao/
 URL:https://lykeion.pt/e/aula-aberta-gestao-de-conflitos-interpessoais-pelo
@@ -113,10 +113,10 @@ BEGIN:VEVENT
 UID:workshop-investigar-e-intervir-no-terreno-relatos-e-aprendiz-9b194-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T090000
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Workshop “Investigar e Intervir no Terreno: Relatos e Aprendizage
  ns de um Ano de Estágio em Educação Social
-LOCATION:Universidade Portucalense\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/workshop-investigar-e-intervir-no-ter
  reno-relatos-e-aprendizagens-de-um-ano-de-estagio-em-educacao-social/
 URL:https://lykeion.pt/e/workshop-investigar-e-intervir-no-terreno-relatos-
@@ -158,6 +158,19 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  01633
 URL:https://lykeion.pt/e/provas-de-mestrado-de-tiago-pereira-lemos-tecendo-
  textos-a-i-fb0b8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-fernando-miguel-tavares-bulhoes-desenv-bd873-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Provas de mestrado de Fernando Miguel Tavares Bulhões — Desenvol
+ vimento de Materiais Didáticos para Promover a Aprendizagem do Vulcanismo
+  no 3.º Ciclo do Ensino Básico e no Ensino Secundário
+LOCATION:Universidade dos Açores\, Ponta Delgada
+DESCRIPTION:https://uac.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-fernando-miguel-tavares-bulh
+ oes-desenv-bd873.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-sobre-o-futuro-da-europa-2-a-sessao-do-2-o-paine-a0553-2026
@@ -298,7 +311,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-publicas-de-mestrado-985f2-2026-11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T183000
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Provas Públicas de Mestrado
+LOCATION:ISCE – Instituto Superior de Ciências Educativas
+DESCRIPTION:https://www.isce.pt/pt/agenda/provas-publicas-de-mestrado
+URL:https://lykeion.pt/e/provas-publicas-de-mestrado-985f2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-publicas-de-mestrado-985f2-2026-11-13@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261113
 SUMMARY:Provas Públicas de Mestrado
 LOCATION:ISCE – Instituto Superior de Ciências Educativas\, Odivelas
 DESCRIPTION:https://www.isce.pt/pt/agenda/provas-publicas-de-mestrado
@@ -654,6 +676,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-zhimei-lian-estrategias-para
  -o-ensino-f43c1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-beatriz-nunes-ferreira-correlato-5ee65-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de mestrado de Maria Beatriz Nunes Ferreira — Correlatos d
+ as Crenças e Práticas Educativas Alimentares dos Educadores de Infância
+  Após a Participação num Programa de Promoção de Alimentação Res
+LOCATION:Centro de Investigação em Ciência Psicológica
+DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-beatriz-nunes-ferreira
+ -correlato-5ee65.html
+END:VEVENT
+BEGIN:VEVENT
 UID:roundtable-discussion-alfa-movement-student-brigades-for-wor-bfe7c-2026
  -11-18@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -805,6 +840,15 @@ DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-literacia-financ
 URL:https://lykeion.pt/e/workshop-literacia-financeira-ef5a2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:experiment-e4cdf-2026-11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T140000
+SUMMARY:Experiment
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/experiment-tickets-2001394905037
+URL:https://lykeion.pt/e/experiment-e4cdf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:gamification-and-digital-games-with-generative-ai-from-idea-901ef-2026-
  11-20@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -849,7 +893,7 @@ BEGIN:VEVENT
 UID:reflexoes-ciclo-de-conferencias-do-conselho-pedagogico-unive-1fa7f-2026
  -11-20@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T143000
+DTSTART;VALUE=DATE:20261120
 SUMMARY:ReflexõES - Ciclo de Conferências do Conselho Pedagógico Univers
  itário 14.30 - 16:30 | Edifício da Reitoria\, Colégio dos Jesuitas
 LOCATION:Universidade da Madeira\, Funchal

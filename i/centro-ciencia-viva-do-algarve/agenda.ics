@@ -6,6 +6,15 @@ X-WR-CALNAME:Centro Ciência Viva do Algarve (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:9-novembro-54a39-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:9 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/9-novembro-54a39.html
+END:VEVENT
+BEGIN:VEVENT
 UID:cores-e-sabores-do-outono-093f1-2026-11-14@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T103000

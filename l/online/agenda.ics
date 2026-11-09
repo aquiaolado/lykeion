@@ -128,10 +128,10 @@ BEGIN:VEVENT
 UID:online-ciclo-de-webinarios-ser-jornalista-hoje-precariedade-a8082-2026-
  11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T183000
+DTSTART;VALUE=DATE:20261113
 SUMMARY:Online Ciclo de Webinários “Ser jornalista hoje: precariedade\, 
  novas fronteiras e crise de confiança
-LOCATION:Escola Superior de Educação de Coimbra\, Coimbra
+LOCATION:Departamento de Artes e Tecnologias\, Coimbra
 DESCRIPTION:https://www.esec.pt/eventos/ciclo-de-webinarios-ser-jornalista-
  hoje-precariedade-novas-fronteiras-e-crise-de-confianca/
 URL:https://lykeion.pt/e/online-ciclo-de-webinarios-ser-jornalista-hoje-pre
@@ -317,6 +317,19 @@ LOCATION:Forward College
 DESCRIPTION:https://zoom.us/webinar/register/WN_NRoBxmVUQmqwn3RpGcvlBQ
 URL:https://lykeion.pt/e/webinars-what-makes-forward-college-unique-02-dec-
  1722c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joana-mendes-de-brito-rodrigues-barret-5ee65-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de mestrado de Joana Mendes de Brito Rodrigues Barreto Xavie
+ r — Informação Online Disponível para Pais sobre a Gestão da Dor e d
+ o Distress na Vacinação Pediátrica: Um Environmental Scan em Port
+LOCATION:Centro de Investigação em Ciência Psicológica
+DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joana-mendes-de-brito-rodrig
+ ues-barret-5ee65.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sensing-migration-webinars-ef950-2026-11-18@lagenda.pt

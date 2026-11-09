@@ -108,7 +108,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Seminário de Enfermagem Veterinária: Fisioterapia Veterinária 
  – Aplicações em Diferentes Espécies
-LOCATION:Instituto Politécnico de Bragança\, Bragança
+LOCATION:Departamento Ambiente e Recursos Naturais\, Bragança
 DESCRIPTION:https://esa.unipb.pt/eventos/seminario-de-enfermagem-veterinari
  a-fisioterapia-veterinaria-aplicacoes-em-diferentes-especies/
 URL:https://lykeion.pt/e/seminario-de-enfermagem-veterinaria-fisioterapia-v
@@ -369,6 +369,18 @@ URL:https://lykeion.pt/e/bruxelas-ciclo-de-conferencias-regards-croises-sur
  -la-langue-6fb40.html
 END:VEVENT
 BEGIN:VEVENT
+UID:colheita-de-amostras-para-analise-microbiologica-a3ade-2026-11-16@lagen
+ da.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T040000
+SUMMARY:Colheita de amostras para análise microbiológica
+LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
+ as
+DESCRIPTION:https://www.cfpsa.pt/courses/show/15791.html?order_by=-1
+URL:https://lykeion.pt/e/colheita-de-amostras-para-analise-microbiologica-a
+ 3ade.html
+END:VEVENT
+BEGIN:VEVENT
 UID:icone6-6th-international-conference-in-neuroethics-2e1c5-2026-11-16@lag
  enda.pt
 DTSTAMP:20261109T000000Z
@@ -379,6 +391,20 @@ DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=training/allevents/103%2B104%2B
  118
 URL:https://lykeion.pt/e/icone6-6th-international-conference-in-neuroethics
  -2e1c5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-antonio-augusto-ribeiro-da-silva-evolu-09cbb-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de mestrado de António Augusto Ribeiro da Silva — Evoluç
+ ão das pessoas dependentes internadas numa Unidade Local de Saúde da reg
+ ião Minho de Portugal\, referenciadas para a Rede Nacional de Cuid
+LOCATION:Centro de Investigação em Enfermagem\, Braga
+DESCRIPTION:https://www.ese.uminho.pt/pt/posgraduacao/provasacademicas/Pagi
+ nas/default.aspx
+URL:https://lykeion.pt/e/provas-de-mestrado-de-antonio-augusto-ribeiro-da-s
+ ilva-evolu-09cbb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gestao-da-seguranca-em-ambiente-industrial-e-construcao-c7670-2026-11-1
@@ -538,7 +564,7 @@ BEGIN:VEVENT
 UID:workshop-aero2cycle-co-desenho-de-solucoes-de-valorizacao-de-8cb31-2026
  -11-19@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T100000
+DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop AERO2cycle: Co-desenho de soluções de valorização de C
  O2 industrial
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -558,6 +584,19 @@ LOCATION:Escola Superior de Saúde Cruz Vermelha Portuguesa - Alto Tâmega\
 DESCRIPTION:https://esscvpaltotamega.pt/ver/eventos/i-encontro-cientifico-e
  m-neonatologia
 URL:https://lykeion.pt/e/i-encontro-cientifico-em-neonatologia-c07fb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
+ ns d’animaux dans les imprimés du XVIe siècle
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/inauguracao-da-exposicao-la-faun
+ e-des-voyageurs-illustrations-danimaux-dans-les-imprimes-du-xvie-siecle/
+URL:https://lykeion.pt/e/inauguracao-da-exposicao-la-faune-des-voyageurs-il
+ lustration-7bc58.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-tiago-miguel-costa-nunes-pinto-2f962-2026-11-
