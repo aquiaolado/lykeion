@@ -407,3 +407,7 @@ body.lyk{
 .lyk #nguard:not(:empty){display:inline-block;min-width:1.1rem;padding:0 .3rem;border-radius:999px;background:var(--legenda);color:var(--sobre-legenda);font:600 .68rem/1.1rem var(--f-hora);text-align:center;vertical-align:1px}
 .lyk .ma-lista li{position:relative}.lyk .ma-lista li .ma-x{margin-left:auto}
 #minhaarea:not([data-sep="segue"]) .ma-topo{display:none}
+.lyk .lyk-porta>span small{text-transform:none;letter-spacing:0;font-family:var(--f-texto,inherit);color:var(--suave);font-size:.95em;display:block;margin:.15rem 0 0 1.7rem}
+.lyk .lyk-onde .lyk-lig{font-size:.82rem;margin-left:.2rem}
+@media (max-width:820px){.lyk .lyk-porta>span small{display:inline;margin-left:.3rem}}
+@media (max-width:820px){.lyk .lyk-porta .lyk-finas{flex-wrap:nowrap;overflow-x:auto}.lyk .lyk-finas .ch{white-space:nowrap}}

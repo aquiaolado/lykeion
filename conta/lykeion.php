@@ -37,7 +37,7 @@ function lyk(array $u): array {
   $po = (array)($l['porta'] ?? []);
   $l['inst'] = array_merge((array)($l['inst'] ?? []), array_values(array_filter(array_map(fn($x) => (string)($x['id'] ?? ''), array_filter((array)($po['insts'] ?? []), 'is_array')))));
   $l['areas'] = array_merge((array)($l['areas'] ?? []), array_map('strval', (array)($po['areas'] ?? [])));
-  return ['sou' => (string)($po['sou'] ?? ''), 'p_areas' => array_flip(array_map('strval', (array)($po['areas'] ?? []))),
+  return ['onde' => array_flip(array_map('strval', (array)($po['onde'] ?? []))), 'sou' => (string)($po['sou'] ?? ''), 'p_areas' => array_flip(array_map('strval', (array)($po['areas'] ?? []))),
           'inst' => array_flip((array)($l['inst'] ?? [])), 'areas' => array_flip((array)($l['areas'] ?? [])), 'listas' => (array)($l['listas'] ?? []),
           'series' => array_flip((array)($l['series'] ?? [])), 'ecos' => array_values(array_filter((array)($l['ecos'] ?? []), 'is_array')), 'pesquisas' => array_values(array_filter((array)($l['pesquisas'] ?? []), 'is_array')),
           'menos' => ['tipos' => array_flip((array)($l['menos']['tipos'] ?? [])), 'inst' => array_flip((array)($l['menos']['inst'] ?? [])), 'areas' => array_flip((array)($l['menos']['areas'] ?? []))],
@@ -164,6 +164,10 @@ function montar(array $u, string $titulo, array $blocos): array {
 function semanal(array $u): ?array {
   $ate = date('Y-m-d', time() + 7 * 86400);
   $seus = escolhidos($u, $ate, false); $L = lyk($u);
+  // onde (9/11/2026): só os eventos dos distritos escolhidos na entrada (e os online, se escolheu «Online»)
+  if ($L['onde']) { $ev = []; foreach (acad()['ev'] as $e) $ev['lyk|' . $e['pg']] = $e;
+    $seus = array_values(array_filter($seus, function ($r) use ($ev, $L) { $e = $ev[$r[0]] ?? null; if (!$e) return true;
+      return isset($L['onde'][(string)($e['di'] ?? '')]) || (isset($L['onde']['online']) && ($e['m'] ?? '') === 'online'); })); }
   // o momento da pessoa (9/11/2026) põe primeiro o que ela procura
   $ORD = ['mestrando' => ['sessoes', 'formacao', 'provas', 'reunioes'], 'doutorando' => ['sessoes', 'formacao', 'reunioes', 'provas'],
           'investigador' => ['reunioes', 'sessoes', 'provas', 'formacao'], 'docente' => ['sessoes', 'reunioes', 'provas', 'formacao']][$L['sou']] ?? null;

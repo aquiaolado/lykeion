@@ -186,7 +186,7 @@ try {
       foreach (['ordem', 'largos', 'esc'] as $k) $ly['disp'][$k] = $lim($d[$k] ?? [], 30);
       // «O meu Lykeion» (9/11/2026): as escolhas da entrada (áreas, faculdades e centros com o nome, momento e quando mudou)
       $po = (array)($l['porta'] ?? []); $ly['porta'] = ['areas' => $lim($po['areas'] ?? [], 8), 'insts' => [],
-        'sou' => in_array($po['sou'] ?? '', ['mestrando', 'doutorando', 'investigador', 'docente', 'outro'], true) ? $po['sou'] : '', 't' => max(0, (int)($po['t'] ?? 0))];
+        'sou' => in_array($po['sou'] ?? '', ['mestrando', 'doutorando', 'investigador', 'docente', 'outro'], true) ? $po['sou'] : '', 't' => max(0, (int)($po['t'] ?? 0)), 'onde' => $lim($po['onde'] ?? [], 21)];
       foreach (array_slice(array_values(array_filter((array)($po['insts'] ?? []), 'is_array')), 0, 6) as $pi) {
         $pid = mb_substr((string)($pi['id'] ?? ''), 0, 80); if ($pid !== '') $ly['porta']['insts'][] = ['id' => $pid, 'nome' => mb_substr((string)($pi['nome'] ?? $pid), 0, 120)];
       }

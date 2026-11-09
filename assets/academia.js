@@ -335,25 +335,26 @@
     o = (o && typeof o === "object") ? o : {};
     const r = { areas: Array.isArray(o.areas) ? o.areas.filter(x => typeof x === "string").slice(0, 8) : [],
                 insts: Array.isArray(o.insts) ? o.insts.filter(x => x && x.id).map(x => ({ id: String(x.id), nome: String(x.nome || x.id) })).slice(0, 6) : [],
-                sou: SOUS[o.sou] ? o.sou : o.sou === "estudante" ? "mestrando" : "", t: +o.t || 0 };
+                sou: SOUS[o.sou] ? o.sou : o.sou === "estudante" ? "mestrando" : "", t: +o.t || 0,
+                onde: Array.isArray(o.onde) ? o.onde.filter(x => typeof x === "string").slice(0, 21) : [] };
     if (o.inst && !r.insts.some(x => x.id === o.inst)) r.insts.push({ id: o.inst, nome: o.nome || o.inst });
     if (o.fina && !r.areas.includes(o.fina)) r.areas.push(o.fina); else if (o.area && !o.fina && !r.areas.includes(o.area)) r.areas.push(o.area);
     return r;
   };
-  const vazio = p => !p.areas.length && !p.insts.length && !p.sou;
-  let P = arrumar(lerLS("lyk-porta", {})), D = null, editar = vazio(P), aberta = "", sep = "semana", mostrar = 30;
+  const vazio = p => !p.areas.length && !p.insts.length && !p.sou && !p.onde.length;
+  let ondeMais = false, P = arrumar(lerLS("lyk-porta", {})), D = null, editar = vazio(P), aberta = "", sep = "semana", mostrar = 30;
   // seleção partilhada (?mesa=a.sociologia,i.iscte,s.docente): vê-se sem mexer na da pessoa, e pode guardar-se
   let alheia = null;
   { const m = new URLSearchParams(location.search).get("mesa");
     if (m) { const o = { areas: [], insts: [], sou: "" };
       m.split(",").forEach(x => { const [k, v] = [x.slice(0, 1), x.slice(2)]; if (!v) return;
-        if (k === "a") o.areas.push(v); else if (k === "i") o.insts.push({ id: v, nome: v }); else if (k === "s") o.sou = v; });
+        if (k === "a") o.areas.push(v); else if (k === "i") o.insts.push({ id: v, nome: v }); else if (k === "s") o.sou = v; else if (k === "o") (o.onde = o.onde || []).push(v); });
       alheia = arrumar(o); if (!vazio(alheia)) editar = false; else alheia = null; } }
   const atual = () => alheia || P;
   const conta = () => window.LG && LG.conta;
   const guardar = () => {
     P.t = Date.now(); gravarLS("lyk-porta", P);
-    if (conta() && LG.gravarPorta) LG.gravarPorta({ areas: P.areas, insts: P.insts, sou: P.sou, t: P.t });
+    if (conta() && LG.gravarPorta) LG.gravarPorta({ areas: P.areas, insts: P.insts, sou: P.sou, onde: P.onde, t: P.t });
   };
 
   // ---- 2 · a faculdade ou centro: procura nas entidades ----
@@ -393,7 +394,7 @@
 
   // ---- marcar / desmarcar (carregar outra vez tira) ----
   box.addEventListener("click", ev => {
-    const a = ev.target.closest("[data-porta-area],[data-porta-fina],[data-porta-sou],[data-tirar],[data-pronto]"); if (!a) return;
+    const a = ev.target.closest("[data-porta-area],[data-porta-fina],[data-porta-sou],[data-porta-onde],[data-onde-mais],[data-tirar],[data-pronto]"); if (!a) return;
     ev.preventDefault();
     if (a.dataset.pronto != null) { editar = false; mudou(); scrollTo({ top: 0, behavior: "smooth" }); return; }
     if (a.dataset.tirar) { tirar(a.dataset.tirar); return; }
@@ -406,12 +407,15 @@
       if (P.areas.includes(f)) { P.areas = P.areas.filter(x => x !== f); if (!P.areas.some(x => paiDe(x) === pai)) P.areas = P.areas.concat(pai); }
       else P.areas = P.areas.filter(x => x !== pai).concat(f);  // a fina diz mais do que a grande
     } else if (a.dataset.portaSou) P.sou = P.sou === a.dataset.portaSou ? "" : a.dataset.portaSou;
+    else if (a.dataset.ondeMais != null) { ondeMais = !ondeMais; marcar(); return; }
+    else if (a.dataset.portaOnde) { const d = a.dataset.portaOnde; P.onde = P.onde.includes(d) ? P.onde.filter(x => x !== d) : P.onde.concat(d); }
     mudou();
   });
   const tirar = k => {
     if (alheia) { alheia = null; }
     if (k === "tudo") P = arrumar({});
     else if (k === "sou") P.sou = "";
+    else if (k.startsWith("o:")) P.onde = P.onde.filter(x => x !== k.slice(2));
     else if (k.startsWith("i:")) P.insts = P.insts.filter(x => x.id !== k.slice(2));
     else if (k.startsWith("a:")) P.areas = P.areas.filter(x => x !== k.slice(2));
     if (vazio(P)) editar = true;
@@ -421,6 +425,9 @@
     const ativa = s => P.areas.includes(s) || P.areas.some(x => paiDe(x) === s);
     box.querySelectorAll("[data-porta-area]").forEach(b => { const on = ativa(b.dataset.portaArea); b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); });
     box.querySelectorAll("[data-porta-sou]").forEach(b => { const on = b.dataset.portaSou === P.sou; b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); });
+    box.querySelectorAll("[data-porta-onde]").forEach(b => { const on = P.onde.includes(b.dataset.portaOnde); b.classList.toggle("on", on); b.setAttribute("aria-pressed", on);
+      if (b.classList.contains("lyk-onde-mais")) b.hidden = !ondeMais && !on; });
+    const bm = box.querySelector("[data-onde-mais]"); if (bm) bm.textContent = ondeMais ? "Menos" : "Mais";
     if (!aberta || !ativa(aberta)) aberta = (P.areas.map(x => paiDe(x) || x).filter(x => box.querySelector(`[data-porta-area="${x}"]`)).slice(-1)[0]) || "";
     let nf = 0;
     box.querySelectorAll("[data-porta-fina]").forEach(b => { const v = b.dataset.pai === aberta; b.hidden = !v; if (v) nf++;
@@ -446,9 +453,12 @@
     const ar = p.areas.find(a => (e.af || []).includes(a)) || p.areas.find(a => (e.a || []).includes(a)); if (ar) r.push(["ar", curto(nomeArea(ar))]);
     return r;
   };
+  // onde (9/11/2026): estreita tudo aos distritos escolhidos (e aos eventos online, se «Online» estiver escolhido)
+  const noSitio = (e, p) => !p.onde.length || p.onde.includes(e.di) || (p.onde.includes("online") && e.m === "online");
   const meus = p => {
     const so = !p.areas.length && !p.insts.length;
-    return D.ev.filter(util).map(e => ({ e, r: so ? [] : porque(e, p) })).filter(x => so ? (SOU[p.sou] || []).slice(0, 2).includes(x.e.fa) : x.r.length);
+    return D.ev.filter(e => util(e) && noSitio(e, p)).map(e => ({ e, r: so ? [] : porque(e, p) }))
+      .filter(x => so ? (p.sou ? (SOU[p.sou] || []).slice(0, 2).includes(x.e.fa) : p.onde.length > 0) : x.r.length);
   };
   const peso = (p, e) => { const o = SOU[p.sou] || ["reunioes", "sessoes", "provas", "formacao", "livros"]; const k = o.indexOf(e.fa); return k < 0 ? 9 : k; };
   const horaN = e => { const m = /(\d{1,2})h(\d{2})?/.exec(e.h || ""); return m ? +m[1] * 60 + +(m[2] || 0) : 9999; };
@@ -488,7 +498,7 @@
   const linhaPz = z => { const f = faltam(z.d);
     return `<div class="lyk-ev"><span class="lyk-ev-h lyk-pz${f <= 7 ? " urg" : ""}">${dd(z.d)}</span><span class="lyk-ev-t"><a href="${esc(z.u)}"${z.ext ? ' target="_blank" rel="noopener"' : ""}><b>${esc(z.n)}</b></a>` +
       `<span class="lyk-ev-o">${(z.r || []).map(([k, n]) => `<span class="lyk-mot ${k}">${esc(n)}</span>`).join("")}${esc(z.q)} · ${f === 0 ? "fecha hoje" : f === 1 ? "fecha amanhã" : "faltam " + f + " dias"}</span></span><span class="lyk-ev-ac"></span></div>`; };
-  const ligacaoPartilha = p => new URL(box.dataset.ag, location.href).href.split("#")[0].split("?")[0] + "?mesa=" + [].concat(p.areas.map(a => "a." + a), p.insts.map(i => "i." + i.id), p.sou && p.sou !== "docente" ? ["s." + p.sou] : []).join(",");
+  const ligacaoPartilha = p => new URL(box.dataset.ag, location.href).href.split("#")[0].split("?")[0] + "?mesa=" + [].concat(p.areas.map(a => "a." + a), p.insts.map(i => "i." + i.id), p.sou && p.sou !== "docente" ? ["s." + p.sou] : [], p.onde.map(d => "o." + d)).join(",");
 
   const desenhaMesa = () => {
     const p = atual();
@@ -517,11 +527,11 @@
          : `<div class="lyk-lado-b lyk-email"><h3>Isto por email, à segunda</h3><p>Só o que é seu: a sua área, a sua faculdade, os seus prazos. E as escolhas passam para todos os seus aparelhos.</p><a class="bt" href="${box.dataset.conta}#lykeion">Receber à segunda</a></div>`);
     // fora das escolhas: os grandes congressos da semana, numa linha
     const GR = new Set(["congresso", "conferencia-cientifica", "simposio"]), vistas = new Set();
-    const fora = D.ev.filter(e => util(e) && GR.has(e.s) && prox(e) <= f7 && !xs.some(x => x.e === e)).filter(e => { const k = e.in || e.l; if (vistas.has(k)) return false; vistas.add(k); return true; }).slice(0, 4);
+    const fora = D.ev.filter(e => util(e) && noSitio(e, p) && GR.has(e.s) && prox(e) <= f7 && !xs.some(x => x.e === e)).filter(e => { const k = e.in || e.l; if (vistas.has(k)) return false; vistas.add(k); return true; }).slice(0, 4);
     const ver = p.areas.length === 1 && !p.insts.length ? box.dataset.area + p.areas[0] + "/" : p.insts.length === 1 && !p.areas.length ? inp.dataset.pag + p.insts[0].id + "/" : "";
     mesa.innerHTML = `<div class="lyk-sep" role="tablist">${SEP.map(([k, n]) => `<button type="button" role="tab" data-sep="${k}" aria-selected="${k === sep}">${n} <small>${N[k]}</small></button>`).join("")}</div>` +
       `<div class="lyk-mesa-c"><div class="lyk-mesa-l">${corpo}${sep === "tudo" && ver ? `<p class="sub"><a href="${ver}">A página completa, com centros e notícias</a></p>` : ""}</div><aside class="lyk-lado">${lado}</aside>` +
-      (fora.length ? `<p class="lyk-fora"><b>Fora das suas escolhas, esta semana no país:</b> ${fora.map(e => `<a href="${B}e/${e.pg}.html">${esc(e.n)}</a>`).join(" · ")}</p>` : "") + "</div>";
+      (fora.length ? `<p class="lyk-fora"><b>Fora das suas escolhas, esta semana${p.onde.length ? "" : " no país"}:</b> ${fora.map(e => `<a href="${B}e/${e.pg}.html">${esc(e.n)}</a>`).join(" · ")}</p>` : "") + "</div>";
     mesa.hidden = false; geral.hidden = true; document.body.classList.add("lyk-com-mesa");
   };
   const desenhaPerfil = () => {
@@ -529,7 +539,7 @@
     if (vazio(p) || editar) { perfil.hidden = true; } else {
       const pas = (k, n) => `<span class="ch on">${esc(n)} <button type="button" class="lyk-x" data-tirar="${esc(k)}" aria-label="Tirar ${esc(n)}">×</button></span>`;
       perfil.innerHTML = `<span class="lyk-pr">Para</span>` + p.areas.map(a => pas("a:" + a, nomeArea(a))).join("") + p.insts.map(i => pas("i:" + i.id, i.nome)).join("") +
-        (p.sou ? pas("sou", SOUS[p.sou]) : "") + `<button type="button" class="ch lyk-mais" data-editar>+ outra área ou centro</button><button type="button" class="lyk-lig lyk-mudar" data-editar>Mudar</button>`;
+        (p.sou ? pas("sou", SOUS[p.sou]) : "") + p.onde.map(d => pas("o:" + d, d === "online" ? "Online" : d)).join("") + `<button type="button" class="ch lyk-mais" data-editar>+ outra área ou centro</button><button type="button" class="lyk-lig lyk-mudar" data-editar>Mudar</button>`;
       perfil.hidden = false;
     }
     partilha.hidden = !alheia;
