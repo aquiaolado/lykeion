@@ -6,22 +6,9 @@ X-WR-CALNAME:IPLeiria (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-nostalgia-observacoes-extradimensionais-inauguraca-672a9-2026
- -11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T150000
-SUMMARY:Exposição “Nostalgia — Observações extradimensionais” (In
- auguração – 29 de setembro na ULO)
-LOCATION:Politécnico de Leiria\, Leiria
-DESCRIPTION:https://www.ulo.pt/exposicao-nostalgia-observacoes-extradimensi
- onais-inauguracao-29-de-setembro-na-ulo/
-URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
- inauguraca-672a9.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-care-contemporary-arts-activism-for-reproductive-dd648-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T143000
 SUMMARY:Conferência: Care - Contemporary Arts Activism For Reproductive He
  althcare
@@ -32,8 +19,21 @@ URL:https://lykeion.pt/e/conferencia-care-contemporary-arts-activism-for-re
  productive-dd648.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-nostalgia-observacoes-extradimensionais-inauguraca-672a9-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T150000
+SUMMARY:Exposição “Nostalgia — Observações extradimensionais” (In
+ auguração – 29 de setembro na ULO)
+LOCATION:Politécnico de Leiria\, Leiria
+DESCRIPTION:https://www.ulo.pt/exposicao-nostalgia-observacoes-extradimensi
+ onais-inauguracao-29-de-setembro-na-ulo/
+URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
+ inauguraca-672a9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:3o-encontro-rpac-31123-2026-11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:3o Encontro RPAC
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
@@ -43,7 +43,7 @@ URL:https://lykeion.pt/e/3o-encontro-rpac-31123.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-arte-contemporanea-um-bem-comum-d586d-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Encontro: Arte Contemporânea - UM BEM COMUM
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
@@ -54,7 +54,7 @@ URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-d586d.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:ulo-promove-open-day-industry-20741-2026-11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T090000
 SUMMARY:ULO promove “Open Day Industry
 LOCATION:Politécnico de Leiria\, Leiria

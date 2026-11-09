@@ -313,20 +313,25 @@
 })();
 
 /* Lykeion (8/11/2026): as três portas da entrada. «A minha faculdade» procura nas entidades (academia/faculdades.json,
-   lido só quando a pessoa escreve), «a minha área» e «sou…». A escolha fica neste navegador (lyk-porta) e, na volta,
-   a entrada mostra logo o que vem aí da faculdade e da área, sem precisar de conta. */
+   lido só quando a pessoa escreve), «a minha área» e «sou…». A escolha fica neste navegador (lyk-porta), sem conta.
+   8/11/2026 (noite, Paulo): escolher não muda de página. Tudo se marca e desmarca no sítio (carregar outra vez tira),
+   a área abre as áreas finas logo por baixo, a faculdade fica numa pastilha com ×, e «o que vem aí para si» aparece logo. */
 (function () {
   "use strict";
   const box = document.getElementById("lyk-portas"); if (!box) return;
   const B = (window.LG && LG.base) || "/";
   const inp = document.getElementById("lykfac"), op = document.getElementById("lykfacop"), volta = document.getElementById("lyk-volta");
+  const escF = document.getElementById("lykfacesc"), finasBox = document.getElementById("lykfinas");
   const ler = () => { try { return JSON.parse(localStorage.getItem("lyk-porta")) || {}; } catch (_) { return {}; } };
-  const gravar = o => { try { localStorage.setItem("lyk-porta", JSON.stringify(Object.assign(ler(), o))); } catch (_) {} };
+  const guardar = o => { try { localStorage.setItem("lyk-porta", JSON.stringify(o)); } catch (_) {} };
   const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const norm = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  let P = ler(), D = null;
+  if (P.sou === "estudante") P.sou = "mestrando";  // nomes antigos (8/11/2026 de manhã)
+  if (P.sou === "curioso") delete P.sou;
   let L = null, pedido = null, sel = -1, vis = [];
   const carregar = () => pedido || (pedido = fetch(inp.dataset.lista).then(r => r.json()).then(x => (L = x.map(r => [r, norm(r[0] + " " + r[1] + " " + r[2] + " " + r[3])]))).catch(() => (L = [])));
-  const ir = r => { gravar({ inst: r[0], nome: r[2] || r[1] }); location.href = inp.dataset.pag + r[0] + "/"; };
+  const escolheFac = r => { P.inst = r[0]; P.nome = r[2] || r[1]; inp.value = ""; vis = []; desenha(); mudou(); };
   const desenha = () => {
     op.innerHTML = vis.map((r, k) => `<li role="option" data-k="${k}"${k === sel ? ' aria-selected="true"' : ""}><b>${esc(r[1])}</b>` +
       `${r[2] && !norm(r[1]).includes(norm(r[2])) ? " <span>" + esc(r[2]) + "</span>" : ""}${r[3] ? ' <span class="sub">' + esc(r[3]) + "</span>" : ""}` +
@@ -344,39 +349,74 @@
   inp.addEventListener("input", () => { if (L) procura(); else carregar().then(procura); });
   inp.addEventListener("keydown", ev => {
     if (ev.key === "ArrowDown" || ev.key === "ArrowUp") { if (!vis.length) return; ev.preventDefault(); sel = (sel + (ev.key === "ArrowDown" ? 1 : vis.length - 1)) % vis.length; desenha(); }
-    else if (ev.key === "Enter") { ev.preventDefault(); const r = vis[sel < 0 ? 0 : sel]; if (r) ir(r); }
+    else if (ev.key === "Enter") { ev.preventDefault(); const r = vis[sel < 0 ? 0 : sel]; if (r) escolheFac(r); }
     else if (ev.key === "Escape") { vis = []; desenha(); }
   });
-  op.addEventListener("mousedown", ev => { const li = ev.target.closest("li"); if (li) { ev.preventDefault(); ir(vis[+li.dataset.k]); } });
+  op.addEventListener("mousedown", ev => { const li = ev.target.closest("li"); if (li) { ev.preventDefault(); escolheFac(vis[+li.dataset.k]); } });
   inp.addEventListener("blur", () => setTimeout(() => { vis = []; desenha(); }, 150));
+
+  // marcar / desmarcar: carregar outra vez no que está escolhido tira a escolha
   box.addEventListener("click", ev => {
-    const a = ev.target.closest("[data-porta-area],[data-porta-sou]"); if (!a) return;
-    if (a.dataset.portaArea) gravar({ area: a.dataset.portaArea, areaNome: a.textContent });
-    else gravar({ sou: a.dataset.portaSou });
+    const a = ev.target.closest("[data-porta-area],[data-porta-fina],[data-porta-sou],[data-tirar]"); if (!a) return;
+    ev.preventDefault();
+    if (a.dataset.tirar === "inst") { delete P.inst; delete P.nome; setTimeout(() => inp.focus(), 0); }
+    else if (a.dataset.tirar === "tudo") P = {};
+    else if (a.dataset.portaArea) { if (P.area === a.dataset.portaArea) { delete P.area; delete P.fina; } else { P.area = a.dataset.portaArea; delete P.fina; } }
+    else if (a.dataset.portaFina) { if (P.fina === a.dataset.portaFina) delete P.fina; else P.fina = a.dataset.portaFina; }
+    else if (a.dataset.portaSou) { if (P.sou === a.dataset.portaSou) delete P.sou; else P.sou = a.dataset.portaSou; }
+    mudou();
   });
-  // na volta: a faculdade e a área escolhidas, com o que vem aí
-  const P = ler();
-  if (P.sou) { const a = box.querySelector(`[data-porta-sou="${P.sou}"]`); if (a) a.classList.add("on"); }
-  if (P.area) { const a = box.querySelector(`[data-porta-area="${P.area}"]`); if (a) a.classList.add("on"); }
-  if (!P.inst && !P.area) return;
-  document.addEventListener("lyk:dados", ev => {
-    const D = ev.detail, hoje = (window.LG && LG.hoje) || new Date().toISOString().slice(0, 10);
+
+  // o que cada momento procura primeiro (as famílias de eventos, por ordem)
+  const SOU = { mestrando: ["sessoes", "formacao", "provas", "reunioes"], doutorando: ["sessoes", "formacao", "reunioes", "provas"],
+                investigador: ["reunioes", "sessoes", "provas", "formacao"], docente: ["sessoes", "reunioes", "provas", "formacao"] };
+  const nomeArea = s => ((D ? D.areas.concat(D.finas) : []).find(x => x[0] === s) || [])[1] ||
+    ((box.querySelector(`[data-porta-area="${s}"],[data-porta-fina="${s}"]`) || {}).textContent) || s;
+  const marcar = () => {
+    box.querySelectorAll("[data-porta-area]").forEach(b => { const on = b.dataset.portaArea === P.area; b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); });
+    box.querySelectorAll("[data-porta-sou]").forEach(b => { const on = b.dataset.portaSou === P.sou; b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); });
+    let nf = 0;
+    box.querySelectorAll("[data-porta-fina]").forEach(b => { const v = b.dataset.pai === P.area; b.hidden = !v; if (v) nf++;
+      const on = b.dataset.portaFina === P.fina; b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); });
+    finasBox.hidden = !nf;
+    if (P.inst) { inp.hidden = true; escF.hidden = false;
+      escF.innerHTML = `<span class="ch on">${esc(P.nome || P.inst)} <button type="button" class="lyk-x" data-tirar="inst" aria-label="Tirar esta faculdade">×</button></span>`; }
+    else { inp.hidden = false; escF.hidden = true; escF.innerHTML = ""; }
+  };
+  const mudou = () => { guardar(P); marcar(); mostrar(); };
+
+  const mostrar = () => {
+    if (!P.inst && !P.area && !P.sou) { volta.hidden = true; volta.innerHTML = ""; return; }
+    if (!D) { volta.hidden = false; volta.innerHTML = '<p class="sub">A procurar o que vem aí para si…</p>'; return; }
+    const hoje = (window.LG && LG.hoje) || new Date().toISOString().slice(0, 10);
     const pertence = (i, alvo) => { for (let k = 0; i && k < 7; k++) { if (i === alvo) return true; i = (D.pais || {})[i]; } return false; };
     const prox = e => e.d.find(x => x >= hoje);
-    const bloco = (titulo, ver, f) => {
-      const xs = D.ev.filter(e => prox(e) && f(e) && e.s !== "exposicao" && !e.pz).sort((a, b) => prox(a).localeCompare(prox(b)));
-      const dd = d => { const [, m, x] = d.split("-"); return +x + "/" + +m; };
-      return `<div><p><b>${esc(titulo)}</b> · ${xs.length ? (xs.length === 1 ? "1 evento marcado" : xs.length + " eventos marcados") : "nada marcado por agora"} · <a href="${ver}">ver</a>` +
-        ` <button type="button" class="lyk-x" data-tirar="${f === fi ? "inst" : "area"}" aria-label="Esquecer">×</button></p>` +
-        (xs.length ? "<ul>" + xs.slice(0, 3).map(e => `<li><span class="lyk-vd">${dd(prox(e))}</span> <a href="${B}e/${e.pg}.html">${esc(e.n)}</a></li>`).join("") + "</ul>" : "") + "</div>";
+    const ordem = SOU[P.sou] || ["reunioes", "sessoes", "provas", "formacao"];
+    const peso = e => { const k = ordem.indexOf(e.fa); return k < 0 ? 9 : k; };
+    const base = D.ev.filter(e => prox(e) && e.s !== "exposicao" && !e.pz && e.fa !== "divulgacao" && e.fa !== "livros");
+    const dd = d => { const [, m, x] = d.split("-"); return +x + "/" + +m; };
+    const bloco = (titulo, ver, xs, tirar) => {
+      // os próximos 30 dias, primeiro o que este momento procura; depois por data
+      const lim = new Date(Date.now() + 30 * 864e5).toISOString().slice(0, 10);
+      const perto = xs.filter(e => prox(e) <= lim), lista = (perto.length >= 3 ? perto : xs).slice()
+        .sort((a, b) => peso(a) - peso(b) || prox(a).localeCompare(prox(b))).slice(0, 4).sort((a, b) => prox(a).localeCompare(prox(b)));
+      return `<div><p><b>${esc(titulo)}</b> · ${xs.length ? (xs.length === 1 ? "1 evento marcado" : xs.length + " eventos marcados") : "nada marcado por agora"}` +
+        (xs.length ? ` · <a href="${ver}">ver todos</a>` : "") + (tirar ? ` <button type="button" class="lyk-x" data-tirar="${tirar}" aria-label="Tirar">×</button>` : "") + "</p>" +
+        (lista.length ? "<ul>" + lista.map(e => `<li><span class="lyk-vd">${dd(prox(e))}</span> <a href="${B}e/${e.pg}.html">${esc(e.n)}</a></li>`).join("") + "</ul>" : "") + "</div>";
     };
-    const fi = e => pertence(e.in, P.inst), fa = e => e.a.concat(e.af || []).includes(P.area);
     let h = "";
-    if (P.inst) h += bloco(P.nome || (D.inst[P.inst] || [])[0] || "A minha faculdade", inp.dataset.pag + P.inst + "/", fi);
-    if (P.area) h += bloco(P.areaNome || (Object.fromEntries(D.areas)[P.area]) || "A minha área", B + "academia/area/" + P.area + "/", fa);
+    if (P.inst) h += bloco(P.nome || (D.inst[P.inst] || [])[0] || "A minha faculdade", inp.dataset.pag + P.inst + "/",
+      base.filter(e => pertence(e.in, P.inst)));
+    const ar = P.fina || P.area;
+    if (ar) h += bloco(nomeArea(ar), box.dataset.area + ar + "/", base.filter(e => (P.fina ? (e.af || []) : e.a).includes(ar)));
+    if (!P.inst && !ar && P.sou) {  // só o momento: o que há para esse momento esta semana, no país
+      const fim = new Date(Date.now() + 7 * 864e5).toISOString().slice(0, 10), fa = ordem[0];
+      h += bloco("Esta semana, para si", box.dataset.ag + "?quando=semana&fa=" + fa + "#resultados", base.filter(e => prox(e) <= fim && e.fa === fa));
+    }
+    h += '<p class="lyk-volta-fim">Fica guardado neste aparelho. <button type="button" class="lyk-lig" data-tirar="tudo">Limpar as escolhas</button></p>';
     volta.innerHTML = h; volta.hidden = false;
-    volta.addEventListener("click", ev2 => { const b = ev2.target.closest("[data-tirar]"); if (!b) return;
-      const o = ler(); if (b.dataset.tirar === "inst") { delete o.inst; delete o.nome; } else { delete o.area; delete o.areaNome; }
-      try { localStorage.setItem("lyk-porta", JSON.stringify(o)); } catch (_) {} b.closest("div").remove(); if (!volta.children.length) volta.hidden = true; });
-  });
+  };
+  marcar();
+  if (P.inst || P.area || P.sou) mostrar();
+  document.addEventListener("lyk:dados", ev => { D = ev.detail; marcar(); mostrar(); });
 })();

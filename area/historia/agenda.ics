@@ -6,60 +6,10 @@ X-WR-CALNAME:História e Arqueologia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:13-o-congresso-nacional-da-administracao-publica-e003d-2026-11-08@lagen
- da.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:13.º Congresso Nacional da Administração Pública
-LOCATION:Instituto Nacional de Administração
-DESCRIPTION:https://www.ina.pt/eventos-e-comunicacao/eventos/13-o-congresso
- -nacional-da-administracao-publica/
-URL:https://lykeion.pt/e/13-o-congresso-nacional-da-administracao-publica-e
- 003d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:apresentacao-do-livro-arqueologia-nos-territorios-da-literat-69554-2026
- -11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T090000
-SUMMARY:Apresentação do livro Arqueologia nos Territórios da Literatura 
- 08-NOV-2026
-LOCATION:Moimenta da Beira\, Moimenta da Beira
-DESCRIPTION:https://www.freguesiademoimentadabeira.pt/freguesia/agenda/08-1
- 1-2026/apresentacao-do-livro-arqueologia-nos-territorios-da-literatura
-URL:https://lykeion.pt/e/apresentacao-do-livro-arqueologia-nos-territorios-
- da-literat-69554.html
-END:VEVENT
-BEGIN:VEVENT
-UID:artis-workshops-de-historia-da-arte-e-patrimonio-1db2b-2026-11-08@lagen
- da.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T110000
-SUMMARY:Artis + [workshops de História da Arte e Património
-LOCATION:Faculdade de Letras da Universidade de Lisboa
-DESCRIPTION:http://www.artis.letras.ulisboa.pt/eventos\,9\,2454\,detalhe.as
- px
-URL:https://lykeion.pt/e/artis-workshops-de-historia-da-arte-e-patrimonio-1
- db2b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:cem-cultura-espaco-e-memoria-n-o-23-chamada-de-artigos-da9c3-2026-11-08
- @lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:CEM - Cultura\, Espaço e Memória\, n.o 23_chamada de artigos
-LOCATION:Centro de Investigação Transdisciplinar Cultura Espaço e Memór
- ia\, Porto
-DESCRIPTION:https://citcem.org/eventos/chamada-de-artigos-cem-cultura-espac
- o-e-memoria-n-o-23/
-URL:https://lykeion.pt/e/cem-cultura-espaco-e-memoria-n-o-23-chamada-de-art
- igos-da9c3.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ciuhct-na-organizacao-do-iii-encontro-luso-brasileiro-de-his-b7779-2026
- -11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T090000
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T090000
 SUMMARY:CIUHCT na organização do III Encontro Luso-brasileiro de Históri
  a da Medicina Tropical
 LOCATION:Departamento de Ciências Sociais Aplicadas da NOVA FCT\, Almada
@@ -70,10 +20,10 @@ URL:https://lykeion.pt/e/ciuhct-na-organizacao-do-iii-encontro-luso-brasile
  iro-de-his-b7779.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cartografias-poeticas-por-helena-cardoso-exposicao-b2aba-2026-11-08@lag
+UID:cartografias-poeticas-por-helena-cardoso-exposicao-b2aba-2026-11-09@lag
  enda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Cartografias Poéticas por Helena Cardoso | Exposição
 LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:http://www.up.pt/casacomum/eventos/cartografias-poeticas-por-he
@@ -82,19 +32,18 @@ URL:https://lykeion.pt/e/cartografias-poeticas-por-helena-cardoso-exposicao
  -b2aba.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ciclo-de-conferencias-fb0f3-2026-11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T180000
-SUMMARY:Ciclo de Conferências
-LOCATION:Universidade de Lisboa\, Campo Grande
-DESCRIPTION:https://chul.letras.ulisboa.pt/evento/ciclo-de-conferencias-dis
- putas-de-memoria/
-URL:https://lykeion.pt/e/ciclo-de-conferencias-fb0f3.html
+UID:contar-historias-com-sons-4b60b-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Contar Histórias com Sons
+LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
+DESCRIPTION:https://www.cenjor.pt
+URL:https://lykeion.pt/e/contar-historias-com-sons-4b60b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:convite-exposicao-73c38-2026-11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+UID:convite-exposicao-73c38-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Convite Exposição
 LOCATION:Departamento de Conservação e Restauro da NOVA FCT\, Almada
 DESCRIPTION:https://www.dcr.fct.unl.pt/eventos/2018/11/convite-exposicao-re
@@ -102,10 +51,10 @@ DESCRIPTION:https://www.dcr.fct.unl.pt/eventos/2018/11/convite-exposicao-re
 URL:https://lykeion.pt/e/convite-exposicao-73c38.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cursos-livres-grandes-artistas-do-renascimento-7b3c2-2026-11-08@lagenda
+UID:cursos-livres-grandes-artistas-do-renascimento-7b3c2-2026-11-09@lagenda
  .pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T183000
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T183000
 SUMMARY:Cursos Livres: Grandes Artistas do Renascimento
 LOCATION:Centro Nacional de Cultura\, Misericórdia
 DESCRIPTION:https://www.cnc.pt/grandes-artistas-do-renascimento/
@@ -113,10 +62,10 @@ URL:https://lykeion.pt/e/cursos-livres-grandes-artistas-do-renascimento-7b3
  c2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cursos-livres-grandes-artistas-do-seculo-xviii-9e903-2026-11-08@lagenda
+UID:cursos-livres-grandes-artistas-do-seculo-xviii-9e903-2026-11-09@lagenda
  .pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T183000
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T183000
 SUMMARY:Cursos Livres: Grandes Artistas do Século XVIII
 LOCATION:Centro Nacional de Cultura\, Misericórdia
 DESCRIPTION:https://www.cnc.pt/grandes-artistas-do-seculo-xviii/
@@ -124,19 +73,10 @@ URL:https://lykeion.pt/e/cursos-livres-grandes-artistas-do-seculo-xviii-9e9
  03.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-nas-margens-do-possivel-d26f2-2026-11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T183000
-SUMMARY:Encontro: Nas Margens do Possível
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
-URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
- 11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T080000
+ 11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T080000
 SUMMARY:Exposição '[Structural stacking]: do arquivo Colector de Formas' 
  na Biblioteca Domingos Cravo
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -148,9 +88,9 @@ URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
- -08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T163000
+ -09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T163000
 SUMMARY:Exposição «Raquel Soeiro de Brito - Uma Geógrafa no Ultramar»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/exposicao-raquel-soeiro-de-brit
@@ -160,9 +100,9 @@ URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
- -11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -173,9 +113,9 @@ URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
 END:VEVENT
 BEGIN:VEVENT
 UID:inscricoes-workshop-hands-on-science-a-ciencia-nao-fala-por-e7150-2026-
- 11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+ 11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -185,92 +125,9 @@ URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
 END:VEVENT
 BEGIN:VEVENT
-UID:jornadas-memoria-futura-arquivos-na-comunidade-b5b08-2026-11-08@lagenda
- .pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T090000
-SUMMARY:Jornadas “Memória futura: arquivos na comunidade
-LOCATION:Observatório da Emigração
-DESCRIPTION:https://observatorioemigracao.pt/np4/9512.html
-URL:https://lykeion.pt/e/jornadas-memoria-futura-arquivos-na-comunidade-b5b
- 08.html
-END:VEVENT
-BEGIN:VEVENT
-UID:palestra-desenho-tecnico-arqueologico-e-estudos-de-provenien-ae361-2026
- -11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T180000
-SUMMARY:PALESTRA | Desenho Técnico Arqueológico e Estudos de Proveniênci
- a | Inês Coutinho | 8 NOV 18h | IST
-LOCATION:Instituto Superior Técnico\, Almada
-DESCRIPTION:https://www.dcr.fct.unl.pt/eventos/2018/11/palestra-desenho-tec
- nico-arqueologico-e-estudos-de-proveniencia-ines-coutinho-8-nov-18h-ist
-URL:https://lykeion.pt/e/palestra-desenho-tecnico-arqueologico-e-estudos-de
- -provenien-ae361.html
-END:VEVENT
-BEGIN:VEVENT
-UID:paris-exposicao-au-milieu-9207b-2026-11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Paris: Exposição “AU MILIEU
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/paris-exposicao-au-milieu
-URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-perspectivas-do-direito-na-historia-047d6-2026-11-08@lagenda.
- pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T120000
-SUMMARY:Seminário Perspectivas do Direito na História
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-19-de-ja
- neiro-seminario-perspectivas-do-direito-na-historia
-URL:https://lykeion.pt/e/seminario-perspectivas-do-direito-na-historia-047d
- 6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-de-historia-europeia-do-direito-e-justica-3d598-2026-11-08@la
- genda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T120000
-SUMMARY:Seminário de História Europeia do Direito e Justiça
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-16-de-de
- zembro-seminario-de-historia-europeia-do-direito-e-justica
-URL:https://lykeion.pt/e/seminario-de-historia-europeia-do-direito-e-justic
- a-3d598.html
-END:VEVENT
-BEGIN:VEVENT
-UID:x-encontro-de-outono-do-forum-portugues-de-administracao-edu-24809-2026
- -11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T090000
-SUMMARY:X Encontro de Outono do Fórum Português de Administração Educac
- ional “Entre velhos e novos desafios da Escola: tempo de repensar práti
- cas e reinventar caminhos
-LOCATION:Centro de Investigação em Educação\, Braga
-DESCRIPTION:https://cied.uminho.pt/evento-cientifico/x-encontro-de-outono-d
- o-forum-portugues-de-administracao-educacional-entre-velhos-e-novos-desafi
- os-da-escola-tempo-de-repensar-praticas-e-reinventar-caminhos-8-de-novembr
- o/
-URL:https://lykeion.pt/e/x-encontro-de-outono-do-forum-portugues-de-adminis
- tracao-edu-24809.html
-END:VEVENT
-BEGIN:VEVENT
-UID:contar-historias-com-sons-4b60b-2026-11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Contar Histórias com Sons
-LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
-DESCRIPTION:https://www.cenjor.pt
-URL:https://lykeion.pt/e/contar-historias-com-sons-4b60b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lancamento-do-livro-o-governo-dos-outros-poder-e-diferenca-n-83d23-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T120000
 SUMMARY:Lançamento do livro: «O Governo dos Outros. Poder e Diferença no
   Império Português»
@@ -284,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:paris-escrever-angola-no-feminino-entre-historia-e-literatur-9207b-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T180000
 SUMMARY:Paris: Escrever Angola no feminino\, entre História e literatura -
   Encontro com Ana Paula Tavares\, Prémio Camões 2025
@@ -296,9 +153,19 @@ URL:https://lykeion.pt/e/paris-escrever-angola-no-feminino-entre-historia-e
  -literatur-9207b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:paris-exposicao-au-milieu-9207b-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Paris: Exposição “AU MILIEU
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/paris-exposicao-au-milieu
+URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-francisca-meireles-mendes-ensinar-f16b2-2026-
  11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T140000
 SUMMARY:Provas de Mestrado de Ana Francisca Meireles Mendes «Ensinar e apr
  ender História através de vozes (por vezes) silenciadas»
@@ -311,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sofia-nair-bravo-angelo-carneiro-albin-b4564-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T160000
 SUMMARY:Provas de Mestrado de Sofia Naír Bravo Ângelo Carneiro Albino «#
  HistoryTok As potencialidades do TikTok como um recurso didático do Ensin
@@ -324,7 +191,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-sofia-nair-bravo-angelo-carn
 END:VEVENT
 BEGIN:VEVENT
 UID:1936-1939-espanha-fraturada-c70bb-2026-11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:1936-1939: Espanha Fraturada
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas\, Avenidas 
@@ -336,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-conferencia-public-archaeology-and-the-managemen-df7fc-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Aula Aberta / Conferência: «Public Archaeology and the Management
   of Megalithic Heritage: The Sicilian Case»\, por Valentina Molozzu (Univ
@@ -351,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-conferencias-do-mestrado-em-estudos-alemaes-transna-82302-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T163000
 SUMMARY:Ciclo de Conferências do Mestrado em Estudos Alemães Transnaciona
  is_2026/2027_Sessão 5
@@ -365,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:das-18-00-as-20-00-conferencia-ferreira-de-castro-referencia-84711-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Das 18:00 às 20:00 Conferência | Ferreira de Castro\, referência
   moral do século XX ISEG\, Auditório 3 (Edifício Quelhas)
@@ -378,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:international-conference-historicizing-global-contemporary-a-041cc-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T080000
 SUMMARY:International Conference - Historicizing Global Contemporary Art Ma
  rkets: Trajectories\, Infrastructures\, and Regimes of Value International
@@ -393,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-rodrigues-cardoso-da-ervanari-6ed22-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Provas de Mestrado de Ana Rita Rodrigues Cardoso «Da Ervanária à
   Sala de Aula: A aula de História como Ponte para a Inclusão»
@@ -406,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-catarina-fernandes-almeida-a-reserva-3-159cb-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T110000
 SUMMARY:Provas de Mestrado de Catarina Fernandes Almeida «A Reserva 3 do M
  useu de Arqueologia D. Diogo de Sousa. Contributo para a conservação pre
@@ -420,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-david-dos-santos-moscoso-documentar-o-f9173-2026-
  11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Provas de Mestrado de David dos Santos Moscoso «Documentar o Mar: 
  Gestão da Coleção do Núcleo de Amigos dos Pescadores de Matosinhos e H
@@ -434,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:revolucao-contra-revolucao-e-politica-popular-em-portugal-c762f-2026-11
  -10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Revolução\, contra-revolução e política popular em Portugal
 LOCATION:Instituto de História Contemporânea\, Alvalade
@@ -445,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-envelhecer-no-seculo-xxi-desafios-e-oportunidades-02d8e-2026-11
  -10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Webinar: Envelhecer no século XXI: desafios e oportunidades
 LOCATION:Associação Colab4Food – Laboratório Colaborativo para a Inova
@@ -457,7 +324,7 @@ URL:https://lykeion.pt/e/webinar-envelhecer-no-seculo-xxi-desafios-e-oportu
 END:VEVENT
 BEGIN:VEVENT
 UID:14-00-palestra-palavras-que-me-servem-afe23-2026-11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:14:00 Palestra Palavras que me servem
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
@@ -467,7 +334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-aulas-abertas-o-realismo-magico-aquem-e-alem-da-ame-92926-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T150000
 SUMMARY:Ciclo de Aulas Abertas «O Realismo Mágico aquém e além da Amér
  ica Latina» Ciclo de Aulas Abertas «O Realismo Mágico aquém e além da
@@ -481,7 +348,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:curso-breve-centro-historico-do-porto-30-anos-olhares-cruzad-edffb-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Curso Breve — Centro Histórico do Porto — 30 Anos: Olhares Cru
  zados
@@ -492,7 +359,7 @@ URL:https://lykeion.pt/e/curso-breve-centro-historico-do-porto-30-anos-olha
 END:VEVENT
 BEGIN:VEVENT
 UID:nas-margens-do-possivel-2-e5597-2026-11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T063000
 SUMMARY:Nas Margens do Possível #2
 LOCATION:Instituto de História Contemporânea
@@ -502,7 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruna-filipa-linhares-costa-colaboraca-4f6ee-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:Provas de Mestrado de Bruna Filipa Linhares Costa «Colaboração j
  unto do Atelier Samthiago: a atuação do Historiador de Arte na Conserva
@@ -516,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-antonio-fernandes-ribeiro-mapeand-7db21-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:Provas de Mestrado de Luís António Fernandes Ribeiro «Mapeando i
  deias: a utilização dos mapas conceptuais no ensino da História»
@@ -529,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-2-00-pm-no-30e4c-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T123000
 SUMMARY:12:30 pm 2:00 pm Inquietações Apetitosas 12:30 pm - 2:00 pm Nova 
  Fcsh\, Colégio Almada Negreiros\, Copa \, Campus de Campolide da NOVA —
@@ -540,23 +407,8 @@ URL:https://lykeion.pt/e/12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-
  2-00-pm-no-30e4c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-de-carlos-costa-performance-na-paisagem-em-comun-81681-2026
- -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T180000
-SUMMARY:Conferência de Carlos Costa: “Performance na paisagem\, em comun
- idade e para sítios específicos: uma viagem pelas dramaturgias do Visõe
- s Úteis nos primeiros 25 anos do século XXI
-LOCATION:Escola Superior Artística do Porto\, Porto
-DESCRIPTION:https://esap.pt/atividades_dep/conferencia-de-carlos-costa-perf
- ormance-na-paisagem-em-comunidade-e-para-sitios-especificos-uma-viagem-pel
- as-dramaturgias-do-visoes-uteis-nos-primeiros-25-anos-do-seculo-xxi/
-URL:https://lykeion.pt/e/conferencia-de-carlos-costa-performance-na-paisage
- m-em-comun-81681.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ii-coloquio-index-collectiones-acores-a4fe5-2026-11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:II Colóquio Index Collectiones\, Açores
 LOCATION:Instituto de Historia da Arte
@@ -567,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12-11-2026-27-11-2026-seminario-regionalism-in-the-age-of-po-afe7d-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T153000
 SUMMARY:Seminário “Regionalism in the Age of Polycrisis
 LOCATION:Centro de Estudos Interdisciplinares do Século XX\, Coimbra
@@ -579,7 +431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conversas-na-capela-uma-rua-cheia-de-arqueologia-8761a-2026-11-13@lagen
  da.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Conversas na Capela: Uma Rua Cheia de Arqueologia
 LOCATION:Capela do Espírito Santo dos Mareantes\, Sesimbra\, Sesimbra
@@ -590,7 +442,7 @@ URL:https://lykeion.pt/e/conversas-na-capela-uma-rua-cheia-de-arqueologia-8
 END:VEVENT
 BEGIN:VEVENT
 UID:encontros-cientificos-85213-2026-11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Encontros científicos
 LOCATION:Centro de Estudos de História Religiosa
@@ -600,7 +452,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ihc-vai-acolher-13-novos-contratos-ceec-da-fct-1c374-2026-11-13@lagenda
  .pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:IHC vai acolher 13 novos contratos CEEC da FCT
 LOCATION:Instituto de História Contemporânea
@@ -611,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:outros-textos-paisagens-memorias-arquivos-e-pessoas-032bc-2026-11-13@la
  genda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T170000
 SUMMARY:Outros Textos - paisagens\, memórias\, arquivos e pessoas
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -622,7 +474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-internacional-do-patrimonio-turismo-e-arqueologi-97cc0-2026
  -11-14@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
@@ -635,7 +487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:palestra-os-romanos-debaixo-da-quinta-de-sao-domingos-benesp-5529f-2026
  -11-14@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T170000
 SUMMARY:Palestra | Os Romanos debaixo da Quinta de São Domingos – Benesp
  era
@@ -647,7 +499,7 @@ URL:https://lykeion.pt/e/palestra-os-romanos-debaixo-da-quinta-de-sao-domin
 END:VEVENT
 BEGIN:VEVENT
 UID:sessao-do-seminario-de-formacao-cehr-44e0c-2026-11-14@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Sessão do Seminário de formação CEHR
 LOCATION:Centro de Estudos de História Religiosa
@@ -658,7 +510,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:historias-vivas-como-apanhar-uma-estrela-de-oliver-jeffers-1-e59e7-2026
  -11-15@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261115T103000
 SUMMARY:Histórias Vivas | Como Apanhar Uma Estrela\, de Oliver Jeffers 15 
  novembro 10h30 Centro Ciência Viva de Lagos
@@ -670,7 +522,7 @@ URL:https://lykeion.pt/e/historias-vivas-como-apanhar-uma-estrela-de-oliver
 END:VEVENT
 BEGIN:VEVENT
 UID:jornal-arkivo-2233e-2026-11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Jornal Arkivo
 LOCATION:Arquivo Municipal de Lisboa\, Campolide
@@ -680,7 +532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-moura-pinto-um-patrimonio-68f98-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T160000
 SUMMARY:Provas de Mestrado de Ana Carolina Moura Pinto «Um Património\, M
  uitas Histórias! A importância do Património Cultural enquanto fonte hi
@@ -694,7 +546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-de-carvalho-goncalves-dos-reis-a2a81-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T160000
 SUMMARY:Provas de Mestrado de Mariana de Carvalho Gonçalves dos Reis «Qua
  ndo a História é Pensada para Todos: Adaptações Curriculares nas aulas
@@ -707,7 +559,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-de-carvalho-goncalve
 END:VEVENT
 BEGIN:VEVENT
 UID:seminarios-e-ciclos-e371f-2026-11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T170000
 SUMMARY:Seminários e Ciclos
 LOCATION:Centro de Estudos de História Religiosa
@@ -717,7 +569,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-do-seminario-de-historia-religiosa-ubi-est-caritas-vi-7381d-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Sessão do Seminário de História Religiosa «Ubi est Caritas? Vis
  ões e práticas da Caridade e da Fraternidade no universo religioso portu
@@ -730,7 +582,7 @@ URL:https://lykeion.pt/e/sessao-do-seminario-de-historia-religiosa-ubi-est-
 END:VEVENT
 BEGIN:VEVENT
 UID:encontros-great-artists-on-campus-6-90954-2026-11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Encontros: Great Artists on Campus #6
 LOCATION:Universidade Lusófona
@@ -741,7 +593,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-manual-de-arqueologia-de-la-arquitectu-a26f7-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T190000
 SUMMARY:Apresentação do livro «Manual de Arqueología de la Arquitectura
  »
@@ -753,7 +605,7 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-manual-de-arqueologia-de-la-
 END:VEVENT
 BEGIN:VEVENT
 UID:como-falar-com-o-a-terra-59dc0-2026-11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Como falar com(o) a terra?
 LOCATION:Instituto de História Contemporânea
@@ -763,7 +615,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-filipe-barbosa-marques-trabalhos-9f0f1-2026-
  11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T113000
 SUMMARY:Provas de Mestrado de Luís Filipe Barbosa Marques «Trabalhos arqu
  eológicos na Rua D. Hugo n.o 37-39 Contributo para o estudo da ocupação
@@ -777,7 +629,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-micael-andre-da-silva-leal-de-azevedo-8bbec-2026-
  11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de Mestrado de Micael André da Silva Leal de Azevedo Moura 
  «Os Tabeliães do Duque de Guimarães (século XV)»
@@ -790,7 +642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-soraia-novo-oliveira-fazer-e-aprender-bd116-2026-
  11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Provas de Mestrado de Soraia Novo Oliveira «Fazer e aprender hist
  ória através de testemunhos orais»
@@ -803,7 +655,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:v-congresso-associacao-dos-arqueologos-portugueses-7fe4a-2026-11-18@lag
  enda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:V Congresso – Associação dos Arqueólogos Portugueses
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa\, Braga
@@ -815,7 +667,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-epistemologias-feministas-no-sul-global-historia-c03e9-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T150000
 SUMMARY:Aula Aberta: Epistemologias feministas no Sul Global: história dos
   conceitos e linguagens políticas a partir da escrevivência
@@ -827,7 +679,7 @@ URL:https://lykeion.pt/e/aula-aberta-epistemologias-feministas-no-sul-globa
 END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-entre-guerras-e-paz-633a3-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T090000
 SUMMARY:Colóquio: Entre guerras e paz
 LOCATION:Instituto de História Contemporânea
@@ -836,7 +688,7 @@ URL:https://lykeion.pt/e/coloquio-entre-guerras-e-paz-633a3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:coloquios-coimbra-historia-e-patrimonio-19a01-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Colóquios: Coimbra\, História e Património
 LOCATION:Centro de História da Sociedade e da Cultura\, Coimbra
@@ -846,7 +698,7 @@ URL:https://lykeion.pt/e/coloquios-coimbra-historia-e-patrimonio-19a01.html
 END:VEVENT
 BEGIN:VEVENT
 UID:o-homem-a-sexualidade-no-seculo-xxi-2d75b-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T180000
 SUMMARY:O Homem: a Sexualidade no Século XXI
 LOCATION:Unidade Hospitalar de Famalicão\, Vila Nova de Famalicão
@@ -856,7 +708,7 @@ URL:https://lykeion.pt/e/o-homem-a-sexualidade-no-seculo-xxi-2d75b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:o-homem-a-sexualidade-no-seculo-xxi-2d75b-2026-11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T180000
 SUMMARY:O Homem: a Sexualidade no Século XXI
 LOCATION:Unidade Hospitalar de Santo Tirso\, Santo Tirso
@@ -867,7 +719,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-vivianne-hermogenes-pereira-martinho-c-c5ffe-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T110000
 SUMMARY:Provas de Mestrado de Vivianne Hermógenes Pereira Martinho «Colec
  ionismo e Produção de Conhecimento: Estudo de Caso da Coleção Jean Thu
@@ -881,7 +733,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-internacional-permanente-historia-social-a-norte-c-8350c-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T173000
 SUMMARY:Seminário Internacional Permanente História Social a Norte: Como?
   Minorias
@@ -894,7 +746,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxviii-coloquio-de-outono-narrativas-e-representacoes-transc-a0435-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:XXVIII Colóquio de Outono Narrativas e Representações Transcultu
  rais do Amor - Call for Papers Universidade do Minho\, Auditório ELACH
@@ -905,22 +757,9 @@ URL:https://lykeion.pt/e/xxviii-coloquio-de-outono-narrativas-e-representac
  oes-transc-a0435.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sex-20-nov-21-00-fri-20-nov-21-00-filme-e-conversa-film-and-a727a-2026-
- 11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261120
-SUMMARY:SEX 20 NOV · 21:00 FRI 20 NOV · 21:00 Filme e Conversa Film and T
- alk Mulheres\, Terra\, Revolução Avenidas - Um Teatro em Cada Bairro
-LOCATION:Lisboa
-DESCRIPTION:https://www.olharesdomediterraneo.org/actividades/mulheres-terr
- a-revolucao/
-URL:https://lykeion.pt/e/sex-20-nov-21-00-fri-20-nov-21-00-filme-e-conversa
- -film-and-a727a.html
-END:VEVENT
-BEGIN:VEVENT
 UID:20-11-26-webinar-asilo-na-uniao-europeia-governacao-e-direit-a3737-2026
  -11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T090000
 SUMMARY:Webinar «Asilo na União Europeia: governação e direitos fundame
  ntais»
@@ -934,7 +773,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:memorias-silencios-e-disputas-no-espaco-publico-em-duas-cida-dacf2-2026
  -11-21@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T103000
 SUMMARY:Memórias\, Silêncios e Disputas no Espaço Público em Duas Cidad
  es da Península Ibérica
@@ -946,7 +785,7 @@ URL:https://lykeion.pt/e/memorias-silencios-e-disputas-no-espaco-publico-em
 END:VEVENT
 BEGIN:VEVENT
 UID:save-the-date-010b1-2026-11-21@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Save the date
 LOCATION:Instituto de Estudos Avançados em Catolicismo e Globalização\, 

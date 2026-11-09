@@ -6,10 +6,22 @@ X-WR-CALNAME:Faculdade de Letras da Universidade do Porto (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:encontro-clup-26-do-legado-ao-desafio-da-inovacao-50-anos-01dd1-2026-11
+ -09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Encontro: CLUP'26 | Do legado ao desafio da inovação: 50 anos
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/clup-26-do-legado-ao-desafio-da
+ -inovacao
+URL:https://lykeion.pt/e/encontro-clup-26-do-legado-ao-desafio-da-inovacao-
+ 50-anos-01dd1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
- 11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+ 11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
  , em torno da obra de José Leite de Vasconcelos (1858-1941)
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -21,9 +33,9 @@ URL:https://lykeion.pt/e/exposicao-de-fotografia-de-augusto-lemos-imagens-a
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
- -08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Lisbon:20261108T163000
+ -09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T163000
 SUMMARY:Exposição «Raquel Soeiro de Brito - Uma Geógrafa no Ultramar»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/exposicao-raquel-soeiro-de-brit
@@ -32,10 +44,10 @@ URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
  ltramar-76f20.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-08@la
+UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-09@la
  genda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Exposição «Reinterpretações: da Escrita à Sétima Arte»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
@@ -44,20 +56,8 @@ URL:https://lykeion.pt/e/exposicao-reinterpretacoes-da-escrita-a-setima-art
  e-cb00e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-clup-26-do-legado-ao-desafio-da-inovacao-50-anos-01dd1-2026-11
- -09@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Encontro: CLUP'26 | Do legado ao desafio da inovação: 50 anos
-LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/clup-26-do-legado-ao-desafio-da
- -inovacao
-URL:https://lykeion.pt/e/encontro-clup-26-do-legado-ao-desafio-da-inovacao-
- 50-anos-01dd1.html
-END:VEVENT
-BEGIN:VEVENT
 UID:jornadas-de-investigacao-do-is-up-f8d41-2026-11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T091500
 SUMMARY:Jornadas de Investigação do IS-UP
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -68,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-francisca-meireles-mendes-ensinar-f16b2-2026-
  11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T140000
 SUMMARY:Provas de Mestrado de Ana Francisca Meireles Mendes «Ensinar e apr
  ender História através de vozes (por vezes) silenciadas»
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruno-goncalves-caldas-o-impacto-das-v-7368e-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T170000
 SUMMARY:Provas de Mestrado de Bruno Gonçalves Caldas «O impacto das viage
  ns no conhecimento geográfico»
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-francisca-pereira-santiago-a-comunicac-d3148-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T093000
 SUMMARY:Provas de Mestrado de Francisca Pereira Santiago «A Comunicação 
  de Donald Trump: Entre o Populismo e o Fascismo O Caso da Captura de Nicol
@@ -108,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-miguel-de-freitas-goncalves-o-cus-aa74a-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T110000
 SUMMARY:Provas de Mestrado de Luis Miguel de Freitas Gonçalves «O Custo T
  emporal da Pendularidade em Santo Tirso: Transporte Público vs Transporte
@@ -122,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sofia-nair-bravo-angelo-carneiro-albin-b4564-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T160000
 SUMMARY:Provas de Mestrado de Sofia Naír Bravo Ângelo Carneiro Albino «#
  HistoryTok As potencialidades do TikTok como um recurso didático do Ensin
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-susana-raquel-dos-santos-balbino-como-473d4-2026-
  11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T163000
 SUMMARY:Provas de Mestrado de Susana Raquel dos Santos Balbino «Como favor
  ecer a motivação dos alunos através da música»
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-alexandre-pereira-rodrigues-o-es-7fdf7-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T110000
 SUMMARY:Provas de Mestrado de Tiago Alexandre Pereira Rodrigues «O espaço
   de vivência dos alunos como laboratório geográfico: experiência desen
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-mendes-gomes-do-recordar-ao-ques-ff48b-2026
  -11-09@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T180000
 SUMMARY:Provas de Mestrado de Tiago Mendes Gomes «Do recordar ao questiona
  r: a problematização das representações dos estudantes acerca do passa
@@ -176,7 +176,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-tiago-mendes-gomes-do-record
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-what-to-do-with-a-text-1f1a5-2026-11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Aula aberta «What to do with a text?»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-barbosa-de-oliveira-correia-c-6604c-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T110000
 SUMMARY:Provas de Mestrado de Ana Rita Barbosa de Oliveira Correia Campos 
  «Geografia da criminalidade em Portugal: Análise espacial da criminalida
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-rodrigues-cardoso-da-ervanari-6ed22-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Provas de Mestrado de Ana Rita Rodrigues Cardoso «Da Ervanária à
   Sala de Aula: A aula de História como Ponte para a Inclusão»
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-catarina-fernandes-almeida-a-reserva-3-159cb-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T110000
 SUMMARY:Provas de Mestrado de Catarina Fernandes Almeida «A Reserva 3 do M
  useu de Arqueologia D. Diogo de Sousa. Contributo para a conservação pre
@@ -228,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-david-dos-santos-moscoso-documentar-o-f9173-2026-
  11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Provas de Mestrado de David dos Santos Moscoso «Documentar o Mar: 
  Gestão da Coleção do Núcleo de Amigos dos Pescadores de Matosinhos e H
@@ -242,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-filipe-arcanjo-carreira-impacto-d-ad932-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T140000
 SUMMARY:Provas de Mestrado de João Filipe Arcanjo Carreira «Impacto de di
  ferentes metodologias de ensino na aprendizagem de alunos do 10.º e 11.º
@@ -256,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-miguel-de-sousa-pinheiro-criacao-de-in-09501-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T143000
 SUMMARY:Provas de Mestrado de Miguel de Sousa Pinheiro «Criação de instr
  umento de acesso e recuperação de informação para a série documental.
@@ -269,7 +269,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-miguel-de-sousa-pinheiro-cri
 END:VEVENT
 BEGIN:VEVENT
 UID:escola-de-outono-clup-2026-c78f9-2026-11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Escola de Outono | CLUP 2026
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -279,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mariana-paixao-godinho-a-comunicacao-de-eventos-nas-campanha-2e751-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T143000
 SUMMARY:Mariana Paixão Godinho «A Comunicação de Eventos nas Campanhas 
  Digitais das Marcas: Um estudo a partir da experiência de estágio na Cre
@@ -293,7 +293,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruna-filipa-linhares-costa-colaboraca-4f6ee-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:Provas de Mestrado de Bruna Filipa Linhares Costa «Colaboração j
  unto do Atelier Samthiago: a atuação do Historiador de Arte na Conserva
@@ -307,7 +307,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carolina-jose-serrao-figueira-catanho-6a547-2026-
  11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:Provas de Mestrado de Carolina José Serrão Figueira Catanho «O r
  ecurso aos jogos como estratégia de motivação dos aprendentes no âmbit
@@ -321,7 +321,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-cristiana-daniela-caiano-moita-o-jorna-dd9b7-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T143000
 SUMMARY:Provas de Mestrado de Cristiana Daniela Caiano Moita «O jornalismo
   de agência e as políticas públicas. O caso da Lusa na mediação da in
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-antonio-fernandes-ribeiro-mapeand-7db21-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:Provas de Mestrado de Luís António Fernandes Ribeiro «Mapeando i
  deias: a utilização dos mapas conceptuais no ensino da História»
@@ -348,7 +348,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-pereira-lemos-tecendo-textos-a-i-fb0b8-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T180000
 SUMMARY:Provas de Mestrado de Tiago Pereira Lemos «Tecendo Textos: A inter
  textualidade como estratégia para o desenvolvimento da competência liter
@@ -362,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tomas-joao-vieira-de-sampaio-alem-do-m-55e6c-2026
  -11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T100000
 SUMMARY:Provas de Mestrado de Tomás João Vieira de Sampaio « Além do ma
  nual: A adaptação e criação de materiais didáticos e a sua relação 
@@ -376,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-zhilei-qiu-macau-entre-o-jogo-o-crime-a6f1e-2026-
  11-11@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:Provas de Mestrado de ZHILEI QIU «Macau entre o Jogo\, o Crime e a
   Fuga: uma análise de Casino Tycoon e Casino Tycoon II»
@@ -389,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-afonso-leite-da-costa-sem-dar-nas-vist-484b9-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T110000
 SUMMARY:Provas de Mestrado de Afonso Leite da Costa «Sem dar nas vistas: M
  oda\, norma interiorizada e construção social do gosto no ensino secund
@@ -403,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-dionisse-vieira-da-silva-subjectivity-6362e-2026-
  11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T163000
 SUMMARY:Provas de Mestrado de Dionisse Vieira da Silva «Subjectivity as Pr
  actice. An Ordinary Language Philosophy Approach»
@@ -416,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-eduardo-da-silva-soares-a-fragilidade-271f6-2026-
  11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T163000
 SUMMARY:Provas de Mestrado de Eduardo da Silva Soares «A fragilidade da ve
  rdade factual no espaço público segundo Hannah Arendt: uma reflexão ét
@@ -430,7 +430,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-daniela-silva-vicente-rare-as-the-7abbb-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T170000
 SUMMARY:Provas de Mestrado de Inês Daniela Silva Vicente «Rare as the gli
  mmer of a comet in the sky: a comparative analysis of Taylor Swift's and B
@@ -444,7 +444,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jasmin-endo-tran-irresistible-motion-t-ef47a-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T151500
 SUMMARY:Provas de Mestrado de Jasmin Endo Tran «Irresistible Motion: The C
  omic in Lucia Berlin's Short Stories»
@@ -457,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luisa-rodrigues-de-faria-custodio-entr-07033-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T133000
 SUMMARY:Provas de Mestrado de Luísa Rodrigues de Faria Custódio «Entre P
  ontos e Pontes: Uma abordagem interartística da Educação Literária no 
@@ -471,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-magda-vieira-liborio-aguiar-pinto-patr-4f1b0-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T110000
 SUMMARY:Provas de Mestrado de Magda Vieira Libório Aguiar Pinto «Patrimó
  nio de Proximidade: Poder local e comunidade na valorização e gestão do
@@ -485,7 +485,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-miguel-maximilian-kleinhens-pinto-bast-a8efa-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T163000
 SUMMARY:Provas de Mestrado de Miguel Maximilian Kleinhens Pinto Basto Avide
  s «The Four-Day Working Week as an Instrument of Social Equity: A Multipl
@@ -499,7 +499,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-susana-maria-vieira-ramos-a-utilizacao-8ca5f-2026
  -11-12@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T113000
 SUMMARY:Provas de Mestrado de Susana Maria Vieira Ramos «A utilização da
   Inteligência Artificial Generativa na conceção de materiais didáticos
@@ -513,7 +513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-fernando-antonio-martinho-machado-64142-2026-
  11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:Provas de Doutoramento de Fernando António Martinho Machado «What
   to do With Old Ez? Ezra Pound\, o Artista e o Que Sobrevive à Infâmia»
@@ -526,7 +526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-vieira-maia-a-revisao-e-a-cons-ec0bc-2026
  -11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:Provas de Mestrado de Beatriz Vieira Maia «A revisão e a consolid
  ação de conteúdos gramaticais. A prática de recuperação no ensino da
@@ -540,7 +540,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-catarina-jacinta-franca-maia-uniao-das-b63de-2026
  -11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:Provas de Mestrado de Catarina Jacinta França Maia «União das no
  tícias do mundo real com o ensino da filosofia»
@@ -553,7 +553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jose-pedro-da-cunha-alegre-goncalves-o-e8510-2026
  -11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T100000
 SUMMARY:Provas de Mestrado de José Pedro da Cunha Alegre Gonçalves «O Pr
  ompting como Mediação Reflexiva na Aprendizagem Filosófica. Inteligênc
@@ -567,7 +567,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-margarida-ines-gouveia-lima-o-ensino-d-aa508-2026
  -11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T110000
 SUMMARY:Provas de Mestrado de Margarida Inês Gouveia Lima « O ensino da e
  scrita enquanto processo: estratégias de facilitação processual no dese
@@ -581,7 +581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-joao-queiros-teixeira-a-oficina-62c20-2026-
  11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T160000
 SUMMARY:Provas de Mestrado de Maria João Queirós Teixeira «A oficina de 
  escrita gamificada enquanto estratégia potenciadora do desenvolvimento da
@@ -595,7 +595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-marisa-maria-fernandes-de-aguiar-alem-e1e3d-2026-
  11-13@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T110000
 SUMMARY:Provas de Mestrado de Marisa Maria Fernandes de Aguiar «Além das 
  Décadas: Trajetórias\, Motivações e Experiências dos Estudantes
@@ -608,7 +608,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-moura-pinto-um-patrimonio-68f98-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T160000
 SUMMARY:Provas de Mestrado de Ana Carolina Moura Pinto «Um Património\, M
  uitas Histórias! A importância do Património Cultural enquanto fonte hi
@@ -622,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-paula-pojo-ferreira-comunicacao-di-a9d7b-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T143000
 SUMMARY:Provas de Mestrado de Ana Paula Pôjo Ferreira «Comunicação digi
  tal no setor segurador: o caso da V Private Brokers»
@@ -635,7 +635,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carlos-luciano-gouveia-diniz-a-pedagog-b852a-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T110000
 SUMMARY:Provas de Mestrado de Carlos Luciano Gouveia Diniz «A Pedagogia Ce
  ntrada no Movimento Aplicada ao Ensino da Geografia»
@@ -648,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-rodrigues-da-costa-nogueira-asses-df5b9-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T110000
 SUMMARY:Provas de Mestrado de Inês Rodrigues da Costa Nogueira «Assessori
  a de imprensa vs. Manipulação mediática - um estudo comparativo entre B
@@ -662,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-de-oliveira-carvalho-relatorio-de-1280f-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T110000
 SUMMARY:Provas de Mestrado de Inês de Oliveira Carvalho «Relatório de es
  tágio curricular na Sintagma Legendagem de Linguagem Tabu»
@@ -675,7 +675,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jianping-qu-creative-decision-making-i-4fcd1-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Provas de Mestrado de JIANPING QU «Creative Decision-Making in Chi
  na's Overseas Web Fiction Industry: A Production Studies Approach»
@@ -688,7 +688,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-de-carvalho-goncalves-dos-reis-a2a81-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T160000
 SUMMARY:Provas de Mestrado de Mariana de Carvalho Gonçalves dos Reis «Qua
  ndo a História é Pensada para Todos: Adaptações Curriculares nas aulas
@@ -702,7 +702,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-barata-brandao-traducao-legendage-5a83d-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Provas de Mestrado de Rita Barata Brandão «Tradução\, Legendage
  m e Adaptação Estágio na Empresa Sintagma - Traduções Unipessoal\, Ld
@@ -716,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-filipa-guedes-ornelas-viana-the-ni-d1712-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T140000
 SUMMARY:Provas de Mestrado de Ana Filipa Guedes Ornelas Viana ««The Night
   Is Mine»: Privacy\, Identity\, and Resistance in The Handmaid's Tale»
@@ -729,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-fabiana-laranjeira-mota-storytelling-e-82b32-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T100000
 SUMMARY:Provas de Mestrado de Fabiana Laranjeira Mota «Storytelling e Serv
  ice-Learning como Catalisadores do Desenvolvimento Linguístico e da Prát
@@ -743,7 +743,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-francisco-luis-pereira-epistemologia-n-9ed17-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Provas de Mestrado de Francisco Luís Pereira «Epistemologia Narra
  tiva e Inteligência Artificial: Uma Avaliação Ética do Discurso Polít
@@ -757,7 +757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ivo-filipe-silva-maia-modelo-de-susten-48a1c-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Provas de Mestrado de Ivo Filipe Silva Maia «Modelo de Sustentabil
  idade Cultural Híbrido Relatório de Estágio no Espaço Agra»
@@ -770,7 +770,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-camila-de-oliveira-rufino-a-nova-ad19c-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:Provas de Mestrado de Maria Camila de Oliveira Rufino «A nova face
  ta do patriarcado? Manutenção de hegemonia em língua portuguesa atravé
@@ -784,7 +784,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-henrique-gajardo-marchioro-no-si-32ab0-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T140000
 SUMMARY:Provas de Mestrado de Pedro Henrique Gajardo Marchioro «No silênc
  io das casas de banho: análise dos graffitis de extrema-direita na FLUP»
@@ -797,7 +797,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rafaela-alexandra-sousa-pires-sempre-a-7d688-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Provas de Mestrado de Rafaela Alexandra Sousa Pires «Sempre Alerta
   Para Servir: O Escutismo como experiência de aprendizagem e participaç
@@ -811,7 +811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sergio-gil-pereira-da-luz-estagio-no-g-e9aed-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Provas de Mestrado de Sérgio Gil Pereira da Luz «Estágio no Grup
  o de Políticas Ambientais da Universidade de Viena: Uma Análise Construt
@@ -825,7 +825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-vera-lucia-da-silva-moreira-os-desafio-88caa-2026
  -11-17@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T100000
 SUMMARY:Provas de Mestrado de Vera Lúcia da Silva Moreira «Os desafios da
   produção oral e da participação ativa nas aulas de línguas: fatores\
@@ -839,7 +839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aproximacao-da-data-ix-congresso-internacional-de-ciberjorna-8e515-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Aproximação da Data] IX Congresso Internacional de Ciberjornalism
  o (#9COBCIBER)
@@ -852,7 +852,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-beatriz-macedo-teixeira-a-mocidade-7650c-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:Provas de Mestrado de Ana Beatriz Macedo Teixeira «A Mocidade Port
  uguesa Feminina através do seu Boletim (1939-1947)»
@@ -865,7 +865,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-catarina-nunes-moreira-educacao-na-0a702-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de Mestrado de Ana Catarina Nunes Moreira «Educação não 
  formal e inclusão social: Dinâmicas de participação infantojuvenil em 
@@ -879,7 +879,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-filipa-alexandra-pereira-pinho-potenci-8febf-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T140000
 SUMMARY:Provas de Mestrado de Filipa Alexandra Pereira Pinho «Potencialida
  des de um Tutor de Inteligência Artificial no processo de ensino e aprend
@@ -893,7 +893,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-lopes-rego-porque-a-vergonha-e-e-075c8-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T113000
 SUMMARY:Provas de Mestrado de Joana Lopes Rego ««Porque a vergonha é eno
  rme\, é quase o fim do mundo»: desenho de um projeto de educação sexua
@@ -907,7 +907,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jessica-cristina-almeida-resende-confi-19fd7-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:Provas de Mestrado de Jéssica Cristina Almeida Resende «Confirmar
   para Comunicar...A utilização de apresentações geradas por inteligên
@@ -921,7 +921,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-filipe-barbosa-marques-trabalhos-9f0f1-2026-
  11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T113000
 SUMMARY:Provas de Mestrado de Luís Filipe Barbosa Marques «Trabalhos arqu
  eológicos na Rua D. Hugo n.o 37-39 Contributo para o estudo da ocupação
@@ -935,7 +935,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-francisca-da-cruz-monteiro-ident-65231-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Provas de Mestrado de Maria Francisca da Cruz Monteiro «Identidade
   de Marca nas Redes Sociais: O Papel do Planeamento Estratégico de Conte
@@ -949,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-melanie-fonseca-paranhos-as-condicoes-ca8f8-2026-
  11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T140000
 SUMMARY:Provas de Mestrado de Melanie Fonseca Paranhos «As condições de 
  trabalho dos profissionais de conteúdo digital: um estudo comparado entre
@@ -963,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-micael-andre-da-silva-leal-de-azevedo-8bbec-2026-
  11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de Mestrado de Micael André da Silva Leal de Azevedo Moura 
  «Os Tabeliães do Duque de Guimarães (século XV)»
@@ -976,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ricardo-filipe-afonso-silva-redes-de-s-4408d-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T093000
 SUMMARY:Provas de Mestrado de Ricardo Filipe Afonso Silva «Redes de Sociab
  ilidade e Práticas de Intervenção Gestão de projetos sociais numa IPSS
@@ -990,7 +990,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-maria-real-assuncao-contributo-da-1522c-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:Provas de Mestrado de Rita Maria Real Assunção «Contributo da ep
  igrafia para o estudo da sacralização das águas no Noroeste Peninsular 
@@ -1004,7 +1004,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sofia-de-melo-costa-quaresma-a-constru-19924-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de Mestrado de Sofia de Melo Costa Quaresma «A Construção
   do Corpo em Cats: Perspetivas da Arte e da Dança Contemporâneas»
@@ -1017,7 +1017,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-soraia-novo-oliveira-fazer-e-aprender-bd116-2026-
  11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Provas de Mestrado de Soraia Novo Oliveira «Fazer e aprender hist
  ória através de testemunhos orais»
@@ -1030,7 +1030,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-susana-marina-matos-da-silva-a-constru-a9fcf-2026
  -11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de Mestrado de Susana Marina Matos da Silva «A Construção
   da Disciplina na Sala de Aula»
@@ -1043,7 +1043,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-zhimei-lian-estrategias-para-o-ensino-f43c1-2026-
  11-18@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:Provas de Mestrado de Zhimei Lian « Estratégias para o ensino-apr
  endizagem da gramática em Português Língua Não Materna: uma experiênc
@@ -1057,7 +1057,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-chi-han-a-comparative-study-of-debate-4b006-2026-
  11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T173000
 SUMMARY:Provas de Mestrado de CHI HAN «A Comparative study of debate strat
  egies of France and Portugal at the United Nations\, on the question of Al
@@ -1071,7 +1071,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-luis-marques-lopes-cardoso-o-des-63f7e-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T180000
 SUMMARY:Provas de Mestrado de Diogo Luís Marques Lopes Cardoso «O Desenvo
  lvimento da competência de escrita com recurso à estratégia SRSD numa t
@@ -1085,7 +1085,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-fernanda-pereira-vaquero-curcio-escult-62912-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T163000
 SUMMARY:Provas de Mestrado de Fernanda Pereira Vaquero Curcio «Esculturas 
  do brincar: arte pública\, educação museal e cidadania com crianças»
@@ -1098,7 +1098,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-miguel-vaz-pires-a-710b0-2026-11-19@lagenda
  .pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T180000
 SUMMARY:Provas de Mestrado de Pedro Miguel Vaz Pires «A
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -1110,7 +1110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rui-jorge-martins-monteiro-o-comboio-p-201a9-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T110000
 SUMMARY:Provas de Mestrado de Rui Jorge Martins Monteiro «O comboio para L
  amego: ensaios geográficos sobre uma linha ferroviária idealizada»
@@ -1123,7 +1123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sergio-miguel-leite-maia-as-colecoes-e-6c847-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T133000
 SUMMARY:Provas de Mestrado de Sérgio Miguel Leite Maia «As coleções em 
  reserva temporária no Museu Militar do Porto: Contributo para a sua conse
@@ -1137,7 +1137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-filipe-teixeira-e-costa-transpor-72808-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T090000
 SUMMARY:Provas de Mestrado de Tiago Filipe Teixeira E COSTA «Transporte a 
  Pedido em Portugal: Análise crítica dos casos Transporte a Pedido do Mé
@@ -1151,7 +1151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-dos-santos-ferreira-de-castro-co-51e80-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T110000
 SUMMARY:Provas de Mestrado de Tiago dos Santos Ferreira de Castro «Comunic
  ação estratégica aplicada à atividade cultural - o caso do Batalha Cen
@@ -1165,7 +1165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-vivianne-hermogenes-pereira-martinho-c-c5ffe-2026
  -11-19@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T110000
 SUMMARY:Provas de Mestrado de Vivianne Hermógenes Pereira Martinho «Colec
  ionismo e Produção de Conhecimento: Estudo de Caso da Coleção Jean Thu
@@ -1179,7 +1179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-clara-costa-paolino-reforma-ou-ruptura-1bb33-2026
  -11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T173000
 SUMMARY:Provas de Mestrado de Clara Costa Paolino «Reforma ou Ruptura? As 
  Ecosofias do Brasil e da Colômbia sobre a Exploração de Combustíveis F
@@ -1193,7 +1193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-daniela-ferreira-duarte-estimativa-da-e00db-2026-
  11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:Provas de Mestrado de Daniela Ferreira Duarte «Estimativa da erosi
  vidade da precipitação à escala local (Norte de Portugal e Galiza)»
@@ -1206,7 +1206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-marina-pokutniaia-a-construcao-linguis-bec00-2026
  -11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:Provas de Mestrado de Marina Pokutniaia «a Construção Linguísti
  ca da Informação Técnica nas Instruções de Costura em Português e em
@@ -1220,7 +1220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-alexandre-faria-da-silva-os-estu-45f06-2026
  -11-20@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T180000
 SUMMARY:Provas de Mestrado de Pedro Alexandre Faria da Silva «Os Estudante
  s Pendulares da cidade do Porto Impacto da mobilidade quotidiana nas prát

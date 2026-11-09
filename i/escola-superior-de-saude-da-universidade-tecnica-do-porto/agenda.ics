@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Escola Superior de Saúde da Universidade Técnica do Porto (L
+ ykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:construir-um-modelo-fram-da-teoria-a-pratica-e7c9b-2026-11-22@lagenda.p
+ t
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261122T090000
+SUMMARY:Construir um Modelo FRAM: da Teoria à Prática
+LOCATION:Centro de Investigação em Saúde Translacional e Biotecnologia M
+ édica\, Porto
+DESCRIPTION:https://tbio.ess.ipp.pt/event/construir-um-modelo-fram-da-teori
+ a-a-pratica/
+URL:https://lykeion.pt/e/construir-um-modelo-fram-da-teoria-a-pratica-e7c9b
+ .html
+END:VEVENT
+END:VCALENDAR

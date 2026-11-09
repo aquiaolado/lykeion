@@ -6,9 +6,9 @@ X-WR-CALNAME:P.Porto (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-linhas-de-tensao-85621-2026-11-08@lagenda.pt
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
+UID:exposicao-linhas-de-tensao-85621-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Exposição Linhas de Tensão
 LOCATION:Politécnico do Porto\, Porto
 DESCRIPTION:https://centrodecultura.ipp.pt/evento/exposicao-linhas-de-tensa
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-do-problema-do-galego-ao-galego-como-p-ff73a-2026
  -11-10@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Apresentação do livro Do problema do Galego ao Galego como proble
  ma na Faculdade de Educação da UTP
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iscap-e-cei-acolhem-a-segunda-reuniao-internacional-do-proje-847bc-2026
  -11-16@lagenda.pt
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:ISCAP e CEI acolhem a segunda reunião internacional do projeto Sci
  Art
@@ -39,5 +39,18 @@ LOCATION:ISCAP – Instituto Superior de Contabilidade e Administração do
 DESCRIPTION:https://www.iscap.ipp.pt
 URL:https://lykeion.pt/e/iscap-e-cei-acolhem-a-segunda-reuniao-internaciona
  l-do-proje-847bc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:construir-um-modelo-fram-da-teoria-a-pratica-e7c9b-2026-11-22@lagenda.p
+ t
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261122T090000
+SUMMARY:Construir um Modelo FRAM: da Teoria à Prática
+LOCATION:Centro de Investigação em Saúde Translacional e Biotecnologia M
+ édica\, Porto
+DESCRIPTION:https://tbio.ess.ipp.pt/event/construir-um-modelo-fram-da-teori
+ a-a-pratica/
+URL:https://lykeion.pt/e/construir-um-modelo-fram-da-teoria-a-pratica-e7c9b
+ .html
 END:VEVENT
 END:VCALENDAR
