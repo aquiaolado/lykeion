@@ -33,7 +33,12 @@ function acad(): array { static $d = null; return $d ?? ($d = json_decode((strin
 function lyk(array $u): array {
   $g = json_decode($u['gostos'] ?: '{}', true) ?: [];
   $l = (array)($g['lyk'] ?? []);
-  return ['inst' => array_flip((array)($l['inst'] ?? [])), 'areas' => array_flip((array)($l['areas'] ?? [])), 'listas' => (array)($l['listas'] ?? []),
+  // «O meu Lykeion» (9/11/2026): as escolhas da entrada contam como seguidas (áreas, faculdades e centros) e o momento ordena o email
+  $po = (array)($l['porta'] ?? []);
+  $l['inst'] = array_merge((array)($l['inst'] ?? []), array_values(array_filter(array_map(fn($x) => (string)($x['id'] ?? ''), array_filter((array)($po['insts'] ?? []), 'is_array')))));
+  $l['areas'] = array_merge((array)($l['areas'] ?? []), array_map('strval', (array)($po['areas'] ?? [])));
+  return ['sou' => (string)($po['sou'] ?? ''), 'p_areas' => array_flip(array_map('strval', (array)($po['areas'] ?? []))),
+          'inst' => array_flip((array)($l['inst'] ?? [])), 'areas' => array_flip((array)($l['areas'] ?? [])), 'listas' => (array)($l['listas'] ?? []),
           'series' => array_flip((array)($l['series'] ?? [])), 'ecos' => array_values(array_filter((array)($l['ecos'] ?? []), 'is_array')), 'pesquisas' => array_values(array_filter((array)($l['pesquisas'] ?? []), 'is_array')),
           'menos' => ['tipos' => array_flip((array)($l['menos']['tipos'] ?? [])), 'inst' => array_flip((array)($l['menos']['inst'] ?? [])), 'areas' => array_flip((array)($l['menos']['areas'] ?? []))],
           'avisos' => !array_key_exists('avisos', $l) || !empty($l['avisos']), 'semanal' => !array_key_exists('semanal', $l) || !empty($l['semanal'])];
@@ -158,10 +163,33 @@ function montar(array $u, string $titulo, array $blocos): array {
 }
 function semanal(array $u): ?array {
   $ate = date('Y-m-d', time() + 7 * 86400);
-  $seus = escolhidos($u, $ate, false); $provas = provas_semana($ate);
-  if (!$seus && !$provas) return null;
-  $titulo = 'A semana académica: ' . ($seus ? count($seus) . ' ' . (count($seus) === 1 ? 'evento' : 'eventos') . ' do que segue' : 'as provas públicas');
-  return [$titulo, montar($u, $titulo, [['Do que segue', $seus], ['Provas públicas da semana', array_slice($provas, 0, 15)]])];
+  $seus = escolhidos($u, $ate, false); $L = lyk($u);
+  // o momento da pessoa (9/11/2026) põe primeiro o que ela procura
+  $ORD = ['mestrando' => ['sessoes', 'formacao', 'provas', 'reunioes'], 'doutorando' => ['sessoes', 'formacao', 'reunioes', 'provas'],
+          'investigador' => ['reunioes', 'sessoes', 'provas', 'formacao'], 'docente' => ['sessoes', 'reunioes', 'provas', 'formacao']][$L['sou']] ?? null;
+  if ($ORD && $seus) {
+    $fa = []; foreach (acad()['ev'] as $e) $fa['lyk|' . $e['pg']] = (string)($e['fa'] ?? '');
+    $pe = fn($r) => ($k = array_search($fa[$r[0]] ?? '', $ORD, true)) === false ? 9 : $k;
+    usort($seus, fn($a, $b) => strcmp($a[2], $b[2]) ?: ($pe($a) <=> $pe($b)));
+  }
+  // as provas: só as da sua área quando escolheu áreas; senão as do país
+  $provas = provas_semana($ate);
+  if ($L['p_areas']) { $D = acad(); $ok = [];
+    foreach ($D['ev'] as $e) if (!empty($e['so']) && array_filter(array_merge((array)($e['af'] ?? []), (array)($e['a'] ?? [])), fn($x) => isset($L['p_areas'][$x]))) $ok[$GLOBALS['URL'] . 'e/' . $e['pg'] . '.html'] = 1;
+    $provas = array_values(array_filter($provas, fn($r) => isset($ok[$r[5]]))); }
+  // prazos a fechar nas próximas duas semanas: chamadas do que segue e bolsas/prémios (da sua área ou para todas)
+  $ate14 = date('Y-m-d', time() + 14 * 86400); $hoje = date('Y-m-d'); $pz = [];
+  foreach (acad()['ev'] as $e) { $p = (string)($e['pz'] ?? ''); if ($p < $hoje || $p > $ate14) continue;
+    if (seguida((string)($e['in'] ?? ''), $L['inst']) === '' && !array_filter(array_merge((array)($e['af'] ?? []), (array)($e['a'] ?? [])), fn($x) => isset($L['areas'][$x]))) continue;
+    $pz[] = ['', 'Chamada a fechar', $p, $e['n'], trim(($e['in'] ? nome_inst($e['in']) : $e['l']), ' ·'), $GLOBALS['URL'] . 'e/' . $e['pg'] . '.html', '']; }
+  foreach ((array)(acad()['pzs'] ?? []) as $r) { if (($r[2] ?? '') < $hoje || $r[2] > $ate14) continue;
+    $ar = array_filter(explode('|', (string)($r[5] ?? ''))); if ($ar && $L['p_areas'] && !array_filter($ar, fn($x) => isset($L['p_areas'][$x]))) continue;
+    $pz[] = ['', 'Prazo a fechar', $r[2], $r[0], (string)$r[1], (string)$r[3], '']; }
+  usort($pz, fn($a, $b) => strcmp($a[2], $b[2]));
+  if (!$seus && !$provas && !$pz) return null;
+  $titulo = 'A semana académica: ' . ($seus ? count($seus) . ' ' . (count($seus) === 1 ? 'evento' : 'eventos') . ' para si' : ($pz ? 'os seus prazos' : 'as provas públicas'));
+  return [$titulo, montar($u, $titulo, [['Da sua área e das suas instituições', $seus], ['Prazos a fechar', array_slice($pz, 0, 10)],
+                                        [$L['p_areas'] ? 'Provas públicas na sua área' : 'Provas públicas da semana', array_slice($provas, 0, 15)]])];
 }
 function sessao(): ?array {
   $t = $_COOKIE['lagenda_sessao'] ?? ''; if (strlen($t) < 40) return null;

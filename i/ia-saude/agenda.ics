@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IA&SAÚDE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:deephip-ai-assisted-detection-and-analysis-of-hip-joint-heal-e18ca-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:DeepHip - AI-assisted detection and analysis of hip joint health in
+  community-dwelling adults
+LOCATION:IA&SAÚDE\, Valongo
+DESCRIPTION:https://iasaude.ipsn.cespu.pt/?q=content/deephip-ai-assisted-de
+ tection-and-analysis-hip-joint-health-community-dwelling-adults
+URL:https://lykeion.pt/e/deephip-ai-assisted-detection-and-analysis-of-hip-
+ joint-heal-e18ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:step-per-digital-monitoring-of-fatigue-and-podiatric-risk-in-e579c-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:STEP-PER - Digital monitoring of fatigue and podiatric risk in Fát
+ ima pilgrims
+LOCATION:IA&SAÚDE\, Valongo
+DESCRIPTION:https://iasaude.ipsn.cespu.pt/?q=content/step-digital-monitorin
+ g-fatigue-and-podiatric-risk-f%C3%A1tima-pilgrims
+URL:https://lykeion.pt/e/step-per-digital-monitoring-of-fatigue-and-podiatr
+ ic-risk-in-e579c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:step-up-digitally-monitored-physical-activity-and-inflammato-d29eb-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:STEP-UP - Digitally monitored physical activity and inflammatory bi
+ omarkers in insufficiently active older adults
+LOCATION:IA&SAÚDE\, Valongo
+DESCRIPTION:https://iasaude.ipsn.cespu.pt/?q=content/step-digitally-monitor
+ ed-physical-activity-and-inflammatory-biomarkers-insufficiently-active
+URL:https://lykeion.pt/e/step-up-digitally-monitored-physical-activity-and-
+ inflammato-d29eb.html
+END:VEVENT
+END:VCALENDAR

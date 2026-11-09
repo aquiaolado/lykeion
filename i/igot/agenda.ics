@@ -6,6 +6,16 @@ X-WR-CALNAME:Instituto de Geografia e Ordenamento do Território (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:seminario-negative-atmospheres-33a13-2026-11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T083000
+SUMMARY:Seminário Negative Atmospheres
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/seminario-negative-atmosphe
+ res
+URL:https://lykeion.pt/e/seminario-negative-atmospheres-33a13.html
+END:VEVENT
+BEGIN:VEVENT
 UID:inauguracao-da-exposicao-urbanitas-de-rogerio-araujo-5e548-2026-11-18@l
  agenda.pt
 DTSTAMP:20261109T000000Z
@@ -16,5 +26,28 @@ DESCRIPTION:https://www.igot.ulisboa.pt/eventos/inauguracao-da-exposicao-ur
  banitas-de-rogerio-araujo
 URL:https://lykeion.pt/e/inauguracao-da-exposicao-urbanitas-de-rogerio-arau
  jo-5e548.html
+END:VEVENT
+BEGIN:VEVENT
+UID:licao-anual-da-finisterra-2026-cb387-2026-11-19@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T170000
+SUMMARY:Lição Anual da Finisterra 2026
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/licao-anual-da-finisterra-2
+ 026
+URL:https://lykeion.pt/e/licao-anual-da-finisterra-2026-cb387.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-de-jovens-investigadores-e-cerimonia-de-entrega-de-9e3eb-2026-
+ 11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T143000
+SUMMARY:Encontro de Jovens Investigadores e Cerimónia de Entrega de Prémi
+ os - 1.ª Edição
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/encontro-de-jovens-investig
+ adores-e-cerimonia-de-entrega-de-premios-1a-edicao
+URL:https://lykeion.pt/e/encontro-de-jovens-investigadores-e-cerimonia-de-e
+ ntrega-de-9e3eb.html
 END:VEVENT
 END:VCALENDAR

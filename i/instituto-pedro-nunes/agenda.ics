@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPN (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:safety-culture-just-culture-72f1c-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Safety Culture & Just Culture
+LOCATION:Laboratório de Ensaios Desgaste e Materiais\, Coimbra
+DESCRIPTION:https://www.ipn.pt/evento/safety-culture-just-culture/
+URL:https://lykeion.pt/e/safety-culture-just-culture-72f1c.html
+END:VEVENT
+END:VCALENDAR

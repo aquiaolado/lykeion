@@ -254,7 +254,10 @@
   const BLOCOS = [["prox", "Próximos do que sigo"], ["ecos", "Os meus ecossistemas"], ["inst", "Instituições que sigo"], ["areas", "Áreas e listas"],
                   ["guard", "Guardados"], ["pesq", "Séries e pesquisas com aviso"], ["avisos", "Avisos por email"], ["menos", "O que não quero ver"]];
   const DISP0 = { ordem: BLOCOS.map(b => b[0]), largos: ["prox", "ecos"], esc: [] };
-  let editar = false, proxTodos = false;
+  // 9/11/2026 (Paulo: «o guardados não aparece dentro de a minha área? tem muitos itens lá!»): separadores em vez de oito blocos seguidos
+  const SEPS = [["guard", "Guardados", ["guard"]], ["segue", "O que sigo", ["porta", "prox", "inst", "areas"]], ["ecos", "Ecossistemas", ["ecos"]], ["avisos", "Avisos e email", ["avisos", "pesq", "menos"]]];
+  BLOCOS.splice(0, 0, ["porta", "As escolhas da entrada"]); DISP0.ordem.unshift("porta");
+  let editar = false, proxTodos = false, maSep = /^#(guardados|guard)$/.test(location.hash) ? "guard" : ler("lyk-ma-sep", "");
   function minhaArea() {
     const raiz = document.getElementById("minhaarea"); if (!raiz) return;
     acd().then(D => {
@@ -267,8 +270,12 @@
       const m = g.menos, esc_ = e => m.tipos.includes(e.s) || m.inst.some(i => pertence(e.in, i)) || e.a.concat(e.af || []).some(a => m.areas.includes(a));
       const naLista = (e, f) => (!f.subtipos || f.subtipos.includes(e.s)) && (!f.familias || f.familias.includes(e.fa)) && (!f.areas || e.a.some(a => f.areas.includes(a))) &&
         (!f.modo || f.modo.includes(e.m)) && (!f.lingua || f.lingua.includes(e.li)) && (!f.distritos || f.distritos.includes(e.di)) && (!f.chamada || (e.pz || "") >= hoje);
+      // as escolhas da entrada («O meu Lykeion», lyk-porta) contam como seguidas
+      let PO; try { PO = JSON.parse(localStorage.getItem("lyk-porta")) || {}; } catch (_) { PO = {}; }
+      const poI = (PO.insts || []).map(x => x.id).filter(Boolean), poA = (PO.areas || []).filter(Boolean);
       const porque = e => {
-        const i = g.inst.find(x => pertence(e.in, x)); if (i) return nomeI(i);
+        const i = g.inst.concat(poI).find(x => pertence(e.in, x)); if (i) return nomeI(i);
+        const pa = (e.af || []).concat(e.a).find(x => poA.includes(x)); if (pa) return AREA[pa] || pa;
         const ec = es.find(x => ecoEv(x, e, D)); if (ec) return ec.nome;
         const a = e.a.concat(e.af || []).find(x => g.areas.includes(x)); if (a) return AREA[a] || a;
         const l = g.listas.find(x => D.listas[x] && naLista(e, D.listas[x][1])); if (l) return D.listas[l][0];
@@ -301,7 +308,13 @@
         areas: () => (g.areas.length || g.listas.length) ? `<p class="lin">${g.areas.map(a => `<span class="ch ma-ch">${esc(AREA[a] || a)} <button type="button" class="ma-x" data-tirar-segue="areas|${esc(a)}" aria-label="Deixar de seguir">×</button></span>`).concat(g.listas.map(l => `<span class="ch ma-ch">${esc((D.listas[l] || [l])[0])} <button type="button" class="ma-x" data-tirar-segue="listas|${esc(l)}" aria-label="Deixar de seguir">×</button></span>`)).join(" ")}</p>`
           : vazio(`Ainda não segue nenhuma área. <a href="${B}${AC}listas/">Escolher</a>`),
         guard: () => { const gs = ler("lagenda-guardados", []), P = Object.fromEntries(D.ev.map(e => [e.pg, e])), xs = gs.map(p => P[p]).filter(Boolean).map(e => [e.d.find(d => d >= hoje), e]).filter(x => x[0]).sort((a, b) => a[0].localeCompare(b[0]));
-          return xs.length ? `<ul class="ma-lista">${xs.slice(0, 8).map(([d, e]) => ev1(d, e, "")).join("")}</ul><p><a href="${B}guardados.html">Todos os guardados</a></p>` : vazio("Nada guardado. Em cada evento, «Guardar» põe-no aqui."); },
+          const passados = gs.length - xs.length;
+          return (xs.length ? `<ul class="ma-lista">${xs.map(([d, e]) => ev1(d, e, "") .replace("</li>", `<button type="button" class="ma-x" data-desguardar="${esc(e.pg)}" title="Tirar dos guardados" aria-label="Tirar dos guardados">×</button></li>`)).join("")}</ul>` : vazio("Nada guardado para os próximos dias. Na entrada e em cada evento, a estrela ☆ ou «Guardar» põe-no aqui."))
+            + (passados ? `<p class="sub">${passados} ${passados === 1 ? "guardado já passou" : "guardados já passaram"}. <a href="${B}guardados.html">Ver todos os guardados</a></p>` : ""); },
+        porta: () => { let P; try { P = JSON.parse(localStorage.getItem("lyk-porta")) || {}; } catch (_) { P = {}; }
+          const ar = (P.areas || []).map(a => AREA[a] || a), is = (P.insts || []).map(i => i.nome || i.id), SOUN = { mestrando: "Mestrando ou pós-graduado", doutorando: "Doutorando", investigador: "Investigador", docente: "Docente", outro: "Outro" };
+          return (ar.length || is.length || P.sou) ? `<p class="lin">${ar.concat(is, P.sou ? [SOUN[P.sou] || P.sou] : []).map(x => `<span class="ch ma-ch">${esc(x)}</span>`).join(" ")}</p><p class="sub">É o que a entrada «Para mim» mostra. <a href="${B}${AC}">Mudar na entrada</a></p>`
+            : vazio(`Ainda não escolheu na entrada. <a href="${B}${AC}">Escolher a área, a faculdade e o momento</a>`); },
         pesq: () => '<div id="lyksegue"></div>',
         menos: () => '<div id="lykmenos"></div>',
         avisos: () => conta ? `<label class="chk"><input type="checkbox" id="maavisos"${g.avisos === false ? "" : " checked"}> Avisar-me por email dos eventos novos do que sigo</label>` +
@@ -311,14 +324,21 @@
       const ctl = k => `<span class="ma-ctl"><button type="button" class="ma-b" data-ma="sobe|${k}" aria-label="Subir">↑</button><button type="button" class="ma-b" data-ma="desce|${k}" aria-label="Descer">↓</button>` +
         `<button type="button" class="ma-b" data-ma="largo|${k}">${disp.largos.includes(k) ? "Estreito" : "Largo"}</button><button type="button" class="ma-b" data-ma="esc|${k}">${disp.esc.includes(k) ? "Mostrar" : "Esconder"}</button></span>`;
       const nome = ((conta && conta.nome) || "").trim().split(/\s+/)[0], h1 = document.getElementById("maola"); if (h1) h1.textContent = nome ? `A área de ${nome}` : "A minha área";
-      raiz.innerHTML = `<p class="ma-topo"><span class="sub">${meus.length ? `Do que segue, ${meus.length === 1 ? "vem aí 1 evento" : "vêm aí " + meus.length + " eventos"} nos próximos 60 dias.` : ""}${!conta && servidor ? ` <a href="${B}conta.html">Entre</a> para a ter em todos os aparelhos.` : ""}</span>` +
+      const nG = ler("lagenda-guardados", []).length;
+      if (!SEPS.some(x => x[0] === maSep)) maSep = nG ? "guard" : "segue";
+      const daqui = SEPS.find(x => x[0] === maSep)[2];
+      raiz.dataset.sep = maSep;
+      raiz.innerHTML = `<div class="lyk-sep ma-seps" role="tablist">${SEPS.map(([k, n]) => `<button type="button" role="tab" data-ma-sep="${k}" aria-selected="${k === maSep}">${n}${k === "guard" && nG ? ` <small>${nG}</small>` : ""}</button>`).join("")}</div>` + `<p class="ma-topo"><span class="sub">${meus.length ? `Do que segue, ${meus.length === 1 ? "vem aí 1 evento" : "vêm aí " + meus.length + " eventos"} nos próximos 60 dias.` : ""}${!conta && servidor ? ` <a href="${B}conta.html">Entre</a> para a ter em todos os aparelhos.` : ""}</span>` +
         `<span>${editar ? '<button class="lnk" type="button" id="marepor">Repor como estava</button> ' : ""}<button class="bt${editar ? " prim" : ""}" type="button" id="maorg" aria-pressed="${editar}">${editar ? "Pronto" : "Organizar"}</button></span></p>` +
-        `<div class="ma-grade${editar ? " ma-editar" : ""}">` + ordem.filter(k => editar || !disp.esc.includes(k)).map(k => `<section class="lyk-sec ma-bloco${disp.largos.includes(k) ? " ma-largo" : ""}${disp.esc.includes(k) ? " ma-esc" : ""}" data-bloco="${k}">` +
+        `<div class="ma-grade${editar ? " ma-editar" : ""}">` + ordem.filter(k => daqui.includes(k) && (editar || !disp.esc.includes(k))).map(k => `<section class="lyk-sec ma-bloco${disp.largos.includes(k) ? " ma-largo" : ""}${disp.esc.includes(k) ? " ma-esc" : ""}" data-bloco="${k}">` +
           `<div class="lyk-cab"><h2>${BLOCOS.find(b => b[0] === k)[1]}</h2>${editar ? ctl(k) : ""}</div>${disp.esc.includes(k) ? '<p class="sub">Escondido.</p>' : C[k]()}</section>`).join("") + "</div>";
       pintaSegue(); pintaMenos();
       const grava = nd => { g.disp = nd; gravarGostos(); minhaArea(); };
       raiz.onclick = ev => {
         const t = ev.target.closest("button"); if (!t) return;
+        if (t.dataset.maSep) { maSep = t.dataset.maSep; gravar("lyk-ma-sep", maSep); minhaArea(); return; }
+        if (t.dataset.desguardar) { const gs = ler("lagenda-guardados", []).filter(x => x !== t.dataset.desguardar); gravar("lagenda-guardados", gs);
+          if (conta) post({ acao: "guardar", pg: t.dataset.desguardar, on: false }).catch(() => {}); const n = document.getElementById("nguard"); if (n) n.textContent = gs.length || ""; minhaArea(); return; }
         if (t.id === "maorg") { editar = !editar; minhaArea(); return; }
         if (t.id === "marepor") { delete g.disp; gravarGostos(); minhaArea(); return; }
         if (t.id === "maprox") { proxTodos = true; minhaArea(); return; }
@@ -398,7 +418,9 @@
       .catch(e => { avisoAmigo = e.message; }).finally(() => { try { localStorage.removeItem("lagenda-convite"); } catch (_) {} }) : Promise.resolve();
     // a página dos três toques (toques.js) ouve isto para pôr o nome e os gostos da conta
     aceitar.then(() => {
-      window.LG = Object.assign(window.LG || {}, { conta, servidor, gostos, contaPronta: true, gravarToques: t => { gostos.toques = t; return gravarGostos(); } });
+      window.LG = Object.assign(window.LG || {}, { conta, servidor, gostos, contaPronta: true, gravarToques: t => { gostos.toques = t; return gravarGostos(); },
+        // «O meu Lykeion» (9/11/2026): as escolhas da entrada (áreas, faculdades e centros, momento) vão para a conta
+        gravarPorta: p => { lyk().porta = p; return gravarGostos(); } });
       document.dispatchEvent(new CustomEvent("lagenda:conta", { detail: { conta, servidor, gostos } }));
       nav(); paraSi(); paginaConta(); social(); filasSociais(); tuaLegenda(); deQuemFoi(); seguirArtistas(); seguirLykeion(); perto(); minhaArea(); });
   legendaCasa(); legendaArtista(); // não dependem da conta
