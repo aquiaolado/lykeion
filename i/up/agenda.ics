@@ -45,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-e-masterclasses-ea8ef-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T140000
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Ciclo de Cinema e MasterClasses
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -975,17 +975,17 @@ URL:https://lykeion.pt/e/13-november-2026-xtremers-symposium-on-body-as-int
  erface-for-5c074.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aula-aberta-seminario-de-investigacao-d-pda-research-based-d-cc356-2026
+UID:aula-aberta-seminario-de-investigacao-1-d-pda-research-based-cc356-2026
  -11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T110000
-SUMMARY:Aula aberta Seminário de Investigação - D [PDA] 'Research-based 
- design' com Christian Gänshirt
+SUMMARY:Aula aberta Seminário de Investigação 1 - D [PDA] 'Research-base
+ d design' com Christian Gänshirt
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
  6265
-URL:https://lykeion.pt/e/aula-aberta-seminario-de-investigacao-d-pda-resear
- ch-based-d-cc356.html
+URL:https://lykeion.pt/e/aula-aberta-seminario-de-investigacao-1-d-pda-rese
+ arch-based-cc356.html
 END:VEVENT
 BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-medicina-legal-87902-2026-
@@ -1016,7 +1016,7 @@ BEGIN:VEVENT
 UID:mestre-helena-da-costa-e-cunha-xavier-ferreira-provas-de-dou-70d18-2026
  -11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T154500
+DTSTART;VALUE=DATE:20261113
 SUMMARY:Mestre Helena da Costa e Cunha Xavier Ferreira " >Provas de Doutora
  mento em Ciências Biomédicas | Mestre Helena da Costa e Cunha Xavier Fer
  reira
@@ -1194,14 +1194,40 @@ URL:https://lykeion.pt/e/aula-aberta-investigacao-com-pessoas-vitimizadas-q
  ue-desafio-46cec.html
 END:VEVENT
 BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-149e7-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Ciências do Mar - 
+ Recursos Marinhos
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84392
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
+ ias-do-mar-149e7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:lancamento-do-livro-59732-2026-11-16@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T143000
+DTSTART;VALUE=DATE:20261116
 SUMMARY:Lançamento do livro
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
  6225
 URL:https://lykeion.pt/e/lancamento-do-livro-59732.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
+ m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 81212
+URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
+ doutoramen-6a16f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-ciencias-forenses-9ebe4-2026-11-16@lagenda.pt
@@ -1234,18 +1260,6 @@ LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19188
 URL:https://lykeion.pt/e/prova-de-mestrado-em-informatica-medica-e0a2a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-doutoramento-em-ciencias-de-enfermagem-6a16f-2026-11-16@lagen
- da.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T153000
-SUMMARY:Provas de Doutoramento em Ciências de Enfermagem
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 81212
-URL:https://lykeion.pt/e/provas-de-doutoramento-em-ciencias-de-enfermagem-6
- a16f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-moura-pinto-um-patrimonio-68f98-2026
@@ -1383,6 +1397,19 @@ URL:https://lykeion.pt/e/ciclo-de-palestras-em-atividade-fisica-e-saude-ada
  ptacion-sa-fbcfd.html
 END:VEVENT
 BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-2ef51-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Ciências do Mar - 
+ Recursos Marinhos | Ana Rita Oliveira e Costa
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84392
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
+ ias-do-mar-2ef51.html
+END:VEVENT
+BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-oncologia-51c3a-2026-11-17
  @lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -1398,7 +1425,7 @@ BEGIN:VEVENT
 UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T111500
+DTSTART;VALUE=DATE:20261117
 SUMMARY:Licenciado César António Andrade Gaspar Lourenço Martins " >Prov
  as de Doutoramento em Ciências Médicas | Licenciado César António Andr
  ade Gaspar Lourenço Martins
@@ -1407,19 +1434,6 @@ DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
  80432
 URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
  artins-pro-f56a7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-cc5f5-2026
- -11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T153000
-SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
- m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 81212
-URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
- doutoramen-cc5f5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-em-metabolismo-clinica-e-experimentaca-e7477-2026
@@ -2029,7 +2043,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
  11-19@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T141500
+DTSTART;VALUE=DATE:20261119
 SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
  a às Ciências da Saúde
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto

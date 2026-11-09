@@ -19,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-e-masterclasses-ea8ef-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T140000
+DTSTART;VALUE=DATE:20261109
 SUMMARY:Ciclo de Cinema e MasterClasses
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -128,6 +128,19 @@ DESCRIPTION:https://fcse.porto.ucp.pt/pt-pt/eventos/masterclass-internacion
 URL:https://lykeion.pt/e/masterclass-internacional-14cb1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:masterclass-vinha-e-vinho-da-paisagem-da-domesticacao-ao-ter-db9ee-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T180000
+SUMMARY:Masterclass “Vinha e vinho: da paisagem da domesticação ao terr
+ oir pós-filoxera
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/masterclass-vinha-e-vinho-da-pai
+ sagem-da-domesticacao-ao-terroir-pos-filoxera/
+URL:https://lykeion.pt/e/masterclass-vinha-e-vinho-da-paisagem-da-domestica
+ cao-ao-ter-db9ee.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ii-ciclo-de-masterclasses-trombone-e5b2f-2026-11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261113
@@ -137,6 +150,15 @@ LOCATION:Escola Artística do Conservatório de Música Calouste Gulbenkian
 DESCRIPTION:https://conservatoriodebraga.pt/events/ii-ciclo-de-masterclasse
  s-trombone/
 URL:https://lykeion.pt/e/ii-ciclo-de-masterclasses-trombone-e5b2f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:masterclass-de-orgao-com-andrea-marcon-e34e2-2026-11-13@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Masterclass de Órgão com Andrea Marcon
+LOCATION:Escola Superior de Música de Lisboa
+DESCRIPTION:https://www.esml.upl.pt/en/events
+URL:https://lykeion.pt/e/masterclass-de-orgao-com-andrea-marcon-e34e2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ii-curso-breve-a-revisao-do-etaf-e-do-cpta-20fa2-2026-11-16@lagenda.pt

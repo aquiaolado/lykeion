@@ -6,6 +6,18 @@ X-WR-CALNAME:Educação (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:2026-feuc-e-fpceuc-recebem-mais-dois-professores-catedratico-aa9be-2026
+ -11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:2026 FEUC e FPCEUC recebem mais dois professores catedráticos cada
+LOCATION:Brain Imaging Network\, Coimbra
+DESCRIPTION:http://www.uc.pt/noticias/artigos/feuc-e-fpceuc-recebem-mais-do
+ is-professores-catedraticos-cada/
+URL:https://lykeion.pt/e/2026-feuc-e-fpceuc-recebem-mais-dois-professores-c
+ atedratico-aa9be.html
+END:VEVENT
+BEGIN:VEVENT
 UID:docentes-da-eselx-distinguidas-com-premios-de-excelencia-na-7db7e-2026-
  11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -55,18 +67,6 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  01094
 URL:https://lykeion.pt/e/provas-de-mestrado-de-sofia-nair-bravo-angelo-carn
  eiro-albin-b4564.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-doutoramento-de-celia-maria-ferreira-guerra-cascai-64c83-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Provas de doutoramento de Célia Maria Ferreira Guerra Cascais — 
- Reitoria | Universidade de Lisboa
-LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-celia-maria-ferreira-gue
- rra-cascai-64c83.html
 END:VEVENT
 BEGIN:VEVENT
 UID:trento-seminarios-de-joao-reis-e-ana-paula-tavares-na-univer-dc37f-2026
@@ -434,18 +434,6 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-marisa-maria-fernandes-de-ag
  uiar-alem-e1e3d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ultima-licao-do-professor-doutor-francisco-louca-c84f5-2026-11-13@lagen
- da.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T180000
-SUMMARY:Última Lição do Professor Doutor Francisco Louçã
-LOCATION:Biblioteca Francisco Pereira de Moura
-DESCRIPTION:https://www.iseg.ulisboa.pt/event/ultima-licao-do-professor-dou
- tor-francisco-louca/
-URL:https://lykeion.pt/e/ultima-licao-do-professor-doutor-francisco-louca-c
- 84f5.html
-END:VEVENT
-BEGIN:VEVENT
 UID:sessoes-de-literacia-em-saude-9668c-2026-11-14@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T103000
@@ -789,17 +777,6 @@ URL:https://lykeion.pt/e/seminario-internacional-da-formacao-a-competicao-c
  omo-concil-9540c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aula-aberta-f58ed-2026-11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T183000
-SUMMARY:Aula Aberta
-LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
-  Lisboa
-DESCRIPTION:https://www.iscal.upl.pt/eventos/aula-aberta-de-la-irregularida
- d-al-trabajo-digno-mecanismos-ordinarios-de-regularizacion
-URL:https://lykeion.pt/e/aula-aberta-f58ed.html
-END:VEVENT
-BEGIN:VEVENT
 UID:bootcamp-de-inovacao-pedagogica-desafia-estudantes-b06b5-2026-11-19@lag
  enda.pt
 DTSTAMP:20261109T000000Z
@@ -911,6 +888,15 @@ LOCATION:Instituto Superior Técnico
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/workshop-literacia-financ
  eira/
 URL:https://lykeion.pt/e/workshop-literacia-financeira-ef5a2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:experiment-e4cdf-2026-11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T140000
+SUMMARY:Experiment
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/experiment-tickets-2001394905037
+URL:https://lykeion.pt/e/experiment-e4cdf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gamification-and-digital-games-with-generative-ai-from-idea-901ef-2026-

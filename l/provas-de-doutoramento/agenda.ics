@@ -6,6 +6,19 @@ X-WR-CALNAME:Provas de doutoramento (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:09-11-2026-prova-de-doutoramento-de-goncalo-alexandre-pinto-8f5ae-2026-
+ 11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Prova de Doutoramento de Gonçalo Alexandre Pinto Lopes
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/dei/agenda-dei/prova-de-doutoramento-de
+ -goncalo-alexandre-pinto-lopes/
+URL:https://lykeion.pt/e/09-11-2026-prova-de-doutoramento-de-goncalo-alexan
+ dre-pinto-8f5ae.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-antonio-ferreira-07255-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T140000
@@ -17,16 +30,30 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-antonio-ferreira-07255.h
  tml
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-celia-maria-ferreira-guerra-cascai-64c83-2026
- -11-09@lagenda.pt
+UID:provas-de-doutoramento-de-cristiano-alvarenga-50651-2026-11-09@lagenda.
+ pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Provas de doutoramento de Célia Maria Ferreira Guerra Cascais — 
- Reitoria | Universidade de Lisboa
-LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-celia-maria-ferreira-gue
- rra-cascai-64c83.html
+DTSTART;TZID=Europe/Lisbon:20261109T140000
+SUMMARY:Provas de Doutoramento de Cristiano Alvarenga
+LOCATION:Centro de Estudos de Comunicação e Sociedade\, Braga
+DESCRIPTION:https://www.cecs.uminho.pt/provas-de-doutoramento-de-cristiano-
+ alvarenga/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-cristiano-alvarenga-5065
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:10-11-26-prova-de-doutoramento-de-carlos-joaquim-da-silva-lu-c3646-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T141500
+SUMMARY:Prova de Doutoramento de Carlos Joaquim da Silva Luís 10 novembro 
+ Sala A5.4
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/dei/agenda-dei/prova-de-doutoramento-de
+ -carlos-joaquim-da-silva-luis/
+URL:https://lykeion.pt/e/10-11-26-prova-de-doutoramento-de-carlos-joaquim-d
+ a-silva-lu-c3646.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-ol-18cd9-2026
@@ -107,7 +134,7 @@ BEGIN:VEVENT
 UID:mestre-helena-da-costa-e-cunha-xavier-ferreira-provas-de-dou-70d18-2026
  -11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T154500
+DTSTART;VALUE=DATE:20261113
 SUMMARY:Mestre Helena da Costa e Cunha Xavier Ferreira " >Provas de Doutora
  mento em Ciências Biomédicas | Mestre Helena da Costa e Cunha Xavier Fer
  reira
@@ -179,6 +206,19 @@ DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
 URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
+ m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 81212
+URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
+ doutoramen-6a16f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -189,18 +229,6 @@ DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
  rova-de-doutoramento-do-aluno-anthony-andrea-faustine
 URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-anthony-andrea-faus
  tine-18cd9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-doutoramento-em-ciencias-de-enfermagem-6a16f-2026-11-16@lagen
- da.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T153000
-SUMMARY:Provas de Doutoramento em Ciências de Enfermagem
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 81212
-URL:https://lykeion.pt/e/provas-de-doutoramento-em-ciencias-de-enfermagem-6
- a16f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-daniela-rocha-bicalho-tecnologias-035d3-2026-
@@ -238,7 +266,7 @@ BEGIN:VEVENT
 UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T111500
+DTSTART;VALUE=DATE:20261117
 SUMMARY:Licenciado César António Andrade Gaspar Lourenço Martins " >Prov
  as de Doutoramento em Ciências Médicas | Licenciado César António Andr
  ade Gaspar Lourenço Martins
@@ -249,17 +277,18 @@ URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
  artins-pro-f56a7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-cc5f5-2026
+UID:17-11-26-prova-de-doutoramento-de-marco-antonio-santos-silva-9dbc4-2026
  -11-17@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T153000
-SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
- m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 81212
-URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
- doutoramen-cc5f5.html
+DTSTART;TZID=Europe/Lisbon:20261117T150000
+SUMMARY:Prova de Doutoramento de Marco António Santos Silva 17 novembro Sa
+ la A5.4
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/dei/agenda-dei/prova-de-doutoramento-de
+ -marco-antonio-santos-silva/
+URL:https://lykeion.pt/e/17-11-26-prova-de-doutoramento-de-marco-antonio-sa
+ ntos-silva-9dbc4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-em-metabolismo-clinica-e-experimentaca-e7477-2026
@@ -347,7 +376,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
  11-19@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T141500
+DTSTART;VALUE=DATE:20261119
 SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
  a às Ciências da Saúde
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto

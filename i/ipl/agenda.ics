@@ -54,17 +54,6 @@ DESCRIPTION:https://www.isel.pt/eventos/workshop-ieee-aess-spacetech
 URL:https://lykeion.pt/e/workshop-ieee-aess-spacetech-b0d60.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminarios-de-internacionalizacao-26-27-0da02-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Seminários de Internacionalização 26-27
-LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
-  Lisboa
-DESCRIPTION:https://www.iscal.upl.pt/eventos/seminarios-de-internacionaliza
- cao-26-27-fechar-negocios-no-mundo-o-que-cultura-e-os
-URL:https://lykeion.pt/e/seminarios-de-internacionalizacao-26-27-0da02.html
-END:VEVENT
-BEGIN:VEVENT
 UID:construir-pontes-para-a-inclusao-a-experiencia-do-projeto-ri-8dcd7-2026
  -11-12@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -100,6 +89,15 @@ DESCRIPTION:https://www.isel.pt/eventos/palestra-obra-mais-dificil-da-minha
  -carreira-profissional
 URL:https://lykeion.pt/e/palestra-a-obra-mais-dificil-da-minha-carreira-pro
  fissional-b67d3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:masterclass-de-orgao-com-andrea-marcon-e34e2-2026-11-13@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Masterclass de Órgão com Andrea Marcon
+LOCATION:Escola Superior de Música de Lisboa
+DESCRIPTION:https://www.esml.upl.pt/en/events
+URL:https://lykeion.pt/e/masterclass-de-orgao-com-andrea-marcon-e34e2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:investigacao-estatistica-no-contexto-real-121e5-2026-11-16@lagenda.pt
@@ -158,27 +156,5 @@ DESCRIPTION:https://www.eselx.upl.pt/eventos/provas-publicas-de-mestrados-n
  ao-profissionalizantes
 URL:https://lykeion.pt/e/provas-publicas-de-mestrados-nao-profissionalizant
  es-5631c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminarios-de-internacionalizacao-26-27-f8ae0-2026-11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Seminários de Internacionalização 26-27
-LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
-  Lisboa
-DESCRIPTION:https://www.iscal.upl.pt/eventos/seminarios-de-internacionaliza
- cao-26-27-o-mundo-real-lideranca-comercial-e-nossa-gestao
-URL:https://lykeion.pt/e/seminarios-de-internacionalizacao-26-27-f8ae0.html
-END:VEVENT
-BEGIN:VEVENT
-UID:aula-aberta-f58ed-2026-11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T183000
-SUMMARY:Aula Aberta
-LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
-  Lisboa
-DESCRIPTION:https://www.iscal.upl.pt/eventos/aula-aberta-de-la-irregularida
- d-al-trabajo-digno-mecanismos-ordinarios-de-regularizacion
-URL:https://lykeion.pt/e/aula-aberta-f58ed.html
 END:VEVENT
 END:VCALENDAR

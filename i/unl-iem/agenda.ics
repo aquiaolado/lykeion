@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UNL IEM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:masterclass-vinha-e-vinho-da-paisagem-da-domesticacao-ao-ter-db9ee-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T180000
+SUMMARY:Masterclass “Vinha e vinho: da paisagem da domesticação ao terr
+ oir pós-filoxera
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/masterclass-vinha-e-vinho-da-pai
+ sagem-da-domesticacao-ao-terroir-pos-filoxera/
+URL:https://lykeion.pt/e/masterclass-vinha-e-vinho-da-paisagem-da-domestica
+ cao-ao-ter-db9ee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T163000
+SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
+ ns d’animaux dans les imprimés du XVIe siècle
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/inauguracao-da-exposicao-la-faun
+ e-des-voyageurs-illustrations-danimaux-dans-les-imprimes-du-xvie-siecle/
+URL:https://lykeion.pt/e/inauguracao-da-exposicao-la-faune-des-voyageurs-il
+ lustration-7bc58.html
+END:VEVENT
+END:VCALENDAR

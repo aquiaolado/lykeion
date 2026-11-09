@@ -106,6 +106,16 @@ DESCRIPTION:https://isociologia.up.pt/eventos/conferencia-de-abertura-jorna
 URL:https://lykeion.pt/e/conferencia-de-abertura-cdbbe.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencias-palestras-a1948-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T134500
+SUMMARY:Conferências/Palestras
+LOCATION:Casa do Território\, Vila Nova de Famalicão
+DESCRIPTION:https://www.parquedadevesa.com/_conferencia_ambientar-se_regene
+ rar&mop=7
+URL:https://lykeion.pt/e/conferencias-palestras-a1948.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conversas-com-sentido-ii-ciclo-de-tertulias-d7447-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T143000
@@ -222,16 +232,6 @@ DESCRIPTION:https://www.up.pt/eventos/event/jornadas-de-investigacao-do-is-
 URL:https://lykeion.pt/e/jornadas-de-investigacao-do-is-up-f8d41.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lideranca-na-era-da-ia-f5ad9-2026-11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T140000
-SUMMARY:Liderança na era da IA
-LOCATION:Nova SBE\, Cascais
-DESCRIPTION:https://www.eventbrite.com/e/lideranca-na-era-da-ia-tickets-200
- 3711010571
-URL:https://lykeion.pt/e/lideranca-na-era-da-ia-f5ad9.html
-END:VEVENT
-BEGIN:VEVENT
 UID:math-colloquium-cidma-ualg-04e4e-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261109T110000
@@ -277,9 +277,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-biologia-marinha-1c504-2026-11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T160000
 SUMMARY:Provas de Mestrado em Biologia Marinha
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+LOCATION:Universidade do Algarve\, Faro
 DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-biologia-marinha-315
 URL:https://lykeion.pt/e/provas-de-mestrado-em-biologia-marinha-1c504.html
 END:VEVENT
@@ -319,6 +319,19 @@ DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
  na-web-summit-2026/
 URL:https://lykeion.pt/e/universidade-politecnica-de-santarem-na-web-summit
  -2026-182a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:viver-cuidar-participar-spem-promove-xxi-congresso-nacional-18af0-2026-
+ 11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:VIVER. CUIDAR. PARTICIPAR: SPEM promove XXI Congresso Nacional de E
+ sclerose Múltipla
+LOCATION:Sociedade Portuguesa de Esclerose Múltipla
+DESCRIPTION:https://spem.pt/blog/2026/11/09/viver-cuidar-participar-spem-pr
+ omove-xxi-congresso-nacional-de-esclerose-multipla/
+URL:https://lykeion.pt/e/viver-cuidar-participar-spem-promove-xxi-congresso
+ -nacional-18af0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-c64a7-2026-11-09@lagenda.pt
@@ -462,10 +475,10 @@ BEGIN:VEVENT
 UID:sportdiscus-fontes-de-pesquisa-sobre-ciencias-da-atividade-f-72e87-2026
  -11-10@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTART;TZID=Europe/Lisbon:20261110T160000
 SUMMARY:SPORTDiscus: Fontes de pesquisa sobre ciências da atividade fisíc
  a e do desporto
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+LOCATION:Universidade do Algarve\, Faro
 DESCRIPTION:https://www.ualg.pt/sportdiscus-fontes-de-pesquisa-sobre-cienci
  as-da-atividade-fisica-e-do-desporto
 URL:https://lykeion.pt/e/sportdiscus-fontes-de-pesquisa-sobre-ciencias-da-a
@@ -529,6 +542,21 @@ DESCRIPTION:https://www.isel.pt/eventos/workshop-ieee-aess-spacetech
 URL:https://lykeion.pt/e/workshop-ieee-aess-spacetech-b0d60.html
 END:VEVENT
 BEGIN:VEVENT
+UID:funtasia-biblioteca-a-vapor-encontros-com-escritores-palestr-5f0a3-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T150000
+SUMMARY:«FUNTASIA: BIBLIOTECA A VAPOR» | Encontros com Escritores / Pales
+ tras temáticas
+LOCATION:Biblioteca Municipal D. Dinis - Rua Guilherme Gomes Fernandes (Fim
+ ) - Odivelas\, Odivelas
+DESCRIPTION:https://www.cm-odivelas.pt/descubra-odivelas/agenda-e-eventos/a
+ genda-municipal/evento-51/funtasia-biblioteca-a-vapor-encontros-com-escrit
+ ores-palestras-tematicas-32
+URL:https://lykeion.pt/e/funtasia-biblioteca-a-vapor-encontros-com-escritor
+ es-palestr-5f0a3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:16-00-coloquio-coloquio-de-matematica-e9574-2026-11-11@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T160000
@@ -583,6 +611,16 @@ URL:https://lykeion.pt/e/encontro-a-fauna-e-flora-terrestre-e-marinha-130a4
  .html
 END:VEVENT
 BEGIN:VEVENT
+UID:experiment-room-d136-d011-870a1-2026-11-11@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T100000
+SUMMARY:Experiment ( Room D136 & D011)
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/experiment-room-d136-d011-tickets-2
+ 001394296216
+URL:https://lykeion.pt/e/experiment-room-d136-d011-870a1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:nova-math-statistics-and-risk-management-seminar-d8568-2026-11-11@lagen
  da.pt
 DTSTAMP:20261109T000000Z
@@ -594,6 +632,18 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/nova-math-statis
  tics-and-risk-management-seminar
 URL:https://lykeion.pt/e/nova-math-statistics-and-risk-management-seminar-d
  8568.html
+END:VEVENT
+BEGIN:VEVENT
+UID:optogenetica-a-combinacao-improvavel-entre-algas-e-neurocien-001c3-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T140000
+SUMMARY:Optogenética: a combinação improvável entre algas e neurociênc
+ ia
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra
+DESCRIPTION:https://indico.lip.pt/event/2341/
+URL:https://lykeion.pt/e/optogenetica-a-combinacao-improvavel-entre-algas-e
+ -neurocien-001c3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-0ce58-2026-11-11@lagenda.pt
@@ -712,7 +762,7 @@ URL:https://lykeion.pt/e/34th-world-congress-on-controversies-in-obstetrics
  -gynecolog-9f261.html
 END:VEVENT
 BEGIN:VEVENT
-UID:adaptlocal-10-seminario-de-adaptacao-local-as-alteracoes-cli-760a5-2026
+UID:adaptlocal-10-o-seminario-de-adaptacao-local-as-alteracoes-c-760a5-2026
  -11-12@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -721,8 +771,8 @@ SUMMARY:Adaptlocal - 10.º Seminário de Adaptação Local às Alterações
 LOCATION:CCC Centro Cultural e de Congressos das Caldas da Rainha\, Caldas 
  da Rainha
 DESCRIPTION:https://www.ccc.com.pt/
-URL:https://lykeion.pt/e/adaptlocal-10-seminario-de-adaptacao-local-as-alte
- racoes-cli-760a5.html
+URL:https://lykeion.pt/e/adaptlocal-10-o-seminario-de-adaptacao-local-as-al
+ teracoes-c-760a5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-verde-0d7a0-2026-11-12@lagenda.pt
@@ -812,15 +862,6 @@ DESCRIPTION:https://www.cm-caminha.pt/visitar/agenda-proximos-eventos/event
  o/conversas-com-sentido-debate-violencia-domestica
 URL:https://lykeion.pt/e/conversas-com-sentido-debate-violencia-domestica-d
  7447.html
-END:VEVENT
-BEGIN:VEVENT
-UID:debate-do-orcamento-do-estado-2027-0aa3b-2026-11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T143000
-SUMMARY:Debate do Orçamento do Estado 2027
-LOCATION:AESE Business School
-DESCRIPTION:https://www.aese.pt/agenda/debate-do-orcamento-do-estado-2027/
-URL:https://lykeion.pt/e/debate-do-orcamento-do-estado-2027-0aa3b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:graduate-forum-gestao-laboral-algoritmica-e-discriminacao-6f5c0-2026-11
@@ -917,18 +958,6 @@ DESCRIPTION:https://www.novaims.unl.pt/pt/here-now/eventos/sessao-solene-20
 URL:https://lykeion.pt/e/sessao-solene-2026-bb620.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ulisboa-promove-conversas-de-sofa-sobre-ia-e-saude-mental-73ac4-2026-11
- -12@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T150000
-SUMMARY:ULisboa promove “Conversas de Sofá” sobre IA e Saúde Mental
-LOCATION:ISEG – Lisbon School of Economics and Management
-DESCRIPTION:https://www.iseg.ulisboa.pt/2026/10/ulisboa-promove-conversas-d
- e-sofa-sobre-ia-e-saude-mental/
-URL:https://lykeion.pt/e/ulisboa-promove-conversas-de-sofa-sobre-ia-e-saude
- -mental-73ac4.html
-END:VEVENT
-BEGIN:VEVENT
 UID:workshop-2e64f-2026-11-12@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T093000
@@ -951,6 +980,20 @@ DESCRIPTION:https://grupanalise.pt/agenda/xxv-congresso-nacional-de-grupana
  lise-e-psicoterapia-analitica-de-grupo/
 URL:https://lykeion.pt/e/xxv-congresso-nacional-de-grupanalise-e-psicoterap
  ia-analiti-a15f1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a-iniciativa-engloba-com-uma-palestra-sobre-a-industria-cons-b0bf0-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:A iniciativa engloba com uma palestra sobre a Indústria Conserveir
+ a Local\, pela Confraria do Atum de Vila Real de Santo António\, e com um
+ a mostra ...
+LOCATION:Vila Real de Santo António\, Vila Real de Santo António
+DESCRIPTION:https://www.cm-vrsa.pt/pt/agenda/58383/comemoracao-do-dia-nacio
+ nal-das-conservas-de-peixe.aspx
+URL:https://lykeion.pt/e/a-iniciativa-engloba-com-uma-palestra-sobre-a-indu
+ stria-cons-b0bf0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:forum-cafe-forum-jovens-investigadores-e25cb-2026-11-13@lagenda.pt
@@ -1230,6 +1273,19 @@ URL:https://lykeion.pt/e/colheita-de-amostras-para-analise-microbiologica-a
  3ade.html
 END:VEVENT
 BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-149e7-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Ciências do Mar - 
+ Recursos Marinhos
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84392
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
+ ias-do-mar-149e7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:icone6-6th-international-conference-in-neuroethics-2e1c5-2026-11-16@lag
  enda.pt
 DTSTAMP:20261109T000000Z
@@ -1240,6 +1296,15 @@ DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=training/allevents/103%2B104%2B
  118
 URL:https://lykeion.pt/e/icone6-6th-international-conference-in-neuroethics
  -2e1c5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-encontro-mares-circulares-bd887-2026-11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:IV Encontro Mares Circulares
+LOCATION:Vila Nova de Gaia\, Vila Nova de Gaia
+DESCRIPTION:https://www.cm-gaia.pt/pt/eventos/iv-encontro-mares-circulares/
+URL:https://lykeion.pt/e/iv-encontro-mares-circulares-bd887.html
 END:VEVENT
 BEGIN:VEVENT
 UID:investigacao-estatistica-no-contexto-real-121e5-2026-11-16@lagenda.pt
@@ -1347,6 +1412,19 @@ URL:https://lykeion.pt/e/das-09-30-as-14-30-conferencia-ai-readiness-iseg-a
  uditorio-c-0bb39.html
 END:VEVENT
 BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-2ef51-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Ciências do Mar - 
+ Recursos Marinhos | Ana Rita Oliveira e Costa
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84392
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
+ ias-do-mar-2ef51.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ed-17-11-26-webinar-03613-2026-11-17@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T143000
@@ -1365,18 +1443,6 @@ LOCATION:Departamento de Cinema e Artes dos Media (ULHT ECATI)
 DESCRIPTION:https://www.ulusofona.pt/evento/great-artists-on-campus-6-lisbo
  a
 URL:https://lykeion.pt/e/encontros-great-artists-on-campus-6-90954.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-da-seguranca-em-ambiente-industrial-e-construcao-c7670-2026-11-1
- 7@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Gestão da Segurança em Ambiente Industrial e Construção
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-da-seguranca-em-ambiente-
- industrial-e-construcao/
-URL:https://lykeion.pt/e/gestao-da-seguranca-em-ambiente-industrial-e-const
- rucao-c7670.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ia-no-trabalho-comandos-eficazes-para-simplificar-tarefas-ebbda-2026-11
@@ -1415,6 +1481,19 @@ DESCRIPTION:https://www.itqb.unl.pt/events/introduction-to-image-analysis-c
  ourse-8th-edition/
 URL:https://lykeion.pt/e/introduction-to-image-analysis-course-8th-edition-
  5890b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:juan-munoz-echaniz-2026-11-17-15-00-00-00-15h-constraints-on-c1345-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Juan Muñoz-Echániz\, 2026-11-17/15:00:00+00\, 15h\, Constraints o
+ n Lefschetz fibrations with four-dimensional fibers
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://geolis.math.tecnico.ulis
+ boa.pt/seminars?action=show&amp\,id=7850
+URL:https://lykeion.pt/e/juan-munoz-echaniz-2026-11-17-15-00-00-00-15h-cons
+ traints-on-c1345.html
 END:VEVENT
 BEGIN:VEVENT
 UID:palestra-f1043-2026-11-17@lagenda.pt
@@ -1793,6 +1872,34 @@ URL:https://lykeion.pt/e/ai-big-data-and-human-genetics-spgh-30th-annual-me
  eting-pre-40e17.html
 END:VEVENT
 BEGIN:VEVENT
+UID:announcement-for-the-award-of-one-research-fellowship-ref-a-54792-2026-
+ 11-19@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Announcement for the award of one research fellowship – ref.a BI4
+ / CBMA – DADOS /2026
+LOCATION:Centro de Biologia Molecular e Ambiental\, Braga
+DESCRIPTION:https://cbma.uminho.pt/announcement-for-the-award-of-one-resear
+ ch-fellowship-ref-a-bi4-cbma-dados-2026/?utm_source=rss&#038\,utm_medium=r
+ ss&#038\,utm_campaign=announcement-for-the-award-of-one-research-fellowshi
+ p-ref-a-bi4-cbma-dados-2026
+URL:https://lykeion.pt/e/announcement-for-the-award-of-one-research-fellows
+ hip-ref-a-54792.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-en-torno-a-cuestiones-relacionadas-con-la-ciberd-349ff-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Aula Aberta - En torno a cuestiones relacionadas con la ciberdelinc
+ uencia
+LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
+DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-en-torno-a-cue
+ stiones-relacionadas-con-la-ciberdelincuencia
+URL:https://lykeion.pt/e/aula-aberta-en-torno-a-cuestiones-relacionadas-con
+ -la-ciberd-349ff.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-asset-da-formacao-a-pratica-contabilidade-para-a-9787d-2026
  -11-19@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -1872,7 +1979,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
  11-19@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T141500
+DTSTART;VALUE=DATE:20261119
 SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
  a às Ciências da Saúde
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -1989,6 +2096,18 @@ URL:https://lykeion.pt/e/gamification-and-digital-games-with-generative-ai-
  from-idea-901ef.html
 END:VEVENT
 BEGIN:VEVENT
+UID:i-ciclo-de-palestras-redes-fantasma-do-conhecimento-a-acao-bddc1-2026-1
+ 1-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T100000
+SUMMARY:I Ciclo de Palestras: Redes Fantasma: do Conhecimento à Ação
+LOCATION:Espaço Museológico da Praia da Vagueira\, Vagos
+DESCRIPTION:https://www.cm-vagos.pt/visitar/agenda/evento/i-ciclo-de-palest
+ ras-redes-fantasma-do-conhecimento-a-acao
+URL:https://lykeion.pt/e/i-ciclo-de-palestras-redes-fantasma-do-conheciment
+ o-a-acao-bddc1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:i-encontro-cientifico-em-neonatologia-c07fb-2026-11-20@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261120
@@ -1998,6 +2117,19 @@ LOCATION:Escola Superior de Saúde Cruz Vermelha Portuguesa - Alto Tâmega\
 DESCRIPTION:https://esscvpaltotamega.pt/ver/eventos/i-encontro-cientifico-e
  m-neonatologia
 URL:https://lykeion.pt/e/i-encontro-cientifico-em-neonatologia-c07fb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T163000
+SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
+ ns d’animaux dans les imprimés du XVIe siècle
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/inauguracao-da-exposicao-la-faun
+ e-des-voyageurs-illustrations-danimaux-dans-les-imprimes-du-xvie-siecle/
+URL:https://lykeion.pt/e/inauguracao-da-exposicao-la-faune-des-voyageurs-il
+ lustration-7bc58.html
 END:VEVENT
 BEGIN:VEVENT
 UID:palestra-macroalgas-na-gastronomia-sustentabilidade-e-tenden-cadd8-2026
@@ -2023,6 +2155,19 @@ DESCRIPTION:https://isociologia.up.pt/eventos/provas-de-doutoramento-de-tia
  go-miguel-costa-nunes-pinto
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-tiago-miguel-costa-nunes
  -pinto-2f962.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sex-20-nov-21-00-fri-20-nov-21-00-filme-e-conversa-film-and-a727a-2026-
+ 11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:SEX 20 NOV · 21:00 FRI 20 NOV · 21:00 Filme e Conversa Film and T
+ alk Mulheres\, Terra\, Revolução Avenidas - Um Teatro em Cada Bairro
+LOCATION:Lisboa
+DESCRIPTION:https://www.olharesdomediterraneo.org/actividades/mulheres-terr
+ a-revolucao/
+URL:https://lykeion.pt/e/sex-20-nov-21-00-fri-20-nov-21-00-filme-e-conversa
+ -film-and-a727a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tropical-talks-researchers-for-the-future-universidade-de-li-19d0c-2026
@@ -2051,11 +2196,26 @@ URL:https://lykeion.pt/e/tropical-talks-researchers-for-the-future-universi
  dade-de-li-19d0c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:funtasia-biblioteca-a-vapor-encontros-com-escritores-palestr-5f0a3-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T150000
+SUMMARY:«FUNTASIA: BIBLIOTECA A VAPOR» | Encontros com Escritores / Pales
+ tras temáticas
+LOCATION:Biblioteca Municipal D. Dinis - Rua Guilherme Gomes Fernandes (Fim
+ ) - Odivelas\, Odivelas
+DESCRIPTION:https://www.cm-odivelas.pt/descubra-odivelas/agenda-e-eventos/a
+ genda-municipal/evento-51/funtasia-biblioteca-a-vapor-encontros-com-escrit
+ ores-palestras-tematicas
+URL:https://lykeion.pt/e/funtasia-biblioteca-a-vapor-encontros-com-escritor
+ es-palestr-5f0a3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:jornadas-de-pesca-ludica-e-desportiva-12ef9-2026-11-21@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Jornadas de Pesca Lúdica e Desportiva
-LOCATION:Instituto Politécnico de Bragança\, Bragança
+LOCATION:Departamento Ambiente e Recursos Naturais\, Bragança
 DESCRIPTION:https://esa.unipb.pt/eventos/jornadas-de-pesca-ludica-e-desport
  iva/
 URL:https://lykeion.pt/e/jornadas-de-pesca-ludica-e-desportiva-12ef9.html

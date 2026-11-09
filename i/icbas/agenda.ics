@@ -72,7 +72,7 @@ BEGIN:VEVENT
 UID:mestre-helena-da-costa-e-cunha-xavier-ferreira-provas-de-dou-70d18-2026
  -11-13@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T154500
+DTSTART;VALUE=DATE:20261113
 SUMMARY:Mestre Helena da Costa e Cunha Xavier Ferreira " >Provas de Doutora
  mento em Ciências Biomédicas | Mestre Helena da Costa e Cunha Xavier Fer
  reira
@@ -83,16 +83,43 @@ URL:https://lykeion.pt/e/mestre-helena-da-costa-e-cunha-xavier-ferreira-pro
  vas-de-dou-70d18.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-em-ciencias-de-enfermagem-6a16f-2026-11-16@lagen
- da.pt
+UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-149e7-2026
+ -11-16@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T153000
-SUMMARY:Provas de Doutoramento em Ciências de Enfermagem
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Ciências do Mar - 
+ Recursos Marinhos
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84392
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
+ ias-do-mar-149e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
+ m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
 DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
  81212
-URL:https://lykeion.pt/e/provas-de-doutoramento-em-ciencias-de-enfermagem-6
- a16f.html
+URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
+ doutoramen-6a16f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-2ef51-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Ciências do Mar - 
+ Recursos Marinhos | Ana Rita Oliveira e Costa
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84392
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
+ ias-do-mar-2ef51.html
 END:VEVENT
 BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-oncologia-51c3a-2026-11-17
@@ -110,7 +137,7 @@ BEGIN:VEVENT
 UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T111500
+DTSTART;VALUE=DATE:20261117
 SUMMARY:Licenciado César António Andrade Gaspar Lourenço Martins " >Prov
  as de Doutoramento em Ciências Médicas | Licenciado César António Andr
  ade Gaspar Lourenço Martins
@@ -121,23 +148,10 @@ URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
  artins-pro-f56a7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-cc5f5-2026
- -11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T153000
-SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
- m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 81212
-URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
- doutoramen-cc5f5.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
  11-19@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T141500
+DTSTART;VALUE=DATE:20261119
 SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
  a às Ciências da Saúde
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
