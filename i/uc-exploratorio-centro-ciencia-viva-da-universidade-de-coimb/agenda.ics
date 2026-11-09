@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UC Exploratório - Centro Ciência Viva da Universidade de Coi
+ mbra (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:em-destaque-6cb68-2026-11-14@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:EM Destaque
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/agenda
+URL:https://lykeion.pt/e/em-destaque-6cb68.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tardes-de-matematica-229a7-2026-11-14@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T150000
+SUMMARY:Tardes de Matemática
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/tardes-de-ma
+ tem%C3%A1tica-%E2%80%93-conversas-%C3%ADmpares
+URL:https://lykeion.pt/e/tardes-de-matematica-229a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pontos-nos-iii-0037b-2026-11-18@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T180000
+SUMMARY:Pontos nos iii
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/pontos-nos-i
+ ii
+URL:https://lykeion.pt/e/pontos-nos-iii-0037b.html
+END:VEVENT
+END:VCALENDAR

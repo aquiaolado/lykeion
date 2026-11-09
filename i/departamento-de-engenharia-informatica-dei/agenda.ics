@@ -6,6 +6,18 @@ X-WR-CALNAME:Departamento de Engenharia Informática (DEI) (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:prova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-ol-18cd9-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T140000
+SUMMARY:Prova de Doutoramento do aluno Daniel Alexandre Pratas de Oliveira
+LOCATION:Departamento de Engenharia Informática (DEI)
+DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
+ rova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-oliveira
+URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-daniel-alexandre-pr
+ atas-de-ol-18cd9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wednesdays-dei-talks-11-11-2026-167ab-2026-11-11@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261111
@@ -19,7 +31,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T100000
+DTSTART;VALUE=DATE:20261116
 SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p

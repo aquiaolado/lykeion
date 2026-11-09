@@ -446,7 +446,12 @@
   const mais = n => { const d = new Date(hoje() + "T12:00:00"); d.setDate(d.getDate() + n); return d.toISOString().slice(0, 10); };
   const prox = e => e.d.find(x => x >= hoje()) || (e.f >= hoje() ? hoje() : "");
   const FORA_S = new Set(["exposicao", "cinema-debate"]);
-  const util = e => prox(e) && !FORA_S.has(e.s) && (e.fa !== "divulgacao" || atual().sou === "outro");
+  // 9/11/2026 (Paulo: «estas secções mostram-me coisas de outros interesses»): o que a pessoa escondeu aqui (×) ou em «menos disto» não aparece
+  const escondidos = () => new Set(lerLS("lyk-esc", []));
+  const menos = () => { const m = (((window.LG && LG.gostos) || lerLS("lagenda-gostos", {})).lyk || {}).menos || {}; return { t: m.tipos || [], i: m.inst || [], a: m.areas || [] }; };
+  let ESC = escondidos(), MN = menos();
+  const util = e => prox(e) && !FORA_S.has(e.s) && (e.fa !== "divulgacao" || atual().sou === "outro") && !ESC.has(e.pg)
+    && !MN.t.includes(e.s) && !MN.i.some(i => D && pertence(e.in, i)) && !(e.a || []).concat(e.af || []).some(a => MN.a.includes(a));
   const porque = (e, p) => {
     const r = [];
     const i = p.insts.find(x => pertence(e.in, x.id)); if (i) r.push(["fac", i.nome]);
@@ -478,6 +483,7 @@
       `${e.m === "online" ? " · online" : ""}</span></span><span class="lyk-ev-ac">` +
       `<button type="button" class="lyk-g" data-guardar="${esc(e.pg)}" aria-pressed="${g}" title="Guardar" aria-label="Guardar">${g ? "★" : "☆"}</button>` +
       `<a href="${gcal(e)}" target="_blank" rel="noopener" title="Juntar ao Google Calendar">Calendário</a>` +
+      `<button type="button" class="lyk-esc" data-esconder="${esc(e.pg)}" title="Não me interessa: esconder" aria-label="Esconder este evento">×</button>` +
       (p.sou === "docente" ? `<button type="button" class="lyk-part" data-partilhar="${esc(e.pg)}" data-nome="${esc(e.n)}">Partilhar</button>` : "") + "</span></div>";
   };
   const lista = (xs, p, porDia = true) => {
@@ -491,9 +497,13 @@
   const prazos = (p, xs) => {
     const h0 = hoje();
     const cham = xs.filter(x => (x.e.pz || "") >= h0).map(x => ({ d: x.e.pz, n: "Chamada · " + x.e.n, q: (D.inst[x.e.in] || [])[1] || (D.inst[x.e.in] || [])[0] || x.e.l, u: B + "e/" + x.e.pg + ".html", r: x.r }));
-    const bol = (D.pzs || []).filter(r => !r[5] || !p.areas.length || p.areas.some(a => String(r[5]).split("|").includes(a)) || p.areas.some(a => String(r[5]).split("|").includes(paiDe(a))))
-      .map(r => ({ d: r[2], n: r[0], q: r[1] + (r[6] ? " · " + r[6] : ""), u: r[3], ext: 1, r: [] }));
-    return cham.concat(bol).sort((a, b) => a.d.localeCompare(b.d));
+    // bolsas e concursos: só os da área da pessoa; os que são para todas as áreas ficam à parte (geral), fora da coluna do lado
+    const daArea = r => { const ar = String(r[5] || "").split("|").filter(Boolean); const a = p.areas.find(x => ar.includes(x) || ar.includes(paiDe(x))); return a ? [["ar", curto(nomeArea(a))]] : null; };
+    const bol = (D.pzs || []).map(r => ({ d: r[2], n: r[0], q: r[1] + (r[6] ? " · " + r[6] : ""), u: r[3], ext: 1, r: daArea(r) || [], geral: !r[5] }))
+      .filter(z => z.r.length || (z.geral && !p.areas.length && !p.insts.length));
+    const meus_ = cham.concat(bol).sort((a, b) => a.d.localeCompare(b.d));
+    meus_.gerais = (D.pzs || []).filter(r => !r[5]).map(r => ({ d: r[2], n: r[0], q: r[1] + (r[6] ? " · " + r[6] : ""), u: r[3], ext: 1, r: [] })).filter(z => !meus_.some(y => y.u === z.u));
+    return meus_;
   };
   const linhaPz = z => { const f = faltam(z.d);
     return `<div class="lyk-ev"><span class="lyk-ev-h lyk-pz${f <= 7 ? " urg" : ""}">${dd(z.d)}</span><span class="lyk-ev-t"><a href="${esc(z.u)}"${z.ext ? ' target="_blank" rel="noopener"' : ""}><b>${esc(z.n)}</b></a>` +
@@ -509,17 +519,20 @@
     const N = { semana: sem.length, mes: m30.length, prazos: pz.length, provas: pv.length, tudo: xs.length };
     const SEP = [["semana", "Esta semana"], ["mes", "Próximos 30 dias"], ["prazos", "Prazos"], ["provas", "Provas"], ["tudo", "Tudo"]];
     let corpo;
-    if (sep === "prazos") corpo = pz.length ? pz.slice(0, mostrar).map(linhaPz).join("") + (pz.length > mostrar ? `<p><button type="button" class="bt" data-mais>Mostrar mais</button></p>` : "")
-      : '<p class="vazio">Sem prazos abertos para as suas escolhas.</p>';
+    if (sep === "prazos") corpo = (pz.length ? pz.slice(0, mostrar).map(linhaPz).join("") + (pz.length > mostrar ? `<p><button type="button" class="bt" data-mais>Mostrar mais</button></p>` : "")
+      : '<p class="vazio">Sem prazos abertos das suas escolhas.</p>')
+      + (pz.gerais && pz.gerais.length ? `<details class="lyk-gerais"><summary>Bolsas e concursos para todas as áreas (${pz.gerais.length})</summary>${pz.gerais.map(linhaPz).join("")}</details>` : "");
     else corpo = lista(sep === "semana" ? sem : sep === "mes" ? m30 : sep === "provas" ? pv : xs, p);
     if (sep === "semana" && !sem.length && m30.length) corpo = '<p class="sub">Nada marcado nos próximos sete dias. O que vem a seguir:</p>' + lista(m30.slice(0, 10), p);
     // a coluna do lado
     const pequeno = (titulo, ir, itens, f) => itens.length ? `<div class="lyk-lado-b"><h3>${titulo}${ir ? ` <button type="button" class="lyk-lig" data-sep="${ir}">todos</button>` : ""}</h3><ul>${itens.slice(0, 3).map(f).join("")}</ul></div>` : "";
-    const liE = x => `<li><span class="lyk-pz">${dd(prox(x.e))}</span><a href="${B}e/${x.e.pg}.html">${esc(x.e.n)}</a></li>`;
+    const mots = r => (r || []).map(([k, n]) => `<span class="lyk-mot ${k}">${esc(n)}</span>`).join("");
+    const liE = x => `<li><span class="lyk-pz">${dd(prox(x.e))}</span><a href="${B}e/${x.e.pg}.html">${esc(x.e.n)}</a> ${mots(x.r)} <button type="button" class="lyk-x" data-esconder="${esc(x.e.pg)}" title="Não me interessa: esconder" aria-label="Esconder">×</button></li>`;
+    const forte = (a, b) => b.r.length - a.r.length;  // primeiro o que bate em duas escolhas (instituição e área)
     const alunos = p.sou === "docente" ? xs.filter(x => prox(x.e) <= f7 && ["aula-aberta", "conferencia", "licao", "seminario", "coloquio"].includes(x.e.s)) : [];
-    const lado = pequeno("Prazos a fechar", "prazos", pz, z => `<li><span class="lyk-pz${faltam(z.d) <= 7 ? " urg" : ""}">${dd(z.d)}</span><a href="${esc(z.u)}"${z.ext ? ' target="_blank" rel="noopener"' : ""}>${esc(z.n)}</a></li>`)
-      + pequeno(p.areas.length ? "Provas na sua área" : "Provas", "provas", pv, liE)
-      + pequeno("Formação e escolas", "", xs.filter(x => x.e.fa === "formacao"), liE)
+    const lado = pequeno("Prazos a fechar", "prazos", pz, z => `<li><span class="lyk-pz${faltam(z.d) <= 7 ? " urg" : ""}">${dd(z.d)}</span><a href="${esc(z.u)}"${z.ext ? ' target="_blank" rel="noopener"' : ""}>${esc(z.n)}</a> ${mots(z.r)}</li>`)
+      + pequeno("Provas das suas escolhas", "provas", pv.slice().sort(forte), liE)
+      + pequeno("Formação e escolas", "", xs.filter(x => x.e.fa === "formacao").sort(forte), liE)
       + (p.sou === "docente" ? `<div class="lyk-lado-b"><h3>Para os seus alunos</h3><p class="sub">${alunos.length} aulas abertas, conferências e seminários esta semana nas suas escolhas.</p>` +
          `<button type="button" class="bt" data-partilhar-mesa>Copiar a ligação para a turma</button><p class="sub lyk-copiado" hidden></p></div>` : "")
       + (conta() && ((LG.gostos || {}).lyk || {}).semanal !== false
@@ -531,7 +544,7 @@
     const ver = p.areas.length === 1 && !p.insts.length ? box.dataset.area + p.areas[0] + "/" : p.insts.length === 1 && !p.areas.length ? inp.dataset.pag + p.insts[0].id + "/" : "";
     mesa.innerHTML = `<div class="lyk-sep" role="tablist">${SEP.map(([k, n]) => `<button type="button" role="tab" data-sep="${k}" aria-selected="${k === sep}">${n} <small>${N[k]}</small></button>`).join("")}</div>` +
       `<div class="lyk-mesa-c"><div class="lyk-mesa-l">${corpo}${sep === "tudo" && ver ? `<p class="sub"><a href="${ver}">A página completa, com centros e notícias</a></p>` : ""}</div><aside class="lyk-lado">${lado}</aside>` +
-      (fora.length ? `<p class="lyk-fora"><b>Fora das suas escolhas, esta semana${p.onde.length ? "" : " no país"}:</b> ${fora.map(e => `<a href="${B}e/${e.pg}.html">${esc(e.n)}</a>`).join(" · ")}</p>` : "") + "</div>";
+      (ESC.size ? `<p class="lyk-fora">${ESC.size} ${ESC.size === 1 ? "evento escondido" : "eventos escondidos"} · <button type="button" class="lyk-lig" data-mostrar-esc>Mostrar outra vez</button></p>` : "") + (fora.length ? `<p class="lyk-fora"><b>Fora das suas escolhas, esta semana${p.onde.length ? "" : " no país"}:</b> ${fora.map(e => `<a href="${B}e/${e.pg}.html">${esc(e.n)}</a>`).join(" · ")}</p>` : "") + "</div>";
     mesa.hidden = false; geral.hidden = true; document.body.classList.add("lyk-com-mesa");
   };
   const desenhaPerfil = () => {
@@ -568,6 +581,8 @@
     const al = t.closest("[data-alheia]"); if (al) { if (al.dataset.alheia === "guardar") { P = arrumar(alheia); guardar(); } alheia = null; history.replaceState(null, "", location.pathname); editar = vazio(P); tudo(); return; }
     const sp = t.closest("#lyk-mesa [data-sep]"); if (sp) { sep = sp.dataset.sep; mostrar = 30; gravarLS("lyk-sep", sep); desenhaMesa(); if (sp.closest(".lyk-lado")) mesa.scrollIntoView({ behavior: "smooth" }); return; }
     if (t.closest("#lyk-mesa [data-mais]")) { mostrar += 30; desenhaMesa(); return; }
+    const es = t.closest("#lyk-mesa [data-esconder]"); if (es) { ESC.add(es.dataset.esconder); gravarLS("lyk-esc", [...ESC].slice(-500)); desenhaMesa(); return; }
+    if (t.closest("#lyk-mesa [data-mostrar-esc]")) { ESC = new Set(); gravarLS("lyk-esc", []); desenhaMesa(); return; }
     const g = t.closest("#lyk-mesa .lyk-g"); if (g) { const id = g.dataset.guardar; let gs = guard(); const on = !gs.includes(id); gs = on ? gs.concat(id) : gs.filter(x => x !== id);
       gravarLS("lagenda-guardados", gs); g.setAttribute("aria-pressed", on); g.textContent = on ? "★" : "☆"; const n = $("nguard"); if (n) n.textContent = gs.length || ""; return; }
     const pa = t.closest("[data-partilhar]"); if (pa) { const url = location.origin + B + "e/" + pa.dataset.partilhar + ".html";
@@ -578,8 +593,9 @@
   const copiar = (txt, fim) => { try { navigator.clipboard.writeText(txt).then(() => fim(true), () => fim(false)); } catch (_) { fim(false); } };
 
   // com conta: as escolhas vão para a conta e vêm da conta (vale o que foi mudado por último)
+  document.addEventListener("lykeion:gostos", () => { MN = menos(); desenhaMesa(); });
   document.addEventListener("lagenda:conta", ev => {
-    const d = ev.detail || {}; if (!d.conta) return;
+    const d = ev.detail || {}; MN = menos(); if (!d.conta) { desenhaMesa(); return; }
     const s = arrumar(((d.gostos || {}).lyk || {}).porta);
     if (!vazio(s) && (s.t > P.t || vazio(P))) { P = s; gravarLS("lyk-porta", P); editar = false; tudo(); }
     else if (!vazio(P) && (P.t > s.t) && LG.gravarPorta) LG.gravarPorta({ areas: P.areas, insts: P.insts, sou: P.sou, t: P.t });

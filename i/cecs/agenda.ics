@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CECS (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-antonio-ferreira-07255-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T140000
+SUMMARY:Provas de Doutoramento de António Ferreira
+LOCATION:Centro de Estudos de Comunicação e Sociedade\, Braga
+DESCRIPTION:https://www.cecs.uminho.pt/provas-de-doutoramento-de-antonio-fe
+ rreira/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-antonio-ferreira-07255.h
+ tml
+END:VEVENT
+END:VCALENDAR

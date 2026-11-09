@@ -6,19 +6,6 @@ X-WR-CALNAME:IST (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:2-o-encontro-dos-embaixadores-e-embaixadoras-dos-valores-ori-d5ba5-2026
- -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T160000
-SUMMARY:2.º Encontro dos Embaixadores e Embaixadoras dos Valores Orientado
- res do Técnico
-LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/2-o-encontro-dos-embaixad
- ores-e-embaixadoras-dos-valores-orientadores-do-tecnico/
-URL:https://lykeion.pt/e/2-o-encontro-dos-embaixadores-e-embaixadoras-dos-v
- alores-ori-d5ba5.html
-END:VEVENT
-BEGIN:VEVENT
 UID:estudantes-do-deec-levam-a-engenharia-a-web-summit-2026-db050-2026-11-1
  0@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -31,6 +18,18 @@ URL:https://lykeion.pt/e/estudantes-do-deec-levam-a-engenharia-a-web-summit
  -2026-db050.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-ol-18cd9-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T140000
+SUMMARY:Prova de Doutoramento do aluno Daniel Alexandre Pratas de Oliveira
+LOCATION:Departamento de Engenharia Informática (DEI)
+DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
+ rova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-oliveira
+URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-daniel-alexandre-pr
+ atas-de-ol-18cd9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wednesdays-dei-talks-11-11-2026-167ab-2026-11-11@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261111
@@ -39,17 +38,6 @@ LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/dei-quartas/wednesdaysde
  i-talks-11-11-2026
 URL:https://lykeion.pt/e/wednesdays-dei-talks-11-11-2026-167ab.html
-END:VEVENT
-BEGIN:VEVENT
-UID:adaptive-mesh-refinement-in-gpluto-on-staggered-grids-edbc1-2026-11-12@
- lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T143000
-SUMMARY:Adaptive Mesh Refinement in gPLUTO on staggered grids
-LOCATION:Centro de Astrofísica e Gravitação (CENTRA)
-DESCRIPTION:https://centra.tecnico.ulisboa.pt/events/?id=1287
-URL:https://lykeion.pt/e/adaptive-mesh-refinement-in-gpluto-on-staggered-gr
- ids-edbc1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-mendeley-revisitado-descubra-o-novo-mendeley-referen-df43a-2026
@@ -81,7 +69,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T100000
+DTSTART;VALUE=DATE:20261116
 SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p

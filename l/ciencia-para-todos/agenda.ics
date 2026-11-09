@@ -564,16 +564,6 @@ DESCRIPTION:https://www.up.pt/eventos/event/Ciclo
 URL:https://lykeion.pt/e/ciclo-de-cinema-bioetica-da-fmup-5586d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:eficiencia-energetica-na-pratica-a0aef-2026-11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Eficiência Energética na Prática
-LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
-DESCRIPTION:https://www.ccvfloresta.com/actividades/cafes-de-ciencia/607-ef
- iciencia-energetica
-URL:https://lykeion.pt/e/eficiencia-energetica-na-pratica-a0aef.html
-END:VEVENT
-BEGIN:VEVENT
 UID:cafe-com-ciencia-8-d3fea-2026-11-14@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T150000
@@ -603,6 +593,16 @@ DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
 URL:https://lykeion.pt/e/cores-e-sabores-do-outono-093f1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:em-destaque-6cb68-2026-11-14@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:EM Destaque
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/agenda
+URL:https://lykeion.pt/e/em-destaque-6cb68.html
+END:VEVENT
+BEGIN:VEVENT
 UID:feira-da-ciencia-do-nordeste-5641d-2026-11-14@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -619,6 +619,17 @@ SUMMARY:Planetário do Porto- 3CLIPSE
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
 DESCRIPTION:
 URL:https://lykeion.pt/e/planetario-do-porto-3clipse-0641e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tardes-de-matematica-229a7-2026-11-14@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T150000
+SUMMARY:Tardes de Matemática
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/tardes-de-ma
+ tem%C3%A1tica-%E2%80%93-conversas-%C3%ADmpares
+URL:https://lykeion.pt/e/tardes-de-matematica-229a7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-volte-face-de-vasco-futscher-ate-15-de-novembro-ar-463e7-2026
@@ -724,6 +735,17 @@ DESCRIPTION:https://conservatoriodebraga.pt/events/observacao-da-lua-com-te
 URL:https://lykeion.pt/e/observacao-da-lua-com-telescopio-dc325.html
 END:VEVENT
 BEGIN:VEVENT
+UID:pontos-nos-iii-0037b-2026-11-18@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T180000
+SUMMARY:Pontos nos iii
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/pontos-nos-i
+ ii
+URL:https://lykeion.pt/e/pontos-nos-iii-0037b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:corredor-do-edificio-principal-da-esac-exposicao-de-fotograf-3e2b7-2026
  -11-19@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -759,16 +781,6 @@ LOCATION:Politécnico de Leiria\, Leiria
 DESCRIPTION:https://www.ipleiria.pt/ulo-promove-open-day-industry-20-de-nov
  embro-2026-inscricoes-abertas/
 URL:https://lykeion.pt/e/ulo-promove-open-day-industry-20741.html
-END:VEVENT
-BEGIN:VEVENT
-UID:naturia-secreta-6b034-2026-11-21@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261121T183000
-SUMMARY:Naturia Secreta
-LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
-DESCRIPTION:https://www.ccvfloresta.com/actividades/exposicoes-temporarias/
- 319-naturia-secreta
-URL:https://lykeion.pt/e/naturia-secreta-6b034.html
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-o-sol-a-nossa-estrela-7d0be-2026-11-21@lagenda.pt

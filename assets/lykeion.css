@@ -411,3 +411,6 @@ body.lyk{
 .lyk .lyk-onde .lyk-lig{font-size:.82rem;margin-left:.2rem}
 @media (max-width:820px){.lyk .lyk-porta>span small{display:inline;margin-left:.3rem}}
 @media (max-width:820px){.lyk .lyk-porta .lyk-finas{flex-wrap:nowrap;overflow-x:auto}.lyk .lyk-finas .ch{white-space:nowrap}}
+.lyk .lyk-ev-ac .lyk-esc{font-weight:600;padding:.2rem .4rem}
+.lyk .lyk-lado-b li .lyk-mot{margin:0 0 0 .2rem;font-size:.58rem}
+.lyk .lyk-gerais{margin-top:1rem}.lyk .lyk-gerais summary{cursor:pointer;color:var(--suave);padding:.4rem 0}

@@ -12,7 +12,7 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:Aula Aberta “Intervenção Psicológica nas Perturbações do Com
  portamento Alimentar
-LOCATION:Departamento de Ciência e Tecnologia\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/intervencao-psicologica-nas-perturbac
  oes-do-comportamento-alimentar/
 URL:https://lykeion.pt/e/aula-aberta-intervencao-psicologica-nas-perturbaco
@@ -34,10 +34,10 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-psicologia-social-do-trabalho-e-das-or-41015-2026
  -11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
+DTSTART;TZID=Europe/Lisbon:20261109T130000
 SUMMARY:Provas de Mestrado em Psicologia Social\, do Trabalho e das Organiz
  ações
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+LOCATION:Universidade do Algarve\, Faro
 DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-psicologia-social-do-
  trabalho-e-das-organizacoes-57
 URL:https://lykeion.pt/e/provas-de-mestrado-em-psicologia-social-do-trabalh
@@ -80,6 +80,18 @@ LOCATION:Centro de Investigação em Ciência Psicológica
 DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-beatriz-helena-vieira-da-sil
  va-rosado-6d7b3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-doutoramento-de-vanessa-de-andrade-barbosa-moutinho-a3f20-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Prova de Doutoramento de Vanessa de Andrade Barbosa Moutinho
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.psi.uminho.pt/pt/ensino/_layouts/15/UMinho.PortaisU
+ OEI.UI/Pages/EventsDetail.aspx?id=69629
+URL:https://lykeion.pt/e/prova-de-doutoramento-de-vanessa-de-andrade-barbos
+ a-moutinho-a3f20.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-ferreira-leitao-psicologi-26990-2026
@@ -227,6 +239,19 @@ DESCRIPTION:https://www.iseg.ulisboa.pt/2026/10/ulisboa-promove-conversas-d
  e-sofa-sobre-ia-e-saude-mental/
 URL:https://lykeion.pt/e/ulisboa-promove-conversas-de-sofa-sobre-ia-e-saude
  -mental-73ac4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ipdj-e-antonio-raminhos-juntam-se-para-lancar-o-podcast-cuid-4264f-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T141500
+SUMMARY:IPDJ e António Raminhos juntam-se para lançar o podcast «Cuida-t
+ e» e levar a saúde mental em digressão pelo país
+LOCATION:Instituto Português do Desporto e Juventude IP
+DESCRIPTION:https://ipdj.gov.pt/-/ipdj-e-raminhos-juntam-se-para-lancar-pod
+ cast-sobre-saude-mental
+URL:https://lykeion.pt/e/ipdj-e-antonio-raminhos-juntam-se-para-lancar-o-po
+ dcast-cuid-4264f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-mota-de-campos-lisboa-de-lim-2aa24-2026

@@ -6,6 +6,17 @@ X-WR-CALNAME:Provas de doutoramento (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:provas-de-doutoramento-de-antonio-ferreira-07255-2026-11-09@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261109T140000
+SUMMARY:Provas de Doutoramento de António Ferreira
+LOCATION:Centro de Estudos de Comunicação e Sociedade\, Braga
+DESCRIPTION:https://www.cecs.uminho.pt/provas-de-doutoramento-de-antonio-fe
+ rreira/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-antonio-ferreira-07255.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-celia-maria-ferreira-guerra-cascai-64c83-2026
  -11-09@lagenda.pt
 DTSTAMP:20261109T000000Z
@@ -16,6 +27,18 @@ LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-celia-maria-ferreira-gue
  rra-cascai-64c83.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-ol-18cd9-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T140000
+SUMMARY:Prova de Doutoramento do aluno Daniel Alexandre Pratas de Oliveira
+LOCATION:Departamento de Engenharia Informática (DEI)
+DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
+ rova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-oliveira
+URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-daniel-alexandre-pr
+ atas-de-ol-18cd9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-doencas-tropicais-e-saude-global-l-513fa-2026
@@ -41,6 +64,18 @@ LOCATION:Faculdade de Direito da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fduc/provas-academicas/
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-mestre-andre-fagundes-do
  utoramento-ff137.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-doutoramento-de-vanessa-de-andrade-barbosa-moutinho-a3f20-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Prova de Doutoramento de Vanessa de Andrade Barbosa Moutinho
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.psi.uminho.pt/pt/ensino/_layouts/15/UMinho.PortaisU
+ OEI.UI/Pages/EventsDetail.aspx?id=69629
+URL:https://lykeion.pt/e/prova-de-doutoramento-de-vanessa-de-andrade-barbos
+ a-moutinho-a3f20.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-liposomes-as-delivery-vectors-of-nucl-0c9bb-2026
@@ -147,7 +182,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T100000
+DTSTART;VALUE=DATE:20261116
 SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
@@ -320,6 +355,20 @@ DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
  84254
 URL:https://lykeion.pt/e/provas-de-doutoramento-em-biotecnologia-molecular-
  e-celular-fbc57.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-marco-serafi-extending-the-akt-tar-f606b-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Provas de doutoramento de Marco Serafi — Extending The Akt-target
+ ing Pharmacological Toolbox With Proteolysis Targeting Chimeric Molecules 
+ (PROTACS)
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/categoria/ensino/ensino-estudar-na-ff
+ ul/provas-academicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-marco-serafi-extending-t
+ he-akt-tar-f606b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-tiago-miguel-costa-nunes-pinto-2f962-2026-11-

@@ -47,6 +47,18 @@ DESCRIPTION:https://www.iseg.ulisboa.pt/event/jornadas-de-outono-de-maeg-7/
 URL:https://lykeion.pt/e/jornadas-de-outono-de-maeg-86b64.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-ol-18cd9-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T140000
+SUMMARY:Prova de Doutoramento do aluno Daniel Alexandre Pratas de Oliveira
+LOCATION:Departamento de Engenharia Informática (DEI)
+DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
+ rova-de-doutoramento-do-aluno-daniel-alexandre-pratas-de-oliveira
+URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-daniel-alexandre-pr
+ atas-de-ol-18cd9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:16-00-coloquio-coloquio-de-matematica-e9574-2026-11-11@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T160000
@@ -80,6 +92,17 @@ DESCRIPTION:https://www.iseg.ulisboa.pt/event/research-seminar-financial-de
 URL:https://lykeion.pt/e/research-seminar-fb22c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:tardes-de-matematica-229a7-2026-11-14@lagenda.pt
+DTSTAMP:20261109T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T150000
+SUMMARY:Tardes de Matemática
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/tardes-de-ma
+ tem%C3%A1tica-%E2%80%93-conversas-%C3%ADmpares
+URL:https://lykeion.pt/e/tardes-de-matematica-229a7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:investigacao-estatistica-no-contexto-real-121e5-2026-11-16@lagenda.pt
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T160000
@@ -94,7 +117,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T100000
+DTSTART;VALUE=DATE:20261116
 SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
