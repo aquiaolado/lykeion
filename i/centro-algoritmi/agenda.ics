@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ALGORITMI (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:roboparty-2026-de-25-a-27-de-marco-ha-uma-enorme-surpresa-co-6cf5d-2027
+ -03-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270325
+SUMMARY:RoboParty 2026: de 25 a 27 de março. Há uma enorme surpresa com r
+ obôs humanoides
+LOCATION:Centro ALGORITMI\, Guimarães
+DESCRIPTION:https://algoritmi.uminho.pt/news/roboparty-2026-de-25-a-27-de-m
+ arco-ha-uma-enorme-surpresa-com-robos-humanoides/
+URL:https://lykeion.pt/e/roboparty-2026-de-25-a-27-de-marco-ha-uma-enorme-s
+ urpresa-co-6cf5d.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CLISSIS (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:aula-aberta-4-garantir-o-bem-estar-no-8556e-2026-12-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Aula aberta #4 — Garantir o bem-estar no...
+LOCATION:CLISSIS\, Vila Nova de Famalicão
+DESCRIPTION:https://web3.lis.ulusiada.pt/news/Home/Detalhe/Detalhes/aula-ab
+ erta-4-garantir-o-bem-estar-no-sistema-de-prote231227o-social-portugu234s-
+ desafios-para-o-servi231o-social-mestre-cid225lia-craveiro
+URL:https://lykeion.pt/e/aula-aberta-4-garantir-o-bem-estar-no-8556e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-aulas-abertas-3-inteligencia-efa80-2026-12-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Ciclo de aulas abertas #3 — Inteligência...
+LOCATION:CLISSIS\, Vila Nova de Famalicão
+DESCRIPTION:https://web3.lis.ulusiada.pt/news/Home/Detalhe/Detalhes/ciclo-d
+ e-aulas-abertas-3-intelig234ncia-artificial-direitos-humanos-e-pol237tica-
+ social-garantir-direitos-numa-sociedade-algor237tmica-filipa-aguiar-a-conf
+ irmar
+URL:https://lykeion.pt/e/ciclo-de-aulas-abertas-3-inteligencia-efa80.html
+END:VEVENT
+END:VCALENDAR

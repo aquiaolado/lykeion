@@ -10,8 +10,8 @@ UID:17-00-conferencia-desigualdades-urbanas-mobilidade-pedonal-e-1c7ee-2026
  -11-10@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T170000
-SUMMARY:17:00 Conferência Desigualdades Urbanas\, Mobilidade Pedonal e Bem
- -estar Mental
+SUMMARY:Conferência Desigualdades Urbanas\, Mobilidade Pedonal e Bem-estar
+  Mental
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/desigualdades-urbanas-mobil
  idade-pedonal-e-bem-estar-mental-uma-abordagem-em-ciencia-da-informacao-ge
@@ -20,35 +20,23 @@ URL:https://lykeion.pt/e/17-00-conferencia-desigualdades-urbanas-mobilidade
  -pedonal-e-1c7ee.html
 END:VEVENT
 BEGIN:VEVENT
-UID:14-00-palestra-palavras-que-me-servem-afe23-2026-11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T140000
-SUMMARY:14:00 Palestra Palavras que me servem
-LOCATION:Faculdade de Ciências da Universidade de Lisboa
-DESCRIPTION:https://ciencias.ulisboa.pt/eventos/palavras-que-me-servem
-URL:https://lykeion.pt/e/14-00-palestra-palavras-que-me-servem-afe23.html
-END:VEVENT
-BEGIN:VEVENT
 UID:16-00-coloquio-coloquio-de-matematica-e9574-2026-11-11@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T160000
-SUMMARY:16:00 Colóquio Colóquio de Matemática
+SUMMARY:Colóquio Colóquio de Matemática
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/coloquio-de-matematica-maks
  on
 URL:https://lykeion.pt/e/16-00-coloquio-coloquio-de-matematica-e9574.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-numerical-weather-prediction-in-portugal-2024-c47eb-2026-11-14
- @lagenda.pt
+UID:14-00-palestra-palavras-que-me-servem-afe23-2026-11-11@lagenda.pt
 DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Workshop: Numerical Weather Prediction in Portugal 2024
-LOCATION:Instituto Dom Luiz
-DESCRIPTION:https://idl.ciencias.ulisboa.pt/instituto-dom-luiz-news/worksho
- p-numerical-weather-prediction-in-portugal-2024
-URL:https://lykeion.pt/e/workshop-numerical-weather-prediction-in-portugal-
- 2024-c47eb.html
+DTSTART;TZID=Europe/Lisbon:20261111T140000
+SUMMARY:Palestra Palavras que me servem
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/palavras-que-me-servem
+URL:https://lykeion.pt/e/14-00-palestra-palavras-que-me-servem-afe23.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ibeb-no-19o-congresso-do-comite-portugues-da-ursi-com-direit-aa174-2026
@@ -62,5 +50,29 @@ DESCRIPTION:https://ibeb.ciencias.ulisboa.pt/ibeb-no-19o-congresso-do-comit
  e-portugues-da-ursi-com-direito-a-premio/
 URL:https://lykeion.pt/e/ibeb-no-19o-congresso-do-comite-portugues-da-ursi-
  com-direit-aa174.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ibeb-na-9-a-conferencia-anual-da-redesaude-9a47e-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:IBEB na 9.ª Conferência Anual da RedeSAÚDE
+LOCATION:Instituto de Biofísica e Engenharia Biomédica (IBEB)
+DESCRIPTION:https://ibeb.ciencias.ulisboa.pt/ibeb-na-9-a-conferencia-anual-
+ da-redesaude/
+URL:https://lykeion.pt/e/ibeb-na-9-a-conferencia-anual-da-redesaude-9a47e.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:homenagem-publica-de-jubilacao-e-ultima-licao-do-professor-p-0fc3d-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T093000
+SUMMARY:Homenagem pública de jubilação e última lição do Professor Pe
+ dro Miranda
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://idl.ciencias.ulisboa.pt/instituto-dom-luiz-news/homenag
+ em-pblica-de-jubilao-e-ltima-lio-do-professor-pedro-miranda
+URL:https://lykeion.pt/e/homenagem-publica-de-jubilacao-e-ultima-licao-do-p
+ rofessor-p-0fc3d.html
 END:VEVENT
 END:VCALENDAR

@@ -19,20 +19,6 @@ URL:https://lykeion.pt/e/10-11-26-conferencia-abretciencia-6-protecao-de-da
  dos-em-inv-2e93d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ed-10-11-26-webinar-perspectivas-da-comunidade-ia-na-escrita-0be5f-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T170000
-SUMMARY:ED 10.11.26 Webinar: Perspectivas da Comunidade: IA na Escrita Acad
- émica e Publicação Científica 10 novembro Online
-LOCATION:Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/iii/ensino/escolas-doutorais/agenda/webinar-p
- erspectivas-da-comunidade-conceber-a-sua-investigacao-com-o-apoio-da-ia-se
- t-1/
-URL:https://lykeion.pt/e/ed-10-11-26-webinar-perspectivas-da-comunidade-ia-
- na-escrita-0be5f.html
-END:VEVENT
-BEGIN:VEVENT
 UID:eprm-webinar-0a0f3-2026-11-10@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
@@ -54,6 +40,20 @@ DESCRIPTION:https://colab4food.com/events/envelhecer-no-seculo-xxi-desafios
  -e-oportunidades/
 URL:https://lykeion.pt/e/webinar-envelhecer-no-seculo-xxi-desafios-e-oportu
  nidades-02d8e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ed-10-11-26-webinar-perspectivas-da-comunidade-ia-na-escrita-0be5f-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T170000
+SUMMARY:Webinar: Perspectivas da Comunidade: IA na Escrita Académica e Pub
+ licação Científica 10 novembro Online
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/iii/ensino/escolas-doutorais/agenda/webinar-p
+ erspectivas-da-comunidade-conceber-a-sua-investigacao-com-o-apoio-da-ia-se
+ t-1/
+URL:https://lykeion.pt/e/ed-10-11-26-webinar-perspectivas-da-comunidade-ia-
+ na-escrita-0be5f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-kreativeu-patrimonio-e-transformacoes-sociais-6f21c-2026-11-11
@@ -110,24 +110,12 @@ BEGIN:VEVENT
 UID:webinar-55e40-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T140000
-SUMMARY:Webinar
+SUMMARY:Webinar retomar o controlo do sistema de comunicação científica 
+ desafios e oportunidades
 LOCATION:Biblioteca Francisco Pereira de Moura
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/webinar-retomar-o-controlo-do
  -sistema-de-comunicacao-cientifica-desafios-e-oportunidades/
 URL:https://lykeion.pt/e/webinar-55e40.html
-END:VEVENT
-BEGIN:VEVENT
-UID:13-november-2026-xtremers-symposium-on-body-as-interface-for-5c074-2026
- -11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:13 November 2026 XTREMERS — Symposium on Body as Interface for Ex
- treme Users conferência Faculdade de Belas Artes\, Universidade do Porto 
- + Online
-LOCATION:Universidade do Porto\, Porto
-DESCRIPTION:https://i2ads.up.pt/eventos/xtremers/
-URL:https://lykeion.pt/e/13-november-2026-xtremers-symposium-on-body-as-int
- erface-for-5c074.html
 END:VEVENT
 BEGIN:VEVENT
 UID:drca-webinar-comercio-eletronico-84263-2026-11-13@lagenda.pt
@@ -214,6 +202,18 @@ URL:https://lykeion.pt/e/webinar-mendeley-revisitado-descubra-o-novo-mendel
  ey-referen-df43a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:13-november-2026-xtremers-symposium-on-body-as-interface-for-5c074-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:XTREMERS — Symposium on Body as Interface for Extreme Users confe
+ rência Faculdade de Belas Artes\, Universidade do Porto + Online
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:https://i2ads.up.pt/eventos/xtremers/
+URL:https://lykeion.pt/e/13-november-2026-xtremers-symposium-on-body-as-int
+ erface-for-5c074.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ciclo-de-webinarios-de-protecao-de-dados-23-60936-2026-11-14@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T120000
@@ -280,7 +280,8 @@ BEGIN:VEVENT
 UID:webinar-7f14e-2026-11-16@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T113000
-SUMMARY:Webinar
+SUMMARY:Webinar the ocean begins within us small gestures Big changes a pla
+ net to Save
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
 DESCRIPTION:https://www.ciimar.up.pt/events/webinar-the-ocean-begins-within
@@ -382,7 +383,7 @@ BEGIN:VEVENT
 UID:webinar-c1713-2026-11-18@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T180000
-SUMMARY:Webinar
+SUMMARY:Webinar nutrição e cancro
 LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
 DESCRIPTION:https://www.spedm.pt/pt/agenda/webinar-nutricao-e-cancro
 URL:https://lykeion.pt/e/webinar-c1713.html
@@ -514,7 +515,7 @@ BEGIN:VEVENT
 UID:webinar-6934b-2026-11-23@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T180000
-SUMMARY:Webinar
+SUMMARY:Webinar alterações ionicas nos doentes com cancro
 LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
 DESCRIPTION:https://www.spedm.pt/pt/agenda/webinar-alteracoes-ionicas-nos-d
  oentes-com-cancro
@@ -524,10 +525,838 @@ BEGIN:VEVENT
 UID:webinar-1d6bb-2026-11-23@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T093000
-SUMMARY:Webinar
+SUMMARY:Webinar · Centro Interdisciplinar de Investigação Marinha e Ambi
+ ental
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
 DESCRIPTION:https://www.ciimar.up.pt/events/3rd-insectera-congress/
 URL:https://lykeion.pt/e/webinar-1d6bb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-economia-circular-na-aquacultura-dos-ingrediente-8ec2a-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Conferência: Economia circular na aquacultura: dos ingredientes al
+ ternativos nas rações à valorização de coprodutos de pescado - Webina
+ r
+LOCATION:Rua de Pedro Soares\, Beja
+DESCRIPTION:https://us02web.zoom.us/meeting/register/4YHwJzpfQaCsOFzuGyzLTQ
+ #/registration
+URL:https://lykeion.pt/e/conferencia-economia-circular-na-aquacultura-dos-i
+ ngrediente-8ec2a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-ciclo-de-conferencias-elisabete-matos-24-novembro-20-f6e7a-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T143000
+SUMMARY:Webinar | Ciclo de Conferências | Elisabete Matos | 24 novembro 20
+ 26 | 14h30
+LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
+ eja
+DESCRIPTION:http://www.cebal.pt/index.php/en/18-destaque/437-webinar-ciclo-
+ de-conferencias-elisabete-matos-24-novembro-2026-14h30
+URL:https://lykeion.pt/e/webinar-ciclo-de-conferencias-elisabete-matos-24-n
+ ovembro-20-f6e7a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-medos-e-fobias-a-ruidos-em-caes-da-prevencao-ao-trat-c014e-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T180000
+SUMMARY:Webinar: Medos e fobias a ruídos em cães\, da prevenção ao trat
+ amento
+LOCATION:Associação Portuguesa de Médicos Veterinários Especialistas em
+  Animais de Companhia
+DESCRIPTION:https://apmveac.pt/evento/webinar-medos-e-fobias-a-ruidos/
+URL:https://lykeion.pt/e/webinar-medos-e-fobias-a-ruidos-em-caes-da-prevenc
+ ao-ao-trat-c014e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-seminar-c30a8-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Lunch Seminar · Centro de Investigação em Ciências da Saúde
+LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
+DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/993
+URL:https://lykeion.pt/e/lunch-seminar-c30a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-realidade-virtual-desafios-e-oportunidades-c1bca-2026-11
+ -25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Portas abertas: Realidade Virtual: Desafios e Oportunidades
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/portas-abertas-realidade-virtual-desafios-e-oportu
+ nidades-c1bca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-mendeley-essencial-e-complementar-549f9-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T100000
+SUMMARY:Webinar – Mendeley essencial e complementar
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-mendeley-essen
+ cial-e-complementar/
+URL:https://lykeion.pt/e/webinar-mendeley-essencial-e-complementar-549f9.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-umdiacom-catarina-prista-webinar-48b95-2026-11-27@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Conferência: UmDiaCom... Catarina Prista - Webinar
+LOCATION:R. de Pedro Soares\, Beja
+DESCRIPTION:https://us02web.zoom.us/j/83211218401
+URL:https://lykeion.pt/e/conferencia-umdiacom-catarina-prista-webinar-48b95
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-umdiacom-catarina-prista-27-novembro-2026-11h30-578a3-2026-11-2
+ 7@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T113000
+SUMMARY:Webinar | UmDiaCom... Catarina Prista | 27 novembro 2026 | 11h30
+LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
+ eja
+DESCRIPTION:http://www.cebal.pt/index.php/en/2-uncategorised/438-webinar-um
+ diacom-catarina-prista-27-novembro-2026-11h30
+URL:https://lykeion.pt/e/webinar-umdiacom-catarina-prista-27-novembro-2026-
+ 11h30-578a3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plataforma-teams-aula-aberta-6c6d0-2026-11-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T113000
+SUMMARY:Plataforma Teams Aula aberta
+LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
+  Coimbra
+DESCRIPTION:https://www.iscac.pt/eventos/aula-aberta-direito-a-habitacao-re
+ gime-do-arrendamento-urbando-e-regime-simplificado-de-arrendamento-acessiv
+ el/
+URL:https://lykeion.pt/e/plataforma-teams-aula-aberta-6c6d0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-mendeley-revisitado-descubra-o-novo-mendeley-referen-df43a-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T153000
+SUMMARY:Webinar – Mendeley revisitado: descubra o novo Mendeley Reference
+  Manager – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-mendeley-revis
+ itado-descubra-o-novo-mendeley-reference-manager-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-mendeley-revisitado-descubra-o-novo-mendel
+ ey-referen-df43a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ese-talks-rare-diseases-men-1-a-joint-webinar-from-ese-endo-382b5-2026-
+ 11-29@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:ESE Talks... Rare Diseases: MEN-1 - a joint webinar from ESE\, Endo
+ -ERN and ESPE
+LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
+DESCRIPTION:https://www.spedm.pt/pt/agenda/ese-talks-rare-diseases-men-1--a
+ -joint-webinar-from-ese-endo-ern-and-espe
+URL:https://lykeion.pt/e/ese-talks-rare-diseases-men-1-a-joint-webinar-from
+ -ese-endo-382b5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-seguros-na-era-da-inteligencia-artificial-6cf4c-2026-11-29@lage
+ nda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T190000
+SUMMARY:Webinar “Seguros na era da Inteligência Artificial
+LOCATION:Instituto de Estudos Superiores Financeiros e Fiscais\, Porto
+DESCRIPTION:https://www.abs.pt/webinar-seguros-na-era-da-inteligencia-artif
+ icial/
+URL:https://lykeion.pt/e/webinar-seguros-na-era-da-inteligencia-artificial-
+ 6cf4c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-web-of-science-introducao-aos-recursos-e-funcionalid-a288b-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T100000
+SUMMARY:Webinar – Web of Science: introdução aos recursos e funcionalid
+ ades
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-web-of-science
+ -introducao-aos-recursos-e-funcionalidades/
+URL:https://lykeion.pt/e/webinar-web-of-science-introducao-aos-recursos-e-f
+ uncionalid-a288b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinars-bsc-in-politics-international-relations-11-nov-09349-2026-12-0
+ 2@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Webinars BSc in Politics & International Relations 11 Nov.
+LOCATION:Forward College
+DESCRIPTION:https://zoom.us/webinar/register/WN_u2xC1R9ZTb6njGILvZZHgg
+URL:https://lykeion.pt/e/webinars-bsc-in-politics-international-relations-1
+ 1-nov-09349.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-introducao-ao-zotero-via-zoom-meeting-770e6-2026-12-04@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T153000
+SUMMARY:Webinar – Introdução ao Zotero – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-introducao-ao-
+ zotero-via-zoom-meeting-3/
+URL:https://lykeion.pt/e/webinar-introducao-ao-zotero-via-zoom-meeting-770e
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-tertulia-online-6a6fa-2026-12-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261205T110000
+SUMMARY:Workshop - Tertúlia Online
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ t%C3%BAlia-online-vamos-conversar-sobre-%E2%80%9Cacolhimento-familiar-e-ad
+ op%C3%A7%C3%A3o%E2%80%9D
+URL:https://lykeion.pt/e/workshop-tertulia-online-6a6fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:reenquadrar-o-defice-linguistico-licoes-da-nova-estrategia-e-a4297-2026
+ -12-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261208T150000
+SUMMARY:Reenquadrar o défice linguístico: lições da nova estratégia es
+ cocesa de integração restaurativa de refugiados Webinar
+LOCATION:Centro de Investigação e Estudos de Sociologia
+DESCRIPTION:https://cies.iscte.pt/np4/5023.html
+URL:https://lykeion.pt/e/reenquadrar-o-defice-linguistico-licoes-da-nova-es
+ trategia-e-a4297.html
+END:VEVENT
+BEGIN:VEVENT
+UID:reframing-linguistic-deficit-lessons-from-the-new-scots-rest-f0acf-2026
+ -12-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261208T150000
+SUMMARY:Reframing Linguistic Deficit: Lessons from the New Scots Restorativ
+ e Refugee Integration Strategy Webinar
+LOCATION:Centre for Research and Studies in Sociology
+DESCRIPTION:https://www.cies.iscte-iul.pt/np4EN/5023.html
+URL:https://lykeion.pt/e/reframing-linguistic-deficit-lessons-from-the-new-
+ scots-rest-f0acf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:site-webinar-insolvens-thumbnail-1-b01fe-2026-12-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T093000
+SUMMARY:III conferência do in SOLVENS
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/iii-conferencia-do-in_solvens/
+URL:https://lykeion.pt/e/site-webinar-insolvens-thumbnail-1-b01fe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-introducao-ao-excel-funcoes-essenciais-af6e7-2026-12-09@lagenda
+ .pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T140000
+SUMMARY:Webinar – Introdução ao Excel: funções essenciais
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-introducao-ao-
+ excel-funcoes-essenciais/
+URL:https://lykeion.pt/e/webinar-introducao-ao-excel-funcoes-essenciais-af6
+ e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-webinars-acupuntura-em-oncologia-fa4a4-2026-12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Ciclo de Webinars - Acupuntura em Oncologia
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/ciclo-de-webinars-acupuntura-
+ em-oncologia/
+URL:https://lykeion.pt/e/ciclo-de-webinars-acupuntura-em-oncologia-fa4a4.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:universidade-politecnica-de-santarem-recebe-conferencia-inte-6051e-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Universidade Politécnica de Santarém recebe conferência internac
+ ional sobre Cuidado Integrado em Saúde
+LOCATION:Instituto Politécnico de Santarém\, Santarém
+DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
+ recebe-conferencia-internacional-sobre-cuidado-integrado-em-saude/
+URL:https://lykeion.pt/e/universidade-politecnica-de-santarem-recebe-confer
+ encia-inte-6051e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-este-natal-em-seguranca-52793-2026-12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T110000
+SUMMARY:Webinar | “Este Natal\, em Segurança
+LOCATION:OPCSa
+DESCRIPTION:https://opcsa.iseclisboa.pt/webinar-este-natal-em-seguranca/
+URL:https://lykeion.pt/e/webinar-este-natal-em-seguranca-52793.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-atualizacao-na-abordagem-ao-doente-politraumatizado-e2607-2026-
+ 12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Webinar – Atualização na abordagem ao doente politraumatizado
+LOCATION:Sociedade Portuguesa de Ortopedia e Traumatologia
+DESCRIPTION:https://spot.pt/eventos/webinar-atualizacao-na-abordagem-ao-doe
+ nte-politraumatizado/
+URL:https://lykeion.pt/e/webinar-atualizacao-na-abordagem-ao-doente-politra
+ umatizado-e2607.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lisbon-wade-webinar-in-analysis-and-differential-equations-e721d-2026-1
+ 2-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T150000
+SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://math.tecnico.ulisboa.pt/seminars/
+URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
+ quations-e721d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-introducao-ao-zotero-via-zoom-meeting-770e6-2026-12-12@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T153000
+SUMMARY:Webinar – Introdução ao Zotero – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-introducao-ao-
+ zotero-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-introducao-ao-zotero-via-zoom-meeting-770e
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:symposium-charting-the-future-of-evidence-synthesis-for-heal-4dff2-2026
+ -12-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261213T090000
+SUMMARY:Symposium Charting the Future of Evidence Synthesis for Health Tech
+ nology Assessment and Decision-Making» apresenta BFREE
+LOCATION:Centro de Investigação em Tecnologias e Serviços de Saúde\, Po
+ rto
+DESCRIPTION:https://cintesis.eu/pt/symposium-charting-the-future-of-evidenc
+ e-synthesis-for-health-technology-assessment-and-decision-making-apresenta
+ -projeto-bfree/
+URL:https://lykeion.pt/e/symposium-charting-the-future-of-evidence-synthesi
+ s-for-heal-4dff2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:minicursos-de-astronomia-a4124-2026-12-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261214T130000
+SUMMARY:Minicursos de Astronomia
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/minicurso-astro26
+URL:https://lykeion.pt/e/minicursos-de-astronomia-a4124.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-atlantico-4-2026-3e117-2026-12-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T173000
+SUMMARY:Webinar Atlântico 4 | 2026
+LOCATION:Sociedade Portuguesa de Investigação em Educação Matemática
+DESCRIPTION:https://spiem.pt/evento/webinar-atlantico-4-2026/
+URL:https://lykeion.pt/e/webinar-atlantico-4-2026-3e117.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-zotero-essencial-e-complementar-88559-2027-01-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270105T100000
+SUMMARY:Webinar – Zotero essencial e complementar
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-zotero-essenci
+ al-e-complementar/
+URL:https://lykeion.pt/e/webinar-zotero-essencial-e-complementar-88559.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-online-relacao-de-ajuda-e-plano-individual-e-int-0b64d-2027
+ -01-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270108
+SUMMARY:Aula Aberta Online «Relação de Ajuda e Plano Individual e Integr
+ ado de Cuidados: Importância Da Comunicação Abordagem de casos prático
+ s»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-relacao-de-ajuda-
+ e-plano-individual-e-integrado-de-cuidados-importancia-da-comunicacao-abor
+ dagem-de-casos-praticos/
+URL:https://lykeion.pt/e/aula-aberta-online-relacao-de-ajuda-e-plano-indivi
+ dual-e-int-0b64d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-workshop-de-latex-ef2eb-2027-01-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270113T140000
+SUMMARY:Webinar – Workshop de LaTeX
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-workshop-de-la
+ tex/
+URL:https://lykeion.pt/e/webinar-workshop-de-latex-ef2eb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-gratuito-intervencao-sistemica-a-familia-5e599-2027-01-16@lagen
+ da.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:Webinar Gratuito «Intervenção Sistémica à Família»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/webinar-gratuito-intervencao-
+ sistemica-a-familia/
+URL:https://lykeion.pt/e/webinar-gratuito-intervencao-sistemica-a-familia-5
+ e599.html
+END:VEVENT
+BEGIN:VEVENT
+UID:universidade-politecnica-de-santarem-acolhe-3-a-edicao-do-in-2f461-2027
+ -01-19@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270119
+SUMMARY:Universidade Politécnica de Santarém acolhe 3.ª edição do Inte
+ rnational Summit sobre Literacia Digital e Inclusão Social
+LOCATION:Instituto Politécnico de Santarém\, Santarém
+DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
+ acolhe-3-a-edicao-do-international-summit-sobre-literacia-digital-e-inclus
+ ao-social/
+URL:https://lykeion.pt/e/universidade-politecnica-de-santarem-acolhe-3-a-ed
+ icao-do-in-2f461.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-como-evitar-o-plagio-na-escrita-de-trabalhos-academi-ae1c8-2027
+ -01-20@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270120T163000
+SUMMARY:Webinar – Como evitar o plágio na escrita de trabalhos académic
+ os
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-evitar-o-
+ plagio-na-escrita-de-trabalhos-academicos/
+URL:https://lykeion.pt/e/webinar-como-evitar-o-plagio-na-escrita-de-trabalh
+ os-academi-ae1c8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:e3udres2-online-i-living-labs-3271d-2027-01-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270130T150000
+SUMMARY:E3udres2 Online I Living Labs
+LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
+DESCRIPTION:https://esce.unips.pt/eventos/e%c2%b3udres%c2%b2-online-i-livin
+ g-labs-candidaturas-abertas/
+URL:https://lykeion.pt/e/e3udres2-online-i-living-labs-3271d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-tertulia-online-f4231-2027-01-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270130T110000
+SUMMARY:Workshop - Tertúlia Online
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ tulia-online-vamos-conversar-sobre-violencia-obstetrica
+URL:https://lykeion.pt/e/workshop-tertulia-online-f4231.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-recommendations-for-publishing-in-international-jour-37b83-2027
+ -02-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270203T163000
+SUMMARY:Webinar – Recommendations for publishing in international journal
+ s
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-recommendation
+ s-for-publishing-in-international-journals/
+URL:https://lykeion.pt/e/webinar-recommendations-for-publishing-in-internat
+ ional-jour-37b83.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-a-way-forward-on-migration-under-the-portuguese-pres-78e23-2027
+ -02-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270205T140000
+SUMMARY:Webinar: A way forward on migration under the Portuguese presidency
+  of the European Union?
+LOCATION:Observatório da Emigração
+DESCRIPTION:https://observatorioemigracao.pt/np4/7941.html
+URL:https://lykeion.pt/e/webinar-a-way-forward-on-migration-under-the-portu
+ guese-pres-78e23.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-conhecer-os-servicos-da-biblioteca-do-tecnico-via-zo-18ab0-2027
+ -02-06@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270206T153000
+SUMMARY:Webinar – Conhecer os serviços da Biblioteca do Técnico – via
+  Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-conhecer-os-se
+ rvicos-da-biblioteca-do-tecnico-via-zoom-meeting-2/
+URL:https://lykeion.pt/e/webinar-conhecer-os-servicos-da-biblioteca-do-tecn
+ ico-via-zo-18ab0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-53ff7-2027-02-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270210T100000
+SUMMARY:Webinar oficina do canva como criar apresentações dinâmicas e in
+ clusivas
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-oficina-do-can
+ va-como-criar-apresentacoes-dinamicas-e-inclusivas/
+URL:https://lykeion.pt/e/webinar-53ff7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-aceder-ao-conhecimento-a-biblioteca-do-tecnico-ajuda-84af5-2027
+ -02-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270212T100000
+SUMMARY:Webinar – Aceder ao conhecimento: a Biblioteca do Técnico ajuda!
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-aceder-ao-conh
+ ecimento-a-biblioteca-do-tecnico-ajuda/
+URL:https://lykeion.pt/e/webinar-aceder-ao-conhecimento-a-biblioteca-do-tec
+ nico-ajuda-84af5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-8bb2b-2027-02-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270217T100000
+SUMMARY:Webinar como fazer uma apresentação de sucesso
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-fazer-uma
+ -apresentacao-de-sucesso/
+URL:https://lykeion.pt/e/webinar-8bb2b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-conhecer-os-servicos-da-biblioteca-do-ist-via-zoom-4e0ca-2027-
+ 02-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270222T100000
+SUMMARY:Formação – Conhecer os serviços da Biblioteca do IST – via Z
+ oom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-conhecer-os-s
+ ervicos-da-biblioteca-do-ist-via-zoom-meeting/
+URL:https://lykeion.pt/e/formacao-conhecer-os-servicos-da-biblioteca-do-ist
+ -via-zoom-4e0ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-0e2fc-2027-02-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270224T100000
+SUMMARY:Webinar ebsco discovery Service pesquisa de informação para os tr
+ abalhos académicos
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-ebsco-discover
+ y-service-pesquisa-de-informacao-para-os-trabalhos-academicos/
+URL:https://lykeion.pt/e/webinar-0e2fc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-scholar-desvendando-o-labirinto-guia-para-o-deposito-181f7-2027
+ -02-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270226T170000
+SUMMARY:Webinar – Scholar\, desvendando o labirinto: guia para o depósit
+ o no Repositório Institucional
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-scholar-desven
+ dando-o-labirinto-guia-para-o-deposito-no-repositorio-institucional/
+URL:https://lykeion.pt/e/webinar-scholar-desvendando-o-labirinto-guia-para-
+ o-deposito-181f7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-comportamento-etico-na-ciencia-citar-e-referenciar-e-90894-2027
+ -02-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270227T163000
+SUMMARY:Webinar – Comportamento ético na ciência: citar e referenciar e
+ m trabalhos científicos – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-comportamento-
+ etico-na-ciencia-citar-e-referenciar-em-trabalhos-cientificos-via-zoom-mee
+ ting/
+URL:https://lykeion.pt/e/webinar-comportamento-etico-na-ciencia-citar-e-ref
+ erenciar-e-90894.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-conhecer-os-servicos-da-biblioteca-do-tecnico-via-z-4e0ca-2027
+ -03-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270307T100000
+SUMMARY:Formação – Conhecer os serviços da Biblioteca do Técnico – 
+ via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-conhecer-os-s
+ ervicos-da-biblioteca-do-tecnico-via-zoom-meeting/
+URL:https://lykeion.pt/e/formacao-conhecer-os-servicos-da-biblioteca-do-tec
+ nico-via-z-4e0ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-viver-o-amor-na-adolescencia-87978-2027-03-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270308
+SUMMARY:Webinar - Viver o Amor na Adolescência
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/webinar-vivencia-do-namoro-sa
+ udavel-2/
+URL:https://lykeion.pt/e/webinar-viver-o-amor-na-adolescencia-87978.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-vivencia-do-namoro-saudavel-815d6-2027-03-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270308T100000
+SUMMARY:Webinar - Vivência do Namoro Saudável
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/webinar-vivencia-do-namoro-sa
+ udavel/
+URL:https://lykeion.pt/e/webinar-vivencia-do-namoro-saudavel-815d6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-5e6cb-2027-03-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270310
+SUMMARY:Webinar revistas científicas onde publicar
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-revistas-cient
+ ificas-onde-publicar/
+URL:https://lykeion.pt/e/webinar-5e6cb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-18h30-speed-as-ameacas-hibridas-uma-abordagem-conc-868a6-2027
+ -03-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270313T120000
+SUMMARY:Seminário: 18h30: SPEED «As ameaças híbridas - uma abordagem co
+ ncetual no quadro da UE e da OTAN»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/13-de-marco-18h30-speed-as
+ -ameacas-hibridas-uma-abordagem-concetual-no-quadro-da-ue-e-da-otan
+URL:https://lykeion.pt/e/seminario-18h30-speed-as-ameacas-hibridas-uma-abor
+ dagem-conc-868a6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-como-recuperar-informacao-com-a-b-on-via-zoom-meetin-bc18b-2027
+ -03-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270313T153000
+SUMMARY:Webinar – Como recuperar informação com a b-on – via Zoom mee
+ ting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-recuperar
+ -informacao-com-a-b-on-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-como-recuperar-informacao-com-a-b-on-via-z
+ oom-meetin-bc18b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:essatla-promove-workshop-online-sobre-sono-infantil-no-ambit-c77d6-2027
+ -03-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270314T100000
+SUMMARY:ESSATLA promove workshop online sobre sono infantil no âmbito do D
+ ia Mundial do Sono
+LOCATION:Escola Superior de Saúde Atlântica\, Amadora
+DESCRIPTION:https://essatla.pt/essatla-promove-workshop-online-sobre-sono-i
+ nfantil-no-ambito-do-dia-mundial-do-sono/
+URL:https://lykeion.pt/e/essatla-promove-workshop-online-sobre-sono-infanti
+ l-no-ambit-c77d6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-tertulia-online-6a6fa-2027-03-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270314T110000
+SUMMARY:Workshop - Tertúlia Online
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ t%C3%BAlia-online-vamos-conversar-sobre-%E2%80%9Centre-liberdade-e-prote%C
+ 3%A7%C3%A3o-das-crian%C3%A7as-e
+URL:https://lykeion.pt/e/workshop-tertulia-online-6a6fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-webinarios-de-protecao-de-dados-22-5a699-2027-03-15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270315T120000
+SUMMARY:Ciclo de webinários de Proteção de Dados ’22
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/ciclo-de-webinarios-de-pro
+ tecao-de-dados-22
+URL:https://lykeion.pt/e/ciclo-de-webinarios-de-protecao-de-dados-22-5a699.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-comportamento-etico-na-ciencia-citar-e-referenciar-dd840-2027-
+ 03-21@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270321T170000
+SUMMARY:Formação – Comportamento ético na ciência: citar e referencia
+ r em trabalhos científicos – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-comportamento
+ -etico-na-ciencia-citar-e-referenciar-em-trabalhos-cientificos-via-zoom-me
+ eting-2/
+URL:https://lykeion.pt/e/formacao-comportamento-etico-na-ciencia-citar-e-re
+ ferenciar-dd840.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-0aa15-2027-03-21@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270321T153000
+SUMMARY:Webinar integração da IA na academia ferramentas e reflexões ét
+ icas
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-integracao-da-
+ ia-na-academia-ferramentas-e-reflexoes-eticas/
+URL:https://lykeion.pt/e/webinar-0aa15.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-enfermagem-e-o-direito-3471c-2027-03-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270323T160000
+SUMMARY:Webinar - Enfermagem e o Direito
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/webinar-enfermagem-e-o-direit
+ o/
+URL:https://lykeion.pt/e/webinar-enfermagem-e-o-direito-3471c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-europeu-media-representation-of-persons-with-disabil-bdb78-2027
+ -03-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270324T100000
+SUMMARY:Webinar europeu «Media representation of persons with disabilities
+  in sport»
+LOCATION:Instituto Português do Desporto e Juventude IP
+DESCRIPTION:https://ipdj.gov.pt/-/webinar-europeu-media-representation-of-p
+ ersons-with-disabilities-in-sport
+URL:https://lykeion.pt/e/webinar-europeu-media-representation-of-persons-wi
+ th-disabil-bdb78.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-migration-and-coronavirus-00b16-2027-03-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270324T153000
+SUMMARY:Webinar: Migration and coronavirus
+LOCATION:Observatório da Emigração
+DESCRIPTION:https://observatorioemigracao.pt/np4/7419.html
+URL:https://lykeion.pt/e/webinar-migration-and-coronavirus-00b16.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-tertulia-online-6a6fa-2027-03-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270327T110000
+SUMMARY:Workshop - Tertúlia Online
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ t%C3%BAlia-online-vamos-conversar-sobre-%E2%80%9Cprotec%C3%A7%C3%A3o-de-cr
+ ian%C3%A7as-e-jovens-em-contexto
+URL:https://lykeion.pt/e/workshop-tertulia-online-6a6fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-descubra-os-recursos-de-informacao-da-universidade-f0e89-2027-
+ 03-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270328T100000
+SUMMARY:Formação – Descubra os recursos de informação da Universidade
+  de Lisboa: EDS e B-on – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-descubra-os-r
+ ecursos-de-informacao-da-universidade-de-lisboa-eds-e-b-on-via-zoom-meetin
+ g/
+URL:https://lykeion.pt/e/formacao-descubra-os-recursos-de-informacao-da-uni
+ versidade-f0e89.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-dedicado-a-mobilidade-nas-cidades-do-amanha-aeaf4-2027-03-28@la
+ genda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270328
+SUMMARY:Webinar dedicado à Mobilidade nas Cidades do Amanhã
+LOCATION:Centro de Investigação do Território Transportes e Ambiente\, P
+ orto
+DESCRIPTION:https://citta.fe.up.pt/events/webinar-dedicado-a-mobilidade-nas
+ -cidades-do-amanha
+URL:https://lykeion.pt/e/webinar-dedicado-a-mobilidade-nas-cidades-do-amanh
+ a-aeaf4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinars-mendeley-20-1357c-2027-03-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270328T153000
+SUMMARY:Webinars Mendeley ― 20
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinars-mendeley-%e2%
+ 80%95-2021-e-2728-de-marco-%e2%80%95-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinars-mendeley-20-1357c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-549f9-2027-03-31@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270331T100000
+SUMMARY:Webinar Mendeley essencial e complementar
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-mendeley-essen
+ cial-e-complementar-2/
+URL:https://lykeion.pt/e/webinar-549f9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-de-latex-4-de-abril-via-zoom-meeting-9aad7-2027-04-04@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270404T140000
+SUMMARY:Workshop de LaTeX ― 4 de abril ― via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/workshop-de-latex-%e2%
+ 80%95-4-de-abril-%e2%80%95-via-zoom-meeting/
+URL:https://lykeion.pt/e/workshop-de-latex-4-de-abril-via-zoom-meeting-9aad
+ 7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:no-dia-6-de-abril-decorreu-no-iscte-o-painel-sobre-transform-9215d-2027
+ -04-06@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270406
+SUMMARY:No dia 6 de Abril decorreu no Iscte o Painel sobre “Transformaç
+ ão Digital no Turismo
+LOCATION:Iscte – Instituto Universitário de Lisboa
+DESCRIPTION:https://istar.iscte-iul.pt/news-posts/apelo-a-participacao-pain
+ el-sobre-transformacao-digital-no-turismo-6-de-abril-de-2022-as-18h/
+URL:https://lykeion.pt/e/no-dia-6-de-abril-decorreu-no-iscte-o-painel-sobre
+ -transform-9215d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-9883d-2027-04-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270407
+SUMMARY:Webinar google sites para promover projetos de investigação
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-google-sites-p
+ ara-promover-projetos-de-investigacao/
+URL:https://lykeion.pt/e/webinar-9883d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-como-recuperar-informacao-com-a-b-on-17687-2027-04-08@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270408T100000
+SUMMARY:Webinar ― Como recuperar informação com a b-on
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-%e2%80%95-como
+ -recuperar-informacao-com-a-b-on/
+URL:https://lykeion.pt/e/webinar-como-recuperar-informacao-com-a-b-on-17687
+ .html
 END:VEVENT
 END:VCALENDAR

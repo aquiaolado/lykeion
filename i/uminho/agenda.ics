@@ -6,16 +6,6 @@ X-WR-CALNAME:Universidade do Minho (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conferencia-europeia-1885e-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T091500
-SUMMARY:Conferência Europeia
-LOCATION:TecMinho\, Guimarães
-DESCRIPTION:https://www.tecminho.uminho.pt/formar/green-construction-workfo
- rce-conf
-URL:https://lykeion.pt/e/conferencia-europeia-1885e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:forum-de-debate-intervir-no-patrimonio-edificado-incorporand-41543-2026
  -11-10@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -27,6 +17,16 @@ DESCRIPTION:https://lab2pt.net/news/forum-de-debate-intervir-no-patrimonio-
  edificado-incorporando-o-passado-no-futuro
 URL:https://lykeion.pt/e/forum-de-debate-intervir-no-patrimonio-edificado-i
  ncorporand-41543.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-europeia-1885e-2026-11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T091500
+SUMMARY:Green construction workforce conf
+LOCATION:TecMinho\, Guimarães
+DESCRIPTION:https://www.tecminho.uminho.pt/formar/green-construction-workfo
+ rce-conf
+URL:https://lykeion.pt/e/conferencia-europeia-1885e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:smart-cables-science-and-society-towards-a-deep-sea-long-ter-9ff90-2026
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:conferencia-nacional-eeadc-2026-11-11@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T091500
-SUMMARY:Conferência Nacional
+SUMMARY:Green construction workforce conf
 LOCATION:TecMinho\, Guimarães
 DESCRIPTION:https://www.tecminho.uminho.pt/formar/green-construction-workfo
  rce-conf
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-jornadas-nortear-a-ceramica-57727-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T100000
 SUMMARY:II Jornadas “Nortear a Cerâmica
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
 DESCRIPTION:https://lab2pt.net/conferences/congresses/ii-jornadas-nortear-a
@@ -226,5 +226,156 @@ DESCRIPTION:https://lab2pt.net/conferences/seminars/seminario-internacional
  -permanente-historia-social-a-norte-como-minorias
 URL:https://lykeion.pt/e/seminario-internacional-permanente-historia-social
  -a-norte-c-8350c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gta-triple-seminar-28241-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T093000
+SUMMARY:GTA Triple Seminar
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.cmat.uminho.pt/events/gta-triple-seminar
+URL:https://lykeion.pt/e/gta-triple-seminar-28241.html
+END:VEVENT
+BEGIN:VEVENT
+UID:o-cipsi-convida-tim-kaiser-cancelado-9efb4-2026-11-29@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T121500
+SUMMARY:O Cipsi convida... Tim Kaiser | CANCELADO
+LOCATION:Centro de Investigação em Psicologia\, Braga
+DESCRIPTION:https://cipsi.uminho.pt/eventos/o-cipsi-convida-tim-kaiser-canc
+ elado
+URL:https://lykeion.pt/e/o-cipsi-convida-tim-kaiser-cancelado-9efb4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:vi-coloquio-do-atlantico-2af8b-2026-11-29@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:VI Colóquio do Atlântico
+LOCATION:Centro de Estudos Humanísticos\, Ponta Delgada
+DESCRIPTION:https://cehu.uac.pt/destaques/vi-coloquio-do-atlantico/
+URL:https://lykeion.pt/e/vi-coloquio-do-atlantico-2af8b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:advanced-training-course-in-sustainability-in-healthcare-cc991-2026-11-
+ 30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Advanced training course in Sustainability in Healthcare
+LOCATION:Laboratório de Software Confiável\, Braga
+DESCRIPTION:https://www.inesctec.pt/en/events/advanced-training-course-in-s
+ ustainability-in-healthcare
+URL:https://lykeion.pt/e/advanced-training-course-in-sustainability-in-heal
+ thcare-cc991.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-ate-18-de-dezembro-de-2026-10h00-18h00-museu-eaad-be94e-2026-
+ 12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T180000
+SUMMARY:Exposição Até 18 de dezembro de 2026 | 10h00-18h00 | Museu EAAD\
+ , Campus de Azurém\, Guimarães
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/exhibitions/exposicao-ensaios-de-tectonica-d
+ igital
+URL:https://lykeion.pt/e/exposicao-ate-18-de-dezembro-de-2026-10h00-18h00-m
+ useu-eaad-be94e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-be94e-2026-12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T180000
+SUMMARY:Exposição ensaios de tectónica digital
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/exhibitions/exposicao-ensaios-de-tectonica-d
+ igital
+URL:https://lykeion.pt/e/exposicao-be94e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:i-am-dissatisfied-with-my-energy-supply-contract-can-i-switc-979a9-2026
+ -12-19@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261219T110000
+SUMMARY:I am dissatisfied with my energy supply contract. Can I switch supp
+ liers? Am I required to have a fixed-term contract?
+LOCATION:Centro de Investigação em Justiça e Governação\, Braga
+DESCRIPTION:https://www.jusgov.uminho.pt/event/i-am-dissatisfied-with-my-en
+ ergy-supply-contract-can-i-switch-suppliers-am-i-required-to-have-a-fixed-
+ term-contract/
+URL:https://lykeion.pt/e/i-am-dissatisfied-with-my-energy-supply-contract-c
+ an-i-switc-979a9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:chamada-de-trabalhos-para-a-revista-psiax-10-b1c3b-2026-12-31@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Chamada de trabalhos para a Revista PSIAX#10
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/opportunities/chamada-de-trabalhos-para-a-re
+ vista-psiax10
+URL:https://lykeion.pt/e/chamada-de-trabalhos-para-a-revista-psiax-10-b1c3b
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rogerio-augusto-fernandes-domingues-o-09cbb-2027-
+ 01-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270114
+SUMMARY:Provas de mestrado de Rogério Augusto Fernandes Domingues — O pa
+ pel da equipa de apoio e ligação à unidade de cuidados intensivos na tr
+ ansição da pessoa em situação crítica para os serviços de interna
+LOCATION:Centro de Investigação em Enfermagem\, Braga
+DESCRIPTION:https://www.ese.uminho.pt/pt/posgraduacao/provasacademicas/Pagi
+ nas/default.aspx
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rogerio-augusto-fernandes-do
+ mingues-o-09cbb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:vii-conferencia-rumos-da-sociologia-do-conhecimento-ciencia-ddf60-2027-
+ 01-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270114
+SUMMARY:VII Conferência Rumos da Sociologia do Conhecimento\, Ciência e T
+ ecnologia
+LOCATION:Universidade do Minho
+DESCRIPTION:https://aps.pt/event/vii-conferencia-rumos-da-sociologia-do-con
+ hecimento-ciencia-e-tecnologia/
+URL:https://lykeion.pt/e/vii-conferencia-rumos-da-sociologia-do-conheciment
+ o-ciencia-ddf60.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ars-em-salas-de-aula-b778c-2027-01-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:ARS em salas de aula
+LOCATION:Centro IDEA\, Braga
+DESCRIPTION:https://idea.uminho.pt/pt/agenda/Paginas/ARS24.aspx
+URL:https://lykeion.pt/e/ars-em-salas-de-aula-b778c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-internacional-shifts-in-world-geopolitics-cooperat-6721e-2027
+ -02-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270225T140000
+SUMMARY:Seminário internacional “Shifts in world geopolitics: cooperatio
+ n and competition in the Atlantic
+LOCATION:Centro de Estudos Humanísticos\, Ponta Delgada
+DESCRIPTION:https://cehu.uac.pt/destaques/seminario-internacional-shifts-in
+ -world-geopolitics-cooperation-and-competition-in-the-atlantic/
+URL:https://lykeion.pt/e/seminario-internacional-shifts-in-world-geopolitic
+ s-cooperat-6721e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:roboparty-2026-de-25-a-27-de-marco-ha-uma-enorme-surpresa-co-6cf5d-2027
+ -03-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270325
+SUMMARY:RoboParty 2026: de 25 a 27 de março. Há uma enorme surpresa com r
+ obôs humanoides
+LOCATION:Centro ALGORITMI\, Guimarães
+DESCRIPTION:https://algoritmi.uminho.pt/news/roboparty-2026-de-25-a-27-de-m
+ arco-ha-uma-enorme-surpresa-com-robos-humanoides/
+URL:https://lykeion.pt/e/roboparty-2026-de-25-a-27-de-marco-ha-uma-enorme-s
+ urpresa-co-6cf5d.html
 END:VEVENT
 END:VCALENDAR

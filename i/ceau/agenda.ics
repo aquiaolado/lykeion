@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEAU (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:the-unfinished-project-symposium-2027-429ce-2026-12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:The Unfinished Project Symposium 2027
+LOCATION:Centro de Estudos de Arquitectura e Urbanismo\, Porto
+DESCRIPTION:https://cenp.arq.up.pt/pt/highlights/events/the-unfinished-proj
+ ect-symposium-2027
+URL:https://lykeion.pt/e/the-unfinished-project-symposium-2027-429ce.html
+END:VEVENT
+END:VCALENDAR

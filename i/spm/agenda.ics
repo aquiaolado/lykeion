@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-tecnologia-2025-c3174-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Semana da Ciência e Tecnologia 2025
+LOCATION:Sociedade Portuguesa de Materiais
+DESCRIPTION:https://www.spmateriais.pt/post/semana-da-ci%C3%AAncia-e-tecnol
+ ogia-2025
+URL:https://lykeion.pt/e/semana-da-ciencia-e-tecnologia-2025-c3174.html
+END:VEVENT
+END:VCALENDAR

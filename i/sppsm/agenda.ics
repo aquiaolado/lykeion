@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPPSM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:xx-congresso-nacional-de-psiquiatria-f251c-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:XX Congresso Nacional de Psiquiatria
+LOCATION:Sociedade Portuguesa de Psiquiatria e Saúde Mental
+DESCRIPTION:https://www.sppsm.org/evento/xx-congresso-nacional-de-psiquiatr
+ ia/
+URL:https://lykeion.pt/e/xx-congresso-nacional-de-psiquiatria-f251c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2-a-edicao-do-curso-breve-de-psicofarmacologia-em-oncologia-e8ced-2027-
+ 01-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270122T090000
+SUMMARY:2.ª Edição do Curso Breve de Psicofarmacologia em Oncologia
+LOCATION:Sociedade Portuguesa de Psiquiatria e Saúde Mental
+DESCRIPTION:https://www.sppsm.org/evento/2-a-edicao-do-curso-breve-de-psico
+ farmacologia-em-oncologia/
+URL:https://lykeion.pt/e/2-a-edicao-do-curso-breve-de-psicofarmacologia-em-
+ oncologia-e8ced.html
+END:VEVENT
+END:VCALENDAR

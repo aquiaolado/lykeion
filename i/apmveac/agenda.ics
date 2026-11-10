@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:APMVEAC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-medos-e-fobias-a-ruidos-em-caes-da-prevencao-ao-trat-c014e-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T180000
+SUMMARY:Webinar: Medos e fobias a ruídos em cães\, da prevenção ao trat
+ amento
+LOCATION:Associação Portuguesa de Médicos Veterinários Especialistas em
+  Animais de Companhia
+DESCRIPTION:https://apmveac.pt/evento/webinar-medos-e-fobias-a-ruidos/
+URL:https://lykeion.pt/e/webinar-medos-e-fobias-a-ruidos-em-caes-da-prevenc
+ ao-ao-trat-c014e.html
+END:VEVENT
+END:VCALENDAR

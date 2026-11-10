@@ -342,3 +342,7 @@ h2.dia-t{font-size:1.15rem;margin:22px 0 6px}
 .explorar .atalhos{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .explorar .atalhos .ch{text-decoration:none}
 .agenda-mais{display:flex;justify-content:center;margin:18px 0 6px}
+/* 10/11/2026: procura na entrada e «Onde estás?» nos três toques */
+.procura{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.procura .busca{flex:1 1 220px;min-width:0}
+.tq-ondeestas{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0 0;font-size:.95rem}

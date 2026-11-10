@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEMBE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:10-a-conferencia-anual-da-redesaude-9a24b-2026-12-06@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261206
+SUMMARY:10.ª Conferência Anual da redeSAÚDE
+LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+DESCRIPTION:http://www.medicina.ulisboa.pt/10a-conferencia-anual-da-redesau
+ de
+URL:https://lykeion.pt/e/10-a-conferencia-anual-da-redesaude-9a24b.html
+END:VEVENT
+END:VCALENDAR

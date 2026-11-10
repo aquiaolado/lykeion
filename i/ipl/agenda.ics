@@ -161,10 +161,66 @@ BEGIN:VEVENT
 UID:mesa-redonda-daf86-2026-11-23@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261123
-SUMMARY:Mesa Redonda
+SUMMARY:Mesa redonda conversa com animadoras socioculturais sua intervenç
+ ão na Escola
 LOCATION:Centro Interdisciplinar de Estudos Educacionais
 DESCRIPTION:https://www.eselx.upl.pt/eventos/mesa-redonda-conversa-com-anim
  adoras-socioculturais-sua-intervencao-na-escola
 URL:https://lykeion.pt/e/mesa-redonda-daf86.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-publicas-de-mestrado-4f983-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Provas Públicas de Mestrado
+LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
+DESCRIPTION:https://www.essl.upl.pt/eventos/provas-publicas-de-mestrado
+URL:https://lykeion.pt/e/provas-publicas-de-mestrado-4f983.html
+END:VEVENT
+BEGIN:VEVENT
+UID:isel-symposium-on-sustainable-energy-transition-isset-ac4e8-2026-11-25@
+ lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:ISEL Symposium on Sustainable Energy Transition (ISSET)
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/isel-symposium-sustainable-energy-t
+ ransition
+URL:https://lykeion.pt/e/isel-symposium-on-sustainable-energy-transition-is
+ set-ac4e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-jornadas-internacionais-de-cenografia-figurinos-14441-2026-11-26@lag
+ enda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T090000
+SUMMARY:II Jornadas Internacionais de Cenografia & Figurinos
+LOCATION:Escola Superior de Teatro e Cinema\, Amadora
+DESCRIPTION:https://www.estc.upl.pt/eventos/ii-jornadas-internacionais-de-c
+ enografia-figurinos
+URL:https://lykeion.pt/e/ii-jornadas-internacionais-de-cenografia-figurinos
+ -14441.html
+END:VEVENT
+BEGIN:VEVENT
+UID:o-ensino-da-compreensao-oral-e-da-expressao-oral-em-plnm-060e9-2026-11-
+ 27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T110000
+SUMMARY:O ensino da compreensão oral e da expressão oral em PLNM
+LOCATION:Centro Interdisciplinar de Estudos Educacionais
+DESCRIPTION:https://www.eselx.upl.pt/eventos/o-ensino-da-compreensao-oral-e
+ -da-expressao-oral-em-plnm
+URL:https://lykeion.pt/e/o-ensino-da-compreensao-oral-e-da-expressao-oral-e
+ m-plnm-060e9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8-a-reuniao-internacional-da-racs-acb83-2026-12-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261209
+SUMMARY:8.ª Reunião Internacional da RACS
+LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
+DESCRIPTION:https://www.essl.upl.pt/eventos/8a-reuniao-internacional-da-rac
+ s
+URL:https://lykeion.pt/e/8-a-reuniao-internacional-da-racs-acb83.html
 END:VEVENT
 END:VCALENDAR

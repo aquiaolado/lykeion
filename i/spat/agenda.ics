@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPAT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:workshops-de-arte-terapia-2026-87a48-2026-12-01@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Workshops de Arte-Terapia 2026
+LOCATION:Sociedade Portuguesa de Arte-Terapia
+DESCRIPTION:https://arte-terapia.com/workshops-de-arte-terapia-2026/?utm_so
+ urce=rss&#038\,utm_medium=rss&#038\,utm_campaign=workshops-de-arte-terapia
+ -2026
+URL:https://lykeion.pt/e/workshops-de-arte-terapia-2026-87a48.html
+END:VEVENT
+BEGIN:VEVENT
+UID:da-essencia-a-adaptacao-e-da-adaptacao-a-essencia-workshop-d-7b03a-2026
+ -12-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Da Essência à Adaptação... e da Adaptação à Essência” –
+  Workshop de Arte-Terapia
+LOCATION:Sociedade Portuguesa de Arte-Terapia
+DESCRIPTION:https://arte-terapia.com/da-essencia-a-adaptacao-workshop-de-ar
+ te-terapia/?utm_source=rss&#038\,utm_medium=rss&#038\,utm_campaign=da-esse
+ ncia-a-adaptacao-workshop-de-arte-terapia
+URL:https://lykeion.pt/e/da-essencia-a-adaptacao-e-da-adaptacao-a-essencia-
+ workshop-d-7b03a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:27o-congresso-portugues-de-arte-terapia-17e72-2026-12-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:27o Congresso Português de Arte-Terapia
+LOCATION:Sociedade Portuguesa de Arte-Terapia
+DESCRIPTION:https://arte-terapia.com/27o-congresso-portugues-de-arte-terapi
+ a/?utm_source=rss&#038\,utm_medium=rss&#038\,utm_campaign=27o-congresso-po
+ rtugues-de-arte-terapia
+URL:https://lykeion.pt/e/27o-congresso-portugues-de-arte-terapia-17e72.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centre for Research in Management & Economics (CEGE) (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:10-a-edicao-do-industrial-marketing-management-imm-summit-14789-2027-01
+ -12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270112
+SUMMARY:10.ª edição do Industrial Marketing Management (IMM) Summit
+LOCATION:Centre for Research in Management & Economics (CEGE)\, Porto
+DESCRIPTION:https://cege.cpsbe.porto.ucp.pt/events/10a-edicao-do-industrial
+ -marketing-management-imm-summit
+URL:https://lykeion.pt/e/10-a-edicao-do-industrial-marketing-management-imm
+ -summit-14789.html
+END:VEVENT
+END:VCALENDAR

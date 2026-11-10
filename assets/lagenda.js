@@ -1,4 +1,15 @@
 /* lagenda: guardar, calendário, partilhar, mapas, e as páginas Agenda, Mapa e Guardados (lêem dados.json). */
+// «Perto de mim» (10/11/2026): o distrito da sala conhecida mais próxima de (lat, lon); dados.json lugares = [nome, onde, lat, lon, página, distrito, …].
+// Usado pela agenda e pelos três toques (toques.js). A localização fica no aparelho: não se envia a lado nenhum.
+window.LG_distritoPerto = function (D, la, lo) {
+  let melhor = "", dm = Infinity, k = Math.cos(la * Math.PI / 180);
+  Object.values(D.lugares || {}).forEach(l => {
+    if (l[2] == null || l[3] == null || !l[5] || l[6]) return;
+    const d = (l[2] - la) ** 2 + ((l[3] - lo) * k) ** 2;
+    if (d < dm) { dm = d; melhor = l[5]; }
+  });
+  return melhor;
+};
 (function () {
   "use strict";
   const B = (window.LG && LG.base) || "/";
@@ -81,12 +92,13 @@
   }
 
   function agenda(D, CAT, lug, url) {
-    // 6/11/2026: a agenda abre sempre em «Hoje» e no sítio da pessoa (o que escolheu aqui, senão o dos três toques, senão Lisboa),
+    // 6/11/2026: a agenda abre sempre em «Hoje» e no sítio da pessoa (o que escolheu aqui, senão o dos três toques, senão o país todo; 10/11/2026),
     // só com o que ainda não começou, 30 de cada vez. Os outros filtros (tipo, para quem, entrada livre) ficam guardados.
     const DIST = Object.fromEntries(D.dists || []), SLUG = Object.fromEntries((D.dists || []).map(([s, n]) => [n, s]));
     const guardado = ler("lagenda-filtros", {}), toq = (ler("lagenda-3toques", {}).est || {});
-    const ondeIni = guardado.ondeEscolhido ? (guardado.onde || "") : toq.onde !== undefined ? (SLUG[toq.onde] || "") : (SLUG.Lisboa || "");
-    const est = Object.assign({ cat: "", livre: false, tag: "" }, guardado, { quando: "hoje", q: "", onde: ondeIni });
+    const ondeIni = guardado.ondeEscolhido ? (guardado.onde || "") : toq.onde !== undefined ? (SLUG[toq.onde] || "") : "";
+    const qUrl = (new URLSearchParams(location.search).get("q") || "").trim();  // a procura da entrada (10/11/2026)
+    const est = Object.assign({ cat: "", livre: false, tag: "" }, guardado, { quando: qUrl ? "tudo" : "hoje", q: qUrl, onde: ondeIni });
     const h = location.hash.slice(1);
     let limite = 30;
     // taxonomia (3/11/2026): 8 eixos com subcategorias; as etiquetas (famílias, festival, LGP…) cruzam os eixos
@@ -97,7 +109,7 @@
     if (TAG[h] && !CAT[h]) est.tag = h;
     if (h === "festivais") est.tag = "festival";
     if (h.startsWith("d=")) est.onde = DIST[h.slice(2)] ? h.slice(2) : "";
-    else if (h === "fora") est.onde = "fora";
+    else if (h === "fora" || h === "perto") est.onde = "perto";  // «Fora de Lisboa» passou a «Perto de mim» (10/11/2026)
     else if (h === "fds") est.quando = "fds"; else if (h === "livre") est.livre = true; else if (CAT[h]) { est.cat = h; est.quando = h === "exposicoes" ? "tudo" : est.quando; }
     if (h && !h.startsWith("d=") && est.quando === "hoje") est.quando = "semana"; // atalhos da entrada (fim de semana, livre, miúdos…): a semana
     const DIAS = [["hoje", "Hoje"], ["amanha", "Amanhã"], ["fds", "Fim de semana"], ["semana", "7 dias"], ["tudo", "14 dias"]];
@@ -110,14 +122,24 @@
     };
     const sel = document.getElementById("onde");
     if (sel) {
-      sel.innerHTML = '<option value="">Todo o país</option><option value="fora">Fora de Lisboa</option>' + (D.dists || []).map(([s, n]) => `<option value="${s}">${esc(n)}</option>`).join("");
-      if (est.onde !== "fora" && !DIST[est.onde]) est.onde = "";
+      sel.innerHTML = '<option value="">Todo o país</option><option value="perto">Perto de mim</option>' + (D.dists || []).map(([s, n]) => `<option value="${s}">${esc(n)}</option>`).join("");
+      // «Perto de mim»: o distrito da sala mais próxima, pela localização do aparelho (só se a pessoa deixar; nada sai do aparelho)
+      const perto = () => {
+        const falha = () => { est.onde = ""; sel.value = ""; limite = 30; desenha(); };
+        if (!navigator.geolocation) return falha();
+        navigator.geolocation.getCurrentPosition(p => {
+          const n = LG_distritoPerto(D, p.coords.latitude, p.coords.longitude);
+          est.onde = (n && SLUG[n]) || ""; est.ondeEscolhido = 1; sel.value = est.onde; limite = 30; desenha();
+        }, falha, { maximumAge: 6e5, timeout: 15000 });
+      };
+      if (est.onde === "perto") { est.onde = ""; perto(); }
+      if (!DIST[est.onde]) est.onde = "";
       sel.value = est.onde;
-      sel.addEventListener("change", () => { est.onde = sel.value; est.ondeEscolhido = 1; limite = 30; desenha(); });
+      sel.addEventListener("change", () => { if (sel.value === "perto") return perto(); est.onde = sel.value; est.ondeEscolhido = 1; limite = 30; desenha(); });
     }
     const agora = new Date(Date.now() - 30 * 6e4), jaPassou = String(agora.getHours()).padStart(2, "0") + ":" + String(agora.getMinutes()).padStart(2, "0");
     const passa = e => {
-      if (est.onde && (est.onde === "fora" ? lug(e)[7] : DIST[est.onde] !== lug(e)[5])) return false;
+      if (est.onde && DIST[est.onde] !== lug(e)[5]) return false;
       if (est.cat && !e.c.includes(est.cat)) return false;
       if (est.tag && !(e.t || []).includes(est.tag)) return false;
       if (est.livre && !e.g) return false;
@@ -172,6 +194,7 @@
     const sb = document.getElementById("subs"); if (sb) sb.addEventListener("click", ev => { const b = ev.target.closest("[data-c]"); if (b) { est.cat = b.dataset.c; de_novo(); } });
     const st = document.getElementById("tag"); if (st) st.addEventListener("change", () => { est.tag = st.value; de_novo(); });
     document.getElementById("livre").addEventListener("click", () => { est.livre = !est.livre; de_novo(); });
+    if (qUrl) document.getElementById("busca").value = qUrl;
     document.getElementById("busca").addEventListener("input", ev => { est.q = ev.target.value.trim(); est.quando = est.q && est.quando === "hoje" ? "tudo" : est.quando; de_novo(); });
     document.getElementById("agenda").addEventListener("click", ev => { if (ev.target.closest("#maisag")) { limite += 30; desenha(); } });
     document.getElementById("cartaz").addEventListener("click", ev => { if (ev.target.closest("[data-c-exp]")) { ev.preventDefault(); est.cat = "exposicoes"; est.quando = "tudo"; de_novo(); } });

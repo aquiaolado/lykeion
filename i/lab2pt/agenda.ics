@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-jornadas-nortear-a-ceramica-57727-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T100000
 SUMMARY:II Jornadas “Nortear a Cerâmica
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
 DESCRIPTION:https://lab2pt.net/conferences/congresses/ii-jornadas-nortear-a
@@ -53,5 +53,40 @@ DESCRIPTION:https://lab2pt.net/conferences/seminars/seminario-internacional
  -permanente-historia-social-a-norte-como-minorias
 URL:https://lykeion.pt/e/seminario-internacional-permanente-historia-social
  -a-norte-c-8350c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-ate-18-de-dezembro-de-2026-10h00-18h00-museu-eaad-be94e-2026-
+ 12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T180000
+SUMMARY:Exposição Até 18 de dezembro de 2026 | 10h00-18h00 | Museu EAAD\
+ , Campus de Azurém\, Guimarães
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/exhibitions/exposicao-ensaios-de-tectonica-d
+ igital
+URL:https://lykeion.pt/e/exposicao-ate-18-de-dezembro-de-2026-10h00-18h00-m
+ useu-eaad-be94e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-be94e-2026-12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T180000
+SUMMARY:Exposição ensaios de tectónica digital
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/exhibitions/exposicao-ensaios-de-tectonica-d
+ igital
+URL:https://lykeion.pt/e/exposicao-be94e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:chamada-de-trabalhos-para-a-revista-psiax-10-b1c3b-2026-12-31@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Chamada de trabalhos para a Revista PSIAX#10
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/opportunities/chamada-de-trabalhos-para-a-re
+ vista-psiax10
+URL:https://lykeion.pt/e/chamada-de-trabalhos-para-a-revista-psiax-10-b1c3b
+ .html
 END:VEVENT
 END:VCALENDAR

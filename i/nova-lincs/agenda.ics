@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NOVA LINCS (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:portugal-crypto-day-2026-06324-2026-12-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Portugal Crypto Day 2026
+LOCATION:Laboratório para a Ciência da Computação e Informática\, Alma
+ da
+DESCRIPTION:https://nova-lincs.di.fct.unl.pt/events/portugal-crypto-day-202
+ 6/
+URL:https://lykeion.pt/e/portugal-crypto-day-2026-06324.html
+END:VEVENT
+END:VCALENDAR

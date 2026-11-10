@@ -55,8 +55,8 @@ UID:09-30-coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-e-31b08-2026
  -11-18@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T093000
-SUMMARY:09:30 : Colóquio “Alterações Climáticas: Como nos Adaptarmos 
- a esta Nova Realidade?
+SUMMARY:Colóquio “Alterações Climáticas: Como nos Adaptarmos a esta N
+ ova Realidade?
 LOCATION:Instituto Superior de Agronomia
 DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1062/
  -/coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-esta-nova-realidade
@@ -94,5 +94,31 @@ SUMMARY:Conferencia Arquitetura Paisagista
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/conferencia
 URL:https://lykeion.pt/e/conferencia-arquitetura-paisagista-0bd9a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-desigualdades-o-a9931-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA: «Desigualdades\, 
+ Oportunidades e Desafios Pedagógicos no Ensino Superior »
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/vi-coloquio-sobre-ensino-apre
+ ndizagem-no-isa
+URL:https://lykeion.pt/e/vi-coloquio-sobre-ensino-aprendizagem-no-isa-desig
+ ualdades-o-a9931.html
+END:VEVENT
+BEGIN:VEVENT
+UID:o-futuro-esta-na-racao-desafios-e-oportunidades-na-industria-dbf11-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T090000
+SUMMARY:O Futuro está na Ração: Desafios e Oportunidades na Indústria d
+ os Alimentos Compostos
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/o-futuro-esta-na-racao-desafi
+ os-e-oportunidades-na-industria-dos-alimentos-compostos
+URL:https://lykeion.pt/e/o-futuro-esta-na-racao-desafios-e-oportunidades-na
+ -industria-dbf11.html
 END:VEVENT
 END:VCALENDAR

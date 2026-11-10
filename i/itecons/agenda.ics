@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ITeCons (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:mtrs-conference-vi-simposio-de-argamassas-e-solucoes-termica-512ff-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:MTRS Conference / VI Simpósio de Argamassas e Soluções Térmicas
+  de Revestimento
+LOCATION:Instituto de Investigação e Desenvolvimento Tecnológico para a 
+ Construção Energia Ambiente e Sustentabilidade\, Coimbra
+DESCRIPTION:https://www.itecons.uc.pt/services/events/36
+URL:https://lykeion.pt/e/mtrs-conference-vi-simposio-de-argamassas-e-soluco
+ es-termica-512ff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:simposio-e2h-janelas-e-fachadas-eficientes-d0849-2027-01-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270114T020000
+SUMMARY:Simpósio E2H - Janelas e Fachadas Eficientes
+LOCATION:Instituto de Investigação e Desenvolvimento Tecnológico para a 
+ Construção Energia Ambiente e Sustentabilidade\, Coimbra
+DESCRIPTION:https://www.itecons.uc.pt/services/events/37
+URL:https://lykeion.pt/e/simposio-e2h-janelas-e-fachadas-eficientes-d0849.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:cees-2027-4th-international-conference-on-construction-energ-345cc-2027
+ -02-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270203
+SUMMARY:CEES 2027 - 4th International Conference on Construction\, Energy\,
+  Environment and Sustainability
+LOCATION:Instituto de Investigação e Desenvolvimento Tecnológico para a 
+ Construção Energia Ambiente e Sustentabilidade\, Coimbra
+DESCRIPTION:https://www.itecons.uc.pt/services/events/39
+URL:https://lykeion.pt/e/cees-2027-4th-international-conference-on-construc
+ tion-energ-345cc.html
+END:VEVENT
+END:VCALENDAR

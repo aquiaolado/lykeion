@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPEDC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:1o-forum-internacional-de-investigacao-de-enfermagem-em-doen-55a9e-2027
+ -04-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270413
+SUMMARY:1o Forúm Internacional de Investigação de Enfermagem em Doente C
+ rítico
+LOCATION:Sociedade Portuguesa de Enfermagem em Doente Crítico\, Coimbra
+DESCRIPTION:https://spedc.pt/event/1o-forum-internacional-de-investigacao-d
+ e-enfermagem-em-doente-critico/
+URL:https://lykeion.pt/e/1o-forum-internacional-de-investigacao-de-enfermag
+ em-em-doen-55a9e.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CMAC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:aula-aberta-esart-d9d89-2027-03-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270330T193000
+SUMMARY:Aula Aberta ESART
+LOCATION:Conservatório de Música e Artes do Centro\, Ourém
+DESCRIPTION:https://www.cmac.pt/eventos/aula-aberta-esart
+URL:https://lykeion.pt/e/aula-aberta-esart-d9d89.html
+END:VEVENT
+END:VCALENDAR

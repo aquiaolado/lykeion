@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEHUM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:vi-coloquio-do-atlantico-2af8b-2026-11-29@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:VI Colóquio do Atlântico
+LOCATION:Centro de Estudos Humanísticos\, Ponta Delgada
+DESCRIPTION:https://cehu.uac.pt/destaques/vi-coloquio-do-atlantico/
+URL:https://lykeion.pt/e/vi-coloquio-do-atlantico-2af8b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-internacional-shifts-in-world-geopolitics-cooperat-6721e-2027
+ -02-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270225T140000
+SUMMARY:Seminário internacional “Shifts in world geopolitics: cooperatio
+ n and competition in the Atlantic
+LOCATION:Centro de Estudos Humanísticos\, Ponta Delgada
+DESCRIPTION:https://cehu.uac.pt/destaques/seminario-internacional-shifts-in
+ -world-geopolitics-cooperation-and-competition-in-the-atlantic/
+URL:https://lykeion.pt/e/seminario-internacional-shifts-in-world-geopolitic
+ s-cooperat-6721e.html
+END:VEVENT
+END:VCALENDAR

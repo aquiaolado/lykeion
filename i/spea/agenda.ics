@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPEA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:qual-o-significado-dos-nomes-cientificos-das-nossas-aves-44918-2026-11-
+ 25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T180000
+SUMMARY:Qual o significado dos nomes científicos das nossas aves?
+LOCATION:Sociedade Portuguesa para o Estudo das Aves
+DESCRIPTION:https://spea.pt/agenda/evento/palestra-qual-o-significado-dos-n
+ omes-cientificos-das-nossas-aves/
+URL:https://lykeion.pt/e/qual-o-significado-dos-nomes-cientificos-das-nossa
+ s-aves-44918.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-final-life-lxaquila-ef99b-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T091500
+SUMMARY:Conferência Final LIFE LxAquila
+LOCATION:Sociedade Portuguesa para o Estudo das Aves
+DESCRIPTION:https://spea.pt/agenda/evento/conferencia-final-life-lxaquila/
+URL:https://lykeion.pt/e/conferencia-final-life-lxaquila-ef99b.html
+END:VEVENT
+END:VCALENDAR

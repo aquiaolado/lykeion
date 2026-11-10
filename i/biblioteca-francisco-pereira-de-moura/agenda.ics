@@ -28,7 +28,8 @@ BEGIN:VEVENT
 UID:research-seminar-fb22c-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T113000
-SUMMARY:Research Seminar
+SUMMARY:Research seminar Financial decision making under time and state dep
+ endent preferences
 LOCATION:Biblioteca Francisco Pereira de Moura
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/research-seminar-financial-de
  cision-making-under-time-and-state-dependent-preferences/
@@ -38,7 +39,8 @@ BEGIN:VEVENT
 UID:webinar-55e40-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T140000
-SUMMARY:Webinar
+SUMMARY:Webinar retomar o controlo do sistema de comunicação científica 
+ desafios e oportunidades
 LOCATION:Biblioteca Francisco Pereira de Moura
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/webinar-retomar-o-controlo-do
  -sistema-de-comunicacao-cientifica-desafios-e-oportunidades/
@@ -52,5 +54,41 @@ SUMMARY:PhD Open Days 2026
 LOCATION:Biblioteca Francisco Pereira de Moura
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/phd-open-days-2026/
 URL:https://lykeion.pt/e/phd-open-days-2026-99d70.html
+END:VEVENT
+BEGIN:VEVENT
+UID:research-seminars-in-mathematics-applied-to-economics-and-ma-0bd01-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T113000
+SUMMARY:Research Seminars in Mathematics Applied to Economics and Managemen
+ t
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/research-seminars-in-mathemat
+ ics-applied-to-economics-and-management-gonzalo-garcia-donato/
+URL:https://lykeion.pt/e/research-seminars-in-mathematics-applied-to-econom
+ ics-and-ma-0bd01.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-doutoramento-em-economia-d7a90-2026-12-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T140000
+SUMMARY:Prova de Doutoramento em Economia
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/prova-de-doutoramento-em-econ
+ omia-26/
+URL:https://lykeion.pt/e/prova-de-doutoramento-em-economia-d7a90.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-agregacao-em-matematica-aplicada-a-economia-e-a-ge-3851c-2026
+ -12-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261217T170000
+SUMMARY:Provas de Agregação em Matemática Aplicada à Economia e à Gest
+ ão
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/provas-de-agregacao-em-matema
+ tica-aplicada-a-economia-e-a-gestao-3/
+URL:https://lykeion.pt/e/provas-de-agregacao-em-matematica-aplicada-a-econo
+ mia-e-a-ge-3851c.html
 END:VEVENT
 END:VCALENDAR

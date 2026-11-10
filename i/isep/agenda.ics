@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Instituto Superior de Engenharia do Porto (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:iceeep-11th-international-conference-on-energy-economics-and-af7c5-2027
+ -04-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270409T100000
+SUMMARY:ICEEEP -11th International Conference on Energy Economics and Energ
+ y Policy
+LOCATION:Instituto Superior de Engenharia do Porto\, Porto
+DESCRIPTION:https://www.eventbrite.com/e/iceeep-11th-international-conferen
+ ce-on-energy-economics-and-energy-policy-tickets-1992100762005
+URL:https://lykeion.pt/e/iceeep-11th-international-conference-on-energy-eco
+ nomics-and-af7c5.html
+END:VEVENT
+END:VCALENDAR

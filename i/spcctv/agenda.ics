@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPCCTV (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:spcctv-congress-2026-2d29e-2026-11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:SPCCTV Congress 2026
+LOCATION:Sociedade Portuguesa de Cirurgia Cardíaca Torácica e Vascular
+DESCRIPTION:https://www.spcctv.pt/pt/agenda/detalhesevento/61/-/spcctv-cong
+ ress-2026
+URL:https://lykeion.pt/e/spcctv-congress-2026-2d29e.html
+END:VEVENT
+END:VCALENDAR

@@ -78,7 +78,8 @@ BEGIN:VEVENT
 UID:10-11-26-aula-aberta-523f7-2026-11-10@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
-SUMMARY:Aula aberta
+SUMMARY:Aula aberta behind the Business global careers João Tomé Mariana 
+ Simões Vieira
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-behind-the-business-
  global-careers-joao-tome-mariana-simoes-vieira/
@@ -172,16 +173,6 @@ URL:https://lykeion.pt/e/ciclo-de-aulas-abertas-o-realismo-magico-aquem-e-a
  lem-da-ame-92926.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aula-aberta-b17b2-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T100000
-SUMMARY:Aula Aberta
-LOCATION:Universidade de Lisboa\, Campo Grande
-DESCRIPTION:https://chul.letras.ulisboa.pt/evento/aula-aberta-o-manto-tupin
- amba-um-objeto-acronico-e-incomodo-da-historiografia/
-URL:https://lykeion.pt/e/aula-aberta-b17b2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-bem-estar-crescimento-e-proposito-ao-longo-da-vi-18565-2026
  -11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -206,6 +197,17 @@ URL:https://lykeion.pt/e/aula-aberta-centro-de-recursos-para-a-inclusao-o-t
  rabalho-em-b0931.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-b17b2-2026-11-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T100000
+SUMMARY:Aula aberta o manto tupinambá um objeto acronico e incomodo da his
+ toriografia
+LOCATION:Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://chul.letras.ulisboa.pt/evento/aula-aberta-o-manto-tupin
+ amba-um-objeto-acronico-e-incomodo-da-historiografia/
+URL:https://lykeion.pt/e/aula-aberta-b17b2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:12-11-2026-aula-aberta-cordas-gregas-voz-romana-a-arte-da-li-549fc-2026
  -11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -216,16 +218,6 @@ LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
 DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-cordas-gregas/
 URL:https://lykeion.pt/e/12-11-2026-aula-aberta-cordas-gregas-voz-romana-a-
  arte-da-li-549fc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:aula-aberta-4f3f0-2026-11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T090000
-SUMMARY:Aula Aberta
-LOCATION:Universidade Católica Portuguesa\, Braga
-DESCRIPTION:https://braga.ucp.pt/eventos/aula-aberta-housing-first-interven
- cao-comunitaria-e-transformacao-de-vidas
-URL:https://lykeion.pt/e/aula-aberta-4f3f0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-o-regime-juridico-da-educacao-inclusiva-773d0-2026-11-13@la
@@ -252,6 +244,17 @@ URL:https://lykeion.pt/e/aula-aberta-seminario-de-investigacao-1-d-pda-rese
  arch-based-cc356.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-4f3f0-2026-11-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T090000
+SUMMARY:Aula aberta housing first intervenção comunitária e transformaç
+ ão de vidas
+LOCATION:Universidade Católica Portuguesa\, Braga
+DESCRIPTION:https://braga.ucp.pt/eventos/aula-aberta-housing-first-interven
+ cao-comunitaria-e-transformacao-de-vidas
+URL:https://lykeion.pt/e/aula-aberta-4f3f0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-open-class-climate-change-alternative-resources-an-49ff0-2026
  -11-13@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -265,19 +268,11 @@ URL:https://lykeion.pt/e/seminario-open-class-climate-change-alternative-re
  sources-an-49ff0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:annual-lecture-2023-c0e9e-2026-11-14@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T120000
-SUMMARY:Annual Lecture 2023
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/annual-lecture-2023
-URL:https://lykeion.pt/e/annual-lecture-2023-c0e9e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:14-11-26-aula-aberta-ecb05-2026-11-14@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261114
-SUMMARY:Aula aberta
+SUMMARY:Aula aberta mges ceges avaliação de impacto de políticas de saú
+ de desafios de identificação causal e aplicações empíricas
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-mges-ceges-avaliacao
  -de-impacto-de-politicas-de-saude-desafios-de-identificacao-causal-e-aplic
@@ -543,5 +538,379 @@ DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-enfrentamentos-a-violenci
  peia/
 URL:https://lykeion.pt/e/aula-aberta-enfrentamentos-a-violencia-domestica-e
  m-perspect-186c6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-promover-criancas-ativas-autonomas-e-com-direito-bf0ed-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Aula Aberta: Promover crianças ativas\, autónomas e com direitos:
+  Eu consigo!
+LOCATION:Observatório da Formação e da Educação Inclusiva (OFEI)\, Por
+ to
+DESCRIPTION:https://ofei.esepf.pt/?mec-events=aula-aberta-o-educador-coorde
+ nador-e-diretor-uma-outra-faceta-profissional-2-2-2
+URL:https://lykeion.pt/e/aula-aberta-promover-criancas-ativas-autonomas-e-c
+ om-direito-bf0ed.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-aula-aberta-primaveras-silenciosas-como-evitar-0482a-2026-11-2
+ 5@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Workshop: Aula aberta: Primaveras silenciosas: como evitar?
+LOCATION:Instituto Politécnico de Beja\, Beja
+DESCRIPTION:https://www.ipbeja.pt/Paginas/default.aspx
+URL:https://lykeion.pt/e/workshop-aula-aberta-primaveras-silenciosas-como-e
+ vitar-0482a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-estrategias-de-intervencao-em-fisioterapia-venti-2ac46-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Aula Aberta: «Estratégias de Intervenção em Fisioterapia: Venti
+ lação Mecânica»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-estrategias-de-in
+ tervencao-em-fisioterapia-ventilacao-mecanica/
+URL:https://lykeion.pt/e/aula-aberta-estrategias-de-intervencao-em-fisioter
+ apia-venti-2ac46.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plataforma-teams-aula-aberta-6c6d0-2026-11-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T113000
+SUMMARY:Plataforma Teams Aula aberta
+LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
+  Coimbra
+DESCRIPTION:https://www.iscac.pt/eventos/aula-aberta-direito-a-habitacao-re
+ gime-do-arrendamento-urbando-e-regime-simplificado-de-arrendamento-acessiv
+ el/
+URL:https://lykeion.pt/e/plataforma-teams-aula-aberta-6c6d0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-os-modelos-de-organizacao-territorial-do-estado-25a54-2026-
+ 12-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T163000
+SUMMARY:Aula Aberta - Os modelos de organização territorial do Estado: Po
+ rtugal e Espanha em perspetiva comparada
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/aula-aberta-os-modelos-de-organiza
+ cao-territorial-do-estado-portugal-e-espanha-em
+URL:https://lykeion.pt/e/aula-aberta-os-modelos-de-organizacao-territorial-
+ do-estado-25a54.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-conectar-e-cuidar-novas-perspetivas-na-comunicac-31310-2026
+ -12-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Aula Aberta «Conectar e cuidar: novas perspetivas na comunicação
+  e relação de ajuda em cuidados paliativos comunitários»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-conectar-e-cuidar
+ -novas-perspetivas-na-comunicacao-e-relacao-de-ajuda-em-cuidados-paliativo
+ s-comunitarios/
+URL:https://lykeion.pt/e/aula-aberta-conectar-e-cuidar-novas-perspetivas-na
+ -comunicac-31310.html
+END:VEVENT
+BEGIN:VEVENT
+UID:homenagem-publica-de-jubilacao-e-ultima-licao-do-professor-p-0fc3d-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T093000
+SUMMARY:Homenagem pública de jubilação e última lição do Professor Pe
+ dro Miranda
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://idl.ciencias.ulisboa.pt/instituto-dom-luiz-news/homenag
+ em-pblica-de-jubilao-e-ltima-lio-do-professor-pedro-miranda
+URL:https://lykeion.pt/e/homenagem-publica-de-jubilacao-e-ultima-licao-do-p
+ rofessor-p-0fc3d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:persona-de-ingmar-bergman-exibicao-e-aula-aberta-com-robert-68fa2-2026-
+ 12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T180000
+SUMMARY:Persona\, de Ingmar Bergman: exibição e Aula Aberta com Robert Pi
+ ppin
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/persona-de-ingmar-bergman-exibi
+ cao-e-aula-aberta-com-robert-pippin/
+URL:https://lykeion.pt/e/persona-de-ingmar-bergman-exibicao-e-aula-aberta-c
+ om-robert-68fa2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-diplomacia-parlamentar-o-papel-dos-parlamentos-n-0b0cc-2026
+ -12-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Aula Aberta - Diplomacia Parlamentar: O Papel dos Parlamentos na Po
+ lítica Externa Contemporânea
+LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
+DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-diplomacia-par
+ lamentar-o-papel-dos-parlamentos-na-politica-externa-contemporanea
+URL:https://lykeion.pt/e/aula-aberta-diplomacia-parlamentar-o-papel-dos-par
+ lamentos-n-0b0cc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-4-garantir-o-bem-estar-no-8556e-2026-12-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Aula aberta #4 — Garantir o bem-estar no...
+LOCATION:CLISSIS\, Vila Nova de Famalicão
+DESCRIPTION:https://web3.lis.ulusiada.pt/news/Home/Detalhe/Detalhes/aula-ab
+ erta-4-garantir-o-bem-estar-no-sistema-de-prote231227o-social-portugu234s-
+ desafios-para-o-servi231o-social-mestre-cid225lia-craveiro
+URL:https://lykeion.pt/e/aula-aberta-4-garantir-o-bem-estar-no-8556e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-aulas-abertas-3-inteligencia-efa80-2026-12-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Ciclo de aulas abertas #3 — Inteligência...
+LOCATION:CLISSIS\, Vila Nova de Famalicão
+DESCRIPTION:https://web3.lis.ulusiada.pt/news/Home/Detalhe/Detalhes/ciclo-d
+ e-aulas-abertas-3-intelig234ncia-artificial-direitos-humanos-e-pol237tica-
+ social-garantir-direitos-numa-sociedade-algor237tmica-filipa-aguiar-a-conf
+ irmar
+URL:https://lykeion.pt/e/ciclo-de-aulas-abertas-3-inteligencia-efa80.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-a-crianca-como-sujeito-de-direitos-saude-bem-est-bf0ed-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Aula Aberta: A criança como sujeito de direitos: saúde\, bem-esta
+ r e proteção
+LOCATION:Observatório da Formação e da Educação Inclusiva (OFEI)\, Por
+ to
+DESCRIPTION:https://ofei.esepf.pt/?mec-events=aula-aberta-o-educador-coorde
+ nador-e-diretor-uma-outra-faceta-profissional-2-2-2-2
+URL:https://lykeion.pt/e/aula-aberta-a-crianca-como-sujeito-de-direitos-sau
+ de-bem-est-bf0ed.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-a-terapeutica-da-dignidade-preservar-a-identidad-17fbc-2026
+ -12-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261217
+SUMMARY:Aula Aberta «A Terapêutica da Dignidade: Preservar a Identidade e
+ m Cuidados Paliativos»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-a-terapeutica-da-
+ dignidade-preservar-a-identidade-em-cuidados-paliativos/
+URL:https://lykeion.pt/e/aula-aberta-a-terapeutica-da-dignidade-preservar-a
+ -identidad-17fbc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:david-bonneville-realizador-e-argumentista-em-aula-aberta-4af45-2026-12
+ -17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261217
+SUMMARY:David Bonneville: realizador e argumentista em aula aberta
+LOCATION:Escola Superior de Media Artes e Design\, Póvoa de Varzim
+DESCRIPTION:https://www.esmad.ipp.pt/noticias/david-bonneville-realizador-e
+ -argumentista-em-aula-aberta
+URL:https://lykeion.pt/e/david-bonneville-realizador-e-argumentista-em-aula
+ -aberta-4af45.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-relacao-de-ajuda-em-cuidados-paliativos-desafios-e9d7e-2026
+ -12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:Aula Aberta «Relação de Ajuda em Cuidados Paliativos: desafios d
+ a atualidade» e «Espiritualidade transdisciplinar em Cuidados Paliativos
+ »
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-relacao-de-ajuda-
+ em-cuidados-paliativos-desafios-da-atualidade-e-espiritualidade-transdisci
+ plinar-em-cuidados-paliativos/
+URL:https://lykeion.pt/e/aula-aberta-relacao-de-ajuda-em-cuidados-paliativo
+ s-desafios-e9d7e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-autismo-no-pre-escolar-compreender-incluir-e-int-bf0ed-2027
+ -01-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270105
+SUMMARY:Aula Aberta: Autismo no Pré-Escolar: Compreender\, Incluir e Inter
+ vir
+LOCATION:Observatório da Formação e da Educação Inclusiva (OFEI)\, Por
+ to
+DESCRIPTION:https://ofei.esepf.pt/?mec-events=aula-aberta-o-educador-coorde
+ nador-e-diretor-uma-outra-faceta-profissional-2-2-2-2-2
+URL:https://lykeion.pt/e/aula-aberta-autismo-no-pre-escolar-compreender-inc
+ luir-e-int-bf0ed.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-online-relacao-de-ajuda-e-plano-individual-e-int-0b64d-2027
+ -01-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270108
+SUMMARY:Aula Aberta Online «Relação de Ajuda e Plano Individual e Integr
+ ado de Cuidados: Importância Da Comunicação Abordagem de casos prático
+ s»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-relacao-de-ajuda-
+ e-plano-individual-e-integrado-de-cuidados-importancia-da-comunicacao-abor
+ dagem-de-casos-praticos/
+URL:https://lykeion.pt/e/aula-aberta-online-relacao-de-ajuda-e-plano-indivi
+ dual-e-int-0b64d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:spe-distinguished-lecture-the-exceptional-price-performance-0bf27-2027-
+ 01-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270114T120000
+SUMMARY:SPE Distinguished Lecture-“The Exceptional Price Performance of O
+ il- Explanati...
+LOCATION:Instituto Superior Técnico\, Alvalade
+DESCRIPTION:https://cerena.pt/events/spe-distinguished-lecture-exceptional-
+ price-performance-oil-explanations-and-prospects-dr
+URL:https://lykeion.pt/e/spe-distinguished-lecture-the-exceptional-price-pe
+ rformance-0bf27.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-de-terapia-do-riso-2bdab-2027-01-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270116T130000
+SUMMARY:Aula Aberta de Terapia do Riso
+LOCATION:Instituto Politécnico de Setúbal\, Setúbal
+DESCRIPTION:https://www.unips.pt/eventos/aula-aberta-de-terapia-do-riso-ins
+ cricoes-abertas-ate-16-de-janeiro/
+URL:https://lykeion.pt/e/aula-aberta-de-terapia-do-riso-2bdab.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-transformar-o-sofrimento-novos-caminhos-e-organi-169c3-2027
+ -01-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:Aula Aberta «Transformar o Sofrimento: Novos Caminhos e Organizaç
+ ão de Realidades Restritas em Cuidados Paliativos»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-transformar-o-sof
+ rimento-novos-caminhos-e-organizacao-de-realidades-restritas-em-cuidados-p
+ aliativos/
+URL:https://lykeion.pt/e/aula-aberta-transformar-o-sofrimento-novos-caminho
+ s-e-organi-169c3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:open-lecture-space-form-movement-the-impact-of-public-space-da83b-2027-
+ 02-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270209T180000
+SUMMARY:Open Lecture: Space -> Form -> Movement: The impact of public space
+  topology on movement patterns
+LOCATION:Centro de Investigação em Ciências da Informação Tecnologias 
+ e Arquitetura
+DESCRIPTION:https://istar.iscte-iul.pt/news-posts/open-lecture-space-form-m
+ ovement-the-impact-of-public-space-topology-on-movement-patterns/
+URL:https://lykeion.pt/e/open-lecture-space-form-movement-the-impact-of-pub
+ lic-space-da83b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-da-reabilitacao-a-inclusao-da-pessoa-com-deficie-5fd20-2027
+ -02-15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270215T150000
+SUMMARY:Aula Aberta «Da Reabilitação à Inclusão da Pessoa com Deficiê
+ ncia: Perspetivas (inter)nacionais»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-da-reabilitacao-a
+ -inclusao-da-pessoa-com-deficiencia-perspetivas-internacionais/
+URL:https://lykeion.pt/e/aula-aberta-da-reabilitacao-a-inclusao-da-pessoa-c
+ om-deficie-5fd20.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-a-gestao-das-operacoes-e-os-sistemas-de-gestao-d-7a77f-2027
+ -03-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270303T100000
+SUMMARY:Aula Aberta | A Gestão das Operações e os Sistemas de Gestão da
+  Manutenção
+LOCATION:Instituto Politécnico de Setúbal\, Setúbal
+DESCRIPTION:https://estsetubal.unips.pt/eventos/aula-aberta-a-gestao-das-op
+ eracoes-e-os-sistemas-de-gestao-da-manutencao/
+URL:https://lykeion.pt/e/aula-aberta-a-gestao-das-operacoes-e-os-sistemas-d
+ e-gestao-d-7a77f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aulas-abertas-os-cuidados-paliativos-na-vanguarda-da-hodiern-43128-2027
+ -03-06@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270306T160000
+SUMMARY:Aulas Abertas «Os Cuidados Paliativos na Vanguarda da Hodiernidade
+ »
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aulas-abertas-os-cuidados-pal
+ iativos-na-vanguarda-da-atualidade-e-hodiernidade/
+URL:https://lykeion.pt/e/aulas-abertas-os-cuidados-paliativos-na-vanguarda-
+ da-hodiern-43128.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-do-9f910-2027-03-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270307T120000
+SUMMARY:Aula aberta do conceito de Lusofonia
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-marco-aula-aberta-do-
+ conceito-de-lusofonia
+URL:https://lykeion.pt/e/aula-aberta-do-9f910.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aulas-abertas-os-cuidados-paliativos-na-vanguarda-da-hodiern-43128-2027
+ -03-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270308T160000
+SUMMARY:Aulas Abertas «Os Cuidados Paliativos na Vanguarda da Hodiernidade
+ »
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aulas-abertas-os-cuidados-pal
+ iativos-na-vanguarda-da-hodiernidade/
+URL:https://lykeion.pt/e/aulas-abertas-os-cuidados-paliativos-na-vanguarda-
+ da-hodiern-43128.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-a-dimensao-maritima-do-no-imaginario-lusofono-0e5e5-2027-03
+ -14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270314T120000
+SUMMARY:Aula aberta «A Dimensão Marítima do/no Imaginário Lusófono»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/14-de-marco-aula-aberta-a-
+ dimensao-maritima-do-no-imaginario-lusofono
+URL:https://lykeion.pt/e/aula-aberta-a-dimensao-maritima-do-no-imaginario-l
+ usofono-0e5e5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:e3udres2-live-lecture-day-2026-9cb28-2027-03-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270326T080000
+SUMMARY:E3UDRES2 Live Lecture Day 2026
+LOCATION:Instituto Politécnico de Setúbal\, Barreiro
+DESCRIPTION:https://estbarreiro.unips.pt/eventos/l/
+URL:https://lykeion.pt/e/e3udres2-live-lecture-day-2026-9cb28.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-esart-d9d89-2027-03-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270330T193000
+SUMMARY:Aula Aberta ESART
+LOCATION:Conservatório de Música e Artes do Centro\, Ourém
+DESCRIPTION:https://www.cmac.pt/eventos/aula-aberta-esart
+URL:https://lykeion.pt/e/aula-aberta-esart-d9d89.html
 END:VEVENT
 END:VCALENDAR

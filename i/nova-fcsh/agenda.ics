@@ -7,17 +7,6 @@ X-WR-CALNAME:NOVA FCSH – Faculdade de Ciências Sociais e Humanas (Lykeio
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:9-a-13-nov-2026-esad-cr-caldas-da-rainha-c1c94-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T100000
-SUMMARY:(9 a 13 Nov 2026) ESAD.CR\, Caldas da Rainha
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/repositorios-de-dados-de-invest
- igacao-a-comunidade-do-cham-no-zenodo/
-URL:https://lykeion.pt/e/9-a-13-nov-2026-esad-cr-caldas-da-rainha-c1c94.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 UID:1936-1939-espanha-fraturada-c70bb-2026-11-10@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
@@ -48,6 +37,18 @@ DESCRIPTION:https://www.fcsh.unl.pt/eventos/ia-superinteligente-e-o-sentido
  -na-vida/
 URL:https://lykeion.pt/e/encontro-ia-superinteligente-e-o-sentido-na-vida-4
  7a85.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9-a-13-nov-2026-esad-cr-caldas-da-rainha-c1c94-2026-11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T100000
+SUMMARY:Repositórios de dados de investigação a comunidade do CHAM no ze
+ nodo
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/repositorios-de-dados-de-invest
+ igacao-a-comunidade-do-cham-no-zenodo/
+URL:https://lykeion.pt/e/9-a-13-nov-2026-esad-cr-caldas-da-rainha-c1c94.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:revolucao-contra-revolucao-e-politica-popular-em-portugal-c762f-2026-11
@@ -111,30 +112,6 @@ URL:https://lykeion.pt/e/as-ciencias-da-etica-e-da-filosofia-politica-65375
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:12-a-13-nov-2026-cineteatro-louletano-loule-c9672-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:(12 a 13 Nov 2026) Cineteatro Louletano\, Loulé
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/vozes-da-guerra-civil-espanhola
- -sessao-a-volta-da-literatura-e-da-musica/
-URL:https://lykeion.pt/e/12-a-13-nov-2026-cineteatro-louletano-loule-c9672.
- html
-END:VEVENT
-BEGIN:VEVENT
-UID:12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-2-00-pm-no-30e4c-2026
- -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T123000
-SUMMARY:12:30 pm 2:00 pm Inquietações Apetitosas 12:30 pm - 2:00 pm Nova 
- Fcsh\, Colégio Almada Negreiros\, Copa \, Campus de Campolide da NOVA —
-  1099-085 Lisboa Tipologia do Evento: Outros
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/inquietacoes-apetitosas-01/
-URL:https://lykeion.pt/e/12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-
- 2-00-pm-no-30e4c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:encontro-museus-mundos-em-mudanca-f2951-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T090000
@@ -142,6 +119,19 @@ SUMMARY:Encontro: Museus\, Mundos em Mudança
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/encontro-museus-mundos-em-mudanca-f2951.html
+END:VEVENT
+BEGIN:VEVENT
+UID:12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-2-00-pm-no-30e4c-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T123000
+SUMMARY:Inquietações Apetitosas 12:30 pm - 2:00 pm Nova Fcsh\, Colégio A
+ lmada Negreiros\, Copa \, Campus de Campolide da NOVA — 1099-085 Lisboa 
+ Tipologia do Evento: Outros
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/inquietacoes-apetitosas-01/
+URL:https://lykeion.pt/e/12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-
+ 2-00-pm-no-30e4c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-vinha-e-vinho-da-paisagem-da-domesticacao-ao-ter-db9ee-2026
@@ -155,6 +145,18 @@ DESCRIPTION:https://iem.fcsh.unl.pt/evento/masterclass-vinha-e-vinho-da-pai
  sagem-da-domesticacao-ao-terroir-pos-filoxera/
 URL:https://lykeion.pt/e/masterclass-vinha-e-vinho-da-paisagem-da-domestica
  cao-ao-ter-db9ee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:12-a-13-nov-2026-cineteatro-louletano-loule-c9672-2026-11-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Vozes da guerra civil espanhola sessão a volta da literatura e da 
+ música
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/vozes-da-guerra-civil-espanhola
+ -sessao-a-volta-da-literatura-e-da-musica/
+URL:https://lykeion.pt/e/12-a-13-nov-2026-cineteatro-louletano-loule-c9672.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:cham-talks-mulheres-trabalhadoras-na-literatura-espanhola-co-ed74b-2026
@@ -220,16 +222,6 @@ URL:https://lykeion.pt/e/por-ocasiao-da-estreia-moderna-de-obra-prima-de-ni
  ccolo-jomm-07a14.html
 END:VEVENT
 BEGIN:VEVENT
-UID:14-a-16-nov-2026-gulbenkian-e-nova-fcsh-6fe2f-2026-11-14@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T110000
-SUMMARY:(14 a 16 Nov 2026) Gulbenkian e Nova Fcsh
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/sessao-de-esclarecimento-estagi
- os-curriculares-licenciatura/
-URL:https://lykeion.pt/e/14-a-16-nov-2026-gulbenkian-e-nova-fcsh-6fe2f.html
-END:VEVENT
-BEGIN:VEVENT
 UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
  -11-14@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -240,6 +232,16 @@ DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
  -para-a-infancia-e-desenvolvimento-social-e-humano/
 URL:https://lykeion.pt/e/encontro-arte-para-a-infancia-e-desenvolvimento-so
  cial-e-hum-9684e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:14-a-16-nov-2026-gulbenkian-e-nova-fcsh-6fe2f-2026-11-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T110000
+SUMMARY:Gulbenkian e Nova Fcsh
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/sessao-de-esclarecimento-estagi
+ os-curriculares-licenciatura/
+URL:https://lykeion.pt/e/14-a-16-nov-2026-gulbenkian-e-nova-fcsh-6fe2f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026
@@ -375,5 +377,204 @@ SUMMARY:Seminário: ARGO IHA com James Elkins
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/argo-iha-com-james-elkins/
 URL:https://lykeion.pt/e/seminario-argo-iha-com-james-elkins-6329e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:coloquio-tricentenario-da-3a-edicao-dos-philosophiae-natural-66fa2-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T093000
+SUMMARY:Colóquio: Tricentenário da 3a edição dos «Philosophiae Natural
+ is Principia Mathematica»\, de Isaac Newton
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/tricentenario-philosophiae-natur
+ alis/
+URL:https://lykeion.pt/e/coloquio-tricentenario-da-3a-edicao-dos-philosophi
+ ae-natural-66fa2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-a-ideia-de-uma-republica-universal-bd55f-2026-11-24@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T103000
+SUMMARY:Seminário: A Ideia de Uma República Universal
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/a-ideia-de-uma-republica-univer
+ sal/
+URL:https://lykeion.pt/e/seminario-a-ideia-de-uma-republica-universal-bd55f
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:x-congresso-de-historia-local-584c2-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T093000
+SUMMARY:X Congresso de História Local
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/x-congresso-historia-local/
+URL:https://lykeion.pt/e/x-congresso-de-historia-local-584c2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:socialist-yugoslavia-all-year-round-9bdb9-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Socialist Yugoslavia All Year Round
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/agenda/
+URL:https://lykeion.pt/e/socialist-yugoslavia-all-year-round-9bdb9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-candido-ou-o-optimismo-de-voltaire-72e25-2026-11-26@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T140000
+SUMMARY:Seminário: Cândido\, ou o Optimismo\, de Voltaire
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/candido-ou-o-optimismo-de-volta
+ ire/
+URL:https://lykeion.pt/e/seminario-candido-ou-o-optimismo-de-voltaire-72e25
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:nu-sta-papia-caminhos-e-praticas-da-oralidade-no-cabo-verde-c7a9e-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
+SUMMARY:Nu sta papia: caminhos e práticas da oralidade no Cabo Verde conte
+ mporâneo
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/nu-sta-papia-caminhos-e-pratica
+ s-da-oralidade-no-cabo-verde-contemporaneo/
+URL:https://lykeion.pt/e/nu-sta-papia-caminhos-e-praticas-da-oralidade-no-c
+ abo-verde-c7a9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6-00-pm-8-00-pm-liberalismo-no-seculo-xix-seminario-permanen-21c94-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T060000
+SUMMARY:Liberalismo no século XIX Seminário permanente 6:00 pm - 8:00 pm 
+ Nova Fcsh\, Edifício C\, Auditório C1 \, Avenida de Berna\, 26C — 1069
+ -061 Lisboa Tipologia do Evento: Seminário
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/revisitar-xix-2611/
+URL:https://lykeion.pt/e/6-00-pm-8-00-pm-liberalismo-no-seculo-xix-seminari
+ o-permanen-21c94.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-rosario-martins-b14d9-2026-12-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T023000
+SUMMARY:Provas de Doutoramento de Rosário Martins
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/rosario-martins-phd/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-rosario-martins-b14d9.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:revista-interact-no-43-chamada-para-contributos-550a5-2026-12-07@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:Revista Interact no 43 – Chamada para contributos
+LOCATION:Instituto de Comunicação da Nova
+DESCRIPTION:https://www.icnova.fcsh.unl.pt/revista-interact-43-chamada-cont
+ ributos/
+URL:https://lykeion.pt/e/revista-interact-no-43-chamada-para-contributos-55
+ 0a5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nas-margens-do-possivel-3-71eee-2026-12-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T063000
+SUMMARY:Nas Margens do Possível #3
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/margens-possivel-03/
+URL:https://lykeion.pt/e/nas-margens-do-possivel-3-71eee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:investigar-na-idade-media-o-lugar-dos-estudos-medievais-num-a4614-2026-
+ 12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Investigar na Idade Média – O lugar dos Estudos Medievais num Ec
+ ossistema hostil
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/investigar-na-idade-media-o-luga
+ r-dos-estudos-medievais-num-ecosistema-hostil/
+URL:https://lykeion.pt/e/investigar-na-idade-media-o-lugar-dos-estudos-medi
+ evais-num-a4614.html
+END:VEVENT
+BEGIN:VEVENT
+UID:persona-de-ingmar-bergman-exibicao-e-aula-aberta-com-robert-68fa2-2026-
+ 12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T180000
+SUMMARY:Persona\, de Ingmar Bergman: exibição e Aula Aberta com Robert Pi
+ ppin
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/persona-de-ingmar-bergman-exibi
+ cao-e-aula-aberta-com-robert-pippin/
+URL:https://lykeion.pt/e/persona-de-ingmar-bergman-exibicao-e-aula-aberta-c
+ om-robert-68fa2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-ressurreicao-de-lev-tolstoi-8ecd3-2026-12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T140000
+SUMMARY:Seminário: Ressurreição\, de Lev Tolstoi
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/ressurreicao-de-lev-tolstoi/
+URL:https://lykeion.pt/e/seminario-ressurreicao-de-lev-tolstoi-8ecd3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-vinho-velho-em-barris-novos-bef1f-2026-12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T103000
+SUMMARY:Seminário: Vinho velho em barris novos?
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/vinho-velho-em-barris-novos/
+URL:https://lykeion.pt/e/seminario-vinho-velho-em-barris-novos-bef1f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-de-estudos-medievais-tiago-viula-faria-d2fc0-2026-12-15@lagen
+ da.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261215T160000
+SUMMARY:Seminário de Estudos Medievais | Tiago Viúla Faria
+LOCATION:Instituto de Estudos Medievais
+DESCRIPTION:https://iem.fcsh.unl.pt/evento/seminario-de-estudos-medievais-t
+ iago-viula-faria/
+URL:https://lykeion.pt/e/seminario-de-estudos-medievais-tiago-viula-faria-d
+ 2fc0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-congresso-karl-marx-51ec1-2027-01-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270122
+SUMMARY:IV Congresso Karl Marx
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/karl-marx-2027/
+URL:https://lykeion.pt/e/iv-congresso-karl-marx-51ec1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:new-perspectives-on-soft-power-and-cultural-diplomacy-5379e-2027-02-24@
+ lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270224
+SUMMARY:New Perspectives on Soft Power and Cultural Diplomacy
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/new-perspectives-softpower/
+URL:https://lykeion.pt/e/new-perspectives-on-soft-power-and-cultural-diplom
+ acy-5379e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xxi-forum-de-partilha-linguistica-chamada-de-trabalhos-25fbb-2027-04-15
+ @lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270415
+SUMMARY:XXI Fórum de Partilha Linguística: Chamada de Trabalhos
+LOCATION:Centro de Linguística
+DESCRIPTION:https://clunl.fcsh.unl.pt
+URL:https://lykeion.pt/e/xxi-forum-de-partilha-linguistica-chamada-de-traba
+ lhos-25fbb.html
 END:VEVENT
 END:VCALENDAR

@@ -61,16 +61,6 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-fernando-miguel-tavares-bulh
  oes-desenv-bd873.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ii-jornadas-nortear-a-ceramica-6e65d-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T100000
-SUMMARY:II Jornadas Nortear a Cerâmica
-LOCATION:Museu Regional de Arqueologia Dom Diogo de Sousa\, Braga
-DESCRIPTION:https://www.maddiogosousa.gov.pt/event-item/ii-jornadas-nortear
- -a-ceramica/
-URL:https://lykeion.pt/e/ii-jornadas-nortear-a-ceramica-6e65d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ii-jornadas-nortear-a-ceramica-2026-741f4-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -83,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-jornadas-nortear-a-ceramica-57727-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T100000
 SUMMARY:II Jornadas “Nortear a Cerâmica
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
 DESCRIPTION:https://lab2pt.net/conferences/congresses/ii-jornadas-nortear-a
@@ -115,5 +105,81 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  00334
 URL:https://lykeion.pt/e/provas-de-mestrado-de-susana-maria-vieira-ramos-a-
  utilizacao-8ca5f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-europeu-dedicado-ao-futuro-dos-materiais-avancados-d9a59-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Encontro europeu dedicado ao futuro dos Materiais Avançados decorr
+ e na Universidade de Aveiro nos dias 26 e 28 de novembro
+LOCATION:Universidade de Aveiro
+DESCRIPTION:https://www.spmateriais.pt/post/encontro-europeu-dedicado-ao-fu
+ turo-dos-materiais-avan%C3%A7ados-decorre-na-universidade-de-aveiro-nos-di
+URL:https://lykeion.pt/e/encontro-europeu-dedicado-ao-futuro-dos-materiais-
+ avancados-d9a59.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-biomateriais-e-nanomedicina-de-beatriz-60b51-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de Mestrado em Biomateriais e Nanomedicina de Beatriz Machad
+ o Lopes — Desenvolvimento de scaffolds compósitos à base de quitosana 
+ por robocasting para regeneração óssea e hipertermia magnética
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/99881
+URL:https://lykeion.pt/e/provas-de-mestrado-em-biomateriais-e-nanomedicina-
+ de-beatriz-60b51.html
+END:VEVENT
+BEGIN:VEVENT
+UID:materiais-em-contacto-com-a-agua-67289-2026-12-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261217T080000
+SUMMARY:Materiais em Contacto com a Água
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/materiais-em-contacto-com-a-agua
+ /
+URL:https://lykeion.pt/e/materiais-em-contacto-com-a-agua-67289.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-be94e-2026-12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T180000
+SUMMARY:Exposição ensaios de tectónica digital
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/exhibitions/exposicao-ensaios-de-tectonica-d
+ igital
+URL:https://lykeion.pt/e/exposicao-be94e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-cienciavitae-b9cb1-2027-01-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270126
+SUMMARY:Sessão CIÊNCIAVITAE apresentação e vídeo disponíveis
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/sessao-cienciavitae-ap
+ resentacao-e-video-disponiveis/
+URL:https://lykeion.pt/e/sessao-cienciavitae-b9cb1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:phd-defence-f34f7-2027-03-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270309
+SUMMARY:Provas de doutoramento Beatriz Sales bandarra
+LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
+ tabilidade\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceres/noticias/provas-de-doutoramento-beatriz
+ -sales-bandarra-9/
+URL:https://lykeion.pt/e/phd-defence-f34f7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oficina-os-clandestinos-3253f-2027-03-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270310T103000
+SUMMARY:Oficina Os Clandestinos
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.ccb.pt/evento/oficina-os-clandestinos/2027-03-10/
+URL:https://lykeion.pt/e/oficina-os-clandestinos-3253f.html
 END:VEVENT
 END:VCALENDAR

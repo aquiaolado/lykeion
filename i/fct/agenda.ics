@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:FCT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminarios-548a1-2026-12-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T140000
+SUMMARY:III seminário de projeto da rede tecnopolíticas da participação
+LOCATION:Centro em Rede de Investigacao em Antropologia
+DESCRIPTION:https://cria.org.pt/pt/iii-seminario-de-projeto-da-rede-tecnopo
+ liticas-da-participacao
+URL:https://lykeion.pt/e/seminarios-548a1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciencia-e-sociedade-bd665-2027-01-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270128T140000
+SUMMARY:Ciência e Sociedade
+LOCATION:Centro em Rede de Investigacao em Antropologia
+DESCRIPTION:https://cria.org.pt/pt/save-the-date-encontro-com-a-comissao-ex
+ terna-de-acompanhamento
+URL:https://lykeion.pt/e/ciencia-e-sociedade-bd665.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciencia-e-sociedade-5645b-2027-01-29@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270129T100000
+SUMMARY:Ciência e Sociedade
+LOCATION:Centro em Rede de Investigacao em Antropologia
+DESCRIPTION:https://cria.org.pt/pt/dia-cria-um-dia-para-refletir-debater-e-
+ construir-o-futuro-da-investigacao-em-antropologia
+URL:https://lykeion.pt/e/ciencia-e-sociedade-5645b.html
+END:VEVENT
+END:VCALENDAR

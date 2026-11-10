@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CETRAD (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:training-sabi-access-cetrad-e08c2-2027-03-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270325
+SUMMARY:Training - SABI Access - CETRAD
+LOCATION:Centro de Estudos Transdisciplinares para o Desenvolvimento\, Vila
+  Real
+DESCRIPTION:https://www.cetrad.utad.pt/event/training-sabi-access/
+URL:https://lykeion.pt/e/training-sabi-access-cetrad-e08c2.html
+END:VEVENT
+END:VCALENDAR

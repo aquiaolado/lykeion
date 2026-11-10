@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPNPsy (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:4-o-encontro-bienal-da-sociedade-portuguesa-de-neuropsicolog-ff742-2027
+ -03-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270304
+SUMMARY:4.º Encontro Bienal da Sociedade Portuguesa de Neuropsicologia
+LOCATION:Sociedade Portuguesa de Neuropsicologia
+DESCRIPTION:https://spnpsy.org/4-o-encontro-bienal-da-sociedade-portuguesa-
+ de-neuropsicologia/
+URL:https://lykeion.pt/e/4-o-encontro-bienal-da-sociedade-portuguesa-de-neu
+ ropsicolog-ff742.html
+END:VEVENT
+END:VCALENDAR

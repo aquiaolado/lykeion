@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPOT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-atualizacao-na-abordagem-ao-doente-politraumatizado-e2607-2026-
+ 12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Webinar – Atualização na abordagem ao doente politraumatizado
+LOCATION:Sociedade Portuguesa de Ortopedia e Traumatologia
+DESCRIPTION:https://spot.pt/eventos/webinar-atualizacao-na-abordagem-ao-doe
+ nte-politraumatizado/
+URL:https://lykeion.pt/e/webinar-atualizacao-na-abordagem-ao-doente-politra
+ umatizado-e2607.html
+END:VEVENT
+END:VCALENDAR

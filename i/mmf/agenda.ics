@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:MMF (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:o-murmurio-da-lava-em-exposicao-no-museu-de-historia-natural-0af9b-2027
+ -02-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270204T080000
+SUMMARY:O Murmúrio da Lava” em exposição no Museu de História Natural
+  do Funchal
+LOCATION:Museu de História Natural do Funchal\, Funchal
+DESCRIPTION:https://mmf.funchal.pt/o-murmurio-da-lava-em-exposicao-no-museu
+ -de-historia-natural-do-funchal/
+URL:https://lykeion.pt/e/o-murmurio-da-lava-em-exposicao-no-museu-de-histor
+ ia-natural-0af9b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inauguracao-da-exposicao-interativa-biotopia-o-patrimonio-na-517dd-2027
+ -02-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270211T080000
+SUMMARY:Inauguração da Exposição Interativa “Biotopia – O Patrimón
+ io Natural da Madeira” no Museu de História Natural do Funchal
+LOCATION:Museu de História Natural do Funchal\, Funchal
+DESCRIPTION:https://mmf.funchal.pt/inauguracao-da-exposicao-interativa-biot
+ opia-o-patrimonio-natural-da-madeira-no-museu-de-historia-natural-do-funch
+ al/
+URL:https://lykeion.pt/e/inauguracao-da-exposicao-interativa-biotopia-o-pat
+ rimonio-na-517dd.html
+END:VEVENT
+END:VCALENDAR

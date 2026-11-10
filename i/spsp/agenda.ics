@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPSP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:spsp-participa-na-2-a-conferencia-repo-sudoe-em-a-corunha-15a92-2026-12
+ -15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:SPSP participa na 2.ª Conferência RePo-SUDOE\, em A Corunha
+LOCATION:Sociedade Portuguesa de Saúde Pública
+DESCRIPTION:https://spsp.pt/noticias/spsp-participa-na-2-a-conferencia-repo
+ -sudoe-em-a-corunha/
+URL:https://lykeion.pt/e/spsp-participa-na-2-a-conferencia-repo-sudoe-em-a-
+ corunha-15a92.html
+END:VEVENT
+BEGIN:VEVENT
+UID:spsp-disponibiliza-novos-cadernos-cientificos-no-ambito-do-e-51c04-2027
+ -03-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270326
+SUMMARY:SPSP disponibiliza novos Cadernos Científicos no âmbito do Encont
+ ro “One Health
+LOCATION:Sociedade Portuguesa de Saúde Pública
+DESCRIPTION:https://spsp.pt/publicacoes/spsp-disponibiliza-novos-cadernos-c
+ ientificos-no-ambito-do-encontro-one-health/
+URL:https://lykeion.pt/e/spsp-disponibiliza-novos-cadernos-cientificos-no-a
+ mbito-do-e-51c04.html
+END:VEVENT
+END:VCALENDAR

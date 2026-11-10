@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Museu Municipal Amadeo de Souza-Cardoso (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:museu-reabriu-ao-publico-com-duas-exposicoes-662c5-2027-01-26@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270126T180000
+SUMMARY:Museu reabriu ao público com duas exposições
+LOCATION:Museu Municipal Amadeo de Souza-Cardoso\, Amarante
+DESCRIPTION:http://www.amadeosouza-cardoso.pt/pt/pt/noticias/2026/01/26/mus
+ eu-reabriu-ao-paoblico-com-duas-exposiaaues
+URL:https://lykeion.pt/e/museu-reabriu-ao-publico-com-duas-exposicoes-662c5
+ .html
+END:VEVENT
+END:VCALENDAR

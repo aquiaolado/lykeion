@@ -62,7 +62,7 @@ BEGIN:VEVENT
 UID:seminario-7d131-2026-11-18@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:Seminário
+SUMMARY:Seminário · Universidade de Trás-os-Montes e Alto Douro
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/seminario-active-hotspots/
 URL:https://lykeion.pt/e/seminario-7d131.html
@@ -111,5 +111,60 @@ LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
 URL:https://lykeion.pt/e/workshop-nem-todos-os-bichos-tem-patas-uma-viagem-
  ao-mundo-i-d6c28.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-realidade-virtual-desafios-e-oportunidades-c1bca-2026-11
+ -25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Portas abertas: Realidade Virtual: Desafios e Oportunidades
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/portas-abertas-realidade-virtual-desafios-e-oportu
+ nidades-c1bca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-de-apresentacao-de-resultados-do-projeto-ca7e1-2026-11-25@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Sessão de Apresentação de Resultados do Projeto
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/sessao-apresentacao-resultados-p
+ rojeto/
+URL:https://lykeion.pt/e/sessao-de-apresentacao-de-resultados-do-projeto-ca
+ 7e1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:25o-encontro-nacional-de-ecologia-1st-international-meeting-33796-2026-
+ 12-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T090000
+SUMMARY:25o Encontro Nacional de Ecologia – 1st International Meeting of 
+ Ecology
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/25-encontro-nacional-ecologia/
+URL:https://lykeion.pt/e/25o-encontro-nacional-de-ecologia-1st-internationa
+ l-meeting-33796.html
+END:VEVENT
+BEGIN:VEVENT
+UID:douro-lugar-de-um-encontro-feliz-ddd06-2027-01-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:Douro - Lugar de um encontro feliz
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Peso da Régua
+DESCRIPTION:https://www.museudodouro.pt/exposicoes/presente/douro-lugar-de-
+ um-encontro-feliz
+URL:https://lykeion.pt/e/douro-lugar-de-um-encontro-feliz-ddd06.html
+END:VEVENT
+BEGIN:VEVENT
+UID:training-sabi-access-cetrad-e08c2-2027-03-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270325
+SUMMARY:Training - SABI Access - CETRAD
+LOCATION:Centro de Estudos Transdisciplinares para o Desenvolvimento\, Vila
+  Real
+DESCRIPTION:https://www.cetrad.utad.pt/event/training-sabi-access/
+URL:https://lykeion.pt/e/training-sabi-access-cetrad-e08c2.html
 END:VEVENT
 END:VCALENDAR

@@ -334,7 +334,8 @@ BEGIN:VEVENT
 UID:aula-aberta-4f3f0-2026-11-13@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T090000
-SUMMARY:Aula Aberta
+SUMMARY:Aula aberta housing first intervenção comunitária e transformaç
+ ão de vidas
 LOCATION:Universidade Católica Portuguesa\, Braga
 DESCRIPTION:https://braga.ucp.pt/eventos/aula-aberta-housing-first-interven
  cao-comunitaria-e-transformacao-de-vidas
@@ -366,19 +367,6 @@ URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-medic
  ina-legal-87902.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gea-13-11-26-programa-de-doutoramento-mariana-ladeira-afonso-db83b-2026
- -11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:GEA 13.11.26 Programa de Doutoramento | Mariana Ladeira Afonso 13 n
- ovembro Anfiteatro do iCBR Polo das Ciências da Saúde\, FMUC
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/programa-de-doutoramento-
- mariana-ladeira-afonso/
-URL:https://lykeion.pt/e/gea-13-11-26-programa-de-doutoramento-mariana-lade
- ira-afonso-db83b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:mestre-helena-da-costa-e-cunha-xavier-ferreira-provas-de-dou-70d18-2026
  -11-13@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -391,6 +379,19 @@ DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
  81392
 URL:https://lykeion.pt/e/mestre-helena-da-costa-e-cunha-xavier-ferreira-pro
  vas-de-dou-70d18.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-13-11-26-programa-de-doutoramento-mariana-ladeira-afonso-db83b-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Programa de Doutoramento | Mariana Ladeira Afonso 13 novembro Anfit
+ eatro do iCBR Polo das Ciências da Saúde\, FMUC
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/programa-de-doutoramento-
+ mariana-ladeira-afonso/
+URL:https://lykeion.pt/e/gea-13-11-26-programa-de-doutoramento-mariana-lade
+ ira-afonso-db83b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-metabolismo-biopatologia-e-experimentac-ae43c-2026
@@ -537,16 +538,6 @@ URL:https://lykeion.pt/e/exams-for-the-masters-degree-in-portuguese-sign-la
  nguage-and-cfa21.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:GEA 16.11.26 Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
- o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
-URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
-END:VEVENT
-BEGIN:VEVENT
 UID:master-in-portuguese-sign-language-and-deaf-education-dea4a-2026-11-16@
  lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -557,6 +548,16 @@ DESCRIPTION:https://fcse.lisboa.ucp.pt/news-events/eventos?f%5B0%5D=field_c
  ategories%3A161
 URL:https://lykeion.pt/e/master-in-portuguese-sign-language-and-deaf-educat
  ion-dea4a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
+ o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
+URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-ciencias-forenses-9ebe4-2026-11-16@lagenda.pt
@@ -652,16 +653,6 @@ URL:https://lykeion.pt/e/exams-for-the-masters-degree-in-portuguese-sign-la
  nguage-and-cfa21.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:GEA 17.11.26 Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
- los-jorge-castilho-rabaca-correia-cordeiro/
-URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
-END:VEVENT
-BEGIN:VEVENT
 UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -674,6 +665,16 @@ DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
  80432
 URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
  artins-pro-f56a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
+ los-jorge-castilho-rabaca-correia-cordeiro/
+URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-em-metabolismo-clinica-e-experimentaca-e7477-2026
@@ -760,6 +761,17 @@ URL:https://lykeion.pt/e/cintesis-organizou-debate-sobre-medicina-geral-e-f
  amiliar-11718.html
 END:VEVENT
 BEGIN:VEVENT
+UID:workshop-bfcdd-2026-11-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T010000
+SUMMARY:Mind tide perfectionism strength or prison
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/mind-tide-perfectionism-strengt
+ h-or-prison/
+URL:https://lykeion.pt/e/workshop-bfcdd.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-mestrado-em-cuidados-de-saude-primarios-bc7ff-2026-11-18@lagen
  da.pt
 DTSTAMP:20261110T000000Z
@@ -821,17 +833,6 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-joana-mendes-de-brito-rodrig
  ues-barret-5ee65.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-bfcdd-2026-11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T010000
-SUMMARY:Workshop
-LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
- rto
-DESCRIPTION:https://www.ciimar.up.pt/events/mind-tide-perfectionism-strengt
- h-or-prison/
-URL:https://lykeion.pt/e/workshop-bfcdd.html
-END:VEVENT
-BEGIN:VEVENT
 UID:30a-reuniao-anual-f7e3b-2026-11-19@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
@@ -862,21 +863,6 @@ LOCATION:Centro de Direito Biomédico\, Coimbra
 DESCRIPTION:https://centrodedireitobiomedico.org/curso/8-congresso-internac
  ional-da-adfas-presente-e-futuro-do-biodireito-da/35/
 URL:https://lykeion.pt/e/8o-congresso-internacional-da-adfas-ab031.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ciclo-de-conferencias-errancias-culturas-e-identidades-outra-7f70c-2026
- -11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T180000
-SUMMARY:Ciclo de Conferências | Errâncias\, Culturas e Identidades Outras
-  fronteiras do Comum. Errância e hospitalidade na literatura e na arte po
- r Luca Fazzini
-LOCATION:BMEL\, Guarda
-DESCRIPTION:https://www.mun-guarda.pt/agenda-de-eventos/ciclo-de-conferenci
- as-errancias-culturas-e-identidades-outras-fronteiras-do-comum-errancia-e-
- hospitalidade-na-literatura-e-na-arte-por-luca-fazzini/
-URL:https://lykeion.pt/e/ciclo-de-conferencias-errancias-culturas-e-identid
- ades-outra-7f70c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exams-for-the-masters-degree-in-portuguese-sign-language-and-cfa21-2026
@@ -1203,5 +1189,1670 @@ LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
 URL:https://lykeion.pt/e/workshop-nem-todos-os-bichos-tem-patas-uma-viagem-
  ao-mundo-i-d6c28.html
+END:VEVENT
+BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-medicina-legal-5beea-2026-
+ 11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T153000
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Medicina Legal
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 83712
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-medic
+ ina-legal-5beea.html
+END:VEVENT
+BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-oncologia-fa37d-2026-11-24
+ @lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T100000
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Oncologia
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84093
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-oncol
+ ogia-fa37d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-mestrado-em-evidencia-e-decisao-em-saude-dea19-2026-11-24@lage
+ nda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T153000
+SUMMARY:Prova de Mestrado em Evidência e Decisão em Saúde
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19503
+URL:https://lykeion.pt/e/prova-de-mestrado-em-evidencia-e-decisao-em-saude-
+ dea19.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-mestrado-em-neurobiologia-db486-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T110000
+SUMMARY:Prova de Mestrado em Neurobiologia
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19523
+URL:https://lykeion.pt/e/prova-de-mestrado-em-neurobiologia-db486.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rudolfo-pais-mendes-ferreira-francisco-fe22b-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Provas de mestrado de Rudolfo Pais Mendes Ferreira Francisco — 10
+  Yers of evolution of pharmacological treatment in a population diagnosed 
+ with reduced ejection fraction heart failure followed in inte
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rudolfo-pais-mendes-ferreira
+ -francisco-fe22b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:novel-therapeutic-approaches-bridging-research-and-implement-c7bf4-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Novel Therapeutic Approaches: Bridging Research and Implementatin
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/novel-therapeuti
+ c-approaches-bridging-research-and-implementatin
+URL:https://lykeion.pt/e/novel-therapeutic-approaches-bridging-research-and
+ -implement-c7bf4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-mestrado-em-educacao-para-a-saude-c7e45-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T110000
+SUMMARY:Prova de Mestrado em Educação para a Saúde
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19143
+URL:https://lykeion.pt/e/prova-de-mestrado-em-educacao-para-a-saude-c7e45.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-mestrado-em-informatica-medica-832fd-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T140000
+SUMMARY:Prova de Mestrado em Informática Médica
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19165
+URL:https://lykeion.pt/e/prova-de-mestrado-em-informatica-medica-832fd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-catarina-alexandra-domingues-marques-p-1b37f-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de Catarina Alexandra Domingues Marques — Psic
+ ologia Clínica e da Saúde
+LOCATION:Universidade Fernando Pessoa\, Porto
+DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-catarina-alexandra-domingues
+ -marques-p-1b37f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-estagio-coordenacao-de-investigacao-cl-dcb1f-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de Estágio Coordenação De Investigação Clí
+ nica Lusíadas Knowlodge Center — Aula Magna da Faculdade de Medicina da
+  Universidade de Lisboa\, no piso 3 do Hospital de Santa Maria
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-estagio-coordenacao-de-inves
+ tigacao-cl-dcb1f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-sofia-coelho-da-mata-conceicao-gago-he-dcb1f-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de Sofia Coelho da Mata Conceição Gago — Hea
+ rt rate variability and T-wave alternans measurements in epilepsy patients
+  submitted to VNS TherapyTM
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-sofia-coelho-da-mata-conceic
+ ao-gago-he-dcb1f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-de-apresentacao-de-resultados-do-projeto-ca7e1-2026-11-25@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Sessão de Apresentação de Resultados do Projeto
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/sessao-apresentacao-resultados-p
+ rojeto/
+URL:https://lykeion.pt/e/sessao-de-apresentacao-de-resultados-do-projeto-ca
+ 7e1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xx-congresso-nacional-de-psiquiatria-f251c-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:XX Congresso Nacional de Psiquiatria
+LOCATION:Sociedade Portuguesa de Psiquiatria e Saúde Mental
+DESCRIPTION:https://www.sppsm.org/evento/xx-congresso-nacional-de-psiquiatr
+ ia/
+URL:https://lykeion.pt/e/xx-congresso-nacional-de-psiquiatria-f251c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-oncologia-e7f94-2026-11-26
+ @lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T140000
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Oncologia
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 83532
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-oncol
+ ogia-e7f94.html
+END:VEVENT
+BEGIN:VEVENT
+UID:master-s-degree-exams-in-neuropsychology-3778d-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T150000
+SUMMARY:Master's Degree Exams in Neuropsychology
+LOCATION:Centro de Investigação Interdisciplinar em Saúde
+DESCRIPTION:https://fcse.lisboa.ucp.pt/events/masters-degree-exams-neuropsy
+ chology-55651
+URL:https://lykeion.pt/e/master-s-degree-exams-in-neuropsychology-3778d.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-26-11-26-prova-de-doutoramento-67e0c-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-ped
+ ro-nuno-beirao-cardoso-quadrado-gil/
+URL:https://lykeion.pt/e/gea-26-11-26-prova-de-doutoramento-67e0c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-mestrado-em-saude-publica-3e81d-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T153000
+SUMMARY:Prova de Mestrado em Saúde Pública
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19623
+URL:https://lykeion.pt/e/prova-de-mestrado-em-saude-publica-3e81d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-carolina-luis-alves-dos-reis-as-altera-eb48d-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Provas de mestrado de Carolina Luís Alves dos Reis — As alteraç
+ ões de comunicação e/ou deglutição em pessoas com necessidades paliat
+ ivas
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-luis-alves-dos-reis
+ -as-altera-eb48d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-cristiana-maria-louro-rolao-de-carvalh-eb48d-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Provas de mestrado de Cristiana Maria Louro Rolão de Carvalho — 
+ Tradução\, adaptação cultural e validação da “P-CaRES” para port
+ uguês europeu
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-cristiana-maria-louro-rolao-
+ de-carvalh-eb48d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-elsa-marinela-alves-carreiro-conhecime-eb48d-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Provas de mestrado de Elsa Marinela Alves Carreiro — Conhecimento
+ s sobre cuidados paliativos dos enfermeiros da Cirurgia Geral de adultos d
+ e um Centro Hospitalar Universitário
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-elsa-marinela-alves-carreiro
+ -conhecime-eb48d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-angela-cerqueira-amorim-identification-eb48d-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Provas de mestrado de Ângela Cerqueira Amorim — Identification o
+ f patients with palliative needs in a primary care setting
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-angela-cerqueira-amorim-iden
+ tification-eb48d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cafe-com-ciencia-terapia-fagica-o-lado-bom-dos-virus-uma-nov-93ae5-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T213000
+SUMMARY:Café com Ciência: Terapia fágica - O lado bom dos vírus: uma no
+ va arma contra doenças na Semana da Ciência e Tecnologia 2026
+LOCATION:Planetário - Casa da Ciência - Centro Ciência Viva de Braga\, B
+ raga
+DESCRIPTION:https://www.casacienciabraga.org/single-post/café-com-ciência
+ -terapia-fágica-o-lado-bom-dos-vírus-uma-nova-arma-contra-doenças-na-se
+ mana-da-c
+URL:https://lykeion.pt/e/cafe-com-ciencia-terapia-fagica-o-lado-bom-dos-vir
+ us-uma-nov-93ae5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:icnas-27-11-2026-5th-annual-meeting-of-cibit-6e3e2-2026-11-27@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:ICNAS 27.11.2026 5th Annual Meeting of CIBIT
+LOCATION:Centro de Imagem Biomédica e Investigação Translacional\, Coimb
+ ra
+DESCRIPTION:https://www.uc.pt/icnas/eventos/3rd-annual-meeting-of-cibit-2/
+URL:https://lykeion.pt/e/icnas-27-11-2026-5th-annual-meeting-of-cibit-6e3e2
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-mestrado-em-psiquiatria-e-psicoterapia-psicodinamic-d3bbf-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Prova de Mestrado em Psiquiatria e Psicoterapia Psicodinâmica
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19164
+URL:https://lykeion.pt/e/prova-de-mestrado-em-psiquiatria-e-psicoterapia-ps
+ icodinamic-d3bbf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-biomateriais-e-nanomedicina-de-beatriz-60b51-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de Mestrado em Biomateriais e Nanomedicina de Beatriz Machad
+ o Lopes — Desenvolvimento de scaffolds compósitos à base de quitosana 
+ por robocasting para regeneração óssea e hipertermia magnética
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/99881
+URL:https://lykeion.pt/e/provas-de-mestrado-em-biomateriais-e-nanomedicina-
+ de-beatriz-60b51.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-paulo-simao-martinho-sousa-mestrado-me-edbfc-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Paulo Simão Martinho Sousa — Mestrado: Mes
+ trado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pessoa 
+ em Situação Crítica
+LOCATION:Instituto Politécnico de Bragança\, Chaves
+DESCRIPTION:https://essa.unipb.pt/estudar/informa%C3%A7%C3%A3o/provas-p%C3%
+ BAblicas-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-paulo-simao-martinho-sousa-m
+ estrado-me-edbfc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-tratar-e-cuidar-desafios-na-doenca-cronica-avancad-99b83-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Seminário “Tratar e Cuidar: Desafios na Doença Crónica Avança
+ da
+LOCATION:Unidade Hospitalar de Bragança\, Bragança
+DESCRIPTION:https://www.ulsne.min-saude.pt/eventos/seminario-tratar-e-cuida
+ r-desafios-na-doenca-cronica-avancada/
+URL:https://lykeion.pt/e/seminario-tratar-e-cuidar-desafios-na-doenca-croni
+ ca-avancad-99b83.html
+END:VEVENT
+BEGIN:VEVENT
+UID:terapias-integrativas-e-complementares-em-oncologia-profissi-69d6f-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T083000
+SUMMARY:Terapias Integrativas e Complementares em Oncologia: Profissionais 
+ como Prioridade
+LOCATION:Instituto Português de Oncologia de Coimbra Francisco Gentil\, Co
+ imbra
+DESCRIPTION:https://www.ipocoimbra.min-saude.pt/eventos_ipo/terapias-integr
+ ativas-e-complementares-em-oncologia-profissionais-como-prioridade/
+URL:https://lykeion.pt/e/terapias-integrativas-e-complementares-em-oncologi
+ a-profissi-69d6f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hospital-dos-pequeninos-ef85a-2026-11-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Hospital dos Pequeninos
+LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
+ ões
+DESCRIPTION:https://www.agendalx.pt/events/event/hospital-dos-pequeninos-2/
+URL:https://lykeion.pt/e/hospital-dos-pequeninos-ef85a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-silvia-loureiro-sousa-aula-magna-da-fa-83dbf-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Provas de mestrado de Sílvia Loureiro Sousa — Aula Magna da Facu
+ ldade de Medicina da Universidade de Lisboa\, no piso 3 do Hospital de San
+ ta Maria
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-silvia-loureiro-sousa-aula-m
+ agna-da-fa-83dbf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:reuniao-anual-do-gehp-beyond-one-disease-redefining-the-face-28b71-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Reunião Anual do Gehp “beyond One Disease: Redefining The Faces 
+ Of Pulmonary Hypertension Annual Meeting
+LOCATION:Sociedade Portuguesa de Cardiologia
+DESCRIPTION:https://spc.pt/evento/reuniao-anual-do-grupo-de-estudos-da-hipe
+ rtensao-pulmonar-beyond-one-disease-redefining-the-faces-of-pulmonary-hype
+ rtension/
+URL:https://lykeion.pt/e/reuniao-anual-do-gehp-beyond-one-disease-redefinin
+ g-the-face-28b71.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-em-linha-de-conta-com-abel-salazar-1909-1940-ate-2-f9267-2026
+ -11-29@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T150000
+SUMMARY:Exposição «Em Linha de Conta com Abel Salazar (1909-1940)»\, at
+ é 29 de novembro na Fundação Eng. António de Almeida
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Matosi
+ nhos
+DESCRIPTION:https://www.up.pt/portal/pt/cmasalazar/o-que-vai-acontecer/expo
+ si%C3%A7%C3%B5es/exposi%C3%A7%C3%B5es-tempor%C3%A1rias/
+URL:https://lykeion.pt/e/exposicao-em-linha-de-conta-com-abel-salazar-1909-
+ 1940-ate-2-f9267.html
+END:VEVENT
+BEGIN:VEVENT
+UID:14-a-conferencia-da-british-hernia-society-80550-2026-11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:14.ª Conferência da British Hernia Society
+LOCATION:Sociedade Portuguesa de Cirurgia
+DESCRIPTION:https://www.spcir.com/evento/213
+URL:https://lykeion.pt/e/14-a-conferencia-da-british-hernia-society-80550.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-programa-intestino-9f8e8-2026-11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T120000
+SUMMARY:Conferência – Programa + INTESTINO
+LOCATION:Escola Superior de Saúde da Cruz Vermelha Portuguesa
+DESCRIPTION:https://www.esscvp.eu/events/conferencia-programa-intestino/
+URL:https://lykeion.pt/e/conferencia-programa-intestino-9f8e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-mar
+ ia-de-vasconcelos-cardoso/
+URL:https://lykeion.pt/e/gea-30-11-26-prova-de-doutoramento-6bc2c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-catarina-ferreira-dos-santos-melga-ca169-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Provas de mestrado de Ana Catarina Ferreira dos Santos Melgas Nunes
+  — Internship in Quality and Safety in Clinical Trials Edwards Lifescien
+ ce
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-catarina-ferreira-dos-sa
+ ntos-melga-ca169.html
+END:VEVENT
+BEGIN:VEVENT
+UID:i-seminario-de-casos-clinicos-de-farmacologia-em-termalismo-1f551-2026-
+ 12-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T140000
+SUMMARY:I Seminário de Casos Clínicos de Farmacologia em Termalismo
+LOCATION:Instituto Superior de Saúde do Alto Ave\, Póvoa de Lanhoso
+DESCRIPTION:https://isave.pt/evento/i-seminario-de-casos-clinicos-de-farmac
+ ologia-em-termalismo/
+URL:https://lykeion.pt/e/i-seminario-de-casos-clinicos-de-farmacologia-em-t
+ ermalismo-1f551.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-doutoramento-em-enfermagem-efetividade-de-um-progra-ecbd3-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T140000
+SUMMARY:Prova de Doutoramento em Enfermagem: «Efetividade de um Programa d
+ e Exercício Físico na Pessoa Submetida a Cirurgia Cardíaca»
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/prova-de-doutoramento-em-enfermage
+ m-efetividade-de-um-programa-de-exercicio-fisico-na
+URL:https://lykeion.pt/e/prova-de-doutoramento-em-enfermagem-efetividade-de
+ -um-progra-ecbd3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3as-jornadas-de-medicina-ipo-porto-a-4-dezembro-com-desconto-448bc-2026
+ -12-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:3as Jornadas de Medicina – IPO Porto a 4 dezembro com desconto na
+  inscrição para sócios APMGF!
+LOCATION:Associacao Portuguesa de Medicina Geral e Familiar
+DESCRIPTION:https://apmgf.pt/evento/3as-jornadas-de-medicina-ipo-porto-a-4-
+ dezembro-com-desconto-na-inscricao-para-socios-apmgf/
+URL:https://lykeion.pt/e/3as-jornadas-de-medicina-ipo-porto-a-4-dezembro-co
+ m-desconto-448bc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:de-05-12-2026-8h-30m-a-05-12-2026-17h-00m-ix-jornadas-de-cli-f6b4b-2026
+ -12-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261205T080000
+SUMMARY:De 05.12.2026\, 8h:30m a 05.12.2026\, 17h:00m\, IX Jornadas de Clí
+ nica Integrada Odontopediátrica: Crianças com Doenças Neurológicas e d
+ o Neurodesenvolvimento
+LOCATION:Valongo\, Valongo
+DESCRIPTION:https://www.cespu.pt/noticias-e-eventos/2026/12/ix-jornadas-de-
+ clinica-integrada-odontopediatrica-criancas-com-doencas-neurologicas-e-do-
+ neurodesenvolvimento-(1)/
+URL:https://lykeion.pt/e/de-05-12-2026-8h-30m-a-05-12-2026-17h-00m-ix-jorna
+ das-de-cli-f6b4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-catia-filipa-pinheiro-ramos-lesional-a-6edab-2026
+ -12-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Provas de mestrado de Cátia Filipa Pinheiro Ramos — Lesional Ano
+ rexia Nervosa - Anorexia Nervosa after a Brain Lesion: A Systematic Review
+  (LAN:SR)
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-catia-filipa-pinheiro-ramos-
+ lesional-a-6edab.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-kilsan-da-rosa-antonio-associacao-entr-6edab-2026
+ -12-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Provas de mestrado de Kilsan da Rosa António — Associação entr
+ e a microbiota intestinal e o comportamento alimentar descontrolado em mul
+ heres com obesidade e síndrome dos ovários policísticos
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-kilsan-da-rosa-antonio-assoc
+ iacao-entr-6edab.html
+END:VEVENT
+BEGIN:VEVENT
+UID:10-a-conferencia-anual-da-redesaude-9a24b-2026-12-06@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261206
+SUMMARY:10.ª Conferência Anual da redeSAÚDE
+LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+DESCRIPTION:http://www.medicina.ulisboa.pt/10a-conferencia-anual-da-redesau
+ de
+URL:https://lykeion.pt/e/10-a-conferencia-anual-da-redesaude-9a24b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-webinars-acupuntura-em-oncologia-fa4a4-2026-12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Ciclo de Webinars - Acupuntura em Oncologia
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/ciclo-de-webinars-acupuntura-
+ em-oncologia/
+URL:https://lykeion.pt/e/ciclo-de-webinars-acupuntura-em-oncologia-fa4a4.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ricardo-daniel-silva-machado-novel-dri-092bb-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Provas de mestrado de Ricardo Daniel Silva Machado — Novel driver
+ s in T lymphocyte activation and metabolism
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ricardo-daniel-silva-machado
+ -novel-dri-092bb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:birth-congress-clinical-challenges-in-labor-and-deliver-11th-548ac-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T210000
+SUMMARY:Birth Congress – Clinical Challenges in Labor and Deliver – 11t
+ h Edition
+LOCATION:Sociedade Portuguesa de Obstetrícia e Medicina Materno-Fetal
+DESCRIPTION:https://www.spommf.pt/evento/birth-congress-clinical-challenges
+ -in-labor-and-deliver-11th-edition/
+URL:https://lykeion.pt/e/birth-congress-clinical-challenges-in-labor-and-de
+ liver-11th-548ac.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-goncalo-rebelo-abrantes-pires-estagio-a0700-2026-
+ 12-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:Provas de mestrado de Gonçalo Rebelo Abrantes Pires — Estágio n
+ um Programa de Reabilitação Cardiovascular fase III: da avaliação à p
+ rescrição de exercício físico
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-goncalo-rebelo-abrantes-pire
+ s-estagio-a0700.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joana-carvalho-oliveira-influencia-do-a0700-2026-
+ 12-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:Provas de mestrado de Joana Carvalho Oliveira — Influência do es
+ tilo de vida materno no ganho de peso gestacional
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joana-carvalho-oliveira-infl
+ uencia-do-a0700.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminar-present-drug-likeness-filters-in-medicinal-chemistry-080b4-2026
+ -12-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261213T090000
+SUMMARY:Seminar: «Present drug-likeness filters in medicinal chemistry dur
+ ing the hit\, lead\, and clinical candidate optimization process: An analy
+ sis»
+LOCATION:Centro de Química da Madeira\, Funchal
+DESCRIPTION:https://cqm.uma.pt/cqm/news-archive/155-english/general/news/65
+ 8-seminar-present-drug-likeness-filters-in-medicinal-chemistry-during-the-
+ hit-lead-and-clinical-candidate-optimization-process-an-analysis
+URL:https://lykeion.pt/e/seminar-present-drug-likeness-filters-in-medicinal
+ -chemistry-080b4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:symposium-charting-the-future-of-evidence-synthesis-for-heal-4dff2-2026
+ -12-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261213T090000
+SUMMARY:Symposium Charting the Future of Evidence Synthesis for Health Tech
+ nology Assessment and Decision-Making» apresenta BFREE
+LOCATION:Centro de Investigação em Tecnologias e Serviços de Saúde\, Po
+ rto
+DESCRIPTION:https://cintesis.eu/pt/symposium-charting-the-future-of-evidenc
+ e-synthesis-for-health-technology-assessment-and-decision-making-apresenta
+ -projeto-bfree/
+URL:https://lykeion.pt/e/symposium-charting-the-future-of-evidence-synthesi
+ s-for-heal-4dff2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:open-day-transformar-conhecimento-formacao-cuidado-futuro-d3b53-2026-12
+ -15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261215T103000
+SUMMARY:Open Day “TRANSFORMAR: Conhecimento · Formação · Cuidado · F
+ uturo
+LOCATION:Universidade Católica Portuguesa (Viseu)\, Viseu
+DESCRIPTION:https://viseu.ucp.pt/eventos/open-day-transformar-conhecimento-
+ formacao-cuidado-futuro
+URL:https://lykeion.pt/e/open-day-transformar-conhecimento-formacao-cuidado
+ -futuro-d3b53.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-bioquimica-medica-understanding-an-ccc88-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Provas de doutoramento de Bioquímica Médica — “Understanding 
+ and inhibiting flaviviruses capsid proteins to develop new drugs against d
+ engue and Zika viruses
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-bioquimica-medica-unders
+ tanding-an-ccc88.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joao-pedro-gameiro-lopes-impacto-de-um-ccc88-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Provas de mestrado de João Pedro Gameiro Lopes — Impacto de uma 
+ intervenção digital na aptidão cardiorrespiratória e comportamentos de
+  exercício em doentes de um programa de reabilitação fase 3\, duran
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-pedro-gameiro-lopes-imp
+ acto-de-um-ccc88.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-damas-lapa-rodrigues-desnutricao-ccc88-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Provas de mestrado de Maria Damas Lapa Rodrigues — Desnutrição\
+ , sarcopenia\, déficit cognitivo e qualidade de vida em idosos institucio
+ nalizados - Qual a relação?
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-damas-lapa-rodrigues-d
+ esnutricao-ccc88.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-nadia-raquel-sarinhas-candeias-estagio-e6979-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Provas de mestrado de Nádia Raquel Sarinhas Candeias — Estágio 
+ em Monitorização de Estudos Clínicos
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-nadia-raquel-sarinhas-candei
+ as-estagio-e6979.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-18-12-26-programa-de-doutoramento-frederico-teixeira-gab-30d83-2026
+ -12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:Programa de Doutoramento | Frederico Teixeira Gabriel Furriel 18 de
+ zembro Anfiteatro do iCBR Polo das Ciências da Saúde\, FMUC
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/programa-de-doutoramento-
+ frederico-teixeira-gabriel-furriel/
+URL:https://lykeion.pt/e/gea-18-12-26-programa-de-doutoramento-frederico-te
+ ixeira-gab-30d83.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-diogo-dos-santos-galhofo-do-nascimento-a79b6-2026
+ -12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:Provas de mestrado de Diogo dos Santos Galhofo do Nascimento Moreir
+ a — Impact of IL-17 in gut immune homeostasis upon a distant nerve injur
+ y
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-diogo-dos-santos-galhofo-do-
+ nascimento-a79b6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ines-simoes-alves-transicao-na-menopau-a5cad-2026
+ -12-19@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261219
+SUMMARY:Provas de mestrado de Inês Simões Alves — Transição na menopa
+ usa: caracterização do padrão alimentar
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-simoes-alves-transicao-
+ na-menopau-a5cad.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-cirurgia-cardiotoracica-inflammato-fa7fe-2026
+ -12-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261222
+SUMMARY:Provas de doutoramento de Cirurgia Cardiotorácica — “Inflammat
+ ory profile characterization in surgical aortic valve replacement: Impact 
+ on postoperative outcomes"
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-cirurgia-cardiotoracica-
+ inflammato-fa7fe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ines-lima-ferreira-association-of-mate-fa7fe-2026
+ -12-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261222
+SUMMARY:Provas de mestrado de Inês Lima Ferreira — Association of matern
+ al nutrition and diet during breastfeeding with Infantile Colic and Gut Mi
+ crobiota: a systematic review
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-lima-ferreira-associati
+ on-of-mate-fa7fe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-publicas-de-mestrado-20392-2026-12-31@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Provas Públicas de Mestrado
+LOCATION:Escola Superior de Tecnologia e Gestão\, Felgueiras
+DESCRIPTION:https://www.estg.ipp.pt/noticias/provas-publicas-de-mestrado-ms
+ ol-2026
+URL:https://lykeion.pt/e/provas-publicas-de-mestrado-20392.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-bela-demba-reabilitacao-cardiaca-e-83555-2027
+ -01-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270107
+SUMMARY:Provas de mestrado de Ana Bela Demba — Reabilitação Cardíaca e
+ m pacientes com doença cardíaca isquémica
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-bela-demba-reabilitacao-
+ cardiaca-e-83555.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-joao-fonseca-o-impacto-da-perman-83555-2027
+ -01-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270107
+SUMMARY:Provas de mestrado de Maria João Fonseca — "O impacto da perman
+ ência nos Programas de Reabilitação Cardiovascular Fase III
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-joao-fonseca-o-impacto
+ -da-perman-83555.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-tiago-botelho-estratificacao-do-risco-83555-2027-
+ 01-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270107
+SUMMARY:Provas de mestrado de Tiago Botelho — "Estratificação do risco 
+ cardiovascular em contextos laborais distintos: Avaliação e comparação
+  do risco cardiovascular em colaboradores de loja e escritório
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-tiago-botelho-estratificacao
+ -do-risco-83555.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-alexandra-santos-de-matos-critical-ana-4d9df-2027
+ -01-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270108
+SUMMARY:Provas de mestrado de Alexandra Santos de Matos — Critical Analys
+ is of the Approvals\, Funding\, Efficacy\, and Sustainability of Pembroliz
+ umab Treatment in Portugal
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-alexandra-santos-de-matos-cr
+ itical-ana-4d9df.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rodrigo-dos-santos-vicente-as-preferen-4d9df-2027
+ -01-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270108
+SUMMARY:Provas de mestrado de Rodrigo dos Santos Vicente — «As Preferên
+ cias e as Perceções de Comunicação do Doente Oncológico na Primeira C
+ onsulta de Oncologia Médica»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rodrigo-dos-santos-vicente-a
+ s-preferen-4d9df.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-carolina-gomes-morais-modelling-vascul-9da22-2027
+ -01-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270109
+SUMMARY:Provas de mestrado de Carolina Gomes Morais — Modelling vascular 
+ mimicry and intravasation of breast cancer cells using complex in vitro sy
+ stems
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-gomes-morais-modell
+ ing-vascul-9da22.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-mariana-pinto-coelho-characterization-9da22-2027-
+ 01-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270109
+SUMMARY:Provas de mestrado de Mariana Pinto Coelho — Characterization of 
+ the endocannabinoid system in the SOD1(G93A) mice model throughout disease
+  progression
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-pinto-coelho-charact
+ erization-9da22.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-raquel-macedo-bento-dos-reis-e-moura-a-9da22-2027
+ -01-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270109
+SUMMARY:Provas de mestrado de Raquel Macedo Bento dos Reis e Moura — Aula
+  Magna da Faculdade de Medicina da Universidade de Lisboa
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-raquel-macedo-bento-dos-reis
+ -e-moura-a-9da22.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-luisa-oliveira-da-rocha-pacheco-pe-98478-2027
+ -01-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270110
+SUMMARY:Provas de mestrado de Ana Luísa Oliveira da Rocha Pacheco — «Pe
+ rdas e lutos associados a AVC: Um estudo qualitativo com sobreviventes de 
+ AVC»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-luisa-oliveira-da-rocha-
+ pacheco-pe-98478.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-miguel-david-natal-a-medicina-geral-e-98478-2027-
+ 01-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270110
+SUMMARY:Provas de mestrado de Miguel David Natal — "A Medicina Geral e Fa
+ miliar face aos cuidados paliativos: Ações Paliativas e formação em CP
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-miguel-david-natal-a-medicin
+ a-geral-e-98478.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-eunice-ribeiro-joao-silva-paisana-96abb-2027-
+ 01-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270112
+SUMMARY:Provas de doutoramento de Eunice Ribeiro João Silva Paisana — 
+ “UBE2C promotes leptomeningeal dissemination and can be therapeutically 
+ targeted
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-eunice-ribeiro-joao-silv
+ a-paisana-96abb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joana-barbara-morais-condesso-the-tran-96abb-2027
+ -01-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270112
+SUMMARY:Provas de mestrado de Joana Bárbara Morais Condesso — The transc
+ riptional regulation of the human ADORA2A gene in aging and Alzheimer’s 
+ Disease
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joana-barbara-morais-condess
+ o-the-tran-96abb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joana-lopes-ferreira-estado-nutriciona-96abb-2027
+ -01-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270112
+SUMMARY:Provas de mestrado de Joana Lopes Ferreira — Estado nutricional e
+ m doentes hospitalizados com disfagia e satisfação com as dietas de text
+ ura modificada
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joana-lopes-ferreira-estado-
+ nutriciona-96abb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-cristine-schmidt-comparison-of-the-cli-2eed4-2027
+ -01-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270113
+SUMMARY:Provas de mestrado de Cristine Schmidt — «Comparison of the clin
+ ical effects of centre- vs. home-based cardiac rehabilitation in patients 
+ with heart failure»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-cristine-schmidt-comparison-
+ of-the-cli-2eed4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-calida-etezana-rodrigues-da-veiga-cons-171db-2027
+ -01-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270114
+SUMMARY:Provas de mestrado de Cálida Etezana Rodrigues da Veiga — «Cons
+ umo de Antimicrobianos em Cabo Verde e sua relação com o perfil de reaç
+ ões adversas notificadas - Uma Abordagem Ecológica»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-calida-etezana-rodrigues-da-
+ veiga-cons-171db.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-muataz-saad-mohammed-alshahwani-qualit-171db-2027
+ -01-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270114
+SUMMARY:Provas de mestrado de Muataz Saad Mohammed Alshahwani — "Quality 
+ of Life and Functional Capacity in Coronary Heart Patients Included in Car
+ diovascular Rehabilitation
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-muataz-saad-mohammed-alshahw
+ ani-qualit-171db.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-vicente-morais-araujo-pombo-magalhaes-171db-2027-
+ 01-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270114
+SUMMARY:Provas de mestrado de Vicente Morais Araújo Pombo Magalhães — 
+ «Correlates of cognition: alterations in brain-ventricle coupling relate 
+ to cognitive deficits»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-vicente-morais-araujo-pombo-
+ magalhaes-171db.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-beatriz-gomes-iglesias-neurofilaments-45a0f-2027-
+ 01-19@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270119
+SUMMARY:Provas de mestrado de Beatriz Gomes Iglésias — Neurofilaments as
+  a diagnosis\, monitor of progression and response to treatment biomarker 
+ in Parkinson disease: a systematic review
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-beatriz-gomes-iglesias-neuro
+ filaments-45a0f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:21-01-2027-22-01-2027-ii-congresso-internacional-de-enfermag-dd8e7-2027
+ -01-21@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270121
+SUMMARY:II Congresso Internacional de Enfermagem de Saúde Infantil e Pedi
+ átrica - Garantir Direitos\, Humanizar Cuidados\, Transformar Vidas Congr
+ esso Internacional dedicado à Enfermagem d
+LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/eseuc/agenda/ii-congresso-internacional-enf-s
+ aude-infantil-pediatrica/
+URL:https://lykeion.pt/e/21-01-2027-22-01-2027-ii-congresso-internacional-d
+ e-enfermag-dd8e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-margarida-jordao-paula-nogueira-altera-74530-2027
+ -01-21@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270121
+SUMMARY:Provas de mestrado de Margarida Jordão Paula Nogueira — "Alterat
+ ions in functional brain networks detected with neuroimaging in Major Depr
+ essive Disorder – Reduced Default Mode Network
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-margarida-jordao-paula-nogue
+ ira-altera-74530.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2-a-edicao-do-curso-breve-de-psicofarmacologia-em-oncologia-e8ced-2027-
+ 01-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270122T090000
+SUMMARY:2.ª Edição do Curso Breve de Psicofarmacologia em Oncologia
+LOCATION:Sociedade Portuguesa de Psiquiatria e Saúde Mental
+DESCRIPTION:https://www.sppsm.org/evento/2-a-edicao-do-curso-breve-de-psico
+ farmacologia-em-oncologia/
+URL:https://lykeion.pt/e/2-a-edicao-do-curso-breve-de-psicofarmacologia-em-
+ oncologia-e8ced.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-marta-pereira-da-silva-immune-modulati-432d2-2027
+ -01-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:Provas de mestrado de Marta Pereira da Silva — "Immune Modulation
+  by LRP1-Targeted Nanoparticles in Healthy and Glioblastoma Donors
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-marta-pereira-da-silva-immun
+ e-modulati-432d2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-ines-goncalves-pinto-da-costa-ma-66261-2027
+ -01-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270126
+SUMMARY:Provas de mestrado de Maria Inês Gonçalves Pinto da Costa Madeira
+  — «Fatores facilitadores dos processos de luto: Um estudo qualitativo 
+ com pessoas com lutos integrados»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-ines-goncalves-pinto-d
+ a-costa-ma-66261.html
+END:VEVENT
+BEGIN:VEVENT
+UID:29-01-27-seminario-novos-horizontes-na-vigilancia-do-carcino-97507-2027
+ -01-29@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270129T093000
+SUMMARY:Seminário Novos horizontes na Vigilância do Carcinoma Orofarínge
+ o
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/novos-horizontes/
+URL:https://lykeion.pt/e/29-01-27-seminario-novos-horizontes-na-vigilancia-
+ do-carcino-97507.html
+END:VEVENT
+BEGIN:VEVENT
+UID:1-a-reuniao-nacional-de-capsula-endoscopica-e-enteroscopia-6254e-2027-0
+ 1-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:1.ª Reunião Nacional de Cápsula Endoscópica e Enteroscopia
+LOCATION:Sociedade Portuguesa de Gastrenterologia
+DESCRIPTION:https://www.spg.pt/events/1-a-reuniao-nacional-de-capsula-endos
+ copica-e-enteroscopia/
+URL:https://lykeion.pt/e/1-a-reuniao-nacional-de-capsula-endoscopica-e-ente
+ roscopia-6254e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-carolina-neiva-guedes-da-silva-pandemi-ea1e9-2027
+ -01-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:Provas de mestrado de Carolina Neiva Guedes da Silva — «Pandemia
+  de COVID-19 e Cuidados Paliativos em doentes cardíacos de um hospital te
+ rciário brasileiro»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-neiva-guedes-da-sil
+ va-pandemi-ea1e9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-helder-joaquim-alves-pinto-prevalencia-4ef9f-2027
+ -01-31@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:Provas de mestrado de Hélder Joaquim Alves Pinto — «Prevalênci
+ a de Náuseas e Vómitos em Cuidados Paliativos»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-helder-joaquim-alves-pinto-p
+ revalencia-4ef9f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-catarina-leandro-sequeira-amaro-avalia-fa539-2027
+ -02-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Provas de mestrado de Catarina Leandro Sequeira Amaro — Avaliaç
+ ão de fatores nutricionais com impacto no risco oncológico
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-catarina-leandro-sequeira-am
+ aro-avalia-fa539.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ilda-de-fatima-cumba-tati-analise-econ-fa539-2027
+ -02-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Provas de mestrado de Ilda de Fátima Cumba Tati — Análise Econ
+ ómica da Reabilitação Cardiovascular: Revisão Narrativa
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ilda-de-fatima-cumba-tati-an
+ alise-econ-fa539.html
+END:VEVENT
+BEGIN:VEVENT
+UID:03-02-2027-05-02-2027-iv-congresso-internacional-de-enfermag-c7c83-2027
+ -02-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270203
+SUMMARY:IV Congresso Internacional de Enfermagem Médico-Cirúrgica Cuidar 
+ com Inovação: Tecnologia\, Evidência e Humanização na Resposta à Com
+ plexidade…
+LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/eseuc/agenda/iv-congresso-internacional-de-en
+ fermagem-medico-cirurgica-cuidar-com-inovacao/
+URL:https://lykeion.pt/e/03-02-2027-05-02-2027-iv-congresso-internacional-d
+ e-enfermag-c7c83.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-dora-alexandra-neto-duarte-sex-differe-f371f-2027
+ -02-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270203
+SUMMARY:Provas de mestrado de Dora Alexandra Neto Duarte — "Sex differenc
+ es in functional capacity after cardiac rehabilitation Systematic Review w
+ ith Meta-analysis
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-dora-alexandra-neto-duarte-s
+ ex-differe-f371f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-beatriz-de-castro-e-quadros-rodrigues-a2117-2027-
+ 02-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270204
+SUMMARY:Provas de mestrado de Beatriz de Castro e Quadros Rodrigues da Cruz
+  — Caracterização do atendimento ao doente crítico com necessidades p
+ aliativas
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-beatriz-de-castro-e-quadros-
+ rodrigues-a2117.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-bruna-raquel-figueira-ornelas-de-gouve-a2117-2027
+ -02-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270204
+SUMMARY:Provas de mestrado de Bruna Raquel Figueira Ornelas de Gouveia — 
+ A associação entre a função cognitiva\, a independência funcional e a
+  qualidade de vida: Um estudo transversal em utilizadores do serviç
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-bruna-raquel-figueira-ornela
+ s-de-gouve-a2117.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-marta-henriques-pestana-oliveira-prest-a2117-2027
+ -02-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270204
+SUMMARY:Provas de mestrado de Marta Henriques Pestana Oliveira — Prestaç
+ ão de cuidados paliativos por médicos de família em Portugal: barreiras
+  e necessidades – um estudo transversal
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-marta-henriques-pestana-oliv
+ eira-prest-a2117.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-pedro-miguel-antunes-meireles-the-proc-e4425-2027
+ -02-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270205
+SUMMARY:Provas de mestrado de Pedro Miguel Antunes Meireles — “The proc
+ ess of denial in communicating cancer diagnosis: A scoping review of the l
+ iterature”.
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-pedro-miguel-antunes-meirele
+ s-the-proc-e4425.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-sobre-meridianos-quem-equilibra-quem-horas-de-forma-23a8c-2027
+ -02-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270207T080000
+SUMMARY:Workshop sobre Meridianos – Quem equilibra quem? Horas de formaç
+ ão: 8 horas
+LOCATION:Instituto Português de Naturologia\, Porto
+DESCRIPTION:https://www.ipnaturologia.com/produto/workshop-sobre-meridianos
+ -quem-equilibra-quem/
+URL:https://lykeion.pt/e/workshop-sobre-meridianos-quem-equilibra-quem-hora
+ s-de-forma-23a8c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-filipa-de-pona-coutinho-ferreira-the-i-f9055-2027
+ -02-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270211
+SUMMARY:Provas de mestrado de Filipa de Pona Coutinho Ferreira — "The Imp
+ act of Different Water Depth Levels in Gait of Parkinson’s Disease Patie
+ nts with Freezing
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-filipa-de-pona-coutinho-ferr
+ eira-the-i-f9055.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-helena-catarina-silva-carvalho-de-vasc-f9055-2027
+ -02-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270211
+SUMMARY:Provas de mestrado de Helena Catarina Silva Carvalho de Vasconcello
+ s e Souza — Retrospective analysis of hospital morbidity and mortality t
+ rends for meningitis in Portugal\, 2010–2018
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-helena-catarina-silva-carval
+ ho-de-vasc-f9055.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-adrian-duarte-heredia-glucagon-signall-7682e-2027
+ -02-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270212
+SUMMARY:Provas de mestrado de Adrián Duarte Heredia — "Glucagon signalli
+ ng and metabolic remodelling\, a driving force of hepatocellular carcinoma
+  (HCC)
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-adrian-duarte-heredia-glucag
+ on-signall-7682e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joao-antonio-da-conceicao-pedro-pais-a-d74a8-2027
+ -02-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:Provas de mestrado de João António da Conceição Pedro Pais — 
+ Avaliação multidimensional de um programa de exercício físico personal
+ izado em modalidade home-based baseado no Vivifrail em doentes submet
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-antonio-da-conceicao-pe
+ dro-pais-a-d74a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-clarissa-de-faria-soares-rodrigu-3091c-2027
+ -02-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270217
+SUMMARY:Provas de mestrado de Maria Clarissa de Faria Soares Rodrigues — 
+ «Pulso de Oxigénio na estratificação de risco e na avaliação prognó
+ stica de doentes em Reabilitação Cardíaca»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-clarissa-de-faria-soar
+ es-rodrigu-3091c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-marcia-filipa-carvalho-santos-saldanha-dbd1a-2027
+ -02-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270218
+SUMMARY:Provas de mestrado de Márcia Filipa Carvalho Santos Saldanha — A
+ ula Magna da Faculdade de Medicina da Universidade de Lisboa\, no piso 3 d
+ o Hospital de Santa Maria
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-marcia-filipa-carvalho-santo
+ s-saldanha-dbd1a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-alice-policarpo-de-melo-cordeiro-eeg-b-f9aeb-2027
+ -02-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270223
+SUMMARY:Provas de mestrado de Alice Policarpo de Melo Cordeiro — EEG-base
+ d Cognitive Modelling of Speech with Deep Neural Networks
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-alice-policarpo-de-melo-cord
+ eiro-eeg-b-f9aeb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-constanca-delgado-de-brito-mendes-cach-23b93-2027
+ -02-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270224
+SUMMARY:Provas de mestrado de Constança Delgado de Brito Mendes Cachorreir
+ o — Antiviral activity assessment of small molecules against ZIKV for br
+ oad-spectrum antiviral development
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-constanca-delgado-de-brito-m
+ endes-cach-23b93.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-helio-manuel-braganca-da-silva-como-sa-23b93-2027
+ -02-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270224
+SUMMARY:Provas de mestrado de Hélio Manuel Bragança da Silva — "Como s
+ ão os Fatores de Equidade em Saúde Avaliados e Reportados em Revisões S
+ istemáticas de Intervenções de Reabilitação Cardiovascular em Pesso
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-helio-manuel-braganca-da-sil
+ va-como-sa-23b93.html
+END:VEVENT
+BEGIN:VEVENT
+UID:reuniao-anual-do-grupo-de-estudo-de-doencas-do-miocardio-e-d-2ed89-2027
+ -02-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270224
+SUMMARY:Reunião anual do Grupo de Estudo de Doenças do Miocárdio e do Pe
+ ricárdio
+LOCATION:Sociedade Portuguesa de Cardiologia
+DESCRIPTION:https://spc.pt/evento/reuniao-anual-do-grupo-de-estudo-de-doenc
+ as-do-miocardio-e-do-pericardio-2/
+URL:https://lykeion.pt/e/reuniao-anual-do-grupo-de-estudo-de-doencas-do-mio
+ cardio-e-d-2ed89.html
+END:VEVENT
+BEGIN:VEVENT
+UID:doctoral-thesis-defense-ana-claudia-alves-nogueira-917ef-2027-02-25@lag
+ enda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270225
+SUMMARY:Doctoral Thesis Defense – Ana Cláudia Alves Nogueira
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/cineicc/news/doctoral-thesis-defense-ana-clau
+ dia-alves-nogueira/
+URL:https://lykeion.pt/e/doctoral-thesis-defense-ana-claudia-alves-nogueira
+ -917ef.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-francisca-teixeira-correia-da-si-0f4d5-2027
+ -02-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270226
+SUMMARY:Provas de mestrado de Maria Francisca Teixeira Correia da Silva —
+  "Dissecting the role of IL-7/IL-7R in non-small cell lung cancer developm
+ ent and metastasis
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-francisca-teixeira-cor
+ reia-da-si-0f4d5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-mariana-vale-amaro-de-sousa-the-role-o-0f4d5-2027
+ -02-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270226
+SUMMARY:Provas de mestrado de Mariana Vale Amaro de Sousa — "The Role of 
+ Reticulocytes in the Establishment of Severe Malaria”.
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-vale-amaro-de-sousa-
+ the-role-o-0f4d5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-miguel-rodrigues-gaspar-the-modularity-12ffb-2027
+ -02-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:Provas de mestrado de Miguel Rodrigues Gaspar — The modularity of
+  novel cultural cognitive capacities
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-miguel-rodrigues-gaspar-the-
+ modularity-12ffb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-cezara-popa-efeito-da-suplementacao-co-3c1ea-2027
+ -02-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:Provas de mestrado de Cezara Popa — "Efeito da suplementação co
+ m β-hidroxi-β-metilbutirato na composição corporal e força muscular e
+ m idosos: Revisão Sistemática
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-cezara-popa-efeito-da-suplem
+ entacao-co-3c1ea.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-bioquimica-medica-innovative-contr-cd6fc-2027
+ -03-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270304
+SUMMARY:Provas de doutoramento de Bioquímica Médica — “Innovative con
+ tributions towards therapeutic strategies for metastatic breast cancer tre
+ atment
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-bioquimica-medica-innova
+ tive-contr-cd6fc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-monica-alexandra-da-costa-abreu-carque-8f6ce-2027
+ -03-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270308
+SUMMARY:Provas de mestrado de Mónica Alexandra da Costa Abreu Carqueijó 
+ — «O uso da oxigenoterapia em doentes nos últimos dias e horas de vida
+ : perceção dos profissionais de saúde num internamento hospitalar»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-monica-alexandra-da-costa-ab
+ reu-carque-8f6ce.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-simposio-internacional-de-harmonizacao-orofacial-b2f7c-2027-03-10@l
+ agenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270310
+SUMMARY:III Simpósio Internacional de Harmonização Orofacial
+LOCATION:Centro de Estudos e Investigação em Saúde\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceisuc/noticias/iii-simposio-internacional-ha
+ rmonizacao-orofacial/
+URL:https://lykeion.pt/e/iii-simposio-internacional-de-harmonizacao-orofaci
+ al-b2f7c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:congresso-nacional-da-sociedade-portuguesa-de-doencas-do-mov-6ecb2-2027
+ -03-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270311
+SUMMARY:Congresso Nacional da Sociedade Portuguesa de Doenças do Movimento
+  (SPDMov)
+LOCATION:Sociedade Portuguesa de Neurologia\, Matosinhos
+DESCRIPTION:http://www.spneurologia.com/evento/congresso-nacional-da-socied
+ ade-portuguesa-de-doen/524
+URL:https://lykeion.pt/e/congresso-nacional-da-sociedade-portuguesa-de-doen
+ cas-do-mov-6ecb2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-diogo-filipe-alves-da-silva-classifica-c3956-2027
+ -03-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270311
+SUMMARY:Provas de mestrado de Diogo Filipe Alves da Silva — Classificaç
+ ão de Representações Eletroencefalográficas Promovidas por Moléculas 
+ Puras
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-diogo-filipe-alves-da-silva-
+ classifica-c3956.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oncofem-2027-congresso-luso-brasileiro-de-oncologia-feminina-182b4-2027
+ -03-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270312
+SUMMARY:OncoFem 2027 – Congresso Luso-Brasileiro de Oncologia Feminina
+LOCATION:Sociedade Portuguesa de Genética Humana\, Coimbra
+DESCRIPTION:https://spgh.net/oncofem-2027-congresso-luso-brasileiro-de-onco
+ logia-feminina/
+URL:https://lykeion.pt/e/oncofem-2027-congresso-luso-brasileiro-de-oncologi
+ a-feminina-182b4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ines-isabel-breda-alves-de-moura-ident-2a2f6-2027
+ -03-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270312
+SUMMARY:Provas de mestrado de Inês Isabel Brêda Alves de Moura — "Ident
+ ificação das necessidades em Cuidados Paliativos pelos médicos dos Cuid
+ ados de Saúde Primários
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-isabel-breda-alves-de-m
+ oura-ident-2a2f6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:save-the-date-congresso-spdmov-2027-12-e-13-de-marco-de-2027-4a4d7-2027
+ -03-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270312
+SUMMARY:Save the Date – Congresso SPDMov 2027 – 12 e 13 de março de 20
+ 27
+LOCATION:Sociedade Portuguesa das Doenças do Movimento
+DESCRIPTION:https://www.spdmov.org/save-the-date-congresso-spdmov-2027-12-e
+ -13-de-marco-de-2027/
+URL:https://lykeion.pt/e/save-the-date-congresso-spdmov-2027-12-e-13-de-mar
+ co-de-2027-4a4d7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-adriana-filipa-barradas-da-graca-rodri-9c8cf-2027
+ -03-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270316
+SUMMARY:Provas de mestrado de Adriana Filipa Barradas da Graça Rodrigues 
+ — Intervenção Nutricional Perioperatória em Cirurgia Eletiva Colorret
+ al: Implementação da Metodologia ERAS® em Contexto Hospitalar
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-adriana-filipa-barradas-da-g
+ raca-rodri-9c8cf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-madalena-lucas-dos-santos-sleepiness-f-9c8cf-2027
+ -03-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270316
+SUMMARY:Provas de mestrado de Madalena Lucas dos Santos — Sleepiness\, Fa
+ tigue\, and the Role of Sleep Disruption: Evidence from
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-madalena-lucas-dos-santos-sl
+ eepiness-f-9c8cf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-daniel-jose-fernandes-marques-investig-0f53d-2027
+ -03-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Provas de mestrado de Daniel José Fernandes Marques — Investigat
+ ing circadian disruption in a submarine crew: the health
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-daniel-jose-fernandes-marque
+ s-investig-0f53d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:congresso-portugues-de-cardiologia-cpc2027-5714b-2027-03-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270318
+SUMMARY:Congresso Português de Cardiologia (CPC2027)
+LOCATION:Sociedade Portuguesa de Cardiologia
+DESCRIPTION:https://spc.pt/evento/congresso-portugues-de-cardiologia-cpc202
+ 7/
+URL:https://lykeion.pt/e/congresso-portugues-de-cardiologia-cpc2027-5714b.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-carolina-maria-henriques-gouveia-compo-863f4-2027
+ -03-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270318
+SUMMARY:Provas de mestrado de Carolina Maria Henriques Gouveia — Comporta
+ mentos alimentares perturbados em contexto de consulta de nutrição
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-maria-henriques-gou
+ veia-compo-863f4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-internacional-do-projeto-free-choices-f2d31-2027-03-20@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Seminário Internacional do projeto Free Choices
+LOCATION:Centro Interdisciplinar de Estudos de Género
+DESCRIPTION:https://cieg.iscsp.ulisboa.pt/actividades-do-cieg/outras-confer
+ encias-do-cieg/item/969-seminario-internacional-projeto-free-choices
+URL:https://lykeion.pt/e/seminario-internacional-do-projeto-free-choices-f2
+ d31.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joana-matos-figueiredo-from-nucleus-to-4f2a8-2027
+ -03-21@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:Provas de mestrado de Joana Matos Figueiredo — From Nucleus to Cy
+ toplasm: Inducers of DNA:RNA Hybrids in Mammalian Cells
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joana-matos-figueiredo-from-
+ nucleus-to-4f2a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-gender-mainstreaming-in-medicine-and-medical-res-f2d31-2027
+ -03-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270324
+SUMMARY:Conferência Gender Mainstreaming in Medicine and Medical Research
+LOCATION:Centro Interdisciplinar de Estudos de Género
+DESCRIPTION:https://cieg.iscsp.ulisboa.pt/actividades-do-cieg/outras-confer
+ encias-do-cieg/item/885-conferencia-gender-mainstreaming-in-medicine-and-m
+ edical-research-projeto-istars
+URL:https://lykeion.pt/e/conferencia-gender-mainstreaming-in-medicine-and-m
+ edical-res-f2d31.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshops-e-congressos-17d4f-2027-03-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270324
+SUMMARY:Workshops e Congressos
+LOCATION:Sociedade Portuguesa de Disfunção Temporomandibular e Dor Orofac
+ ial\, Porto
+DESCRIPTION:https://spdof.pt/workshops-e-congressos/1st-international-spdof
+ -meeting-day/
+URL:https://lykeion.pt/e/workshops-e-congressos-17d4f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-carolina-rodrigues-de-souza-insights-i-bff1c-2027
+ -03-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270326
+SUMMARY:Provas de mestrado de Carolina Rodrigues de Souza — Insights in c
+ ardio-oncology: Dynamics of cellular interplay after
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-rodrigues-de-souza-
+ insights-i-bff1c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rui-miguel-mendes-mansidao-the-impact-bf112-2027-
+ 03-31@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270331
+SUMMARY:Provas de mestrado de Rui Miguel Mendes Mansidão — The Impact of
+  Psychosocial Factors in patients attending a Community-Based Cardiovascul
+ ar Rehabilitation Program in Health-Related Outcomes
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rui-miguel-mendes-mansidao-t
+ he-impact-bf112.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-sofia-casimiro-teixeira-duarte-necessi-28bec-2027
+ -04-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270408
+SUMMARY:Provas de mestrado de Sofia Casimiro Teixeira Duarte — «Necessid
+ ades de cuidados paliativos e prevalência de sintomas em doentes instituc
+ ionalizados numa unidade de longa duração»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-sofia-casimiro-teixeira-duar
+ te-necessi-28bec.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7-o-congresso-de-medicina-tropical-do-ihmt-nova-one-health-d-cc57d-2027
+ -04-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270422
+SUMMARY:7.º Congresso de Medicina Tropical do Ihmt Nova • One Health –
+  Doenças Transmitidas por Vetores
+LOCATION:Instituto de Higiene e Medicina Tropical
+DESCRIPTION:https://www.ihmt.unl.pt/events/7-o-congresso-de-medicina-tropic
+ al-do-ihmt-nova-one-health-doencas-transmitidas-por-vetores-https-www-ihmt
+ -unl-pt-events-7-o-congresso-de-medicina-tropical-do-ihmt-nova-one-health-
+ doencas-transmitid/
+URL:https://lykeion.pt/e/7-o-congresso-de-medicina-tropical-do-ihmt-nova-on
+ e-health-d-cc57d.html
 END:VEVENT
 END:VCALENDAR

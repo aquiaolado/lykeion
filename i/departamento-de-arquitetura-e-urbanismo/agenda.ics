@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Arquitetura e Urbanismo (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:ciclo-de-conferencias-habitacao-critica-6d1e7-2027-01-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270109T183000
+SUMMARY:Ciclo de Conferências Habitação Crítica
+LOCATION:Departamento de Arquitetura e Urbanismo
+DESCRIPTION:https://arquitetura.ulusofona.pt/pt/eventos/ciclo-de-conferenci
+ as-habitacao-critica
+URL:https://lykeion.pt/e/ciclo-de-conferencias-habitacao-critica-6d1e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-conferencias-habitacao-critica-ae198-2027-01-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270116T183000
+SUMMARY:Ciclo de Conferências Habitação Crítica
+LOCATION:Departamento de Arquitetura e Urbanismo
+DESCRIPTION:https://arquitetura.ulusofona.pt/pt/eventos/ciclo-conferencias-
+ habitacao-critica
+URL:https://lykeion.pt/e/ciclo-de-conferencias-habitacao-critica-ae198.html
+END:VEVENT
+BEGIN:VEVENT
+UID:future-storage-on-digital-preservation-and-data-decay-67afa-2027-02-24@
+ lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270224T143000
+SUMMARY:Future Storage: on digital preservation and data decay
+LOCATION:Departamento de Arquitetura e Urbanismo
+DESCRIPTION:https://arquitetura.ulusofona.pt/pt/eventos/future-storage-on-d
+ igital-preservation-and-data-decay
+URL:https://lykeion.pt/e/future-storage-on-digital-preservation-and-data-de
+ cay-67afa.html
+END:VEVENT
+END:VCALENDAR

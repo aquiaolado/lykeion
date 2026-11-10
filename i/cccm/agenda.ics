@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CCCM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:the-6th-annual-conference-of-macau-studies-2026-c341e-2026-12-02@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:The 6th Annual Conference of Macau Studies 2026
+LOCATION:Centro Científico e Cultural de Macau
+DESCRIPTION:https://www.cccm.gov.pt/events/the-6th-annual-conference-of-mac
+ au-studies-2026/
+URL:https://lykeion.pt/e/the-6th-annual-conference-of-macau-studies-2026-c3
+ 41e.html
+END:VEVENT
+END:VCALENDAR

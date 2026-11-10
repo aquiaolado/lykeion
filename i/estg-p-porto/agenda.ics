@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:workshop-15de3-2026-11-11@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T190000
-SUMMARY:Workshop
+SUMMARY:Workshop ethics integrity and ai in research
 LOCATION:CIICESI\, Felgueiras
 DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-ethics-integrity-and
  -ai-in-research-2
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:workshop-d0e87-2026-11-18@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T190000
-SUMMARY:Workshop
+SUMMARY:Workshop scientific communication and presentation techniques
 LOCATION:CIICESI\, Felgueiras
 DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-scientific-communica
  tion-and-presentation-techniques-2
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:workshop-05d87-2026-11-20@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T190000
-SUMMARY:Workshop
+SUMMARY:Workshop data analysis in jasp
 LOCATION:CIICESI\, Felgueiras
 DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-data-analysis-in-jas
  p-3
@@ -47,5 +47,103 @@ DESCRIPTION:https://ciicesi.estg.ipp.pt/event/on-the-research-trail-discove
  ring-ciicesi-and-its-phd-researchers
 URL:https://lykeion.pt/e/seminar-on-the-research-trail-discovering-ciicesi-
  and-its-ph-cd25a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-ce43f-2026-12-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T190000
+SUMMARY:Workshop structural equation modeling pls sem
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-structural-equation-
+ modeling-pls-sem
+URL:https://lykeion.pt/e/workshop-ce43f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-9673b-2026-12-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T190000
+SUMMARY:Workshop introduction to fuzzy set qualitative comparative analysis
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-introduction-to-fuzz
+ y-set-qualitative-comparative-analysis-3
+URL:https://lykeion.pt/e/workshop-9673b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ama21-2026-6th-international-conference-on-applied-managemen-ab4ba-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:AMA21 2026 – 6th International Conference on Applied Management A
+ dvances in the 21st Century
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/ama21-2026-6th-international-
+ conference-on-applied-management-advances-in-the-21st-century
+URL:https://lykeion.pt/e/ama21-2026-6th-international-conference-on-applied
+ -managemen-ab4ba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-6aa3d-2026-12-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T190000
+SUMMARY:Workshop mapping science with bibliometrix
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-mapping-science-with
+ -bibliometrix
+URL:https://lykeion.pt/e/workshop-6aa3d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-publicas-de-mestrado-20392-2026-12-31@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Provas Públicas de Mestrado
+LOCATION:Escola Superior de Tecnologia e Gestão\, Felgueiras
+DESCRIPTION:https://www.estg.ipp.pt/noticias/provas-publicas-de-mestrado-ms
+ ol-2026
+URL:https://lykeion.pt/e/provas-publicas-de-mestrado-20392.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-d22b0-2027-01-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270113T190000
+SUMMARY:Workshop generative ai in scientific research
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-generative-ai-in-sci
+ entific-research-2
+URL:https://lykeion.pt/e/workshop-d22b0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-394fa-2027-01-20@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270120T190000
+SUMMARY:Workshop generative artificial intelligence principles of use and i
+ ntegration with user tools converter em pdf
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-generative-artificia
+ l-intelligence-principles-of-use-and-integration-with-user-tools-converter
+ -em-pdf
+URL:https://lykeion.pt/e/workshop-394fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-998e8-2027-01-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270127T190000
+SUMMARY:Workshop knowledge discovery using altair ai studio
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/workshop-knowledge-discovery-
+ using-altair-ai-studio-2
+URL:https://lykeion.pt/e/workshop-998e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:16th-international-scientific-conference-region-entrepreneur-b1b68-2027
+ -04-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270422
+SUMMARY:16th International Scientific Conference “Region\, Entrepreneursh
+ ip\, Development” (RED 2027)
+LOCATION:CIICESI\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/16th-international-scientific
+ -conference-region-entrepreneurship-development-red-2027
+URL:https://lykeion.pt/e/16th-international-scientific-conference-region-en
+ trepreneur-b1b68.html
 END:VEVENT
 END:VCALENDAR

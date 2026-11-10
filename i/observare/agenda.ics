@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:OBSERVARE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:observare-observatorio-de-relacoes-exteriores-8568e-2026-11-24@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:OBSERVARE – Observatório de Relações Exteriores
+LOCATION:Cátedra de Estudos Ibero-Americanos
+DESCRIPTION:https://observare.autonoma.pt/
+URL:https://lykeion.pt/e/observare-observatorio-de-relacoes-exteriores-8568
+ e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v-congresso-internacional-do-observare-a879e-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:V Congresso Internacional do OBSERVARE
+LOCATION:Cátedra de Estudos Ibero-Americanos
+DESCRIPTION:https://observare.autonoma.pt/catedra-estudos-americanos/v-cong
+ resso-internacional-do-observare/?utm_source=rss&#038\,utm_medium=rss&#038
+ \,utm_campaign=v-congresso-internacional-do-observare
+URL:https://lykeion.pt/e/v-congresso-internacional-do-observare-a879e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a-estrategia-de-governacao-da-diaspora-venezuelana-b6a63-2027-01-10@lag
+ enda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270110T113000
+SUMMARY:A estratégia de governação da diáspora venezuelana
+LOCATION:Cátedra Luís Moita
+DESCRIPTION:https://observare.autonoma.pt/catedra-luis-moita/a-estrategia-d
+ e-governacao-da-diaspora-venezuelana/
+URL:https://lykeion.pt/e/a-estrategia-de-governacao-da-diaspora-venezuelana
+ -b6a63.html
+END:VEVENT
+END:VCALENDAR

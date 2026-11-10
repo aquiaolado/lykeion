@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UCP CITER (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:2a-sessao-do-ciclo-internacional-de-conferencias-cidade-e-mi-4570b-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:2a sessão do Ciclo Internacional de Conferências “Cidade e Mito
+ : do passado ao presente
+LOCATION:Centro de Investigação em Teologia e Estudos da Religião
+DESCRIPTION:https://citer.ucp.pt/events/2a-sessao-do-ciclo-internacional-de
+ -conferencias-cidade-e-mito-do-passado-ao-presente
+URL:https://lykeion.pt/e/2a-sessao-do-ciclo-internacional-de-conferencias-c
+ idade-e-mi-4570b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:1a-sessao-do-ciclo-internacional-de-conferencias-cidade-e-mi-ab695-2027
+ -03-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270310
+SUMMARY:1a sessão do Ciclo Internacional de Conferências “Cidade e Mito
+ : do passado ao presente
+LOCATION:Centro de Investigação em Teologia e Estudos da Religião
+DESCRIPTION:https://citer.ucp.pt/events/1a-sessao-do-ciclo-internacional-de
+ -conferencias-cidade-e-mito-do-passado-ao-presente
+URL:https://lykeion.pt/e/1a-sessao-do-ciclo-internacional-de-conferencias-c
+ idade-e-mi-ab695.html
+END:VEVENT
+END:VCALENDAR

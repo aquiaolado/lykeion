@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CRUP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:mesa-redonda-portugal-e-o-reino-unido-a-ciencia-e-a-antiga-a-90435-2027
+ -02-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270208T093000
+SUMMARY:Mesa Redonda “Portugal e o Reino Unido: a Ciência e a Antiga Ali
+ ança” – Porto – 8 de fevereiro
+LOCATION:Conselho de Reitores das Universidades Portuguesas
+DESCRIPTION:https://www.crup.pt/mesa-redonda-portugal-e-o-reino-unido-a-cie
+ ncia-e-a-antiga-alianca-porto-8-de-fevereiro/
+URL:https://lykeion.pt/e/mesa-redonda-portugal-e-o-reino-unido-a-ciencia-e-
+ a-antiga-a-90435.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Arquivo Nacional da Torre do Tombo (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:2o-encontro-nacional-sobre-preservacao-digital-b0695-2026-11-26@lagenda
+ .pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T090000
+SUMMARY:2o Encontro Nacional sobre Preservação Digital
+LOCATION:Arquivo Nacional da Torre do Tombo\, Campo Grande
+DESCRIPTION:https://www.eventbrite.pt/e/bilhetes-2o-encontro-nacional-sobre
+ -preservacao-digital-2003223160398
+URL:https://lykeion.pt/e/2o-encontro-nacional-sobre-preservacao-digital-b06
+ 95.html
+END:VEVENT
+END:VCALENDAR

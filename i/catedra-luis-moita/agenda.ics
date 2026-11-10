@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Cátedra Luís Moita (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:a-estrategia-de-governacao-da-diaspora-venezuelana-b6a63-2027-01-10@lag
+ enda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270110T113000
+SUMMARY:A estratégia de governação da diáspora venezuelana
+LOCATION:Cátedra Luís Moita
+DESCRIPTION:https://observare.autonoma.pt/catedra-luis-moita/a-estrategia-d
+ e-governacao-da-diaspora-venezuelana/
+URL:https://lykeion.pt/e/a-estrategia-de-governacao-da-diaspora-venezuelana
+ -b6a63.html
+END:VEVENT
+END:VCALENDAR

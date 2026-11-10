@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro de Estudos em Inovação Tecnologia e Políticas de Des
+ envolvimento (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:jornadas-horizonte-europa-67204-2027-02-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270208T143000
+SUMMARY:Jornadas Horizonte Europa
+LOCATION:Centro de Estudos em Inovação Tecnologia e Políticas de Desenvo
+ lvimento
+DESCRIPTION:https://in3.dem.ist.utl.pt/news/jornadas-horizonte-europa
+URL:https://lykeion.pt/e/jornadas-horizonte-europa-67204.html
+END:VEVENT
+BEGIN:VEVENT
+UID:manuel-heitor-in-vatican-to-promote-cancer-research-and-stra-dac0a-2027
+ -02-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270223
+SUMMARY:Manuel Heitor in Vatican to promote cancer research and strategies 
+ to decrease inequalities in cancer therapeutics/care and prevention
+LOCATION:Centro de Estudos em Inovação Tecnologia e Políticas de Desenvo
+ lvimento
+DESCRIPTION:https://in3.dem.ist.utl.pt/news/manuel-heitor-in-vatican-promot
+ e-cancer-research-strategies-decrease-inequalities-cancer-care
+URL:https://lykeion.pt/e/manuel-heitor-in-vatican-to-promote-cancer-researc
+ h-and-stra-dac0a.html
+END:VEVENT
+END:VCALENDAR

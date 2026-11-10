@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEBAL (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-ciclo-de-conferencias-elisabete-matos-24-novembro-20-f6e7a-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T143000
+SUMMARY:Webinar | Ciclo de Conferências | Elisabete Matos | 24 novembro 20
+ 26 | 14h30
+LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
+ eja
+DESCRIPTION:http://www.cebal.pt/index.php/en/18-destaque/437-webinar-ciclo-
+ de-conferencias-elisabete-matos-24-novembro-2026-14h30
+URL:https://lykeion.pt/e/webinar-ciclo-de-conferencias-elisabete-matos-24-n
+ ovembro-20-f6e7a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-umdiacom-catarina-prista-27-novembro-2026-11h30-578a3-2026-11-2
+ 7@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T113000
+SUMMARY:Webinar | UmDiaCom... Catarina Prista | 27 novembro 2026 | 11h30
+LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
+ eja
+DESCRIPTION:http://www.cebal.pt/index.php/en/2-uncategorised/438-webinar-um
+ diacom-catarina-prista-27-novembro-2026-11h30
+URL:https://lykeion.pt/e/webinar-umdiacom-catarina-prista-27-novembro-2026-
+ 11h30-578a3.html
+END:VEVENT
+END:VCALENDAR

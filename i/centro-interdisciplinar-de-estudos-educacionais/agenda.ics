@@ -79,10 +79,23 @@ BEGIN:VEVENT
 UID:mesa-redonda-daf86-2026-11-23@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261123
-SUMMARY:Mesa Redonda
+SUMMARY:Mesa redonda conversa com animadoras socioculturais sua intervenç
+ ão na Escola
 LOCATION:Centro Interdisciplinar de Estudos Educacionais
 DESCRIPTION:https://www.eselx.upl.pt/eventos/mesa-redonda-conversa-com-anim
  adoras-socioculturais-sua-intervencao-na-escola
 URL:https://lykeion.pt/e/mesa-redonda-daf86.html
+END:VEVENT
+BEGIN:VEVENT
+UID:o-ensino-da-compreensao-oral-e-da-expressao-oral-em-plnm-060e9-2026-11-
+ 27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T110000
+SUMMARY:O ensino da compreensão oral e da expressão oral em PLNM
+LOCATION:Centro Interdisciplinar de Estudos Educacionais
+DESCRIPTION:https://www.eselx.upl.pt/eventos/o-ensino-da-compreensao-oral-e
+ -da-expressao-oral-em-plnm
+URL:https://lykeion.pt/e/o-ensino-da-compreensao-oral-e-da-expressao-oral-e
+ m-plnm-060e9.html
 END:VEVENT
 END:VCALENDAR

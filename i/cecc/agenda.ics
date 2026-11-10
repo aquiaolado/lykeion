@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CECC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:7th-lisbon-winter-school-for-the-study-of-communication-medi-45937-2027
+ -01-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270112
+SUMMARY:7th Lisbon Winter School for the Study of Communication: Media and 
+ Dignity
+LOCATION:Centro de Estudos de Comunicação e Cultura
+DESCRIPTION:https://cecc.fch.lisboa.ucp.pt/en/events/7th-lisbon-winter-scho
+ ol-study-communication-media-and-dignity
+URL:https://lykeion.pt/e/7th-lisbon-winter-school-for-the-study-of-communic
+ ation-medi-45937.html
+END:VEVENT
+END:VCALENDAR

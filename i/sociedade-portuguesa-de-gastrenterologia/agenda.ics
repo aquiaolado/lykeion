@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPG (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:1-a-reuniao-nacional-de-capsula-endoscopica-e-enteroscopia-6254e-2027-0
+ 1-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:1.ª Reunião Nacional de Cápsula Endoscópica e Enteroscopia
+LOCATION:Sociedade Portuguesa de Gastrenterologia
+DESCRIPTION:https://www.spg.pt/events/1-a-reuniao-nacional-de-capsula-endos
+ copica-e-enteroscopia/
+URL:https://lykeion.pt/e/1-a-reuniao-nacional-de-capsula-endoscopica-e-ente
+ roscopia-6254e.html
+END:VEVENT
+END:VCALENDAR

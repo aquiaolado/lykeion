@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Cátedra de Estudos Ibero-Americanos (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:observare-observatorio-de-relacoes-exteriores-8568e-2026-11-24@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:OBSERVARE – Observatório de Relações Exteriores
+LOCATION:Cátedra de Estudos Ibero-Americanos
+DESCRIPTION:https://observare.autonoma.pt/
+URL:https://lykeion.pt/e/observare-observatorio-de-relacoes-exteriores-8568
+ e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v-congresso-internacional-do-observare-a879e-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:V Congresso Internacional do OBSERVARE
+LOCATION:Cátedra de Estudos Ibero-Americanos
+DESCRIPTION:https://observare.autonoma.pt/catedra-estudos-americanos/v-cong
+ resso-internacional-do-observare/?utm_source=rss&#038\,utm_medium=rss&#038
+ \,utm_campaign=v-congresso-internacional-do-observare
+URL:https://lykeion.pt/e/v-congresso-internacional-do-observare-a879e.html
+END:VEVENT
+END:VCALENDAR

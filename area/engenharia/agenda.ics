@@ -412,19 +412,6 @@ URL:https://lykeion.pt/e/celebrating-the-life-work-and-legacy-of-professor-
  carlos-sal-b4382.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-setor-dos-transportes-os-biofuels-na-transicao-e-9f24e-2026
- -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Conferência : Setor dos Transportes – Os “BioFuels” na Trans
- ição Energética
-LOCATION:Ordem dos Engenheiros
-DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/conferencia-setor
- -dos-transportes-os-biofuels-na-transicao-energetica/
-URL:https://lykeion.pt/e/conferencia-setor-dos-transportes-os-biofuels-na-t
- ransicao-e-9f24e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-setor-dos-transportes-os-biofuels-na-transicao-e-99239-2026
  -11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -460,16 +447,6 @@ DESCRIPTION:https://www.ubi.pt/Evento/24151
 URL:https://lykeion.pt/e/covilha-tech-day-2026-dcb63.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ii-jornadas-nortear-a-ceramica-6e65d-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T100000
-SUMMARY:II Jornadas Nortear a Cerâmica
-LOCATION:Museu Regional de Arqueologia Dom Diogo de Sousa\, Braga
-DESCRIPTION:https://www.maddiogosousa.gov.pt/event-item/ii-jornadas-nortear
- -a-ceramica/
-URL:https://lykeion.pt/e/ii-jornadas-nortear-a-ceramica-6e65d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ii-jornadas-nortear-a-ceramica-2026-741f4-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -482,7 +459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-jornadas-nortear-a-ceramica-57727-2026-11-12@lagenda.pt
 DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTART;TZID=Europe/Lisbon:20261112T100000
 SUMMARY:II Jornadas “Nortear a Cerâmica
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
 DESCRIPTION:https://lab2pt.net/conferences/congresses/ii-jornadas-nortear-a
@@ -812,7 +789,8 @@ BEGIN:VEVENT
 UID:palestra-f1043-2026-11-17@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261117
-SUMMARY:Palestra
+SUMMARY:Palestra aplicação dos padrões ambientais e sociais do pnud a pr
+ ojetos
 LOCATION:Ordem dos Engenheiros
 DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/palestra-aplicaca
  o-dos-padroes-ambientais-e-sociais-do-pnud-a-projetos/
@@ -1233,19 +1211,6 @@ URL:https://lykeion.pt/e/palestra-macroalgas-na-gastronomia-sustentabilidad
  e-e-tenden-cadd8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:tropical-talks-researchers-for-the-future-universidade-de-li-19d0c-2026
- -11-20@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261120
-SUMMARY:Tropical Talks “Researchers for the future” – Universidade de
-  Lisboa
-LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/tropical-talks-researcher
- s-for-the-future-universidade-de-lisboa/
-URL:https://lykeion.pt/e/tropical-talks-researchers-for-the-future-universi
- dade-de-li-19d0c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:webinar-publicacao-de-comunicacao-cientifica-ferramentas-via-6f6c6-2026
  -11-20@lagenda.pt
 DTSTAMP:20261110T000000Z
@@ -1331,5 +1296,1331 @@ LOCATION:Politécnico de Coimbra\, Coimbra
 DESCRIPTION:https://www.ipc.pt/eventos/sct26-upcoimbra/
 URL:https://lykeion.pt/e/universidade-politecnica-de-coimbra-semana-da-cien
  cia-e-da-t-4271b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cafe-de-ciencia-0f3e9-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T213000
+SUMMARY:Café de Ciência · Centro Ciência Viva de Bragança
+LOCATION:Centro Ciência Viva de Bragança\, Bragança
+DESCRIPTION:https://braganca.cienciaviva.pt/2240/cafe-de-ciencia---24-de-no
+ vembro
+URL:https://lykeion.pt/e/cafe-de-ciencia-0f3e9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-engenharia-na-defesa-e-soberania-nacional-b5f87-2026-11-24@
+ lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Conferência Engenharia na Defesa e Soberania Nacional
+LOCATION:Ordem dos Engenheiros
+DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/conferencia-engen
+ haria-na-defesa-e-soberania-nacional/
+URL:https://lykeion.pt/e/conferencia-engenharia-na-defesa-e-soberania-nacio
+ nal-b5f87.html
+END:VEVENT
+BEGIN:VEVENT
+UID:convencao-nacional-du-debate-o-desporto-universitario-6ee24-2026-11-24@
+ lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Convenção Nacional +DU debate o desporto universitário
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24170
+URL:https://lykeion.pt/e/convencao-nacional-du-debate-o-desporto-universita
+ rio-6ee24.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-cb646-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T093000
+SUMMARY:Essential cybersecurity phishing passwords and best practices
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/essential-cybersecurity-phishin
+ g-passwords-and-best-practices/
+URL:https://lykeion.pt/e/workshop-cb646.html
+END:VEVENT
+BEGIN:VEVENT
+UID:how-to-find-the-right-journal-strategies-and-tools-that-can-65394-2026-
+ 11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T093000
+SUMMARY:How to find the right journal\, strategies and tools that can help 
+ authors
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/how-find-right-j
+ ournal-strategies-and-tools-can-help-authors
+URL:https://lykeion.pt/e/how-to-find-the-right-journal-strategies-and-tools
+ -that-can-65394.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-automatic-take-off-and-landing-for-te-872e8-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T143000
+SUMMARY:Provas de Doutoramento: ''Automatic Take-off and Landing for Tether
+ ed Aircraft and Airborne Wind Energy Systems''
+LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/feup/pt/noticias_geral.ver_noticia?P_NR=2
+ 02522
+URL:https://lykeion.pt/e/provas-de-doutoramento-automatic-take-off-and-land
+ ing-for-te-872e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-o-direito-entre-a-terra-o-mar-a-sustentabilidade-e-5c422-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T120000
+SUMMARY:Seminário: O Direito entre a Terra\, o Mar\, a Sustentabilidade e 
+ a Diáspora
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/o-direito-entre-a-terra-o-
+ mar-a-sustentabilidade-e-a-diaspora
+URL:https://lykeion.pt/e/seminario-o-direito-entre-a-terra-o-mar-a-sustenta
+ bilidade-e-5c422.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tmc-exibe-terra-vil-de-luis-campos-931ba-2026-11-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:TMC~ exibe “Terra Vil”\, de Luís Campos
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24198
+URL:https://lykeion.pt/e/tmc-exibe-terra-vil-de-luis-campos-931ba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-forum-inesc-tec-do-outono-62b33-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Conferência: Fórum INESC TEC do Outono
+LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
+DESCRIPTION:https://forumdooutono.inesctec.pt/
+URL:https://lykeion.pt/e/conferencia-forum-inesc-tec-do-outono-62b33.html
+END:VEVENT
+BEGIN:VEVENT
+UID:forum-inesc-tec-do-outono-2026-ed877-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T110000
+SUMMARY:Fórum INESC TEC do Outono 2026
+LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/feup/pt/noticias_geral.ver_noticia?P_NR=2
+ 03062
+URL:https://lykeion.pt/e/forum-inesc-tec-do-outono-2026-ed877.html
+END:VEVENT
+BEGIN:VEVENT
+UID:isel-symposium-on-sustainable-energy-transition-isset-ac4e8-2026-11-25@
+ lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:ISEL Symposium on Sustainable Energy Transition (ISSET)
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/isel-symposium-sustainable-energy-t
+ ransition
+URL:https://lykeion.pt/e/isel-symposium-on-sustainable-energy-transition-is
+ set-ac4e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-de-podcast-encerra-o-mes-da-inovacao-pedagogica-149f5-2026-1
+ 1-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Lançamento de podcast encerra o Mês da Inovação Pedagógica
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24215
+URL:https://lykeion.pt/e/lancamento-de-podcast-encerra-o-mes-da-inovacao-pe
+ dagogica-149f5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:novel-therapeutic-approaches-bridging-research-and-implement-c7bf4-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Novel Therapeutic Approaches: Bridging Research and Implementatin
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/novel-therapeuti
+ c-approaches-bridging-research-and-implementatin
+URL:https://lykeion.pt/e/novel-therapeutic-approaches-bridging-research-and
+ -implement-c7bf4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-da-energia-ao-carbono-proposta-de-mod-74338-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T140000
+SUMMARY:Provas de Doutoramento: ''Da Energia ao Carbono: Proposta de Modelo
+  de Certificação para Edifícios de Habitação''
+LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/feup/pt/noticias_geral.ver_noticia?P_NR=2
+ 01982
+URL:https://lykeion.pt/e/provas-de-doutoramento-da-energia-ao-carbono-propo
+ sta-de-mod-74338.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-mendeley-essencial-e-complementar-549f9-2026-11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T100000
+SUMMARY:Webinar – Mendeley essencial e complementar
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-mendeley-essen
+ cial-e-complementar/
+URL:https://lykeion.pt/e/webinar-mendeley-essencial-e-complementar-549f9.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:6th-eugloh-plant-science-meeting-331a9-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:6th EUGLOH Plant Science Meeting
+LOCATION:Faculdade de Ciências da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/6th-eugloh-plant-science-meetin
+ g
+URL:https://lykeion.pt/e/6th-eugloh-plant-science-meeting-331a9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a-pesquisa-avancada-da-scopus-53cd7-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:A pesquisa avançada da Scopus
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/pesquisa-avancad
+ a-da-scopus-conceito-e-aplicacoes
+URL:https://lykeion.pt/e/a-pesquisa-avancada-da-scopus-53cd7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-estrategias-de-intervencao-em-fisioterapia-venti-2ac46-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Aula Aberta: «Estratégias de Intervenção em Fisioterapia: Venti
+ lação Mecânica»
+LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
+ eira de Azeméis
+DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-estrategias-de-in
+ tervencao-em-fisioterapia-ventilacao-mecanica/
+URL:https://lykeion.pt/e/aula-aberta-estrategias-de-intervencao-em-fisioter
+ apia-venti-2ac46.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-os-desafios-da-mobilidade-urbana-na-engenharia-09960-2026-1
+ 1-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Conferência - Os Desafios da Mobilidade Urbana na Engenharia
+LOCATION:Ordem dos Engenheiros
+DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/conferencia-os-de
+ safios-da-mobilidade-urbana-na-engenharia/
+URL:https://lykeion.pt/e/conferencia-os-desafios-da-mobilidade-urbana-na-en
+ genharia-09960.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-europeu-dedicado-ao-futuro-dos-materiais-avancados-d9a59-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Encontro europeu dedicado ao futuro dos Materiais Avançados decorr
+ e na Universidade de Aveiro nos dias 26 e 28 de novembro
+LOCATION:Universidade de Aveiro
+DESCRIPTION:https://www.spmateriais.pt/post/encontro-europeu-dedicado-ao-fu
+ turo-dos-materiais-avan%C3%A7ados-decorre-na-universidade-de-aveiro-nos-di
+URL:https://lykeion.pt/e/encontro-europeu-dedicado-ao-futuro-dos-materiais-
+ avancados-d9a59.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mastering-scopus-advanced-search-a0af8-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T093000
+SUMMARY:Mastering Scopus Advanced Search
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/mastering-scopus
+ -advanced-search
+URL:https://lykeion.pt/e/mastering-scopus-advanced-search-a0af8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pensar-sociologicamente-sociedade-em-cena-uma-palavra-pode-v-31462-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Pensar Sociologicamente – “Sociedade em cena – uma palavra po
+ de valer mais do que mil imagens?
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24169
+URL:https://lykeion.pt/e/pensar-sociologicamente-sociedade-em-cena-uma-pala
+ vra-pode-v-31462.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-beatriz-de-sousa-siqueira-a-juvent-03b8f-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:Provas de Mestrado de Ana Beatriz de Sousa Siqueira «A juventude e
+  ascensão feminina nos esportes eletrônicos no Brasil»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
+ 01632
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-beatriz-de-sousa-siqueir
+ a-a-juvent-03b8f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
+ -27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/6-edicao-da-conf
+ erencia-circular-economy-make-it-happen
+URL:https://lykeion.pt/e/6-a-edicao-da-conferencia-circular-economy-make-it
+ -happen-b5702.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-as-novas-descobertas-no-vale-do-coa-6f587-2026-11-27@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Conferência: As novas descobertas no Vale do Côa
+LOCATION:Museu do Côa - Centro Ciência Viva\, Vila Nova de Foz Côa
+DESCRIPTION:https://arte-coa.pt/museu/
+URL:https://lykeion.pt/e/conferencia-as-novas-descobertas-no-vale-do-coa-6f
+ 587.html
+END:VEVENT
+BEGIN:VEVENT
+UID:herwig-hauser-2026-11-27-15-00-00-00-15h-mini-course-on-elli-c1345-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Herwig Hauser\, 2026-11-27/15:00:00+00\, 15h\, Mini-course on Ellip
+ tic Curves: Classical Geometry
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://geolis.math.tecnico.ulis
+ boa.pt/seminars?action=show&amp\,id=7889
+URL:https://lykeion.pt/e/herwig-hauser-2026-11-27-15-00-00-00-15h-mini-cour
+ se-on-elli-c1345.html
+END:VEVENT
+BEGIN:VEVENT
+UID:herwig-hauser-2026-11-27-16-00-00-00-16h-mini-course-on-elli-c1345-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Herwig Hauser\, 2026-11-27/16:00:00+00\, 16h\, Mini-course on Ellip
+ tic Curves: Complex Analysis
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://geolis.math.tecnico.ulis
+ boa.pt/seminars?action=show&amp\,id=7890
+URL:https://lykeion.pt/e/herwig-hauser-2026-11-27-16-00-00-00-16h-mini-cour
+ se-on-elli-c1345.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ouvir-duas-vezes-a-sinfonia-06c7b-2026-11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T110000
+SUMMARY:Ouvir Duas Vezes – A Sinfonia
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/ouvir-duas-vezes
+ -sinfonia
+URL:https://lykeion.pt/e/ouvir-duas-vezes-a-sinfonia-06c7b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-biomateriais-e-nanomedicina-de-beatriz-60b51-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de Mestrado em Biomateriais e Nanomedicina de Beatriz Machad
+ o Lopes — Desenvolvimento de scaffolds compósitos à base de quitosana 
+ por robocasting para regeneração óssea e hipertermia magnética
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/99881
+URL:https://lykeion.pt/e/provas-de-mestrado-em-biomateriais-e-nanomedicina-
+ de-beatriz-60b51.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-do-residuo-ao-recurso-constroi-o-teu-compostor-4e793-2026-11-2
+ 7@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Workshop: Do Resíduo ao Recurso: Constrói o Teu Compostor!
+LOCATION:Politécnico de Coimbra\, Oliveira do Hospital
+DESCRIPTION:https://www.ipc.pt/eventos/sct26-upcoimbra/
+URL:https://lykeion.pt/e/workshop-do-residuo-ao-recurso-constroi-o-teu-comp
+ ostor-4e793.html
+END:VEVENT
+BEGIN:VEVENT
+UID:miradouros-do-monsanto-de-norte-a-sul-93997-2026-11-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+SUMMARY:Miradouros do Monsanto de Norte a Sul
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/miradouros-do-mo
+ nsanto-de-norte-sul
+URL:https://lykeion.pt/e/miradouros-do-monsanto-de-norte-a-sul-93997.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-mendeley-revisitado-descubra-o-novo-mendeley-referen-df43a-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T153000
+SUMMARY:Webinar – Mendeley revisitado: descubra o novo Mendeley Reference
+  Manager – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-mendeley-revis
+ itado-descubra-o-novo-mendeley-reference-manager-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-mendeley-revisitado-descubra-o-novo-mendel
+ ey-referen-df43a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:14-a-conferencia-da-british-hernia-society-80550-2026-11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:14.ª Conferência da British Hernia Society
+LOCATION:Sociedade Portuguesa de Cirurgia
+DESCRIPTION:https://www.spcir.com/evento/213
+URL:https://lykeion.pt/e/14-a-conferencia-da-british-hernia-society-80550.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Prova de Doutoramento
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-mar
+ ia-de-vasconcelos-cardoso/
+URL:https://lykeion.pt/e/gea-30-11-26-prova-de-doutoramento-6bc2c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-federated-anomaly-detection-over-dist-9e0ce-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Provas de Doutoramento: ''Federated Anomaly Detection over Distribu
+ ted Data Streams''
+LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/feup/pt/noticias_geral.ver_noticia?P_NR=2
+ 03142
+URL:https://lykeion.pt/e/provas-de-doutoramento-federated-anomaly-detection
+ -over-dist-9e0ce.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-beatriz-botelho-nascimento-a-cor-b8cf1-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Provas de mestrado de Maria Beatriz Botelho Nascimento — A Corpor
+ ate Governance nas empresas familiares: A importância dos princípios da 
+ Corporate Governance para a sustentabilidade das empresas famil
+LOCATION:Iscte – Instituto Universitário de Lisboa
+DESCRIPTION:https://www.iscte-iul.pt/atualidade/provas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-beatriz-botelho-nascim
+ ento-a-cor-b8cf1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6th-international-conference-on-information-technology-in-ge-52c92-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:6th International Conference on Information Technology in Geo-Engin
+ eering (ICITG 2026) / JTC2 Workshop\, 2 a 4 de dezembro de 2026
+LOCATION:Sociedade Portuguesa de Geotecnia
+DESCRIPTION:https://spgeotecnia.pt/noticias/6th-international-conference-on
+ -information-technology-in-geo-engineering-icitg-2026-jtc2-workshop-2-a-4-
+ de-dezembro-de-2026/
+URL:https://lykeion.pt/e/6th-international-conference-on-information-techno
+ logy-in-ge-52c92.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
+ ience\, Power\, and Methods»
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24199
+URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
+ litical-ex-3405f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-web-of-science-introducao-aos-recursos-e-funcionalid-a288b-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T100000
+SUMMARY:Webinar – Web of Science: introdução aos recursos e funcionalid
+ ades
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-web-of-science
+ -introducao-aos-recursos-e-funcionalidades/
+URL:https://lykeion.pt/e/webinar-web-of-science-introducao-aos-recursos-e-f
+ uncionalid-a288b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2nd-mobilise-symposium-in-molecular-bioengineering-3a930-2026-12-03@lag
+ enda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:2nd MOBILIsE Symposium in Molecular Bioengineering
+LOCATION:i3S – Instituto de Investigação e Inovação em Saúde\, Porto
+DESCRIPTION:https://www.i3s.up.pt/event.php?v=425
+URL:https://lykeion.pt/e/2nd-mobilise-symposium-in-molecular-bioengineering
+ -3a930.html
+END:VEVENT
+BEGIN:VEVENT
+UID:herwig-hauser-2026-12-03-10-00-00-00-10h-mini-course-on-elli-c1345-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Herwig Hauser\, 2026-12-03/10:00:00+00\, 10h\, Mini-course on Ellip
+ tic Curves: Number Theory
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://geolis.math.tecnico.ulis
+ boa.pt/seminars?action=show&amp\,id=7893
+URL:https://lykeion.pt/e/herwig-hauser-2026-12-03-10-00-00-00-10h-mini-cour
+ se-on-elli-c1345.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-introducao-ao-zotero-via-zoom-meeting-770e6-2026-12-04@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T153000
+SUMMARY:Webinar – Introdução ao Zotero – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-introducao-ao-
+ zotero-via-zoom-meeting-3/
+URL:https://lykeion.pt/e/webinar-introducao-ao-zotero-via-zoom-meeting-770e
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-8a2ae-2026-12-06@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261206T093000
+SUMMARY:Bibliotecas da AP desafios e oportunidades na inovação e na suste
+ ntabilidade
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/eventos/bibliotecas-da-ap-desafios-e-oportun
+ idades-na-inovacao-e-na-sustentabilidade/
+URL:https://lykeion.pt/e/encontro-8a2ae.html
+END:VEVENT
+BEGIN:VEVENT
+UID:estudante-do-cba-sara-patricia-bettencourt-luna-defende-prov-fb938-2026
+ -12-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T100000
+SUMMARY:Estudante do CBA Sara Patrícia Bettencourt Luna defende provas de 
+ doutoramento
+LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
+DESCRIPTION:https://cba.uac.pt/news-events/ver.php?id=5
+URL:https://lykeion.pt/e/estudante-do-cba-sara-patricia-bettencourt-luna-de
+ fende-prov-fb938.html
+END:VEVENT
+BEGIN:VEVENT
+UID:racas-autoctones-acoreanas-e-a-sua-sustentabilidade-bc1d8-2026-12-07@la
+ genda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:Raças Autóctones Açoreanas e a sua Sustentabilidade
+LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
+DESCRIPTION:https://cba.uac.pt/news-events/ver.php?id=18
+URL:https://lykeion.pt/e/racas-autoctones-acoreanas-e-a-sua-sustentabilidad
+ e-bc1d8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:scopus-and-sciencedirect-advanced-searching-analysis-and-res-4b0b9-2026
+ -12-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261208
+SUMMARY:Scopus and ScienceDirect : Advanced searching\, analysis and result
+ s management (Part 2)
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/scopus-and-scien
+ cedirect-advanced-searching-analysis-and-results-management-part-2
+URL:https://lykeion.pt/e/scopus-and-sciencedirect-advanced-searching-analys
+ is-and-res-4b0b9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-comemorativa-dos-50-anos-do-departamento-e56e1-2026-12-09@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T090000
+SUMMARY:Sessão comemorativa dos 50 anos do Departamento
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/sessao-comemorat
+ iva-dos-50-anos-do-departamento
+URL:https://lykeion.pt/e/sessao-comemorativa-dos-50-anos-do-departamento-e5
+ 6e1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-introducao-ao-excel-funcoes-essenciais-af6e7-2026-12-09@lagenda
+ .pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T140000
+SUMMARY:Webinar – Introdução ao Excel: funções essenciais
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-introducao-ao-
+ excel-funcoes-essenciais/
+URL:https://lykeion.pt/e/webinar-introducao-ao-excel-funcoes-essenciais-af6
+ e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hitech-2027-information-session-at-nova-fct-6e837-2026-12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T143000
+SUMMARY:HiTech 2027 | Information Session at NOVA FCT
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.eventbrite.pt/e/hitech-2027-information-session-at-
+ nova-fct-tickets-2003306137585
+URL:https://lykeion.pt/e/hitech-2027-information-session-at-nova-fct-6e837.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-epea-seminario-internacional-esfera-publica-na-era-dos-al-fb74c-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:II EPEA – Seminário Internacional Esfera Pública na Era dos Alg
+ oritmos
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24208
+URL:https://lykeion.pt/e/ii-epea-seminario-internacional-esfera-publica-na-
+ era-dos-al-fb74c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:persona-de-ingmar-bergman-exibicao-e-aula-aberta-com-robert-68fa2-2026-
+ 12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T180000
+SUMMARY:Persona\, de Ingmar Bergman: exibição e Aula Aberta com Robert Pi
+ ppin
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/persona-de-ingmar-bergman-exibi
+ cao-e-aula-aberta-com-robert-pippin/
+URL:https://lykeion.pt/e/persona-de-ingmar-bergman-exibicao-e-aula-aberta-c
+ om-robert-68fa2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lisbon-wade-webinar-in-analysis-and-differential-equations-e721d-2026-1
+ 2-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T150000
+SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://math.tecnico.ulisboa.pt/seminars/
+URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
+ quations-e721d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portugal-crypto-day-2026-06324-2026-12-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Portugal Crypto Day 2026
+LOCATION:Laboratório para a Ciência da Computação e Informática\, Alma
+ da
+DESCRIPTION:https://nova-lincs.di.fct.unl.pt/events/portugal-crypto-day-202
+ 6/
+URL:https://lykeion.pt/e/portugal-crypto-day-2026-06324.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-introducao-ao-zotero-via-zoom-meeting-770e6-2026-12-12@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T153000
+SUMMARY:Webinar – Introdução ao Zotero – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-introducao-ao-
+ zotero-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-introducao-ao-zotero-via-zoom-meeting-770e
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro-18cd9-2026
+ -12-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Prova de Doutoramento do aluno Rui Orlando Magalhães Ribeiro
+LOCATION:Departamento de Engenharia Informática (DEI)
+DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
+ rova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro
+URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-rui-orlando-magalha
+ es-ribeiro-18cd9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-a7a18-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
+ da — Geografia\, Telecomunicações e Território: uma experiência did
+ ática no 11.º ano de escolaridade
+LOCATION:Instituto de Geografia e Ordenamento do Território
+DESCRIPTION:https://www.igot.ulisboa.pt/provas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
+ no-supervi-a7a18.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-a-nova-lei-das-financas-locais-desafios-desempen-72cf5-2026
+ -12-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261217T091500
+SUMMARY:Conferência «A Nova Lei das Finanças Locais – Desafios\, desem
+ penho e sustentabilidade financeira»
+LOCATION:Centro de Investigacao em Direito Europeu Economico Financeiro e F
+ iscal
+DESCRIPTION:https://www.cideeff.pt/pt/noticias/conferencia-a-nova-lei-das-f
+ inancas-locais-desafios-desempenho-e-sustentabilidade-financeira/6486/
+URL:https://lykeion.pt/e/conferencia-a-nova-lei-das-financas-locais-desafio
+ s-desempen-72cf5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:materiais-em-contacto-com-a-agua-67289-2026-12-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261217T080000
+SUMMARY:Materiais em Contacto com a Água
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/materiais-em-contacto-com-a-agua
+ /
+URL:https://lykeion.pt/e/materiais-em-contacto-com-a-agua-67289.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-be94e-2026-12-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T180000
+SUMMARY:Exposição ensaios de tectónica digital
+LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
+DESCRIPTION:https://lab2pt.net/exhibitions/exposicao-ensaios-de-tectonica-d
+ igital
+URL:https://lykeion.pt/e/exposicao-be94e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:open-data-academy-challenge-0727e-2026-12-31@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Open Data Academy Challenge
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/open-data-academ
+ y-challenge
+URL:https://lykeion.pt/e/open-data-academy-challenge-0727e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-zotero-essencial-e-complementar-88559-2027-01-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270105T100000
+SUMMARY:Webinar – Zotero essencial e complementar
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-zotero-essenci
+ al-e-complementar/
+URL:https://lykeion.pt/e/webinar-zotero-essencial-e-complementar-88559.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-cienciavitae-a15ac-2027-01-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270108T103000
+SUMMARY:Sessão CIENCIAVITAE
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/sessao-cienciavitae-18
+ -jan-24-10h30/
+URL:https://lykeion.pt/e/sessao-cienciavitae-a15ac.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-workshop-de-latex-ef2eb-2027-01-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270113T140000
+SUMMARY:Webinar – Workshop de LaTeX
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-workshop-de-la
+ tex/
+URL:https://lykeion.pt/e/webinar-workshop-de-latex-ef2eb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:spe-distinguished-lecture-the-exceptional-price-performance-0bf27-2027-
+ 01-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270114T120000
+SUMMARY:SPE Distinguished Lecture-“The Exceptional Price Performance of O
+ il- Explanati...
+LOCATION:Instituto Superior Técnico\, Alvalade
+DESCRIPTION:https://cerena.pt/events/spe-distinguished-lecture-exceptional-
+ price-performance-oil-explanations-and-prospects-dr
+URL:https://lykeion.pt/e/spe-distinguished-lecture-the-exceptional-price-pe
+ rformance-0bf27.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eficiencia-energetica-em-ar-comprimido-f822d-2027-01-15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270115T080000
+SUMMARY:Eficiência Energética em Ar Comprimido
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/eficiencia-energetica-em-ar-comp
+ rimido/
+URL:https://lykeion.pt/e/eficiencia-energetica-em-ar-comprimido-f822d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pontes-rolantes-e-acessorios-de-elevacao-618ed-2027-01-19@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270119T080000
+SUMMARY:Pontes Rolantes e Acessórios de Elevação
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/pontes-rolantes-e-acessorios-de-
+ elevacao/
+URL:https://lykeion.pt/e/pontes-rolantes-e-acessorios-de-elevacao-618ed.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-como-evitar-o-plagio-na-escrita-de-trabalhos-academi-ae1c8-2027
+ -01-20@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270120T163000
+SUMMARY:Webinar – Como evitar o plágio na escrita de trabalhos académic
+ os
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-evitar-o-
+ plagio-na-escrita-de-trabalhos-academicos/
+URL:https://lykeion.pt/e/webinar-como-evitar-o-plagio-na-escrita-de-trabalh
+ os-academi-ae1c8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gestao-de-energia-e-eficiencia-energetica-em-sistemas-de-dis-d9e8b-2027
+ -01-21@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270121
+SUMMARY:Gestão de Energia e Eficiência Energética em Sistemas de Distrib
+ uição e Tratamento de Água – Conceitos Básicos
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-energia-e-eficiencia-e
+ nergetica-em-sistemas-de-distribuicao-e-tratamento-de-agua-conceitos-basic
+ os/
+URL:https://lykeion.pt/e/gestao-de-energia-e-eficiencia-energetica-em-siste
+ mas-de-dis-d9e8b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cerena-seminar-managing-our-land-back-to-the-future-making-u-a7787-2027
+ -01-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270125T113000
+SUMMARY:CERENA Seminar: Managing our land back to the future: making use of
+  the vantag...
+LOCATION:Centro de Recursos Naturais e Ambiente
+DESCRIPTION:https://cerena.pt/events/cerena-seminar-managing-our-land-back-
+ future-making-use-vantage-point-geophysics-dr-ellen
+URL:https://lykeion.pt/e/cerena-seminar-managing-our-land-back-to-the-futur
+ e-making-u-a7787.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-cienciavitae-b9cb1-2027-01-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270126
+SUMMARY:Sessão CIÊNCIAVITAE apresentação e vídeo disponíveis
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/sessao-cienciavitae-ap
+ resentacao-e-video-disponiveis/
+URL:https://lykeion.pt/e/sessao-cienciavitae-b9cb1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eletricidade-para-engenheiros-nao-eletrotecnicos-ded03-2027-02-02@lagen
+ da.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270202T080000
+SUMMARY:Eletricidade para Engenheiros não Eletrotécnicos
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/eletricidade-para-engenheiros-na
+ o-eletrotecnicos/
+URL:https://lykeion.pt/e/eletricidade-para-engenheiros-nao-eletrotecnicos-d
+ ed03.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cees-2027-4th-international-conference-on-construction-energ-345cc-2027
+ -02-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270203
+SUMMARY:CEES 2027 - 4th International Conference on Construction\, Energy\,
+  Environment and Sustainability
+LOCATION:Instituto de Investigação e Desenvolvimento Tecnológico para a 
+ Construção Energia Ambiente e Sustentabilidade\, Coimbra
+DESCRIPTION:https://www.itecons.uc.pt/services/events/39
+URL:https://lykeion.pt/e/cees-2027-4th-international-conference-on-construc
+ tion-energ-345cc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:controlo-das-fontes-de-energia-loto-lockout-tagout-f3f11-2027-02-03@lag
+ enda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270203T080000
+SUMMARY:Controlo das Fontes de Energia – LOTO – Lockout Tagout
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/controlo-das-fontes-de-energia-l
+ oto-lockout-tagout/
+URL:https://lykeion.pt/e/controlo-das-fontes-de-energia-loto-lockout-tagout
+ -f3f11.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-recommendations-for-publishing-in-international-jour-37b83-2027
+ -02-03@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270203T163000
+SUMMARY:Webinar – Recommendations for publishing in international journal
+ s
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-recommendation
+ s-for-publishing-in-international-journals/
+URL:https://lykeion.pt/e/webinar-recommendations-for-publishing-in-internat
+ ional-jour-37b83.html
+END:VEVENT
+BEGIN:VEVENT
+UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
+ -02-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270204
+SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
+ nte
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/23615
+URL:https://lykeion.pt/e/debate-o-legado-do-4-de-fevereiro-e-as-interrogaco
+ es-do-pres-e27b5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:novas-tendencias-da-agua-reutilizacao-nexus-agua-energia-emi-c683d-2027
+ -02-04@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270204
+SUMMARY:Novas Tendências da Água: Reutilização\, Nexus Água-Energia\, 
+ Emissões de GEE\, Gestão de Dados e Desafios Futuros
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/novas-tendencias-da-agua-reutili
+ zacao-nexus-agua-energia-emissoes-de-gee-gestao-de-dados-e-desafios-futuro
+ s/
+URL:https://lykeion.pt/e/novas-tendencias-da-agua-reutilizacao-nexus-agua-e
+ nergia-emi-c683d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-conhecer-os-servicos-da-biblioteca-do-tecnico-via-zo-18ab0-2027
+ -02-06@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270206T153000
+SUMMARY:Webinar – Conhecer os serviços da Biblioteca do Técnico – via
+  Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-conhecer-os-se
+ rvicos-da-biblioteca-do-tecnico-via-zoom-meeting-2/
+URL:https://lykeion.pt/e/webinar-conhecer-os-servicos-da-biblioteca-do-tecn
+ ico-via-zo-18ab0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-compliance-e-sustentabilidade-uma-perspetiva-luso-a6402-2027-
+ 02-08@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270208T120000
+SUMMARY:Seminário: Compliance e Sustentabilidade - uma perspetiva luso-bra
+ sileira
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/8-de-fevereiro-compliance-
+ e-sustentabilidade-uma-perspetiva-luso-brasileira
+URL:https://lykeion.pt/e/seminario-compliance-e-sustentabilidade-uma-perspe
+ tiva-luso-a6402.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-53ff7-2027-02-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270210T100000
+SUMMARY:Webinar oficina do canva como criar apresentações dinâmicas e in
+ clusivas
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-oficina-do-can
+ va-como-criar-apresentacoes-dinamicas-e-inclusivas/
+URL:https://lykeion.pt/e/webinar-53ff7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-aceder-ao-conhecimento-a-biblioteca-do-tecnico-ajuda-84af5-2027
+ -02-12@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270212T100000
+SUMMARY:Webinar – Aceder ao conhecimento: a Biblioteca do Técnico ajuda!
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-aceder-ao-conh
+ ecimento-a-biblioteca-do-tecnico-ajuda/
+URL:https://lykeion.pt/e/webinar-aceder-ao-conhecimento-a-biblioteca-do-tec
+ nico-ajuda-84af5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-8bb2b-2027-02-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270217T100000
+SUMMARY:Webinar como fazer uma apresentação de sucesso
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-fazer-uma
+ -apresentacao-de-sucesso/
+URL:https://lykeion.pt/e/webinar-8bb2b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:europeia-conferencia-sobre-o-futuro-da-europa-3af97-2027-02-18@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270218T113000
+SUMMARY:Europeia Conferência sobre o Futuro da Europa
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/os-valores-europeus-e-o-futu
+ ro-da-uniao
+URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-3af9
+ 7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:os-valores-europeus-e-o-futuro-da-uniao-3af97-2027-02-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270218T113000
+SUMMARY:Os valores europeus e o futuro da União
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/os-valores-europeus-e-o-futu
+ ro-da-uniao
+URL:https://lykeion.pt/e/os-valores-europeus-e-o-futuro-da-uniao-3af97.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20th-international-joint-conference-on-biomedical-engineerin-1c23b-2027
+ -02-19@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270219
+SUMMARY:20th International Joint Conference on Biomedical Engineering Syste
+ ms and Technologies
+LOCATION:Instituto Para Os Sistemas e Tecnologias de Informação Controlo 
+ e Comunicação\, Setúbal
+DESCRIPTION:https://portal.insticc.org/conferences
+URL:https://lykeion.pt/e/20th-international-joint-conference-on-biomedical-
+ engineerin-1c23b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-conhecer-os-servicos-da-biblioteca-do-ist-via-zoom-4e0ca-2027-
+ 02-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270222T100000
+SUMMARY:Formação – Conhecer os serviços da Biblioteca do IST – via Z
+ oom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-conhecer-os-s
+ ervicos-da-biblioteca-do-ist-via-zoom-meeting/
+URL:https://lykeion.pt/e/formacao-conhecer-os-servicos-da-biblioteca-do-ist
+ -via-zoom-4e0ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fct-increases-investment-and-phd-scholarships-for-2026-call-0d83a-2027-
+ 02-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270224
+SUMMARY:FCT increases Investment and PhD Scholarships for 2026 Call
+LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
+ tabilidade\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceres/noticias/ceres-talks-de-novembro-susana
+ -simoes-13/
+URL:https://lykeion.pt/e/fct-increases-investment-and-phd-scholarships-for-
+ 2026-call-0d83a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-0e2fc-2027-02-24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270224T100000
+SUMMARY:Webinar ebsco discovery Service pesquisa de informação para os tr
+ abalhos académicos
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-ebsco-discover
+ y-service-pesquisa-de-informacao-para-os-trabalhos-academicos/
+URL:https://lykeion.pt/e/webinar-0e2fc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cerena-seminar-innovation-in-the-geo-modelling-workflow-a-ge-5d7ce-2027
+ -02-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270225T110000
+SUMMARY:CERENA Seminar: Innovation in the geo-modelling workflow: a geophys
+ ical perspec...
+LOCATION:Centro de Recursos Naturais e Ambiente
+DESCRIPTION:https://cerena.pt/events/cerena-seminar-innovation-geo-modellin
+ g-workflow-geophysical-perspective-dr-pierre-thore
+URL:https://lykeion.pt/e/cerena-seminar-innovation-in-the-geo-modelling-wor
+ kflow-a-ge-5d7ce.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-scholar-desvendando-o-labirinto-guia-para-o-deposito-181f7-2027
+ -02-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270226T170000
+SUMMARY:Webinar – Scholar\, desvendando o labirinto: guia para o depósit
+ o no Repositório Institucional
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-scholar-desven
+ dando-o-labirinto-guia-para-o-deposito-no-repositorio-institucional/
+URL:https://lykeion.pt/e/webinar-scholar-desvendando-o-labirinto-guia-para-
+ o-deposito-181f7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7th-international-conference-on-robotics-computer-vision-and-3b720-2027
+ -02-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:7th International Conference on Robotics\, Computer Vision and Inte
+ lligent Systems
+LOCATION:Instituto Para Os Sistemas e Tecnologias de Informação Controlo 
+ e Comunicação\, Setúbal
+DESCRIPTION:https://portal.insticc.org/conferences
+URL:https://lykeion.pt/e/7th-international-conference-on-robotics-computer-
+ vision-and-3b720.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-comportamento-etico-na-ciencia-citar-e-referenciar-e-90894-2027
+ -02-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270227T163000
+SUMMARY:Webinar – Comportamento ético na ciência: citar e referenciar e
+ m trabalhos científicos – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-comportamento-
+ etico-na-ciencia-citar-e-referenciar-em-trabalhos-cientificos-via-zoom-mee
+ ting/
+URL:https://lykeion.pt/e/webinar-comportamento-etico-na-ciencia-citar-e-ref
+ erenciar-e-90894.html
+END:VEVENT
+BEGIN:VEVENT
+UID:h2oforall-nominated-for-the-ersar-innovation-award-2025-c657c-2027-03-0
+ 4@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270304
+SUMMARY:H2OforAll Nominated for the ERSAR Innovation Award 2025
+LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
+ tabilidade\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceres/noticias/projeto-era-chair-do-ceres-apr
+ ovado-1/
+URL:https://lykeion.pt/e/h2oforall-nominated-for-the-ersar-innovation-award
+ -2025-c657c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-conhecer-os-servicos-da-biblioteca-do-tecnico-via-z-4e0ca-2027
+ -03-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270307T100000
+SUMMARY:Formação – Conhecer os serviços da Biblioteca do Técnico – 
+ via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-conhecer-os-s
+ ervicos-da-biblioteca-do-tecnico-via-zoom-meeting/
+URL:https://lykeion.pt/e/formacao-conhecer-os-servicos-da-biblioteca-do-tec
+ nico-via-z-4e0ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eletronica-de-potencia-analise-de-circuitos-e-mitigacao-de-a-ca4f2-2027
+ -03-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270309T160000
+SUMMARY:Eletrónica de Potência – Análise de Circuitos e Mitigação de
+  Avarias
+LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
+DESCRIPTION:https://www.cenertec.pt/cursos/eletronica-de-potencia-analise-d
+ e-circuitos-e-mitigacao-de-avarias/
+URL:https://lykeion.pt/e/eletronica-de-potencia-analise-de-circuitos-e-miti
+ gacao-de-a-ca4f2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:phd-defence-f34f7-2027-03-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270309
+SUMMARY:Provas de doutoramento Beatriz Sales bandarra
+LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
+ tabilidade\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceres/noticias/provas-de-doutoramento-beatriz
+ -sales-bandarra-9/
+URL:https://lykeion.pt/e/phd-defence-f34f7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oficina-os-clandestinos-3253f-2027-03-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270310T103000
+SUMMARY:Oficina Os Clandestinos
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.ccb.pt/evento/oficina-os-clandestinos/2027-03-10/
+URL:https://lykeion.pt/e/oficina-os-clandestinos-3253f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-5e6cb-2027-03-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270310
+SUMMARY:Webinar revistas científicas onde publicar
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-revistas-cient
+ ificas-onde-publicar/
+URL:https://lykeion.pt/e/webinar-5e6cb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-como-recuperar-informacao-com-a-b-on-via-zoom-meetin-bc18b-2027
+ -03-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270313T153000
+SUMMARY:Webinar – Como recuperar informação com a b-on – via Zoom mee
+ ting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-recuperar
+ -informacao-com-a-b-on-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinar-como-recuperar-informacao-com-a-b-on-via-z
+ oom-meetin-bc18b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:moderacao-do-seminario-biometano-perspetivas-para-portugal-2924f-2027-0
+ 3-20@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Moderação do Seminário «Biometano: Perspetivas para Portugal»
+LOCATION:CoLAB BIOREF\, Porto
+DESCRIPTION:https://www.bioref-colab.pt/pt/news-pt/seminario-biometano-ape
+URL:https://lykeion.pt/e/moderacao-do-seminario-biometano-perspetivas-para-
+ portugal-2924f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-comportamento-etico-na-ciencia-citar-e-referenciar-dd840-2027-
+ 03-21@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270321T170000
+SUMMARY:Formação – Comportamento ético na ciência: citar e referencia
+ r em trabalhos científicos – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-comportamento
+ -etico-na-ciencia-citar-e-referenciar-em-trabalhos-cientificos-via-zoom-me
+ eting-2/
+URL:https://lykeion.pt/e/formacao-comportamento-etico-na-ciencia-citar-e-re
+ ferenciar-dd840.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-0aa15-2027-03-21@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270321T153000
+SUMMARY:Webinar integração da IA na academia ferramentas e reflexões ét
+ icas
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-integracao-da-
+ ia-na-academia-ferramentas-e-reflexoes-eticas/
+URL:https://lykeion.pt/e/webinar-0aa15.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-ieee-para-autores-visita-a-biblioteca-do-tecnico-5ad63-2027-03
+ -24@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270324T090000
+SUMMARY:Workshop IEEE para Autores visita a Biblioteca do Técnico
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/workshop-ieee-para-aut
+ ores-visita-a-biblioteca-do-tecnico/
+URL:https://lykeion.pt/e/workshop-ieee-para-autores-visita-a-biblioteca-do-
+ tecnico-5ad63.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-descubra-os-recursos-de-informacao-da-universidade-f0e89-2027-
+ 03-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270328T100000
+SUMMARY:Formação – Descubra os recursos de informação da Universidade
+  de Lisboa: EDS e B-on – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-descubra-os-r
+ ecursos-de-informacao-da-universidade-de-lisboa-eds-e-b-on-via-zoom-meetin
+ g/
+URL:https://lykeion.pt/e/formacao-descubra-os-recursos-de-informacao-da-uni
+ versidade-f0e89.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinars-mendeley-20-1357c-2027-03-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270328T153000
+SUMMARY:Webinars Mendeley ― 20
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinars-mendeley-%e2%
+ 80%95-2021-e-2728-de-marco-%e2%80%95-via-zoom-meeting/
+URL:https://lykeion.pt/e/webinars-mendeley-20-1357c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-549f9-2027-03-31@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270331T100000
+SUMMARY:Webinar Mendeley essencial e complementar
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-mendeley-essen
+ cial-e-complementar-2/
+URL:https://lykeion.pt/e/webinar-549f9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-de-latex-4-de-abril-via-zoom-meeting-9aad7-2027-04-04@lagenda.
+ pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270404T140000
+SUMMARY:Workshop de LaTeX ― 4 de abril ― via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/workshop-de-latex-%e2%
+ 80%95-4-de-abril-%e2%80%95-via-zoom-meeting/
+URL:https://lykeion.pt/e/workshop-de-latex-4-de-abril-via-zoom-meeting-9aad
+ 7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-9883d-2027-04-07@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270407
+SUMMARY:Webinar google sites para promover projetos de investigação
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-google-sites-p
+ ara-promover-projetos-de-investigacao/
+URL:https://lykeion.pt/e/webinar-9883d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-como-recuperar-informacao-com-a-b-on-17687-2027-04-08@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270408T100000
+SUMMARY:Webinar ― Como recuperar informação com a b-on
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-%e2%80%95-como
+ -recuperar-informacao-com-a-b-on/
+URL:https://lykeion.pt/e/webinar-como-recuperar-informacao-com-a-b-on-17687
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-aberto-do-tecnico-2027-06b66-2027-04-17@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270417T093000
+SUMMARY:Dia Aberto do Técnico 2027
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/dia-aberto-do-tecnico-202
+ 7/
+URL:https://lykeion.pt/e/dia-aberto-do-tecnico-2027-06b66.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7th-international-conference-on-image-processing-and-vision-7f40a-2027-
+ 04-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:7th International Conference on Image Processing and Vision Enginee
+ ring
+LOCATION:Instituto Para Os Sistemas e Tecnologias de Informação Controlo 
+ e Comunicação\, Setúbal
+DESCRIPTION:https://portal.insticc.org/conferences
+URL:https://lykeion.pt/e/7th-international-conference-on-image-processing-a
+ nd-vision-7f40a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:22nd-international-conference-on-evaluation-of-novel-approac-38281-2027
+ -04-20@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270420
+SUMMARY:22nd International Conference on Evaluation of Novel Approaches to 
+ Software Engineering
+LOCATION:Instituto Para Os Sistemas e Tecnologias de Informação Controlo 
+ e Comunicação\, Setúbal
+DESCRIPTION:https://portal.insticc.org/conferences
+URL:https://lykeion.pt/e/22nd-international-conference-on-evaluation-of-nov
+ el-approac-38281.html
 END:VEVENT
 END:VCALENDAR

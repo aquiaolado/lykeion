@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Planetário - Casa da Ciência - Centro Ciência Viva de Braga
+  (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:cafe-com-ciencia-terapia-fagica-o-lado-bom-dos-virus-uma-nov-93ae5-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T213000
+SUMMARY:Café com Ciência: Terapia fágica - O lado bom dos vírus: uma no
+ va arma contra doenças na Semana da Ciência e Tecnologia 2026
+LOCATION:Planetário - Casa da Ciência - Centro Ciência Viva de Braga\, B
+ raga
+DESCRIPTION:https://www.casacienciabraga.org/single-post/café-com-ciência
+ -terapia-fágica-o-lado-bom-dos-vírus-uma-nova-arma-contra-doenças-na-se
+ mana-da-c
+URL:https://lykeion.pt/e/cafe-com-ciencia-terapia-fagica-o-lado-bom-dos-vir
+ us-uma-nov-93ae5.html
+END:VEVENT
+END:VCALENDAR

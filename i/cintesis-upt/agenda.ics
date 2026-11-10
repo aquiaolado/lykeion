@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CINTESIS.UPT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminario-de-investigacao-do-remit-31afe-2026-11-26@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Seminário de Investigação do REMIT
+LOCATION:CINTESIS.UPT\, Porto
+DESCRIPTION:https://cintesis-upt.upt.pt/seminario-de-investigacao-do-remit/
+URL:https://lykeion.pt/e/seminario-de-investigacao-do-remit-31afe.html
+END:VEVENT
+END:VCALENDAR

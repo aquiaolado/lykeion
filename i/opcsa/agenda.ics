@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:OPCSa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-este-natal-em-seguranca-52793-2026-12-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T110000
+SUMMARY:Webinar | “Este Natal\, em Segurança
+LOCATION:OPCSa
+DESCRIPTION:https://opcsa.iseclisboa.pt/webinar-este-natal-em-seguranca/
+URL:https://lykeion.pt/e/webinar-este-natal-em-seguranca-52793.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Museu do Côa - Centro Ciência Viva (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:conferencia-as-novas-descobertas-no-vale-do-coa-6f587-2026-11-27@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Conferência: As novas descobertas no Vale do Côa
+LOCATION:Museu do Côa - Centro Ciência Viva\, Vila Nova de Foz Côa
+DESCRIPTION:https://arte-coa.pt/museu/
+URL:https://lykeion.pt/e/conferencia-as-novas-descobertas-no-vale-do-coa-6f
+ 587.html
+END:VEVENT
+END:VCALENDAR

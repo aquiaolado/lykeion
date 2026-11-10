@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IESF (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-seguros-na-era-da-inteligencia-artificial-6cf4c-2026-11-29@lage
+ nda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T190000
+SUMMARY:Webinar “Seguros na era da Inteligência Artificial
+LOCATION:Instituto de Estudos Superiores Financeiros e Fiscais\, Porto
+DESCRIPTION:https://www.abs.pt/webinar-seguros-na-era-da-inteligencia-artif
+ icial/
+URL:https://lykeion.pt/e/webinar-seguros-na-era-da-inteligencia-artificial-
+ 6cf4c.html
+END:VEVENT
+END:VCALENDAR

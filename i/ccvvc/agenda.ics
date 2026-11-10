@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CCVVC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:passeio-cientifico-noite-de-anfibios-em-mindelo-05e77-2026-11-27@lagend
+ a.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Passeio científico: Noite de anfíbios em Mindelo
+LOCATION:Centro Ciência Viva de Vila do Conde\, Vila do Conde
+DESCRIPTION:https://viladoconde.cienciaviva.pt/
+URL:https://lykeion.pt/e/passeio-cientifico-noite-de-anfibios-em-mindelo-05
+ e77.html
+END:VEVENT
+END:VCALENDAR

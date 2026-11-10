@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CoLAB BIOREF (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:moderacao-do-seminario-biometano-perspetivas-para-portugal-2924f-2027-0
+ 3-20@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Moderação do Seminário «Biometano: Perspetivas para Portugal»
+LOCATION:CoLAB BIOREF\, Porto
+DESCRIPTION:https://www.bioref-colab.pt/pt/news-pt/seminario-biometano-ape
+URL:https://lykeion.pt/e/moderacao-do-seminario-biometano-perspetivas-para-
+ portugal-2924f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:participacao-no-workshop-inovacao-para-circularidade-na-bioe-d28c6-2027
+ -03-22@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270322
+SUMMARY:Participação no Workshop «Inovação para Circularidade na Bioec
+ onomia» no CBE
+LOCATION:CoLAB BIOREF\, Porto
+DESCRIPTION:https://www.bioref-colab.pt/pt/news-pt/workshop-inovacao-para-c
+ ircularidade-na-bioeconomia
+URL:https://lykeion.pt/e/participacao-no-workshop-inovacao-para-circularida
+ de-na-bioe-d28c6.html
+END:VEVENT
+END:VCALENDAR

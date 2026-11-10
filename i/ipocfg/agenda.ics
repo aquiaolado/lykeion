@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPOCFG (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:terapias-integrativas-e-complementares-em-oncologia-profissi-69d6f-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T083000
+SUMMARY:Terapias Integrativas e Complementares em Oncologia: Profissionais 
+ como Prioridade
+LOCATION:Instituto Português de Oncologia de Coimbra Francisco Gentil\, Co
+ imbra
+DESCRIPTION:https://www.ipocoimbra.min-saude.pt/eventos_ipo/terapias-integr
+ ativas-e-complementares-em-oncologia-profissionais-como-prioridade/
+URL:https://lykeion.pt/e/terapias-integrativas-e-complementares-em-oncologi
+ a-profissi-69d6f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8-a-reuniao-internacional-da-rede-academica-das-ciencias-da-05150-2026-
+ 12-09@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261209
+SUMMARY:8.ª Reunião Internacional da Rede Académica das Ciências da Sa
+ úde da Lusofonia
+LOCATION:Instituto Português de Oncologia de Coimbra Francisco Gentil\, Co
+ imbra
+DESCRIPTION:https://www.ipocoimbra.min-saude.pt/eventos_ipo/12606/
+URL:https://lykeion.pt/e/8-a-reuniao-internacional-da-rede-academica-das-ci
+ encias-da-05150.html
+END:VEVENT
+END:VCALENDAR

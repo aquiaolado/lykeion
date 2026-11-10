@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro de Investigação e Desenvolvimento em Ciências Juríd
+ icas Ratio Legis (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:70-anos-da-declaracao-universal-dos-direitos-humanos-4885c-2026-12-10@l
+ agenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T170000
+SUMMARY:70 Anos da Declaração Universal dos Direitos Humanos
+LOCATION:Centro de Investigação e Desenvolvimento em Ciências Jurídicas
+  Ratio Legis
+DESCRIPTION:https://ratiolegis.autonoma.pt/70-anos-da-declaracao-universal-
+ dos-direitos-humanos-10-de-dezembro-17h-auditorio-2-2/
+URL:https://lykeion.pt/e/70-anos-da-declaracao-universal-dos-direitos-human
+ os-4885c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:horizonte-europa-perin-fct-sessoes-informativas-dia-aa801-2026-12-10@la
+ genda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Horizonte Europa\, PERIN-FCT. Sessões Informativas dia
+LOCATION:Centro de Investigação e Desenvolvimento em Ciências Jurídicas
+  Ratio Legis
+DESCRIPTION:https://ratiolegis.autonoma.pt/evento-horizonte-europa-perin-fc
+ t-sessoes-informativas-dia-10-de-dezembro/
+URL:https://lykeion.pt/e/horizonte-europa-perin-fct-sessoes-informativas-di
+ a-aa801.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPIEM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:webinar-atlantico-4-2026-3e117-2026-12-16@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T173000
+SUMMARY:Webinar Atlântico 4 | 2026
+LOCATION:Sociedade Portuguesa de Investigação em Educação Matemática
+DESCRIPTION:https://spiem.pt/evento/webinar-atlantico-4-2026/
+URL:https://lykeion.pt/e/webinar-atlantico-4-2026-3e117.html
+END:VEVENT
+END:VCALENDAR

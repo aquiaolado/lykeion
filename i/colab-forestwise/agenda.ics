@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ForestWISE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:kick-off-projeto-europeu-resist-c62eb-2027-01-18@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270118
+SUMMARY:Kick off projeto europeu RESIST
+LOCATION:CoLAB ForestWISE\, Vila Real
+DESCRIPTION:https://www.forestwise.pt/regiao-centro-integra-projeto-europeu
+ -para-combater-alteracoes-climaticas/
+URL:https://lykeion.pt/e/kick-off-projeto-europeu-resist-c62eb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inovacao-na-floresta-1a-acao-de-demonstracao-replant-66a79-2027-03-23@l
+ agenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270323
+SUMMARY:Inovação na Floresta: 1a Ação de Demonstração rePLANT
+LOCATION:CoLAB ForestWISE\, Vila Real
+DESCRIPTION:https://www.forestwise.pt/replant-inova-na-aplicacao-de-tecnolo
+ gias-na-floresta-2/
+URL:https://lykeion.pt/e/inovacao-na-floresta-1a-acao-de-demonstracao-repla
+ nt-66a79.html
+END:VEVENT
+END:VCALENDAR

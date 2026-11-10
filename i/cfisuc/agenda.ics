@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CFisUC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:o-emissor-radiofonico-do-laboratorio-de-fisica-1932-23c10-2027-03-04@la
+ genda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270304
+SUMMARY:O Emissor Radiofónico do Laboratório de Física (1932)
+LOCATION:Centro de Física\, Coimbra
+DESCRIPTION:https://cfisuc.fis.uc.pt/publications.php?oid=18117188
+URL:https://lykeion.pt/e/o-emissor-radiofonico-do-laboratorio-de-fisica-193
+ 2-23c10.html
+END:VEVENT
+END:VCALENDAR

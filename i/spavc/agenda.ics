@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPAVC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:20o-congresso-portugues-do-avc-8d789-2027-01-28@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270128
+SUMMARY:20o Congresso Português do AVC
+LOCATION:Sociedade Portuguesa do Acidente Vascular Cerebral\, Porto
+DESCRIPTION:https://spavc.org/20o-congresso-portugues-do-avc/
+URL:https://lykeion.pt/e/20o-congresso-portugues-do-avc-8d789.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18o-congresso-portugues-do-avc-d5600-2027-02-01@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270201
+SUMMARY:18o Congresso Português do Avc
+LOCATION:Sociedade Portuguesa do Acidente Vascular Cerebral\, Porto
+DESCRIPTION:https://spavc.org/18o-congresso-portugues-do-avc-2/
+URL:https://lykeion.pt/e/18o-congresso-portugues-do-avc-d5600.html
+END:VEVENT
+END:VCALENDAR

@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:webinar-c1713-2026-11-18@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T180000
-SUMMARY:Webinar
+SUMMARY:Webinar nutrição e cancro
 LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
 DESCRIPTION:https://www.spedm.pt/pt/agenda/webinar-nutricao-e-cancro
 URL:https://lykeion.pt/e/webinar-c1713.html
@@ -18,10 +18,23 @@ BEGIN:VEVENT
 UID:webinar-6934b-2026-11-23@lagenda.pt
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T180000
-SUMMARY:Webinar
+SUMMARY:Webinar alterações ionicas nos doentes com cancro
 LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
 DESCRIPTION:https://www.spedm.pt/pt/agenda/webinar-alteracoes-ionicas-nos-d
  oentes-com-cancro
 URL:https://lykeion.pt/e/webinar-6934b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ese-talks-rare-diseases-men-1-a-joint-webinar-from-ese-endo-382b5-2026-
+ 11-29@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:ESE Talks... Rare Diseases: MEN-1 - a joint webinar from ESE\, Endo
+ -ERN and ESPE
+LOCATION:Sociedade Portuguesa de Endocrinologia Diabetes e Metabolismo
+DESCRIPTION:https://www.spedm.pt/pt/agenda/ese-talks-rare-diseases-men-1--a
+ -joint-webinar-from-ese-endo-ern-and-espe
+URL:https://lykeion.pt/e/ese-talks-rare-diseases-men-1-a-joint-webinar-from
+ -ese-endo-382b5.html
 END:VEVENT
 END:VCALENDAR

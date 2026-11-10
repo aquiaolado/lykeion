@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:INA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:encontro-8a2ae-2026-12-06@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261206T093000
+SUMMARY:Bibliotecas da AP desafios e oportunidades na inovação e na suste
+ ntabilidade
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/eventos/bibliotecas-da-ap-desafios-e-oportun
+ idades-na-inovacao-e-na-sustentabilidade/
+URL:https://lykeion.pt/e/encontro-8a2ae.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CEJ (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:palestra-sessao-comemorativa-40-anos-crescerser-de-onde-vimo-80116-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T140000
+SUMMARY:Palestra: Sessão Comemorativa 40 Anos CrescerSer: de onde vimos e 
+ para onde vamos
+LOCATION:Centro de Estudos Judiciários
+DESCRIPTION:https://www.eventbrite.pt/e/bilhetes-sessao-comemorativa-40-ano
+ s-crescerser-de-onde-vimos-e-para-onde-vamos-2002067277120
+URL:https://lykeion.pt/e/palestra-sessao-comemorativa-40-anos-crescerser-de
+ -onde-vimo-80116.html
+END:VEVENT
+END:VCALENDAR

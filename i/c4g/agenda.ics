@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:C4G (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:8a-edicao-do-forum-de-gestao-de-dados-de-investigacao-em-coi-03163-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T110000
+SUMMARY:8a Edição do Fórum de Gestão de Dados de Investigação\, em Co
+ imbra
+LOCATION:Colaboratório para as Geociências\, Covilhã
+DESCRIPTION:https://www.c4g-pt.eu/pt/8a-edicao-do-forum-de-gestao-de-dados-
+ de-investigacao-em-coimbra-2/
+URL:https://lykeion.pt/e/8a-edicao-do-forum-de-gestao-de-dados-de-investiga
+ cao-em-coi-03163.html
+END:VEVENT
+END:VCALENDAR

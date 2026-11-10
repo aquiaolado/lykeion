@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Infraestrutura de Investigação para a Ciência e Tecnologia 
+ da Linguagem (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:llms-and-the-social-sciences-and-humanities-research-resourc-e474b-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T100000
+SUMMARY:LLMs and the Social Sciences and Humanities: Research\, Resources a
+ nd Infrastructures
+LOCATION:Infraestrutura de Investigação para a Ciência e Tecnologia da L
+ inguagem
+DESCRIPTION:https://www.clarin.eu/event/2026/llms-and-social-sciences-and-h
+ umanities-research-resources-and-infrastructures
+URL:https://lykeion.pt/e/llms-and-the-social-sciences-and-humanities-resear
+ ch-resourc-e474b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:technical-open-hour-november-2026-2498b-2026-11-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T110000
+SUMMARY:Technical Open Hour November 2026
+LOCATION:Infraestrutura de Investigação para a Ciência e Tecnologia da L
+ inguagem
+DESCRIPTION:https://www.clarin.eu/event/2026/technical-open-hour-november-2
+ 026
+URL:https://lykeion.pt/e/technical-open-hour-november-2026-2498b.html
+END:VEVENT
+END:VCALENDAR

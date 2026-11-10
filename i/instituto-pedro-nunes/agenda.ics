@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPN (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:lancamento-do-projeto-crescer-pme-30799-2026-12-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261214T163000
+SUMMARY:Lançamento do Projeto Crescer PME
+LOCATION:Instituto Pedro Nunes\, Coimbra
+DESCRIPTION:https://www.eventbrite.pt/e/lancamento-do-projeto-crescer-pme-t
+ ickets-2003979050285
+URL:https://lykeion.pt/e/lancamento-do-projeto-crescer-pme-30799.html
+END:VEVENT
+END:VCALENDAR

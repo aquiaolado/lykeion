@@ -6,13 +6,22 @@ X-WR-CALNAME:SPQ (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:xxx-encontro-galego-portugues-de-quimica-cff0b-2026-11-18@lagenda.pt
+UID:17-o-encontro-nacional-de-quimica-fisica-faef1-2027-03-30@lagenda.pt
 DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:XXX Encontro Galego-Portugués de Química
+DTSTART;VALUE=DATE:20270330
+SUMMARY:17.º Encontro Nacional de Química Física
 LOCATION:Sociedade Portuguesa de Química
 DESCRIPTION:https://www.spq.pt
-URL:https://lykeion.pt/e/xxx-encontro-galego-portugues-de-quimica-cff0b.htm
+URL:https://lykeion.pt/e/17-o-encontro-nacional-de-quimica-fisica-faef1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:10th-portuguese-young-chemists-meeting-853bd-2027-05-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:10th Portuguese Young Chemists Meeting
+LOCATION:Sociedade Portuguesa de Química
+DESCRIPTION:https://www.spq.pt
+URL:https://lykeion.pt/e/10th-portuguese-young-chemists-meeting-853bd.html
 END:VEVENT
 END:VCALENDAR

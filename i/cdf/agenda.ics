@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CDF (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:workshop-tertulia-online-6a6fa-2026-12-05@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261205T110000
+SUMMARY:Workshop - Tertúlia Online
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ t%C3%BAlia-online-vamos-conversar-sobre-%E2%80%9Cacolhimento-familiar-e-ad
+ op%C3%A7%C3%A3o%E2%80%9D
+URL:https://lykeion.pt/e/workshop-tertulia-online-6a6fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:futuros-encontros-6a6fa-2026-12-11@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T110000
+SUMMARY:Workshop tertúlia online vamos conversar sobre “progenitores det
+ idos e direitos de visita”
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ t%C3%BAlia-online-vamos-conversar-sobre-%E2%80%9Cprogenitores-detidos-e-di
+ reitos-de-visita%E2%80%9D
+URL:https://lykeion.pt/e/futuros-encontros-6a6fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-tertulia-online-f4231-2027-01-30@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270130T110000
+SUMMARY:Workshop - Tertúlia Online
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ tulia-online-vamos-conversar-sobre-violencia-obstetrica
+URL:https://lykeion.pt/e/workshop-tertulia-online-f4231.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-tertulia-online-6a6fa-2027-03-14@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270314T110000
+SUMMARY:Workshop - Tertúlia Online
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ t%C3%BAlia-online-vamos-conversar-sobre-%E2%80%9Centre-liberdade-e-prote%C
+ 3%A7%C3%A3o-das-crian%C3%A7as-e
+URL:https://lykeion.pt/e/workshop-tertulia-online-6a6fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-tertulia-online-6a6fa-2027-03-27@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270327T110000
+SUMMARY:Workshop - Tertúlia Online
+LOCATION:Centro de Direito da Família\, Coimbra
+DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
+ t%C3%BAlia-online-vamos-conversar-sobre-%E2%80%9Cprotec%C3%A7%C3%A3o-de-cr
+ ian%C3%A7as-e-jovens-em-contexto
+URL:https://lykeion.pt/e/workshop-tertulia-online-6a6fa.html
+END:VEVENT
+END:VCALENDAR

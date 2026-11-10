@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ANSO (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:ensaio-geral-26-27-ter-02-fev-19-00-a-sagracao-da-primavera-44297-2027-
+ 02-02@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20270202T190000
+SUMMARY:Ensaio Geral 26/27 ter 02 fev. 19:00 A Sagração da Primavera Orqu
+ estra Académica Metropolitana Orquestra Clássica Metropolitana Centro Cu
+ ltural e Congressos das Caldas da Rainha
+LOCATION:Academia Nacional Superior de Orquestra
+DESCRIPTION:https://www.metropolitana.pt/programacao/a-sagracao-da-primaver
+ a-5/
+URL:https://lykeion.pt/e/ensaio-geral-26-27-ter-02-fev-19-00-a-sagracao-da-
+ primavera-44297.html
+END:VEVENT
+END:VCALENDAR
