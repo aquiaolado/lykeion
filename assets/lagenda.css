@@ -346,3 +346,7 @@ h2.dia-t{font-size:1.15rem;margin:22px 0 6px}
 .procura{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 .procura .busca{flex:1 1 220px;min-width:0}
 .tq-ondeestas{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0 0;font-size:.95rem}
+/* 10/11/2026: «No teu calendário ou no teu site» (salas e concelhos) */
+.fora details{border-top:1px solid var(--linha,#DADDE3);padding-top:12px;margin-top:8px}
+.fora summary{cursor:pointer}
+.fora .colar{width:100%;font:13px/1.4 ui-monospace,Menlo,monospace;min-height:6em}
