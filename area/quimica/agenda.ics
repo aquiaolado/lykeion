@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:ip-talks-pesquisa-ao-estado-da-tecnica-006cd-2026-11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T120000
 SUMMARY:IP Talks | Pesquisa ao Estado da Técnica
 LOCATION:Instituto Superior Técnico
@@ -17,7 +17,7 @@ URL:https://lykeion.pt/e/ip-talks-pesquisa-ao-estado-da-tecnica-006cd.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-2775d-2026-11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T133000
 SUMMARY:Seminário
 LOCATION:Centro de Ciências do Mar do Algarve\, Faro
@@ -27,7 +27,7 @@ URL:https://lykeion.pt/e/seminario-2775d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xxx-encontro-galego-portugues-de-quimica-cff0b-2026-11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:XXX Encontro Galego-Portugués de Química
 LOCATION:Sociedade Portuguesa de Química
@@ -37,7 +37,7 @@ URL:https://lykeion.pt/e/xxx-encontro-galego-portugues-de-quimica-cff0b.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:xxx-encontro-galego-portugues-de-quimica-d8176-2026-11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:XXX Encontro Galego-Português de Química
 LOCATION:Associação Colab4Food – Laboratório Colaborativo para a Inova
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:o-vg-colab-coorganizou-e-patrocinou-o-xxvi-encontro-da-socie-4256c-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:O VG CoLAB coorganizou e patrocinou o XXVI Encontro da Sociedade Po
  rtuguesa de Eletroquímica.
@@ -63,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-aero2cycle-co-desenho-de-solucoes-de-valorizacao-de-8cb31-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop AERO2cycle: Co-desenho de soluções de valorização de C
  O2 industrial
@@ -76,7 +76,7 @@ URL:https://lykeion.pt/e/workshop-aero2cycle-co-desenho-de-solucoes-de-valo
 END:VEVENT
 BEGIN:VEVENT
 UID:semana-da-cultura-cientifica-4c823-2026-11-21@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T110000
 SUMMARY:Semana da Cultura Científica
 LOCATION:Fábrica de Moagem da Antiga Manutenção Militar
@@ -87,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vg-colab-co-organised-and-sponsered-xxvi-meeting-of-the-port-d2a3d-2026
  -11-21@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:VG CoLAB co-organised and sponsered XXVI Meeting of the Portuguese 
  Electrochemical Society
@@ -96,5 +96,17 @@ DESCRIPTION:https://www.vgcolab.com/post/vg-colab-co-organised-and-sponsere
  d-xxvi-meeting-of-the-portuguese-electrochemical-society
 URL:https://lykeion.pt/e/vg-colab-co-organised-and-sponsered-xxvi-meeting-o
  f-the-port-d2a3d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:universidade-politecnica-de-coimbra-semana-da-ciencia-e-da-t-4271b-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Universidade Politécnica de Coimbra Semana da Ciência e da Tecnol
+ ogia 2026 na UPCoimbra
+LOCATION:Politécnico de Coimbra\, Coimbra
+DESCRIPTION:https://www.ipc.pt/eventos/sct26-upcoimbra/
+URL:https://lykeion.pt/e/universidade-politecnica-de-coimbra-semana-da-cien
+ cia-e-da-t-4271b.html
 END:VEVENT
 END:VCALENDAR

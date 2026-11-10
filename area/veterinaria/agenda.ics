@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
+ -11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
  dos Investigadores
 LOCATION:Laboratório Associado TERRA
@@ -19,23 +19,9 @@ URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
  lhar-dos-i-8501f.html
 END:VEVENT
 BEGIN:VEVENT
-UID:salfix-alternative-long-term-solution-for-the-preservation-o-3db08-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:SALFIX - Alternative Long-Term Solution for the Preservation of Vet
- erinary Anatomical Specimens: A Comparison Between Saturated Saline Soluti
- on and FineFix®.
-LOCATION:UCIBIO\, Valongo
-DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/salfix-alternative-long
- -term-solution-preservation-veterinary-anatomical-specimens
-URL:https://lykeion.pt/e/salfix-alternative-long-term-solution-for-the-pres
- ervation-o-3db08.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-de-enfermagem-veterinaria-fisioterapia-veterinaria-bacbb-2026
  -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Seminário de Enfermagem Veterinária: Fisioterapia Veterinária 
  – Aplicações em Diferentes Espécies
@@ -47,7 +33,7 @@ URL:https://lykeion.pt/e/seminario-de-enfermagem-veterinaria-fisioterapia-v
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-pecuaria-digital-1bffe-2026-11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:Seminário - Pecuária Digital
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -58,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vi-congresso-da-sociedade-portuguesa-de-ciencias-em-animais-26643-2026-
  11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:VI Congresso da Sociedade Portuguesa de Ciências em Animais de Lab
  oratório
@@ -70,7 +56,7 @@ URL:https://lykeion.pt/e/vi-congresso-da-sociedade-portuguesa-de-ciencias-e
 END:VEVENT
 BEGIN:VEVENT
 UID:forum-genotipar-e-o-caminho-85455-2026-11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Fórum: Genotipar é o caminho
 LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
@@ -80,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
  -11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T163000
 SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
  ns d’animaux dans les imprimés du XVIe siècle
@@ -93,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-1-o-encontro-nacional-de-c5e00-2026-
  11-21@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Escola Superior Agrária de Coimbra 1.º Encontro Nacional de Enfer
  magem Veterinária
@@ -102,5 +88,54 @@ DESCRIPTION:https://www.esac.pt/index.php/eventos/1-o-encontro-nacional-de-
  enfermagem-veterinaria/
 URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-1-o-encontro-na
  cional-de-c5e00.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-investigar-para-curar-o-cancro-nos-animais-d6c28-2026-11-23
+ @lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Conferência: Investigar para curar: o cancro nos animais
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/conferencia-investigar-para-curar-o-cancro-nos-ani
+ mais-d6c28.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-investigacao-criminal-em-medicina-veterinaria-ca-d6c28-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Conferência: Investigação Criminal em Medicina Veterinária - ca
+ sos reais
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/conferencia-investigacao-criminal-em-medicina-vete
+ rinaria-ca-d6c28.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-carolina-castro-graca-meireles-con-6bf44-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T140000
+SUMMARY:Provas de Mestrado de Ana Carolina Castro Graça Meireles « Contor
+ cem-se da mesma forma\, mulher e veado: A Representação do Animal em Mar
+ garida Vale de Gato\, Elisabete Marques e Andreia C. Faria»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
+ 01711
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-carolina-castro-graca-me
+ ireles-con-6bf44.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-nem-todos-os-bichos-tem-patas-uma-viagem-ao-mundo-i-d6c28-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Workshop: Nem Todos os Bichos Têm Patas! Uma viagem ao mundo invis
+ ível da Medicina Veterinária
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/workshop-nem-todos-os-bichos-tem-patas-uma-viagem-
+ ao-mundo-i-d6c28.html
 END:VEVENT
 END:VCALENDAR

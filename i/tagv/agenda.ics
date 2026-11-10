@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:TAGV (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:como-fazer-monstros-com-as-palavras-025fa-2026-11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T100000
+SUMMARY:Como Fazer Monstros com as Palavras?
+LOCATION:Teatro Académico de Gil Vicente\, Coimbra
+DESCRIPTION:https://tagv.pt/agenda/como-fazer-monstros-com-as-palavras-de-l
+ ara-duarte/
+URL:https://lykeion.pt/e/como-fazer-monstros-com-as-palavras-025fa.html
+END:VEVENT
+END:VCALENDAR

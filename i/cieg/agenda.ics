@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CIEG (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:conferencia-de-encerramento-do-projeto-farol-f2d31-2026-11-23@lagenda.p
+ t
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T100000
+SUMMARY:Conferência de encerramento do projeto FAROL
+LOCATION:Centro Interdisciplinar de Estudos de Género
+DESCRIPTION:https://cieg.iscsp.ulisboa.pt/actividades-do-cieg/outras-confer
+ encias-do-cieg/item/770-conferencia-de-encerramento-do-projeto-farol
+URL:https://lykeion.pt/e/conferencia-de-encerramento-do-projeto-farol-f2d31
+ .html
+END:VEVENT
+END:VCALENDAR

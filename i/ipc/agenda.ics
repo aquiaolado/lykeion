@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:auditorio-marques-de-almeida-1-o-forum-de-inovacao-e-sustent-6c08c-2026
  -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Auditório Marques de Almeida 1.º Fórum de Inovação e Sustentab
  ilidade
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:auditorio-esec-seminario-benchmarking-aprender-com-os-melhor-b306c-2026
  -11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Auditório ESEC Seminário “Benchmarking: Aprender com os melhore
  s para melhorar a qualidade
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:auditorio-esec-seminario-kaizen-nos-servicos-administrativos-e0daa-2026
  -11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Auditório ESEC Seminário “Kaizen nos serviços administrativos 
  do Hospital da Luz – Coimbra
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mesa-redonda-centro-cultural-penedo-da-saudade-unigreen-equa-0047a-2026
  -11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T170000
 SUMMARY:Mesa redonda: Centro Cultural Penedo da Saudade UNIgreen Equality D
  ay
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:online-ciclo-de-webinarios-ser-jornalista-hoje-precariedade-a8082-2026-
  11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Online Ciclo de Webinários “Ser jornalista hoje: precariedade\, 
  novas fronteiras e crise de confiança
@@ -73,7 +73,7 @@ URL:https://lykeion.pt/e/online-ciclo-de-webinarios-ser-jornalista-hoje-pre
 END:VEVENT
 BEGIN:VEVENT
 UID:plataforma-teams-webinar-f8a92-2026-11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T190000
 SUMMARY:Plataforma Teams Webinar
 LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:esac-auditorio-principal-bloco-e-seminario-sementes-plantas-c7951-2026-
  11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:ESAC - Auditório principal (Bloco E) Seminário “Sementes\, Plan
  tas e Outro Material de Propagação em Agricultura Biológica
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:corredor-do-edificio-principal-da-esac-exposicao-de-fotograf-3e2b7-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Corredor do Edifício Principal da ESAC Exposição de Fotografia 
  “Macrocosmos – Os insetos
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-1-o-encontro-nacional-de-c5e00-2026-
  11-21@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Escola Superior Agrária de Coimbra 1.º Encontro Nacional de Enfer
  magem Veterinária
@@ -120,5 +120,17 @@ DESCRIPTION:https://www.esac.pt/index.php/eventos/1-o-encontro-nacional-de-
  enfermagem-veterinaria/
 URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-1-o-encontro-na
  cional-de-c5e00.html
+END:VEVENT
+BEGIN:VEVENT
+UID:universidade-politecnica-de-coimbra-semana-da-ciencia-e-da-t-4271b-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Universidade Politécnica de Coimbra Semana da Ciência e da Tecnol
+ ogia 2026 na UPCoimbra
+LOCATION:Politécnico de Coimbra\, Coimbra
+DESCRIPTION:https://www.ipc.pt/eventos/sct26-upcoimbra/
+URL:https://lykeion.pt/e/universidade-politecnica-de-coimbra-semana-da-cien
+ cia-e-da-t-4271b.html
 END:VEVENT
 END:VCALENDAR

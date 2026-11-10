@@ -6,22 +6,9 @@ X-WR-CALNAME:Ordem dos Engenheiros (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conferencia-tempestades-mitigacao-e-prevencao-de-incendios-f-87d46-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T090000
-SUMMARY:Conferência | Tempestades - Mitigação e Prevenção de Incêndio
- s Florestais
-LOCATION:Ordem dos Engenheiros
-DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/conferencia-tempe
- stades-mitigacao-e-prevencao-de-incendios-florestais/
-URL:https://lykeion.pt/e/conferencia-tempestades-mitigacao-e-prevencao-de-i
- ncendios-f-87d46.html
-END:VEVENT
-BEGIN:VEVENT
 UID:3o-congresso-da-appc-com-o-apoio-institucional-da-ordem-dos-50123-2026-
  11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:3o Congresso da APPC com o apoio institucional da Ordem dos Engenhe
  iros
@@ -32,9 +19,22 @@ URL:https://lykeion.pt/e/3o-congresso-da-appc-com-o-apoio-institucional-da-
  ordem-dos-50123.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-tempestades-mitigacao-e-prevencao-de-incendios-f-87d46-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T090000
+SUMMARY:Conferência | Tempestades - Mitigação e Prevenção de Incêndio
+ s Florestais
+LOCATION:Ordem dos Engenheiros
+DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/conferencia-tempe
+ stades-mitigacao-e-prevencao-de-incendios-florestais/
+URL:https://lykeion.pt/e/conferencia-tempestades-mitigacao-e-prevencao-de-i
+ ncendios-f-87d46.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-setor-dos-transportes-os-biofuels-na-transicao-e-9f24e-2026
  -11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Conferência : Setor dos Transportes – Os “BioFuels” na Trans
  ição Energética
@@ -46,7 +46,7 @@ URL:https://lykeion.pt/e/conferencia-setor-dos-transportes-os-biofuels-na-t
 END:VEVENT
 BEGIN:VEVENT
 UID:palestra-f1043-2026-11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Palestra
 LOCATION:Ordem dos Engenheiros

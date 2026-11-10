@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:1st-on-the-road-to-marketing-wave-adapting-to-unexpected-tid-12802-2026
  -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T100000
 SUMMARY:1st On The Road to Marketing Wave | Adapting to Unexpected Tides
 LOCATION:Nova SBE\, Cascais
@@ -18,19 +18,9 @@ URL:https://lykeion.pt/e/1st-on-the-road-to-marketing-wave-adapting-to-unex
  pected-tid-12802.html
 END:VEVENT
 BEGIN:VEVENT
-UID:experiment-room-d136-d011-870a1-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T100000
-SUMMARY:Experiment ( Room D136 & D011)
-LOCATION:Nova SBE\, Cascais
-DESCRIPTION:https://www.eventbrite.pt/e/experiment-room-d136-d011-tickets-2
- 001394296216
-URL:https://lykeion.pt/e/experiment-room-d136-d011-870a1.html
-END:VEVENT
-BEGIN:VEVENT
 UID:x-workshop-on-immigration-health-and-wellbeing-6ea7a-2026-11-17@lagenda
  .pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T084500
 SUMMARY:X Workshop on Immigration\, Health and Wellbeing
 LOCATION:Nova SBE\, Cascais
@@ -40,22 +30,9 @@ URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-6ea
  7a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:who-trains-who-retains-attracting-and-keeping-health-workers-88059-2026
- -11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T141500
-SUMMARY:Who Trains\, Who Retains?Attracting and Keeping Health Workers Acro
- ss Border
-LOCATION:Nova SBE\, Cascais
-DESCRIPTION:https://www.eventbrite.pt/e/who-trains-who-retainsattracting-an
- d-keeping-health-workers-across-border-tickets-2004082711338
-URL:https://lykeion.pt/e/who-trains-who-retains-attracting-and-keeping-heal
- th-workers-88059.html
-END:VEVENT
-BEGIN:VEVENT
 UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
  -11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
  migration\, Health and Wellbeing
@@ -65,14 +42,5 @@ DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
  pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
 URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
  orkshop-on-fd2e8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:experiment-e4cdf-2026-11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T140000
-SUMMARY:Experiment
-LOCATION:Nova SBE\, Cascais
-DESCRIPTION:https://www.eventbrite.pt/e/experiment-tickets-2001394905037
-URL:https://lykeion.pt/e/experiment-e4cdf.html
 END:VEVENT
 END:VCALENDAR

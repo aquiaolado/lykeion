@@ -6,21 +6,9 @@ X-WR-CALNAME:Faculdade de Medicina da Universidade de Coimbra (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:09-11-2026-provas-de-agregacao-de-pedro-renato-sousa-da-silv-d0033-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T103000
-SUMMARY:Provas de Agregação de Pedro Renato Sousa da Silva Vaz
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/provas-de-agregacao-de-pedro
- -renato-sousa-da-silva-vaz/
-URL:https://lykeion.pt/e/09-11-2026-provas-de-agregacao-de-pedro-renato-sou
- sa-da-silv-d0033.html
-END:VEVENT
-BEGIN:VEVENT
 UID:gea-13-11-26-programa-de-doutoramento-mariana-ladeira-afonso-db83b-2026
  -11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:GEA 13.11.26 Programa de Doutoramento | Mariana Ladeira Afonso 13 n
  ovembro Anfiteatro do iCBR Polo das Ciências da Saúde\, FMUC
@@ -32,7 +20,7 @@ URL:https://lykeion.pt/e/gea-13-11-26-programa-de-doutoramento-mariana-lade
 END:VEVENT
 BEGIN:VEVENT
 UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:GEA 16.11.26 Prova de Doutoramento
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
@@ -42,7 +30,7 @@ URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:GEA 17.11.26 Prova de Doutoramento
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
@@ -53,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:18-11-26-provas-de-agregacao-de-joaquim-manuel-soares-cereje-3c526-2026
  -11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T103000
 SUMMARY:Provas de Agregação de Joaquim Manuel Soares Cerejeira
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
@@ -61,5 +49,17 @@ DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/provas-de-agregacao-em-cienc
  ias-da-saude-ramo-de-medicina-do-doutor-joaquim-manuel-soares-cerejeira/
 URL:https://lykeion.pt/e/18-11-26-provas-de-agregacao-de-joaquim-manuel-soa
  res-cereje-3c526.html
+END:VEVENT
+BEGIN:VEVENT
+UID:23-11-26-provas-de-agregacao-de-joao-carlos-gomes-ribeiro-8d135-2026-11
+ -23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T103000
+SUMMARY:Provas de Agregação de João Carlos Gomes Ribeiro
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/provas-de-agregacao-de-joao-
+ carlos-gomes-ribeiro/
+URL:https://lykeion.pt/e/23-11-26-provas-de-agregacao-de-joao-carlos-gomes-
+ ribeiro-8d135.html
 END:VEVENT
 END:VCALENDAR

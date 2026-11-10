@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:forum-cafe-forum-jovens-investigadores-e25cb-2026-11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T130000
 SUMMARY:Fórum Café - Fórum Jovens Investigadores
 LOCATION:Instituto de Educação da Universidade de Lisboa
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-daniela-rocha-bicalho-tecnologias-035d3-2026-
  11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Provas de doutoramento de Daniela Rocha Bicalho — Tecnologias de 
  Informação e Comunicação na Educação
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-clara-maria-jesus-marques-ventura-324cd-2026-
  11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Provas de doutoramento de Clara Maria Jesus Marques Ventura Ferreir
  a — Tecnologias de Informação e Comunicação na Educação
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-pedro-miguel-amaral-dos-reis-tecno-324cd-2026
  -11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Provas de doutoramento de Pedro Miguel Amaral dos Reis — Tecnolog
  ias de Informação e Comunicação na Educação
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-jorge-miguel-dos-santos-bico-tecno-9b274-2026
  -11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Provas de doutoramento de Jorge Miguel dos Santos Bico — Tecnolog
  ias de Informação e Comunicação na Educação
@@ -61,5 +61,18 @@ LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-jorge-miguel-dos-santos-
  bico-tecno-9b274.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-jornadas-de-jovens-historiadores-em-educacao-encontro-in-f3c1d-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T090000
+SUMMARY:III Jornadas de Jovens Historiadores em Educação: Encontro Intern
+ acional
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/evento/iii-jornadas-de-jovens-histori
+ adores-em-educacao-encontro-internacional
+URL:https://lykeion.pt/e/iii-jornadas-de-jovens-historiadores-em-educacao-e
+ ncontro-in-f3c1d.html
 END:VEVENT
 END:VCALENDAR

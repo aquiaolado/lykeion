@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPBeja (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:portas-abertas-pequenos-organismos-grandes-alertas-testes-de-f922b-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Portas abertas: Pequenos organismos\, grandes alertas: testes de to
+ xicidade da água
+LOCATION:Instituto Politécnico de Beja\, Beja
+DESCRIPTION:https://www.ipbeja.pt/Paginas/default.aspx
+URL:https://lykeion.pt/e/portas-abertas-pequenos-organismos-grandes-alertas
+ -testes-de-f922b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-do-leite-ao-iogurte-a-descoberta-das-bacterias-da-f-f922b-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Workshop: Do leite ao iogurte: à descoberta das bactérias da ferm
+ entação láctica
+LOCATION:Instituto Politécnico de Beja\, Beja
+DESCRIPTION:https://www.ipbeja.pt/Paginas/default.aspx
+URL:https://lykeion.pt/e/workshop-do-leite-ao-iogurte-a-descoberta-das-bact
+ erias-da-f-f922b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-producao-de-sabao-a-partir-de-oleos-alimentares-usa-f922b-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Workshop: Produção de sabão a partir de óleos alimentares usado
+ s
+LOCATION:Instituto Politécnico de Beja\, Beja
+DESCRIPTION:https://www.ipbeja.pt/Paginas/default.aspx
+URL:https://lykeion.pt/e/workshop-producao-de-sabao-a-partir-de-oleos-alime
+ ntares-usa-f922b.html
+END:VEVENT
+END:VCALENDAR

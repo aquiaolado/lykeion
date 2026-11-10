@@ -6,22 +6,20 @@ X-WR-CALNAME:Universidade do Minho (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-09@lagend
- a.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Ciclo de conferências «O que diz o Direito Civil?»
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
- o.aspx?Codigo=68370
-URL:https://lykeion.pt/e/ciclo-de-conferencias-o-que-diz-o-direito-civil-97
- 4d7.html
+UID:conferencia-europeia-1885e-2026-11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T091500
+SUMMARY:Conferência Europeia
+LOCATION:TecMinho\, Guimarães
+DESCRIPTION:https://www.tecminho.uminho.pt/formar/green-construction-workfo
+ rce-conf
+URL:https://lykeion.pt/e/conferencia-europeia-1885e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:forum-de-debate-intervir-no-patrimonio-edificado-incorporand-41543-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T093000
+ -11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T093000
 SUMMARY:Fórum de debate: Intervir no património edificado\, incorporando 
  o passado no futuro
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
@@ -31,33 +29,10 @@ URL:https://lykeion.pt/e/forum-de-debate-intervir-no-patrimonio-edificado-i
  ncorporand-41543.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-antonio-ferreira-07255-2026-11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T140000
-SUMMARY:Provas de Doutoramento de António Ferreira
-LOCATION:Centro de Estudos de Comunicação e Sociedade\, Braga
-DESCRIPTION:https://www.cecs.uminho.pt/provas-de-doutoramento-de-antonio-fe
- rreira/
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-antonio-ferreira-07255.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-doutoramento-de-cristiano-alvarenga-50651-2026-11-09@lagenda.
- pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T140000
-SUMMARY:Provas de Doutoramento de Cristiano Alvarenga
-LOCATION:Centro de Estudos de Comunicação e Sociedade\, Braga
-DESCRIPTION:https://www.cecs.uminho.pt/provas-de-doutoramento-de-cristiano-
- alvarenga/
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-cristiano-alvarenga-5065
- 1.html
-END:VEVENT
-BEGIN:VEVENT
 UID:smart-cables-science-and-society-towards-a-deep-sea-long-ter-9ff90-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T083000
+ -11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T083000
 SUMMARY:SMART Cables\, Science and Society: Towards a deep-sea long-term mo
  nitoring of the global Ocean
 LOCATION:Laboratório de Software Confiável\, Braga
@@ -67,18 +42,8 @@ URL:https://lykeion.pt/e/smart-cables-science-and-society-towards-a-deep-se
  a-long-ter-9ff90.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-europeia-1885e-2026-11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T091500
-SUMMARY:Conferência Europeia
-LOCATION:TecMinho\, Guimarães
-DESCRIPTION:https://www.tecminho.uminho.pt/formar/green-construction-workfo
- rce-conf
-URL:https://lykeion.pt/e/conferencia-europeia-1885e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-nacional-eeadc-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T091500
 SUMMARY:Conferência Nacional
 LOCATION:TecMinho\, Guimarães
@@ -89,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-de-vanessa-de-andrade-barbosa-moutinho-a3f20-2026
  -11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Prova de Doutoramento de Vanessa de Andrade Barbosa Moutinho
 LOCATION:Universidade do Minho\, Braga
@@ -100,7 +65,7 @@ URL:https://lykeion.pt/e/prova-de-doutoramento-de-vanessa-de-andrade-barbos
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-do-anap-2c561-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:Seminário do ANAP
 LOCATION:Universidade do Minho\, Braga
@@ -109,7 +74,7 @@ URL:https://lykeion.pt/e/seminario-do-anap-2c561.html
 END:VEVENT
 BEGIN:VEVENT
 UID:vii-congresso-juscrim-bd652-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T103000
 SUMMARY:VII Congresso Juscrim
 LOCATION:Centro de Investigação em Justiça e Governação\, Braga
@@ -118,7 +83,7 @@ URL:https://lykeion.pt/e/vii-congresso-juscrim-bd652.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ii-jornadas-nortear-a-ceramica-57727-2026-11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:II Jornadas “Nortear a Cerâmica
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
@@ -129,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nunzio-ali-unbounded-economic-inequality-commonsense-and-phi-fe4e0-2026
  -11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Nunzio Alì // Unbounded Economic Inequality? Commonsense and Philo
  sophical Justifications
@@ -142,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-margarida-miranda-de-sousa-telerea-09cbb-2026
  -11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Provas de mestrado de Ana Margarida Miranda de Sousa — Telereabil
  itação na pessoa adulta com doença pulmonar obstrutiva crónica: caract
@@ -156,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-andreia-sofia-pinto-caldas-ribeiro-con-09cbb-2026
  -11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Provas de mestrado de Andreia Sofia Pinto Caldas Ribeiro — Contri
  butos de programas de atividade física utilizados como terapia de reabili
@@ -170,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:in-the-end-how-does-the-distribution-of-an-estate-upon-death-db74f-2026
  -11-14@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T110000
 SUMMARY:In the end\, how does the distribution of an estate upon death work
  ?
@@ -183,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:announcement-for-the-award-of-a-post-doctoral-research-fello-d6560-2026
  -11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Announcement for the award of a Post-Doctoral Research Fellowship 
  – BIPD/ToDeFuture-CBMA/2026
@@ -198,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-antonio-augusto-ribeiro-da-silva-evolu-09cbb-2026
  -11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Provas de mestrado de António Augusto Ribeiro da Silva — Evoluç
  ão das pessoas dependentes internadas numa Unidade Local de Saúde da reg
@@ -212,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-manual-de-arqueologia-de-la-arquitectu-a26f7-2026
  -11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T190000
 SUMMARY:Apresentação do livro «Manual de Arqueología de la Arquitectura
  »
@@ -225,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:announcement-for-the-award-of-one-research-fellowship-ref-a-54792-2026-
  11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Announcement for the award of one research fellowship – ref.a BI4
  / CBMA – DADOS /2026
@@ -240,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iii-encontro-da-rede-portuguesa-de-humanidades-medicas-60a63-2026-11-19
  @lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:III Encontro da Rede Portuguesa de Humanidades Médicas
 LOCATION:Universidade do Minho\, Braga
@@ -252,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-internacional-permanente-historia-social-a-norte-c-8350c-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T173000
 SUMMARY:Seminário Internacional Permanente História Social a Norte: Como?
   Minorias

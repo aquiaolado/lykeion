@@ -6,35 +6,10 @@ X-WR-CALNAME:Congressos e jornadas de saúde (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:3as-jornadas-de-pediatria-da-pennsula-de-setbal-94f80-2026-11-09@lagend
+UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-10@lagend
  a.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:3as Jornadas de Pediatria da Pen – nsula de Set – bal
-LOCATION:Sociedade Portuguesa de Pediatria
-DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50838
-URL:https://lykeion.pt/e/3as-jornadas-de-pediatria-da-pennsula-de-setbal-94
- f80.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ciuhct-na-organizacao-do-iii-encontro-luso-brasileiro-de-his-b7779-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T090000
-SUMMARY:CIUHCT na organização do III Encontro Luso-brasileiro de Históri
- a da Medicina Tropical
-LOCATION:Departamento de Ciências Sociais Aplicadas da NOVA FCT\, Almada
-DESCRIPTION:https://www.dcsa.fct.unl.pt/eventos/2018/10/ciuhct-na-organizac
- ao-do-iii-encontro-luso-brasileiro-de-historia-da-medicina-tropical-5-9-no
- vembro
-URL:https://lykeion.pt/e/ciuhct-na-organizacao-do-iii-encontro-luso-brasile
- iro-de-his-b7779.html
-END:VEVENT
-BEGIN:VEVENT
-UID:iii-jornadas-da-saude-mental-no-ensino-superior-d69d4-2026-11-09@lagend
- a.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T210000
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T210000
 SUMMARY:III Jornadas da Saúde Mental no Ensino Superior
 LOCATION:Instituto Politécnico de Santarém\, Santarém
 DESCRIPTION:https://www.ipsantarem.pt/iii-jornadas-da-saude-mental-no-ensin
@@ -43,22 +18,9 @@ URL:https://lykeion.pt/e/iii-jornadas-da-saude-mental-no-ensino-superior-d6
  9d4.html
 END:VEVENT
 BEGIN:VEVENT
-UID:viver-cuidar-participar-spem-promove-xxi-congresso-nacional-18af0-2026-
- 11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:VIVER. CUIDAR. PARTICIPAR: SPEM promove XXI Congresso Nacional de E
- sclerose Múltipla
-LOCATION:Sociedade Portuguesa de Esclerose Múltipla
-DESCRIPTION:https://spem.pt/blog/2026/11/09/viver-cuidar-participar-spem-pr
- omove-xxi-congresso-nacional-de-esclerose-multipla/
-URL:https://lykeion.pt/e/viver-cuidar-participar-spem-promove-xxi-congresso
- -nacional-18af0.html
-END:VEVENT
-BEGIN:VEVENT
 UID:iv-jornadas-da-equipa-local-de-intervencao-santo-tirso-trofa-a2809-2026
  -11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T083000
 SUMMARY:IV Jornadas da Equipa Local de Intervenção Santo Tirso/Trofa
 LOCATION:Unidade Hospitalar de Famalicão\, Vila Nova de Famalicão
@@ -70,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iv-jornadas-da-equipa-local-de-intervencao-santo-tirso-trofa-a2809-2026
  -11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T083000
 SUMMARY:IV Jornadas da Equipa Local de Intervenção Santo Tirso/Trofa
 LOCATION:Unidade Hospitalar de Santo Tirso\, Santo Tirso
@@ -82,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-b3ea8-2026-
  11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
 LOCATION:Universidade Católica Portuguesa\, Porto
@@ -92,20 +54,8 @@ URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
  -trabalho-b3ea8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
- 11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T083000
-SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de-saude
- -mental-no-local-de-trabalho
-URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
- -trabalho-d859d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:congresso-nacional-da-ordem-dos-medicos-5a5c8-2026-11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Congresso Nacional da Ordem dos Médicos
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -115,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:congresso-do-algarve-de-alzheimer-e-outras-demencias-6ecf0-2026-11-12@l
  agenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:Congresso do Algarve de Alzheimer e Outras Demências
 LOCATION:Casa de Odeleite\, Castro Marim
@@ -127,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc2-2026-11-12@lagenda.
  pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:IV Encontro dos Farmacêuticos da Distribuição
 LOCATION:Ordem dos Farmaceuticos
@@ -139,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jornadas-da-diabetes-do-cacb-beiras-diabetes-360o-e7bb1-2026-11-12@lage
  nda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Jornadas da Diabetes do CACB - Beiras Diabetes 360o
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -150,7 +100,7 @@ URL:https://lykeion.pt/e/jornadas-da-diabetes-do-cacb-beiras-diabetes-360o-
 END:VEVENT
 BEGIN:VEVENT
 UID:xxxi-jornadas-de-leiria-e-caldas-da-rainha-cda82-2026-11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:XXXI Jornadas de Leiria e Caldas da Rainha
 LOCATION:Sociedade Portuguesa de Pediatria
@@ -161,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:i-jornada-cientifica-sobre-exercicio-e-envelhecimento-a6ed6-2026-11-13@
  lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:I Jornada Científica sobre Exercício e Envelhecimento
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -172,7 +122,7 @@ URL:https://lykeion.pt/e/i-jornada-cientifica-sobre-exercicio-e-envelhecime
 END:VEVENT
 BEGIN:VEVENT
 UID:xxi-congresso-aeffup-72db4-2026-11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:XXI Congresso AEFFUP
 LOCATION:Faculdade de Farmácia da Universidade do Porto\, Porto
@@ -182,7 +132,7 @@ URL:https://lykeion.pt/e/xxi-congresso-aeffup-72db4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2as-jornadas-viver-com-a-diabetes-19a53-2026-11-14@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:2as Jornadas «Viver com a Diabetes»
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
@@ -194,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-entre-fisicos-2026-encontro-anual-da-comunidade-de-d7fda-2026-
  11-14@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T090000
 SUMMARY:Encontro “Entre Físicos 2026”: Encontro Anual da comunidade de
   Física Médica
@@ -205,17 +155,8 @@ URL:https://lykeion.pt/e/encontro-entre-fisicos-2026-encontro-anual-da-comu
  nidade-de-d7fda.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-dia-mundial-da-diabetes-2ec78-2026-11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T140000
-SUMMARY:Encontro: Dia Mundial da Diabetes
-LOCATION:Universidade de Évora\, Évora
-DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47750
-URL:https://lykeion.pt/e/encontro-dia-mundial-da-diabetes-2ec78.html
-END:VEVENT
-BEGIN:VEVENT
 UID:coloquio-saude-mental-e-seguranca-4f4a4-2026-11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T190000
 SUMMARY:Colóquio “Saúde Mental e Segurança
 LOCATION:Faculdade de Medicina da Universidade de Lisboa
@@ -225,7 +166,7 @@ URL:https://lykeion.pt/e/coloquio-saude-mental-e-seguranca-4f4a4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:1o-congresso-internacional-de-acupuntura-97975-2026-11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:1o Congresso Internacional de Acupuntura
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
@@ -237,7 +178,7 @@ URL:https://lykeion.pt/e/1o-congresso-internacional-de-acupuntura-97975.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:30a-reuniao-anual-f7e3b-2026-11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:30a Reunião Anual
 LOCATION:Sociedade Portuguesa de Genética Humana\, Coimbra
@@ -247,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3o-encontro-de-outono-da-apmgf-aveiro-espera-por-ti-em-novem-4352e-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:3o Encontro de Outono da APMGF – Aveiro espera por ti em Novembro
  !
@@ -259,7 +200,7 @@ URL:https://lykeion.pt/e/3o-encontro-de-outono-da-apmgf-aveiro-espera-por-t
 END:VEVENT
 BEGIN:VEVENT
 UID:8o-congresso-internacional-da-adfas-ab031-2026-11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T110000
 SUMMARY:8o Congresso Internacional da Adfas
 LOCATION:Centro de Direito Biomédico\, Coimbra
@@ -270,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iii-encontro-da-rede-portuguesa-de-humanidades-medicas-60a63-2026-11-19
  @lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:III Encontro da Rede Portuguesa de Humanidades Médicas
 LOCATION:Universidade do Minho\, Braga
@@ -281,7 +222,7 @@ URL:https://lykeion.pt/e/iii-encontro-da-rede-portuguesa-de-humanidades-med
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-encontro-de-tecnicos-de-secretariado-bf22b-2026-11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV Encontro de Técnicos de Secretariado
 LOCATION:Universidade do Algarve\, Faro
@@ -291,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iv-in2me-congresso-de-educacao-medica-da-faculdade-de-cienci-7d8ce-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
@@ -303,7 +244,7 @@ URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
 END:VEVENT
 BEGIN:VEVENT
 UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T093000
 SUMMARY:18.ª edição Fórum do Medicamento
 LOCATION:Centro Cultural de Belém\, Belém
@@ -314,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
  genda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T090000
 SUMMARY:2o Congresso Internacional de Exercício Terapêutico
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
@@ -327,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:continue-reading-viver-saudavel-nutrition-summit-exhibition-e9482-2026-
  11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Continue reading... : Viver Saudável Nutrition Summit & Exhibition
 LOCATION:Laboratório Associado TERRA
@@ -338,7 +279,7 @@ URL:https://lykeion.pt/e/continue-reading-viver-saudavel-nutrition-summit-e
 END:VEVENT
 BEGIN:VEVENT
 UID:i-encontro-cientifico-em-neonatologia-c07fb-2026-11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:I Encontro Científico em Neonatologia
 LOCATION:Escola Superior de Saúde Cruz Vermelha Portuguesa - Alto Tâmega\
@@ -350,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-encontro-da-mceesmo-da-integracao-dos-conhecimentos-a-tra-b6b9d-2026
  -11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T093000
 SUMMARY:II Encontro da MCEESMO - Da Integração dos Conhecimentos à Trans
  formação dos Cuidados
@@ -362,7 +303,7 @@ URL:https://lykeion.pt/e/ii-encontro-da-mceesmo-da-integracao-dos-conhecime
 END:VEVENT
 BEGIN:VEVENT
 UID:x-encontro-ser-bebe-0b085-2026-11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T010000
 SUMMARY:X Encontro Ser Bebé
 LOCATION:Faculdade de Psicologia da Universidade de Lisboa
@@ -372,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12o-encontro-de-pneumologia-oncologica-do-sul-befcb-2026-11-21@lagenda.
  pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T090000
 SUMMARY:12o Encontro de Pneumologia Oncológica do Sul
 LOCATION:Sociedade Portuguesa de Pneumologia
@@ -384,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-1-o-encontro-nacional-de-c5e00-2026-
  11-21@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Escola Superior Agrária de Coimbra 1.º Encontro Nacional de Enfer
  magem Veterinária
@@ -393,5 +334,17 @@ DESCRIPTION:https://www.esac.pt/index.php/eventos/1-o-encontro-nacional-de-
  enfermagem-veterinaria/
 URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-1-o-encontro-na
  cional-de-c5e00.html
+END:VEVENT
+BEGIN:VEVENT
+UID:congresso-premio-best-ideas-foi-entregue-no-cnom-bc63c-2026-11-23@lagen
+ da.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Congresso: Prémio Best Ideas foi entregue no CNOM
+LOCATION:Ordem dos Médicos Secção Regional do Sul
+DESCRIPTION:https://www.omsul.pt/noticias/premio-best-ideas-foi-entregue-no
+ -cnom
+URL:https://lykeion.pt/e/congresso-premio-best-ideas-foi-entregue-no-cnom-b
+ c63c.html
 END:VEVENT
 END:VCALENDAR

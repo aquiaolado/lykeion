@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:conditional-belonging-race-migration-and-iranian-identity-in-52809-2026
  -11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T170000
 SUMMARY:Conditional Belonging: Race\, Migration and Iranian Identity in the
   United States and Germany
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5-a-conferencia-anual-sociodigital-lab-for-public-policy-145d8-2026-11-
  18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:5.ª Conferência anual SocioDigital Lab for Public Policy
 LOCATION:Centro de Estudos Internacionais
@@ -29,5 +29,19 @@ DESCRIPTION:https://cei.iscte-iul.pt/eventos/evento/5-a-conferencia-anual-s
  ociodigital-lab/
 URL:https://lykeion.pt/e/5-a-conferencia-anual-sociodigital-lab-for-public-
  policy-145d8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:european-forum-on-us-history-constrained-engagement-us-labor-6c279-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T183000
+SUMMARY:European Forum on US History | Constrained Engagement: US Labor and
+  Portugal’s Democratic Transition (1974–1975)
+LOCATION:Centro de Estudos Internacionais
+DESCRIPTION:https://cei.iscte-iul.pt/eventos/evento/european-forum-on-us-hi
+ story-constrained-engagement-us-labor-and-portugals-democratic-transition-
+ 1974-1975/
+URL:https://lykeion.pt/e/european-forum-on-us-history-constrained-engagemen
+ t-us-labor-6c279.html
 END:VEVENT
 END:VCALENDAR

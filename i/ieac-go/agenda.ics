@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:save-the-date-010b1-2026-11-21@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Save the date
 LOCATION:Instituto de Estudos Avançados em Catolicismo e Globalização\, 
@@ -15,5 +15,35 @@ LOCATION:Instituto de Estudos Avançados em Catolicismo e Globalização\,
 DESCRIPTION:https://ieacgo.pt/save-the-date-21-de-novembro-de-2026-simposio
  -debate-atualidade-do-pensamento-e-da-obra-do-padre-manuel-formigao/
 URL:https://lykeion.pt/e/save-the-date-010b1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-da-historia-global-da-esp-e-mistica-em-portugal-e-14405-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T140000
+SUMMARY:Lançamento da História Global da Esp. e Mística em Portugal e do
+  Dicionário Global Esp. Mística
+LOCATION:Instituto de Estudos Avançados em Catolicismo e Globalização\, 
+ Oeiras
+DESCRIPTION:https://ieacgo.pt/lancamento-da-historia-global-da-esp-e-mistic
+ a-em-portugal-e-do-dicionario-global-esp-mistica/
+URL:https://lykeion.pt/e/lancamento-da-historia-global-da-esp-e-mistica-em-
+ portugal-e-14405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-tomo-v-volume-1-da-historia-global-de-espiritu-c898f-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T140000
+SUMMARY:Lançamento do Tomo V\, Volume 1\, da «História Global de Espirit
+ ualidade e Mística em Portugal» e do «Dicionário Global de Espirituali
+ dade e Mística»\, versão online
+LOCATION:Instituto de Estudos Avançados em Catolicismo e Globalização\, 
+ Oeiras
+DESCRIPTION:https://ieacgo.pt/lancamento-do-tomo-v-volume-1-da-historia-glo
+ bal-de-espiritualidade-e-mistica-em-portugal-e-do-dicionario-global-de-esp
+ iritualidade-e-mistica-versao/
+URL:https://lykeion.pt/e/lancamento-do-tomo-v-volume-1-da-historia-global-d
+ e-espiritu-c898f.html
 END:VEVENT
 END:VCALENDAR

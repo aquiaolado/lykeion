@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fábrica - Centro Ciência Viva de Aveiro (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:domingo-de-manha-na-barriga-do-caracol-662e4-2026-11-15@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T110000
+SUMMARY:Domingo de manhã na Barriga do Caracol
+LOCATION:Fábrica - Centro Ciência Viva de Aveiro\, Aveiro
+DESCRIPTION:
+URL:https://lykeion.pt/e/domingo-de-manha-na-barriga-do-caracol-662e4.html
+END:VEVENT
+END:VCALENDAR

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:roundtable-discussion-alfa-movement-student-brigades-for-wor-bfe7c-2026
  -11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Roundtable Discussion. Alfa Movement Student Brigades for Work and 
  Literacy: 50 Years
@@ -18,5 +18,19 @@ DESCRIPTION:https://www.ceied.ulusofona.pt/en/events/roundtable-discussion-
  alfa-movement-student-brigades-for-work-and-literacy-50-years
 URL:https://lykeion.pt/e/roundtable-discussion-alfa-movement-student-brigad
  es-for-wor-bfe7c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-international-conference-of-young-historians-in-educatio-8b35c-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:III International Conference of Young Historians in Education: Subm
+ issions Open
+LOCATION:Centro de Estudos Interdisciplinares em Educação e Desenvolvimen
+ to
+DESCRIPTION:https://www.ceied.ulusofona.pt/en/events/iii-international-conf
+ erence-of-young-historians-in-education-submissions-open
+URL:https://lykeion.pt/e/iii-international-conference-of-young-historians-i
+ n-educatio-8b35c.html
 END:VEVENT
 END:VCALENDAR

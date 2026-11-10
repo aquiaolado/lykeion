@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:INESC TEC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-europeu-de-e-8045d-2026
+ -11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:AI\, Data\, Robotics Forum (ADRF26) O ADRF é um fórum europeu de 
+ elevado impacto que reúne centenas de representant... 14 outubro 2026
+LOCATION:Institute for Systems and Computer Engineering\, Technology and Sc
+ ience\, Porto
+DESCRIPTION:https://www.inesctec.pt/pt/eventos/ai-data-robotics-forum-adrf2
+ 6
+URL:https://lykeion.pt/e/ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-eu
+ ropeu-de-e-8045d.html
+END:VEVENT
+END:VCALENDAR

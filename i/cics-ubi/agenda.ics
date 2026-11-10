@@ -7,11 +7,20 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:lunch-seminar-efb03-2026-11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Lunch Seminar
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/989
 URL:https://lykeion.pt/e/lunch-seminar-efb03.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-seminarios-7b94c-2026-11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Ciclo de Seminários
+LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
+DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/744
+URL:https://lykeion.pt/e/ciclo-de-seminarios-7b94c.html
 END:VEVENT
 END:VCALENDAR

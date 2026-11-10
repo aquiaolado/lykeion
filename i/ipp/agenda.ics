@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:apresentacao-do-livro-do-problema-do-galego-ao-galego-como-p-ff73a-2026
  -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Apresentação do livro Do problema do Galego ao Galego como proble
  ma na Faculdade de Educação da UTP
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iscap-e-cei-acolhem-a-segunda-reuniao-internacional-do-proje-847bc-2026
  -11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:ISCAP e CEI acolhem a segunda reunião internacional do projeto Sci
  Art
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sonhos-de-papel-oficina-de-construcao-de-papagaios-de-papel-180a6-2026-
  11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Sonhos de Papel” – Oficina de Construção de Papagaios de Pape
  l
@@ -45,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-asset-da-formacao-a-pratica-contabilidade-para-a-9787d-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Conferência ASSET Da formação à prática: contabilidade para a 
  sustentabilidade e a transparência social e ambiental
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:construir-um-modelo-fram-da-teoria-a-pratica-e7c9b-2026-11-22@lagenda.p
  t
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261122T090000
 SUMMARY:Construir um Modelo FRAM: da Teoria à Prática
 LOCATION:Centro de Investigação em Saúde Translacional e Biotecnologia M
@@ -67,5 +67,18 @@ DESCRIPTION:https://tbio.ess.ipp.pt/event/construir-um-modelo-fram-da-teori
  a-a-pratica/
 URL:https://lykeion.pt/e/construir-um-modelo-fram-da-teoria-a-pratica-e7c9b
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-na-rota-da-investigacao-conhecer-o-ciicesi-e-os-cd25a-2026-
+ 11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T180000
+SUMMARY:Conferência: Na Rota da Investigação: conhecer o CIICESI e os se
+ us doutorandos
+LOCATION:Politécnico do Porto\, Felgueiras
+DESCRIPTION:https://ciicesi.estg.ipp.pt/event/on-the-research-trail-discove
+ ring-ciicesi-and-its-phd-researchers
+URL:https://lykeion.pt/e/conferencia-na-rota-da-investigacao-conhecer-o-cii
+ cesi-e-os-cd25a.html
 END:VEVENT
 END:VCALENDAR

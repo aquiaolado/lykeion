@@ -6,9 +6,9 @@ X-WR-CALNAME:Faculdade de Arquitetura da Universidade do Porto (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-a9a54-2026-11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
+UID:exposicao-a9a54-2026-11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Exposição
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
@@ -16,9 +16,9 @@ DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
 URL:https://lykeion.pt/e/exposicao-a9a54.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-239fa-2026-11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261109T090000
+UID:exposicao-239fa-2026-11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261110T090000
 SUMMARY:Exposição
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
@@ -27,9 +27,9 @@ URL:https://lykeion.pt/e/exposicao-239fa.html
 END:VEVENT
 BEGIN:VEVENT
 UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
- -11-09@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
+ -11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
 SUMMARY:Inteligência Arquitetónica " >Exposição | Anuária 25.26 - Inte
  ligência Arquitetónica
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-seminario-de-investigacao-1-d-pda-research-based-cc356-2026
  -11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T110000
 SUMMARY:Aula aberta Seminário de Investigação 1 - D [PDA] 'Research-base
  d design' com Christian Gänshirt
@@ -53,12 +53,25 @@ URL:https://lykeion.pt/e/aula-aberta-seminario-de-investigacao-1-d-pda-rese
 END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-59732-2026-11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Lançamento do livro
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
  6225
 URL:https://lykeion.pt/e/lancamento-do-livro-59732.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-sudoeste-alentejano-e-costa-vicentina-na-9249d-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Lançamento do livro | 'Sudoeste Alentejano e Costa Vicentina. «N
+ ão fazer»\, arquitetura para preservar a biodiversidade'
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 6225
+URL:https://lykeion.pt/e/lancamento-do-livro-sudoeste-alentejano-e-costa-vi
+ centina-na-9249d.html
 END:VEVENT
 END:VCALENDAR

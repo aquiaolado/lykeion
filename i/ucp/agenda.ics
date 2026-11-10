@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:cbr-pi-seminars-2026-nina-schmolka-60acf-2026-11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:CBR PI Seminars 2026: Nina Schmolka
 LOCATION:Católica Biomedical Research Centre\, Sintra
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cerimonia-de-entrega-de-certificados-da-clinica-juridica-2c1f0-2026-11-
  10@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261110T170000
 SUMMARY:Cerimónia de entrega de Certificados da Clínica Jurídica
 LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
@@ -28,45 +28,31 @@ URL:https://lykeion.pt/e/cerimonia-de-entrega-de-certificados-da-clinica-ju
  ridica-2c1f0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-fotografica-echoes-in-concrete-bcd1a-2026-11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T170000
-SUMMARY:Exposição fotográfica “Echoes in Concrete
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/exposicao-fotografica-echoes-c
- oncrete
-URL:https://lykeion.pt/e/exposicao-fotografica-echoes-in-concrete-bcd1a.htm
- l
+UID:faculty-of-health-sciences-and-nursing-1e878-2026-11-10@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Faculty of Health Sciences and Nursing
+LOCATION:Centro de Investigação Interdisciplinar em Saúde
+DESCRIPTION:https://fcse.lisboa.ucp.pt/news-events/eventos?f%5B0%5D=field_c
+ ategories%3A856
+URL:https://lykeion.pt/e/faculty-of-health-sciences-and-nursing-1e878.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-89f8c-2026
- -11-10@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T183000
-SUMMARY:Lançamento do livro: «A Morte medicamente assistida à luz da Con
- stituição»
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/lancamento-do-livro-morte-medi
- camente-assistida-luz-da-constituicao
-URL:https://lykeion.pt/e/lancamento-do-livro-a-morte-medicamente-assistida-
- a-luz-da-c-89f8c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:aula-aberta-do-mestrado-em-politicas-publicas-690ef-2026-11-11@lagenda.
+UID:aula-aberta-do-mestrado-em-politicas-publicas-a2b41-2026-11-11@lagenda.
  pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T183000
 SUMMARY:Aula Aberta do Mestrado em Políticas Públicas
 LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/aula-aberta-do-mestrado-em-pol
- iticas-publicas
-URL:https://lykeion.pt/e/aula-aberta-do-mestrado-em-politicas-publicas-690e
- f.html
+DESCRIPTION:https://iep.lisboa.ucp.pt/pt-pt/eventos/aula-aberta-do-mestrado
+ -em-politicas-publicas-17971
+URL:https://lykeion.pt/e/aula-aberta-do-mestrado-em-politicas-publicas-a2b4
+ 1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-politicas-publicas-com-vitor-bento-e-miguel-morg-1ec03-2026
  -11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T183000
 SUMMARY:Aula Aberta | Políticas Públicas com Vítor Bento e Miguel Morgad
  o
@@ -78,7 +64,7 @@ URL:https://lykeion.pt/e/aula-aberta-politicas-publicas-com-vitor-bento-e-m
 END:VEVENT
 BEGIN:VEVENT
 UID:cege4all-markets-policy-seminar-af2d8-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T143000
 SUMMARY:CEGE4All: Markets & Policy Seminar
 LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
@@ -87,32 +73,18 @@ DESCRIPTION:https://porto.ucp.pt/eventos/cege4all-markets-policy-seminar-ho
 URL:https://lykeion.pt/e/cege4all-markets-policy-seminar-af2d8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cege4all-markets-policy-seminar-how-ecosystem-maturity-shape-06490-2026
- -11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T143000
-SUMMARY:CEGE4All: Markets & Policy Seminar «How Ecosystem Maturity Shapes 
- Startup Success»
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/cege4all-markets-policy-semina
- r-how-ecosystem-maturity-shapes-startup-success
-URL:https://lykeion.pt/e/cege4all-markets-policy-seminar-how-ecosystem-matu
- rity-shape-06490.html
-END:VEVENT
-BEGIN:VEVENT
-UID:catolica-talks-30259-2026-11-11@lagenda.pt
-DTSTAMP:20261109T000000Z
+UID:catolica-talks-2ed32-2026-11-11@lagenda.pt
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T124500
 SUMMARY:Católica Talks
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/catolica-talks-aspects-juridiq
- ues-du-capitalisme-moderne
-URL:https://lykeion.pt/e/catolica-talks-30259.html
+LOCATION:Centro de Estudos e Investigação em Direito
+DESCRIPTION:https://ceid.fd.ucp.pt/search?f%5B0%5D=categories%3A715
+URL:https://lykeion.pt/e/catolica-talks-2ed32.html
 END:VEVENT
 BEGIN:VEVENT
 UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-b3ea8-2026-
  11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
 LOCATION:Universidade Católica Portuguesa\, Porto
@@ -122,21 +94,9 @@ URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
  -trabalho-b3ea8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4-o-congresso-nacional-de-saude-mental-no-local-de-trabalho-d859d-2026-
- 11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T083000
-SUMMARY:4.º Congresso Nacional de Saúde Mental no Local de Trabalho
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/4o-congresso-nacional-de-saude
- -mental-no-local-de-trabalho
-URL:https://lykeion.pt/e/4-o-congresso-nacional-de-saude-mental-no-local-de
- -trabalho-d859d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:apresentacao-do-livro-a-seguranca-e-saude-no-trabalho-um-enq-aa81a-2026
  -11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T173000
 SUMMARY:Apresentação do livro «A Segurança e Saúde no Trabalho: um Enq
  uadramento Jurídico-Laboral dos Riscos Psicossociais»
@@ -150,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fcse-promove-masterclass-com-especialistas-internacionais-so-a9a74-2026
  -11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T040000
 SUMMARY:FCSE promove masterclass com especialistas internacionais sobre “
  The Living Wound: From Cellular Forces to Intelligent Tissue Regeneration
@@ -162,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:graduate-forum-gestao-laboral-algoritmica-e-discriminacao-6f5c0-2026-11
  -12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Graduate Forum | Gestão laboral algorítmica e discriminação
 LOCATION:Centro de Estudos e Investigação em Direito
@@ -173,7 +133,7 @@ URL:https://lykeion.pt/e/graduate-forum-gestao-laboral-algoritmica-e-discri
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-internacional-14cb1-2026-11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T160000
 SUMMARY:Masterclass Internacional
 LOCATION:Universidade Católica Portuguesa\, Porto
@@ -184,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-em-ciencia-e-tecnologia-das-artes-susp-33b22-2026
  -11-12@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T143000
 SUMMARY:Prova de Doutoramento em Ciência e Tecnologia das Artes: “Suspen
  der o Fluxo: O Dissentimento da Arte sob o Feitiço Digital
@@ -195,8 +155,18 @@ URL:https://lykeion.pt/e/prova-de-doutoramento-em-ciencia-e-tecnologia-das-
  artes-susp-33b22.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-4f3f0-2026-11-13@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T090000
+SUMMARY:Aula Aberta
+LOCATION:Universidade Católica Portuguesa\, Braga
+DESCRIPTION:https://braga.ucp.pt/eventos/aula-aberta-housing-first-interven
+ cao-comunitaria-e-transformacao-de-vidas
+URL:https://lykeion.pt/e/aula-aberta-4f3f0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontros-cientificos-85213-2026-11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Encontros científicos
 LOCATION:Centro de Estudos de História Religiosa
@@ -206,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-b85e2-2026
  -11-13@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T093000
 SUMMARY:Seminário: A mobilidade transnacional dos trabalhadores e das empr
  esas
@@ -218,7 +188,7 @@ URL:https://lykeion.pt/e/seminario-a-mobilidade-transnacional-dos-trabalhad
 END:VEVENT
 BEGIN:VEVENT
 UID:sessao-do-seminario-de-formacao-cehr-44e0c-2026-11-14@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Sessão do Seminário de formação CEHR
 LOCATION:Centro de Estudos de História Religiosa
@@ -229,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exams-for-the-masters-degree-in-portuguese-sign-language-and-cfa21-2026
  -11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Exams for the Master’s Degree in Portuguese Sign Language and Dea
  f Education
@@ -242,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:master-in-portuguese-sign-language-and-deaf-education-dea4a-2026-11-16@
  lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Master in Portuguese Sign Language and Deaf Education
 LOCATION:Centro de Investigação Interdisciplinar em Saúde
@@ -254,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-lingua-gestual-portuguesa-e-educacao-d-b9306-2026
  -11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Provas de Mestrado em Língua Gestual Portuguesa e Educação de Su
  rdos
@@ -266,7 +236,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-lingua-gestual-portuguesa-e-
 END:VEVENT
 BEGIN:VEVENT
 UID:seminarios-e-ciclos-e371f-2026-11-16@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T170000
 SUMMARY:Seminários e Ciclos
 LOCATION:Centro de Estudos de História Religiosa
@@ -276,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exams-for-the-masters-degree-in-portuguese-sign-language-and-cfa21-2026
  -11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T103000
 SUMMARY:Exams for the Master’s Degree in Portuguese Sign Language and Dea
  f Education
@@ -289,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-lingua-gestual-portuguesa-e-educacao-d-b9306-2026
  -11-17@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T103000
 SUMMARY:Provas de Mestrado em Língua Gestual Portuguesa e Educação de Su
  rdos
@@ -302,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cedh-learning-coffee-mapping-an-emerging-field-lessons-from-505a3-2026-
  11-18@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:CEDH Learning Coffee: Mapping an Emerging Field: Lessons from a Sco
  ping Review on Compassionate Leadership in Education
@@ -315,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exams-for-the-masters-degree-in-portuguese-sign-language-and-cfa21-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T140000
 SUMMARY:Exams for the Master’s Degree in Portuguese Sign Language and Dea
  f Education
@@ -328,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-4c4d0-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T183000
 SUMMARY:Lançamento do livro «A Morte Medicamente Assistida à Luz da Cons
  tituição»\, de António Manuel Abrantes
@@ -342,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:master-in-portuguese-sign-language-and-deaf-education-dea4a-2026-11-19@
  lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Master in Portuguese Sign Language and Deaf Education
 LOCATION:Centro de Investigação Interdisciplinar em Saúde
@@ -353,7 +323,7 @@ URL:https://lykeion.pt/e/master-in-portuguese-sign-language-and-deaf-educat
 END:VEVENT
 BEGIN:VEVENT
 UID:master-s-degree-exams-in-neuropsychology-b5644-2026-11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T153000
 SUMMARY:Master's Degree Exams in Neuropsychology
 LOCATION:Centro de Investigação Interdisciplinar em Saúde
@@ -363,9 +333,19 @@ URL:https://lykeion.pt/e/master-s-degree-exams-in-neuropsychology-b5644.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+UID:masterclass-spela-cadez-cinanima-41b61-2026-11-19@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T143000
+SUMMARY:Masterclass Špela Čadež (CINANIMA)
+LOCATION:Universidade Católica Portuguesa\, Porto
+DESCRIPTION:https://artes.porto.ucp.pt/pt-pt/eventos/masterclass-spela-cade
+ z-cinanima-31821
+URL:https://lykeion.pt/e/masterclass-spela-cadez-cinanima-41b61.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-em-lingua-gestual-portuguesa-e-educacao-d-b9306-2026
  -11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T140000
 SUMMARY:Provas de Mestrado em Língua Gestual Portuguesa e Educação de Su
  rdos
@@ -377,7 +357,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-lingua-gestual-portuguesa-e-
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-neuropsicologia-6f2fc-2026-11-19@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T153000
 SUMMARY:Provas de Mestrado em Neuropsicologia
 LOCATION:Universidade Católica Portuguesa
@@ -387,7 +367,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-neuropsicologia-6f2fc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:faculty-of-health-sciences-and-nursing-1e878-2026-11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Faculty of Health Sciences and Nursing
 LOCATION:Centro de Investigação Interdisciplinar em Saúde
@@ -397,12 +377,34 @@ URL:https://lykeion.pt/e/faculty-of-health-sciences-and-nursing-1e878.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-jornadas-lusofonas-de-mediacao-d0073-2026-11-20@lagenda.pt
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T100000
 SUMMARY:IV Jornadas Lusófonas de Mediação
 LOCATION:Universidade Católica Portuguesa\, Porto
 DESCRIPTION:https://fd.porto.ucp.pt/pt-pt/eventos/iv-jornadas-lusofonas-de-
  mediacao-47416
 URL:https://lykeion.pt/e/iv-jornadas-lusofonas-de-mediacao-d0073.html
+END:VEVENT
+BEGIN:VEVENT
+UID:catolica-working-paper-series-08aa3-2026-11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Católica Working Paper Series
+LOCATION:Centro de Estudos e Investigação em Direito
+DESCRIPTION:https://ceid.fd.ucp.pt/search?f%5B0%5D=categories%3A890
+URL:https://lykeion.pt/e/catolica-working-paper-series-08aa3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-do-laboratorio-aos-doentes-reais-por-que-o-valor-v-7c9ed-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Seminário: Do laboratório aos doentes reais: por que o valor vem 
+ antes das funcionalidades
+LOCATION:Universidade Católica Portuguesa\, Porto
+DESCRIPTION:https://esb.ucp.pt/pt-pt/eventos/do-laboratorio-aos-doentes-rea
+ is-por-que-o-valor-vem-antes-das-funcionalidades-84276
+URL:https://lykeion.pt/e/seminario-do-laboratorio-aos-doentes-reais-por-que
+ -o-valor-v-7c9ed.html
 END:VEVENT
 END:VCALENDAR
