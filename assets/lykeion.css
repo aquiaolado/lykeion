@@ -414,3 +414,7 @@ body.lyk{
 .lyk .lyk-ev-ac .lyk-esc{font-weight:600;padding:.2rem .4rem}
 .lyk .lyk-lado-b li .lyk-mot{margin:0 0 0 .2rem;font-size:.58rem}
 .lyk .lyk-gerais{margin-top:1rem}.lyk .lyk-gerais summary{cursor:pointer;color:var(--suave);padding:.4rem 0}
+
+/* 10/11/2026: contexto na página do evento (frase com os factos e excerto citado do anúncio) */
+.lyk-contexto{font-size:1.08rem;line-height:1.5;margin:0 0 .8em}
+.lyk-cita{margin:.4em 0 .3em;padding:.2em 0 .2em 1em;border-left:3px solid var(--lyk-terra,#C2502A);color:inherit;font-style:normal;line-height:1.55}
