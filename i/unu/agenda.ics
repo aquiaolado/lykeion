@@ -6,19 +6,9 @@ X-WR-CALNAME:UNU (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:eprm-webinar-0a0f3-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:EPRM Webinar
-LOCATION:United Nations University Operating Unit on Policy-Driven Electron
- ic Governance\, Guimarães
-DESCRIPTION:https://unu.edu/events
-URL:https://lykeion.pt/e/eprm-webinar-0a0f3.html
-END:VEVENT
-BEGIN:VEVENT
 UID:renewing-multilateralism-frances-perspective-on-collective-a-ea37b-2026
  -11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T183000
 SUMMARY:Renewing Multilateralism: France’s Perspective on Collective Acti
  on in a Changing World
@@ -30,9 +20,23 @@ URL:https://lykeion.pt/e/renewing-multilateralism-frances-perspective-on-co
  llective-a-ea37b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:science-talk-service-equity-matrix-for-inclusive-weather-ris-a9f23-2026
+ -11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T100000
+SUMMARY:Science Talk: Service Equity Matrix for Inclusive Weather Risk Comm
+ unication
+LOCATION:United Nations University Operating Unit on Policy-Driven Electron
+ ic Governance\, Guimarães
+DESCRIPTION:https://unu.edu/inweh/event/science-talk-service-equity-matrix-
+ inclusive-weather-risk-communication
+URL:https://lykeion.pt/e/science-talk-service-equity-matrix-for-inclusive-w
+ eather-ris-a9f23.html
+END:VEVENT
+BEGIN:VEVENT
 UID:designing-impactful-proposals-for-adaptation-and-resilience-25c77-2026-
  11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Designing Impactful Proposals for Adaptation and Resilience
 LOCATION:United Nations University Operating Unit on Policy-Driven Electron
@@ -44,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:financing-climate-action-in-a-time-of-scarcity-grid-moderniz-34c86-2026
  -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T160000
 SUMMARY:Financing Climate Action in a Time of Scarcity: Grid Modernization 
  and the Transforming to Cleaner and Greener Initiative
@@ -54,5 +58,30 @@ DESCRIPTION:https://unu.edu/cpr/event/financing-climate-action-time-scarcit
  y-grid-modernization-and-transforming-cleaner-and
 URL:https://lykeion.pt/e/financing-climate-action-in-a-time-of-scarcity-gri
  d-moderniz-34c86.html
+END:VEVENT
+BEGIN:VEVENT
+UID:4th-annual-meeting-of-the-greening-education-partnership-b30f5-2026-11-
+ 13@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:4th Annual Meeting of the Greening Education Partnership
+LOCATION:United Nations University Operating Unit on Policy-Driven Electron
+ ic Governance\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/4th-annual-meeting-of-the-greening-education-partn
+ ership-b30f5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lecture-urban-nature-for-climate-resilience-nature-based-sol-8539b-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Lecture: Urban Nature for Climate Resilience: Nature-based Solution
+ s for Adaptation\, Mitigation and Just Urban Transitions
+LOCATION:United Nations University Operating Unit on Policy-Driven Electron
+ ic Governance\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/lecture-urban-nature-for-climate-resilience-nature
+ -based-sol-8539b.html
 END:VEVENT
 END:VCALENDAR

@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:forum-cafe-forum-jovens-investigadores-e25cb-2026-11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T130000
 SUMMARY:Fórum Café - Fórum Jovens Investigadores
 LOCATION:Instituto de Educação da Universidade de Lisboa
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-daniela-rocha-bicalho-tecnologias-035d3-2026-
  11-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Provas de doutoramento de Daniela Rocha Bicalho — Tecnologias de 
  Informação e Comunicação na Educação
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-clara-maria-jesus-marques-ventura-324cd-2026-
  11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Provas de doutoramento de Clara Maria Jesus Marques Ventura Ferreir
  a — Tecnologias de Informação e Comunicação na Educação
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-pedro-miguel-amaral-dos-reis-tecno-324cd-2026
  -11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Provas de doutoramento de Pedro Miguel Amaral dos Reis — Tecnolog
  ias de Informação e Comunicação na Educação
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-jorge-miguel-dos-santos-bico-tecno-9b274-2026
  -11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Provas de doutoramento de Jorge Miguel dos Santos Bico — Tecnolog
  ias de Informação e Comunicação na Educação
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iii-jornadas-de-jovens-historiadores-em-educacao-encontro-in-f3c1d-2026
  -11-23@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T090000
 SUMMARY:III Jornadas de Jovens Historiadores em Educação: Encontro Intern
  acional
@@ -76,9 +76,21 @@ URL:https://lykeion.pt/e/iii-jornadas-de-jovens-historiadores-em-educacao-e
  ncontro-in-f3c1d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-doutoramento-de-administracao-e-politica-educacion-474fa-2026
+ -12-04@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Provas de doutoramento de Administração e Política Educacional 
+ — Projeto de Tese de Doutoramento
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-administracao-e-politica
+ -educacion-474fa.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-goncalo-alves-de-moura-projeto-de-5d911-2026-
  12-09@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de doutoramento de Gonçalo Alves de Moura — Projeto de Te
  se de Doutoramento
@@ -90,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-formacao-de-professores-e-supervis-b8a96-2026
  -12-15@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de doutoramento de Formação de Professores e Supervisão 
  — David Alexandre Assunção da Paz Beirante
@@ -102,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-formacao-de-professores-e-supervis-b8a96-2026
  -12-15@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de doutoramento de Formação de Professores e Supervisão 
  — Projeto de Tese de Doutoramento
@@ -114,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-formacao-de-adultos-maria-manuela-c6301-2026-
  12-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de doutoramento de Formação de Adultos — Maria Manuela F
  ernandes Lopes
@@ -126,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-formacao-de-professores-e-supervis-c6301-2026
  -12-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de doutoramento de Formação de Professores e Supervisão 
  — Projeto de Tese de Doutoramento
@@ -137,7 +149,7 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-formacao-de-professores-
 END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-10@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270210
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
@@ -147,7 +159,7 @@ URL:https://lykeion.pt/e/xxxiv-coloquio-da-afirse-portugal-1dbd0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270212
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa

@@ -6,8 +6,17 @@ X-WR-CALNAME:Planetário do Porto - Centro Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:planetario-do-porto-3clipse-0641e-2026-11-14@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T160000
 SUMMARY:Planetário do Porto- 3CLIPSE
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -16,7 +25,7 @@ URL:https://lykeion.pt/e/planetario-do-porto-3clipse-0641e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-o-sol-a-nossa-estrela-7d0be-2026-11-21@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T160000
 SUMMARY:Planetário do Porto- O Sol\, a nossa estrela
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -27,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-o-vitor-e-a-sofia-vao-a-lua-6fa41-2026-11-21@lagend
  a.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T150000
 SUMMARY:Planetário do Porto- O Vitor e a Sofia vão à Lua
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -37,7 +46,7 @@ URL:https://lykeion.pt/e/planetario-do-porto-o-vitor-e-a-sofia-vao-a-lua-6f
 END:VEVENT
 BEGIN:VEVENT
 UID:porto-post-doc-2026-planetario-01-8edf8-2026-11-21@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T173000
 SUMMARY:Porto/Post/Doc 2026 - Planetário #01
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -46,7 +55,7 @@ URL:https://lykeion.pt/e/porto-post-doc-2026-planetario-01-8edf8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:porto-post-doc-2026-planetario-02-ab640-2026-11-23@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T173000
 SUMMARY:Porto/Post/Doc 2026 - Planetário #02
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -55,7 +64,7 @@ URL:https://lykeion.pt/e/porto-post-doc-2026-planetario-02-ab640.html
 END:VEVENT
 BEGIN:VEVENT
 UID:planettario-do-porto-biosfera-da-escuridao-c69d7-2026-11-28@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T160000
 SUMMARY:Planettário do Porto- Biosfera da Escuridão
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -65,7 +74,7 @@ URL:https://lykeion.pt/e/planettario-do-porto-biosfera-da-escuridao-c69d7.h
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-ha-formas-no-espaco-054e1-2026-11-28@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:Planetário do Porto- Há Formas no Espaço
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -74,7 +83,7 @@ URL:https://lykeion.pt/e/planetario-do-porto-ha-formas-no-espaco-054e1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:porto-post-doc-2026-planetario-03-aaeb4-2026-11-28@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T173000
 SUMMARY:Porto/Post/Doc 2026 - Planetário #03
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -83,7 +92,7 @@ URL:https://lykeion.pt/e/porto-post-doc-2026-planetario-03-aaeb4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:minicursos-de-astronomia-a4124-2026-12-14@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T130000
 SUMMARY:Minicursos de Astronomia
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto

@@ -6,27 +6,18 @@ X-WR-CALNAME:Biotecnologia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:comunicar-ciencia-bae1b-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T140000
+UID:comunicar-ciencia-bae1b-2026-11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T140000
 SUMMARY:Comunicar Ciência
 LOCATION:Universidade de Évora\, Évora
 DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47811
 URL:https://lykeion.pt/e/comunicar-ciencia-bae1b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-em-biotecnologia-6ba1f-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T180000
-SUMMARY:Provas de Mestrado em Biotecnologia
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://fct.ualg.pt/provas-de-mestrado-em-biotecnologia-43
-URL:https://lykeion.pt/e/provas-de-mestrado-em-biotecnologia-6ba1f.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-instrumentacao-e-sequenciacao-de-nova-geracao-ngs-9ddcf-2026-
  11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T150000
 SUMMARY:Seminário | Instrumentação e Sequenciação de Nova Geração (N
  GS) – aplicada à genómica em Engenharia Biomédica
@@ -40,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mestre-helena-da-costa-e-cunha-xavier-ferreira-provas-de-dou-70d18-2026
  -11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Mestre Helena da Costa e Cunha Xavier Ferreira " >Provas de Doutora
  mento em Ciências Biomédicas | Mestre Helena da Costa e Cunha Xavier Fer
@@ -52,9 +43,21 @@ URL:https://lykeion.pt/e/mestre-helena-da-costa-e-cunha-xavier-ferreira-pro
  vas-de-dou-70d18.html
 END:VEVENT
 BEGIN:VEVENT
+UID:phd-thesis-in-integrative-biology-and-biomedicine-b2357-2026-11-13@lage
+ nda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T140000
+SUMMARY:PhD Thesis in Integrative Biology and Biomedicine
+LOCATION:Molecular Structural and Cellular Microbiology\, Oeiras
+DESCRIPTION:https://www.itqb.unl.pt/events/phd-thesis-in-integrative-biolog
+ y-and-biomedicine/
+URL:https://lykeion.pt/e/phd-thesis-in-integrative-biology-and-biomedicine-
+ b2357.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-mestrado-em-metabolismo-biopatologia-e-experimentac-13e53-2026
  -11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T140000
 SUMMARY:Prova de Mestrado em Metabolismo - Biopatologia e Experimentação
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -65,7 +68,7 @@ URL:https://lykeion.pt/e/prova-de-mestrado-em-metabolismo-biopatologia-e-ex
 END:VEVENT
 BEGIN:VEVENT
 UID:8o-congresso-internacional-da-adfas-ab031-2026-11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T110000
 SUMMARY:8o Congresso Internacional da Adfas
 LOCATION:Centro de Direito Biomédico\, Coimbra
@@ -76,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pampilhosa-da-serra-acolhe-i-congresso-internacional-do-medr-1ab0a-2026
  -11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Pampilhosa da Serra acolhe I Congresso Internacional do Medronheiro
   e do Medronho
@@ -89,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
  11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
  a às Ciências da Saúde
@@ -102,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:uma-viagem-pela-engenharia-biomedica-dispositivos-medicos-qu-3df01-2026
  -11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Uma viagem pela Engenharia Biomédica\, dispositivos médicos que t
  ransformam vidas
@@ -114,7 +117,7 @@ URL:https://lykeion.pt/e/uma-viagem-pela-engenharia-biomedica-dispositivos-
 END:VEVENT
 BEGIN:VEVENT
 UID:forum-genotipar-e-o-caminho-85455-2026-11-20@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Fórum: Genotipar é o caminho
 LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
@@ -124,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
  -11-23@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Mestre Ana Beatriz Marques de Sousa " >Provas de Doutoramento em Bi
  otecnologia Molecular e Celular Aplicada às Ciências da Saúde | Mestre 
@@ -138,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:novel-therapeutic-approaches-bridging-research-and-implement-c7bf4-2026
  -11-25@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Novel Therapeutic Approaches: Bridging Research and Implementatin
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -150,7 +153,7 @@ URL:https://lykeion.pt/e/novel-therapeutic-approaches-bridging-research-and
 END:VEVENT
 BEGIN:VEVENT
 UID:6th-eugloh-plant-science-meeting-331a9-2026-11-26@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:6th EUGLOH Plant Science Meeting
 LOCATION:Faculdade de Ciências da Universidade do Porto\, Porto
@@ -160,7 +163,7 @@ URL:https://lykeion.pt/e/6th-eugloh-plant-science-meeting-331a9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Prova de Doutoramento
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
@@ -171,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20th-international-joint-conference-on-biomedical-engineerin-1c23b-2027
  -02-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270219
 SUMMARY:20th International Joint Conference on Biomedical Engineering Syste
  ms and Technologies
@@ -184,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fct-increases-investment-and-phd-scholarships-for-2026-call-0d83a-2027-
  02-24@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270224
 SUMMARY:FCT increases Investment and PhD Scholarships for 2026 Call
 LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
@@ -197,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:h2oforall-nominated-for-the-ersar-innovation-award-2025-c657c-2027-03-0
  4@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270304
 SUMMARY:H2OforAll Nominated for the ERSAR Innovation Award 2025
 LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten

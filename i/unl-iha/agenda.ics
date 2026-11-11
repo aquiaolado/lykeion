@@ -6,10 +6,10 @@ X-WR-CALNAME:UNL IHA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-10@lagenda
+UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-11@lagenda
  .pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T170000
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T170000
 SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
@@ -18,10 +18,10 @@ URL:https://lykeion.pt/e/exposicao-damao-fogo-do-coracao-de-ana-janeiro-308
  38.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-tereza-arriaga-percursos-de-arte-e-vida-43d32-2026-11-10@lage
+UID:exposicao-tereza-arriaga-percursos-de-arte-e-vida-43d32-2026-11-11@lage
  nda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
 SUMMARY:Exposição | Tereza Arriaga: Percursos de Arte e Vida
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-tereza-ar
@@ -30,22 +30,8 @@ URL:https://lykeion.pt/e/exposicao-tereza-arriaga-percursos-de-arte-e-vida-
  43d32.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontros-nas-margens-do-possivel-um-grupo-de-discussao-de-f-1f07a-2026
- -11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T183000
-SUMMARY:Encontros: Nas Margens do Possível: um grupo de discussão de fic
- ção científica e fabulações críticas e especulativas
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/nas-margens-do-poss
- ivel-um-grupo-de-discussao-de-ficcao-cientifica-e-fabulacoes-criticas-e-es
- peculativas/
-URL:https://lykeion.pt/e/encontros-nas-margens-do-possivel-um-grupo-de-disc
- ussao-de-f-1f07a.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ii-coloquio-index-collectiones-acores-a4fe5-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:II Colóquio Index Collectiones\, Açores
 LOCATION:Instituto de Historia da Arte
@@ -56,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:x-forum-iberico-de-estudos-museologicos-museus-mundos-em-mud-4f583-2026
  -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:X Fórum Ibérico de Estudos Museológicos – Museus\, Mundos em M
  udança
@@ -69,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-permanente-iha-preservacao-e-valorizacao-de-paisag-1a442-2026
  -11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Seminário Permanente IHA | Preservação e Valorização de Paisag
  ens Fortificadas\, com Luciene Pessotti
@@ -83,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-e-mesa-redonda-a-pintura-de-tereza-arriaga-tem-ddaeb-2026
  -11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Visita Guiada e Mesa-redonda | A pintura de Tereza Arriaga: temas\,
   modos\, escrita
@@ -96,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-24@
  lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Congresso | Uncertain Landscapes 2: Beyond the resources
 LOCATION:Instituto de Historia da Arte
@@ -106,9 +92,23 @@ URL:https://lykeion.pt/e/congresso-uncertain-landscapes-2-beyond-the-resour
  ces-be2f2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontros-nas-margens-do-possivel-um-grupo-de-discussao-de-f-1f07a-2026
+ -12-09@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T183000
+SUMMARY:Encontros: Nas Margens do Possível: um grupo de discussão de fic
+ ção científica e fabulações críticas e especulativas
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/nas-margens-do-poss
+ ivel-um-grupo-de-discussao-de-ficcao-cientifica-e-fabulacoes-criticas-e-es
+ peculativas/
+URL:https://lykeion.pt/e/encontros-nas-margens-do-possivel-um-grupo-de-disc
+ ussao-de-f-1f07a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-archives-of-conflitct-photography-between-vernac-b274d-2026
  -12-10@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Conferência | Archives of Conflitct. Photography between vernacula
  r and institutional practices
@@ -120,7 +120,7 @@ URL:https://lykeion.pt/e/conferencia-archives-of-conflitct-photography-betw
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-43d32-2026-12-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261212
 SUMMARY:Exposição Tereza Arriaga percursos de arte e vida
 LOCATION:Instituto de Historia da Arte
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cfp-forum-internacional-care-contemporary-arts-activism-for-afad5-2027-
  01-05@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270105
 SUMMARY:CFP | Fórum Internacional CARE – Contemporary Arts Activism for 
  Reproductive Healthcare | até 5 jan. 2027

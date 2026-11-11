@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ILCML (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminario-aberto-com-jade-nogueira-ea965-2026-11-26@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T100000
+SUMMARY:Seminário Aberto com Jade Nogueira
+LOCATION:Instituto de Literatura Comparada Margarida Losa\, Porto
+DESCRIPTION:https://ilcml.com/seminario-aberto-com-jade-nogueira/
+URL:https://lykeion.pt/e/seminario-aberto-com-jade-nogueira-ea965.html
+END:VEVENT
+END:VCALENDAR

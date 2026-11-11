@@ -6,41 +6,17 @@ X-WR-CALNAME:Engenharia Eletrotécnica e de Computadores (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-europeu-de-e-8045d-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:AI\, Data\, Robotics Forum (ADRF26) O ADRF é um fórum europeu de 
- elevado impacto que reúne centenas de representant... 14 outubro 2026
-LOCATION:Institute for Systems and Computer Engineering\, Technology and Sc
- ience\, Porto
-DESCRIPTION:https://www.inesctec.pt/pt/eventos/ai-data-robotics-forum-adrf2
- 6
-URL:https://lykeion.pt/e/ai-data-robotics-forum-adrf26-o-adrf-e-um-forum-eu
- ropeu-de-e-8045d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:open-day-nos-7cc57-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Open Day NOS
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/open-day-nos
-URL:https://lykeion.pt/e/open-day-nos-7cc57.html
-END:VEVENT
-BEGIN:VEVENT
-UID:workshop-ieee-aess-spacetech-b0d60-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Workshop Ieee Aess «SpaceTech»
-LOCATION:Instituto Superior de Engenharia de Lisboa
-DESCRIPTION:https://www.isel.pt/eventos/workshop-ieee-aess-spacetech
-URL:https://lykeion.pt/e/workshop-ieee-aess-spacetech-b0d60.html
+UID:academia-da-robotica-20262027-4e764-2026-11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
 END:VEVENT
 BEGIN:VEVENT
 UID:jornadas-tecnicas-de-eletrotecnia-2e659-2026-11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T153000
 SUMMARY:Jornadas Técnicas de Eletrotecnia
 LOCATION:Universidade do Algarve\, Faro
@@ -50,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:celebrating-the-life-work-and-legacy-of-professor-carlos-sal-b4382-2026
  -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T020000
 SUMMARY:Celebrating the life\, work and legacy of Professor Carlos Salema
 LOCATION:Instituto de Telecomunicações
@@ -61,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:incentivar-o-setor-eletrotecnico-oportunidades-para-empresas-0c8b9-2026
  -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T094500
 SUMMARY:Incentivar o Setor Eletrotécnico: Oportunidades para Empresas
 LOCATION:Instituto Eletrotécnico Português (Portugal)\, Matosinhos
@@ -71,20 +47,8 @@ URL:https://lykeion.pt/e/incentivar-o-setor-eletrotecnico-oportunidades-par
  a-empresas-0c8b9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:tecnologias-wireless-e-automacao-para-casas-conectadas-132f2-2026-11-12
- @lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Tecnologias Wireless e Automação para Casas Conectadas
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/tecnologias-wireless-e-automacao
- -para-casas-conectadas/
-URL:https://lykeion.pt/e/tecnologias-wireless-e-automacao-para-casas-conect
- adas-132f2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:drca-webinar-comercio-eletronico-84263-2026-11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:DRCA - Webinar Comércio Eletrónico
 LOCATION:Ordem dos Economistas
@@ -95,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-ieee-sobre-detecao-e-comunicacoes-integradas-iee-d838d-2026
  -11-15@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:Conferência IEEE sobre Deteção e Comunicações Integradas (Ieee
   Isac 2026)
@@ -107,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:41-a-conferencia-sobre-projecto-de-circuitos-e-sistemas-inte-b9ca5-2026
  -11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:41.ª Conferência sobre Projecto de Circuitos e Sistemas Integrado
  s (DCIS 2026)
@@ -118,7 +82,7 @@ URL:https://lykeion.pt/e/41-a-conferencia-sobre-projecto-de-circuitos-e-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:deec-talk-com-marco-piccardo-829f3-2026-11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T120000
 SUMMARY:Deec Talk com Marco Piccardo
 LOCATION:Departamento de Engenharia Eletrotécnica e de Computadores (DEEC)
@@ -127,8 +91,32 @@ DESCRIPTION:https://deec.tecnico.ulisboa.pt/eventos/palestras/deec-talk-com
 URL:https://lykeion.pt/e/deec-talk-com-marco-piccardo-829f3.html
 END:VEVENT
 BEGIN:VEVENT
+UID:future-game-apresentacao-do-livro-behavioral-objects-behavio-009f7-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T160000
+SUMMARY:Future Game | Apresentação do livro 'Behavioral Objects\, Behavio
+ ral Matter'
+LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
+ 49868
+URL:https://lykeion.pt/e/future-game-apresentacao-do-livro-behavioral-objec
+ ts-behavio-009f7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminarios-de-internacionalizacao-26-27-f8ae0-2026-11-18@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Seminários de Internacionalização 26-27
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/eventos/seminarios-de-internacionaliza
+ cao-26-27-o-mundo-real-lideranca-comercial-e-nossa-gestao
+URL:https://lykeion.pt/e/seminarios-de-internacionalizacao-26-27-f8ae0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:escola-de-outono-2026-cc765-2026-11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Escola de Outono 2026
 LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
@@ -140,18 +128,17 @@ URL:https://lykeion.pt/e/escola-de-outono-2026-cc765.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-from-zero-to-solana-5f1c5-2026-11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop From Zero to Solana
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24195
 URL:https://lykeion.pt/e/workshop-from-zero-to-solana-5f1c5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:centro-de-investigacao-oceanica-entre-a-china-e-os-paises-de-f42e5-2026
  -11-21@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Centro de Investigação Oceânica entre a China e os países de l
  íngua portuguesa
@@ -163,7 +150,7 @@ URL:https://lykeion.pt/e/centro-de-investigacao-oceanica-entre-a-china-e-os
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-mes-do-saber-48c12-2026-11-23@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Conferência: Mês do saber
 LOCATION:Escola Básica e Secundária de Lousada Norte\, Lousada
@@ -172,7 +159,7 @@ URL:https://lykeion.pt/e/conferencia-mes-do-saber-48c12.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-0f3e9-2026-11-24@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T213000
 SUMMARY:Café de Ciência · Centro Ciência Viva de Bragança
 LOCATION:Centro Ciência Viva de Bragança\, Bragança
@@ -183,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-beatriz-de-sousa-siqueira-a-juvent-03b8f-2026
  -11-26@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Provas de Mestrado de Ana Beatriz de Sousa Siqueira «A juventude e
   ascensão feminina nos esportes eletrônicos no Brasil»
@@ -195,7 +182,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-beatriz-de-sousa-siqueir
 END:VEVENT
 BEGIN:VEVENT
 UID:14-a-conferencia-da-british-hernia-society-80550-2026-11-30@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:14.ª Conferência da British Hernia Society
 LOCATION:Sociedade Portuguesa de Cirurgia
@@ -204,9 +191,22 @@ URL:https://lykeion.pt/e/14-a-conferencia-da-british-hernia-society-80550.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-e31c4-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
+ da — A Revolução das Telecomunicações e o seu Impacto nas Relações
+  Interterritoriais: Uma experiência didática com recurso à gamificaçã
+LOCATION:Instituto de Geografia e Ordenamento do Território
+DESCRIPTION:https://www.igot.ulisboa.pt/provas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
+ no-supervi-e31c4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:persona-de-ingmar-bergman-exibicao-e-aula-aberta-com-robert-68fa2-2026-
  12-10@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T180000
 SUMMARY:Persona\, de Ingmar Bergman: exibição e Aula Aberta com Robert Pi
  ppin
@@ -219,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-a7a18-2026
  -12-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — Geografia\, Telecomunicações e Território: uma experiência did
@@ -231,7 +231,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-be94e-2026-12-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T180000
 SUMMARY:Exposição ensaios de tectónica digital
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
@@ -242,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eletricidade-para-engenheiros-nao-eletrotecnicos-ded03-2027-02-02@lagen
  da.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20270202T080000
 SUMMARY:Eletricidade para Engenheiros não Eletrotécnicos
 LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
@@ -254,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7th-international-conference-on-robotics-computer-vision-and-3b720-2027
  -02-27@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270227
 SUMMARY:7th International Conference on Robotics\, Computer Vision and Inte
  lligent Systems
@@ -267,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eletronica-de-potencia-analise-de-circuitos-e-mitigacao-de-a-ca4f2-2027
  -03-09@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20270309T160000
 SUMMARY:Eletrónica de Potência – Análise de Circuitos e Mitigação de
   Avarias

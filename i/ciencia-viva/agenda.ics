@@ -6,8 +6,26 @@ X-WR-CALNAME:Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:11-novembro-b8357-2026-11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:11 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/11-novembro-b8357.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciencia-viva-bcc60-2026-11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T170000
+SUMMARY:Ciência Viva
+LOCATION:Ciência Viva\, Grândola
+DESCRIPTION:https://lousal.cienciaviva.pt/category/ciencia-viva/
+URL:https://lykeion.pt/e/ciencia-viva-bcc60.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oficinas-em-ferias-sais-de-banho-ecologicos-d01ce-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T143000
 SUMMARY:Oficinas em Férias | Sais de Banho Ecológicos
 LOCATION:Centro Ciência Viva de Tavira\, Tavira
@@ -17,7 +35,7 @@ URL:https://lykeion.pt/e/oficinas-em-ferias-sais-de-banho-ecologicos-d01ce.
 END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-em-familia-94e87-2026-11-14@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Ciência em Família
 LOCATION:Centro Ciência Viva de Bragança\, Bragança
@@ -27,7 +45,7 @@ URL:https://lykeion.pt/e/ciencia-em-familia-94e87.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cores-e-sabores-do-outono-093f1-2026-11-14@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T103000
 SUMMARY:Cores e Sabores do Outono
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -38,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:historias-vivas-como-apanhar-uma-estrela-de-oliver-jeffers-1-e59e7-2026
  -11-15@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261115T103000
 SUMMARY:Histórias Vivas | Como Apanhar Uma Estrela\, de Oliver Jeffers 15 
  novembro 10h30 Centro Ciência Viva de Lagos
@@ -50,7 +68,7 @@ URL:https://lykeion.pt/e/historias-vivas-como-apanhar-uma-estrela-de-oliver
 END:VEVENT
 BEGIN:VEVENT
 UID:laboratorio-de-engenhocarias-b1383-2026-11-22@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261122T103000
 SUMMARY:Laboratório de Engenhocarias
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -60,7 +78,7 @@ URL:https://lykeion.pt/e/laboratorio-de-engenhocarias-b1383.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-0f3e9-2026-11-24@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T213000
 SUMMARY:Café de Ciência · Centro Ciência Viva de Bragança
 LOCATION:Centro Ciência Viva de Bragança\, Bragança
@@ -71,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-entrada-gratuita-no-centro-ciencia-viva-de-bra-4f2cf-2026
  -11-24@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Visita guiada: Entrada gratuita no Centro Ciência Viva de Braganç
  a!
@@ -82,7 +100,7 @@ URL:https://lykeion.pt/e/visita-guiada-entrada-gratuita-no-centro-ciencia-v
 END:VEVENT
 BEGIN:VEVENT
 UID:noites-astronomicas-abef3-2026-11-25@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T183000
 SUMMARY:Noites astronómicas observação da Lua
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -93,12 +111,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:passeio-cientifico-noite-de-anfibios-em-mindelo-05e77-2026-11-27@lagend
  a.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Passeio científico: Noite de anfíbios em Mindelo
 LOCATION:Centro Ciência Viva de Vila do Conde\, Vila do Conde
 DESCRIPTION:https://viladoconde.cienciaviva.pt/
 URL:https://lykeion.pt/e/passeio-cientifico-noite-de-anfibios-em-mindelo-05
  e77.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-arqueologia-na-semana-da-ciencia-e-da-tecnologia-7cf8b-2026-1
+ 1-28@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Exposição: Arqueologia na Semana da Ciência e da Tecnologia
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt
+URL:https://lykeion.pt/e/exposicao-arqueologia-na-semana-da-ciencia-e-da-te
+ cnologia-7cf8b.html
 END:VEVENT
 END:VCALENDAR

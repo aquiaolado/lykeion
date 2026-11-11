@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro Ciência Viva de Constância - Parque de Astronomia (Ly
+ keion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:horarios-b8bae-2026-11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Horários
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1195/exposicoes
+URL:https://lykeion.pt/e/horarios-b8bae.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apagamos-as-luzes-e-acendemos-as-estrelas-3647a-2026-11-28@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T203000
+SUMMARY:Apagamos as luzes e acendemos as estrelas!
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1235/observacoes-noturnas
+URL:https://lykeion.pt/e/apagamos-as-luzes-e-acendemos-as-estrelas-3647a.ht
+ ml
+END:VEVENT
+END:VCALENDAR

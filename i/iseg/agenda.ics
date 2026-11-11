@@ -6,30 +6,8 @@ X-WR-CALNAME:ISEG – Lisbon School of Economics and Management (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:das-18-00-as-20-00-conferencia-ferreira-de-castro-referencia-84711-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Conferência | Ferreira de Castro\, referência moral do século XX
-  ISEG\, Auditório 3 (Edifício Quelhas)
-LOCATION:ISEG – Lisbon School of Economics and Management
-DESCRIPTION:https://www.iseg.ulisboa.pt/event/conferencia-ferreira-de-castr
- o-referencia-moral-do-seculo-xx/
-URL:https://lykeion.pt/e/das-18-00-as-20-00-conferencia-ferreira-de-castro-
- referencia-84711.html
-END:VEVENT
-BEGIN:VEVENT
-UID:jornadas-de-outono-de-maeg-86b64-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T144500
-SUMMARY:Jornadas de Outono de MAEG
-LOCATION:Biblioteca Francisco Pereira de Moura
-DESCRIPTION:https://www.iseg.ulisboa.pt/event/jornadas-de-outono-de-maeg-7/
-URL:https://lykeion.pt/e/jornadas-de-outono-de-maeg-86b64.html
-END:VEVENT
-BEGIN:VEVENT
 UID:apresentacao-do-livro-verde-0d7a0-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Apresentação do Livro Verde
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -39,7 +17,7 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-verde-0d7a0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:research-seminar-fb22c-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T113000
 SUMMARY:Research seminar Financial decision making under time and state dep
  endent preferences
@@ -50,7 +28,7 @@ URL:https://lykeion.pt/e/research-seminar-fb22c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-55e40-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Webinar retomar o controlo do sistema de comunicação científica 
  desafios e oportunidades
@@ -62,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
@@ -74,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:development-studies-seminars-2026-2027-urbanizacao-e-desenvo-97024-2026
  -11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:Development Studies Seminars 2026/2027 | Urbanização e desenvolvi
  mento em África: informalidade ou adaptação?
@@ -87,7 +65,7 @@ URL:https://lykeion.pt/e/development-studies-seminars-2026-2027-urbanizacao
 END:VEVENT
 BEGIN:VEVENT
 UID:iseg-development-studies-seminars-2026-2027-f5e6e-2026-11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
 SUMMARY:ISEG Development Studies Seminars 2026/2027
 LOCATION:ISEG – Lisbon School of Economics and Management
@@ -97,18 +75,9 @@ URL:https://lykeion.pt/e/iseg-development-studies-seminars-2026-2027-f5e6e.
  html
 END:VEVENT
 BEGIN:VEVENT
-UID:phd-open-days-2026-99d70-2026-11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T170000
-SUMMARY:PhD Open Days 2026
-LOCATION:Biblioteca Francisco Pereira de Moura
-DESCRIPTION:https://www.iseg.ulisboa.pt/event/phd-open-days-2026/
-URL:https://lykeion.pt/e/phd-open-days-2026-99d70.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-cegist-mais-dados-melhor-saude-translating-the-20-48591-2026-
  11-20@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Seminário CEGIST “Mais Dados\, Melhor Saúde: Translating The 20
   Recommendations Into Practice
@@ -121,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:research-seminars-in-mathematics-applied-to-economics-and-ma-0bd01-2026
  -11-26@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T113000
 SUMMARY:Research Seminars in Mathematics Applied to Economics and Managemen
  t
@@ -132,8 +101,18 @@ URL:https://lykeion.pt/e/research-seminars-in-mathematics-applied-to-econom
  ics-and-ma-0bd01.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sessao-solene-do-ano-letivo-2026-2027-10375-2026-11-27@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Sessão Solene do Ano Letivo 2026-2027
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/sessao-solene-do-ano-letivo-2
+ 026-2027/
+URL:https://lykeion.pt/e/sessao-solene-do-ano-letivo-2026-2027-10375.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-doutoramento-em-economia-d7a90-2026-12-09@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T140000
 SUMMARY:Prova de Doutoramento em Economia
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -144,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10-a-conferencia-anual-da-redesaude-da-universidade-de-lisbo-52e26-2026
  -12-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:10.ª Conferência Anual da redeSAÚDE da Universidade de Lisboa 
  “Citizen Science in Health: from Individual Participation to Societal Im
@@ -159,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-em-matematica-aplicada-a-economia-e-a-ge-3851c-2026
  -12-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T170000
 SUMMARY:Provas de Agregação em Matemática Aplicada à Economia e à Gest
  ão
@@ -172,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:first-lisbon-research-workshop-on-economics-and-econometrics-92dae-2027
  -01-07@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270107
 SUMMARY:First Lisbon Research Workshop on Economics and Econometrics of Edu
  cation
@@ -183,7 +162,7 @@ URL:https://lykeion.pt/e/first-lisbon-research-workshop-on-economics-and-ec
 END:VEVENT
 BEGIN:VEVENT
 UID:modelling-nonlinear-time-series-0e849-2027-01-10@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270110
 SUMMARY:Modelling Nonlinear Time Series
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -192,7 +171,7 @@ URL:https://lykeion.pt/e/modelling-nonlinear-time-series-0e849.html
 END:VEVENT
 BEGIN:VEVENT
 UID:predictability-of-financial-markets-97702-2027-01-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270116
 SUMMARY:Predictability of Financial Markets
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -202,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:winter-school-on-stochastic-dynamics-and-control-in-finance-23482-2027-
  01-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270116
 SUMMARY:Winter School on Stochastic Dynamics and Control in Finance and Eco
  nomics
@@ -214,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:international-trends-in-data-driven-education-policy-scienti-60e70-2027
  -01-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270117
 SUMMARY:International Trends in Data-Driven Education Policy: Scientific Re
  search and Education
@@ -226,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:second-lisbon-research-workshop-on-economics-statistics-and-f3d08-2027-
  01-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270118
 SUMMARY:Second Lisbon Research Workshop on Economics\, Statistics and Econo
  metrics of Education
@@ -237,7 +216,7 @@ URL:https://lykeion.pt/e/second-lisbon-research-workshop-on-economics-stati
 END:VEVENT
 BEGIN:VEVENT
 UID:6th-one-day-meeting-on-dynamical-systems-3bb7e-2027-01-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270119
 SUMMARY:6th One Day Meeting on Dynamical Systems
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -248,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lisbon-economics-and-statistics-of-education-629f6-2027-01-20@lagenda.p
  t
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270120
 SUMMARY:Lisbon Economics and Statistics of Education
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -259,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:properties-of-inference-in-dynamic-panel-data-models-34591-2027-01-21@l
  agenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270121
 SUMMARY:Properties of Inference in Dynamic Panel Data Models
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -269,7 +248,7 @@ URL:https://lykeion.pt/e/properties-of-inference-in-dynamic-panel-data-mode
 END:VEVENT
 BEGIN:VEVENT
 UID:combinatorial-game-theory-colloquium-ii-b41af-2027-01-25@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270125
 SUMMARY:Combinatorial Game Theory Colloquium II
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -278,7 +257,7 @@ URL:https://lykeion.pt/e/combinatorial-game-theory-colloquium-ii-b41af.html
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-aberto-do-tecnico-2027-06b66-2027-04-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20270417T093000
 SUMMARY:Dia Aberto do Técnico 2027
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas

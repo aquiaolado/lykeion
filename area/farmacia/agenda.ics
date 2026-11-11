@@ -6,61 +6,9 @@ X-WR-CALNAME:Farmácia e Medicina Dentária (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:provas-de-mestrado-integrado-em-ciencias-farmaceuticas-c4026-2026-11-10
- @lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Provas de Mestrado Integrado em Ciências Farmacêuticas
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
-DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-integrado-em-ciencias-fa
- rmaceuticas-262
-URL:https://lykeion.pt/e/provas-de-mestrado-integrado-em-ciencias-farmaceut
- icas-c4026.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-barbara-raquel-figueiredo-goncalves-me-a3f49-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Provas de mestrado de Bárbara Raquel Figueiredo Gonçalves — Med
- icina Dentária
-LOCATION:Universidade Fernando Pessoa\, Porto
-DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-barbara-raquel-figueiredo-go
- ncalves-me-a3f49.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-caroline-wosniak-de-carvalho-design-de-f606b-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Provas de mestrado de Caroline Wosniak de Carvalho — Design de Em
- balagens Recarregáveis como Vantagem Competitiva em Cosméticos: Um Enfoq
- ue na Sustentabilidade e Decisão de Compra
-LOCATION:Faculdade de Farmácia da Universidade de Lisboa
-DESCRIPTION:https://www.ff.ulisboa.pt/categoria/ensino/ensino-estudar-na-ff
- ul/provas-academicas/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-caroline-wosniak-de-carvalho
- -design-de-f606b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-catia-alexandra-marques-josue-otimizac-f606b-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Provas de mestrado de Cátia Alexandra Marques Josué — Otimizaç
- ão do processo de produção em fluxo contínuo de uma molécula alvo com
-  potencial aplicação no tratamento da dor crónica
-LOCATION:Faculdade de Farmácia da Universidade de Lisboa
-DESCRIPTION:https://www.ff.ulisboa.pt/categoria/ensino/ensino-estudar-na-ff
- ul/provas-academicas/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-catia-alexandra-marques-josu
- e-otimizac-f606b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-elena-maria-sigillo-medicina-dentaria-26990-2026-
  11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Provas de mestrado de Elena Maria Sigillo — Medicina Dentária
 LOCATION:Universidade Fernando Pessoa\, Porto
@@ -71,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-antonio-barreiros-da-costa-cienci-26990-2026
  -11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Provas de mestrado de João António Barreiros da Costa — Ciênci
  as Farmacêuticas
@@ -83,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc2-2026-11-12@lagenda.
  pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T090000
 SUMMARY:IV Encontro dos Farmacêuticos da Distribuição
 LOCATION:Ordem dos Farmaceuticos
@@ -93,17 +41,20 @@ URL:https://lykeion.pt/e/iv-encontro-dos-farmaceuticos-da-distribuicao-e6fc
  2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminarios-de-farmacia-industrial-2026-92fcb-2026-11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T140000
-SUMMARY:Seminários de Farmácia Industrial 2026
+UID:provas-de-mestrado-integrado-em-ciencias-farmaceuticas-e30cf-2026-11-12
+ @lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T160000
+SUMMARY:Provas de Mestrado Integrado em Ciências Farmacêuticas
 LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://fct.ualg.pt/seminarios-de-farmacia-industrial-2026
-URL:https://lykeion.pt/e/seminarios-de-farmacia-industrial-2026-92fcb.html
+DESCRIPTION:https://fct.ualg.pt/provas-de-mestrado-integrado-em-ciencias-fa
+ rmaceuticas-263
+URL:https://lykeion.pt/e/provas-de-mestrado-integrado-em-ciencias-farmaceut
+ icas-e30cf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xxi-congresso-aeffup-72db4-2026-11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:XXI Congresso AEFFUP
 LOCATION:Faculdade de Farmácia da Universidade do Porto\, Porto
@@ -112,9 +63,20 @@ DESCRIPTION:https://sigarra.up.pt/ffup/pt/noticias_geral.ver_noticia?P_NR=5
 URL:https://lykeion.pt/e/xxi-congresso-aeffup-72db4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminarios-de-internacionalizacao-26-27-f8ae0-2026-11-18@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Seminários de Internacionalização 26-27
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/eventos/seminarios-de-internacionaliza
+ cao-26-27-o-mundo-real-lideranca-comercial-e-nossa-gestao
+URL:https://lykeion.pt/e/seminarios-de-internacionalizacao-26-27-f8ae0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-marco-serafi-extending-the-akt-tar-f606b-2026
  -11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Provas de doutoramento de Marco Serafi — Extending The Akt-target
  ing Pharmacological Toolbox With Proteolysis Targeting Chimeric Molecules 
@@ -126,19 +88,21 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-marco-serafi-extending-t
  he-akt-tar-f606b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T093000
-SUMMARY:18.ª edição Fórum do Medicamento
-LOCATION:Centro Cultural de Belém\, Belém
-DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
- kets-2004012616683
-URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
+UID:prova-de-mestrado-em-metabolismo-biopatologia-e-experimentac-2c6a1-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T100000
+SUMMARY:Prova de Mestrado em Metabolismo - Biopatologia e Experimentação
+LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
+ 19664
+URL:https://lykeion.pt/e/prova-de-mestrado-em-metabolismo-biopatologia-e-ex
+ perimentac-2c6a1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-matilde-lourenco-ferreira-gravidez-e-i-f606b-2026
  -11-27@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Matilde Lourenço Ferreira — Gravidez e Inf
  eções Virais: Mecanismos de Lesão Fetal\, Diagnóstico e Prevenção
@@ -149,9 +113,22 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-matilde-lourenco-ferreira-gr
  avidez-e-i-f606b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-a-atualizacao-em-irrigacao-e-obturacao-endodonti-e7a63-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T090000
+SUMMARY:Aula aberta “A atualização em irrigação e obturação endodô
+ ntica”.
+LOCATION:Valongo\, Valongo
+DESCRIPTION:https://www.cespu.pt/noticias-e-eventos/2026/11/aula-aberta-com
+ -o-prof-doutor-adrian-lozano/
+URL:https://lykeion.pt/e/aula-aberta-a-atualizacao-em-irrigacao-e-obturacao
+ -endodonti-e7a63.html
+END:VEVENT
+BEGIN:VEVENT
 UID:i-seminario-de-casos-clinicos-de-farmacologia-em-termalismo-1f551-2026-
  12-03@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:I Seminário de Casos Clínicos de Farmacologia em Termalismo
 LOCATION:Instituto Superior de Saúde do Alto Ave\, Póvoa de Lanhoso
@@ -163,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-jose-arcanjo-esteves-the-role-of-f606b-2026
  -12-03@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Provas de mestrado de Pedro José Arcanjo Esteves — The Role of A
  dult Neurogenesis in the Antidepressant Effects of Physical Exercise and C
@@ -177,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-leonor-carvalho-teixeira-characterizat-f606b-2026
  -12-10@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Provas de mestrado de Leonor Carvalho Teixeira — Characterization
   of the Tumor Microenvironment Using Multiplex Imaging and Development of 
@@ -191,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spsp-participa-na-2-a-conferencia-repo-sudoe-em-a-corunha-15a92-2026-12
  -15@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:SPSP participa na 2.ª Conferência RePo-SUDOE\, em A Corunha
 LOCATION:Sociedade Portuguesa de Saúde Pública
@@ -203,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2-a-edicao-do-curso-breve-de-psicofarmacologia-em-oncologia-e8ced-2027-
  01-22@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20270122T090000
 SUMMARY:2.ª Edição do Curso Breve de Psicofarmacologia em Oncologia
 LOCATION:Sociedade Portuguesa de Psiquiatria e Saúde Mental
@@ -211,19 +188,5 @@ DESCRIPTION:https://www.sppsm.org/evento/2-a-edicao-do-curso-breve-de-psico
  farmacologia-em-oncologia/
 URL:https://lykeion.pt/e/2-a-edicao-do-curso-breve-de-psicofarmacologia-em-
  oncologia-e8ced.html
-END:VEVENT
-BEGIN:VEVENT
-UID:pharmastar-plantas-na-industria-farmaceutica-dfd09-2027-02-20@lagenda.p
- t
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20270220T183000
-SUMMARY:PharmaStar - Plantas na Indústria Farmacêutica
-LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
-DESCRIPTION:https://www.ccvfloresta.com/actividades/cafes-de-ciencia/18-caf
- es-de-ciencia-arquivo/611-pharmastar-valorizacao-sustentavel-das-plantas-e
- ndogenas-do-parque-natural-da-serra-da-estrela-para-aplicacoes-na-industri
- a-farmaceutica
-URL:https://lykeion.pt/e/pharmastar-plantas-na-industria-farmaceutica-dfd09
- .html
 END:VEVENT
 END:VCALENDAR

@@ -6,17 +6,8 @@ X-WR-CALNAME:UTAD (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:semana-da-ciencia-tecnologia-2026-0a9a6-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Semana da Ciência & Tecnologia 2026
-LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
-DESCRIPTION:https://eventos.utad.pt/evento/semana-ciencia-tecnologia-2026/
-URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-2026-0a9a6.html
-END:VEVENT
-BEGIN:VEVENT
 UID:os-caminhos-da-ciencia-84fd6-2026-11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Os Caminhos da Ciência
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -24,9 +15,30 @@ DESCRIPTION:https://eventos.utad.pt/evento/caminhos-ciencia/
 URL:https://lykeion.pt/e/os-caminhos-da-ciencia-84fd6.html
 END:VEVENT
 BEGIN:VEVENT
+UID:semana-da-ciencia-tecnologia-2026-0a9a6-2026-11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Semana da Ciência & Tecnologia 2026
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/semana-ciencia-tecnologia-2026/
+URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-2026-0a9a6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-critical-care-360-da-emergencia-a-recuperacao-27b15-2026-11-1
+ 1@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T080000
+SUMMARY:Seminário Critical Care 360°: Da Emergência à Recuperação
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://www.utad.pt/ess/evento/seminario-critical-care-360-da-e
+ mergencia-a-recuperacao/
+URL:https://lykeion.pt/e/seminario-critical-care-360-da-emergencia-a-recupe
+ racao-27b15.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conference-a-new-approach-to-territorial-intelligence-in-the-1522e-2026
  -11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:CONFERENCE | A New Approach to Territorial Intelligence in the Face
   of Wildfires
@@ -39,7 +51,7 @@ URL:https://lykeion.pt/e/conference-a-new-approach-to-territorial-intellige
 END:VEVENT
 BEGIN:VEVENT
 UID:os-caminhos-da-ciencia-7b107-2026-11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Os Caminhos da Ciência
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -49,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
  11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:SEMINÁRIO - Active Hotspots: Tecnologia\, Sustentabilidade e Bem-E
  star
@@ -60,7 +72,7 @@ URL:https://lykeion.pt/e/seminario-active-hotspots-tecnologia-sustentabilid
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-7d131-2026-11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Seminário · Universidade de Trás-os-Montes e Alto Douro
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -69,7 +81,7 @@ URL:https://lykeion.pt/e/seminario-7d131.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-origami-uma-folha-infinitas-2499d-2026-11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Workshop de Origami: Uma folha\, infinitas
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -78,20 +90,33 @@ DESCRIPTION:https://eventos.utad.pt/evento/workshop-origami-uma-folha-infin
 URL:https://lykeion.pt/e/workshop-de-origami-uma-folha-infinitas-2499d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-investigar-para-curar-o-cancro-nos-animais-d6c28-2026-11-23
- @lagenda.pt
-DTSTAMP:20261110T000000Z
+UID:conferencia-a-evolucao-da-ferrovia-dos-primeiros-sistemas-a-d6c28-2026-
+ 11-23@lagenda.pt
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261123
-SUMMARY:Conferência: Investigar para curar: o cancro nos animais
+SUMMARY:Conferência: A evolução da ferrovia: dos primeiros sistemas à a
+ lta velocidade
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
-URL:https://lykeion.pt/e/conferencia-investigar-para-curar-o-cancro-nos-ani
- mais-d6c28.html
+URL:https://lykeion.pt/e/conferencia-a-evolucao-da-ferrovia-dos-primeiros-s
+ istemas-a-d6c28.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-investigar-para-curar-vem-descobrir-como-se-estu-d6c28-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Conferência: Investigar para Curar: vem descobrir como se estuda o
+  cancro nos animais
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/conferencia-investigar-para-curar-vem-descobrir-co
+ mo-se-estu-d6c28.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-investigacao-criminal-em-medicina-veterinaria-ca-d6c28-2026
  -11-23@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Conferência: Investigação Criminal em Medicina Veterinária - ca
  sos reais
@@ -101,9 +126,21 @@ URL:https://lykeion.pt/e/conferencia-investigacao-criminal-em-medicina-vete
  rinaria-ca-d6c28.html
 END:VEVENT
 BEGIN:VEVENT
+UID:portas-abertas-o-que-nos-diz-o-dna-da-uva-da-identificacao-v-d6c28-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Portas abertas: O que nos diz o DNA da uva? Da identificação vari
+ etal à autenticidade
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/portas-abertas-o-que-nos-diz-o-dna-da-uva-da-ident
+ ificacao-v-d6c28.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-nem-todos-os-bichos-tem-patas-uma-viagem-ao-mundo-i-d6c28-2026
  -11-23@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Workshop: Nem Todos os Bichos Têm Patas! Uma viagem ao mundo invis
  ível da Medicina Veterinária
@@ -113,9 +150,89 @@ URL:https://lykeion.pt/e/workshop-nem-todos-os-bichos-tem-patas-uma-viagem-
  ao-mundo-i-d6c28.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-o-mundo-dos-dinossauros-de-portugal-descobertas-e-27d68-2026-
+ 11-24@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Exposição: O Mundo dos Dinossauros de Portugal - Descobertas e De
+ scobridores
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/exposicao-o-mundo-dos-dinossauros-de-portugal-desc
+ obertas-e-27d68.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-elaboracao-de-laminas-delgadas-de-rochas-27d68-2026-11-2
+ 4@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Portas abertas: Elaboração de lâminas delgadas de rochas
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/portas-abertas-elaboracao-de-laminas-delgadas-de-r
+ ochas-27d68.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-preparacao-em-laboratorio-de-amostras-para-o-27d68-2026-
+ 11-24@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Portas abertas: Preparação em laboratório de amostras para o est
+ udo de rochas e sedimentos
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/portas-abertas-preparacao-em-laboratorio-de-amostr
+ as-para-o-27d68.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-detetives-do-codigo-da-vida-a-procura-dos-segredos-27d68-2026-
+ 11-24@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Workshop: Detetives do código da vida: à procura dos segredos das
+  células!
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/workshop-detetives-do-codigo-da-vida-a-procura-dos
+ -segredos-27d68.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-quem-bive-no-bioterio-uma-viagem-pelo-mundo-dos-ani-27d68-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Workshop: Quem bive no biotério? Uma viagem pelo mundo dos animais
+  de laboratório
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/workshop-quem-bive-no-bioterio-uma-viagem-pelo-mun
+ do-dos-ani-27d68.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciencia-em-acao-explora-o-mundo-dos-vulcoes-e-dos-fosseis-c1bca-2026-11
+ -25@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Ciência em ação: explora o mundo dos vulcões e dos fósseis
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/ciencia-em-acao-explora-o-mundo-dos-vulcoes-e-dos-
+ fosseis-c1bca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-o-estado-do-mundo-em-numeros-c1bca-2026-11-25@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Conferência: O estado do mundo em números
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/conferencia-o-estado-do-mundo-em-numeros-c1bca.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-realidade-virtual-desafios-e-oportunidades-c1bca-2026-11
  -25@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Portas abertas: Realidade Virtual: Desafios e Oportunidades
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -124,9 +241,33 @@ URL:https://lykeion.pt/e/portas-abertas-realidade-virtual-desafios-e-oportu
  nidades-c1bca.html
 END:VEVENT
 BEGIN:VEVENT
+UID:portas-abertas-visita-aos-laboratorios-cultura-de-celulas-an-c1bca-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Portas abertas: Visita aos laboratórios: cultura de células anima
+ is\, genética e citogenética molecular\, microscopia
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/portas-abertas-visita-aos-laboratorios-cultura-de-
+ celulas-an-c1bca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-visita-guiada-ao-museu-e-a-exposicao-temporar-c1bca-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Portas abertas: Visita guiada ao Museu e à exposição temporária
+  'O Mundo dos Dinossauros'
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/portas-abertas-visita-guiada-ao-museu-e-a-exposica
+ o-temporar-c1bca.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sessao-de-apresentacao-de-resultados-do-projeto-ca7e1-2026-11-25@lagend
  a.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Sessão de Apresentação de Resultados do Projeto
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -136,9 +277,65 @@ URL:https://lykeion.pt/e/sessao-de-apresentacao-de-resultados-do-projeto-ca
  7e1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:workshop-estruturas-com-materiais-sustentaveis-c1bca-2026-11-25@lagenda
+ .pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Workshop: Estruturas com materiais sustentáveis
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/workshop-estruturas-com-materiais-sustentaveis-c1b
+ ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-tipos-de-rebocos-e-sua-aplicacao-c1bca-2026-11-25@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Workshop: Tipos de rebocos e sua aplicação
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/workshop-tipos-de-rebocos-e-sua-aplicacao-c1bca.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-analise-de-difracao-de-raios-x-de-rochas-e-se-eff51-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Portas abertas: Análise de difração de raios X de rochas e sedim
+ entos: que informação procuramos?
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/portas-abertas-analise-de-difracao-de-raios-x-de-r
+ ochas-e-se-eff51.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-observacao-de-laminas-delgadas-de-rochas-uma-realid-eff51-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Workshop: Observação de lâminas delgadas de rochas: uma realidad
+ e escondida
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/workshop-observacao-de-laminas-delgadas-de-rochas-
+ uma-realid-eff51.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-factos-e-numeros-do-nosso-planeta-31be7-2026-11-27@lagenda.
+ pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Conferência: Factos e números do nosso planeta
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
+URL:https://lykeion.pt/e/conferencia-factos-e-numeros-do-nosso-planeta-31be
+ 7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:25o-encontro-nacional-de-ecologia-1st-international-meeting-33796-2026-
  12-09@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T090000
 SUMMARY:25o Encontro Nacional de Ecologia – 1st International Meeting of 
  Ecology
@@ -149,7 +346,7 @@ URL:https://lykeion.pt/e/25o-encontro-nacional-de-ecologia-1st-internationa
 END:VEVENT
 BEGIN:VEVENT
 UID:douro-lugar-de-um-encontro-feliz-ddd06-2027-01-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270116
 SUMMARY:Douro - Lugar de um encontro feliz
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Peso da Régua
@@ -159,7 +356,7 @@ URL:https://lykeion.pt/e/douro-lugar-de-um-encontro-feliz-ddd06.html
 END:VEVENT
 BEGIN:VEVENT
 UID:training-sabi-access-cetrad-e08c2-2027-03-25@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270325
 SUMMARY:Training - SABI Access - CETRAD
 LOCATION:Centro de Estudos Transdisciplinares para o Desenvolvimento\, Vila

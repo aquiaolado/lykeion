@@ -6,42 +6,35 @@ X-WR-CALNAME:Faculdade de Ciências da Universidade de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:17-00-conferencia-desigualdades-urbanas-mobilidade-pedonal-e-1c7ee-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T170000
-SUMMARY:Conferência Desigualdades Urbanas\, Mobilidade Pedonal e Bem-estar
-  Mental
+UID:seminario-de-sistemas-dinamicos-large-deviations-beyond-boun-35e1b-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T140000
+SUMMARY:Seminário de Sistemas Dinâmicos «Large Deviations Beyond Bounded
+  Observables»
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
-DESCRIPTION:https://ciencias.ulisboa.pt/eventos/desigualdades-urbanas-mobil
- idade-pedonal-e-bem-estar-mental-uma-abordagem-em-ciencia-da-informacao-ge
- ografica
-URL:https://lykeion.pt/e/17-00-conferencia-desigualdades-urbanas-mobilidade
- -pedonal-e-1c7ee.html
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/seminario-de-sistemas-dinam
+ icos-deviations
+URL:https://lykeion.pt/e/seminario-de-sistemas-dinamicos-large-deviations-b
+ eyond-boun-35e1b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:16-00-coloquio-coloquio-de-matematica-e9574-2026-11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T160000
-SUMMARY:Colóquio Colóquio de Matemática
+UID:quinta-congresso-vi-congresso-da-sociedade-portuguesa-de-cie-23709-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Quinta Congresso VI Congresso da Sociedade Portuguesa de Ciências 
+ em Animais de Laboratório
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
-DESCRIPTION:https://ciencias.ulisboa.pt/eventos/coloquio-de-matematica-maks
- on
-URL:https://lykeion.pt/e/16-00-coloquio-coloquio-de-matematica-e9574.html
-END:VEVENT
-BEGIN:VEVENT
-UID:14-00-palestra-palavras-que-me-servem-afe23-2026-11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T140000
-SUMMARY:Palestra Palavras que me servem
-LOCATION:Faculdade de Ciências da Universidade de Lisboa
-DESCRIPTION:https://ciencias.ulisboa.pt/eventos/palavras-que-me-servem
-URL:https://lykeion.pt/e/14-00-palestra-palavras-que-me-servem-afe23.html
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/vi-congresso-da-sociedade-p
+ ortuguesa-de-ciencias-em-animais-de-laboratorio
+URL:https://lykeion.pt/e/quinta-congresso-vi-congresso-da-sociedade-portugu
+ esa-de-cie-23709.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ibeb-no-19o-congresso-do-comite-portugues-da-ursi-com-direit-aa174-2026
  -11-21@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:IBEB no 19o Congresso do Comité Português da URSI com direito a p
  rémio
@@ -53,7 +46,7 @@ URL:https://lykeion.pt/e/ibeb-no-19o-congresso-do-comite-portugues-da-ursi-
 END:VEVENT
 BEGIN:VEVENT
 UID:ibeb-na-9-a-conferencia-anual-da-redesaude-9a47e-2026-11-26@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:IBEB na 9.ª Conferência Anual da RedeSAÚDE
 LOCATION:Instituto de Biofísica e Engenharia Biomédica (IBEB)
@@ -65,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:homenagem-publica-de-jubilacao-e-ultima-licao-do-professor-p-0fc3d-2026
  -12-10@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T093000
 SUMMARY:Homenagem pública de jubilação e última lição do Professor Pe
  dro Miranda

@@ -6,32 +6,20 @@ X-WR-CALNAME:Livros e estudos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:apresentacao-do-livro-do-problema-do-galego-ao-galego-como-p-ff73a-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:Apresentação do livro Do problema do Galego ao Galego como proble
- ma na Faculdade de Educação da UTP
-LOCATION:Escola Superior de Educação do Porto\, Porto
-DESCRIPTION:https://www.ese.ipp.pt
-URL:https://lykeion.pt/e/apresentacao-do-livro-do-problema-do-galego-ao-gal
- ego-como-p-ff73a.html
-END:VEVENT
-BEGIN:VEVENT
 UID:apresentacao-do-livro-imaginacao-livro-2-utopias-ciencias-e-906b1-2026-
  11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Apresentação do livro “Imaginação – Livro 2\, Utopias\, ci
- ências e vida quotidiana”
-LOCATION:Fonte de Letras\, Évora
+ ências e vida quotidiana
+LOCATION:
 DESCRIPTION:
 URL:https://lykeion.pt/e/apresentacao-do-livro-imaginacao-livro-2-utopias-c
  iencias-e-906b1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-verde-0d7a0-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Apresentação do Livro Verde
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -42,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-a-seguranca-e-saude-no-trabalho-um-enq-aa81a-2026
  -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T173000
 SUMMARY:Apresentação do livro «A Segurança e Saúde no Trabalho: um Enq
  uadramento Jurídico-Laboral dos Riscos Psicossociais»
@@ -56,19 +44,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-para-alem-da-regionalizacao-b5a52-2026-11-13@lage
  nda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Apresentação do Livro “Para Além da Regionalização
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24217
 URL:https://lykeion.pt/e/apresentacao-do-livro-para-alem-da-regionalizacao-
  b5a52.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lancamento-do-livro-de-poesia-navegacoes-pelo-tempo-de-ruben-5f864-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T150000
+SUMMARY:Lançamento do Livro de Poesia «Navegações pelo Tempo»\, de Rú
+ ben Marques
+LOCATION:Alcanena\, Alcanena
+DESCRIPTION:https://cm-alcanena.pt/index.php/comunicacao/agenda/eventos-lit
+ erarios/livro-ruben-marques
+URL:https://lykeion.pt/e/lancamento-do-livro-de-poesia-navegacoes-pelo-temp
+ o-de-ruben-5f864.html
+END:VEVENT
+BEGIN:VEVENT
 UID:lancamento-do-livro-projetos-inquietacoes-e-afetos-em-coimbr-7b54a-2026
  -11-14@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T113000
 SUMMARY:Lançamento do livro «Projetos Inquietações e Afetos»\, em Coim
  bra
@@ -80,7 +80,7 @@ URL:https://lykeion.pt/e/lancamento-do-livro-projetos-inquietacoes-e-afetos
 END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-59732-2026-11-16@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Lançamento do livro
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-manual-de-arqueologia-de-la-arquitectu-a26f7-2026
  -11-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T190000
 SUMMARY:Apresentação do livro «Manual de Arqueología de la Arquitectura
  »
@@ -102,9 +102,22 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-manual-de-arqueologia-de-la-
  arquitectu-a26f7.html
 END:VEVENT
 BEGIN:VEVENT
+UID:future-game-apresentacao-do-livro-behavioral-objects-behavio-009f7-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T160000
+SUMMARY:Future Game | Apresentação do livro 'Behavioral Objects\, Behavio
+ ral Matter'
+LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
+ 49868
+URL:https://lykeion.pt/e/future-game-apresentacao-do-livro-behavioral-objec
+ ts-behavio-009f7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:clube-de-leitura-lancamento-do-livro-o-well-being-e-super-se-84555-2026
  -11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T130000
 SUMMARY:Clube de Leitura | Lançamento do Livro “o Well-being É ‘super
  ’ Sexy” de Daniela Lima
@@ -117,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-4c4d0-2026
  -11-19@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T183000
 SUMMARY:Lançamento do livro «A Morte Medicamente Assistida à Luz da Cons
  tituição»\, de António Manuel Abrantes
@@ -130,7 +143,7 @@ URL:https://lykeion.pt/e/lancamento-do-livro-a-morte-medicamente-assistida-
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-maldito-minerio-d7858-2026-11-20@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T213000
 SUMMARY:Apresentação do livro “Maldito Minério
 LOCATION:Centro Cultural Regional de Vila Real\, Vila Real
@@ -141,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:culturelab-lancamento-21-11-2026-lancamento-do-livro-novo-fa-b351d-2026
  -11-21@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T180000
 SUMMARY:CultureLab • Lançamento 21/11/2026 Lançamento do livro (Novo) F
  ascismo\, de Nidesh... Com Nidesh Lawtoo\, Maria João Mayer Branco\, Tere
@@ -155,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-de-livro-de-caxias-a-penamacor-uma-passado-presen-d8ff8-2026
  -11-21@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T150000
 SUMMARY:Lançamento de Livro: De Caxias a Penamacor: Uma Passado Presente
 LOCATION:Sala Polivalente\, Biblioteca Municipal de Sesimbra\, Sesimbra
@@ -167,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eselx-recebe-apresentacao-do-livro-rimas-sortidas-toca-a-jog-b4389-2026
  -11-23@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T173000
 SUMMARY:ESELx recebe apresentação do livro «Rimas Sortidas\, toca a joga
  r»
@@ -178,22 +191,9 @@ URL:https://lykeion.pt/e/eselx-recebe-apresentacao-do-livro-rimas-sortidas-
  toca-a-jog-b4389.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lancamento-do-livro-sudoeste-alentejano-e-costa-vicentina-na-9249d-2026
- -11-23@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Lançamento do livro | 'Sudoeste Alentejano e Costa Vicentina. «N
- ão fazer»\, arquitetura para preservar a biodiversidade'
-LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
- 6225
-URL:https://lykeion.pt/e/lancamento-do-livro-sudoeste-alentejano-e-costa-vi
- centina-na-9249d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lancamento-do-livro-direito-constitucional-de-mocambique-76dc8-2026-11-
  23@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T120000
 SUMMARY:Lançamento do livro «Direito Constitucional de Moçambique»
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -205,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-pensar-o-futuro-portugal-e-o-mundo-em-85c16-2026-
  11-25@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Apresentação do livro “Pensar o Futuro: Portugal e o mundo em p
  rospetiva estratégica
@@ -218,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-de-apresentacao-de-resultados-do-projeto-ca7e1-2026-11-25@lagend
  a.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Sessão de Apresentação de Resultados do Projeto
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -229,7 +229,7 @@ URL:https://lykeion.pt/e/sessao-de-apresentacao-de-resultados-do-projeto-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-trabalho-s-work-s-88d96-2026-11-26@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Apresentação do livro “Trabalho s / Work s"
 LOCATION:Universidade Católica Portuguesa\, Porto
@@ -239,7 +239,7 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-trabalho-s-work-s-88d96.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-quero-ser-grande-ja-b8d4b-2026-11-28@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Apresentação do livro «Quero Ser Grande Já!»
 LOCATION:Livraria Café Mirabolante\, Praça Sousa Prado\, Odemira\, Odemir
@@ -250,9 +250,22 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-quero-ser-grande-ja-b8d4b.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:apresentacao-do-livro-urbanismo-agora-manual-para-urbanistas-3d11d-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T183000
+SUMMARY:Apresentação do livro | 'Urbanismo\, Agora! Manual para urbanista
+ s inquietos'\, de Jorge Carvalho
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/noticias_geral.ver_noticia?p_nr=9638
+ 6
+URL:https://lykeion.pt/e/apresentacao-do-livro-urbanismo-agora-manual-para-
+ urbanistas-3d11d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sessao-de-apresentacao-do-relatorio-da-negociacao-coletiva-d-cc72e-2026
  -12-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T153000
 SUMMARY:Sessão de apresentação do Relatório da Negociação Coletiva de
   2025
@@ -264,7 +277,7 @@ URL:https://lykeion.pt/e/sessao-de-apresentacao-do-relatorio-da-negociacao-
 END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-memorial-de-ministros-f5acc-2026-12-18@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T120000
 SUMMARY:Lançamento do livro 'Memorial de Ministros'
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -276,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:convite-para-o-lancamento-do-livro-o-contrato-de-volume-e-o-631c1-2027-
  01-27@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20270127T120000
 SUMMARY:Convite para o lançamento do livro 'O contrato de Volume e o Trans
  porte Marítimo de Mercadorias – Dos granéis aos contentores\, do ‘tr
@@ -291,7 +304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-sobre-a-eloquencia-em-vernaculo-conviv-57e8b-2027
  -02-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20270212T183000
 SUMMARY:Apresentação do livro “Sobre a Eloquência em vernáculo. Conv
  ívio. Monarquia” de Dante Alighieri
@@ -305,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-a-surdez-e-a-pessoa-com-disfuncao-audi-5f3f9-2027
  -02-25@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20270225T130000
 SUMMARY:Apresentação do livro “A Surdez e a Pessoa com Disfunção Audi
  tiva
@@ -318,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-das-constituicoes-dos-regimes-nacionalis-4ee70-2027
  -03-09@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20270309T120000
 SUMMARY:Lançamento do Livro Das Constituições dos Regimes Nacionalistas 
  do Entre Guerras

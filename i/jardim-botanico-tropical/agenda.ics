@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Jardim Botânico Tropical (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:visita-orientada-com-audiodescricao-exposicao-ilustrare-da1a7-2026-12-1
+ 2@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T150000
+SUMMARY:Visita orientada com audiodescrição - Exposição Ilustrare
+LOCATION:Jardim Botânico Tropical
+DESCRIPTION:https://museus.ulisboa.pt/visita-orientada-com-audiodescricao-e
+ xposicao-ilustrare-9
+URL:https://lykeion.pt/e/visita-orientada-com-audiodescricao-exposicao-ilus
+ trare-da1a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:visita-orientada-em-lingua-gestual-portuguesa-exposicao-ilus-944ae-2026
+ -12-12@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T113000
+SUMMARY:Visita orientada em Língua Gestual Portuguesa - Exposição Ilustr
+ are
+LOCATION:Jardim Botânico Tropical
+DESCRIPTION:https://museus.ulisboa.pt/visita-orientada-em-lingua-gestual-po
+ rtuguesa-exposicao-ilustrare-7
+URL:https://lykeion.pt/e/visita-orientada-em-lingua-gestual-portuguesa-expo
+ sicao-ilus-944ae.html
+END:VEVENT
+END:VCALENDAR

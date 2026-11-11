@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:KIPT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:talento-educacao-e-turismo-9f7eb-2026-11-24@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T153000
+SUMMARY:Talento\, Educação e Turismo
+LOCATION:Associação KIPT Inovação e Turismo Laboratório Colaborativo\,
+  Loulé
+DESCRIPTION:https://kipt.pt/eventos/talento-educacao-e-turismo/
+URL:https://lykeion.pt/e/talento-educacao-e-turismo-9f7eb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hospitality-next-level-summit-29dfd-2026-12-02@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T090000
+SUMMARY:Hospitality Next Level Summit
+LOCATION:Associação KIPT Inovação e Turismo Laboratório Colaborativo\,
+  Loulé
+DESCRIPTION:https://kipt.pt/eventos/hospitality-next-level-summit/
+URL:https://lykeion.pt/e/hospitality-next-level-summit-29dfd.html
+END:VEVENT
+END:VCALENDAR

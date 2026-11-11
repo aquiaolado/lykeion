@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:eficiencia-energetica-na-pratica-a0aef-2026-11-13@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Eficiência Energética na Prática
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -17,7 +17,7 @@ URL:https://lykeion.pt/e/eficiencia-energetica-na-pratica-a0aef.html
 END:VEVENT
 BEGIN:VEVENT
 UID:naturia-secreta-6b034-2026-11-21@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T183000
 SUMMARY:Naturia Secreta
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -27,7 +27,7 @@ URL:https://lykeion.pt/e/naturia-secreta-6b034.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amicos-silvestris-o-que-sao-5c2bb-2026-11-28@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T183000
 SUMMARY:Amicos Silvestris - o que são
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -37,26 +37,12 @@ URL:https://lykeion.pt/e/amicos-silvestris-o-que-sao-5c2bb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:passeio-micologico-de-outono-0da2b-2026-11-28@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T093000
 SUMMARY:Passeio Micológico de Outono
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
 DESCRIPTION:https://www.ccvfloresta.com/actividades/saidas-de-campo/624-pas
  seio-micologico-de-outono-2026
 URL:https://lykeion.pt/e/passeio-micologico-de-outono-0da2b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:pharmastar-plantas-na-industria-farmaceutica-dfd09-2027-02-20@lagenda.p
- t
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20270220T183000
-SUMMARY:PharmaStar - Plantas na Indústria Farmacêutica
-LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
-DESCRIPTION:https://www.ccvfloresta.com/actividades/cafes-de-ciencia/18-caf
- es-de-ciencia-arquivo/611-pharmastar-valorizacao-sustentavel-das-plantas-e
- ndogenas-do-parque-natural-da-serra-da-estrela-para-aplicacoes-na-industri
- a-farmaceutica
-URL:https://lykeion.pt/e/pharmastar-plantas-na-industria-farmaceutica-dfd09
- .html
 END:VEVENT
 END:VCALENDAR

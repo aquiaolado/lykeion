@@ -6,17 +6,8 @@ X-WR-CALNAME:Biblioteca Francisco Pereira de Moura (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:jornadas-de-outono-de-maeg-86b64-2026-11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T144500
-SUMMARY:Jornadas de Outono de MAEG
-LOCATION:Biblioteca Francisco Pereira de Moura
-DESCRIPTION:https://www.iseg.ulisboa.pt/event/jornadas-de-outono-de-maeg-7/
-URL:https://lykeion.pt/e/jornadas-de-outono-de-maeg-86b64.html
-END:VEVENT
-BEGIN:VEVENT
 UID:apresentacao-do-livro-verde-0d7a0-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Apresentação do Livro Verde
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -26,7 +17,7 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-verde-0d7a0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:research-seminar-fb22c-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T113000
 SUMMARY:Research seminar Financial decision making under time and state dep
  endent preferences
@@ -37,7 +28,7 @@ URL:https://lykeion.pt/e/research-seminar-fb22c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-55e40-2026-11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Webinar retomar o controlo do sistema de comunicação científica 
  desafios e oportunidades
@@ -47,18 +38,9 @@ DESCRIPTION:https://www.iseg.ulisboa.pt/event/webinar-retomar-o-controlo-do
 URL:https://lykeion.pt/e/webinar-55e40.html
 END:VEVENT
 BEGIN:VEVENT
-UID:phd-open-days-2026-99d70-2026-11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T170000
-SUMMARY:PhD Open Days 2026
-LOCATION:Biblioteca Francisco Pereira de Moura
-DESCRIPTION:https://www.iseg.ulisboa.pt/event/phd-open-days-2026/
-URL:https://lykeion.pt/e/phd-open-days-2026-99d70.html
-END:VEVENT
-BEGIN:VEVENT
 UID:research-seminars-in-mathematics-applied-to-economics-and-ma-0bd01-2026
  -11-26@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T113000
 SUMMARY:Research Seminars in Mathematics Applied to Economics and Managemen
  t
@@ -69,8 +51,18 @@ URL:https://lykeion.pt/e/research-seminars-in-mathematics-applied-to-econom
  ics-and-ma-0bd01.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sessao-solene-do-ano-letivo-2026-2027-10375-2026-11-27@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Sessão Solene do Ano Letivo 2026-2027
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/sessao-solene-do-ano-letivo-2
+ 026-2027/
+URL:https://lykeion.pt/e/sessao-solene-do-ano-letivo-2026-2027-10375.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-doutoramento-em-economia-d7a90-2026-12-09@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T140000
 SUMMARY:Prova de Doutoramento em Economia
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -81,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-em-matematica-aplicada-a-economia-e-a-ge-3851c-2026
  -12-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T170000
 SUMMARY:Provas de Agregação em Matemática Aplicada à Economia e à Gest
  ão

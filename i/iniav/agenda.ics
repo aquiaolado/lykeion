@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:workshop-internacional-sobre-gestao-de-dados-de-microrganism-34992-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
+ -11-11@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261111T090000
 SUMMARY:Workshop internacional sobre gestão de dados de microrganismos pat
  ogénicos
 LOCATION:Instituto Nacional de Investigação Agrária e Veterinária

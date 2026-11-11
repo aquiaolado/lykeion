@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:coloquio-kreativeu-patrimonio-e-transformacoes-sociais-6f21c-2026-11-11
  @lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:Colóquio KreativEU | Património e Transformações Sociais
 LOCATION:Instituto Politécnico de Tomar\, Tomar
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-como-utilizo-a-ia-para-pensar-criar-e-melhorar-as-mi-1f63a-2026
  -11-11@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261111T150000
 SUMMARY:Webinar | Como utilizo a IA para pensar\, criar e melhorar as minha
  s aulas?
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-relacoes-entre-artes-e-patrimonio-na-pratica-art-b320c-2026
  -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Conferência | Relações entre Artes e Património: na prática ar
  tística de Fernanda Fragateiro e no âmbito do Projeto Passa ao Futuro
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dia-mundial-da-qualidade-assinalado-na-utpomar-com-debate-so-9deb8-2026
  -11-12@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T093000
 SUMMARY:Dia Mundial da Qualidade assinalado na UTPomar com debate sobre o d
  esempenho no ensino
@@ -57,5 +57,19 @@ DESCRIPTION:http://portal2.ipt.pt/pt/noticias/conferencias/dia_mundial_da_q
  6_10_29
 URL:https://lykeion.pt/e/dia-mundial-da-qualidade-assinalado-na-utpomar-com
  -debate-so-9deb8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-os-sistemas-de-informacao-geografica-da-dgrm-e-o-o-ec76c-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T143000
+SUMMARY:Seminário | Os Sistemas de Informação Geográfica da DGRM e o Or
+ denamento do Espaço Marítimo Nacional
+LOCATION:Instituto Politécnico de Tomar\, Tomar
+DESCRIPTION:http://portal2.ipt.pt/pt/noticias/conferencias/seminario_os_sis
+ temas_de_informacao_geografica_da_dgrm_e_o_ordenamento_do_espaco_maritimo_
+ nacional_2026_11_10
+URL:https://lykeion.pt/e/seminario-os-sistemas-de-informacao-geografica-da-
+ dgrm-e-o-o-ec76c.html
 END:VEVENT
 END:VCALENDAR

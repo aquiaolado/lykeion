@@ -6,34 +6,8 @@ X-WR-CALNAME:Ordem dos Engenheiros (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:3o-congresso-da-appc-com-o-apoio-institucional-da-ordem-dos-50123-2026-
- 11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-SUMMARY:3o Congresso da APPC com o apoio institucional da Ordem dos Engenhe
- iros
-LOCATION:Ordem dos Engenheiros
-DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/noticias/detalhes.php?id=
- 7548
-URL:https://lykeion.pt/e/3o-congresso-da-appc-com-o-apoio-institucional-da-
- ordem-dos-50123.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conferencia-tempestades-mitigacao-e-prevencao-de-incendios-f-87d46-2026
- -11-10@lagenda.pt
-DTSTAMP:20261110T000000Z
-DTSTART;TZID=Europe/Lisbon:20261110T090000
-SUMMARY:Conferência | Tempestades - Mitigação e Prevenção de Incêndio
- s Florestais
-LOCATION:Ordem dos Engenheiros
-DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/conferencia-tempe
- stades-mitigacao-e-prevencao-de-incendios-florestais/
-URL:https://lykeion.pt/e/conferencia-tempestades-mitigacao-e-prevencao-de-i
- ncendios-f-87d46.html
-END:VEVENT
-BEGIN:VEVENT
 UID:palestra-f1043-2026-11-17@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Palestra aplicação dos padrões ambientais e sociais do pnud a pr
  ojetos
@@ -43,9 +17,19 @@ DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/palestra-aplicaca
 URL:https://lykeion.pt/e/palestra-f1043.html
 END:VEVENT
 BEGIN:VEVENT
+UID:forum-rjue-ccp-o-que-muda-43aec-2026-11-23@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T090000
+SUMMARY:Fórum RJUE & CCP – O que muda?
+LOCATION:Ordem dos Engenheiros
+DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/forum-rjue-ccp-o-
+ que-muda/
+URL:https://lykeion.pt/e/forum-rjue-ccp-o-que-muda-43aec.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-engenharia-na-defesa-e-soberania-nacional-b5f87-2026-11-24@
  lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Conferência Engenharia na Defesa e Soberania Nacional
 LOCATION:Ordem dos Engenheiros
@@ -56,7 +40,7 @@ URL:https://lykeion.pt/e/conferencia-engenharia-na-defesa-e-soberania-nacio
 END:VEVENT
 BEGIN:VEVENT
 UID:jantar-debate-thierry-ligonniere-4ddea-2026-11-24@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Jantar - Debate Thierry Ligonnière
 LOCATION:Ordem dos Engenheiros
@@ -67,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:competencias-para-o-futuro-workshop-literacia-financeira-bebb3-2026-11-
  26@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T090000
 SUMMARY:Competências para o Futuro: Workshop Literacia Financeira
 LOCATION:Ordem dos Engenheiros
@@ -79,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-os-desafios-da-mobilidade-urbana-na-engenharia-09960-2026-1
  1-26@lagenda.pt
-DTSTAMP:20261110T000000Z
+DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Conferência - Os Desafios da Mobilidade Urbana na Engenharia
 LOCATION:Ordem dos Engenheiros
@@ -87,5 +71,15 @@ DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/conferencia-os-de
  safios-da-mobilidade-urbana-na-engenharia/
 URL:https://lykeion.pt/e/conferencia-os-desafios-da-mobilidade-urbana-na-en
  genharia-09960.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-a1153-2026-11-26@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:Webinar ppwr o que muda e como nos devemos preparar
+LOCATION:Ordem dos Engenheiros
+DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/webinar-ppwr-o-qu
+ e-muda-e-como-nos-devemos-preparar/
+URL:https://lykeion.pt/e/webinar-a1153.html
 END:VEVENT
 END:VCALENDAR

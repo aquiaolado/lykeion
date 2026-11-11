@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:AESE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:debate-do-orcamento-do-estado-2027-0aa3b-2026-11-12@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T143000
+SUMMARY:Debate do Orçamento do Estado 2027
+LOCATION:AESE Business School
+DESCRIPTION:https://www.aese.pt/agenda/debate-do-orcamento-do-estado-2027/
+URL:https://lykeion.pt/e/debate-do-orcamento-do-estado-2027-0aa3b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:open-day-pepsico-ai-how-to-win-83bec-2026-11-24@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T174500
+SUMMARY:Open Day “PepsiCo & AI: How to Win?
+LOCATION:AESE Business School
+DESCRIPTION:https://www.aese.pt/agenda/open-house-pepsico-and-ai-where-to-p
+ lay-how-to-win/
+URL:https://lykeion.pt/e/open-day-pepsico-ai-how-to-win-83bec.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aulas-abertas-do-pgl-4cdec-2026-12-18@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T090000
+SUMMARY:Aulas Abertas do PGL
+LOCATION:AESE Business School
+DESCRIPTION:https://www.aese.pt/agenda/aulas-abertas-do-pgl/
+URL:https://lykeion.pt/e/aulas-abertas-do-pgl-4cdec.html
+END:VEVENT
+END:VCALENDAR

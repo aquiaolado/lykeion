@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Bioengenharia (DBE) (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:seminarios-do-dbe-30f1c-2026-11-16@lagenda.pt
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Seminários do DBE
+LOCATION:Departamento de Bioengenharia (DBE)
+DESCRIPTION:https://dbe.tecnico.ulisboa.pt/eventos/conferencias/dbe-lunch-s
+ eminar-30
+URL:https://lykeion.pt/e/seminarios-do-dbe-30f1c.html
+END:VEVENT
+END:VCALENDAR
