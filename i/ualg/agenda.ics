@@ -6,73 +6,18 @@ X-WR-CALNAME:UAlg (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-peace-of-mind-21e26-2026-11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+UID:exposicao-peace-of-mind-21e26-2026-11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Exposição «Peace of Mind»
 LOCATION:Universidade do Algarve\, Faro
 DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
 URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
 END:VEVENT
 BEGIN:VEVENT
-UID:jornadas-tecnicas-de-eletrotecnia-2e659-2026-11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T153000
-SUMMARY:Jornadas Técnicas de Eletrotecnia
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://ise.ualg.pt/jornadas-tecnicas-de-eletrotecnia-3
-URL:https://lykeion.pt/e/jornadas-tecnicas-de-eletrotecnia-2e659.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-biologia-marinha-f8114-2026-11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Provas de Mestrado em Biologia Marinha
-LOCATION:Centro de Investigação em Biomedicina\, Faro
-DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-biologia-marinha-317
-URL:https://lykeion.pt/e/provas-de-mestrado-em-biologia-marinha-f8114.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-ensino-do-1-ciclo-do-e-b-e-de-portugue-028a8-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Provas de Mestrado em Ensino do 1.ciclo do E.B. e de Português e H
- ist.e Geog.de Portugal
-LOCATION:Centro de Investigação em Biomedicina\, Faro
-DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-ensino-do-1ciclo-do-e
- b-e-de-portugues-e-histe-geogde-portugal-8
-URL:https://lykeion.pt/e/provas-de-mestrado-em-ensino-do-1-ciclo-do-e-b-e-d
- e-portugue-028a8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-psicologia-clinica-e-da-saude-72847-2026-11-11@la
- genda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Provas de Mestrado em Psicologia Clínica e da Saúde
-LOCATION:Centro de Investigação em Biomedicina\, Faro
-DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-psicologia-clinica-e-
- da-saude-311
-URL:https://lykeion.pt/e/provas-de-mestrado-em-psicologia-clinica-e-da-saud
- e-72847.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-psicologia-da-educacao-22f65-2026-11-11@lagenda.p
- t
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Provas de Mestrado em Psicologia da Educação
-LOCATION:Centro de Investigação em Biomedicina\, Faro
-DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-psicologia-da-educaca
- o-137
-URL:https://lykeion.pt/e/provas-de-mestrado-em-psicologia-da-educacao-22f65
- .html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-integrado-em-ciencias-farmaceuticas-e30cf-2026-11-12
  @lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T160000
 SUMMARY:Provas de Mestrado Integrado em Ciências Farmacêuticas
 LOCATION:Universidade do Algarve\, Faro
@@ -84,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-aquacultura-e-pescas-ramo-aquacultura-05a76-2026-
  11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T170000
 SUMMARY:Provas de Mestrado em Aquacultura e Pescas - Ramo Aquacultura
 LOCATION:Universidade do Algarve\, Faro
@@ -96,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-arquitetura-paisagista-ab367-2026-11-12@lagenda.p
  t
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T110000
 SUMMARY:Provas de Mestrado em Arquitetura Paisagista
 LOCATION:Universidade do Algarve\, Faro
@@ -107,7 +52,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-arquitetura-paisagista-ab367
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-biologia-marinha-9a45e-2026-11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T110000
 SUMMARY:Provas de Mestrado em Biologia Marinha
 LOCATION:Universidade do Algarve\, Faro
@@ -117,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-biologia-molecular-e-microbiana-99580-2026-11-12@
  lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T180000
 SUMMARY:Provas de Mestrado em Biologia Molecular e Microbiana
 LOCATION:Universidade do Algarve\, Faro
@@ -129,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sara-vitorino-fernandez-investigadora-do-ciac-participa-na-c-8619f-2026
  -11-13@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Sara Vitorino Fernandez\, investigadora do CIAC\, participa na conf
  erência “No Nations: Punks without Borders
@@ -142,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:artefacto-2026-conferencia-internacional-recebe-submissoes-d-eb096-2026
  -11-18@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Artefacto 2026: conferência internacional recebe submissões de ar
  tigos e obras artísticas
@@ -154,7 +99,7 @@ URL:https://lykeion.pt/e/artefacto-2026-conferencia-internacional-recebe-su
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-processos-de-criacao-2026-813f3-2026-11-18@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Conferência Processos de Criação 2026
 LOCATION:Centro de Investigação em Artes e Comunicação\, Faro
@@ -163,7 +108,7 @@ URL:https://lykeion.pt/e/conferencia-processos-de-criacao-2026-813f3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-encontro-de-tecnicos-de-secretariado-bf22b-2026-11-19@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV Encontro de Técnicos de Secretariado
 LOCATION:Universidade do Algarve\, Faro
@@ -173,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iv-coloquio-cinemas-do-mediterraneo-o-cinema-da-europa-medit-e571e-2027
  -01-20@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20270120
 SUMMARY:IV Colóquio Cinemas do Mediterrâneo – O Cinema da Europa Medite
  rrânea. Novas perspectivas para o século XXI
@@ -185,7 +130,7 @@ URL:https://lykeion.pt/e/iv-coloquio-cinemas-do-mediterraneo-o-cinema-da-eu
 END:VEVENT
 BEGIN:VEVENT
 UID:7-o-seminario-de-inverno-do-ise-ualg-9f069-2027-01-23@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20270123T190000
 SUMMARY:7.º Seminário de Inverno do ISE-UALG
 LOCATION:Universidade do Algarve\, Faro

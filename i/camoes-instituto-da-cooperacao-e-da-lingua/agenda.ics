@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:bolonha-e-milao-exposicao-revolucoes-guine-bissau-angola-e-p-6fb40-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+ -11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Bolonha e Milão: Exposição “Revoluções. Guiné-Bissau\, Ango
  la e Portugal (1969-1974)
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -21,9 +21,9 @@ URL:https://lykeion.pt/e/bolonha-e-milao-exposicao-revolucoes-guine-bissau-
 END:VEVENT
 BEGIN:VEVENT
 UID:dublin-portugal-na-exposicao-vision-fotografia-contemporanea-3ef75-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+ -11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Dublin: Portugal na Exposição “VISION” - Fotografia Contempor
  ânea dos Estados-Membros da União Europeia
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -35,9 +35,9 @@ URL:https://lykeion.pt/e/dublin-portugal-na-exposicao-vision-fotografia-con
 END:VEVENT
 BEGIN:VEVENT
 UID:haia-exposicao-rui-chafes-x-alberto-giacometti-gris-vide-cri-bd362-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+ -11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Haia: Exposição “Rui Chafes X Alberto Giacometti. Gris\, Vide\,
   Cris III” no Museu Beelden aan Zee
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -48,9 +48,19 @@ URL:https://lykeion.pt/e/haia-exposicao-rui-chafes-x-alberto-giacometti-gri
  s-vide-cri-bd362.html
 END:VEVENT
 BEGIN:VEVENT
-UID:macau-doclisboa-25-extensao-a-macau-0f0e2-2026-11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+UID:lyon-glult-de-rui-paixao-8221c-2026-11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Lyon: GLÜLT de Rui Paixão
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/lyon-gluelt-de-rui-paixao
+URL:https://lykeion.pt/e/lyon-glult-de-rui-paixao-8221c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:macau-doclisboa-25-extensao-a-macau-0f0e2-2026-11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Macau: DOClisboa'25 - Extensão a Macau
 LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
@@ -59,9 +69,9 @@ URL:https://lykeion.pt/e/macau-doclisboa-25-extensao-a-macau-0f0e2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:madrid-exposicao-camoes-vida-obra-e-permanencia-na-cultura-h-0f0e2-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+ -11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Madrid: Exposição: “Camões: vida\, obra e permanência na cult
  ura hispânica”\, na Biblioteca Nacional de Espanha
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -72,9 +82,9 @@ URL:https://lykeion.pt/e/madrid-exposicao-camoes-vida-obra-e-permanencia-na
  -cultura-h-0f0e2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:novi-sad-ciclo-de-cinema-portugues-51e99-2026-11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+UID:novi-sad-ciclo-de-cinema-portugues-51e99-2026-11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Novi Sad: Ciclo de Cinema Português
 LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
@@ -82,9 +92,21 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
 URL:https://lykeion.pt/e/novi-sad-ciclo-de-cinema-portugues-51e99.html
 END:VEVENT
 BEGIN:VEVENT
-UID:paris-exposicao-au-milieu-9207b-2026-11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+UID:paris-e-clermont-ferrand-carrefours-de-la-lusophonie-9207b-2026-11-12@l
+ agenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Lisbon:20261112T143000
+SUMMARY:Paris e Clermont-Ferrand: Carrefours de la Lusophonie
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/paris-e-clermont-ferrand-carrefours-de-la-lusophonie
+URL:https://lykeion.pt/e/paris-e-clermont-ferrand-carrefours-de-la-lusophon
+ ie-9207b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:paris-exposicao-au-milieu-9207b-2026-11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Paris: Exposição “AU MILIEU
 LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
@@ -92,9 +114,9 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
 URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seul-exposicao-joao-simoes-video-works-ec164-2026-11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+UID:seul-exposicao-joao-simoes-video-works-ec164-2026-11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Seul: Exposição “João Simões / Video Works
 LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
@@ -102,10 +124,10 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
 URL:https://lykeion.pt/e/seul-exposicao-joao-simoes-video-works-ec164.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sion-exposicao-retrospetiva-julio-pomar-100-anos-ec164-2026-11-11@lagen
+UID:sion-exposicao-retrospetiva-julio-pomar-100-anos-ec164-2026-11-12@lagen
  da.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Sion: Exposição retrospetiva “Júlio Pomar 100 anos
 LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
@@ -114,24 +136,10 @@ URL:https://lykeion.pt/e/sion-exposicao-retrospetiva-julio-pomar-100-anos-e
  c164.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sao-tome-programa-comemorativo-do-centenario-da-morte-de-cam-ec164-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:São Tomé: Programa Comemorativo do Centenário da morte de Camilo
-  Pessanha em São Tomé e Príncipe
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/sao-tome-programa-comemorativo-do-centenario-da-morte-de
- -camilo-pessanha-em-sao-tome-e-principe
-URL:https://lykeion.pt/e/sao-tome-programa-comemorativo-do-centenario-da-mo
- rte-de-cam-ec164.html
-END:VEVENT
-BEGIN:VEVENT
 UID:trento-seminarios-de-joao-reis-e-ana-paula-tavares-na-univer-dc37f-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+ -11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Trento: Seminários de João Reis e Ana Paula Tavares na Universida
  de de Trento
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -143,9 +151,9 @@ URL:https://lykeion.pt/e/trento-seminarios-de-joao-reis-e-ana-paula-tavares
 END:VEVENT
 BEGIN:VEVENT
 UID:xangai-participacao-portuguesa-na-exposicao-between-elsewher-4b65b-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
+ -11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
 SUMMARY:Xangai: Participação portuguesa na exposição “Between Elsewhe
  res: Memory and Identity Across Cultures
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -156,31 +164,9 @@ URL:https://lykeion.pt/e/xangai-participacao-portuguesa-na-exposicao-betwee
  n-elsewher-4b65b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lyon-glult-de-rui-paixao-8221c-2026-11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Lyon: GLÜLT de Rui Paixão
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/lyon-gluelt-de-rui-paixao
-URL:https://lykeion.pt/e/lyon-glult-de-rui-paixao-8221c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:paris-e-clermont-ferrand-carrefours-de-la-lusophonie-9207b-2026-11-12@l
- agenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T143000
-SUMMARY:Paris e Clermont-Ferrand: Carrefours de la Lusophonie
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/paris-e-clermont-ferrand-carrefours-de-la-lusophonie
-URL:https://lykeion.pt/e/paris-e-clermont-ferrand-carrefours-de-la-lusophon
- ie-9207b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:pisa-coloquio-internacional-camoes-e-as-artes-visuais-de-fer-9207b-2026
  -11-13@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Pisa: Colóquio Internacional “Camões e as artes visuais. De Fer
  não Gomes a Júlio Pomar
@@ -194,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bruxelas-ciclo-de-conferencias-regards-croises-sur-la-langue-6fb40-2026
  -11-16@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T150000
 SUMMARY:Bruxelas: Ciclo de conferências Regards croisés sur la langue\, l
  a littérature et la culture portugaises
@@ -208,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:macau-ipor-realiza-o-xi-encontro-de-pontos-de-rede-de-ensino-0f0e2-2026
  -11-20@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Macau: IPOR realiza o XI Encontro de Pontos de Rede de Ensino de Po
  rtuguês Língua Estrangeira (PLE) na Ásia

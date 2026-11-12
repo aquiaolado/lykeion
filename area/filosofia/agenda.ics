@@ -6,69 +6,9 @@ X-WR-CALNAME:Filosofia e Ética (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:as-ciencias-da-etica-e-da-filosofia-politica-65375-2026-11-11@lagenda.p
- t
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:As Ciências da Ética e da Filosofia Política
-LOCATION:Departamento de Antropologia
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/as-ciencias-da-etica-e-da-filos
- ofia-politica-2/
-URL:https://lykeion.pt/e/as-ciencias-da-etica-e-da-filosofia-politica-65375
- .html
-END:VEVENT
-BEGIN:VEVENT
-UID:ciicesi-workshop-etica-integridade-e-ia-na-investigacao-a3c30-2026-11-1
- 1@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;TZID=Europe/Lisbon:20261111T190000
-SUMMARY:CIICESI Workshop | Ética\, Integridade e IA na investigação
-LOCATION:Escola Superior de Tecnologia e Gestão\, Felgueiras
-DESCRIPTION:https://www.estg.ipp.pt/noticias/ciicesi-workshop-etica-integri
- dade-e-ia-na-investigacao-1
-URL:https://lykeion.pt/e/ciicesi-workshop-etica-integridade-e-ia-na-investi
- gacao-a3c30.html
-END:VEVENT
-BEGIN:VEVENT
-UID:mes-da-filosofia-celebrado-no-requisite-e-leia-da-biblioteca-a3ddc-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Mês da Filosofia celebrado no Requisite e Leia da Biblioteca Centr
- al
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
-DESCRIPTION:https://www.ubi.pt/Evento/24181
-URL:https://lykeion.pt/e/mes-da-filosofia-celebrado-no-requisite-e-leia-da-
- biblioteca-a3ddc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-gut-brain-3-destructive-desires-and-other-destinie-75194-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Seminário: Gut_Brain 3: Destructive desires and other destinies...
-LOCATION:Instituto de Filosofia da Nova
-DESCRIPTION:http://ifilnova.pt/eventos/gut_brain-3/
-URL:https://lykeion.pt/e/seminario-gut-brain-3-destructive-desires-and-othe
- r-destinie-75194.html
-END:VEVENT
-BEGIN:VEVENT
-UID:21-10-2026-20-11-2026-exposicao-cadernos-de-receitas-de-fami-0ad42-2026
- -11-11@lagenda.pt
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:[Exposição] Cadernos de Receitas de Família — Grandes Obras da
-  Literatura Culinária
-LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
-DESCRIPTION:https://www.uc.pt/cech/agenda/cadernos-de-receitas-de-familia/
-URL:https://lykeion.pt/e/21-10-2026-20-11-2026-exposicao-cadernos-de-receit
- as-de-fami-0ad42.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-studying-the-terrorist-attack-of-march-15-2019-n-6e002-2026
  -11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T180000
 SUMMARY:Aula Aberta «Studying the Terrorist Attack of March 15\, 2019: Not
  es from Two Qualitative Studies on Community Responses\, and Rise of Hatef
@@ -81,7 +21,7 @@ URL:https://lykeion.pt/e/aula-aberta-studying-the-terrorist-attack-of-march
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-bioetica-da-fmup-5586d-2026-11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T160000
 SUMMARY:Ciclo de Cinema & Bioética da FMUP
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -91,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eplab-grupo-de-leitura-12-11-2026-grupo-de-leitura-as-cienci-92739-2026
  -11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T160000
 SUMMARY:EPLab • Grupo de Leitura 12/11/2026 Grupo de leitura As Ciências
   da Ética e da Filosofia Política Metaethical Reductive Naturalism for H
@@ -104,7 +44,7 @@ URL:https://lykeion.pt/e/eplab-grupo-de-leitura-12-11-2026-grupo-de-leitura
 END:VEVENT
 BEGIN:VEVENT
 UID:hphil-seminar-november-12-2026-bcdc7-2026-11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:HPhil Seminar: November 12\, 2026
 LOCATION:Centro de Filosofia
@@ -113,9 +53,22 @@ DESCRIPTION:https://cful.letras.ulisboa.pt/events/hphil-seminar-november-12
 URL:https://lykeion.pt/e/hphil-seminar-november-12-2026-bcdc7.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mes-da-filosofia-celebrado-no-requisite-e-leia-da-biblioteca-a3ddc-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Mês da Filosofia celebrado no Requisite e Leia da Biblioteca Centr
+ al
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24181
+URL:https://lykeion.pt/e/mes-da-filosofia-celebrado-no-requisite-e-leia-da-
+ biblioteca-a3ddc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:nunzio-ali-unbounded-economic-inequality-commonsense-and-phi-fe4e0-2026
  -11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Nunzio Alì // Unbounded Economic Inequality? Commonsense and Philo
  sophical Justifications
@@ -128,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:philosophy-against-fascism-session-9-with-andre-campos-santo-6a274-2026
  -11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Philosophy Against Fascism: Session 9\, with André Campos Santos a
  nd Irene Viparelli
@@ -141,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12-11-2026-aula-aberta-cordas-gregas-voz-romana-a-arte-da-li-549fc-2026
  -11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T200000
 SUMMARY:[Aula Aberta] Cordas gregas\, voz romana: a arte da lírica grega e
   a sua influência em Horácio.
@@ -151,8 +104,20 @@ URL:https://lykeion.pt/e/12-11-2026-aula-aberta-cordas-gregas-voz-romana-a-
  arte-da-li-549fc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:21-10-2026-20-11-2026-exposicao-cadernos-de-receitas-de-fami-0ad42-2026
+ -11-12@lagenda.pt
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:[Exposição] Cadernos de Receitas de Família — Grandes Obras da
+  Literatura Culinária
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/cadernos-de-receitas-de-familia/
+URL:https://lykeion.pt/e/21-10-2026-20-11-2026-exposicao-cadernos-de-receit
+ as-de-fami-0ad42.html
+END:VEVENT
+BEGIN:VEVENT
 UID:etica-e-integridade-no-ensino-superior-24058-2026-11-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261112T140000
 SUMMARY:Ética e Integridade no Ensino Superior
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -163,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-catarina-jacinta-franca-maia-uniao-das-b63de-2026
  -11-13@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T140000
 SUMMARY:Provas de Mestrado de Catarina Jacinta França Maia «União das no
  tícias do mundo real com o ensino da filosofia»
@@ -176,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jose-pedro-da-cunha-alegre-goncalves-o-e8510-2026
  -11-13@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T100000
 SUMMARY:Provas de Mestrado de José Pedro da Cunha Alegre Gonçalves «O Pr
  ompting como Mediação Reflexiva na Aprendizagem Filosófica. Inteligênc
@@ -190,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminar-series-in-analytic-philosophy-2026-27-session-7-9f52e-2026-11-1
  3@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T160000
 SUMMARY:Seminar Series in Analytic Philosophy 2026-27: Session 7
 LOCATION:Centro de Filosofia
@@ -202,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshops-cursos-formacao-newsletter-aps-no-879-58b10-2026-11-16@lagend
  a.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T173000
 SUMMARY:WORKSHOPS – CURSOS – FORMAÇÃO [ Newsletter APS no 879
 LOCATION:Associacao Portuguesa de Sociologia
@@ -212,7 +177,7 @@ URL:https://lykeion.pt/e/workshops-cursos-formacao-newsletter-aps-no-879-58
 END:VEVENT
 BEGIN:VEVENT
 UID:ed-17-11-26-webinar-03613-2026-11-17@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:ED 17.11.26 Webinar
 LOCATION:Universidade de Coimbra\, Coimbra
@@ -222,7 +187,7 @@ URL:https://lykeion.pt/e/ed-17-11-26-webinar-03613.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-bioetica-77027-2026-11-17@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T083000
 SUMMARY:Prova de Mestrado em Bioética
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -233,7 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-francisco-luis-pereira-epistemologia-n-9ed17-2026
  -11-17@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Provas de Mestrado de Francisco Luís Pereira «Epistemologia Narra
  tiva e Inteligência Artificial: Uma Avaliação Ética do Discurso Polít
@@ -247,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-filosofia-e-literatura-workshop-de-filosofia-e-l-b64bd-2026
  -11-17@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T183000
 SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
  ra
@@ -260,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17-11-2026-aula-aberta-ancient-greece-and-rome-for-children-5a2aa-2026-
  11-17@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:[Aula Aberta] Ancient Greece and Rome for children and young people
  : reception\, teaching practices and adaptations
@@ -272,7 +237,7 @@ URL:https://lykeion.pt/e/17-11-2026-aula-aberta-ancient-greece-and-rome-for
 END:VEVENT
 BEGIN:VEVENT
 UID:pontos-nos-iii-0037b-2026-11-18@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Pontos nos iii
 LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
@@ -284,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-epistemologias-feministas-no-sul-global-historia-c03e9-2026
  -11-19@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T150000
 SUMMARY:Aula Aberta: Epistemologias feministas no Sul Global: história dos
   conceitos e linguagens políticas a partir da escrevivência
@@ -296,7 +261,7 @@ URL:https://lykeion.pt/e/aula-aberta-epistemologias-feministas-no-sul-globa
 END:VEVENT
 BEGIN:VEVENT
 UID:hphil-seminar-november-19-2026-3bc7d-2026-11-19@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:HPhil Seminar: November 19\, 2026
 LOCATION:Centro de Filosofia
@@ -307,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arglab-coloquio-20-11-2026-arglab-research-colloquium-jessic-88a02-2026
  -11-20@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:ArgLab • Colóquio 20/11/2026 ArgLab Research Colloquium Jessica 
  Pepp sobre “Can reference be purely... ArgLab Research Colloquium
@@ -319,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:culturelab-palestra-20-11-2026-from-new-fascism-to-mimetic-s-e81a7-2026
  -11-20@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T150000
 SUMMARY:CultureLab • Palestra 20/11/2026 From New Fascism to Mimetic Stud
  ies Nidesh Lawtoo
@@ -330,7 +295,7 @@ URL:https://lykeion.pt/e/culturelab-palestra-20-11-2026-from-new-fascism-to
 END:VEVENT
 BEGIN:VEVENT
 UID:resonance-grupo-de-leitura-seminario-30aa6-2026-11-20@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T120000
 SUMMARY:RESONANCE: Grupo de Leitura & Seminário
 LOCATION:Centro de Estudos em Música
@@ -341,7 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:culturelab-lancamento-21-11-2026-lancamento-do-livro-novo-fa-b351d-2026
  -11-21@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T180000
 SUMMARY:CultureLab • Lançamento 21/11/2026 Lançamento do livro (Novo) F
  ascismo\, de Nidesh... Com Nidesh Lawtoo\, Maria João Mayer Branco\, Tere
@@ -355,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-doctrines-of-recollection-anamnesis-ancient-and-76e5b-2026-
  11-23@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Aula Aberta: Doctrines of Recollection (anamnēsis): Ancient and Mo
  dern
@@ -367,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-francisco-andre-de-brito-leal-o-d-0073f-2026
  -11-23@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T170000
 SUMMARY:Provas de Mestrado de João Francisco André de Brito Leal «O deba
  te formal competitivo como ferramenta didática para o desenvolvimento das
@@ -381,7 +346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-uma-utopia-perene-e-o-seu-fracasso-3b7e3-2026-11-24@lagenda.p
  t
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T103000
 SUMMARY:Seminário: Uma Utopia Perene e o Seu Fracasso:...
 LOCATION:Instituto de Filosofia da Nova
@@ -393,7 +358,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-filosofia-e-literatura-workshop-de-filosofia-e-l-edf9b-2026
  -11-24@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T183000
 SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
  ra
@@ -406,7 +371,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:24-11-2026-aula-aberta-o-que-traduzir-numa-cena-iliadica-f7207-2026-11-
  24@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T130000
 SUMMARY:[Aula Aberta] O que traduzir numa cena iliádica?
 LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
@@ -417,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:24-11-2026-aula-aberta-traduzir-homero-para-lingua-portugues-ecb1a-2026
  -11-24@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:[Aula Aberta] Traduzir Homero para língua portuguesa\, em Portugal
   e no Brasil
@@ -428,7 +393,7 @@ URL:https://lykeion.pt/e/24-11-2026-aula-aberta-traduzir-homero-para-lingua
 END:VEVENT
 BEGIN:VEVENT
 UID:the-film-phil-lisbon-seminars-nolen-gertz-e87e8-2026-11-25@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T160000
 SUMMARY:The Film-Phil Lisbon Seminars: Nolen Gertz
 LOCATION:Instituto de Filosofia da Nova
@@ -440,7 +405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:artes-letra-conferencia-filosofica-e-psicanalitica-a-alma-de-85dd9-2026
  -11-26@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T200000
 SUMMARY:Artes & Letra | Conferência filosófica e psicanalítica “A Alma
  \, Deus\, Espiritualidade\, O que é o Homem?” por Fernand Viégas
@@ -454,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-camila-andreia-afonso-moreno-a-posicao-716d2-2026
  -11-26@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T140000
 SUMMARY:Provas de Mestrado de Camila Andreia Afonso Moreno «A posição or
  iginal de Rawls como dispositivo de problematização: caminhos para o pen
@@ -468,7 +433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-carlos-da-silva-duarte-conceitos-7028e-2026-
  11-26@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T160000
 SUMMARY:Provas de Mestrado de Luís Carlos da Silva Duarte «Conceitos em F
  ilosofia da Arte: Stanley Cavell e a Avaliação Formativa no Processo de 
@@ -482,7 +447,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-a-etica-na-prestacao-de-cuidados-de-saude-67088-2026-11-29@la
  genda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T120000
 SUMMARY:Seminário: A Ética na Prestação de Cuidados de Saúde
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -493,7 +458,7 @@ URL:https://lykeion.pt/e/seminario-a-etica-na-prestacao-de-cuidados-de-saud
 END:VEVENT
 BEGIN:VEVENT
 UID:vi-coloquio-do-atlantico-2af8b-2026-11-29@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:VI Colóquio do Atlântico
 LOCATION:Centro de Estudos Humanísticos\, Ponta Delgada
@@ -503,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-o-ideal-de-felicidade-intelectual-de-aristoteles-14f77-2026-1
  2-03@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T150000
 SUMMARY:Seminário: O ideal de felicidade intelectual de Aristóteles...
 LOCATION:Instituto de Filosofia da Nova
@@ -515,7 +480,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-daniela-sofia-cardoso-moreira-da-rocha-1d4c0-2026
  -12-04@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de mestrado de Daniela Sofia Cardoso Moreira da Rocha — Os
   Superpoderes da filosofia para crianças: o lúdico como trampolim para a
@@ -528,7 +493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-verdade-efetual-e-falsidade-efetual-maquiavel-e-2940a-2026-12
  -04@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T100000
 SUMMARY:Seminário: Verdade Efetual e Falsidade Efetual: Maquiavel e...
 LOCATION:Instituto de Filosofia da Nova
@@ -540,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:04-12-2026-seminario-aberto-quem-responde-pelas-palavras-do-26e89-2026-
  12-04@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T160000
 SUMMARY:[Seminário Aberto] Quem responde pelas palavras do poeta? Tragédi
  a\, citação e autoridade na palavra pública
@@ -552,7 +517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:04-12-2026-seminario-aberto-solon-em-disputa-a-lei-entre-a-c-9bf7b-2026
  -12-04@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T190000
 SUMMARY:[Seminário Aberto] Sólon em disputa: a lei entre a cena trágica 
  e a tribuna ateniense
@@ -564,7 +529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a-sessao-do-ciclo-internacional-de-conferencias-cidade-e-mi-4570b-2026
  -12-10@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:2a sessão do Ciclo Internacional de Conferências “Cidade e Mito
  : do passado ao presente
@@ -577,7 +542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arglab-coloquio-11-12-2026-arglab-research-colloquium-fabriz-d135a-2026
  -12-11@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T110000
 SUMMARY:ArgLab • Colóquio 11/12/2026 ArgLab Research Colloquium Fabrizio
   Macagno sobre “Rhetorical questions and the... ArgLab Research Colloqui
@@ -590,7 +555,7 @@ URL:https://lykeion.pt/e/arglab-coloquio-11-12-2026-arglab-research-colloqu
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-ciclo-etica-e-justica-bcb1d-2027-01-13@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20270113T120000
 SUMMARY:Seminário: Ciclo Ética e Justiça
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
@@ -600,7 +565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-mestre-ian-pimentel-gameiro-doutor-bed5d-2027
  -01-25@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20270125
 SUMMARY:Provas de doutoramento de Mestre Ian Pimentel Gameiro — Doutorame
  nto em Ciências Jurídico-Filosóficas
@@ -611,7 +576,7 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-mestre-ian-pimentel-game
 END:VEVENT
 BEGIN:VEVENT
 UID:a-arte-amorosa-de-aristeneto-10dc3-2027-02-06@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20270206
 SUMMARY:A Arte Amorosa de Aristéneto
 LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
@@ -621,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafes-filosoficos-cartografias-da-indignacao-como-arde-o-pen-d7583-2027
  -02-26@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20270226T150000
 SUMMARY:Cafés Filosóficos «Cartografias da Indignação»: «Como Arde o
   Pensamento? Filosofia e Indignação»
@@ -635,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1a-sessao-do-ciclo-internacional-de-conferencias-cidade-e-mi-ab695-2027
  -03-10@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20270310
 SUMMARY:1a sessão do Ciclo Internacional de Conferências “Cidade e Mito
  : do passado ao presente
@@ -647,7 +612,7 @@ URL:https://lykeion.pt/e/1a-sessao-do-ciclo-internacional-de-conferencias-c
 END:VEVENT
 BEGIN:VEVENT
 UID:praxis-research-forum-2aabc-2027-03-12@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20270312
 SUMMARY:Praxis Research Forum
 LOCATION:Praxis – Centro de Filosofia\, Política e Cultura\, Covilhã
@@ -658,7 +623,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:um-tema-uma-autora-um-texto-can-the-subaltern-speak-485c2-2027-03-17@la
  genda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20270317T183000
 SUMMARY:Um tema\, uma autora\, um texto: “Can the Subaltern Speak?
 LOCATION:Praxis – Centro de Filosofia\, Política e Cultura\, Covilhã
@@ -670,7 +635,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2-o-workshop-internacional-reasoning-and-argumentation-in-le-1fac8-2027
  -03-18@lagenda.pt
-DTSTAMP:20261111T000000Z
+DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Lisbon:20270318T120000
 SUMMARY:2.º Workshop Internacional: Reasoning and Argumentation in Legal D
  iscourse
