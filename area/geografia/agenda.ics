@@ -6,18 +6,17 @@ X-WR-CALNAME:Geografia e Território (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conference-a-new-approach-to-territorial-intelligence-in-the-1522e-2026
+UID:22-10-2026-24-11-2026-exposicao-itinerante-landscape-togethe-275dc-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:CONFERENCE | A New Approach to Territorial Intelligence in the Face
-  of Wildfires
-LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
- icas\, Vila Real
-DESCRIPTION:https://www.citab.utad.pt/events/conference-a-new-approach-to-t
- erritorial-intelligence-in-the-face-of-wildfires
-URL:https://lykeion.pt/e/conference-a-new-approach-to-territorial-intellige
- nce-in-the-1522e.html
+DTSTART;TZID=Europe/Lisbon:20261113T170000
+SUMMARY:Exposição itinerante Landscape Together
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-itinerante-lands
+ cape-together-centro-interior-villages-to-get-territorial-communities-1/
+URL:https://lykeion.pt/e/22-10-2026-24-11-2026-exposicao-itinerante-landsca
+ pe-togethe-275dc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
@@ -32,13 +31,24 @@ URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
  ltramar-76f20.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-a-bordamos-o-nosso-territorio-c3b92-2026-11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Exposição “(A)Bordamos o Nosso Território
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24221
+URL:https://lykeion.pt/e/exposicao-a-bordamos-o-nosso-territorio-c3b92.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -56,22 +66,22 @@ URL:https://lykeion.pt/e/9-a-13-nov-2026-esad-cr-caldas-da-rainha-c1c94.htm
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-b85e2-2026
+UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-47b9c-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T093000
 SUMMARY:Seminário: A mobilidade transnacional dos trabalhadores e das empr
  esas
-LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
-DESCRIPTION:https://porto.ucp.pt/eventos/seminario-mobilidade-transnacional
- -dos-trabalhadores-e-das-empresas
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/seminario-mobilidade-transnaci
+ onal-dos-trabalhadores-e-das-empresas
 URL:https://lykeion.pt/e/seminario-a-mobilidade-transnacional-dos-trabalhad
- ores-e-das-b85e2.html
+ ores-e-das-47b9c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:12-a-13-nov-2026-cineteatro-louletano-loule-c9672-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T130000
 SUMMARY:Vozes da guerra civil espanhola sessão a volta da literatura e da 
  música
 LOCATION:Centro Interdisciplinar de Ciências Sociais
@@ -112,6 +122,19 @@ URL:https://lykeion.pt/e/a-escola-com-autonomia-instituto-da-mobilidade-e-d
  os-transpo-18cd0.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-projeto-nos-propomos-cidadania-territorial-e-ino-1300a-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Aula aberta: Projeto Nós Propomos: cidadania territorial e inovaç
+ ão na educação geográfica
+LOCATION:Centro Interdisciplinar de Estudos Educacionais
+DESCRIPTION:https://www.eselx.upl.pt/eventos/projeto-nos-propomos-cidadania
+ -territorial-e-inovacao-na-educacao-geografica
+URL:https://lykeion.pt/e/aula-aberta-projeto-nos-propomos-cidadania-territo
+ rial-e-ino-1300a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:jornal-arkivo-2233e-2026-11-16@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -139,10 +162,23 @@ UID:6o-seminario-cpcj-covilha-violencia-domestica-quebrar-ciclos-43bc0-2026
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:6o Seminário CPCJ Covilhã "Violência Doméstica: Quebrar Ciclos
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24163
 URL:https://lykeion.pt/e/6o-seminario-cpcj-covilha-violencia-domestica-queb
  rar-ciclos-43bc0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conversas-de-campolide-habitacao-e-democracia-01428-2026-11-17@lagenda.
+ pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Conversas de Campolide: Habitação e Democracia
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/conversas-de-campolide
+ -habitacao-e-democracia/
+URL:https://lykeion.pt/e/conversas-de-campolide-habitacao-e-democracia-0142
+ 8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
@@ -167,6 +203,17 @@ DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/dia-da-ciencia-e-inova
  cao-science-innovation-day/
 URL:https://lykeion.pt/e/26-dia-da-ciencia-e-inovacao-science-innovation-10
  7e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-11-26-apresentacao-do-livro-3ab06-2026-11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T173000
+SUMMARY:Apresentação do livro
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/apresentacao-do-livro-as-i
+ nstalacoes-academicas-de-coimbra/
+URL:https://lykeion.pt/e/18-11-26-apresentacao-do-livro-3ab06.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cos-2025-novos-dados-para-conhecer-e-monitorizar-as-dinamica-6f153-2026
@@ -205,6 +252,20 @@ DESCRIPTION:https://www.igot.ulisboa.pt/eventos/inauguracao-da-exposicao-ur
  banitas-de-rogerio-araujo
 URL:https://lykeion.pt/e/inauguracao-da-exposicao-urbanitas-de-rogerio-arau
  jo-5e548.html
+END:VEVENT
+BEGIN:VEVENT
+UID:luxemburgo-conferencia-de-marco-neves-the-cafe-orange-une-hi-8221c-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T121500
+SUMMARY:Luxemburgo: Conferência de Marco Neves\, Thé\, café\, orange... 
+ Une histoire de l’Europe par les mots
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/luxemburgo-conferencia-de-marco-neves-the-cafe-orange-un
+ e-histoire-de-leurope-par-les-mots
+URL:https://lykeion.pt/e/luxemburgo-conferencia-de-marco-neves-the-cafe-ora
+ nge-une-hi-8221c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-filipa-alexandra-pereira-pinho-potenci-8febf-2026
@@ -249,6 +310,19 @@ URL:https://lykeion.pt/e/seminario-os-sistemas-de-informacao-geografica-da-
  dgrm-e-o-o-ec76c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:workshop-formula-student-engenharia-tecnologia-inovacao-e-mo-a8d31-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T140000
+SUMMARY:Workshop Formula Student: Engenharia\, Tecnologia\, Inovação e Mo
+ bilidade Verde
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/workshop-formula-student-engenha
+ ria-tecnologia-inovacao-mobilidade-verde/
+URL:https://lykeion.pt/e/workshop-formula-student-engenharia-tecnologia-ino
+ vacao-e-mo-a8d31.html
+END:VEVENT
+BEGIN:VEVENT
 UID:licao-anual-da-finisterra-2026-cb387-2026-11-19@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T170000
@@ -257,6 +331,16 @@ LOCATION:Centro de Estudos Geográficos
 DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/licao-anual-da-finisterra-2
  026
 URL:https://lykeion.pt/e/licao-anual-da-finisterra-2026-cb387.html
+END:VEVENT
+BEGIN:VEVENT
+UID:coloquio-b2ce6-2026-11-19@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T103000
+SUMMARY:O estado das migrações Portugal e países da OCDE
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/O-Estado-das-Migracoes-Portugal-e-P
+ aises-da-OCDE
+URL:https://lykeion.pt/e/coloquio-b2ce6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rui-jorge-martins-monteiro-o-comboio-p-201a9-2026
@@ -285,18 +369,15 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-planeamento-regional-e-urban
  o-ccs-de-h-153be.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-permanente-iha-preservacao-e-valorizacao-de-paisag-1a442-2026
- -11-19@lagenda.pt
+UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
-SUMMARY:Seminário Permanente IHA | Preservação e Valorização de Paisag
- ens Fortificadas\, com Luciene Pessotti
+SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent
  e-iha-preservacao-e-valorizacao-de-paisagens-fortificadas-com-luciene-pess
  otti/
-URL:https://lykeion.pt/e/seminario-permanente-iha-preservacao-e-valorizacao
- -de-paisag-1a442.html
+URL:https://lykeion.pt/e/seminario-permanente-iha-1a442.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2o-workshop-projeto-caop-f8fbb-2026-11-20@lagenda.pt
@@ -373,6 +454,33 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-pedro-alexandre-faria-da-sil
  va-os-estu-45f06.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-285e8-2026-11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T113000
+SUMMARY:Seminário permanente de investigação CICS nova avanços perspect
+ ivas e desafios os anos das políticas de descriminalização das drogas e
+ m Portugal
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/seminario-permanente-d
+ e-investigacao-cics-nova-avancos-perspectivas-e-desafios-os-25-anos-das-po
+ liticas-de-descriminalizacao-das-drogas-em-portugal/
+URL:https://lykeion.pt/e/seminario-285e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:manifestacao-nacional-a-exigir-respeito-pela-voz-das-populac-d8146-2026
+ -11-21@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Manifestação nacional a exigir respeito pela voz das populações
+  e dos territórios
+LOCATION:Centro de Estudos e Recuperação de Animais Selvagens\, Castelo B
+ ranco
+DESCRIPTION:https://quercus.pt/blog/2026/11/09/manifestacao-nacional-a-exig
+ ir-respeito-pela-voz-das-populacoes-e-dos-territorios/
+URL:https://lykeion.pt/e/manifestacao-nacional-a-exigir-respeito-pela-voz-d
+ as-populac-d8146.html
+END:VEVENT
+BEGIN:VEVENT
 UID:memorias-silencios-e-disputas-no-espaco-publico-em-duas-cida-dacf2-2026
  -11-21@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -425,6 +533,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-miguel-monteiro-da-silv
  a-o-urbani-6495f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:26-ciencias-sociais-a-conversa-a-construcao-da-ciencia-780c0-2026-11-24
+ @lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T160000
+SUMMARY:26 Ciências Sociais à Conversa – (A Construção da) Ciência..
+ .
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
+ versa-a-construcao-da-ciencia-para-a-sociedade/
+URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-a-construcao-da-cie
+ ncia-780c0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-24@
  lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -435,6 +556,19 @@ DESCRIPTION:https://institutodehistoriadaarte.com/event/congresso-uncertain
  -landscapes-2-beyond-the-resources/
 URL:https://lykeion.pt/e/congresso-uncertain-landscapes-2-beyond-the-resour
  ces-be2f2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:para-alem-da-academia-geografos-em-acao-trajetorias-e-experi-8b3e6-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T170000
+SUMMARY:Para Além da Academia\, Geógrafos em Ação: Trajetórias e Exper
+ iências
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/para-alem-da-academia-geogr
+ afos-em-acao-trajetorias-e-experiencias-0
+URL:https://lykeion.pt/e/para-alem-da-academia-geografos-em-acao-trajetoria
+ s-e-experi-8b3e6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-aprender-a-ensinar-historia-e-geografia-de-po-0e2bb-2026
@@ -525,6 +659,19 @@ URL:https://lykeion.pt/e/provas-de-agregacao-de-sergio-paulo-avila-campos-m
  arques-o-m-12fc9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-raquel-arezes-nascimento-aspectos-4b94c-2026-
+ 11-30@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T143000
+SUMMARY:Provas de Mestrado de Ana Raquel Arezes Nascimento «Aspectos da ev
+ olução sócioterritorial do povo Muíla (1880-1980)»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
+ 02493
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-raquel-arezes-nascimento
+ -aspectos-4b94c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-os-modelos-de-organizacao-territorial-do-estado-25a54-2026-
  12-02@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -549,19 +696,6 @@ LOCATION:Instituto de Geografia e Ordenamento do Território
 DESCRIPTION:https://www.igot.ulisboa.pt/provas
 URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-estagio-a-utili
  ty-network-0c1d6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-0c1d6-2026
- -12-02@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261202
-SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
- da — Geografia\, Riscos e catástrofes naturais: Uma experiência didát
- ica no 9o ano de escolaridade com recurso aos media
-LOCATION:Instituto de Geografia e Ordenamento do Território
-DESCRIPTION:https://www.igot.ulisboa.pt/provas
-URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
- no-supervi-0c1d6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-urbanismo-agora-manual-para-urbanistas-3d11d-2026
@@ -875,6 +1009,19 @@ LOCATION:Politécnico do Porto\, Porto
 DESCRIPTION:https://www.utporto.pt/noticias/cip-agenda-novembro
 URL:https://lykeion.pt/e/iii-forum-da-internacionalizacao-e-mobilidade-0472
  f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-guilherme-miguel-rocha-goncalves-terri-a7a18-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Provas de mestrado de Guilherme Miguel Rocha Gonçalves — Territ
+ ório e Dependência: A Reconfiguração da Base das Lajes e a Transforma
+ ção da Ilha Terceira (2009–2022)
+LOCATION:Instituto de Geografia e Ordenamento do Território
+DESCRIPTION:https://www.igot.ulisboa.pt/provas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-guilherme-miguel-rocha-gonca
+ lves-terri-a7a18.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-delgado-vicente-analise-e-modelac-a7a18-2026

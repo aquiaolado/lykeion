@@ -40,6 +40,15 @@ DESCRIPTION:https://www.fcsh.unl.pt/eventos/museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/encontro-museus-mundos-em-mudanca-f2951.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontro-nas-margens-do-possivel-d26f2-2026-11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T183000
+SUMMARY:Encontro: Nas Margens do Possível
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
+URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ihc-vai-acolher-13-novos-contratos-ceec-da-fct-1c374-2026-11-13@lagenda
  .pt
 DTSTAMP:20261113T000000Z
@@ -104,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12-a-13-nov-2026-cineteatro-louletano-loule-c9672-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T130000
 SUMMARY:Vozes da guerra civil espanhola sessão a volta da literatura e da 
  música
 LOCATION:Centro Interdisciplinar de Ciências Sociais
@@ -117,9 +126,9 @@ BEGIN:VEVENT
 UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
  -11-14@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T083000
+DTSTART;VALUE=DATE:20261114
 SUMMARY:Encontro: Arte para a Infância e Desenvolvimento Social e Humano
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+LOCATION:Departamento de Antropologia
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
  -para-a-infancia-e-desenvolvimento-social-e-humano/
 URL:https://lykeion.pt/e/encontro-arte-para-a-infancia-e-desenvolvimento-so
@@ -147,6 +156,30 @@ DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/xvi-international-colloquium
  -arts-for-childhood-and-social-and-human-development/
 URL:https://lykeion.pt/e/xvi-international-colloquium-arts-for-childhood-an
  d-social-a-3bdbe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-de-que-casa-eres-com-ana-perez-quiroga-86821-2026-11-16@lag
+ enda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T180000
+SUMMARY:Aula Aberta: ¿De qué casa eres?\, com Ana Pérez Quiroga
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/de-que-casa-eres-com-ana-perez-
+ quiroga/
+URL:https://lykeion.pt/e/aula-aberta-de-que-casa-eres-com-ana-perez-quiroga
+ -86821.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conversas-de-campolide-habitacao-e-democracia-01428-2026-11-17@lagenda.
+ pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Conversas de Campolide: Habitação e Democracia
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/conversas-de-campolide
+ -habitacao-e-democracia/
+URL:https://lykeion.pt/e/conversas-de-campolide-habitacao-e-democracia-0142
+ 8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
@@ -204,13 +237,16 @@ DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/nova-science-innovation-day/
 URL:https://lykeion.pt/e/nova-science-innovation-day-c5861.html
 END:VEVENT
 BEGIN:VEVENT
-UID:coloquio-entre-guerras-e-paz-633a3-2026-11-19@lagenda.pt
+UID:rituparna-roy-no-grupo-wittgenstein-de-lisboa-66d97-2026-11-18@lagenda.
+ pt
 DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T090000
-SUMMARY:Colóquio: Entre guerras e paz
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/entre-guerras-paz/
-URL:https://lykeion.pt/e/coloquio-entre-guerras-e-paz-633a3.html
+DTSTART;TZID=Europe/Lisbon:20261118T160000
+SUMMARY:Rituparna Roy no Grupo Wittgenstein de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/rituparna-roy-no-grupo-wittgens
+ tein-de-lisboa/
+URL:https://lykeion.pt/e/rituparna-roy-no-grupo-wittgenstein-de-lisboa-66d9
+ 7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminars-self-regulation-and-co-regulation-in-biosynthesis-p-ac274-2026
@@ -226,6 +262,19 @@ URL:https://lykeion.pt/e/seminars-self-regulation-and-co-regulation-in-bios
  ynthesis-p-ac274.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-inteligencia-artificial-aplicacoes-implicacoes-e-de183-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T120000
+SUMMARY:Aula Aberta: Inteligência Artificial: Aplicações\, Implicações
+ \, Especulações
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/inteligencia-artificial-aplicac
+ oes-implicacoes-especulacoes/
+URL:https://lykeion.pt/e/aula-aberta-inteligencia-artificial-aplicacoes-imp
+ licacoes-e-de183.html
+END:VEVENT
+BEGIN:VEVENT
 UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
  -11-20@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -237,6 +286,17 @@ DESCRIPTION:https://iem.fcsh.unl.pt/evento/inauguracao-da-exposicao-la-faun
  e-des-voyageurs-illustrations-danimaux-dans-les-imprimes-du-xvie-siecle/
 URL:https://lykeion.pt/e/inauguracao-da-exposicao-la-faune-des-voyageurs-il
  lustration-7bc58.html
+END:VEVENT
+BEGIN:VEVENT
+UID:jessica-pepp-no-arglab-research-colloquium-99f0f-2026-11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T110000
+SUMMARY:Jessica Pepp no ArgLab Research Colloquium
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/jessica-pepp-no-arglab-research
+ -colloquium/
+URL:https://lykeion.pt/e/jessica-pepp-no-arglab-research-colloquium-99f0f.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:new-settlers-of-old-idanha-documentary-screening-at-nova-fcs-62588-2026
@@ -294,6 +354,29 @@ DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/resonance-reading-group-semi
 URL:https://lykeion.pt/e/resonance-reading-group-seminar-c20f2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-285e8-2026-11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T113000
+SUMMARY:Seminário permanente de investigação CICS nova avanços perspect
+ ivas e desafios os anos das políticas de descriminalização das drogas e
+ m Portugal
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/seminario-permanente-d
+ e-investigacao-cics-nova-avancos-perspectivas-e-desafios-os-25-anos-das-po
+ liticas-de-descriminalizacao-das-drogas-em-portugal/
+URL:https://lykeion.pt/e/seminario-285e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-por-garry-l-hagberg-8215a-2026-11-23@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T100000
+SUMMARY:Aula Aberta por Garry L. Hagberg
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/aula-aberta-por-garry-l-hagberg
+ /
+URL:https://lykeion.pt/e/aula-aberta-por-garry-l-hagberg-8215a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-argo-how-attention-to-writing-leads-out-of-art-his-90d06-2026
  -11-23@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -316,17 +399,17 @@ DESCRIPTION:https://www.fcsh.unl.pt/eventos/argo-iha-com-james-elkins/
 URL:https://lykeion.pt/e/seminario-argo-iha-com-james-elkins-6329e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:coloquio-tricentenario-da-3a-edicao-dos-philosophiae-natural-66fa2-2026
- -11-24@lagenda.pt
+UID:26-ciencias-sociais-a-conversa-a-construcao-da-ciencia-780c0-2026-11-24
+ @lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T093000
-SUMMARY:Colóquio: Tricentenário da 3a edição dos «Philosophiae Natural
- is Principia Mathematica»\, de Isaac Newton
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/tricentenario-philosophiae-natur
- alis/
-URL:https://lykeion.pt/e/coloquio-tricentenario-da-3a-edicao-dos-philosophi
- ae-natural-66fa2.html
+DTSTART;TZID=Europe/Lisbon:20261124T160000
+SUMMARY:26 Ciências Sociais à Conversa – (A Construção da) Ciência..
+ .
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
+ versa-a-construcao-da-ciencia-para-a-sociedade/
+URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-a-construcao-da-cie
+ ncia-780c0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-a-ideia-de-uma-republica-universal-bd55f-2026-11-24@lagenda.p
@@ -352,7 +435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:socialist-yugoslavia-all-year-round-9bdb9-2026-11-25@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T123000
 SUMMARY:Socialist Yugoslavia All Year Round
 LOCATION:Instituto de História Contemporânea
 DESCRIPTION:https://ihc.fcsh.unl.pt/agenda/
@@ -407,6 +490,18 @@ DESCRIPTION:https://iem.fcsh.unl.pt/en/event/iem-conference-philippe-josser
 URL:https://lykeion.pt/e/iem-conference-philippe-josserand-23d62.html
 END:VEVENT
 BEGIN:VEVENT
+UID:i-forum-ocs-debate-comunicacao-estrategica-sustentabilidade-4f678-2026-
+ 12-04@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T093000
+SUMMARY:I Fórum OCS debate comunicação estratégica\, sustentabilidade e
+  greenwashing
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.icnova.fcsh.unl.pt/evento/forum-ocs/
+URL:https://lykeion.pt/e/i-forum-ocs-debate-comunicacao-estrategica-sustent
+ abilidade-4f678.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-rosario-martins-b14d9-2026-12-07@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261207T023000
@@ -442,19 +537,6 @@ URL:https://lykeion.pt/e/investigar-na-idade-media-o-lugar-dos-estudos-medi
  evais-num-a4614.html
 END:VEVENT
 BEGIN:VEVENT
-UID:persona-de-ingmar-bergman-exibicao-e-aula-aberta-com-robert-68fa2-2026-
- 12-10@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261210T180000
-SUMMARY:Persona\, de Ingmar Bergman: exibição e Aula Aberta com Robert Pi
- ppin
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/persona-de-ingmar-bergman-exibi
- cao-e-aula-aberta-com-robert-pippin/
-URL:https://lykeion.pt/e/persona-de-ingmar-bergman-exibicao-e-aula-aberta-c
- om-robert-68fa2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-ressurreicao-de-lev-tolstoi-8ecd3-2026-12-10@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T140000
@@ -471,6 +553,19 @@ SUMMARY:Seminário: Vinho velho em barris novos?
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/vinho-velho-em-barris-novos/
 URL:https://lykeion.pt/e/seminario-vinho-velho-em-barris-novos-bef1f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-primeiro-estudo-sobre-adocao-de-inteligencia-4f14a-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261215T150000
+SUMMARY:Apresentação do primeiro estudo sobre adoção de Inteligência A
+ rtificial no Jornalismo Português
+LOCATION:Instituto de Comunicação da Nova
+DESCRIPTION:https://www.icnova.fcsh.unl.pt/evento/apresentacao-do-primeiro-
+ estudo-sobre-adocao-de-inteligencia-artificial-no-jornalismo-portugues/
+URL:https://lykeion.pt/e/apresentacao-do-primeiro-estudo-sobre-adocao-de-in
+ teligencia-4f14a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-de-estudos-medievais-tiago-viula-faria-d2fc0-2026-12-15@lagen
@@ -514,5 +609,18 @@ LOCATION:Centro de Linguística
 DESCRIPTION:https://clunl.fcsh.unl.pt
 URL:https://lykeion.pt/e/xxi-forum-de-partilha-linguistica-chamada-de-traba
  lhos-25fbb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-jornadas-de-ativismo-corporativo-regressam-a-nova-fcsh-em-966dd-2027
+ -04-29@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270429
+SUMMARY:IV Jornadas de Ativismo Corporativo regressam à Nova Fcsh em abril
+  de 2027
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.icnova.fcsh.unl.pt/iv-jornadas-ativismo-corporativo
+ /
+URL:https://lykeion.pt/e/iv-jornadas-de-ativismo-corporativo-regressam-a-no
+ va-fcsh-em-966dd.html
 END:VEVENT
 END:VCALENDAR

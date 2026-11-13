@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Ciências e Tecnologia da Universidade de Coimbra
+  (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:13-11-2026-13-02-2006-aula-aberta-com-joao-zilhao-13-novembr-088b2-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T150000
+SUMMARY:Aula aberta com João Zilhão 13 novembro Gratuito Sala 2.4 do Col
+ égio de São Bento
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/dcv/eventos/aula-aberta-com-joao-zilhao
+ /
+URL:https://lykeion.pt/e/13-11-2026-13-02-2006-aula-aberta-com-joao-zilhao-
+ 13-novembr-088b2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:17-10-2026-18-12-2026-exposicao-belem-lima-novissimo-24f29-2026-11-13@l
+ agenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T160000
+SUMMARY:Exposição Belém Lima Novíssimo
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-belem-lima-novis
+ simo/
+URL:https://lykeion.pt/e/17-10-2026-18-12-2026-exposicao-belem-lima-novissi
+ mo-24f29.html
+END:VEVENT
+BEGIN:VEVENT
+UID:22-10-2026-24-11-2026-exposicao-itinerante-landscape-togethe-275dc-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T170000
+SUMMARY:Exposição itinerante Landscape Together
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-itinerante-lands
+ cape-together-centro-interior-villages-to-get-territorial-communities-1/
+URL:https://lykeion.pt/e/22-10-2026-24-11-2026-exposicao-itinerante-landsca
+ pe-togethe-275dc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-11-26-apresentacao-do-livro-3ab06-2026-11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T173000
+SUMMARY:Apresentação do livro
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/apresentacao-do-livro-as-i
+ nstalacoes-academicas-de-coimbra/
+URL:https://lykeion.pt/e/18-11-26-apresentacao-do-livro-3ab06.html
+END:VEVENT
+END:VCALENDAR

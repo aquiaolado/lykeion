@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12-a-13-nov-2026-cineteatro-louletano-loule-c9672-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T130000
 SUMMARY:Vozes da guerra civil espanhola sessão a volta da literatura e da 
  música
 LOCATION:Centro Interdisciplinar de Ciências Sociais
@@ -38,6 +38,18 @@ LOCATION:Centro Interdisciplinar de Ciências Sociais
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/sessao-de-esclarecimento-estagi
  os-curriculares-licenciatura/
 URL:https://lykeion.pt/e/14-a-16-nov-2026-gulbenkian-e-nova-fcsh-6fe2f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conversas-de-campolide-habitacao-e-democracia-01428-2026-11-17@lagenda.
+ pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Conversas de Campolide: Habitação e Democracia
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/conversas-de-campolide
+ -habitacao-e-democracia/
+URL:https://lykeion.pt/e/conversas-de-campolide-habitacao-e-democracia-0142
+ 8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
@@ -62,5 +74,31 @@ DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/dia-da-ciencia-e-inova
  cao-science-innovation-day/
 URL:https://lykeion.pt/e/26-dia-da-ciencia-e-inovacao-science-innovation-10
  7e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-285e8-2026-11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T113000
+SUMMARY:Seminário permanente de investigação CICS nova avanços perspect
+ ivas e desafios os anos das políticas de descriminalização das drogas e
+ m Portugal
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/seminario-permanente-d
+ e-investigacao-cics-nova-avancos-perspectivas-e-desafios-os-25-anos-das-po
+ liticas-de-descriminalizacao-das-drogas-em-portugal/
+URL:https://lykeion.pt/e/seminario-285e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:26-ciencias-sociais-a-conversa-a-construcao-da-ciencia-780c0-2026-11-24
+ @lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T160000
+SUMMARY:26 Ciências Sociais à Conversa – (A Construção da) Ciência..
+ .
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
+ versa-a-construcao-da-ciencia-para-a-sociedade/
+URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-a-construcao-da-cie
+ ncia-780c0.html
 END:VEVENT
 END:VCALENDAR

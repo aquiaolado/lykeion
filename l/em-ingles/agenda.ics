@@ -6,6 +6,18 @@ X-WR-CALNAME:Em inglês (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:15th-biennale-of-european-towns-and-town-planners-b8afc-2026-11-13@lage
+ nda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:15th Biennale of European Towns and Town Planners
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/15th-biennale-european-towns-
+ and-town-planners
+URL:https://lykeion.pt/e/15th-biennale-of-european-towns-and-town-planners-
+ b8afc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:34th-world-congress-on-controversies-in-obstetrics-gynecolog-9f261-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -24,25 +36,102 @@ UID:4th-annual-meeting-of-the-greening-education-partnership-b30f5-2026-11-
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:4th Annual Meeting of the Greening Education Partnership
-LOCATION:United Nations University Operating Unit on Policy-Driven Electron
- ic Governance\, Guimarães
+LOCATION:United Nations University\, Guimarães
 DESCRIPTION:https://unu.edu/events
 URL:https://lykeion.pt/e/4th-annual-meeting-of-the-greening-education-partn
  ership-b30f5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conference-a-new-approach-to-territorial-intelligence-in-the-1522e-2026
+UID:conferencia-body-shape-politics-the-political-divide-in-body-2a464-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T163000
+SUMMARY:CONFERÊNCIA | “Body-Shape Politics: The Political Divide in Body
+ -Inclusive Advertising
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/body-shape-politics-publicid
+ ade-inclusiva/
+URL:https://lykeion.pt/e/conferencia-body-shape-politics-the-political-divi
+ de-in-body-2a464.html
+END:VEVENT
+BEGIN:VEVENT
+UID:clinical-validation-and-pilot-implementation-of-an-integrate-176c7-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
-SUMMARY:CONFERENCE | A New Approach to Territorial Intelligence in the Face
-  of Wildfires
-LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
- icas\, Vila Real
-DESCRIPTION:https://www.citab.utad.pt/events/conference-a-new-approach-to-t
- erritorial-intelligence-in-the-face-of-wildfires
-URL:https://lykeion.pt/e/conference-a-new-approach-to-territorial-intellige
- nce-in-the-1522e.html
+SUMMARY:Clinical validation and pilot implementation of an integrated pharm
+ aceutical and psychological care protocol for cancer patients with iatroge
+ nic dermatological toxicity.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/clinical-validation-and
+ -pilot-implementation-integrated-pharmaceutical-and-psychological
+URL:https://lykeion.pt/e/clinical-validation-and-pilot-implementation-of-an
+ -integrate-176c7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:co-designing-and-usability-testing-loopalot-a-digital-multiv-d9272-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Co-Designing and Usability-Testing Loopalot: A Digital Multiverse f
+ or Child Nutrition and Physical Activity through Urban Health Diplomacy.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/co-designing-and-usabil
+ ity-testing-loopalot-digital-multiverse-child-nutrition-and-physical
+URL:https://lykeion.pt/e/co-designing-and-usability-testing-loopalot-a-digi
+ tal-multiv-d9272.html
+END:VEVENT
+BEGIN:VEVENT
+UID:deephip-ai-assisted-detection-and-analysis-of-hip-joint-heal-e18ca-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:DeepHip - AI-assisted detection and analysis of hip joint health in
+  community-dwelling adults
+LOCATION:IA&SAÚDE\, Valongo
+DESCRIPTION:https://iasaude.ipsn.cespu.pt/?q=content/deephip-ai-assisted-de
+ tection-and-analysis-hip-joint-health-community-dwelling-adults
+URL:https://lykeion.pt/e/deephip-ai-assisted-detection-and-analysis-of-hip-
+ joint-heal-e18ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:establishment-of-a-pilot-zebrafish-xenograft-platform-for-me-31e67-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Establishment of a Pilot Zebrafish Xenograft Platform for Metabolic
+  Studies in Oral Squamous Cell Carcinoma.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/establishment-pilot-zeb
+ rafish-xenograft-platform-metabolic-studies-oral-squamous-cell
+URL:https://lykeion.pt/e/establishment-of-a-pilot-zebrafish-xenograft-platf
+ orm-for-me-31e67.html
+END:VEVENT
+BEGIN:VEVENT
+UID:feline-biomarkers-a-multimodal-approach-for-diagnostic-progn-5d064-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Feline biomarkers: a multimodal approach for diagnostic\, prognosti
+ c and monitoring in palliative patients.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/feline-biomarkers-multi
+ modal-approach-diagnostic-prognostic-and-monitoring-palliative
+URL:https://lykeion.pt/e/feline-biomarkers-a-multimodal-approach-for-diagno
+ stic-progn-5d064.html
+END:VEVENT
+BEGIN:VEVENT
+UID:from-brainstorming-to-community-the-process-of-creating-a-br-2e62b-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T170000
+SUMMARY:From Brainstorming to Community: The process of creating a brand fo
+ r the Porto Red Cross
+LOCATION:Centro de Estudos Organizacionais e Sociais\, Porto
+DESCRIPTION:https://ceos.iscap.ipp.pt/event-details/from-brainstorming-to-c
+ ommunity-the-process-of-creating-a-brand-for-the-porto-red-cross
+URL:https://lykeion.pt/e/from-brainstorming-to-community-the-process-of-cre
+ ating-a-br-2e62b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:inscricoes-workshop-hands-on-science-a-ciencia-nao-fala-por-e7150-2026-
@@ -51,10 +140,50 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
+END:VEVENT
+BEGIN:VEVENT
+UID:linking-periodontitis-and-type-1-diabetes-evaluation-of-ages-09a3d-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Linking Periodontitis and Type 1 Diabetes: Evaluation of AGEs and t
+ he RANKL/OPG Axis.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/linking-periodontitis-a
+ nd-type-1-diabetes-evaluation-ages-and-ranklopg-axis
+URL:https://lykeion.pt/e/linking-periodontitis-and-type-1-diabetes-evaluati
+ on-of-ages-09a3d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:multidimensional-evaluation-of-stunning-methods-in-poultry-e-a1f4f-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Multidimensional Evaluation of Stunning Methods in Poultry: Effects
+  on Technopathies\, Meat Quality and Sensory Perception
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/multidimensional-evalua
+ tion-stunning-methods-poultry-effects-technopathies-meat-quality-and
+URL:https://lykeion.pt/e/multidimensional-evaluation-of-stunning-methods-in
+ -poultry-e-a1f4f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nephrotoxicity-of-gadoteric-acid-mechanisms-and-preventive-s-40f8f-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Nephrotoxicity of Gadoteric Acid: Mechanisms and Preventive Strateg
+ ies.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/nephrotoxicity-gadoteri
+ c-acid-mechanisms-and-preventive-strategies
+URL:https://lykeion.pt/e/nephrotoxicity-of-gadoteric-acid-mechanisms-and-pr
+ eventive-s-40f8f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:on-the-occasion-of-the-modern-premiere-of-niccolo-jommellis-1f73e-2026-
@@ -69,6 +198,32 @@ DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/on-the-occasion-of-the-moder
  m-for-16-voices/
 URL:https://lykeion.pt/e/on-the-occasion-of-the-modern-premiere-of-niccolo-
  jommellis-1f73e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oral-mucosal-and-salivary-signatures-of-vaping-and-tobacco-e-527c8-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Oral Mucosal and Salivary Signatures of Vaping and Tobacco Exposure
+ : A Comparative Biomarker Study.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/oral-mucosal-and-saliva
+ ry-signatures-vaping-and-tobacco-exposure-comparative-biomarker-study
+URL:https://lykeion.pt/e/oral-mucosal-and-salivary-signatures-of-vaping-and
+ -tobacco-e-527c8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:persistence-and-recovery-of-dna-from-body-fluids-on-differen-d6b0b-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Persistence and recovery of DNA from body fluids on different surfa
+ ces: a quantitative forensic study.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/persistence-and-recover
+ y-dna-body-fluids-different-surfaces-quantitative-forensic-study
+URL:https://lykeion.pt/e/persistence-and-recovery-of-dna-from-body-fluids-o
+ n-differen-d6b0b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:phd-thesis-in-integrative-biology-and-biomedicine-b2357-2026-11-13@lage
@@ -95,6 +250,46 @@ DESCRIPTION:https://www.uc.pt/uid/ceber/eventos/predict-or-to-be-predicted-
  nd-sentiment-index/
 URL:https://lykeion.pt/e/13-11-26-predict-or-to-be-predicted-a-transfer-ent
  ropy-view-fa609.html
+END:VEVENT
+BEGIN:VEVENT
+UID:salfix-alternative-long-term-solution-for-the-preservation-o-3db08-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:SALFIX - Alternative Long-Term Solution for the Preservation of Vet
+ erinary Anatomical Specimens: A Comparison Between Saturated Saline Soluti
+ on and FineFix®.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/salfix-alternative-long
+ -term-solution-preservation-veterinary-anatomical-specimens
+URL:https://lykeion.pt/e/salfix-alternative-long-term-solution-for-the-pres
+ ervation-o-3db08.html
+END:VEVENT
+BEGIN:VEVENT
+UID:step-per-digital-monitoring-of-fatigue-and-podiatric-risk-in-e579c-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:STEP-PER - Digital monitoring of fatigue and podiatric risk in Fát
+ ima pilgrims
+LOCATION:IA&SAÚDE\, Valongo
+DESCRIPTION:https://iasaude.ipsn.cespu.pt/?q=content/step-digital-monitorin
+ g-fatigue-and-podiatric-risk-f%C3%A1tima-pilgrims
+URL:https://lykeion.pt/e/step-per-digital-monitoring-of-fatigue-and-podiatr
+ ic-risk-in-e579c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:step-up-digitally-monitored-physical-activity-and-inflammato-d29eb-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:STEP-UP - Digitally monitored physical activity and inflammatory bi
+ omarkers in insufficiently active older adults
+LOCATION:IA&SAÚDE\, Valongo
+DESCRIPTION:https://iasaude.ipsn.cespu.pt/?q=content/step-digitally-monitor
+ ed-physical-activity-and-inflammatory-biomarkers-insufficiently-active
+URL:https://lykeion.pt/e/step-up-digitally-monitored-physical-activity-and-
+ inflammato-d29eb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:13-11-26-seminario-new-trends-in-international-politics-and-bef19-2026-
@@ -245,14 +440,26 @@ URL:https://lykeion.pt/e/exams-for-the-masters-degree-in-portuguese-sign-la
  nguage-and-cfa21.html
 END:VEVENT
 BEGIN:VEVENT
+UID:international-symposium-on-blockchain-and-cybersecurity-ribc-33906-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T090000
+SUMMARY:International Symposium on Blockchain and Cybersecurity – RIBCi
+ –CYTED 2026
+LOCATION:Centro de Estudos Organizacionais e Sociais\, Porto
+DESCRIPTION:https://ceos.iscap.ipp.pt/event-details/international-symposium
+ -on-blockchain-and-cybersecurity-ribci-cyted-2026
+URL:https://lykeion.pt/e/international-symposium-on-blockchain-and-cybersec
+ urity-ribc-33906.html
+END:VEVENT
+BEGIN:VEVENT
 UID:lecture-urban-nature-for-climate-resilience-nature-based-sol-8539b-2026
  -11-16@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Lecture: Urban Nature for Climate Resilience: Nature-based Solution
  s for Adaptation\, Mitigation and Just Urban Transitions
-LOCATION:United Nations University Operating Unit on Policy-Driven Electron
- ic Governance\, Guimarães
+LOCATION:United Nations University\, Guimarães
 DESCRIPTION:https://unu.edu/events
 URL:https://lykeion.pt/e/lecture-urban-nature-for-climate-resilience-nature
  -based-sol-8539b.html
@@ -270,6 +477,18 @@ URL:https://lykeion.pt/e/master-in-portuguese-sign-language-and-deaf-educat
  ion-dea4a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:talks-before-lunch-margarida-ferra-behind-the-scenes-of-writ-743a8-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Talks before lunch | Margarida Ferra | Behind the Scenes of Writing
+LOCATION:Centro de Estudos de Comunicação e Cultura
+DESCRIPTION:https://cecc.fch.lisboa.ucp.pt/en/events/talks-lunch-margarida-
+ ferra-behind-scenes-writing
+URL:https://lykeion.pt/e/talks-before-lunch-margarida-ferra-behind-the-scen
+ es-of-writ-743a8.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-open-source-tools-for-analog-and-mixed-signal-ic-de-cf423-2026
  -11-16@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -281,19 +500,6 @@ DESCRIPTION:https://www.isel.pt/eventos/workshop-open-source-tools-analog-a
  nd-mixed-signal-ic-design
 URL:https://lykeion.pt/e/workshop-open-source-tools-for-analog-and-mixed-si
  gnal-ic-de-cf423.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conditional-belonging-race-migration-and-iranian-identity-in-52809-2026
- -11-17@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T170000
-SUMMARY:Conditional Belonging: Race\, Migration and Iranian Identity in the
-  United States and Germany
-LOCATION:Centro de Estudos Internacionais
-DESCRIPTION:https://cei.iscte-iul.pt/eventos/evento/conditional-belonging-r
- ace-migration-and-iranian-identity-in-the-united-states-and-germany/
-URL:https://lykeion.pt/e/conditional-belonging-race-migration-and-iranian-i
- dentity-in-52809.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exams-for-the-masters-degree-in-portuguese-sign-language-and-cfa21-2026
@@ -309,6 +515,34 @@ URL:https://lykeion.pt/e/exams-for-the-masters-degree-in-portuguese-sign-la
  nguage-and-cfa21.html
 END:VEVENT
 BEGIN:VEVENT
+UID:17-11-26-g2-convida-palestra-red-and-green-the-politics-of-t-69e88-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:G2 CONVIDA | Palestra «Red and Green: The Politics of the Left and
+  the Environment» | Afinidades Disciplinares 17 novembro Anfiteatro V\, F
+ LUC
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceis20/conferencias/g2-convida-palestra-red-a
+ nd-green-the-politics-of-the-left-and-the-environment-afinidades-disciplin
+ ares/
+URL:https://lykeion.pt/e/17-11-26-g2-convida-palestra-red-and-green-the-pol
+ itics-of-t-69e88.html
+END:VEVENT
+BEGIN:VEVENT
+UID:juan-munoz-echaniz-2026-11-17-15-00-00-00-15h-constraints-on-c1345-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Juan Muñoz-Echániz\, 2026-11-17/15:00:00+00\, 15h\, Constraints o
+ n Lefschetz fibrations with four-dimensional fibers
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://geolis.math.tecnico.ulis
+ boa.pt/seminars?action=show&amp\,id=7850
+URL:https://lykeion.pt/e/juan-munoz-echaniz-2026-11-17-15-00-00-00-15h-cons
+ traints-on-c1345.html
+END:VEVENT
+BEGIN:VEVENT
 UID:memory-and-collective-identity-activists-narratives-of-the-a-23979-2026
  -11-17@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -319,6 +553,18 @@ LOCATION:Centre for Research and Studies in Sociology
 DESCRIPTION:https://www.cies.iscte-iul.pt/np4EN/4998.html
 URL:https://lykeion.pt/e/memory-and-collective-identity-activists-narrative
  s-of-the-a-23979.html
+END:VEVENT
+BEGIN:VEVENT
+UID:panel-the-road-from-antalya-to-abu-dhabi-global-water-bankru-ac1f1-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Panel: The Road from Antalya to Abu Dhabi: Global Water Bankruptcy 
+ and the New Water Agenda
+LOCATION:United Nations University\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/panel-the-road-from-antalya-to-abu-dhabi-global-wa
+ ter-bankru-ac1f1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:using-ai-across-the-research-lifecycle-leapspacetm-scopus-an-07e32-2026
@@ -345,19 +591,6 @@ DESCRIPTION:https://www.eventbrite.pt/e/x-workshop-on-immigration-health-an
  d-wellbeing-tickets-2004081255985
 URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-6ea
  7a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:17-11-2026-aula-aberta-ancient-greece-and-rome-for-children-5a2aa-2026-
- 11-17@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T110000
-SUMMARY:[Aula Aberta] Ancient Greece and Rome for children and young people
- : reception\, teaching practices and adaptations
-LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
-DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-grecia-e-roma-antigas
- /
-URL:https://lykeion.pt/e/17-11-2026-aula-aberta-ancient-greece-and-rome-for
- -children-5a2aa.html
 END:VEVENT
 BEGIN:VEVENT
 UID:41st-conference-on-design-of-circuits-and-integrated-systems-c6c7a-2026
@@ -399,6 +632,19 @@ URL:https://lykeion.pt/e/cedh-learning-coffee-mapping-an-emerging-field-les
  sons-from-505a3.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-analysis-of-the-security-environment-in-the-west-8deb0-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T150000
+SUMMARY:Conferência | “Analysis of the Security Environment in the Weste
+ rn Pacific Ocean
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/conferencia-analysis-of
+ -the-security-environment-in-the-western-pacific-ocean
+URL:https://lykeion.pt/e/conferencia-analysis-of-the-security-environment-i
+ n-the-west-8deb0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:constraints-on-lefschetz-fibrations-with-four-dimensional-fi-e13f9-2026
  -11-18@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -423,6 +669,20 @@ DESCRIPTION:https://www.ceied.ulusofona.pt/en/events/roundtable-discussion-
  alfa-movement-student-brigades-for-work-and-literacy-50-years
 URL:https://lykeion.pt/e/roundtable-discussion-alfa-movement-student-brigad
  es-for-wor-bfe7c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
+ migration\, Health and Wellbeing
+LOCATION:Nova SBE
+DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
+ e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
+ pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
+URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
+ orkshop-on-fd2e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:a-cubic-underestimator-for-deterministic-global-optimization-69e29-2026
@@ -451,19 +711,6 @@ DESCRIPTION:https://cbma.uminho.pt/announcement-for-the-award-of-one-resear
  p-ref-a-bi4-cbma-dados-2026
 URL:https://lykeion.pt/e/announcement-for-the-award-of-one-research-fellows
  hip-ref-a-54792.html
-END:VEVENT
-BEGIN:VEVENT
-UID:coloquio-from-guardians-to-foes-host-remodelling-and-neutrop-94099-2026
- -11-19@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Colóquio: From guardians to foes: Host remodelling and neutrophil 
- plasticity in cancer
-LOCATION:Champalimaud Foundation
-DESCRIPTION:https://www.fchampalimaud.org/events/guardians-foes-host-remode
- lling-and-neutrophil-plasticity-cancer
-URL:https://lykeion.pt/e/coloquio-from-guardians-to-foes-host-remodelling-a
- nd-neutrop-94099.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exams-for-the-masters-degree-in-portuguese-sign-language-and-cfa21-2026
@@ -528,6 +775,19 @@ DESCRIPTION:https://fcse.lisboa.ucp.pt/news-events/eventos?f%5B0%5D=field_c
 URL:https://lykeion.pt/e/faculty-of-health-sciences-and-nursing-1e878.html
 END:VEVENT
 BEGIN:VEVENT
+UID:francesco-bozzola-2026-11-20-11-00-00-00-11h-some-bounds-in-250fc-2026-
+ 11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Francesco Bozzola\, 2026-11-20/11:00:00+00\, 11h\, Some bounds in f
+ ractional spectral geometry for higher-order problems
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://wade.ulisboa.pt/seminars
+ ?action=show&amp\,id=7880
+URL:https://lykeion.pt/e/francesco-bozzola-2026-11-20-11-00-00-00-11h-some-
+ bounds-in-250fc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:gamification-and-digital-games-with-generative-ai-from-idea-901ef-2026-
  11-20@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -539,6 +799,17 @@ DESCRIPTION:https://ciie.fpce.up.pt/en/events/gamification-and-digital-game
  s-with-generative-ai-from-idea-to-practice
 URL:https://lykeion.pt/e/gamification-and-digital-games-with-generative-ai-
  from-idea-901ef.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lisbon-wade-webinar-in-analysis-and-differential-equations-41d6b-2026-1
+ 1-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://wade.ulisboa.pt
+URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
+ quations-41d6b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-writing-rewriting-surviving-the-graduates-guide-39e16-2026-
@@ -581,6 +852,30 @@ URL:https://lykeion.pt/e/20-11-26-seminario-new-trends-in-international-pol
  itics-and-bef19.html
 END:VEVENT
 BEGIN:VEVENT
+UID:tropical-talks-researchers-for-the-future-0e1ab-2026-11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T143000
+SUMMARY:Tropical Talks: Researchers for the Future
+LOCATION:Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/eventos/tropical-talks-researchers-fo
+ r-the-future/
+URL:https://lykeion.pt/e/tropical-talks-researchers-for-the-future-0e1ab.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:20-11-26-unpaid-debts-socialist-internationalism-and-the-bir-e0664-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Unpaid Debts: Socialist Internationalism and the Birth of Financial
+ ization after Empire Conferência 20 novembro Anfiteatro I (piso 3\, FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/unpaid-debts-socialist-inter
+ nationalism-and-the-birth-of-financialization-after-empire/
+URL:https://lykeion.pt/e/20-11-26-unpaid-debts-socialist-internationalism-a
+ nd-the-bir-e0664.html
+END:VEVENT
+BEGIN:VEVENT
 UID:vg-colab-co-organised-and-sponsered-xxvi-meeting-of-the-port-d2a3d-2026
  -11-21@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -618,20 +913,6 @@ LOCATION:Instituto de Filosofia da Nova
 DESCRIPTION:http://ifilnova.pt/eventos/garry-l-hagberg/
 URL:https://lykeion.pt/e/aula-aberta-doctrines-of-recollection-anamnesis-an
  cient-and-76e5b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:european-forum-on-us-history-constrained-engagement-us-labor-6c279-2026
- -11-23@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T183000
-SUMMARY:European Forum on US History | Constrained Engagement: US Labor and
-  Portugal’s Democratic Transition (1974–1975)
-LOCATION:Centro de Estudos Internacionais
-DESCRIPTION:https://cei.iscte-iul.pt/eventos/evento/european-forum-on-us-hi
- story-constrained-engagement-us-labor-and-portugals-democratic-transition-
- 1974-1975/
-URL:https://lykeion.pt/e/european-forum-on-us-history-constrained-engagemen
- t-us-labor-6c279.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iii-international-conference-of-young-historians-in-educatio-8b35c-2026
@@ -687,6 +968,18 @@ URL:https://lykeion.pt/e/how-to-find-the-right-journal-strategies-and-tools
  -that-can-65394.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-socialist-yugoslavia-all-year-yound-a-sketch-of-075ef-2026-
+ 11-25@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T030000
+SUMMARY:Conferência: Socialist Yugoslavia all year yound: A sketch of the 
+ country’s social history
+LOCATION:Universidade NOVA de Lisboa
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/socialist-yugoslavia/
+URL:https://lykeion.pt/e/conferencia-socialist-yugoslavia-all-year-yound-a-
+ sketch-of-075ef.html
+END:VEVENT
+BEGIN:VEVENT
 UID:continue-reading-insipack-ii-2026-international-conference-o-e6934-2026
  -11-25@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -735,16 +1028,30 @@ URL:https://lykeion.pt/e/conference-in-lisbon-to-explore-new-developments-i
  n-ocean-ob-db9b8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iii-international-congress-of-quality-of-life-79cd5-2026-11-26@lagenda.
+UID:conferencia-doutoral-collective-biography-and-the-anarchive-f5ca2-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T200000
+SUMMARY:Conferência Doutoral | Collective Biography and the Anarchive: Fem
+ inist Methodologies for Writing Colonial and Postcolonial History
+LOCATION:Centro de Estudos Internacionais
+DESCRIPTION:https://cei.iscte-iul.pt/eventos/evento/conferencia-doutoral-co
+ llective-biography-and-the-anarchive-feminist-methodologies-for-writing-co
+ lonial-and-postcolonial-history/
+URL:https://lykeion.pt/e/conferencia-doutoral-collective-biography-and-the-
+ anarchive-f5ca2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-international-congress-of-quality-of-life-80574-2026-11-26@lagenda.
  pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T080000
 SUMMARY:III International Congress of Quality of Life
 LOCATION:Instituto Politécnico de Viseu\, Viseu
-DESCRIPTION:https://ipv.pt/evento/iii-international-congress-of-quality-of-
- life/
-URL:https://lykeion.pt/e/iii-international-congress-of-quality-of-life-79cd
- 5.html
+DESCRIPTION:https://univiseu.pt/evento/iii-international-congress-of-qualit
+ y-of-life/
+URL:https://lykeion.pt/e/iii-international-congress-of-quality-of-life-8057
+ 4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:research-seminars-in-mathematics-applied-to-economics-and-ma-0bd01-2026
@@ -771,6 +1078,30 @@ DESCRIPTION:https://cfe.uc.pt/agenda/soil-microbe-interactions-in-legume-ba
  sed-intercropping-and-its-implications-for-soil-fertility/
 URL:https://lykeion.pt/e/soil-microbe-interactions-in-legume-based-intercro
  pping-and-9b96a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-applied-ai-and-digital-solutions-research-projects-55b84-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Workshop: Applied AI and Digital Solutions: Research Projects Shapi
+ ng Industry and Society
+LOCATION:Universidade Fernando Pessoa\, Porto
+DESCRIPTION:https://www.ufp.pt
+URL:https://lykeion.pt/e/workshop-applied-ai-and-digital-solutions-research
+ -projects-55b84.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-power-conflict-and-diplomacy-in-cyberspace-c9481-2026-11-27
+ @lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T141500
+SUMMARY:Conferência: Power\, conflict and diplomacy in cyberspace
+LOCATION:Centro de Estudos Sociais\, Coimbra
+DESCRIPTION:https://ces.uc.pt/pt/agenda-noticias/agenda-de-eventos/2026/pow
+ er-conflict-and-diplomacy-in-cyberspace
+URL:https://lykeion.pt/e/conferencia-power-conflict-and-diplomacy-in-cybers
+ pace-c9481.html
 END:VEVENT
 BEGIN:VEVENT
 UID:27-11-26-from-the-margins-to-management-rethinking-organizat-bc252-2026
@@ -881,18 +1212,6 @@ URL:https://lykeion.pt/e/academic-and-scientific-skills-for-phd-students-re
  gistration-9f2b5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:advanced-training-course-in-sustainability-in-healthcare-cc991-2026-11-
- 30@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261130
-SUMMARY:Advanced training course in Sustainability in Healthcare
-LOCATION:Laboratório de Software Confiável\, Braga
-DESCRIPTION:https://www.inesctec.pt/en/events/advanced-training-course-in-s
- ustainability-in-healthcare
-URL:https://lykeion.pt/e/advanced-training-course-in-sustainability-in-heal
- thcare-cc991.html
-END:VEVENT
-BEGIN:VEVENT
 UID:llms-and-the-social-sciences-and-humanities-research-resourc-e474b-2026
  -11-30@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -927,7 +1246,8 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -1131,6 +1451,17 @@ DESCRIPTION:https://www.spommf.pt/evento/birth-congress-clinical-challenges
  -in-labor-and-deliver-11th-edition/
 URL:https://lykeion.pt/e/birth-congress-clinical-challenges-in-labor-and-de
  liver-11th-548ac.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lisbon-wade-webinar-in-analysis-and-differential-equations-e721d-2026-1
+ 2-11@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T150000
+SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://math.tecnico.ulisboa.pt/seminars/
+URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
+ quations-e721d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:11-12-26-seminario-new-trends-in-international-politics-and-3c3b5-2026-
@@ -1462,6 +1793,16 @@ DESCRIPTION:https://bru.iscte-iul.pt/event/curators-in-the-loop-human-centr
  ed-ai-for-the-digital-curation-of-cultural-heritage-collections/
 URL:https://lykeion.pt/e/curators-in-the-loop-human-centred-ai-for-the-digi
  tal-curati-0514f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:idcc27-workshop-4-curators-in-the-loop-67571-2027-02-09@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20270209T130000
+SUMMARY:IDCC27 Workshop 4: Curators in the loop
+LOCATION:Iscte – Instituto Universitário de Lisboa
+DESCRIPTION:https://www.eventbrite.co.uk/e/idcc27-workshop-4-curators-in-th
+ e-loop-tickets-2003717185039
+URL:https://lykeion.pt/e/idcc27-workshop-4-curators-in-the-loop-67571.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-lecture-space-form-movement-the-impact-of-public-space-da83b-2027-
@@ -1874,19 +2215,6 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/30-de-marco-conferencia-th
 URL:https://lykeion.pt/e/conferencia-the-ending-of-an-era-0bc4e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:identifying-uncertainty-conceptualizations-of-the-uncertain-f493e-2027-
- 03-30@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20270330
-SUMMARY:Identifying Uncertainty: Conceptualizations of the Uncertain in Ant
- iquity
-LOCATION:Centro de Estudos Clássicos
-DESCRIPTION:https://centroclassicos.letras.ulisboa.pt/event/identifying-unc
- ertainty-conceptualizations-of-the-uncertain-in-antiquity-2/
-URL:https://lykeion.pt/e/identifying-uncertainty-conceptualizations-of-the-
- uncertain-f493e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:palestra-seahorse-aquaculture-and-nutrition-advances-and-cha-615bc-2027
  -03-31@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -1993,6 +2321,20 @@ URL:https://lykeion.pt/e/seminario-14h30-english-speed-europe-as-a-children
  s-rights-p-ab8d1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-english-speed-the-on-going-and-prospective-reform-05644-2027-
+ 04-11@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20270411T120000
+SUMMARY:Seminário: English SPEED 'The on-going and prospective reform of t
+ he Court of Justice of the European Union'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/11-de-abril-english-speed-
+ the-on-going-and-prospective-reform-of-the-court-of-justice-of-the-europea
+ n-union
+URL:https://lykeion.pt/e/seminario-english-speed-the-on-going-and-prospecti
+ ve-reform-05644.html
+END:VEVENT
+BEGIN:VEVENT
 UID:estg-ciicesi-partners-with-the-business-and-technology-confe-46b5e-2027
  -04-15@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -2094,5 +2436,18 @@ DESCRIPTION:https://cibio.up.pt/en/events/conservation-and-restoration-plan
  ning-from-assessment-to-action/
 URL:https://lykeion.pt/e/conservation-and-restoration-planning-from-assessm
  ent-to-act-e4109.html
+END:VEVENT
+BEGIN:VEVENT
+UID:30th-congress-ebcog-european-congress-of-obstetrics-and-gyna-877a5-2027
+ -05-12@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20270512T210000
+SUMMARY:30th Congress EBCOG – European Congress of Obstetrics and Gynaeco
+ logy
+LOCATION:Sociedade Portuguesa de Obstetrícia e Medicina Materno-Fetal
+DESCRIPTION:https://www.spommf.pt/evento/30th-congress-ebcog-european-congr
+ ess-of-obstetrics-and-gynaecology/
+URL:https://lykeion.pt/e/30th-congress-ebcog-european-congress-of-obstetric
+ s-and-gyna-877a5.html
 END:VEVENT
 END:VCALENDAR

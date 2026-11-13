@@ -6,20 +6,6 @@ X-WR-CALNAME:Agricultura e Floresta (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conference-a-new-approach-to-territorial-intelligence-in-the-1522e-2026
- -11-13@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:CONFERENCE | A New Approach to Territorial Intelligence in the Face
-  of Wildfires
-LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
- icas\, Vila Real
-DESCRIPTION:https://www.citab.utad.pt/events/conference-a-new-approach-to-t
- erritorial-intelligence-in-the-face-of-wildfires
-URL:https://lykeion.pt/e/conference-a-new-approach-to-territorial-intellige
- nce-in-the-1522e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -95,6 +81,18 @@ URL:https://lykeion.pt/e/inauguracao-da-exposicao-urbanitas-de-rogerio-arau
  jo-5e548.html
 END:VEVENT
 BEGIN:VEVENT
+UID:rituparna-roy-no-grupo-wittgenstein-de-lisboa-66d97-2026-11-18@lagenda.
+ pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T160000
+SUMMARY:Rituparna Roy no Grupo Wittgenstein de Lisboa
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/rituparna-roy-no-grupo-wittgens
+ tein-de-lisboa/
+URL:https://lykeion.pt/e/rituparna-roy-no-grupo-wittgenstein-de-lisboa-66d9
+ 7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:drones-do-sentinela-atlantica-em-exposicao-no-evento-de-inov-b0e3e-2026
  -11-19@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -118,6 +116,18 @@ LOCATION:Associação Colab4Food – Laboratório Colaborativo para a Inova
 DESCRIPTION:https://colab4food.com/events/european-bioeconomy-conference-20
  26/
 URL:https://lykeion.pt/e/european-bioeconomy-conference-2026-ae5c7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-servicos-de-ecossistema-florestais-c6615-2026-11-19@lagenda.p
+ t
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T133000
+SUMMARY:Seminário “Serviços de ecossistema florestais
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/seminario-servicos-de-ecossistema-fl
+ orestais/
+URL:https://lykeion.pt/e/seminario-servicos-de-ecossistema-florestais-c6615
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-de-jovens-investigadores-e-cerimonia-de-entrega-de-9e3eb-2026-
@@ -247,19 +257,6 @@ DESCRIPTION:https://www.iseg.ulisboa.pt/event/sessao-solene-do-ano-letivo-2
 URL:https://lykeion.pt/e/sessao-solene-do-ano-letivo-2026-2027-10375.html
 END:VEVENT
 BEGIN:VEVENT
-UID:webinar-umdiacom-catarina-prista-27-novembro-2026-11h30-578a3-2026-11-2
- 7@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T113000
-SUMMARY:Webinar | UmDiaCom... Catarina Prista | 27 novembro 2026 | 11h30
-LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
- eja
-DESCRIPTION:http://www.cebal.pt/index.php/en/2-uncategorised/438-webinar-um
- diacom-catarina-prista-27-novembro-2026-11h30
-URL:https://lykeion.pt/e/webinar-umdiacom-catarina-prista-27-novembro-2026-
- 11h30-578a3.html
-END:VEVENT
-BEGIN:VEVENT
 UID:amicos-silvestris-o-que-sao-5c2bb-2026-11-28@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T183000
@@ -292,13 +289,26 @@ URL:https://lykeion.pt/e/utilizacao-de-metodos-fisicos-e-computacionais-par
  a-a-compre-9bdb9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:30-11-2026-jornada-internacional-de-estudos-fenomenologicos-018c0-2026-
+ 11-30@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T160000
+SUMMARY:Jornada Internacional de Estudos Fenomenológicos: Fenomenologia e 
+ Política
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/jorn-fenomenologia/
+URL:https://lykeion.pt/e/30-11-2026-jornada-internacional-de-estudos-fenome
+ nologicos-018c0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -325,6 +335,19 @@ LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
 DESCRIPTION:https://cba.uac.pt/news-events/ver.php?id=18
 URL:https://lykeion.pt/e/racas-autoctones-acoreanas-e-a-sua-sustentabilidad
  e-bc1d8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:escola-superior-agraria-de-coimbra-campus-de-bencanta-iii-es-de4ca-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T093000
+SUMMARY:Escola Superior Agrária de Coimbra Campus de Bencanta III Escola d
+ e Inverno da Agrária de Coimbra – Projeto Farm4Future
+LOCATION:Politécnico de Coimbra\, Coimbra
+DESCRIPTION:https://www.ipc.pt/eventos/iii-escola-de-inverno-da-agraria-de-
+ coimbra-projeto-farm4future/
+URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-campus-de-benca
+ nta-iii-es-de4ca.html
 END:VEVENT
 BEGIN:VEVENT
 UID:douro-lugar-de-um-encontro-feliz-ddd06-2027-01-16@lagenda.pt

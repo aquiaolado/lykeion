@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPCA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:conferencia-o-arquivo-em-casa-cd466-2026-11-24@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Conferência: O arquivo em casa
+LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
+DESCRIPTION:https://www.instagram.com/p/DfmTD5LiEU3/?img_index=1
+URL:https://lykeion.pt/e/conferencia-o-arquivo-em-casa-cd466.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-open-day-laboratorio-aberto-0ae16-2026-11-27@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: Open day – Laboratório aberto
+LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
+DESCRIPTION:https://2ai.ipca.pt/news/87
+URL:https://lykeion.pt/e/portas-abertas-open-day-laboratorio-aberto-0ae16.h
+ tml
+END:VEVENT
+END:VCALENDAR

@@ -47,7 +47,7 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Online Ciclo de Webinários “Ser jornalista hoje: precariedade\, 
  novas fronteiras e crise de confiança
-LOCATION:Departamento de Artes e Tecnologias\, Coimbra
+LOCATION:Departamento de Comunicação\, Coimbra
 DESCRIPTION:https://www.esec.pt/eventos/ciclo-de-webinarios-ser-jornalista-
  hoje-precariedade-novas-fronteiras-e-crise-de-confianca/
 URL:https://lykeion.pt/e/online-ciclo-de-webinarios-ser-jornalista-hoje-pre
@@ -190,6 +190,18 @@ URL:https://lykeion.pt/e/participacao-online-gratuita-no-simposio-internaci
  onal-de-bl-847bc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sessao-online-dedicada-ao-european-innovation-council-eic-c9551-2026-11
+ -16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Sessão online dedicada ao European Innovation Council (EIC)
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24222
+URL:https://lykeion.pt/e/sessao-online-dedicada-ao-european-innovation-coun
+ cil-eic-c9551.html
+END:VEVENT
+BEGIN:VEVENT
 UID:webinar-7f14e-2026-11-16@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T113000
@@ -284,6 +296,17 @@ URL:https://lykeion.pt/e/webinars-what-makes-forward-college-unique-02-dec-
  1722c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-12f73-2026-11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T110000
+SUMMARY:Aquaconnect two days of sustainable aquaculture innovation
+LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
+ rto
+DESCRIPTION:https://www.ciimar.up.pt/events/aquaconnect-2-0-two-days-of-sus
+ tainable-aquaculture-innovation/
+URL:https://lykeion.pt/e/webinar-12f73.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-mendes-de-brito-rodrigues-barret-5ee65-2026
  -11-18@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -337,13 +360,28 @@ URL:https://lykeion.pt/e/formacao-introducao-ao-zotero-via-zoom-meeting-ecf
  d9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:webinar-on-african-urban-planning-e82d3-2026-11-19@lagenda.pt
+UID:aula-aberta-inteligencia-artificial-aplicacoes-implicacoes-e-de183-2026
+ -11-20@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Webinar on African Urban Planning
-LOCATION:Associacao Portuguesa de Sociologia
-DESCRIPTION:https://aps.pt/event/webinar-on-african-urban-planning/
-URL:https://lykeion.pt/e/webinar-on-african-urban-planning-e82d3.html
+DTSTART;TZID=Europe/Lisbon:20261120T120000
+SUMMARY:Aula Aberta: Inteligência Artificial: Aplicações\, Implicações
+ \, Especulações
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/inteligencia-artificial-aplicac
+ oes-implicacoes-especulacoes/
+URL:https://lykeion.pt/e/aula-aberta-inteligencia-artificial-aplicacoes-imp
+ licacoes-e-de183.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lisbon-wade-webinar-in-analysis-and-differential-equations-41d6b-2026-1
+ 1-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://wade.ulisboa.pt
+URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
+ quations-41d6b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-cegist-mais-dados-melhor-saude-translating-the-20-48591-2026-
@@ -384,17 +422,6 @@ DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-publicacao-de-
  comunicacao-cientifica-ferramentas-via-zoom-meeting-2/
 URL:https://lykeion.pt/e/webinar-publicacao-de-comunicacao-cientifica-ferra
  mentas-via-6f6c6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-projeto-parental-dos-casais-jovens-8a406-2026-11-20@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T140000
-SUMMARY:Webinar “Projeto Parental dos Casais Jovens
-LOCATION:Associacao Portuguesa de Sociologia
-DESCRIPTION:https://aps.pt/event/webinar-projeto-parental-dos-casais-jovens
- /
-URL:https://lykeion.pt/e/webinar-projeto-parental-dos-casais-jovens-8a406.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-desafios-de-auditoria-interna-na-saude-77947-2026-11-20@lagenda
@@ -520,6 +547,33 @@ URL:https://lykeion.pt/e/portas-abertas-realidade-virtual-desafios-e-oportu
  nidades-c1bca.html
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-ciencia-de-perto-os-desafios-e-as-solucoes-centradas-237d5-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T143000
+SUMMARY:Webinar | Ciência de Perto - Os desafios e as soluções centradas
+  no uso de bioherbicidas | 25 de novembro 2026 | 14h30
+LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
+ eja
+DESCRIPTION:http://www.cebal.pt/index.php/en/18-destaque/440-webinar-cienci
+ a-de-perto-os-desafios-e-as-solucoes-centradas-no-uso-de-bioherbicidas-25-
+ de-novembro-2026-14h30
+URL:https://lykeion.pt/e/webinar-ciencia-de-perto-os-desafios-e-as-solucoes
+ -centradas-237d5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-as-quartas-da-spo-doenca-inflamatoria-orbitaria-3c5fd-2026-11-2
+ 5@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T213000
+SUMMARY:Webinar «As Quartas da SPO» – Doença Inflamatória Orbitária
+LOCATION:Sociedade Portuguesa de Oftalmologia
+DESCRIPTION:https://spoftalmologia.pt/evento/webinar-as-quartas-da-spo-doen
+ ca-inflamatoria-orbitaria/
+URL:https://lykeion.pt/e/webinar-as-quartas-da-spo-doenca-inflamatoria-orbi
+ taria-3c5fd.html
+END:VEVENT
+BEGIN:VEVENT
 UID:webinar-mendeley-essencial-e-complementar-549f9-2026-11-25@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T100000
@@ -535,22 +589,21 @@ UID:webinar-concorrencia-casos-reais-2ef47-2026-11-25@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Webinar “Concorrência: Casos Reais
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/webinar-concorrencia-casos-reais-4/
 URL:https://lykeion.pt/e/webinar-concorrencia-casos-reais-2ef47.html
 END:VEVENT
 BEGIN:VEVENT
-UID:roteiro-de-seminarios-sobre-saude-trabalho-e-praticas-organi-cc59c-2026
- -11-26@lagenda.pt
+UID:projeto-more-than-human-promove-encontro-online-a-78ba5-2026-11-26@lage
+ nda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Roteiro de Seminários sobre Saúde\, Trabalho e Práticas Organiza
- cionais
-LOCATION:Associacao Portuguesa de Sociologia
-DESCRIPTION:https://aps.pt/roteiro-de-seminarios-sobre-saude-trabalho-e-pra
- ticas-organizacionais/
-URL:https://lykeion.pt/e/roteiro-de-seminarios-sobre-saude-trabalho-e-prati
- cas-organi-cc59c.html
+DTSTART;TZID=Europe/Lisbon:20261126T140000
+SUMMARY:Projeto More Than Human promove encontro online…
+LOCATION:Universidade Aberta
+DESCRIPTION:https://portal.uab.pt/noticias/projeto-more-than-human-promove-
+ encontro-online-a-26-de-novembro/
+URL:https://lykeion.pt/e/projeto-more-than-human-promove-encontro-online-a-
+ 78ba5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-a1153-2026-11-26@lagenda.pt
@@ -574,17 +627,17 @@ URL:https://lykeion.pt/e/conferencia-umdiacom-catarina-prista-webinar-48b95
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:webinar-umdiacom-catarina-prista-27-novembro-2026-11h30-578a3-2026-11-2
+UID:webinar-umdiacom-catarina-prista-27-novembro-2026-11h30-854b7-2026-11-2
  7@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T113000
 SUMMARY:Webinar | UmDiaCom... Catarina Prista | 27 novembro 2026 | 11h30
 LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
  eja
-DESCRIPTION:http://www.cebal.pt/index.php/en/2-uncategorised/438-webinar-um
- diacom-catarina-prista-27-novembro-2026-11h30
+DESCRIPTION:http://www.cebal.pt/index.php/en/18-destaque/438-webinar-umdiac
+ om-catarina-prista-27-novembro-2026-11h30
 URL:https://lykeion.pt/e/webinar-umdiacom-catarina-prista-27-novembro-2026-
- 11h30-578a3.html
+ 11h30-854b7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:plataforma-teams-aula-aberta-6c6d0-2026-11-28@lagenda.pt
@@ -684,18 +737,6 @@ DESCRIPTION:https://www.centrodedireitodafamilia.org/encontros/workshop-ter
 URL:https://lykeion.pt/e/workshop-tertulia-online-6a6fa.html
 END:VEVENT
 BEGIN:VEVENT
-UID:reenquadrar-o-defice-linguistico-licoes-da-nova-estrategia-e-a4297-2026
- -12-08@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261208T150000
-SUMMARY:Reenquadrar o défice linguístico: lições da nova estratégia es
- cocesa de integração restaurativa de refugiados Webinar
-LOCATION:Centro de Investigação e Estudos de Sociologia
-DESCRIPTION:https://cies.iscte.pt/np4/5023.html
-URL:https://lykeion.pt/e/reenquadrar-o-defice-linguistico-licoes-da-nova-es
- trategia-e-a4297.html
-END:VEVENT
-BEGIN:VEVENT
 UID:reframing-linguistic-deficit-lessons-from-the-new-scots-rest-f0acf-2026
  -12-08@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -773,6 +814,17 @@ DESCRIPTION:https://spot.pt/eventos/webinar-atualizacao-na-abordagem-ao-doe
  nte-politraumatizado/
 URL:https://lykeion.pt/e/webinar-atualizacao-na-abordagem-ao-doente-politra
  umatizado-e2607.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lisbon-wade-webinar-in-analysis-and-differential-equations-e721d-2026-1
+ 2-11@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T150000
+SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://math.tecnico.ulisboa.pt/seminars/
+URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
+ quations-e721d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-introducao-ao-zotero-via-zoom-meeting-770e6-2026-12-12@lagenda.
@@ -1305,5 +1357,19 @@ DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-%e2%80%95-como
  -recuperar-informacao-com-a-b-on/
 URL:https://lykeion.pt/e/webinar-como-recuperar-informacao-com-a-b-on-17687
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-como-encontrar-publicacoes-na-b-on-conheca-a-nova-i-afdf8-2027
+ -04-11@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20270411T100000
+SUMMARY:Formação – Como encontrar publicações na B-on: conheça a nov
+ a interface de pesquisa – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-como-encontra
+ r-publicacoes-na-b-on-conheca-a-nova-interface-de-pesquisa-via-zoom-meetin
+ g/
+URL:https://lykeion.pt/e/formacao-como-encontrar-publicacoes-na-b-on-conhec
+ a-a-nova-i-afdf8.html
 END:VEVENT
 END:VCALENDAR

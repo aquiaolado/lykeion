@@ -6,14 +6,14 @@ X-WR-CALNAME:IPLeiria (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:3o-encontro-rpac-65586-2026-11-13@lagenda.pt
+UID:3o-encontro-rpac-29fef-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:3o Encontro RPAC
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
   Rainha
-DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/09/3o-encontro-rpac/
-URL:https://lykeion.pt/e/3o-encontro-rpac-65586.html
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/11/3o-encontro-rpac/
+URL:https://lykeion.pt/e/3o-encontro-rpac-29fef.html
 END:VEVENT
 BEGIN:VEVENT
 UID:care-workshop-conferencia-e-exposicao-na-esad-cr-2243a-2026-11-13@lagen
@@ -54,14 +54,25 @@ URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
  inauguraca-672a9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-arte-contemporanea-um-bem-comum-0c98c-2026-11-19@lagenda.pt
+UID:aula-aberta-angela-da-ponte-e1301-2026-11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T173000
+SUMMARY:Aula Aberta – Ângela da Ponte
+LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
+  Rainha
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/10/aula-aberta-angela-da
+ -ponte/
+URL:https://lykeion.pt/e/aula-aberta-angela-da-ponte-e1301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-arte-contemporanea-um-bem-comum-a2b63-2026-11-19@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Encontro: Arte Contemporânea - UM BEM COMUM
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
   Rainha
-DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/09/3o-encontro-rpac/
-URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-0c98c.htm
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/11/3o-encontro-rpac/
+URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-a2b63.htm
  l
 END:VEVENT
 END:VCALENDAR

@@ -6,23 +6,9 @@ X-WR-CALNAME:UTAD (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conference-a-new-approach-to-territorial-intelligence-in-the-1522e-2026
- -11-13@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:CONFERENCE | A New Approach to Territorial Intelligence in the Face
-  of Wildfires
-LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
- icas\, Vila Real
-DESCRIPTION:https://www.citab.utad.pt/events/conference-a-new-approach-to-t
- erritorial-intelligence-in-the-face-of-wildfires
-URL:https://lykeion.pt/e/conference-a-new-approach-to-territorial-intellige
- nce-in-the-1522e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:semana-da-ciencia-tecnologia-2026-0a9a6-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T083000
 SUMMARY:Semana da Ciência & Tecnologia 2026
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/semana-ciencia-tecnologia-2026/
@@ -31,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:os-caminhos-da-ciencia-7b107-2026-11-18@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T160000
 SUMMARY:Os Caminhos da Ciência
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/caminhos-ciencia-2/
@@ -42,8 +28,8 @@ UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
  11-18@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:SEMINÁRIO - Active Hotspots: Tecnologia\, Sustentabilidade e Bem-E
- star
+SUMMARY:SEMINÁRIO – Active Hotspots: Tecnologia\, Sustentabilidade e Bem
+ -Estar
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/seminario-active-hotspots/
 URL:https://lykeion.pt/e/seminario-active-hotspots-tecnologia-sustentabilid
@@ -57,6 +43,19 @@ SUMMARY:Seminário · Universidade de Trás-os-Montes e Alto Douro
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/seminario-active-hotspots/
 URL:https://lykeion.pt/e/seminario-7d131.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-formula-student-engenharia-tecnologia-inovacao-e-mo-a8d31-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T140000
+SUMMARY:Workshop Formula Student: Engenharia\, Tecnologia\, Inovação e Mo
+ bilidade Verde
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/workshop-formula-student-engenha
+ ria-tecnologia-inovacao-mobilidade-verde/
+URL:https://lykeion.pt/e/workshop-formula-student-engenharia-tecnologia-ino
+ vacao-e-mo-a8d31.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-origami-uma-folha-infinitas-2499d-2026-11-18@lagenda.pt
@@ -247,7 +246,7 @@ BEGIN:VEVENT
 UID:sessao-de-apresentacao-de-resultados-do-projeto-ca7e1-2026-11-25@lagend
  a.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T143000
 SUMMARY:Sessão de Apresentação de Resultados do Projeto
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/sessao-apresentacao-resultados-p
@@ -342,5 +341,17 @@ LOCATION:Centro de Estudos Transdisciplinares para o Desenvolvimento\, Vila
   Real
 DESCRIPTION:https://www.cetrad.utad.pt/event/training-sabi-access/
 URL:https://lykeion.pt/e/training-sabi-access-cetrad-e08c2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ui-cap-project-presentation-session-at-utad-df4ae-2027-04-11@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:UI-CAP Project Presentation Session at UTAD
+LOCATION:Centro de Estudos Transdisciplinares para o Desenvolvimento\, Vila
+  Real
+DESCRIPTION:https://www.cetrad.utad.pt/event/ui-cap-project-presentation-se
+ ssion-at-utad-11th-april-14h15/
+URL:https://lykeion.pt/e/ui-cap-project-presentation-session-at-utad-df4ae.
+ html
 END:VEVENT
 END:VCALENDAR

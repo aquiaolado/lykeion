@@ -7,6 +7,44 @@ X-WR-CALNAME:Faculdade de Ciências e Tecnologia da Universidade NOVA de Li
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:dcm-de-portas-abertas-para-58-alunos-do-ensino-secundario-4893e-2026-11
+ -13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:DCM de portas abertas para 58 alunos do Ensino Secundário
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/11/dcm-de-portas-abert
+ as-para-58-alunos-do-ensino-secundario
+URL:https://lykeion.pt/e/dcm-de-portas-abertas-para-58-alunos-do-ensino-sec
+ undario-4893e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:licao-de-jubilacao-professor-rodrigo-martins-do-silicio-aos-54595-2026-
+ 11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T144500
+SUMMARY:Lição de Jubilação | Professor Rodrigo Martins | Do Silício ao
+ s Materiais Avançados: Uma Viagem Rumo ao Futuro
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/08/licao-de-jubilacao-
+ professor-rodrigo-martins-do-silicio-aos-materiais-avancados-uma-viagem-ru
+ mo-ao-f
+URL:https://lykeion.pt/e/licao-de-jubilacao-professor-rodrigo-martins-do-si
+ licio-aos-54595.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-daniel-filipe-borges-vaz-understanding-6fbba-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Provas de mestrado de Daniel Filipe Borges Vaz — Understanding th
+ e Role of a Putative Ribosome Associated DEAD-Box Helicase in Mycobacteria
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-daniel-filipe-borges-vaz-und
+ erstanding-6fbba.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-isaque-alan-de-brito-moura-influence-o-6fbba-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -18,6 +56,57 @@ LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
 DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
 URL:https://lykeion.pt/e/provas-de-mestrado-de-isaque-alan-de-brito-moura-i
  nfluence-o-6fbba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-mestrados-integrados-equilibrio-entre-6fbba-2026-
+ 11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Provas de mestrado de Mestrados Integrados — “Equilíbrio entre
+  computação em “Cloud ” e “Edge” em plataformas IIoT
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mestrados-integrados-equilib
+ rio-entre-6fbba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-lignin-multiphase-plastics-fundamentals-and-proces-9d4a1-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T113000
+SUMMARY:Seminário | «Lignin Multiphase Plastics: Fundamentals and Process
+ ing by Extrusion-based 3D Printing» | Prof. Marie-Pierre Laborie
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/09/seminario-lignin-mu
+ ltiphase-plastics-fundamentals-and-processing-extrusion-based-3d-printing-
+ prof-ma
+URL:https://lykeion.pt/e/seminario-lignin-multiphase-plastics-fundamentals-
+ and-proces-9d4a1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:toolkit-sobre-questoes-juridicas-protecao-de-dados-e-licenca-0b09f-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Toolkit sobre questões jurídicas\, proteção de dados e licença
+ s
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/toolkit-sobre-qu
+ estoes-juridicas-protecao-de-dados-e-licencas
+URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
+ -e-licenca-0b09f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:trial-a-plataforma-jove-b7423-2026-11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Trial à plataforma JoVE
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/trial-plataforma
+ -jove
+URL:https://lykeion.pt/e/trial-a-plataforma-jove-b7423.html
 END:VEVENT
 BEGIN:VEVENT
 UID:voluntarios-nova-fct-campanha-banco-alimentar-a5144-2026-11-15@lagenda.
@@ -70,17 +159,30 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/nova-science-inn
 URL:https://lykeion.pt/e/encontro-nova-science-innovation-day-790dd.html
 END:VEVENT
 BEGIN:VEVENT
-UID:potencialize-a-sua-pesquisa-cientifica-com-a-scopus-d20c5-2026-11-18@la
- genda.pt
+UID:potencie-a-sua-pesquisa-cientifica-com-a-scopus-17436-2026-11-18@lagend
+ a.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T130000
-SUMMARY:Potencialize a sua pesquisa científica com a Scopus
+SUMMARY:Potencie a sua pesquisa científica com a Scopus
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/potencialize-sua
- -pesquisa-cientifica-com-scopus
-URL:https://lykeion.pt/e/potencialize-a-sua-pesquisa-cientifica-com-a-scopu
- s-d20c5.html
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/potencie-sua-pes
+ quisa-cientifica-com-scopus
+URL:https://lykeion.pt/e/potencie-a-sua-pesquisa-cientifica-com-a-scopus-17
+ 436.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Madalena 
+ Teixeira Custódio
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-madalena-teixeira-custodio
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mad-12fae.html
 END:VEVENT
 BEGIN:VEVENT
 UID:a-cubic-underestimator-for-deterministic-global-optimization-69e29-2026
@@ -123,6 +225,19 @@ URL:https://lykeion.pt/e/opj-alma-uma-cidade-varias-vozes-votacao-presencia
  l-dd748.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Madalena 
+ Teixeira Custódio
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-madalena-teixeira-custodio
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mad-12fae.html
+END:VEVENT
+BEGIN:VEVENT
 UID:semana-da-ciencia-e-da-tecnologia-5791c-2026-11-23@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261123
@@ -132,6 +247,21 @@ LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
 DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/semana-da-cienci
  a-e-da-tecnologia
 URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-5791c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-apresentacao-publica-da-proposta-de-tese-de-doutor-bfdb2-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T140000
+SUMMARY:Seminário: Apresentação Pública da Proposta de Tese de Doutoram
+ ento em Física Atómica e Molecular do aluno Luís Duarte Rodrigues Suste
+ lo
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/apresentacao-publica-
+ da-proposta-de-tese-de-doutoramento-em-fisica-atomica-e-molecular-do-aluno
+ -luis
+URL:https://lykeion.pt/e/seminario-apresentacao-publica-da-proposta-de-tese
+ -de-doutor-bfdb2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:como-publicar-os-dados-da-sua-investigacao-e-tornar-os-dados-1ac26-2026

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Matemática (DM) (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:lisbon-wade-webinar-in-analysis-and-differential-equations-41d6b-2026-1
+ 1-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://wade.ulisboa.pt
+URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
+ quations-41d6b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lisbon-wade-webinar-in-analysis-and-differential-equations-e721d-2026-1
+ 2-11@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T150000
+SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://math.tecnico.ulisboa.pt/seminars/
+URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
+ quations-e721d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:symposium-d06c6-2027-01-07@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270107
+SUMMARY:Symposium
+LOCATION:Departamento de Matemática (DM)
+DESCRIPTION:https://symposium.math.tecnico.ulisboa.pt/
+URL:https://lykeion.pt/e/symposium-d06c6.html
+END:VEVENT
+END:VCALENDAR

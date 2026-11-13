@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Expolab - Centro Ciência Viva (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:portas-abertas-semana-c-t-no-expolab-centro-ciencia-viva-8a285-2026-11-
+ 24@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Portas abertas: Semana C&T no Expolab - Centro Ciência Viva
+LOCATION:Expolab - Centro Ciência Viva\, Lagoa (Açores)
+DESCRIPTION:https://www.facebook.com/cc.expolab/?locale=pt_PT
+URL:https://lykeion.pt/e/portas-abertas-semana-c-t-no-expolab-centro-cienci
+ a-viva-8a285.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-uau-e-fisica-cef61-2026-11-28@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Portas abertas: Uau!! É física...
+LOCATION:Expolab - Centro Ciência Viva\, Lagoa (Açores)
+DESCRIPTION:https://www.facebook.com/cc.expolab/?locale=pt_PT
+URL:https://lykeion.pt/e/portas-abertas-uau-e-fisica-cef61.html
+END:VEVENT
+END:VCALENDAR

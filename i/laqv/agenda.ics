@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:LAQV (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:cafe-de-ciencia-osteossarcoma-e-outros-tumores-osseos-re-con-5aad9-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Café de ciência: Osteossarcoma e outros tumores ósseos — (re)c
+ onhecer os sinais\, compreender as doenças
+LOCATION:LAQV Requimte\, Porto
+DESCRIPTION:https://docs.google.com/forms/d/e/1FAIpQLSfQPIbbLTZpmFTfvvxZmif
+ PZ1LBRM_VuxMnVojMHMc39lM7MA/viewform?usp=publish-editor
+URL:https://lykeion.pt/e/cafe-de-ciencia-osteossarcoma-e-outros-tumores-oss
+ eos-re-con-5aad9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-inside-the-lab-o-que-realmente-acontece-aqui-83137-2026-11-26
+ @lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Exposição: Inside the Lab: O que realmente acontece aqui?
+LOCATION:LAQV Requimte\, Porto
+DESCRIPTION:https://laqv.requimte.pt/
+URL:https://lykeion.pt/e/exposicao-inside-the-lab-o-que-realmente-acontece-
+ aqui-83137.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-ciencia-no-ovo-novos-caminhos-para-reduzir-o-uso-de-4db05-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Workshop: Ciência no ovo - novos caminhos para reduzir o uso de an
+ imais na investigação
+LOCATION:LAQV Requimte\, Porto
+DESCRIPTION:https://laqv.requimte.pt/
+URL:https://lykeion.pt/e/workshop-ciencia-no-ovo-novos-caminhos-para-reduzi
+ r-o-uso-de-4db05.html
+END:VEVENT
+END:VCALENDAR

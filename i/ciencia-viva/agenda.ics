@@ -49,6 +49,16 @@ DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
 URL:https://lykeion.pt/e/laboratorio-de-engenhocarias-b1383.html
 END:VEVENT
 BEGIN:VEVENT
+UID:semana-da-ciencia-tecnologia-a4528-2026-11-23@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T100000
+SUMMARY:Semana da Ciência & Tecnologia
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
+ ia-|-23-a-29-novembro
+URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-a4528.html
+END:VEVENT
+BEGIN:VEVENT
 UID:cafe-de-ciencia-0f3e9-2026-11-24@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T213000
@@ -57,6 +67,18 @@ LOCATION:Centro Ciência Viva de Bragança\, Bragança
 DESCRIPTION:https://braganca.cienciaviva.pt/2240/cafe-de-ciencia---24-de-no
  vembro
 URL:https://lykeion.pt/e/cafe-de-ciencia-0f3e9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-entrada-gratuita-no-centro-ciencia-viva-de-la-2cf14-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Portas abertas: Entrada gratuita no Centro Ciência Viva de Lagos!
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
+ ia-%7C-23-a-29-novembro
+URL:https://lykeion.pt/e/portas-abertas-entrada-gratuita-no-centro-ciencia-
+ viva-de-la-2cf14.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-entrada-gratuita-no-centro-ciencia-viva-de-bra-4f2cf-2026
@@ -92,6 +114,16 @@ URL:https://lykeion.pt/e/passeio-cientifico-noite-de-anfibios-em-mindelo-05
  e77.html
 END:VEVENT
 BEGIN:VEVENT
+UID:espaco-kids-100-ciencia-28-de-novembro-6084c-2026-11-28@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T110000
+SUMMARY:Espaço Kids: 100 Ciência - 28 de novembro
+LOCATION:Centro Ciência Viva de Bragança\, Bragança
+DESCRIPTION:https://braganca.cienciaviva.pt/12640/espaco-kids:-100-ciencia-
+ --28-de-novembro
+URL:https://lykeion.pt/e/espaco-kids-100-ciencia-28-de-novembro-6084c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-arqueologia-na-semana-da-ciencia-e-da-tecnologia-7cf8b-2026-1
  1-28@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -101,5 +133,43 @@ LOCATION:Centro Ciência Viva do Algarve\, Faro
 DESCRIPTION:https://reservas.ccvalg.pt
 URL:https://lykeion.pt/e/exposicao-arqueologia-na-semana-da-ciencia-e-da-te
  cnologia-7cf8b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:passeio-cientifico-a-vida-no-barranco-do-demo-festival-de-ca-2cf14-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Passeio científico: A vida no Barranco do Demo - Festival de Camin
+ hadas de Monchique
+LOCATION:Centro Ciência Viva de Lagos\, Monchique
+DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
+ ia-%7C-23-a-29-novembro
+URL:https://lykeion.pt/e/passeio-cientifico-a-vida-no-barranco-do-demo-fest
+ ival-de-ca-2cf14.html
+END:VEVENT
+BEGIN:VEVENT
+UID:passeio-cientifico-as-plantas-das-caldas-festival-de-caminha-2cf14-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Passeio científico: As Plantas das Caldas - Festival de Caminhadas
+  de Monchique
+LOCATION:Centro Ciência Viva de Lagos\, Monchique
+DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
+ ia-%7C-23-a-29-novembro
+URL:https://lykeion.pt/e/passeio-cientifico-as-plantas-das-caldas-festival-
+ de-caminha-2cf14.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-do-digital-ao-3d-da-vida-aos-fosseis-2cf14-2026-11-29@lagenda.
+ pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:Workshop: Do digital ao 3D – Dá vida aos fósseis
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
+ ia-%7C-23-a-29-novembro
+URL:https://lykeion.pt/e/workshop-do-digital-ao-3d-da-vida-aos-fosseis-2cf1
+ 4.html
 END:VEVENT
 END:VCALENDAR

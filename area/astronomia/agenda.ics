@@ -6,14 +6,41 @@ X-WR-CALNAME:Astronomia e Espaço (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:antropo-cenico-no-tempo-dos-humanos-da89b-2026-11-13@lagenda.pt
+UID:a-iniciativa-engloba-com-uma-palestra-sobre-a-industria-cons-b0bf0-2026
+ -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
+SUMMARY:A iniciativa engloba com uma palestra sobre a Indústria Conserveir
+ a Local\, pela Confraria do Atum de Vila Real de Santo António\, e com um
+ a mostra ...
+LOCATION:Vila Real de Santo António\, Vila Real de Santo António
+DESCRIPTION:https://www.cm-vrsa.pt/pt/agenda/58383/comemoracao-do-dia-nacio
+ nal-das-conservas-de-peixe.aspx
+URL:https://lykeion.pt/e/a-iniciativa-engloba-com-uma-palestra-sobre-a-indu
+ stria-cons-b0bf0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:antropo-cenico-no-tempo-dos-humanos-da89b-2026-11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T100000
 SUMMARY:Antropo(cénico): No tempo dos Humanos
 LOCATION:Museu Nacional de História Natural e da Ciência\, Santo António
 DESCRIPTION:https://www.agendalx.pt/events/event/antropocenico-no-tempo-dos
  -humanos/
 URL:https://lykeion.pt/e/antropo-cenico-no-tempo-dos-humanos-da89b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cem-cultura-espaco-e-memoria-n-o-23-chamada-de-artigos-da9c3-2026-11-13
+ @lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:CEM - Cultura\, Espaço e Memória\, n.o 23_chamada de artigos
+LOCATION:Centro de Investigação Transdisciplinar Cultura Espaço e Memór
+ ia\, Porto
+DESCRIPTION:https://citcem.org/eventos/chamada-de-artigos-cem-cultura-espac
+ o-e-memoria-n-o-23/
+URL:https://lykeion.pt/e/cem-cultura-espaco-e-memoria-n-o-23-chamada-de-art
+ igos-da9c3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-masterclasses-sessoes-tematicas-c411b-2026-11-13@lagenda.pt
@@ -173,15 +200,6 @@ DESCRIPTION:https://esght.ualg.pt/iv-encontro-de-tecnicos-de-secretariado
 URL:https://lykeion.pt/e/iv-encontro-de-tecnicos-de-secretariado-bf22b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-f9d9e-2026-11-19@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T141500
-SUMMARY:Seminário a produção do visível
-LOCATION:Universidade Autónoma de Lisboa
-DESCRIPTION:https://autonoma.pt/evento/seminario-a-producao-do-visivel/
-URL:https://lykeion.pt/e/seminario-f9d9e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:continue-reading-viver-saudavel-nutrition-summit-exhibition-e9482-2026-
  11-20@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -192,6 +210,18 @@ DESCRIPTION:https://labterra.pt/agenda/viver-saudavel-nutrition-summit-exhi
  bition/
 URL:https://lykeion.pt/e/continue-reading-viver-saudavel-nutrition-summit-e
  xhibition-e9482.html
+END:VEVENT
+BEGIN:VEVENT
+UID:i-ciclo-de-palestras-redes-fantasma-do-conhecimento-a-acao-bddc1-2026-1
+ 1-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T100000
+SUMMARY:I Ciclo de Palestras: Redes Fantasma: do Conhecimento à Ação
+LOCATION:Espaço Museológico da Praia da Vagueira\, Vagos
+DESCRIPTION:https://www.cm-vagos.pt/visitar/agenda/evento/i-ciclo-de-palest
+ ras-redes-fantasma-do-conhecimento-a-acao
+URL:https://lykeion.pt/e/i-ciclo-de-palestras-redes-fantasma-do-conheciment
+ o-a-acao-bddc1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:palestra-macroalgas-na-gastronomia-sustentabilidade-e-tenden-cadd8-2026
@@ -269,6 +299,30 @@ DESCRIPTION:
 URL:https://lykeion.pt/e/porto-post-doc-2026-planetario-02-ab640.html
 END:VEVENT
 BEGIN:VEVENT
+UID:visita-guiada-um-passeio-pelo-ceu-sessao-de-planetario-50c7a-2026-11-24
+ @lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T120000
+SUMMARY:Visita guiada: Um passeio pelo céu - Sessão de planetário
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1234/sessoes-de-planetario
+URL:https://lykeion.pt/e/visita-guiada-um-passeio-pelo-ceu-sessao-de-planet
+ ario-50c7a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:visita-guiada-viagem-pelo-universo-no-parque-de-astronomia-d45bd-2026-1
+ 1-24@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T100000
+SUMMARY:Visita guiada: Viagem pelo Universo no Parque de Astronomia!
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1233/parque-de-astronomia
+URL:https://lykeion.pt/e/visita-guiada-viagem-pelo-universo-no-parque-de-as
+ tronomia-d45bd.html
+END:VEVENT
+BEGIN:VEVENT
 UID:25-11-26-7-o-debate-em-torno-da-inovacao-pedagogica-ia-no-en-0275b-2026
  -11-25@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -330,18 +384,6 @@ URL:https://lykeion.pt/e/8-a-conferencia-anual-de-protecao-civil-ciencia-7d
  214.html
 END:VEVENT
 BEGIN:VEVENT
-UID:a-esaude-como-um-novo-espaco-de-desigualdade-as-pessoas-idos-3f1ec-2026
- -11-26@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T140000
-SUMMARY:A eSaúde como um novo espaço de desigualdade: as pessoas idosas e
-  a inclusão digital em Espanha Workshop
-LOCATION:Centro de Investigação e Estudos de Sociologia
-DESCRIPTION:https://cies.iscte.pt/np4/5045.html
-URL:https://lykeion.pt/e/a-esaude-como-um-novo-espaco-de-desigualdade-as-pe
- ssoas-idos-3f1ec.html
-END:VEVENT
-BEGIN:VEVENT
 UID:eventos-spp-42o-congresso-de-pneumologia-74df9-2026-11-26@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T090000
@@ -351,6 +393,28 @@ DESCRIPTION:https://www.sppneumologia.pt/agenda/42-congresso-de-pneumologia
  -spp
 URL:https://lykeion.pt/e/eventos-spp-42o-congresso-de-pneumologia-74df9.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-jornadas-healthy-campus-da-ulo-82c4a-2026-11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T093000
+SUMMARY:IV Jornadas Healthy Campus da ULO
+LOCATION:Universidade de Leiria e Oeste\, Leiria
+DESCRIPTION:https://www.ulo.pt/iv-jornadas-healthy-campus-da-ulo-26-de-nove
+ mbro-inscricoes-gratuitas-ate-10-de-novembro/
+URL:https://lykeion.pt/e/iv-jornadas-healthy-campus-da-ulo-82c4a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-sismos-e-erupcoes-vulcanicas-o-nosso-planeta-c536f-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Portas abertas: Sismos e erupções vulcânicas: o nosso planeta é
+  dinâmico!
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://idl.ciencias.ulisboa.pt/visitas-sala-de-outreach
+URL:https://lykeion.pt/e/portas-abertas-sismos-e-erupcoes-vulcanicas-o-noss
+ o-planeta-c536f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-candido-ou-o-optimismo-de-voltaire-72e25-2026-11-26@lagenda.p
@@ -425,6 +489,16 @@ LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
 DESCRIPTION:https://constancia.cienciaviva.pt/1235/observacoes-noturnas
 URL:https://lykeion.pt/e/apagamos-as-luzes-e-acendemos-as-estrelas-3647a.ht
  ml
+END:VEVENT
+BEGIN:VEVENT
+UID:espaco-kids-100-ciencia-28-de-novembro-6084c-2026-11-28@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T110000
+SUMMARY:Espaço Kids: 100 Ciência - 28 de novembro
+LOCATION:Centro Ciência Viva de Bragança\, Bragança
+DESCRIPTION:https://braganca.cienciaviva.pt/12640/espaco-kids:-100-ciencia-
+ --28-de-novembro
+URL:https://lykeion.pt/e/espaco-kids-100-ciencia-28-de-novembro-6084c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-ha-formas-no-espaco-054e1-2026-11-28@lagenda.pt

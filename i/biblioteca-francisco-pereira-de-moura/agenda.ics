@@ -6,6 +6,15 @@ X-WR-CALNAME:Biblioteca Francisco Pereira de Moura (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:open-day-toastmasters-c2207-2026-11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T185000
+SUMMARY:Open Day Toastmasters
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/open-day-toastmasters/
+URL:https://lykeion.pt/e/open-day-toastmasters-c2207.html
+END:VEVENT
+BEGIN:VEVENT
 UID:research-seminars-in-mathematics-applied-to-economics-and-ma-0bd01-2026
  -11-26@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -27,6 +36,17 @@ LOCATION:Biblioteca Francisco Pereira de Moura
 DESCRIPTION:https://www.iseg.ulisboa.pt/event/sessao-solene-do-ano-letivo-2
  026-2027/
 URL:https://lykeion.pt/e/sessao-solene-do-ano-letivo-2026-2027-10375.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-oaip-5da32-2026-12-02@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T110000
+SUMMARY:Seminário oaip ferramentas de IA para o ensino a aprendizagem e a 
+ avaliação no ensino Superior
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/seminario-oaip-ferramentas-de
+ -ia-para-o-ensino-a-aprendizagem-e-a-avaliacao-no-ensino-superior/
+URL:https://lykeion.pt/e/seminario-oaip-5da32.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-em-economia-d7a90-2026-12-09@lagenda.pt

@@ -26,28 +26,6 @@ DESCRIPTION:https://ihc.fcsh.unl.pt/events/counter-image-2026/
 URL:https://lykeion.pt/e/como-falar-com-o-a-terra-59dc0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:coloquio-entre-guerras-e-paz-633a3-2026-11-19@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T090000
-SUMMARY:Colóquio: Entre guerras e paz
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/entre-guerras-paz/
-URL:https://lykeion.pt/e/coloquio-entre-guerras-e-paz-633a3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:coloquio-tricentenario-da-3a-edicao-dos-philosophiae-natural-66fa2-2026
- -11-24@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T093000
-SUMMARY:Colóquio: Tricentenário da 3a edição dos «Philosophiae Natural
- is Principia Mathematica»\, de Isaac Newton
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/tricentenario-philosophiae-natur
- alis/
-URL:https://lykeion.pt/e/coloquio-tricentenario-da-3a-edicao-dos-philosophi
- ae-natural-66fa2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:x-congresso-de-historia-local-584c2-2026-11-24@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T093000
@@ -59,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:socialist-yugoslavia-all-year-round-9bdb9-2026-11-25@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T123000
 SUMMARY:Socialist Yugoslavia All Year Round
 LOCATION:Instituto de História Contemporânea
 DESCRIPTION:https://ihc.fcsh.unl.pt/agenda/

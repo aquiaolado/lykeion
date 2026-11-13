@@ -6,6 +6,18 @@ X-WR-CALNAME:Instituto Superior de Agronomia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:15th-biennale-of-european-towns-and-town-planners-b8afc-2026-11-13@lage
+ nda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:15th Biennale of European Towns and Town Planners
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/15th-biennale-european-towns-
+ and-town-planners
+URL:https://lykeion.pt/e/15th-biennale-of-european-towns-and-town-planners-
+ b8afc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:09-30-coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-e-31b08-2026
  -11-18@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -17,6 +29,16 @@ DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1062/
  -/coloquio-alteracoes-climaticas-como-nos-adaptarmos-a-esta-nova-realidade
 URL:https://lykeion.pt/e/09-30-coloquio-alteracoes-climaticas-como-nos-adap
  tarmos-a-e-31b08.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tri-city-hackathon-unite-widening-2026-76685-2026-11-19@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Tri-City Hackathon - Unite! Widening 2026
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/tri-city-hackathon-unite-wide
+ ning-2026
+URL:https://lykeion.pt/e/tri-city-hackathon-unite-widening-2026-76685.html
 END:VEVENT
 BEGIN:VEVENT
 UID:instituto-superior-de-agronomia-acolhe-workshop-sobre-a-abor-a058b-2026
@@ -36,21 +58,33 @@ UID:conferencia-arquitetura-paisagista-0bd9a-2026-11-21@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Conferencia Arquitetura Paisagista
-LOCATION:Instituto Superior de Agronomia
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/conferencia
 URL:https://lykeion.pt/e/conferencia-arquitetura-paisagista-0bd9a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-desigualdades-o-a9931-2026
- -11-25@lagenda.pt
+UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-a9931-2026-11-25@lagenda.p
+ t
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261125
-SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA: «Desigualdades\, 
- Oportunidades e Desafios Pedagógicos no Ensino Superior »
-LOCATION:Instituto Superior de Agronomia
+SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/vi-coloquio-sobre-ensino-apre
  ndizagem-no-isa
-URL:https://lykeion.pt/e/vi-coloquio-sobre-ensino-aprendizagem-no-isa-desig
- ualdades-o-a9931.html
+URL:https://lykeion.pt/e/vi-coloquio-sobre-ensino-aprendizagem-no-isa-a9931
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:o-futuro-esta-na-racao-desafios-e-oportunidades-na-industria-dbf11-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:O Futuro está na Ração: Desafios e Oportunidades na Indústria d
+ os Alimentos Compostos
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/o-futuro-esta-na-racao-desafi
+ os-e-oportunidades-na-industria-dos-alimentos-compostos
+URL:https://lykeion.pt/e/o-futuro-esta-na-racao-desafios-e-oportunidades-na
+ -industria-dbf11.html
 END:VEVENT
 END:VCALENDAR

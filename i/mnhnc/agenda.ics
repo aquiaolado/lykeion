@@ -8,11 +8,22 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:antropo-cenico-no-tempo-dos-humanos-da89b-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
+DTSTART;TZID=Europe/Lisbon:20261113T100000
 SUMMARY:Antropo(cénico): No tempo dos Humanos
 LOCATION:Museu Nacional de História Natural e da Ciência\, Santo António
 DESCRIPTION:https://www.agendalx.pt/events/event/antropocenico-no-tempo-dos
  -humanos/
 URL:https://lykeion.pt/e/antropo-cenico-no-tempo-dos-humanos-da89b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-visita-ao-banco-de-sementes-a-l-belo-correia-a4bd6-2026-
+ 11-24@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Portas abertas: Visita ao banco de sementes A.L. Belo Correia
+LOCATION:Museu Nacional de História Natural e da Ciência
+DESCRIPTION:https://museus.ulisboa.pt
+URL:https://lykeion.pt/e/portas-abertas-visita-ao-banco-de-sementes-a-l-bel
+ o-correia-a4bd6.html
 END:VEVENT
 END:VCALENDAR

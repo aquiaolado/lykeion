@@ -6,6 +6,19 @@ X-WR-CALNAME:UNL IHA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:conferencia-materialidade-posse-obrigacao-a-colecao-como-div-07650-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Conferência | Materialidade\, posse\, obrigação: a coleção com
+ o dívida
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/conferencia-materia
+ lidade-posse-obrigacao-a-colecao-como-divida/
+URL:https://lykeion.pt/e/conferencia-materialidade-posse-obrigacao-a-coleca
+ o-como-div-07650.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-13@lagenda
  .pt
 DTSTAMP:20261113T000000Z
@@ -28,18 +41,28 @@ DESCRIPTION:https://institutodehistoriadaarte.com/event/ii-coloquio-index-c
 URL:https://lykeion.pt/e/ii-coloquio-index-collectiones-acores-a4fe5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-permanente-iha-preservacao-e-valorizacao-de-paisag-1a442-2026
- -11-19@lagenda.pt
+UID:x-forum-iberico-de-estudos-museologicos-museus-mundos-em-mud-4f583-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:X Fórum Ibérico de Estudos Museológicos – Museus\, Mundos em M
+ udança
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/x-forum-iberico-de-
+ estudos-museologicos-museus-mundos-em-mudanca/
+URL:https://lykeion.pt/e/x-forum-iberico-de-estudos-museologicos-museus-mun
+ dos-em-mud-4f583.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
-SUMMARY:Seminário Permanente IHA | Preservação e Valorização de Paisag
- ens Fortificadas\, com Luciene Pessotti
+SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent
  e-iha-preservacao-e-valorizacao-de-paisagens-fortificadas-com-luciene-pess
  otti/
-URL:https://lykeion.pt/e/seminario-permanente-iha-preservacao-e-valorizacao
- -de-paisag-1a442.html
+URL:https://lykeion.pt/e/seminario-permanente-iha-1a442.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-e-mesa-redonda-a-pintura-de-tereza-arriaga-tem-ddaeb-2026

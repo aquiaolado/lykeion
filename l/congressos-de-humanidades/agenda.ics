@@ -6,14 +6,14 @@ X-WR-CALNAME:Congressos e colóquios de humanidades (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:3o-encontro-rpac-65586-2026-11-13@lagenda.pt
+UID:3o-encontro-rpac-29fef-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:3o Encontro RPAC
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
   Rainha
-DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/09/3o-encontro-rpac/
-URL:https://lykeion.pt/e/3o-encontro-rpac-65586.html
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/11/3o-encontro-rpac/
+URL:https://lykeion.pt/e/3o-encontro-rpac-29fef.html
 END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-kreativeu-patrimonio-e-transformacoes-sociais-6f21c-2026-11-13
@@ -37,17 +37,13 @@ DESCRIPTION:https://www.fcsh.unl.pt/eventos/museus-mundos-em-mudanca/
 URL:https://lykeion.pt/e/encontro-museus-mundos-em-mudanca-f2951.html
 END:VEVENT
 BEGIN:VEVENT
-UID:forum-de-debate-intervir-no-patrimonio-edificado-incorporand-41543-2026
- -11-13@lagenda.pt
+UID:encontro-nas-margens-do-possivel-d26f2-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T093000
-SUMMARY:Fórum de debate: Intervir no património edificado\, incorporando 
- o passado no futuro
-LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
-DESCRIPTION:https://lab2pt.net/news/forum-de-debate-intervir-no-patrimonio-
- edificado-incorporando-o-passado-no-futuro
-URL:https://lykeion.pt/e/forum-de-debate-intervir-no-patrimonio-edificado-i
- ncorporand-41543.html
+DTSTART;TZID=Europe/Lisbon:20261113T183000
+SUMMARY:Encontro: Nas Margens do Possível
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
+URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ii-coloquio-index-collectiones-acores-a4fe5-2026-11-13@lagenda.pt
@@ -70,19 +66,6 @@ DESCRIPTION:https://lab2pt.net/conferences/congresses/ii-jornadas-nortear-a
 URL:https://lykeion.pt/e/ii-jornadas-nortear-a-ceramica-57727.html
 END:VEVENT
 BEGIN:VEVENT
-UID:museus-mundos-em-mudanca-x-forum-iberico-de-estudos-museolog-a4a43-2026
- -11-13@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Museus\, Mundos em Mudança - X Fórum Ibérico de Estudos Museoló
- gicos
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://fchs.ualg.pt/museus-mundos-em-mudanca-x-forum-iberico-d
- e-estudos-museologicos
-URL:https://lykeion.pt/e/museus-mundos-em-mudanca-x-forum-iberico-de-estudo
- s-museolog-a4a43.html
-END:VEVENT
-BEGIN:VEVENT
 UID:pisa-coloquio-internacional-camoes-e-as-artes-visuais-de-fer-9207b-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -95,6 +78,19 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  -fernao-gomes-a-julio-pomar
 URL:https://lykeion.pt/e/pisa-coloquio-internacional-camoes-e-as-artes-visu
  ais-de-fer-9207b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:x-forum-iberico-de-estudos-museologicos-museus-mundos-em-mud-4f583-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:X Fórum Ibérico de Estudos Museológicos – Museus\, Mundos em M
+ udança
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/x-forum-iberico-de-
+ estudos-museologicos-museus-mundos-em-mudanca/
+URL:https://lykeion.pt/e/x-forum-iberico-de-estudos-museologicos-museus-mun
+ dos-em-mud-4f583.html
 END:VEVENT
 BEGIN:VEVENT
 UID:13-november-2026-xtremers-symposium-on-body-as-interface-for-5c074-2026
@@ -129,7 +125,8 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
@@ -138,9 +135,9 @@ BEGIN:VEVENT
 UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
  -11-14@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T083000
+DTSTART;VALUE=DATE:20261114
 SUMMARY:Encontro: Arte para a Infância e Desenvolvimento Social e Humano
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+LOCATION:Departamento de Antropologia
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
  -para-a-infancia-e-desenvolvimento-social-e-humano/
 URL:https://lykeion.pt/e/encontro-arte-para-a-infancia-e-desenvolvimento-so
@@ -221,15 +218,6 @@ URL:https://lykeion.pt/e/v-congresso-associacao-dos-arqueologos-portugueses
  -7fe4a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:coloquio-entre-guerras-e-paz-633a3-2026-11-19@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T090000
-SUMMARY:Colóquio: Entre guerras e paz
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/entre-guerras-paz/
-URL:https://lykeion.pt/e/coloquio-entre-guerras-e-paz-633a3.html
-END:VEVENT
-BEGIN:VEVENT
 UID:coloquios-coimbra-historia-e-patrimonio-19a01-2026-11-19@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
@@ -240,14 +228,23 @@ DESCRIPTION:https://chsc.uc.pt/eventos-chsc/coloquios-coimbra-historia-e-pa
 URL:https://lykeion.pt/e/coloquios-coimbra-historia-e-patrimonio-19a01.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-arte-contemporanea-um-bem-comum-0c98c-2026-11-19@lagenda.pt
+UID:encontro-artistico-e-cientifico-f9f85-2026-11-19@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T200000
+SUMMARY:Encontro Artístico e Científico
+LOCATION:Centro de Investigação e de Estudos em Belas-Artes
+DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/686
+URL:https://lykeion.pt/e/encontro-artistico-e-cientifico-f9f85.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-arte-contemporanea-um-bem-comum-a2b63-2026-11-19@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Encontro: Arte Contemporânea - UM BEM COMUM
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
   Rainha
-DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/09/3o-encontro-rpac/
-URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-0c98c.htm
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/11/3o-encontro-rpac/
+URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-a2b63.htm
  l
 END:VEVENT
 BEGIN:VEVENT
@@ -274,6 +271,26 @@ LOCATION:Instituto de Filosofia da Nova
 DESCRIPTION:http://ifilnova.pt/eventos/jessica-pepp-sobre-llms/
 URL:https://lykeion.pt/e/arglab-coloquio-20-11-2026-arglab-research-colloqu
  ium-jessic-88a02.html
+END:VEVENT
+BEGIN:VEVENT
+UID:coloquio-ao-vivo-a-arte-da-critica-3fafc-2026-11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Colóquio ao Vivo - A Arte da Crítica
+LOCATION:Fundação Calouste Gulbenkian\, Avenidas Novas
+DESCRIPTION:https://www.agendalx.pt/events/event/a-arte-da-critica/
+URL:https://lykeion.pt/e/coloquio-ao-vivo-a-arte-da-critica-3fafc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:jessica-pepp-no-arglab-research-colloquium-99f0f-2026-11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T110000
+SUMMARY:Jessica Pepp no ArgLab Research Colloquium
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/jessica-pepp-no-arglab-research
+ -colloquium/
+URL:https://lykeion.pt/e/jessica-pepp-no-arglab-research-colloquium-99f0f.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:macau-ipor-realiza-o-xi-encontro-de-pontos-de-rede-de-ensino-0f0e2-2026
@@ -349,19 +366,6 @@ URL:https://lykeion.pt/e/iii-jornadas-de-jovens-historiadores-em-educacao-e
  ncontro-in-f3c1d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:coloquio-tricentenario-da-3a-edicao-dos-philosophiae-natural-66fa2-2026
- -11-24@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T093000
-SUMMARY:Colóquio: Tricentenário da 3a edição dos «Philosophiae Natural
- is Principia Mathematica»\, de Isaac Newton
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/tricentenario-philosophiae-natur
- alis/
-URL:https://lykeion.pt/e/coloquio-tricentenario-da-3a-edicao-dos-philosophi
- ae-natural-66fa2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-24@
  lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -432,6 +436,17 @@ DESCRIPTION:https://www.estc.upl.pt/eventos/ii-jornadas-internacionais-de-c
  enografia-figurinos
 URL:https://lykeion.pt/e/ii-jornadas-internacionais-de-cenografia-figurinos
  -14441.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-jornadas-lnternacionais-de-cenografia-figurinos-bdc4b-2026-11-26@lag
+ enda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:II Jornadas lnternacionais de Cenografia & Figurinos
+LOCATION:Centro de Investigação e de Estudos em Belas-Artes
+DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/687
+URL:https://lykeion.pt/e/ii-jornadas-lnternacionais-de-cenografia-figurinos
+ -bdc4b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ll-international-conference-on-set-costume-design-43aed-2026-11-28@lage
@@ -654,5 +669,18 @@ LOCATION:Centro de Linguística
 DESCRIPTION:https://clunl.fcsh.unl.pt
 URL:https://lykeion.pt/e/xxi-forum-de-partilha-linguistica-chamada-de-traba
  lhos-25fbb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-jornadas-de-ativismo-corporativo-regressam-a-nova-fcsh-em-966dd-2027
+ -04-29@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270429
+SUMMARY:IV Jornadas de Ativismo Corporativo regressam à Nova Fcsh em abril
+  de 2027
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.icnova.fcsh.unl.pt/iv-jornadas-ativismo-corporativo
+ /
+URL:https://lykeion.pt/e/iv-jornadas-de-ativismo-corporativo-regressam-a-no
+ va-fcsh-em-966dd.html
 END:VEVENT
 END:VCALENDAR

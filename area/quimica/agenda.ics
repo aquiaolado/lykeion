@@ -6,16 +6,6 @@ X-WR-CALNAME:Química (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:ip-talks-pesquisa-ao-estado-da-tecnica-006cd-2026-11-18@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T120000
-SUMMARY:IP Talks | Pesquisa ao Estado da Técnica
-LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/ip-talks-pesquisa-ao-esta
- do-da-tecnica/
-URL:https://lykeion.pt/e/ip-talks-pesquisa-ao-estado-da-tecnica-006cd.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-2775d-2026-11-18@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T133000
@@ -66,6 +56,19 @@ URL:https://lykeion.pt/e/workshop-aero2cycle-co-desenho-de-solucoes-de-valo
  rizacao-de-8cb31.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminarios-scouting-quimica-inorganica-radiofarmaceutica-par-cff73-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T103000
+SUMMARY:Seminários Scouting – Química Inorgânica Radiofarmacêutica (P
+ arte 1)
+LOCATION:Departamento de Engenharia e Ciências Nucleares (DECN)
+DESCRIPTION:https://decn.tecnico.ulisboa.pt/eventos/palestras-e-seminarios/
+ seminario-scouting-quimica-inorganica-radiofarmaceutica-parte-1
+URL:https://lykeion.pt/e/seminarios-scouting-quimica-inorganica-radiofarmac
+ eutica-par-cff73.html
+END:VEVENT
+BEGIN:VEVENT
 UID:semana-da-cultura-cientifica-4c823-2026-11-21@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T110000
@@ -111,6 +114,21 @@ DESCRIPTION:https://cqm.uma.pt/cqm/news-archive/155-english/general/news/71
 URL:https://lykeion.pt/e/cqm-seminars-383de.html
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-ciencia-de-perto-os-desafios-e-as-solucoes-centradas-237d5-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T143000
+SUMMARY:Webinar | Ciência de Perto - Os desafios e as soluções centradas
+  no uso de bioherbicidas | 25 de novembro 2026 | 14h30
+LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
+ eja
+DESCRIPTION:http://www.cebal.pt/index.php/en/18-destaque/440-webinar-cienci
+ a-de-perto-os-desafios-e-as-solucoes-centradas-no-uso-de-bioherbicidas-25-
+ de-novembro-2026-14h30
+URL:https://lykeion.pt/e/webinar-ciencia-de-perto-os-desafios-e-as-solucoes
+ -centradas-237d5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-a-quimica-e-divertida-85df9-2026-11-26@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261126
@@ -118,6 +136,19 @@ SUMMARY:Portas abertas: A Química é Divertida
 LOCATION:Universidade da Madeira\, Funchal
 DESCRIPTION:https://qdiv.cqm.uma.pt/
 URL:https://lykeion.pt/e/portas-abertas-a-quimica-e-divertida-85df9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminarios-scouting-quimica-inorganica-radiofarmaceutica-par-f8c47-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T140000
+SUMMARY:Seminários Scouting – Química Inorgânica Radiofarmacêutica (P
+ arte 2)
+LOCATION:Departamento de Engenharia e Ciências Nucleares (DECN)
+DESCRIPTION:https://decn.tecnico.ulisboa.pt/eventos/palestras-e-seminarios/
+ seminarios-scouting-quimica-inorganica-radiofarmaceutica-parte-2
+URL:https://lykeion.pt/e/seminarios-scouting-quimica-inorganica-radiofarmac
+ eutica-par-f8c47.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-a-quimica-dos-alimentos-na-alimentacao-infantil-da-42097-2026-

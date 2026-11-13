@@ -6,6 +6,15 @@ X-WR-CALNAME:Congressos de ciências sociais (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T094500
+SUMMARY:2.ª Conferência Anual do NOVA Green Lab
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/2-a-conferencia-anual-do-nova-green-lab/
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-f78ee.html
+END:VEVENT
+BEGIN:VEVENT
 UID:congresso-comemorativo-dos-40-anos-do-codigo-das-sociedades-99807-2026-
  11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -54,26 +63,14 @@ URL:https://lykeion.pt/e/viii-congresso-internacional-de-politicas-publicas
  -e-desenvo-c3db1.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xxx-congresso-internacional-da-acms-afirmacoes-e-regressoes-e0be5-2026-
- 11-13@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:XXX Congresso Internacional da ACMS : “AFIRMAÇÕES E Regressões
-  da Democracia Num Mundo Global
-LOCATION:Associacao Portuguesa de Sociologia
-DESCRIPTION:https://aps.pt/event/xxx-congresso-internacional-da-acms-afirma
- coes-e-regressoes-da-democracia-num-mundo-global/
-URL:https://lykeion.pt/e/xxx-congresso-internacional-da-acms-afirmacoes-e-r
- egressoes-e0be5.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-internacional-do-patrimonio-turismo-e-arqueologi-97cc0-2026
  -11-14@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
@@ -103,18 +100,6 @@ URL:https://lykeion.pt/e/xvii-congresso-da-sociedade-portuguesa-de-ciencias
  -da-educac-469ed.html
 END:VEVENT
 BEGIN:VEVENT
-UID:atitudes-da-opiniao-publica-em-relacao-a-imigracao-e-as-mino-f8552-2026
- -11-16@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T143000
-SUMMARY:Atitudes da opinião pública em relação à imigração e às min
- orias étnicas em Portugal e Espanha Encontro
-LOCATION:Centro de Investigação e Estudos de Sociologia
-DESCRIPTION:https://cies.iscte.pt/np4/5031.html
-URL:https://lykeion.pt/e/atitudes-da-opiniao-publica-em-relacao-a-imigracao
- -e-as-mino-f8552.html
-END:VEVENT
-BEGIN:VEVENT
 UID:icone6-6th-international-conference-in-neuroethics-2e1c5-2026-11-16@lag
  enda.pt
 DTSTAMP:20261113T000000Z
@@ -138,6 +123,19 @@ LOCATION:ISCAP – Instituto Superior de Contabilidade e Administração do
 DESCRIPTION:https://www.iscap.ipp.pt
 URL:https://lykeion.pt/e/iscap-e-cei-acolhem-a-segunda-reuniao-internaciona
  l-do-proje-847bc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:international-symposium-on-blockchain-and-cybersecurity-ribc-33906-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T090000
+SUMMARY:International Symposium on Blockchain and Cybersecurity – RIBCi
+ –CYTED 2026
+LOCATION:Centro de Estudos Organizacionais e Sociais\, Porto
+DESCRIPTION:https://ceos.iscap.ipp.pt/event-details/international-symposium
+ -on-blockchain-and-cybersecurity-ribci-cyted-2026
+URL:https://lykeion.pt/e/international-symposium-on-blockchain-and-cybersec
+ urity-ribc-33906.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainable-finance-decarbonisation-2nd-international-confer-60c02-2026
@@ -254,6 +252,17 @@ URL:https://lykeion.pt/e/iv-conferencia-internacional-counter-image-divulga
  -programa-0deb5.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sustainable-finance-decarbonisation-2nd-international-confer-484a4-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Sustainable Finance Decarbonisation 2nd International Conference
+LOCATION:Universidade Lusíada\, Porto
+DESCRIPTION:https://www.por.ulusiada.pt/noticias/evento.php?cod=3423
+URL:https://lykeion.pt/e/sustainable-finance-decarbonisation-2nd-internatio
+ nal-confer-484a4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:v-congresso-associacao-dos-arqueologos-portugueses-7fe4a-2026-11-18@lag
  enda.pt
 DTSTAMP:20261113T000000Z
@@ -266,15 +275,29 @@ URL:https://lykeion.pt/e/v-congresso-associacao-dos-arqueologos-portugueses
  -7fe4a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xi-congresso-mundial-de-infancia-e-juventude-ed469-2026-11-18@lagenda.p
+UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
+ migration\, Health and Wellbeing
+LOCATION:Nova SBE
+DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
+ e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
+ pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
+URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
+ orkshop-on-fd2e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xi-congresso-mundial-de-infancia-e-juventude-bb4a7-2026-11-18@lagenda.p
  t
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:XI Congresso Mundial de Infância e Juventude
-LOCATION:Associacao Portuguesa de Sociologia
-DESCRIPTION:https://aps.pt/event/xi-congresso-mundial-de-infancia-e-juventu
- de/
-URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-ed469
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
+ ventude/
+URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-bb4a7
  .html
 END:VEVENT
 BEGIN:VEVENT
@@ -283,7 +306,8 @@ UID:13o-forum-de-gestao-de-dados-de-investigacao-831e4-2026-11-19@lagenda.p
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:13o Fórum de Gestão de Dados de Investigação
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24167
 URL:https://lykeion.pt/e/13o-forum-de-gestao-de-dados-de-investigacao-831e4
  .html
@@ -300,15 +324,6 @@ DESCRIPTION:https://apmgf.pt/evento/iii-encontro-de-outono-da-apmgf-19-a-21
  -de-novembro-de-2026-na-cidade-de-aveiro-2/
 URL:https://lykeion.pt/e/3o-encontro-de-outono-da-apmgf-aveiro-espera-por-t
  i-em-novem-4352e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:coloquio-entre-guerras-e-paz-633a3-2026-11-19@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T090000
-SUMMARY:Colóquio: Entre guerras e paz
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/entre-guerras-paz/
-URL:https://lykeion.pt/e/coloquio-entre-guerras-e-paz-633a3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-conferencia-anual-do-nova-bhre-09c38-2026-11-19@lagenda.pt
@@ -328,7 +343,8 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -352,6 +368,16 @@ LOCATION:Laboratório Nacional de Energia e Geologia
 DESCRIPTION:https://www.lneg.pt/forum-industrial-nacional-eu-solaris/
 URL:https://lykeion.pt/e/lneg-participa-no-forum-industrial-nacional-eu-sol
  aris-b111c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:coloquio-b2ce6-2026-11-19@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T103000
+SUMMARY:O estado das migrações Portugal e países da OCDE
+LOCATION:Centro de Estudos Geográficos
+DESCRIPTION:https://ceg.igot.ulisboa.pt/O-Estado-das-Migracoes-Portugal-e-P
+ aises-da-OCDE
+URL:https://lykeion.pt/e/coloquio-b2ce6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:pampilhosa-da-serra-acolhe-i-congresso-internacional-do-medr-1ab0a-2026
@@ -378,6 +404,18 @@ DESCRIPTION:https://www.iscap.pt/cei/sara-pascoal-na-international-conferen
  ce-life-writing-self-figurations-and-critical-digital-humanities/
 URL:https://lykeion.pt/e/sara-pascoal-na-international-conference-life-writ
  ing-self-f-e1802.html
+END:VEVENT
+BEGIN:VEVENT
+UID:xi-congresso-mundial-de-infancia-e-juventude-4346e-2026-11-19@lagenda.p
+ t
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:XI Congresso Mundial de Infância e Juventude
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
+ ventude-2/
+URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-4346e
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:xxviii-coloquio-de-outono-narrativas-e-representacoes-transc-a0435-2026
@@ -455,6 +493,18 @@ DESCRIPTION:https://www.psicologia.ulisboa.pt/encontro-ser-bebe/
 URL:https://lykeion.pt/e/x-encontro-ser-bebe-0b085.html
 END:VEVENT
 BEGIN:VEVENT
+UID:xi-congresso-mundial-de-infancia-e-juventude-f4a7f-2026-11-20@lagenda.p
+ t
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:XI Congresso Mundial de Infância e Juventude
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
+ ventude-3/
+URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-f4a7f
+ .html
+END:VEVENT
+BEGIN:VEVENT
 UID:xiii-coloquio-irene-lisboa-43124-2026-11-20@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T100000
@@ -519,20 +569,6 @@ SUMMARY:Encontro UBI Ciência e Inovação 2026
 LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24168
 URL:https://lykeion.pt/e/encontro-ubi-ciencia-e-inovacao-2026-a75c1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:european-forum-on-us-history-constrained-engagement-us-labor-6c279-2026
- -11-23@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T183000
-SUMMARY:European Forum on US History | Constrained Engagement: US Labor and
-  Portugal’s Democratic Transition (1974–1975)
-LOCATION:Centro de Estudos Internacionais
-DESCRIPTION:https://cei.iscte-iul.pt/eventos/evento/european-forum-on-us-hi
- story-constrained-engagement-us-labor-and-portugals-democratic-transition-
- 1974-1975/
-URL:https://lykeion.pt/e/european-forum-on-us-history-constrained-engagemen
- t-us-labor-6c279.html
 END:VEVENT
 BEGIN:VEVENT
 UID:forum-rjue-ccp-o-que-muda-43aec-2026-11-23@lagenda.pt
@@ -606,19 +642,6 @@ DESCRIPTION:https://www.ipc.pt/eventos/business-summit-by-coimbra-itec-cibe
  rseguranca-ia/
 URL:https://lykeion.pt/e/coimbra-business-school-iscac-business-summit-by-c
  oimbra-ite-d6937.html
-END:VEVENT
-BEGIN:VEVENT
-UID:coloquio-tricentenario-da-3a-edicao-dos-philosophiae-natural-66fa2-2026
- -11-24@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T093000
-SUMMARY:Colóquio: Tricentenário da 3a edição dos «Philosophiae Natural
- is Principia Mathematica»\, de Isaac Newton
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/tricentenario-philosophiae-natur
- alis/
-URL:https://lykeion.pt/e/coloquio-tricentenario-da-3a-edicao-dos-philosophi
- ae-natural-66fa2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-24@
@@ -710,17 +733,16 @@ URL:https://lykeion.pt/e/epies-encontro-de-profissionais-para-a-inovacao-no
  -ensino-su-00d68.html
 END:VEVENT
 BEGIN:VEVENT
-UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-desigualdades-o-a9931-2026
- -11-25@lagenda.pt
+UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-a9931-2026-11-25@lagenda.p
+ t
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261125
-SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA: «Desigualdades\, 
- Oportunidades e Desafios Pedagógicos no Ensino Superior »
-LOCATION:Instituto Superior de Agronomia
+SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/vi-coloquio-sobre-ensino-apre
  ndizagem-no-isa
-URL:https://lykeion.pt/e/vi-coloquio-sobre-ensino-aprendizagem-no-isa-desig
- ualdades-o-a9931.html
+URL:https://lykeion.pt/e/vi-coloquio-sobre-ensino-aprendizagem-no-isa-a9931
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2o-encontro-nacional-sobre-preservacao-digital-b0695-2026-11-26@lagenda
@@ -787,7 +809,8 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -842,6 +865,18 @@ DESCRIPTION:https://www.arditi.pt/pt/noticias/3o-steering-committee-meeting
  -do-projeto-aquafish0-0.html
 URL:https://lykeion.pt/e/3o-steering-committee-meeting-do-projeto-aquafish0
  -0-4eab9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:i-forum-ocs-debate-comunicacao-estrategica-sustentabilidade-4f678-2026-
+ 12-04@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T093000
+SUMMARY:I Fórum OCS debate comunicação estratégica\, sustentabilidade e
+  greenwashing
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.icnova.fcsh.unl.pt/evento/forum-ocs/
+URL:https://lykeion.pt/e/i-forum-ocs-debate-comunicacao-estrategica-sustent
+ abilidade-4f678.html
 END:VEVENT
 BEGIN:VEVENT
 UID:3-o-coloquio-desafios-curriculares-e-pedagogicos-na-formacao-8def4-2026
@@ -1006,16 +1041,16 @@ URL:https://lykeion.pt/e/first-lisbon-research-workshop-on-economics-and-ec
  onometrics-92dae.html
 END:VEVENT
 BEGIN:VEVENT
-UID:10-a-edicao-do-industrial-marketing-management-imm-summit-14789-2027-01
+UID:10-a-edicao-do-industrial-marketing-management-imm-summit-856f4-2027-01
  -12@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270112
 SUMMARY:10.ª edição do Industrial Marketing Management (IMM) Summit
-LOCATION:Centre for Research in Management & Economics (CEGE)\, Porto
-DESCRIPTION:https://cege.cpsbe.porto.ucp.pt/events/10a-edicao-do-industrial
- -marketing-management-imm-summit
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/10a-edicao-do-industrial-marketing
+ -management-imm-summit
 URL:https://lykeion.pt/e/10-a-edicao-do-industrial-marketing-management-imm
- -summit-14789.html
+ -summit-856f4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:simposio-e2h-janelas-e-fachadas-eficientes-d0849-2027-01-14@lagenda.pt
@@ -1192,6 +1227,18 @@ URL:https://lykeion.pt/e/i-encontro-luso-brasileiro-de-direito-de-familia-5
  d753.html
 END:VEVENT
 BEGIN:VEVENT
+UID:xxii-coloquio-cie-uma-e-ii-congresso-internacional-de-educac-702da-2027
+ -02-23@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270223
+SUMMARY:XXII Colóquio CIE-UMa e II Congresso Internacional de Educação
+LOCATION:Centro de Investigação em Educação\, Funchal
+DESCRIPTION:https://cie.uma.pt/eventos/xxii-coloquio-cie-uma-e-ii-congresso
+ -internacional-de-educacao/
+URL:https://lykeion.pt/e/xxii-coloquio-cie-uma-e-ii-congresso-internacional
+ -de-educac-702da.html
+END:VEVENT
+BEGIN:VEVENT
 UID:congresso-internacional-a-revolta-de-fevereiro-de-1927-e-a-r-784f8-2027
  -02-25@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -1253,18 +1300,6 @@ DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-comportamento
  eting-2/
 URL:https://lykeion.pt/e/formacao-comportamento-etico-na-ciencia-citar-e-re
  ferenciar-dd840.html
-END:VEVENT
-BEGIN:VEVENT
-UID:aps-2027-xiv-congresso-portugues-de-sociologia-cbd5e-2027-03-22@lagenda
- .pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20270322
-SUMMARY:APS 2027 – XIV Congresso Português de Sociologia
-LOCATION:Associacao Portuguesa de Sociologia
-DESCRIPTION:https://aps.pt/event/aps-2027-xiv-congresso-portugues-de-sociol
- ogia/
-URL:https://lykeion.pt/e/aps-2027-xiv-congresso-portugues-de-sociologia-cbd
- 5e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:i-congresso-luso-mocambicano-de-direito-81130-2027-03-23@lagenda.pt

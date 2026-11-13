@@ -17,17 +17,17 @@ DESCRIPTION:https://braga.ucp.pt/eventos/aula-aberta-housing-first-interven
 URL:https://lykeion.pt/e/aula-aberta-4f3f0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-b85e2-2026
+UID:seminario-a-mobilidade-transnacional-dos-trabalhadores-e-das-47b9c-2026
  -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261113T093000
 SUMMARY:Seminário: A mobilidade transnacional dos trabalhadores e das empr
  esas
-LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
-DESCRIPTION:https://porto.ucp.pt/eventos/seminario-mobilidade-transnacional
- -dos-trabalhadores-e-das-empresas
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/seminario-mobilidade-transnaci
+ onal-dos-trabalhadores-e-das-empresas
 URL:https://lykeion.pt/e/seminario-a-mobilidade-transnacional-dos-trabalhad
- ores-e-das-b85e2.html
+ ores-e-das-47b9c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sessao-do-seminario-de-formacao-cehr-44e0c-2026-11-14@lagenda.pt
@@ -85,6 +85,18 @@ SUMMARY:Seminários e Ciclos
 LOCATION:Centro de Estudos de História Religiosa
 DESCRIPTION:https://cehr.ucp.pt/search?f%5B0%5D=categories%3A719
 URL:https://lykeion.pt/e/seminarios-e-ciclos-e371f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:talks-before-lunch-margarida-ferra-behind-the-scenes-of-writ-743a8-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Talks before lunch | Margarida Ferra | Behind the Scenes of Writing
+LOCATION:Centro de Estudos de Comunicação e Cultura
+DESCRIPTION:https://cecc.fch.lisboa.ucp.pt/en/events/talks-lunch-margarida-
+ ferra-behind-scenes-writing
+URL:https://lykeion.pt/e/talks-before-lunch-margarida-ferra-behind-the-scen
+ es-of-writ-743a8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exams-for-the-masters-degree-in-portuguese-sign-language-and-cfa21-2026
@@ -275,19 +287,6 @@ URL:https://lykeion.pt/e/seminario-do-laboratorio-aos-doentes-reais-por-que
  -o-valor-v-7c9ed.html
 END:VEVENT
 BEGIN:VEVENT
-UID:feedback-na-ciencia-como-o-feedback-desenvolve-a-sua-comunic-eb54d-2026
- -11-24@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T140000
-SUMMARY:Feedback na Ciência: Como o Feedback Desenvolve a Sua Comunicaçã
- o Científica
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/feedback-na-ciencia-como-o-fee
- dback-desenvolve-sua-comunicacao-cientifica
-URL:https://lykeion.pt/e/feedback-na-ciencia-como-o-feedback-desenvolve-a-s
- ua-comunic-eb54d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:apresentacao-do-livro-trabalho-s-work-s-88d96-2026-11-26@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
@@ -319,16 +318,6 @@ DESCRIPTION:https://fcse.lisboa.ucp.pt/pt-pt/eventos/provas-de-mestrado-em-
 URL:https://lykeion.pt/e/provas-de-mestrado-em-neuropsicologia-6f2fc.html
 END:VEVENT
 BEGIN:VEVENT
-UID:international-seminar-002a7-2026-11-27@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T180000
-SUMMARY:International seminar professor gerald Schneider
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://iep.lisboa.ucp.pt/pt-pt/eventos/international-seminar-p
- rofessor-gerald-schneider-17966
-URL:https://lykeion.pt/e/international-seminar-002a7.html
-END:VEVENT
-BEGIN:VEVENT
 UID:masterclass-jan-ijas-7aed3-2026-11-27@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T170000
@@ -339,16 +328,17 @@ DESCRIPTION:https://artes.porto.ucp.pt/pt-pt/eventos/masterclass-jan-ijas-3
 URL:https://lykeion.pt/e/masterclass-jan-ijas-7aed3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:international-seminar-professor-gerald-schneider-002a7-2026-11-28@lagen
- da.pt
+UID:feedback-na-ciencia-como-o-feedback-desenvolve-a-sua-comunic-eb54d-2026
+ -11-30@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T180000
-SUMMARY:International Seminar | Professor Gerald Schneider
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Feedback na Ciência: Como o Feedback Desenvolve a Sua Comunicaçã
+ o Científica
 LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://iep.lisboa.ucp.pt/pt-pt/eventos/international-seminar-p
- rofessor-gerald-schneider-17966
-URL:https://lykeion.pt/e/international-seminar-professor-gerald-schneider-0
- 02a7.html
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/feedback-na-ciencia-como-o-fee
+ dback-desenvolve-sua-comunicacao-cientifica
+URL:https://lykeion.pt/e/feedback-na-ciencia-como-o-feedback-desenvolve-a-s
+ ua-comunic-eb54d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-os-modelos-de-organizacao-territorial-do-estado-25a54-2026-
@@ -403,17 +393,17 @@ URL:https://lykeion.pt/e/2a-sessao-do-ciclo-internacional-de-conferencias-c
  idade-e-mi-4570b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sessao-de-apresentacao-do-relatorio-da-negociacao-coletiva-d-cc72e-2026
+UID:sessao-de-apresentacao-do-relatorio-da-negociacao-coletiva-d-12a6e-2026
  -12-11@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T153000
 SUMMARY:Sessão de apresentação do Relatório da Negociação Coletiva de
   2025
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/sessao-de-apresentacao-do-rela
- torio-da-negociacao-coletiva-de-2025
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/sessao-de-apresentacao-do-relatori
+ o-da-negociacao-coletiva-de-2025
 URL:https://lykeion.pt/e/sessao-de-apresentacao-do-relatorio-da-negociacao-
- coletiva-d-cc72e.html
+ coletiva-d-12a6e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-transformar-conhecimento-formacao-cuidado-futuro-d3b53-2026-12
@@ -429,16 +419,16 @@ URL:https://lykeion.pt/e/open-day-transformar-conhecimento-formacao-cuidado
  -futuro-d3b53.html
 END:VEVENT
 BEGIN:VEVENT
-UID:10-a-edicao-do-industrial-marketing-management-imm-summit-14789-2027-01
+UID:10-a-edicao-do-industrial-marketing-management-imm-summit-856f4-2027-01
  -12@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270112
 SUMMARY:10.ª edição do Industrial Marketing Management (IMM) Summit
-LOCATION:Centre for Research in Management & Economics (CEGE)\, Porto
-DESCRIPTION:https://cege.cpsbe.porto.ucp.pt/events/10a-edicao-do-industrial
- -marketing-management-imm-summit
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/10a-edicao-do-industrial-marketing
+ -management-imm-summit
 URL:https://lykeion.pt/e/10-a-edicao-do-industrial-marketing-management-imm
- -summit-14789.html
+ -summit-856f4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:7th-lisbon-winter-school-for-the-study-of-communication-medi-45937-2027

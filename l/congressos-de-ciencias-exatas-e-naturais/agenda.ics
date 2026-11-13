@@ -6,6 +6,15 @@ X-WR-CALNAME:Congressos de ciências exatas e naturais (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T094500
+SUMMARY:2.ª Conferência Anual do NOVA Green Lab
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/2-a-conferencia-anual-do-nova-green-lab/
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-f78ee.html
+END:VEVENT
+BEGIN:VEVENT
 UID:24o-congresso-portugues-de-obstetricia-e-ginecologia-fspog-e3a10-2026-1
  1-13@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -151,15 +160,6 @@ DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=training/allevents/103%2B104%2B
  118
 URL:https://lykeion.pt/e/icone6-6th-international-conference-in-neuroethics
  -2e1c5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:iv-encontro-mares-circulares-bd887-2026-11-16@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:IV Encontro Mares Circulares
-LOCATION:Vila Nova de Gaia\, Vila Nova de Gaia
-DESCRIPTION:https://www.cm-gaia.pt/pt/eventos/iv-encontro-mares-circulares/
-URL:https://lykeion.pt/e/iv-encontro-mares-circulares-bd887.html
 END:VEVENT
 BEGIN:VEVENT
 UID:participacao-online-gratuita-no-simposio-internacional-de-bl-847bc-2026
@@ -313,6 +313,16 @@ URL:https://lykeion.pt/e/o-vg-colab-coorganizou-e-patrocinou-o-xxvi-encontr
  o-da-socie-4256c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sdg-innovation-summit-malaysia-2026-sism-fba5a-2026-11-19@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:SDG Innovation Summit Malaysia 2026 (SISM)
+LOCATION:United Nations University\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/sdg-innovation-summit-malaysia-2026-sism-fba5a.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 UID:sara-pascoal-na-international-conference-life-writing-self-f-e1802-2026
  -11-19@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -385,6 +395,15 @@ URL:https://lykeion.pt/e/vg-colab-co-organised-and-sponsered-xxvi-meeting-o
  f-the-port-d2a3d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:xxiv-encontro-micologico-esav-2026-401a3-2026-11-21@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T080000
+SUMMARY:XXIV Encontro Micológico ESAV 2026
+LOCATION:Instituto Politécnico de Viseu\, Viseu
+DESCRIPTION:https://univiseu.pt/evento/xxiv-encontro-micologico-esav-2026/
+URL:https://lykeion.pt/e/xxiv-encontro-micologico-esav-2026-401a3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:forum-rjue-ccp-o-que-muda-43aec-2026-11-23@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T090000
@@ -405,19 +424,6 @@ DESCRIPTION:https://www.ipc.pt/eventos/business-summit-by-coimbra-itec-cibe
  rseguranca-ia/
 URL:https://lykeion.pt/e/coimbra-business-school-iscac-business-summit-by-c
  oimbra-ite-d6937.html
-END:VEVENT
-BEGIN:VEVENT
-UID:coloquio-tricentenario-da-3a-edicao-dos-philosophiae-natural-66fa2-2026
- -11-24@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T093000
-SUMMARY:Colóquio: Tricentenário da 3a edição dos «Philosophiae Natural
- is Principia Mathematica»\, de Isaac Newton
-LOCATION:Instituto de História Contemporânea
-DESCRIPTION:https://ihc.fcsh.unl.pt/events/tricentenario-philosophiae-natur
- alis/
-URL:https://lykeion.pt/e/coloquio-tricentenario-da-3a-edicao-dos-philosophi
- ae-natural-66fa2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-forum-inesc-tec-do-outono-62b33-2026-11-25@lagenda.pt
@@ -493,6 +499,16 @@ DESCRIPTION:https://www.up.pt/eventos/event/i-jornadas-de-comportamento-mot
  or-da-fadeup
 URL:https://lykeion.pt/e/i-jornadas-de-comportamento-motor-da-fadeup-7ce0b.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-jornadas-healthy-campus-da-ulo-82c4a-2026-11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T093000
+SUMMARY:IV Jornadas Healthy Campus da ULO
+LOCATION:Universidade de Leiria e Oeste\, Leiria
+DESCRIPTION:https://www.ulo.pt/iv-jornadas-healthy-campus-da-ulo-26-de-nove
+ mbro-inscricoes-gratuitas-ate-10-de-novembro/
+URL:https://lykeion.pt/e/iv-jornadas-healthy-campus-da-ulo-82c4a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:north-pt-precision-medicine-meeting-on-medical-genomics-669c8-2026-11-2
@@ -756,5 +772,18 @@ LOCATION:Instituto Para Os Sistemas e Tecnologias de Informação Controlo
 DESCRIPTION:https://portal.insticc.org/conferences
 URL:https://lykeion.pt/e/22nd-international-conference-on-evaluation-of-nov
  el-approac-38281.html
+END:VEVENT
+BEGIN:VEVENT
+UID:30th-congress-ebcog-european-congress-of-obstetrics-and-gyna-877a5-2027
+ -05-12@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20270512T210000
+SUMMARY:30th Congress EBCOG – European Congress of Obstetrics and Gynaeco
+ logy
+LOCATION:Sociedade Portuguesa de Obstetrícia e Medicina Materno-Fetal
+DESCRIPTION:https://www.spommf.pt/evento/30th-congress-ebcog-european-congr
+ ess-of-obstetrics-and-gynaecology/
+URL:https://lykeion.pt/e/30th-congress-ebcog-european-congress-of-obstetric
+ s-and-gyna-877a5.html
 END:VEVENT
 END:VCALENDAR

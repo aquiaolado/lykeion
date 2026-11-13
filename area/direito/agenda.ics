@@ -6,6 +6,15 @@ X-WR-CALNAME:Direito (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T094500
+SUMMARY:2.ª Conferência Anual do NOVA Green Lab
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/2-a-conferencia-anual-do-nova-green-lab/
+URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-f78ee.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-o-regime-juridico-da-educacao-inclusiva-773d0-2026-11-13@la
  genda.pt
 DTSTAMP:20261113T000000Z
@@ -27,6 +36,18 @@ DESCRIPTION:https://www.fcsh.unl.pt/eventos/care-workshop-conferencia-e-exp
  osicao-na-esad-cr/
 URL:https://lykeion.pt/e/care-workshop-conferencia-e-exposicao-na-esad-cr-2
  243a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-13@lagend
+ a.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Ciclo de conferências «O que diz o Direito Civil?»
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
+ o.aspx?Codigo=68370
+URL:https://lykeion.pt/e/ciclo-de-conferencias-o-que-diz-o-direito-civil-97
+ 4d7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:congresso-comemorativo-dos-40-anos-do-codigo-das-sociedades-99807-2026-
@@ -72,9 +93,47 @@ UID:prova-publica-de-mestrado-47410-2026-11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Prova Pública de Mestrado
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-478/
 URL:https://lykeion.pt/e/prova-publica-de-mestrado-47410.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-ia-e-o-futuro-da-investigacao-em-ciencias-juridica-f4b4b-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T180000
+SUMMARY:Seminário IA e o futuro da investigação em Ciências Jurídicas 
+ e Gestão
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/eventos/seminario-ia-e-o-futuro-da-inv
+ estigacao-em-ciencias-juridicas-e-gestao
+URL:https://lykeion.pt/e/seminario-ia-e-o-futuro-da-investigacao-em-ciencia
+ s-juridica-f4b4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-perspectivas-do-direito-na-historia-047d6-2026-11-13@lagenda.
+ pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T120000
+SUMMARY:Seminário Perspectivas do Direito na História
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-19-de-ja
+ neiro-seminario-perspectivas-do-direito-na-historia
+URL:https://lykeion.pt/e/seminario-perspectivas-do-direito-na-historia-047d
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-de-historia-europeia-do-direito-e-justica-3d598-2026-11-13@la
+ genda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T120000
+SUMMARY:Seminário de História Europeia do Direito e Justiça
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-16-de-de
+ zembro-seminario-de-historia-europeia-do-direito-e-justica
+URL:https://lykeion.pt/e/seminario-de-historia-europeia-do-direito-e-justic
+ a-3d598.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-online-inteligencia-artificial-e-o-futuro-da-inves-38246-2026
@@ -88,6 +147,20 @@ DESCRIPTION:https://ijp.upt.pt/events/seminario-online-inteligencia-artific
  ial-e-o-futuro-da-investigacao-em-ciencias-juridicas-e-gestao/
 URL:https://lykeion.pt/e/seminario-online-inteligencia-artificial-e-o-futur
  o-da-inves-38246.html
+END:VEVENT
+BEGIN:VEVENT
+UID:toolkit-sobre-questoes-juridicas-protecao-de-dados-e-licenca-0b09f-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Toolkit sobre questões jurídicas\, proteção de dados e licença
+ s
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/toolkit-sobre-qu
+ estoes-juridicas-protecao-de-dados-e-licencas
+URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
+ -e-licenca-0b09f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:viii-congresso-internacional-de-politicas-publicas-e-desenvo-c3db1-2026
@@ -262,7 +335,8 @@ UID:6o-seminario-cpcj-covilha-violencia-domestica-quebrar-ciclos-43bc0-2026
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:6o Seminário CPCJ Covilhã "Violência Doméstica: Quebrar Ciclos
-LOCATION:Universidade da Beira Interior\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24163
 URL:https://lykeion.pt/e/6o-seminario-cpcj-covilha-violencia-domestica-queb
  rar-ciclos-43bc0.html
@@ -304,18 +378,6 @@ URL:https://lykeion.pt/e/conferencia-saude-mental-e-seguranca-desafios-na-r
  esposta-a-091c5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:dialoghi-italo-portoghesi-di-diritto-penale-dell-economia-355e0-2026-11
- -17@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Dialoghi italo-portoghesi di Diritto penale dell'economia
-LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
-DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/dialoghi-italo-portoghesi-
- di-diritto-penale-delleconomia
-URL:https://lykeion.pt/e/dialoghi-italo-portoghesi-di-diritto-penale-dell-e
- conomia-355e0.html
-END:VEVENT
-BEGIN:VEVENT
 UID:direito-internacional-e-europeu-0c121-2026-11-17@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -324,6 +386,19 @@ LOCATION:Centro de Investigação de Direito Público
 DESCRIPTION:https://lisbonpubliclaw.pt/eventos/interaction-in-the-law-of-th
  e-sea/
 URL:https://lykeion.pt/e/direito-internacional-e-europeu-0c121.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dialogos-italo-portugueses-de-direito-penal-da-economia-dial-355e0-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Diálogos ítalo-portugueses de Direito Penal da Economia / Dialogh
+ i italo-portoghesi di Diritto penale dell'economia
+LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
+DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/dialoghi-italo-portoghesi-
+ di-diritto-penale-delleconomia
+URL:https://lykeion.pt/e/dialogos-italo-portugueses-de-direito-penal-da-eco
+ nomia-dial-355e0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:i-congresso-luso-cabo-verdiano-de-direito-b54f5-2026-11-17@lagenda.pt
@@ -530,6 +605,19 @@ LOCATION:Universidade Fernando Pessoa\, Porto
 DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-matilde-carvalho-ribeiro-psi
  cologia-da-1de67.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-vida-cultura-e-barbarie-os-mal-estares-de-freud-e-5db3c-2026-
+ 11-19@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T120000
+SUMMARY:Seminário: Vida\, cultura e barbárie: Os mal-estares de Freud e M
+ ichel Henry
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/19-de-novembro-vida-cultur
+ a-e-barbarie-os-mal-estares-de-freud-e-michel-henry
+URL:https://lykeion.pt/e/seminario-vida-cultura-e-barbarie-os-mal-estares-d
+ e-freud-e-5db3c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:arbitragem-retomando-a-normalidade-e93d8-2026-11-19@lagenda.pt
@@ -1275,6 +1363,19 @@ DESCRIPTION:https://www.ccb.pt/evento/workshop-atribuir-direitos-a-natureza
 URL:https://lykeion.pt/e/atribuir-direitos-a-natureza-b6498.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencias-e-debates-workshops-conferencias-e-debates-work-c241d-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T140000
+SUMMARY:Conferências e Debates Workshops Conferências e Debates Workshops
+  3–4 Dez 2026 Diálogos Europeus Retomar os laços
+LOCATION:Culturgest | Lisboa\, Almeida
+DESCRIPTION:https://www.culturgest.pt/pt/programacao/dialogos-europeus-e-no
+ ite-das-ideias-retomar-os-lacos/
+URL:https://lykeion.pt/e/conferencias-e-debates-workshops-conferencias-e-de
+ bates-work-c241d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-13627-2026-12-03@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T110000
@@ -1428,6 +1529,18 @@ URL:https://lykeion.pt/e/70-anos-da-declaracao-universal-dos-direitos-human
  os-4885c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-acesso-a-justica-e-sociedade-digital-7b120-2026-12-10@lagenda
+ .pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Seminário - Acesso à Justiça e Sociedade Digital
+LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
+DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-acesso-a-justica
+ -e-sociedade-digital
+URL:https://lykeion.pt/e/seminario-acesso-a-justica-e-sociedade-digital-7b1
+ 20.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-agentes-da-mudanca-agentic-ai-e-o-futuro-das-decis-8066e-2026
  -12-10@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -1463,6 +1576,19 @@ DESCRIPTION:https://novalaw.unl.pt/dialogos-luso-brasileiros-sobre-processo
  -civil/
 URL:https://lykeion.pt/e/dialogos-luso-brasileiros-sobre-processo-civil-ban
  ners-thumb-09ea5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-de-apresentacao-do-relatorio-da-negociacao-coletiva-d-12a6e-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T153000
+SUMMARY:Sessão de apresentação do Relatório da Negociação Coletiva de
+  2025
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/sessao-de-apresentacao-do-relatori
+ o-da-negociacao-coletiva-de-2025
+URL:https://lykeion.pt/e/sessao-de-apresentacao-do-relatorio-da-negociacao-
+ coletiva-d-12a6e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:11-a-12-de-dezembro-v-congresso-do-direito-de-lingua-portugu-5b184-2026
@@ -2697,5 +2823,19 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/10-de-abril-19h00-speed-se
  o-estado-de-sergipe-brasil
 URL:https://lykeion.pt/e/seminario-19h00-speed-seguranca-publica-e-intelige
  ncia-polic-9693e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-the-on-going-and-prospective-reform-05644-2027-
+ 04-11@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20270411T120000
+SUMMARY:Seminário: English SPEED 'The on-going and prospective reform of t
+ he Court of Justice of the European Union'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/11-de-abril-english-speed-
+ the-on-going-and-prospective-reform-of-the-court-of-justice-of-the-europea
+ n-union
+URL:https://lykeion.pt/e/seminario-english-speed-the-on-going-and-prospecti
+ ve-reform-05644.html
 END:VEVENT
 END:VCALENDAR

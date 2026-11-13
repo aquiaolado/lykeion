@@ -6,17 +6,16 @@ X-WR-CALNAME:Faculdade de Ciências da Universidade de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:seminario-de-sistemas-dinamicos-large-deviations-beyond-boun-35e1b-2026
- -11-18@lagenda.pt
+UID:15-00-seminario-extracting-uniform-bounds-from-nonstandard-a-cd5b4-2026
+ -11-13@lagenda.pt
 DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T140000
-SUMMARY:Seminário de Sistemas Dinâmicos «Large Deviations Beyond Bounded
-  Observables»
+DTSTART;TZID=Europe/Lisbon:20261113T150000
+SUMMARY:Seminário Extracting uniform bounds from nonstandard arguments
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
-DESCRIPTION:https://ciencias.ulisboa.pt/eventos/seminario-de-sistemas-dinam
- icos-deviations
-URL:https://lykeion.pt/e/seminario-de-sistemas-dinamicos-large-deviations-b
- eyond-boun-35e1b.html
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/extracting-uniform-bounds-f
+ rom-nonstandard-arguments
+URL:https://lykeion.pt/e/15-00-seminario-extracting-uniform-bounds-from-non
+ standard-a-cd5b4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:quinta-congresso-vi-congresso-da-sociedade-portuguesa-de-cie-23709-2026
@@ -32,6 +31,19 @@ URL:https://lykeion.pt/e/quinta-congresso-vi-congresso-da-sociedade-portugu
  esa-de-cie-23709.html
 END:VEVENT
 BEGIN:VEVENT
+UID:10-00-seminario-seminario-no-ambito-do-doutoramento-em-cienc-380b4-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T100000
+SUMMARY:Seminário Seminário no âmbito do Doutoramento em Ciências do Ma
+ r
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/seminario-no-ambito-do-dout
+ oramento-em-ciencias-do-mar-nannoplankton
+URL:https://lykeion.pt/e/10-00-seminario-seminario-no-ambito-do-doutorament
+ o-em-cienc-380b4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ibeb-no-19o-congresso-do-comite-portugues-da-ursi-com-direit-aa174-2026
  -11-21@lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -45,6 +57,67 @@ URL:https://lykeion.pt/e/ibeb-no-19o-congresso-do-comite-portugues-da-ursi-
  com-direit-aa174.html
 END:VEVENT
 BEGIN:VEVENT
+UID:passeio-cientifico-telhados-solares-de-ciencias-1fcfa-2026-11-23@lagend
+ a.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Passeio científico: Telhados solares de CIÊNCIAS
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
+URL:https://lykeion.pt/e/passeio-cientifico-telhados-solares-de-ciencias-1f
+ cfa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-latex-e6c51-2026-11-24@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Workshop LaTeX
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
+URL:https://lykeion.pt/e/workshop-latex-e6c51.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-meteoritos-17687-2026-11-25@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Conferência: Meteoritos
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://ciencias.ulisboa.pt/sociedade/comunicacao-e-divulgacao-
+ de-ciencia
+URL:https://lykeion.pt/e/conferencia-meteoritos-17687.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-soldadura-ff19c-2026-11-25@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Workshop Soldadura
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
+URL:https://lykeion.pt/e/workshop-soldadura-ff19c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-f5533-2026-11-26@lage
+ nda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Café de ciência: Ciência no Copo - Entre livros e IA
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
+URL:https://lykeion.pt/e/cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-
+ f5533.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-futuro-eficiencia-renovaveis-17687-2026-11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Conferência: Futuro = Eficiência + Renováveis?
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://ciencias.ulisboa.pt/sociedade/comunicacao-e-divulgacao-
+ de-ciencia
+URL:https://lykeion.pt/e/conferencia-futuro-eficiencia-renovaveis-17687.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 UID:ibeb-na-9-a-conferencia-anual-da-redesaude-9a47e-2026-11-26@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261126
@@ -54,6 +127,27 @@ DESCRIPTION:https://ibeb.ciencias.ulisboa.pt/ibeb-na-9-a-conferencia-anual-
  da-redesaude/
 URL:https://lykeion.pt/e/ibeb-na-9-a-conferencia-anual-da-redesaude-9a47e.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-sismos-e-erupcoes-vulcanicas-o-nosso-planeta-c536f-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Portas abertas: Sismos e erupções vulcânicas: o nosso planeta é
+  dinâmico!
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://idl.ciencias.ulisboa.pt/visitas-sala-de-outreach
+URL:https://lykeion.pt/e/portas-abertas-sismos-e-erupcoes-vulcanicas-o-noss
+ o-planeta-c536f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-de-arduino-b299d-2026-11-27@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Workshop de Arduino
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
+URL:https://lykeion.pt/e/workshop-de-arduino-b299d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:homenagem-publica-de-jubilacao-e-ultima-licao-do-professor-p-0fc3d-2026

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CIICESI (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:provas-publicas-de-mestrado-87e4b-2026-12-31@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Provas Públicas de Mestrado
+LOCATION:Centro de Inovação e Investigação em Ciências Empresariais e 
+ Sistemas de Informação\, Felgueiras
+DESCRIPTION:https://www.estg.ipp.pt/noticias/provas-publicas-de-mestrado-mg
+ iqas-1
+URL:https://lykeion.pt/e/provas-publicas-de-mestrado-87e4b.html
+END:VEVENT
+END:VCALENDAR

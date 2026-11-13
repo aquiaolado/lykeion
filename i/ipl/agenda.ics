@@ -15,6 +15,33 @@ DESCRIPTION:https://www.esml.upl.pt/en/events
 URL:https://lykeion.pt/e/masterclass-de-orgao-com-andrea-marcon-e34e2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-ia-e-o-futuro-da-investigacao-em-ciencias-juridica-f4b4b-2026
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T180000
+SUMMARY:Seminário IA e o futuro da investigação em Ciências Jurídicas 
+ e Gestão
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/eventos/seminario-ia-e-o-futuro-da-inv
+ estigacao-em-ciencias-juridicas-e-gestao
+URL:https://lykeion.pt/e/seminario-ia-e-o-futuro-da-investigacao-em-ciencia
+ s-juridica-f4b4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-projeto-nos-propomos-cidadania-territorial-e-ino-1300a-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Aula aberta: Projeto Nós Propomos: cidadania territorial e inovaç
+ ão na educação geográfica
+LOCATION:Centro Interdisciplinar de Estudos Educacionais
+DESCRIPTION:https://www.eselx.upl.pt/eventos/projeto-nos-propomos-cidadania
+ -territorial-e-inovacao-na-educacao-geografica
+URL:https://lykeion.pt/e/aula-aberta-projeto-nos-propomos-cidadania-territo
+ rial-e-ino-1300a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:investigacao-estatistica-no-contexto-real-121e5-2026-11-16@lagenda.pt
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T160000
@@ -120,15 +147,6 @@ DESCRIPTION:https://www.eselx.upl.pt/eventos/mesa-redonda-conversa-com-anim
 URL:https://lykeion.pt/e/mesa-redonda-daf86.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-publicas-de-mestrado-4f983-2026-11-24@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas Públicas de Mestrado
-LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
-DESCRIPTION:https://www.essl.upl.pt/eventos/provas-publicas-de-mestrado
-URL:https://lykeion.pt/e/provas-publicas-de-mestrado-4f983.html
-END:VEVENT
-BEGIN:VEVENT
 UID:isel-symposium-on-sustainable-energy-transition-isset-ac4e8-2026-11-25@
  lagenda.pt
 DTSTAMP:20261113T000000Z
@@ -151,6 +169,15 @@ DESCRIPTION:https://www.estc.upl.pt/eventos/ii-jornadas-internacionais-de-c
  enografia-figurinos
 URL:https://lykeion.pt/e/ii-jornadas-internacionais-de-cenografia-figurinos
  -14441.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-publicas-de-mestrado-22b8e-2026-11-26@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Provas Públicas de Mestrado
+LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
+DESCRIPTION:https://www.essl.upl.pt/eventos/provas-publicas-de-mestrado
+URL:https://lykeion.pt/e/provas-publicas-de-mestrado-22b8e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:o-ensino-da-compreensao-oral-e-da-expressao-oral-em-plnm-060e9-2026-11-
