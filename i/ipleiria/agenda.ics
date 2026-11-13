@@ -6,10 +6,20 @@ X-WR-CALNAME:IPLeiria (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:care-workshop-conferencia-e-exposicao-na-esad-cr-2243a-2026-11-12@lagen
+UID:3o-encontro-rpac-65586-2026-11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:3o Encontro RPAC
+LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
+  Rainha
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/09/3o-encontro-rpac/
+URL:https://lykeion.pt/e/3o-encontro-rpac-65586.html
+END:VEVENT
+BEGIN:VEVENT
+UID:care-workshop-conferencia-e-exposicao-na-esad-cr-2243a-2026-11-13@lagen
  da.pt
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
 SUMMARY:CARE - Workshop\, Conferência e Exposição na ESAD.CR
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/care-workshop-conferencia-e-exp
@@ -19,9 +29,9 @@ URL:https://lykeion.pt/e/care-workshop-conferencia-e-exposicao-na-esad-cr-2
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-care-contemporary-arts-activism-for-reproductive-2db5f-2026
- -11-12@lagenda.pt
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T143000
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T143000
 SUMMARY:Conferência: Care - Contemporary Arts Activism For Reproductive He
  althcare
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
@@ -32,9 +42,9 @@ URL:https://lykeion.pt/e/conferencia-care-contemporary-arts-activism-for-re
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-nostalgia-observacoes-extradimensionais-inauguraca-672a9-2026
- -11-12@lagenda.pt
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Lisbon:20261112T150000
+ -11-13@lagenda.pt
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Lisbon:20261113T150000
 SUMMARY:Exposição “Nostalgia — Observações extradimensionais” (In
  auguração – 29 de setembro na ULO)
 LOCATION:Politécnico de Leiria\, Leiria
@@ -44,18 +54,8 @@ URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
  inauguraca-672a9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:3o-encontro-rpac-65586-2026-11-13@lagenda.pt
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:3o Encontro RPAC
-LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
-  Rainha
-DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/09/3o-encontro-rpac/
-URL:https://lykeion.pt/e/3o-encontro-rpac-65586.html
-END:VEVENT
-BEGIN:VEVENT
 UID:encontro-arte-contemporanea-um-bem-comum-0c98c-2026-11-19@lagenda.pt
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Encontro: Arte Contemporânea - UM BEM COMUM
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
