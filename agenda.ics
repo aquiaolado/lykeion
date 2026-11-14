@@ -139,16 +139,6 @@ URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
  ltramar-76f20.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-239fa-2026-11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T090000
-SUMMARY:Exposição · Faculdade de Arquitetura da Universidade do Porto
-LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
- 5845
-URL:https://lykeion.pt/e/exposicao-239fa.html
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-e4318-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -312,7 +302,7 @@ UID:aulas-abertas-de-xadrez-2026-c462b-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Aulas Abertas de Xadrez 2026
-LOCATION:
+LOCATION:RioSul Shopping\, Seixal
 DESCRIPTION:
 URL:https://lykeion.pt/e/aulas-abertas-de-xadrez-2026-c462b.html
 END:VEVENT
@@ -355,7 +345,8 @@ UID:ciclo-de-seminarios-sobre-o-espaco-rural-aaf50-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Ciclo de Seminários sobre o espaço rural
-LOCATION:
+LOCATION:Câmara Municipal De São Brás de Alportel\, São Brás de Alport
+ el
 DESCRIPTION:
 URL:https://lykeion.pt/e/ciclo-de-seminarios-sobre-o-espaco-rural-aaf50.htm
  l
@@ -449,7 +440,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Doc’s Kingdom – Seminário Internacional sobre Cinema Documenta
  l
-LOCATION:
+LOCATION:Odemira (vila)\, Odemira
 DESCRIPTION:
 URL:https://lykeion.pt/e/docs-kingdom-seminario-internacional-sobre-cinema-
  documental-16712.html
@@ -505,7 +496,7 @@ BEGIN:VEVENT
 UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T083000
 SUMMARY:Encontro: Arte para a Infância e Desenvolvimento Social e Humano
 LOCATION:Departamento de Antropologia
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
@@ -578,6 +569,18 @@ URL:https://lykeion.pt/e/22-10-2026-24-11-2026-exposicao-itinerante-landsca
  pe-togethe-275dc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T090000
+SUMMARY:Exposição | Anuária 25.26 - Inteligência Arquitetónica
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5485
+URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
+ -inteligen-a9a54.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-14@lagenda
  .pt
 DTSTAMP:20261114T000000Z
@@ -609,6 +612,16 @@ DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
  erpretacoes-da-escrita-a-setima-arte/
 URL:https://lykeion.pt/e/exposicao-reinterpretacoes-da-escrita-a-setima-art
  e-cb00e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-a9a54-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T090000
+SUMMARY:Exposição · Faculdade de Arquitetura da Universidade do Porto
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5485
+URL:https://lykeion.pt/e/exposicao-a9a54.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
@@ -1174,15 +1187,34 @@ URL:https://lykeion.pt/e/workshop-de-cozinha-vegetariana-14-de-novembro-b19
  7b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:workshop-de-escrita-criativa-d0d43-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T100000
+SUMMARY:Workshop de Escrita Criativa
+LOCATION:Quadro e Giz - Centro de Estudos e ATL\, Cascais
+DESCRIPTION:
+URL:https://lykeion.pt/e/workshop-de-escrita-criativa-d0d43.html
+END:VEVENT
+BEGIN:VEVENT
 UID:neste-workshop-conduzido-por-miguel-pereira-da-silva-os-part-b5905-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T143000
 SUMMARY:Workshop de fotografia analógica
 LOCATION:Instituto Superior Bissaya Barreto\, Coimbra
 DESCRIPTION:https://agenda.fbb.pt/eventos/workshop-de-fotografia-analogica/
 URL:https://lykeion.pt/e/neste-workshop-conduzido-por-miguel-pereira-da-sil
  va-os-part-b5905.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshops-de-pintura-e-desenho-2026-2027-0110f-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Workshops de Pintura e Desenho 2026/2027
+LOCATION:Centro de Estudos de Arte Contemporânea\, Vila Nova da Barquinha
+DESCRIPTION:
+URL:https://lykeion.pt/e/workshops-de-pintura-e-desenho-2026-2027-0110f.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:xix-hospital-faz-de-conta-88f42-2026-11-14@lagenda.pt
@@ -1219,7 +1251,7 @@ BEGIN:VEVENT
 UID:xxv-congresso-nacional-de-grupanalise-e-psicoterapia-analiti-a15f1-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T080000
 SUMMARY:XXV Congresso Nacional de Grupanálise e Psicoterapia Analítica de
   Grupo
 LOCATION:Sociedade Portuguesa de Grupanálise e Psicoterapia Analítica de 
@@ -1499,6 +1531,15 @@ URL:https://lykeion.pt/e/congress-physics-cases-and-instrumentation-for-the
  -eurisol-d-4d6c1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:domingo-de-manha-na-barriga-do-caracol-662e4-2026-11-15@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T110000
+SUMMARY:Domingo de manhã na Barriga do Caracol
+LOCATION:Fábrica - Centro Ciência Viva de Aveiro\, Aveiro
+DESCRIPTION:
+URL:https://lykeion.pt/e/domingo-de-manha-na-barriga-do-caracol-662e4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:historias-vivas-como-apanhar-uma-estrela-de-oliver-jeffers-1-e59e7-2026
  -11-15@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -1668,7 +1709,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T100000
 SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
@@ -1723,7 +1764,7 @@ BEGIN:VEVENT
 UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T153000
 SUMMARY:Provas de Doutoramento em Ciências de Enfermagem: Soraia Cristina 
  de Abreu Pereira
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -2258,7 +2299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-59732-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T143000
 SUMMARY:Lançamento do livro
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
@@ -2388,7 +2429,7 @@ BEGIN:VEVENT
 UID:sustainable-finance-decarbonisation-2nd-international-confer-60c02-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T180000
 SUMMARY:Sustainable Finance Decarbonisation 2nd International Conference
 LOCATION:Universidade Lusíada (Porto)\, Porto
 DESCRIPTION:https://www.por.ulusiada.pt/noticias/eventos.php
@@ -2610,7 +2651,7 @@ BEGIN:VEVENT
 UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T111500
 SUMMARY:Provas de Doutoramento em Ciências Médicas: César António Andra
  de Gaspar Lourenço Martins
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -3400,7 +3441,7 @@ BEGIN:VEVENT
 UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
  -17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:Seminário “Criatividade\, Turismo e Desenvolvimento Regional
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese
@@ -4037,7 +4078,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-origami-uma-folha-infinitas-2499d-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T160000
 SUMMARY:Workshop de Origami: Uma folha\, infinitas
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/workshop-origami-uma-folha-infin
@@ -4233,7 +4274,7 @@ BEGIN:VEVENT
 UID:aula-aberta-bateria-de-avaliacao-neuropsicologica-de-coimbra-93b32-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Aula Aberta: Bateria de Avaliação Neuropsicológica de Coimbra (b
  anc)
 LOCATION:Universidade Lusíada (Porto)\, Porto
@@ -4327,7 +4368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dia-da-ciencia-e-da-inovacao-da-nova-8135f-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Dia da Ciência e da Inovação da NOVA
 LOCATION:Universidade NOVA de Lisboa\, Campolide
 DESCRIPTION:https://cesem.fcsh.unl.pt/event/dia-da-ciencia-e-da-inovacao-da
@@ -4445,7 +4486,7 @@ UID:ii-congresso-mundial-turismo-do-interior-bb648-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:II Congresso Mundial Turismo do Interior
-LOCATION:
+LOCATION:Guarda (cidade)\, Guarda
 DESCRIPTION:
 URL:https://lykeion.pt/e/ii-congresso-mundial-turismo-do-interior-bb648.htm
  l
@@ -4641,7 +4682,7 @@ BEGIN:VEVENT
 UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
  11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:SEMINÁRIO – Active Hotspots: Tecnologia\, Sustentabilidade e Bem
  -Estar
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -4679,7 +4720,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-7d131-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:Seminário · Universidade de Trás-os-Montes e Alto Douro
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/seminario-active-hotspots/
@@ -5033,7 +5074,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
  11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T141500
 SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
  a às Ciências da Saúde
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -6092,7 +6133,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tri-city-hackathon-unite-widening-2026-76685-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T083000
 SUMMARY:Tri-City Hackathon - Unite! Widening 2026
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/tri-city-hackathon-unite-wide
@@ -6160,7 +6201,7 @@ BEGIN:VEVENT
 UID:workshop-aero2cycle-co-desenho-de-solucoes-de-valorizacao-de-8cb31-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T100000
 SUMMARY:Workshop AERO2cycle: Co-desenho de soluções de valorização de C
  O2 industrial
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -6766,7 +6807,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-e-tecnologia-4f156-2026-11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T140000
 SUMMARY:Ciência e Tecnologia · ISEG – Lisbon School of Economics and Ma
  nagement
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -6776,7 +6817,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-e-tecnologia-4f156-2026-11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T140000
 SUMMARY:Ciência e Tecnologia · Instituto Superior Técnico
 LOCATION:Instituto Superior Técnico
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/noticias/ciencia-tecnologia/
@@ -6930,7 +6971,7 @@ BEGIN:VEVENT
 UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
  -11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T163000
 SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
  ns d’animaux dans les imprimés du XVIe siècle
 LOCATION:Instituto de Estudos Medievais
@@ -7124,7 +7165,7 @@ BEGIN:VEVENT
 UID:reflexoes-ciclo-de-conferencias-do-conselho-pedagogico-unive-1fa7f-2026
  -11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T143000
 SUMMARY:ReflexõES - Ciclo de Conferências do Conselho Pedagógico Univers
  itário 14.30 - 16:30 | Edifício da Reitoria\, Colégio dos Jesuitas
 LOCATION:Universidade da Madeira\, Funchal
@@ -7625,7 +7666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:simposio-de-terapias-manuais-f1f68-2026-11-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261121
+DTSTART;TZID=Europe/Lisbon:20261121T100000
 SUMMARY:Simpósio de Terapias Manuais
 LOCATION:Cine-Teatro Turim\, Lisboa
 DESCRIPTION:https://bairrobenfica.pt/agenda/simposio-de-terapias-manuais/
@@ -7652,8 +7693,8 @@ DTSTART;TZID=Europe/Lisbon:20261121T210000
 SUMMARY:X Conferência das Ordens Incêndios: o Papel da Lei\, da Ciência 
  e da Sociedade
 LOCATION:Teatro Viriato\, Viseu
-DESCRIPTION:https://www.teatroviriato.com/pt/pt/programacao/espetaculo/x-co
- nferencia-das-ordens
+DESCRIPTION:https://www.teatroviriato.com/pt/programacao/espetaculo/x-confe
+ rencia-das-ordens
 URL:https://lykeion.pt/e/x-conferencia-das-ordens-incendios-o-papel-da-lei-
  da-ciencia-f581f.html
 END:VEVENT
@@ -7906,7 +7947,7 @@ BEGIN:VEVENT
 UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T141500
 SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
  a às Ciências da Saúde: Ana Beatriz Marques de Sousa
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -8394,7 +8435,7 @@ BEGIN:VEVENT
 UID:aula-aberta-enfrentamentos-a-violencia-domestica-em-perspect-186c6-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T180000
 SUMMARY:Aula Aberta “Enfrentamentos a Violência Doméstica em Perspectiv
  a Comparada entre a América Latina e a União Europeia
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
@@ -9593,7 +9634,7 @@ BEGIN:VEVENT
 UID:ciclo-de-conferencias-sob-o-anjo-da-historia-a158d-2026-11-24@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Ciclo de Conferências 'Sob o Anjo da História'
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -10800,7 +10841,7 @@ UID:2-edicao-do-simposio-onde-o-conhecimento-converge-8def3-2026-11-25@lage
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T093000
 SUMMARY:2.ª Edição do Simpósio 'Onde o Conhecimento Converge'
-LOCATION:
+LOCATION:Escola Secundária da Maia\, Maia
 DESCRIPTION:
 URL:https://lykeion.pt/e/2-edicao-do-simposio-onde-o-conhecimento-converge-
  8def3.html
@@ -11170,7 +11211,7 @@ BEGIN:VEVENT
 UID:novel-therapeutic-approaches-bridging-research-and-implement-c7bf4-2026
  -11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:Novel Therapeutic Approaches: Bridging Research and Implementatin
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -11193,7 +11234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:observacao-da-lua-com-telescopio-0d9e0-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T190000
 SUMMARY:Observação da Lua com telescópio
 LOCATION:Escola Artística do Conservatório de Música Calouste Gulbenkian
   de Braga\, Braga
@@ -11463,7 +11504,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xx-congresso-nacional-de-psiquiatria-f251c-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:XX Congresso Nacional de Psiquiatria
 LOCATION:Sociedade Portuguesa de Psiquiatria e Saúde Mental
 DESCRIPTION:https://www.sppsm.org/evento/xx-congresso-nacional-de-psiquiatr
@@ -12052,7 +12093,7 @@ UID:conferencia-o-novo-luxo-e-o-que-nao-se-pode-replicar-15d4c-2026-11-26@l
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T120000
 SUMMARY:Conferência: O novo luxo é o que não se pode replicar
-LOCATION:
+LOCATION:CAA Centro de Artes de Águeda\, Águeda
 DESCRIPTION:
 URL:https://lykeion.pt/e/conferencia-o-novo-luxo-e-o-que-nao-se-pode-replic
  ar-15d4c.html
@@ -12803,7 +12844,7 @@ BEGIN:VEVENT
 UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
  -27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -12920,7 +12961,7 @@ BEGIN:VEVENT
 UID:evolucao-de-espaco-e-territorio-retrospectivas-conceituais-e-b2c04-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Evolução de espaço e território: retrospectivas conceituais e c
  ontribuições da Geografia às ciências sociais
 LOCATION:Centro de Ecologia Funcional (CFE)\, Coimbra
@@ -13247,7 +13288,7 @@ BEGIN:VEVENT
 UID:seminario-tratar-e-cuidar-desafios-na-doenca-cronica-avancad-99b83-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T083000
 SUMMARY:Seminário “Tratar e Cuidar: Desafios na Doença Crónica Avança
  da
 LOCATION:Unidade Hospitalar de Bragança\, Bragança
@@ -13589,7 +13630,7 @@ UID:seminario-cante-patrimonio-imaterial-da-humanidade-9f19c-2026-11-28@lag
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Seminário «Cante - Património Imaterial da Humanidade»
-LOCATION:
+LOCATION:Castro Verde (vila)\, Castro Verde
 DESCRIPTION:
 URL:https://lykeion.pt/e/seminario-cante-patrimonio-imaterial-da-humanidade
  -9f19c.html
@@ -17315,7 +17356,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro-18cd9-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T150000
 SUMMARY:Prova de Doutoramento do aluno Rui Orlando Magalhães Ribeiro
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
@@ -19063,7 +19104,7 @@ BEGIN:VEVENT
 UID:percursos-da-consciencia-fonologica-a-compreensao-leitora-es-362fa-2027
  -01-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270112
+DTSTART;TZID=Europe/Lisbon:20270112T173000
 SUMMARY:Percursos da consciência fonológica à compreensão leitora – E
  stratégias eficazes e ferramentas digitais para apoiar a aprendizagem
 LOCATION:Escola Superior de Educação de Paula Frassinetti\, Porto
@@ -21107,7 +21148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270210
+DTSTART;TZID=Europe/Lisbon:20270210T130000
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/evento/afirse2026-para-uma-educacao-h
@@ -21216,7 +21257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270212
+DTSTART;TZID=Europe/Lisbon:20270212T130000
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/evento/afirse2026-para-uma-educacao-h

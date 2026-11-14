@@ -40,7 +40,7 @@ BEGIN:VEVENT
 UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T083000
 SUMMARY:Encontro: Arte para a Infância e Desenvolvimento Social e Humano
 LOCATION:Departamento de Antropologia
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
@@ -364,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dia-da-ciencia-e-da-inovacao-da-nova-8135f-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Dia da Ciência e da Inovação da NOVA
 LOCATION:Universidade NOVA de Lisboa\, Campolide
 DESCRIPTION:https://cesem.fcsh.unl.pt/event/dia-da-ciencia-e-da-inovacao-da
@@ -582,7 +582,7 @@ BEGIN:VEVENT
 UID:workshop-aero2cycle-co-desenho-de-solucoes-de-valorizacao-de-8cb31-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T100000
 SUMMARY:Workshop AERO2cycle: Co-desenho de soluções de valorização de C
  O2 industrial
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -643,7 +643,7 @@ BEGIN:VEVENT
 UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
  -11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T163000
 SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
  ns d’animaux dans les imprimés du XVIe siècle
 LOCATION:Instituto de Estudos Medievais
@@ -1107,7 +1107,7 @@ BEGIN:VEVENT
 UID:novel-therapeutic-approaches-bridging-research-and-implement-c7bf4-2026
  -11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:Novel Therapeutic Approaches: Bridging Research and Implementatin
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -1210,7 +1210,7 @@ BEGIN:VEVENT
 UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
  -27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada

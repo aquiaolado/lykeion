@@ -257,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tri-city-hackathon-unite-widening-2026-76685-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T083000
 SUMMARY:Tri-City Hackathon - Unite! Widening 2026
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/tri-city-hackathon-unite-wide
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
  -11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T163000
 SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
  ns d’animaux dans les imprimés du XVIe siècle
 LOCATION:Instituto de Estudos Medievais

@@ -31,7 +31,8 @@ UID:ciclo-de-seminarios-sobre-o-espaco-rural-aaf50-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Ciclo de Seminários sobre o espaço rural
-LOCATION:
+LOCATION:Câmara Municipal De São Brás de Alportel\, São Brás de Alport
+ el
 DESCRIPTION:
 URL:https://lykeion.pt/e/ciclo-de-seminarios-sobre-o-espaco-rural-aaf50.htm
  l
@@ -290,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:observacao-da-lua-com-telescopio-0d9e0-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T190000
 SUMMARY:Observação da Lua com telescópio
 LOCATION:Escola Artística do Conservatório de Música Calouste Gulbenkian
   de Braga\, Braga
@@ -370,7 +371,7 @@ BEGIN:VEVENT
 UID:evolucao-de-espaco-e-territorio-retrospectivas-conceituais-e-b2c04-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Evolução de espaço e território: retrospectivas conceituais e c
  ontribuições da Geografia às ciências sociais
 LOCATION:Centro de Ecologia Funcional (CFE)\, Coimbra
@@ -572,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270210
+DTSTART;TZID=Europe/Lisbon:20270210T130000
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/evento/afirse2026-para-uma-educacao-h
@@ -582,7 +583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270212
+DTSTART;TZID=Europe/Lisbon:20270212T130000
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/evento/afirse2026-para-uma-educacao-h

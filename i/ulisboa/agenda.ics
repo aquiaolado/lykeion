@@ -68,7 +68,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T100000
 SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
@@ -663,7 +663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tri-city-hackathon-unite-widening-2026-76685-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T083000
 SUMMARY:Tri-City Hackathon - Unite! Widening 2026
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/tri-city-hackathon-unite-wide
@@ -708,7 +708,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-e-tecnologia-4f156-2026-11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T140000
 SUMMARY:Ciência e Tecnologia · ISEG – Lisbon School of Economics and Ma
  nagement
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -718,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-e-tecnologia-4f156-2026-11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T140000
 SUMMARY:Ciência e Tecnologia · Instituto Superior Técnico
 LOCATION:Instituto Superior Técnico
 DESCRIPTION:https://tecnico.ulisboa.pt/pt/noticias/ciencia-tecnologia/
@@ -2125,7 +2125,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro-18cd9-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T150000
 SUMMARY:Prova de Doutoramento do aluno Rui Orlando Magalhães Ribeiro
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
@@ -3124,7 +3124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270210
+DTSTART;TZID=Europe/Lisbon:20270210T130000
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/evento/afirse2026-para-uma-educacao-h
@@ -3185,7 +3185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270212
+DTSTART;TZID=Europe/Lisbon:20270212T130000
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/evento/afirse2026-para-uma-educacao-h

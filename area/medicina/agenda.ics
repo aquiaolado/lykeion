@@ -284,7 +284,7 @@ BEGIN:VEVENT
 UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T111500
 SUMMARY:Provas de Doutoramento em Ciências Médicas: César António Andra
  de Gaspar Lourenço Martins
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -934,7 +934,7 @@ BEGIN:VEVENT
 UID:novel-therapeutic-approaches-bridging-research-and-implement-c7bf4-2026
  -11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:Novel Therapeutic Approaches: Bridging Research and Implementatin
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -1066,7 +1066,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xx-congresso-nacional-de-psiquiatria-f251c-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:XX Congresso Nacional de Psiquiatria
 LOCATION:Sociedade Portuguesa de Psiquiatria e Saúde Mental
 DESCRIPTION:https://www.sppsm.org/evento/xx-congresso-nacional-de-psiquiatr
@@ -1256,7 +1256,7 @@ BEGIN:VEVENT
 UID:seminario-tratar-e-cuidar-desafios-na-doenca-cronica-avancad-99b83-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T083000
 SUMMARY:Seminário “Tratar e Cuidar: Desafios na Doença Crónica Avança
  da
 LOCATION:Unidade Hospitalar de Bragança\, Bragança

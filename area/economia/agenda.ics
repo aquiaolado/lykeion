@@ -148,7 +148,7 @@ BEGIN:VEVENT
 UID:sustainable-finance-decarbonisation-2nd-international-confer-60c02-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T180000
 SUMMARY:Sustainable Finance Decarbonisation 2nd International Conference
 LOCATION:Universidade Lusíada (Porto)\, Porto
 DESCRIPTION:https://www.por.ulusiada.pt/noticias/eventos.php
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
  -17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:Seminário “Criatividade\, Turismo e Desenvolvimento Regional
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese
@@ -269,7 +269,7 @@ UID:ii-congresso-mundial-turismo-do-interior-bb648-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:II Congresso Mundial Turismo do Interior
-LOCATION:
+LOCATION:Guarda (cidade)\, Guarda
 DESCRIPTION:
 URL:https://lykeion.pt/e/ii-congresso-mundial-turismo-do-interior-bb648.htm
  l
@@ -522,7 +522,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-e-tecnologia-4f156-2026-11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T140000
 SUMMARY:Ciência e Tecnologia · ISEG – Lisbon School of Economics and Ma
  nagement
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -1023,7 +1023,7 @@ BEGIN:VEVENT
 UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
  -27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada

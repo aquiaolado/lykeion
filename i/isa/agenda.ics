@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tri-city-hackathon-unite-widening-2026-76685-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T083000
 SUMMARY:Tri-City Hackathon - Unite! Widening 2026
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/tri-city-hackathon-unite-wide

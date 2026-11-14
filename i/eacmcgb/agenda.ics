@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:observacao-da-lua-com-telescopio-0d9e0-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T190000
 SUMMARY:Observação da Lua com telescópio
 LOCATION:Escola Artística do Conservatório de Música Calouste Gulbenkian
   de Braga\, Braga

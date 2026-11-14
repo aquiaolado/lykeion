@@ -90,7 +90,7 @@ BEGIN:VEVENT
 UID:seminario-active-hotspots-tecnologia-sustentabilidade-e-bem-7d131-2026-
  11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:SEMINÁRIO – Active Hotspots: Tecnologia\, Sustentabilidade e Bem
  -Estar
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
  -27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada

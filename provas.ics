@@ -6,6 +6,18 @@ X-WR-CALNAME:Provas públicas (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
+ @lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T100000
+SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
+LOCATION:Lisboa
+DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
+ rova-de-doutoramento-do-aluno-anthony-andrea-faustine
+URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-anthony-andrea-faus
+ tine-18cd9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-carlos-luciano-gouveia-diniz-a-pedagog-b852a-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -167,6 +179,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-maria-rit
  a-coelho-a-a8004.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T153000
+SUMMARY:Provas de Doutoramento em Ciências de Enfermagem: Soraia Cristina 
+ de Abreu Pereira
+LOCATION:Porto\, Porto
+DESCRIPTION:Soraia Cristina de Abreu Pereira · https://sigarra.up.pt/icbas
+ /pt/noticias_geral.ver_noticia?P_NR=81212
+URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
+ doutoramen-6a16f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-moura-pinto-um-patrimonio-68f98-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -211,18 +236,6 @@ URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
  ias-do-mar-149e7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
- @lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
-LOCATION:Lisboa
-DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
- rova-de-doutoramento-do-aluno-anthony-andrea-faustine
-URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-anthony-andrea-faus
- tine-18cd9.html
-END:VEVENT
-BEGIN:VEVENT
 UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -232,19 +245,6 @@ LOCATION:Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
  o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
 URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
-END:VEVENT
-BEGIN:VEVENT
-UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
- -11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Provas de Doutoramento em Ciências de Enfermagem: Soraia Cristina 
- de Abreu Pereira
-LOCATION:Porto\, Porto
-DESCRIPTION:Soraia Cristina de Abreu Pereira · https://sigarra.up.pt/icbas
- /pt/noticias_geral.ver_noticia?P_NR=81212
-URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
- doutoramen-6a16f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-daniela-rocha-bicalho-tecnologias-035d3-2026-
@@ -507,6 +507,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-camila-de-oliveira-ruf
  ino-a-nova-ad19c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T111500
+SUMMARY:Provas de Doutoramento em Ciências Médicas: César António Andra
+ de Gaspar Lourenço Martins
+LOCATION:Porto\, Porto
+DESCRIPTION:César António Andrade Gaspar Lourenço Martins · https://sig
+ arra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=80432
+URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
+ artins-pro-f56a7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-em-fisioterapia-caceb-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T140000
@@ -661,19 +674,6 @@ LOCATION:Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
  los-jorge-castilho-rabaca-correia-cordeiro/
 URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
- -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas de Doutoramento em Ciências Médicas: César António Andra
- de Gaspar Lourenço Martins
-LOCATION:Porto\, Porto
-DESCRIPTION:César António Andrade Gaspar Lourenço Martins · https://sig
- arra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=80432
-URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
- artins-pro-f56a7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-clara-maria-jesus-marques-ventura-324cd-2026-
@@ -1388,6 +1388,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-lingua-gestual-portuguesa-e-
  educacao-d-b9306.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
+ 11-19@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T141500
+SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
+ a às Ciências da Saúde
+LOCATION:Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84254
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-biotecnologia-molecular-
+ e-celular-fbc57.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-aurea-maria-felix-m-b0c6b-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -1493,19 +1506,6 @@ DESCRIPTION:Pedro Miguel Vaz Pires · https://sigarra.up.pt/flup/pt/noticia
  s_geral.ver_noticia?P_NR=200152
 URL:https://lykeion.pt/e/provas-de-mestrado-de-pedro-miguel-vaz-pires-a-710
  b0.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
- 11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
- a às Ciências da Saúde
-LOCATION:Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 84254
-URL:https://lykeion.pt/e/provas-de-doutoramento-em-biotecnologia-molecular-
- e-celular-fbc57.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-marco-serafi-design-de-embalagens-f606b-2026-
@@ -2151,6 +2151,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciado-nelson-jo
  aquim-de-c-a6c0c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T141500
+SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
+ a às Ciências da Saúde: Ana Beatriz Marques de Sousa
+LOCATION:Porto\, Porto
+DESCRIPTION:Ana Beatriz Marques de Sousa · https://sigarra.up.pt/icbas/pt/
+ noticias_geral.ver_noticia?P_NR=84254
+URL:https://lykeion.pt/e/mestre-ana-beatriz-marques-de-sousa-provas-de-dout
+ oramento-e-8cc45.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-sofia-lopes-de-araujo-magalhaes-do-tab-aa364-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2246,19 +2259,6 @@ DESCRIPTION:João Francisco André de Brito Leal · O debate formal competi
  _geral.ver_noticia?P_NR=202111
 URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-francisco-andre-de-brit
  o-leal-o-d-0073f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
- -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
- a às Ciências da Saúde: Ana Beatriz Marques de Sousa
-LOCATION:Porto\, Porto
-DESCRIPTION:Ana Beatriz Marques de Sousa · https://sigarra.up.pt/icbas/pt/
- noticias_geral.ver_noticia?P_NR=84254
-URL:https://lykeion.pt/e/mestre-ana-beatriz-marques-de-sousa-provas-de-dout
- oramento-e-8cc45.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
@@ -4844,7 +4844,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro-18cd9-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T150000
 SUMMARY:Prova de Doutoramento do aluno Rui Orlando Magalhães Ribeiro
 LOCATION:Lisboa
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p

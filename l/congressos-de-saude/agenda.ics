@@ -280,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xx-congresso-nacional-de-psiquiatria-f251c-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:XX Congresso Nacional de Psiquiatria
 LOCATION:Sociedade Portuguesa de Psiquiatria e Saúde Mental
 DESCRIPTION:https://www.sppsm.org/evento/xx-congresso-nacional-de-psiquiatr

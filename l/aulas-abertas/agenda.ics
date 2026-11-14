@@ -22,7 +22,7 @@ UID:aulas-abertas-de-xadrez-2026-c462b-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Aulas Abertas de Xadrez 2026
-LOCATION:
+LOCATION:RioSul Shopping\, Seixal
 DESCRIPTION:
 URL:https://lykeion.pt/e/aulas-abertas-de-xadrez-2026-c462b.html
 END:VEVENT
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 UID:aula-aberta-bateria-de-avaliacao-neuropsicologica-de-coimbra-93b32-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Aula Aberta: Bateria de Avaliação Neuropsicológica de Coimbra (b
  anc)
 LOCATION:Universidade Lusíada (Porto)\, Porto
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 UID:aula-aberta-enfrentamentos-a-violencia-domestica-em-perspect-186c6-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T180000
 SUMMARY:Aula Aberta “Enfrentamentos a Violência Doméstica em Perspectiv
  a Comparada entre a América Latina e a União Europeia
 LOCATION:Departamento de Ciência e Tecnologia\, Porto

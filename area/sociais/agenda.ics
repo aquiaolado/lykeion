@@ -770,7 +770,7 @@ BEGIN:VEVENT
 UID:sustainable-finance-decarbonisation-2nd-international-confer-60c02-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T180000
 SUMMARY:Sustainable Finance Decarbonisation 2nd International Conference
 LOCATION:Universidade Lusíada (Porto)\, Porto
 DESCRIPTION:https://www.por.ulusiada.pt/noticias/eventos.php
@@ -1255,7 +1255,7 @@ BEGIN:VEVENT
 UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
  -17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:Seminário “Criatividade\, Turismo e Desenvolvimento Regional
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/seminario-criatividade-turismo-e-dese
@@ -1406,7 +1406,7 @@ BEGIN:VEVENT
 UID:aula-aberta-bateria-de-avaliacao-neuropsicologica-de-coimbra-93b32-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T180000
 SUMMARY:Aula Aberta: Bateria de Avaliação Neuropsicológica de Coimbra (b
  anc)
 LOCATION:Universidade Lusíada (Porto)\, Porto
@@ -1521,7 +1521,7 @@ UID:ii-congresso-mundial-turismo-do-interior-bb648-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:II Congresso Mundial Turismo do Interior
-LOCATION:
+LOCATION:Guarda (cidade)\, Guarda
 DESCRIPTION:
 URL:https://lykeion.pt/e/ii-congresso-mundial-turismo-do-interior-bb648.htm
  l
@@ -2596,7 +2596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-e-tecnologia-4f156-2026-11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T140000
 SUMMARY:Ciência e Tecnologia · ISEG – Lisbon School of Economics and Ma
  nagement
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -3003,7 +3003,7 @@ BEGIN:VEVENT
 UID:reflexoes-ciclo-de-conferencias-do-conselho-pedagogico-unive-1fa7f-2026
  -11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T143000
 SUMMARY:ReflexõES - Ciclo de Conferências do Conselho Pedagógico Univers
  itário 14.30 - 16:30 | Edifício da Reitoria\, Colégio dos Jesuitas
 LOCATION:Universidade da Madeira\, Funchal
@@ -3344,8 +3344,8 @@ DTSTART;TZID=Europe/Lisbon:20261121T210000
 SUMMARY:X Conferência das Ordens Incêndios: o Papel da Lei\, da Ciência 
  e da Sociedade
 LOCATION:Teatro Viriato\, Viseu
-DESCRIPTION:https://www.teatroviriato.com/pt/pt/programacao/espetaculo/x-co
- nferencia-das-ordens
+DESCRIPTION:https://www.teatroviriato.com/pt/programacao/espetaculo/x-confe
+ rencia-das-ordens
 URL:https://lykeion.pt/e/x-conferencia-das-ordens-incendios-o-papel-da-lei-
  da-ciencia-f581f.html
 END:VEVENT
@@ -3392,7 +3392,7 @@ BEGIN:VEVENT
 UID:aula-aberta-enfrentamentos-a-violencia-domestica-em-perspect-186c6-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T180000
 SUMMARY:Aula Aberta “Enfrentamentos a Violência Doméstica em Perspectiv
  a Comparada entre a América Latina e a União Europeia
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
@@ -5080,7 +5080,7 @@ BEGIN:VEVENT
 UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
  -27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -5115,7 +5115,7 @@ BEGIN:VEVENT
 UID:evolucao-de-espaco-e-territorio-retrospectivas-conceituais-e-b2c04-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Evolução de espaço e território: retrospectivas conceituais e c
  ontribuições da Geografia às ciências sociais
 LOCATION:Centro de Ecologia Funcional (CFE)\, Coimbra
@@ -7773,7 +7773,7 @@ BEGIN:VEVENT
 UID:percursos-da-consciencia-fonologica-a-compreensao-leitora-es-362fa-2027
  -01-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270112
+DTSTART;TZID=Europe/Lisbon:20270112T173000
 SUMMARY:Percursos da consciência fonológica à compreensão leitora – E
  stratégias eficazes e ferramentas digitais para apoiar a aprendizagem
 LOCATION:Escola Superior de Educação de Paula Frassinetti\, Porto
@@ -8740,7 +8740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270210
+DTSTART;TZID=Europe/Lisbon:20270210T130000
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/evento/afirse2026-para-uma-educacao-h
@@ -8774,7 +8774,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270212
+DTSTART;TZID=Europe/Lisbon:20270212T130000
 SUMMARY:XXXIV Colóquio da AFIRSE Portugal
 LOCATION:Instituto de Educação da Universidade de Lisboa
 DESCRIPTION:https://www.ie.ulisboa.pt/evento/afirse2026-para-uma-educacao-h

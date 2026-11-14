@@ -165,6 +165,18 @@ URL:https://lykeion.pt/e/22-10-2026-24-11-2026-exposicao-itinerante-landsca
  pe-togethe-275dc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T090000
+SUMMARY:Exposição | Anuária 25.26 - Inteligência Arquitetónica
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5485
+URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
+ -inteligen-a9a54.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-14@lagenda
  .pt
 DTSTAMP:20261114T000000Z
@@ -244,14 +256,14 @@ URL:https://lykeion.pt/e/exposicao-por-dentro-do-barroco-no-museu-diocesano
  -de-lamego-60168.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-239fa-2026-11-14@lagenda.pt
+UID:exposicao-a9a54-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T090000
 SUMMARY:Exposição · Faculdade de Arquitetura da Universidade do Porto
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
- 5845
-URL:https://lykeion.pt/e/exposicao-239fa.html
+ 5485
+URL:https://lykeion.pt/e/exposicao-a9a54.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-e4318-2026-11-14@lagenda.pt
@@ -471,6 +483,15 @@ URL:https://lykeion.pt/e/21-10-2026-20-11-2026-exposicao-cadernos-de-receit
  as-de-fami-0ad42.html
 END:VEVENT
 BEGIN:VEVENT
+UID:domingo-de-manha-na-barriga-do-caracol-662e4-2026-11-15@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T110000
+SUMMARY:Domingo de manhã na Barriga do Caracol
+LOCATION:Fábrica - Centro Ciência Viva de Aveiro\, Aveiro
+DESCRIPTION:
+URL:https://lykeion.pt/e/domingo-de-manha-na-barriga-do-caracol-662e4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:historias-vivas-como-apanhar-uma-estrela-de-oliver-jeffers-1-e59e7-2026
  -11-15@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -585,7 +606,7 @@ BEGIN:VEVENT
 UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
  -11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T163000
 SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
  ns d’animaux dans les imprimés du XVIe siècle
 LOCATION:Instituto de Estudos Medievais
@@ -1101,7 +1122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:observacao-da-lua-com-telescopio-0d9e0-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T190000
 SUMMARY:Observação da Lua com telescópio
 LOCATION:Escola Artística do Conservatório de Música Calouste Gulbenkian
   de Braga\, Braga

@@ -136,7 +136,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Doc’s Kingdom – Seminário Internacional sobre Cinema Documenta
  l
-LOCATION:
+LOCATION:Odemira (vila)\, Odemira
 DESCRIPTION:
 URL:https://lykeion.pt/e/docs-kingdom-seminario-internacional-sobre-cinema-
  documental-16712.html
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T083000
 SUMMARY:Encontro: Arte para a Infância e Desenvolvimento Social e Humano
 LOCATION:Departamento de Antropologia
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
@@ -242,6 +242,18 @@ URL:https://lykeion.pt/e/22-10-2026-24-11-2026-exposicao-itinerante-landsca
  pe-togethe-275dc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T090000
+SUMMARY:Exposição | Anuária 25.26 - Inteligência Arquitetónica
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5485
+URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
+ -inteligen-a9a54.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-14@lagenda
  .pt
 DTSTAMP:20261114T000000Z
@@ -321,14 +333,14 @@ URL:https://lykeion.pt/e/exposicao-por-dentro-do-barroco-no-museu-diocesano
  -de-lamego-60168.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-239fa-2026-11-14@lagenda.pt
+UID:exposicao-a9a54-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T090000
 SUMMARY:Exposição · Faculdade de Arquitetura da Universidade do Porto
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
- 5845
-URL:https://lykeion.pt/e/exposicao-239fa.html
+ 5485
+URL:https://lykeion.pt/e/exposicao-a9a54.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-e4318-2026-11-14@lagenda.pt
@@ -586,12 +598,22 @@ BEGIN:VEVENT
 UID:neste-workshop-conduzido-por-miguel-pereira-da-silva-os-part-b5905-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T143000
 SUMMARY:Workshop de fotografia analógica
 LOCATION:Instituto Superior Bissaya Barreto\, Coimbra
 DESCRIPTION:https://agenda.fbb.pt/eventos/workshop-de-fotografia-analogica/
 URL:https://lykeion.pt/e/neste-workshop-conduzido-por-miguel-pereira-da-sil
  va-os-part-b5905.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshops-de-pintura-e-desenho-2026-2027-0110f-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Workshops de Pintura e Desenho 2026/2027
+LOCATION:Centro de Estudos de Arte Contemporânea\, Vila Nova da Barquinha
+DESCRIPTION:
+URL:https://lykeion.pt/e/workshops-de-pintura-e-desenho-2026-2027-0110f.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026
@@ -610,7 +632,7 @@ BEGIN:VEVENT
 UID:xxv-congresso-nacional-de-grupanalise-e-psicoterapia-analiti-a15f1-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T080000
 SUMMARY:XXV Congresso Nacional de Grupanálise e Psicoterapia Analítica de
   Grupo
 LOCATION:Sociedade Portuguesa de Grupanálise e Psicoterapia Analítica de 
@@ -726,7 +748,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-livro-59732-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T143000
 SUMMARY:Lançamento do livro
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
@@ -750,7 +772,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T100000
 SUMMARY:Prova de Doutoramento do aluno Anthony Andrea Faustine
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
@@ -1401,7 +1423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-origami-uma-folha-infinitas-2499d-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T160000
 SUMMARY:Workshop de Origami: Uma folha\, infinitas
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/workshop-origami-uma-folha-infin
@@ -1837,7 +1859,7 @@ BEGIN:VEVENT
 UID:inauguracao-da-exposicao-la-faune-des-voyageurs-illustration-7bc58-2026
  -11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T163000
 SUMMARY:Inauguração da exposição “La faune des voyageurs. Illustratio
  ns d’animaux dans les imprimés du XVIe siècle
 LOCATION:Instituto de Estudos Medievais
@@ -2552,7 +2574,7 @@ BEGIN:VEVENT
 UID:ciclo-de-conferencias-sob-o-anjo-da-historia-a158d-2026-11-24@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Ciclo de Conferências 'Sob o Anjo da História'
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -3269,7 +3291,7 @@ UID:seminario-cante-patrimonio-imaterial-da-humanidade-9f19c-2026-11-28@lag
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Seminário «Cante - Património Imaterial da Humanidade»
-LOCATION:
+LOCATION:Castro Verde (vila)\, Castro Verde
 DESCRIPTION:
 URL:https://lykeion.pt/e/seminario-cante-patrimonio-imaterial-da-humanidade
  -9f19c.html
@@ -4239,7 +4261,7 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro-18cd9-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T150000
 SUMMARY:Prova de Doutoramento do aluno Rui Orlando Magalhães Ribeiro
 LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
