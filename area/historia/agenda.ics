@@ -6,6 +6,16 @@ X-WR-CALNAME:História e Arqueologia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:14o-seminario-desafios-do-mar-portugues-95633-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T093000
+SUMMARY:14o Seminário Desafios do Mar Português
+LOCATION:Auditório do Museu Marítimo de Ílhavo\, Ílhavo
+DESCRIPTION:https://www.cm-ilhavo.pt/municipio/comunicacao/eventos/hoje/eve
+ nto/14-seminario-desafios-do-mar-portugues
+URL:https://lykeion.pt/e/14o-seminario-desafios-do-mar-portugues-95633.html
+END:VEVENT
+BEGIN:VEVENT
 UID:1936-1939-espanha-fraturada-c70bb-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -15,6 +25,31 @@ LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas\, Avenidas
 DESCRIPTION:https://www.agendalx.pt/events/event/1936-1939-espanha-fraturad
  a/
 URL:https://lykeion.pt/e/1936-1939-espanha-fraturada-c70bb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:artis-workshops-de-historia-da-arte-e-patrimonio-1db2b-2026-11-14@lagen
+ da.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T110000
+SUMMARY:Artis + [workshops de História da Arte e Património
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:http://www.artis.letras.ulisboa.pt/eventos\,9\,2454\,detalhe.as
+ px
+URL:https://lykeion.pt/e/artis-workshops-de-historia-da-arte-e-patrimonio-1
+ db2b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cem-cultura-espaco-e-memoria-n-o-23-chamada-de-artigos-da9c3-2026-11-14
+ @lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:CEM - Cultura\, Espaço e Memória\, n.o 23_chamada de artigos
+LOCATION:Centro de Investigação Transdisciplinar Cultura Espaço e Memór
+ ia\, Porto
+DESCRIPTION:https://citcem.org/eventos/chamada-de-artigos-cem-cultura-espac
+ o-e-memoria-n-o-23/
+URL:https://lykeion.pt/e/cem-cultura-espaco-e-memoria-n-o-23-chamada-de-art
+ igos-da9c3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cartografias-poeticas-por-helena-cardoso-exposicao-b2aba-2026-11-14@lag
@@ -29,17 +64,36 @@ URL:https://lykeion.pt/e/cartografias-poeticas-por-helena-cardoso-exposicao
  -b2aba.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciclo-de-conferencias-disputas-de-memoria-fb0f3-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T180000
+SUMMARY:Ciclo de Conferências | Disputas de Memória
+LOCATION:Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://chul.letras.ulisboa.pt/evento/ciclo-de-conferencias-dis
+ putas-de-memoria/
+URL:https://lykeion.pt/e/ciclo-de-conferencias-disputas-de-memoria-fb0f3.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-internacional-do-patrimonio-turismo-e-arqueologi-97cc0-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:contar-historias-com-sons-4b60b-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Contar Histórias com Sons
+LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
+DESCRIPTION:https://www.cenjor.pt
+URL:https://lykeion.pt/e/contar-historias-com-sons-4b60b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:curso-breve-centro-historico-do-porto-30-anos-olhares-cruzad-9ab3e-2026
@@ -77,6 +131,15 @@ URL:https://lykeion.pt/e/cursos-livres-grandes-artistas-do-seculo-xviii-9e9
  03.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontro-nas-margens-do-possivel-d26f2-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T183000
+SUMMARY:Encontro: Nas Margens do Possível
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
+URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
  11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -109,8 +172,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -132,24 +194,24 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
 END:VEVENT
 BEGIN:VEVENT
-UID:palestra-os-romanos-debaixo-da-quinta-de-sao-domingos-benesp-5529f-2026
+UID:no-proximo-dia-14-de-novembro-pelas-20h00-hora-espanhola-o-c-bebbc-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T170000
-SUMMARY:Palestra | Os Romanos debaixo da Quinta de São Domingos – Benesp
- era
-LOCATION:Junta de Freguesia Benespera\, Guarda
-DESCRIPTION:https://www.mun-guarda.pt/agenda-de-eventos/palestra-os-romanos
- -debaixo-da-quinta-de-sao-domingos-benespera/
-URL:https://lykeion.pt/e/palestra-os-romanos-debaixo-da-quinta-de-sao-domin
- gos-benesp-5529f.html
+DTSTART;VALUE=DATE:20261114
+SUMMARY:No próximo dia 14 de novembro\, pelas 20h00 (hora espanhola)\, o C
+ entro de Exposições e Congressos de Ayamonte vai acolher o espetáculo .
+ ..
+LOCATION:Vila Real de Santo António\, Vila Real de Santo António
+DESCRIPTION:https://www.cm-vrsa.pt/pt/agenda/58387/habitar-um-mundo-perfeit
+ o.aspx
+URL:https://lykeion.pt/e/no-proximo-dia-14-de-novembro-pelas-20h00-hora-esp
+ anhola-o-c-bebbc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:paris-exposicao-au-milieu-9207b-2026-11-14@lagenda.pt
@@ -160,6 +222,30 @@ LOCATION:Camões - Instituto da Cooperação e da Língua
 DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  portuguesa/agenda/paris-exposicao-au-milieu
 URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-perspectivas-do-direito-na-historia-047d6-2026-11-14@lagenda.
+ pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T120000
+SUMMARY:Seminário Perspectivas do Direito na História
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-19-de-ja
+ neiro-seminario-perspectivas-do-direito-na-historia
+URL:https://lykeion.pt/e/seminario-perspectivas-do-direito-na-historia-047d
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-de-historia-europeia-do-direito-e-justica-3d598-2026-11-14@la
+ genda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T120000
+SUMMARY:Seminário de História Europeia do Direito e Justiça
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-16-de-de
+ zembro-seminario-de-historia-europeia-do-direito-e-justica
+URL:https://lykeion.pt/e/seminario-de-historia-europeia-do-direito-e-justic
+ a-3d598.html
 END:VEVENT
 BEGIN:VEVENT
 UID:12-11-2026-27-11-2026-seminario-regionalism-in-the-age-of-po-afe7d-2026
@@ -260,6 +346,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-de-carvalho-goncalve
  s-dos-reis-a2a81.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-historia-militar-de-tomas-pombal-jorge-2d581-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T150000
+SUMMARY:Provas de mestrado em História Militar de Tomás Pombal Jorge Trav
+ essa — Guerra e videojogos de método de aprendizagem a processo analít
+ ico em história militar
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-h
+ istoria-militar-31?Itemid=0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-historia-militar-de-tomas-po
+ mbal-jorge-2d581.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminarios-e-ciclos-e371f-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T170000
@@ -283,6 +383,19 @@ URL:https://lykeion.pt/e/sessao-do-seminario-de-historia-religiosa-ubi-est-
  caritas-vi-7381d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:apresentacao-do-livro-antes-dos-cravos-de-a-m-galopim-de-car-dbde4-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T180000
+SUMMARY:Apresentação do livro Antes dos Cravos\, de A. M. Galopim de Carv
+ alho
+LOCATION:Évora\, Évora
+DESCRIPTION:https://www.cm-evora.pt/eventos/apresentacao-do-livro-antes-dos
+ -cravos-de-a-m-galopim-de-carvalho/
+URL:https://lykeion.pt/e/apresentacao-do-livro-antes-dos-cravos-de-a-m-galo
+ pim-de-car-dbde4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ciclo-de-seminarios-identidade-coletiva-e-memoria-narrativas-75d33-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -294,6 +407,32 @@ DESCRIPTION:https://www.iscte-iul.pt/evento/identidade-coletiva-memoria-nar
  rativas-de-ativistas-pais-basco-irlanda-norte
 URL:https://lykeion.pt/e/ciclo-de-seminarios-identidade-coletiva-e-memoria-
  narrativas-75d33.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pisa-encontro-com-a-escritora-ana-paula-tavares-9207b-2026-11-17@lagend
+ a.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Pisa: Encontro com a escritora Ana Paula Tavares
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/pisa-encontro-com-a-escritora-ana-paula-tavares
+URL:https://lykeion.pt/e/pisa-encontro-com-a-escritora-ana-paula-tavares-92
+ 07b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-historia-especialidade-em-historia-ant-858a5-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T103000
+SUMMARY:Provas de mestrado em História / Especialidade em História Antiga
+  de Raquel Alexandra Duarte Marques da Silva — A Coleção Egípcia da S
+ ociedade de Geografia de Lisboa - Contextualização Histórica e Mus
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-h
+ istoria-especialidade-em-historia-antiga-3?Itemid=0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-historia-especialidade-em-hi
+ storia-ant-858a5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:como-falar-com-o-a-terra-59dc0-2026-11-18@lagenda.pt
@@ -394,6 +533,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-vivianne-hermogenes-pereira-
  martinho-c-c5ffe.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-historia-de-marta-correia-pereira-d-ma-540e6-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T103000
+SUMMARY:Provas de mestrado em História de Marta Correia Pereira — D. Mar
+ ia Isabel de Bragança (1797-1818): “a mais obediente” e “saudosa”
+  rainha?
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-h
+ istoria-132?Itemid=0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-historia-de-marta-correia-pe
+ reira-d-ma-540e6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-internacional-permanente-historia-social-a-norte-c-8350c-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -456,6 +609,20 @@ DESCRIPTION:https://iem.fcsh.unl.pt/en/event/opening-of-the-exhibition-la-f
  aune-des-voyageurs-illustrations-of-animals-in-16th-century-printed-books/
 URL:https://lykeion.pt/e/opening-of-the-exhibition-la-faune-des-voyageurs-i
  llustratio-3d72b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-historia-especialidade-em-historia-2b8dc-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T100000
+SUMMARY:Provas de doutoramento em História / Especialidade em História Mo
+ derna de José António de Jesus Martins — A Diocese do Algarve no Tempo
+  do Bispo D. Fernão Martins Mascarenhas (1594-1616)
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/doutoramento-
+ em-historia-especialidade-em-historia-moderna?Itemid=0
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-historia-especialidade-e
+ m-historia-2b8dc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:resonance-grupo-de-leitura-seminario-30aa6-2026-11-20@lagenda.pt
@@ -635,6 +802,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-outor-monteiro-elas-est
  iveram-la-cc33e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-arqueologia-de-carlota-nicole-freitas-bf39a-2026-
+ 11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T160000
+SUMMARY:Provas de mestrado em Arqueologia de Carlota Nicole Freitas Sousa 
+ — Uma viagem pelo Calcolítico: proposta para um parque arqueológico no
+  sítio de Vila Nova de São Pedro (Azambuja\, Lisboa)
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-a
+ rqueologia-77?Itemid=0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-arqueologia-de-carlota-nicol
+ e-freitas-bf39a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-argo-how-attention-to-writing-leads-out-of-art-his-90d06-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -702,6 +883,19 @@ DESCRIPTION:https://www.instagram.com/p/DfmTD5LiEU3/?img_index=1
 URL:https://lykeion.pt/e/conferencia-o-arquivo-em-casa-cd466.html
 END:VEVENT
 BEGIN:VEVENT
+UID:januario-godinho-arquitecto-moderno-de-domingos-tavares-apre-720c3-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T183000
+SUMMARY:Januário Godinho – Arquitecto Moderno”\, de Domingos Tavares |
+  Apresentação de Livro
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:http://www.up.pt/casacomum/eventos/januario-godinho-arquitecto-
+ moderno-de-domingos-tavares-apresentacao-de-livro/
+URL:https://lykeion.pt/e/januario-godinho-arquitecto-moderno-de-domingos-ta
+ vares-apre-720c3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:laboratorio-de-lgp-esec-aula-aberta-familia-vasquez-tv-uma-h-9aa3e-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -761,6 +955,19 @@ DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/xiii-coloquio-internaci
  nalizar-colecoes-formacao-de-instituicoes-e-doacao-de-colecoes
 URL:https://lykeion.pt/e/xiii-coloquio-internacional-colecoes-de-arte-em-po
  rtugal-e-b-3cf1d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-aulas-abertas-o-realismo-magico-aquem-e-alem-da-ame-92926-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T170000
+SUMMARY:Ciclo de Aulas Abertas «O Realismo Mágico aquém e além da Amér
+ ica Latina»
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/ciclo-de-aulas-abertas-
+ o-realismo-magico-aquem-e-alem-da-america-latina-1
+URL:https://lykeion.pt/e/ciclo-de-aulas-abertas-o-realismo-magico-aquem-e-a
+ lem-da-ame-92926.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-socialist-yugoslavia-all-year-yound-a-sketch-of-075ef-2026-
@@ -836,17 +1043,29 @@ URL:https://lykeion.pt/e/2o-encontro-nacional-sobre-preservacao-digital-b06
  95.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-do-arquivo-ao-palco-a-adaptacao-dramaturgica-do-bed58-2026-
+UID:conferencia-do-arquivo-ao-palco-a-adaptacao-dramaturgica-do-fe464-2026-
  11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T120000
 SUMMARY:Conferência | Do arquivo ao palco: a adaptação dramatúrgica do 
  Duke of Parma\, de Fernando Pessoa
 LOCATION:Faculdade de Letras da Universidade de Lisboa
-DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/conferencia-do-arquivo-
- ao-palco-a-adaptacao-dramaturgica-do-duke-of-parma-de-fernando-pessoa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/conferencia-d
+ o-arquivo-ao-palco-a-adaptacao-dramaturgica-do-duke-of-parma-de-fernando-p
+ essoa?Itemid=0
 URL:https://lykeion.pt/e/conferencia-do-arquivo-ao-palco-a-adaptacao-dramat
- urgica-do-bed58.html
+ urgica-do-fe464.html
+END:VEVENT
+BEGIN:VEVENT
+UID:em-modo-menor-uma-conversa-com-filipe-melo-c423e-2026-11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T170000
+SUMMARY:Em Modo Menor: Uma Conversa com Filipe Melo
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/em-modo-menor-uma-conve
+ rsa-com-filipe-melo
+URL:https://lykeion.pt/e/em-modo-menor-uma-conversa-com-filipe-melo-c423e.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-goncalo-jorge-alves-monteiro-letras-ti-3f86a-2026
@@ -861,6 +1080,20 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  02096
 URL:https://lykeion.pt/e/provas-de-mestrado-de-goncalo-jorge-alves-monteiro
  -letras-ti-3f86a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-historia-da-arte-especialidade-em-76b3b-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T150000
+SUMMARY:Provas de doutoramento em História da Arte / Especialidade em Arte
+ \, Património e Restauro de Vera Lúcia da Silva Braga Penetra Gonçalves
+  — De coleção privada de arte a Casa-Museu Fernando de Castro: p
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/doutoramento-
+ em-historia-da-arte-especialidade-em-arte-patrimonio-e-restauro?Itemid=0
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-historia-da-arte-especia
+ lidade-em-76b3b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-arqueologia-na-semana-da-ciencia-e-da-tecnologia-7cf8b-2026-1
@@ -950,6 +1183,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-sara-elisabete-vigario-galva
  o-relacao-b8cf1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-historia-de-bianca-mota-fonseca-d-joao-f4353-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T143000
+SUMMARY:Provas de mestrado em História de Bianca Mota Fonseca — D. joão
+  ii como “fundador” do estado moderno português: mitos\, história e 
+ memória
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-h
+ istoria-131?Itemid=0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-historia-de-bianca-mota-fons
+ eca-d-joao-f4353.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-liberalismo-no-seculo-xix-a-ideologia-que-tudo-mud-63b29-2026
  -11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -960,6 +1207,19 @@ DESCRIPTION:https://www.iscte-iul.pt/evento/liberalismo-no-seculo-xix-ideol
  ogia-que-tudo-mudou
 URL:https://lykeion.pt/e/seminario-liberalismo-no-seculo-xix-a-ideologia-qu
  e-tudo-mud-63b29.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-the-rome-lectures-1944-father-marie-benoit-and-t-035e8-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Conferência «The Rome Lectures\, 1944: Father Marie-Benoît and t
+ he Path to Jewish-Christian Rapprochement»
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/conferencia-rome-lectures-1944-fathe
+ r-marie-benoit-and-path-jewish-christian-rapprochement
+URL:https://lykeion.pt/e/conferencia-the-rome-lectures-1944-father-marie-be
+ noit-and-t-035e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-isabel-louro-duarte-educar-atrave-5b7bc-2026
@@ -973,6 +1233,20 @@ DESCRIPTION:https://sigarra.up.pt/flup/noticias_geral.ver_noticia?p_nr=2023
  31
 URL:https://lykeion.pt/e/provas-de-mestrado-de-rita-isabel-louro-duarte-edu
  car-atrave-5b7bc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-historia-da-arte-e-patrimonio-de-clara-9325d-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T150000
+SUMMARY:Provas de mestrado em História da Arte e Património de Clara Cruz
+  e Souza Weidebach — O FURTO E O Roubo de Obras de Arte Em Portugal Cont
+ ributos Históricos e Quantitativos para o Estudo do Fenómeno Vo
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-h
+ istoria-da-arte-e-patrimonio-79?Itemid=0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-historia-da-arte-e-patrimoni
+ o-de-clara-9325d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:the-6th-annual-conference-of-macau-studies-2026-c341e-2026-12-02@lagend
@@ -1096,6 +1370,20 @@ URL:https://lykeion.pt/e/seminario-transitos-luso-brasileiros-historia-hist
  oriografia-5939f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-doutoramento-de-auriney-uchoa-de-brito-roma-antiga-b7b3d-2026
+ -12-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Provas de doutoramento de Auriney Uchôa de Brito — Roma antiga\,
+  direito penal romano e corrupção: análise histórico-jurídica e contr
+ ibuições para o combate à corrupção no Estado brasileiro
+LOCATION:Faculdade de Direito da Universidade de Lisboa
+DESCRIPTION:https://www.fd.ulisboa.pt/wp-content/uploads/2026/09/Edital-Dr.
+ -Auriney-Uchoa-de-Brito.pdf
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-auriney-uchoa-de-brito-r
+ oma-antiga-b7b3d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:call-para-projetos-de-investigacao-internos-citcem-90a6c-2026-12-15@lag
  enda.pt
 DTSTAMP:20261114T000000Z
@@ -1107,6 +1395,20 @@ DESCRIPTION:https://citcem.org/call-para-projetos-de-investigacao-internos-
  citcem/
 URL:https://lykeion.pt/e/call-para-projetos-de-investigacao-internos-citcem
  -90a6c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-luciana-uchoa-ribeiro-o-poder-judi-b3392-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Provas de doutoramento de Luciana Uchôa Ribeiro — O poder judici
+ al e a gênese da tutela das «matas» no Brasil e Portugal: uma análise 
+ histórico-jurídica
+LOCATION:Faculdade de Direito da Universidade de Lisboa
+DESCRIPTION:https://www.fd.ulisboa.pt/wp-content/uploads/2026/06/Edital-Dra
+ .-Luciana-Uchoa-Ribeiro.pdf
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-luciana-uchoa-ribeiro-o-
+ poder-judi-b3392.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-de-estudos-medievais-tiago-viula-faria-d2fc0-2026-12-15@lagen
@@ -1143,6 +1445,20 @@ DESCRIPTION:https://sigarra.up.pt/flup/noticias_geral.ver_noticia?p_nr=2025
  11
 URL:https://lykeion.pt/e/provas-de-mestrado-de-eduardo-carneiro-machado-da-
  silva-a-no-49e86.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-historia-da-arte-e-patrimonio-de-catar-9325d-2026
+ -12-28@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261228T143000
+SUMMARY:Provas de mestrado em História da Arte e Património de Catarina S
+ antos Coelho — A tradição manuscrita do memorial da infanta santa joan
+ a
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-h
+ istoria-da-arte-e-patrimonio-81?Itemid=0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-historia-da-arte-e-patrimoni
+ o-de-catar-9325d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ate-31-dezembro-2026-maravilhario-doacoes-ao-museu-de-histor-ef6dc-2026
@@ -1183,6 +1499,33 @@ URL:https://lykeion.pt/e/lab-talk-historias-cruzadas-da-habitacao-em-lisboa
  -baebc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-arqueologia-tesub-e-baal-estudo-compar-ca16f-2027
+ -01-07@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20270107T153000
+SUMMARY:Provas de mestrado em Arqueologia — TEŠUB e BAAL Estudo Comparad
+ o de Duas Divindades da Ásia Ocidental Antiga
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-a
+ rqueologia-78?Itemid=0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-arqueologia-tesub-e-baal-est
+ udo-compar-ca16f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-historia-maritima-de-paulo-jose-gu-d8ccf-2027
+ -01-12@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20270112T143000
+SUMMARY:Provas de doutoramento em História Marítima de Paulo José Guerre
+ iro da Silva Costa — O Senhor Capitão – a vida e os tempos de Antóni
+ o Marques da Silva\, comandante dos últimos lugres bacalhoeiros portu
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/doutoramento-
+ em-historia-maritima-5?Itemid=0
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-historia-maritima-de-pau
+ lo-jose-gu-d8ccf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-ad233-2027-01-15@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20270115T210000
@@ -1190,6 +1533,20 @@ SUMMARY:Amor em busca de si mesmo
 LOCATION:Espaço Vita\, Braga
 DESCRIPTION:https://www.espacovita.pt/eventos/amor-em-busca-de-si-mesmo/
 URL:https://lykeion.pt/e/conferencia-ad233.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-historia-da-arte-especialidade-em-76b3b-2027-
+ 01-19@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20270119T150000
+SUMMARY:Provas de doutoramento em História da Arte / Especialidade em Hist
+ ória da Arte de Maria da Luz Quintão de Jesus Pinheiro — Do Estudo da 
+ Joalharia No Retrato Português Entre 1880 E 1930 – EVOLUÇÃO E DI
+LOCATION:Faculdade de Letras da Universidade de Lisboa
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/doutoramento-
+ em-historia-da-arte-especialidade-em-historia-da-arte?Itemid=0
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-historia-da-arte-especia
+ lidade-em-76b3b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-coloquio-cinemas-do-mediterraneo-o-cinema-da-europa-medit-e571e-2027
@@ -1229,8 +1586,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/23615
 URL:https://lykeion.pt/e/debate-o-legado-do-4-de-fevereiro-e-as-interrogaco
  es-do-pres-e27b5.html
@@ -1266,7 +1622,7 @@ BEGIN:VEVENT
 UID:europa-para-os-cidadaos-conferencia-sobre-o-futuro-da-europa-87634-2027
  -02-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270221
+DTSTART;TZID=Europe/Lisbon:20270221T235900
 SUMMARY:Europa para os Cidadãos Conferência sobre o Futuro da Europa
 LOCATION:Centro de Informação Europeia Jacques Delors
 DESCRIPTION:https://eurocid.mne.gov.pt/eventos/summer-cemp-2022-acores
@@ -1340,5 +1696,32 @@ SUMMARY:Seminário: Miguel Bandeira Jerónimo
 LOCATION:Centro de História da Sociedade e da Cultura\, Coimbra
 DESCRIPTION:https://chsc.uc.pt/investigador/miguel-bandeira-jeronimo-2/
 URL:https://lykeion.pt/e/seminario-miguel-bandeira-jeronimo-f2b84.html
+END:VEVENT
+BEGIN:VEVENT
+UID:legalpl-coloquio-final-pluralismo-juridico-no-imperio-portug-62d32-2027
+ -04-11@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20270411T090000
+SUMMARY:LEGALPL | Colóquio final – Pluralismo Jurídico no Império Port
+ uguês (séculos XVIII-XX)
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/legalpl-coloquio-final-pluralismo-juridi
+ co-no-imperio-portugues-seculos-xviii-xx/
+URL:https://lykeion.pt/e/legalpl-coloquio-final-pluralismo-juridico-no-impe
+ rio-portug-62d32.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-a-construcao-juridica-dos-territorios-ul-c2dbf-2027
+ -04-12@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20270412T120000
+SUMMARY:Lançamento do livro 'A Construção Jurídica dos Territórios Ult
+ ramarinos Portugueses no século XIX. Modelos\, Doutrinas e Leis'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/12-de-abril-lancamento-do-
+ livro-a-construcao-juridica-dos-territorios-ultramarinos-portugueses-no-se
+ culo-xix-modelos-doutrinas-e-leis
+URL:https://lykeion.pt/e/lancamento-do-livro-a-construcao-juridica-dos-terr
+ itorios-ul-c2dbf.html
 END:VEVENT
 END:VCALENDAR

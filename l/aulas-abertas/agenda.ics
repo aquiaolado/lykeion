@@ -6,7 +6,7 @@ X-WR-CALNAME:Aulas abertas e lições (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:14-11-26-aula-aberta-ecb05-2026-11-14@lagenda.pt
+UID:14-11-2026-aula-aberta-ecb05-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Aula aberta mges ceges avaliação de impacto de políticas de saú
@@ -15,7 +15,7 @@ LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-mges-ceges-avaliacao
  -de-impacto-de-politicas-de-saude-desafios-de-identificacao-causal-e-aplic
  acoes-empiricas/
-URL:https://lykeion.pt/e/14-11-26-aula-aberta-ecb05.html
+URL:https://lykeion.pt/e/14-11-2026-aula-aberta-ecb05.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aulas-abertas-de-xadrez-2026-c462b-2026-11-14@lagenda.pt
@@ -25,6 +25,20 @@ SUMMARY:Aulas Abertas de Xadrez 2026
 LOCATION:RioSul Shopping\, Seixal
 DESCRIPTION:
 URL:https://lykeion.pt/e/aulas-abertas-de-xadrez-2026-c462b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:licao-de-jubilacao-professor-rodrigo-martins-do-silicio-aos-54595-2026-
+ 11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T144500
+SUMMARY:Lição de Jubilação | Professor Rodrigo Martins | Do Silício ao
+ s Materiais Avançados: Uma Viagem Rumo ao Futuro
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/08/licao-de-jubilacao-
+ professor-rodrigo-martins-do-silicio-aos-materiais-avancados-uma-viagem-ru
+ mo-ao-f
+URL:https://lykeion.pt/e/licao-de-jubilacao-professor-rodrigo-martins-do-si
+ licio-aos-54595.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-o-papel-do-parlamento-europeu-e-os-desafios-da-i-a635f-2026
@@ -138,6 +152,19 @@ DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-a-logica-no-di
 URL:https://lykeion.pt/e/aula-aberta-a-logica-no-direito-64d17.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-estga-secretariado-uma-profissao-mulpiplos-conte-6720b-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T143000
+SUMMARY:Aula Aberta ESTGA - 'Secretariado: uma profissão\, múlpiplos cont
+ extos'
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://events.timely.fun/2x770b0s/event/aula-aberta-estga-secr
+ etariado-uma-profissao-mulpiplos-contextos?instance_id=20261117143000
+URL:https://lykeion.pt/e/aula-aberta-estga-secretariado-uma-profissao-mulpi
+ plos-conte-6720b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-sobre-comunicacao-e-envelhecimento-em-contexto-r-22ff7-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -188,20 +215,6 @@ DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-a-inovacao-vem-a-sal
  a-conversas-abertas-sobre-inovacao-em-diferentes-contextos-joaquim-silva-n
  unes-miguel-al/
 URL:https://lykeion.pt/e/17-11-26-aula-aberta-daac8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:inesc-id-distinguished-lecture-professor-robbert-van-renness-f2d62-2026
- -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T120000
-SUMMARY:INESC-ID Distinguished Lecture: Professor Robbert van Rennesse on 
- “Chain Replication Revisited
-LOCATION:Instituto de Engenharia de Sistemas e Computadores Investigação 
- e Desenvolvimento
-DESCRIPTION:https://www.inesc-id.pt/events/inesc-id-distinguished-lecture-p
- rofessor-robbert-van-rennesse-on-chain-replication-revisited/
-URL:https://lykeion.pt/e/inesc-id-distinguished-lecture-professor-robbert-v
- an-renness-f2d62.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lecture-completing-homeric-characters-2e848-2026-11-17@lagenda.pt
@@ -260,6 +273,20 @@ LOCATION:Universidade Lusíada (Porto)\, Porto
 DESCRIPTION:https://www.por.ulusiada.pt/noticias/eventos.php
 URL:https://lykeion.pt/e/aula-aberta-bateria-de-avaliacao-neuropsicologica-
  de-coimbra-93b32.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-da-ferramenta-ao-som-a-espacializacao-sonora-com-e1301-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T173000
+SUMMARY:Aula Aberta: da Ferramenta ao Som: a Espacialização Sonora Como E
+ lemento Estrutural na Criação do Objeto Artístico
+LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
+  Rainha
+DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/10/aula-aberta-angela-da
+ -ponte/
+URL:https://lykeion.pt/e/aula-aberta-da-ferramenta-ao-som-a-espacializacao-
+ sonora-com-e1301.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-da-uc-sistemas-construtivos-tradicionais-66f82-2026-11-18@l
@@ -382,7 +409,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T180000
 SUMMARY:Aula Aberta “Enfrentamentos a Violência Doméstica em Perspectiv
  a Comparada entre a América Latina e a União Europeia
-LOCATION:Departamento de Ciência e Tecnologia\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-enfrentamentos-a-violenci
  a-domestica-em-perspectiva-comparada-entre-a-america-latina-e-a-uniao-euro
  peia/
@@ -411,6 +438,16 @@ LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
 DESCRIPTION:https://lab2pt.net/open-classes/aula-aberta-human-paleobiology-
  cases-from-pleistocene-and-late-prehistoric-portugal
 URL:https://lykeion.pt/e/aula-aberta-fa185.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aulas-abertas-82f19-2026-11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T190000
+SUMMARY:Aulas abertas estudos de arte egípcia
+LOCATION:Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://chul.letras.ulisboa.pt/evento/aulas-abertas-estudos-de-
+ arte-egipcia/
+URL:https://lykeion.pt/e/aulas-abertas-82f19.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-promover-criancas-ativas-autonomas-e-com-direito-bf0ed-2026
@@ -474,6 +511,31 @@ URL:https://lykeion.pt/e/24-11-2026-aula-aberta-traduzir-homero-para-lingua
  -portugues-ecb1a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-escalas-de-desenvolvimento-mental-de-griffiths-3-edaa3-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T180000
+SUMMARY:Aula Aberta «escalas de Desenvolvimento Mental de Griffiths - 3a E
+ dição»
+LOCATION:Universidade Lusíada (Porto)\, Porto
+DESCRIPTION:https://www.por.ulusiada.pt/noticias/eventos.php
+URL:https://lykeion.pt/e/aula-aberta-escalas-de-desenvolvimento-mental-de-g
+ riffiths-3-edaa3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-aulas-abertas-o-realismo-magico-aquem-e-alem-da-ame-92926-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T170000
+SUMMARY:Ciclo de Aulas Abertas «O Realismo Mágico aquém e além da Amér
+ ica Latina»
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/ciclo-de-aulas-abertas-
+ o-realismo-magico-aquem-e-alem-da-america-latina-1
+URL:https://lykeion.pt/e/ciclo-de-aulas-abertas-o-realismo-magico-aquem-e-a
+ lem-da-ame-92926.html
+END:VEVENT
+BEGIN:VEVENT
 UID:open-class-subverting-the-grammar-of-teen-dramas-buffy-the-v-27f26-2026
  -11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -496,6 +558,30 @@ LOCATION:Instituto Politécnico de Beja\, Beja
 DESCRIPTION:https://www.ipbeja.pt/Paginas/default.aspx
 URL:https://lykeion.pt/e/workshop-aula-aberta-primaveras-silenciosas-como-e
  vitar-0482a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-escalas-de-desenvolvimento-mental-de-griffiths-3-3de53-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T090000
+SUMMARY:Aula Aberta «escalas de Desenvolvimento Mental de Griffiths - 3a E
+ dição»
+LOCATION:Universidade Lusíada\, Porto
+DESCRIPTION:https://www.por.ulusiada.pt/noticias/evento.php?cod=3466
+URL:https://lykeion.pt/e/aula-aberta-escalas-de-desenvolvimento-mental-de-g
+ riffiths-3-3de53.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-o-papel-dos-mediadores-linguisticos-e-culturais-05d63-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T120000
+SUMMARY:Aula Aberta «o Papel dos Mediadores Linguísticos e Culturais NAS 
+ Escolas»
+LOCATION:Universidade Lusíada\, Porto
+DESCRIPTION:https://www.por.ulusiada.pt/noticias/evento.php?cod=3506
+URL:https://lykeion.pt/e/aula-aberta-o-papel-dos-mediadores-linguisticos-e-
+ culturais-05d63.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-estrategias-de-intervencao-em-fisioterapia-venti-2ac46-2026
@@ -556,7 +642,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T160000
 SUMMARY:Aula Aberta “Desenvolvimento da Linguagem\, Sinais de Alerta e In
  tervenção Interdisciplinar em Contextos Socioeducativos
-LOCATION:Departamento de Ciência e Tecnologia\, Porto
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/desenvolvimento-da-linguagem-sinais-d
  e-alerta-e-intervencao-interdisciplinar-em-contextos-socioeducativos/
 URL:https://lykeion.pt/e/aula-aberta-desenvolvimento-da-linguagem-sinais-de
@@ -630,7 +716,7 @@ BEGIN:VEVENT
 UID:aula-aberta-a-crianca-como-sujeito-de-direitos-saude-bem-est-bf0ed-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T150000
 SUMMARY:Aula Aberta: A criança como sujeito de direitos: saúde\, bem-esta
  r e proteção
 LOCATION:Observatório da Formação e da Educação Inclusiva (OFEI)\, Por
@@ -706,7 +792,7 @@ BEGIN:VEVENT
 UID:aula-aberta-autismo-no-pre-escolar-compreender-incluir-e-int-bf0ed-2027
  -01-05@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270105
+DTSTART;TZID=Europe/Lisbon:20270105T150000
 SUMMARY:Aula Aberta: Autismo no Pré-Escolar: Compreender\, Incluir e Inter
  vir
 LOCATION:Observatório da Formação e da Educação Inclusiva (OFEI)\, Por

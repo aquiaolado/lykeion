@@ -6,6 +6,15 @@ X-WR-CALNAME:Farmácia e Medicina Dentária (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:seminarios-de-farmacia-industrial-2026-6911f-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T140000
+SUMMARY:Seminários de Farmácia Industrial 2026
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/seminarios-de-farmacia-industrial-2026
+URL:https://lykeion.pt/e/seminarios-de-farmacia-industrial-2026-6911f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:xxi-congresso-aeffup-72db4-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -14,6 +23,17 @@ LOCATION:Faculdade de Farmácia da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/ffup/pt/noticias_geral.ver_noticia?P_NR=5
  2678
 URL:https://lykeion.pt/e/xxi-congresso-aeffup-72db4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-elena-maria-sigillo-medicina-dentaria-41b33-2026-
+ 11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de mestrado de Elena Maria Sigillo — Medicina Dentária
+LOCATION:Universidade Fernando Pessoa\, Porto
+DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-elena-maria-sigillo-medicina
+ -dentaria-41b33.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-karen-mendes-da-silva-medicina-dentari-7a928-2026
@@ -27,28 +47,31 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-karen-mendes-da-silva-medici
  na-dentari-7a928.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-marco-serafi-design-de-embalagens-f606b-2026-
- 11-19@lagenda.pt
+UID:provas-de-mestrado-integrado-em-ciencias-farmaceuticas-2e14f-2026-11-19
+ @lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Provas de doutoramento de Marco Serafi — Design de Embalagens Rec
- arregáveis como Vantagem Competitiva em Cosméticos: Um Enfoque na Susten
- tabilidade e Decisão de Compra
-LOCATION:Faculdade de Farmácia da Universidade de Lisboa
-DESCRIPTION:https://www.ff.ulisboa.pt/categoria/ensino/ensino-estudar-na-ff
- ul/provas-academicas/
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-marco-serafi-design-de-e
- mbalagens-f606b.html
+DTSTART;TZID=Europe/Lisbon:20261119T163000
+SUMMARY:Provas de Mestrado Integrado em Ciências Farmacêuticas
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://fct.ualg.pt/provas-de-mestrado-integrado-em-ciencias-fa
+ rmaceuticas-264
+URL:https://lykeion.pt/e/provas-de-mestrado-integrado-em-ciencias-farmaceut
+ icas-2e14f.html
 END:VEVENT
 BEGIN:VEVENT
-UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
+UID:provas-de-doutoramento-de-marco-serafi-extending-the-akt-tar-c9f22-2026
+ -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T093000
-SUMMARY:18.ª edição Fórum do Medicamento
-LOCATION:Centro Cultural de Belém\, Belém
-DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
- kets-2004012616683
-URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Provas de doutoramento de Marco Serafi — Extending the akt-target
+ ing pharmacological toolbox with proteolysis targeting chimeric molecules 
+ (protacs)
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/extending-the-akt-targeting-pharmacological-toolbox-with-proteo
+ lysis-targeting-chimeric-molecules-protacs/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-marco-serafi-extending-t
+ he-akt-tar-c9f22.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminarios-scouting-quimica-inorganica-radiofarmaceutica-par-cff73-2026
@@ -101,17 +124,19 @@ URL:https://lykeion.pt/e/seminarios-scouting-quimica-inorganica-radiofarmac
  eutica-par-f8c47.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-matilde-lourenco-ferreira-gravidez-e-i-f606b-2026
+UID:provas-de-doutoramento-de-matilde-lourenco-ferreira-gravidez-c493a-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
-SUMMARY:Provas de mestrado de Matilde Lourenço Ferreira — Gravidez e Inf
- eções Virais: Mecanismos de Lesão Fetal\, Diagnóstico e Prevenção
+DTSTART;TZID=Europe/Lisbon:20261127T103000
+SUMMARY:Provas de doutoramento de Matilde Lourenço Ferreira — Gravidez e
+  Infeções Virais: Mecanismos de Lesão Fetal\, Diagnóstico e Prevençã
+ o
 LOCATION:Faculdade de Farmácia da Universidade de Lisboa
-DESCRIPTION:https://www.ff.ulisboa.pt/categoria/ensino/ensino-estudar-na-ff
- ul/provas-academicas/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-matilde-lourenco-ferreira-gr
- avidez-e-i-f606b.html
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/gravidez-e-infecoes-virais-mecanismos-de-lesao-fetal-diagnostic
+ o-e-prevencao/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-matilde-lourenco-ferreir
+ a-gravidez-c493a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-a-atualizacao-em-irrigacao-e-obturacao-endodonti-e7a63-2026
@@ -139,32 +164,20 @@ URL:https://lykeion.pt/e/i-seminario-de-casos-clinicos-de-farmacologia-em-t
  ermalismo-1f551.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-pedro-jose-arcanjo-esteves-the-role-of-f606b-2026
- -12-03@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
-SUMMARY:Provas de mestrado de Pedro José Arcanjo Esteves — The Role of A
- dult Neurogenesis in the Antidepressant Effects of Physical Exercise and C
- annabinoid Signaling
-LOCATION:Faculdade de Farmácia da Universidade de Lisboa
-DESCRIPTION:https://www.ff.ulisboa.pt/categoria/ensino/ensino-estudar-na-ff
- ul/provas-academicas/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-pedro-jose-arcanjo-esteves-t
- he-role-of-f606b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-leonor-carvalho-teixeira-characterizat-f606b-2026
+UID:provas-de-doutoramento-de-leonor-carvalho-teixeira-character-98923-2026
  -12-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
-SUMMARY:Provas de mestrado de Leonor Carvalho Teixeira — Characterization
-  of the Tumor Microenvironment Using Multiplex Imaging and Development of 
- a Predictive Model for Therapeutic Response in Breast Cancer
+DTSTART;TZID=Europe/Lisbon:20261210T143000
+SUMMARY:Provas de doutoramento de Leonor Carvalho Teixeira — Characteriza
+ tion of the Tumor Microenvironment Using Multiplex Imaging and Development
+  of a Predictive Model for Therapeutic Response in Breast Can
 LOCATION:Faculdade de Farmácia da Universidade de Lisboa
-DESCRIPTION:https://www.ff.ulisboa.pt/categoria/ensino/ensino-estudar-na-ff
- ul/provas-academicas/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-leonor-carvalho-teixeira-cha
- racterizat-f606b.html
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/characterization-of-the-tumor-microenvironment-using-multiplex-
+ imaging-and-development-of-a-predictive-model-for-therapeutic-response-in-
+ breast-cancer/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-leonor-carvalho-teixeira
+ -character-98923.html
 END:VEVENT
 BEGIN:VEVENT
 UID:spsp-participa-na-2-a-conferencia-repo-sudoe-em-a-corunha-15a92-2026-12

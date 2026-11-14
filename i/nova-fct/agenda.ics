@@ -7,6 +7,60 @@ X-WR-CALNAME:Faculdade de Ciências e Tecnologia da Universidade NOVA de Li
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:dcm-de-portas-abertas-para-58-alunos-do-ensino-secundario-4893e-2026-11
+ -14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:DCM de portas abertas para 58 alunos do Ensino Secundário
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/11/dcm-de-portas-abert
+ as-para-58-alunos-do-ensino-secundario
+URL:https://lykeion.pt/e/dcm-de-portas-abertas-para-58-alunos-do-ensino-sec
+ undario-4893e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:licao-de-jubilacao-professor-rodrigo-martins-do-silicio-aos-54595-2026-
+ 11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T144500
+SUMMARY:Lição de Jubilação | Professor Rodrigo Martins | Do Silício ao
+ s Materiais Avançados: Uma Viagem Rumo ao Futuro
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/08/licao-de-jubilacao-
+ professor-rodrigo-martins-do-silicio-aos-materiais-avancados-uma-viagem-ru
+ mo-ao-f
+URL:https://lykeion.pt/e/licao-de-jubilacao-professor-rodrigo-martins-do-si
+ licio-aos-54595.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-lignin-multiphase-plastics-fundamentals-and-proces-9d4a1-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T113000
+SUMMARY:Seminário | «Lignin Multiphase Plastics: Fundamentals and Process
+ ing by Extrusion-based 3D Printing» | Prof. Marie-Pierre Laborie
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/09/seminario-lignin-mu
+ ltiphase-plastics-fundamentals-and-processing-extrusion-based-3d-printing-
+ prof-ma
+URL:https://lykeion.pt/e/seminario-lignin-multiphase-plastics-fundamentals-
+ and-proces-9d4a1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:toolkit-sobre-questoes-juridicas-protecao-de-dados-e-licenca-0b09f-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Toolkit sobre questões jurídicas\, proteção de dados e licença
+ s
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/toolkit-sobre-qu
+ estoes-juridicas-protecao-de-dados-e-licencas
+URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
+ -e-licenca-0b09f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:trial-a-plataforma-jove-b7423-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -31,16 +85,52 @@ URL:https://lykeion.pt/e/voluntarios-nova-fct-campanha-banco-alimentar-a514
  4.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-shear-flow-effects-in-nematics-aad29-2026-11-16@lagenda.pt
+UID:provas-de-mestrado-de-mestrados-integrados-sistema-inteligen-b8d3b-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T100000
+SUMMARY:Provas de mestrado de Mestrados Integrados — “Sistema Inteligen
+ te de Armazenamento Residencial para Arbitragem Energética com Capacidade
+  de Backup
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mestrados-integrados-sistema
+ -inteligen-b8d3b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rita-santos-nunes-lucas-development-of-b8d3b-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T100000
+SUMMARY:Provas de mestrado de Rita Santos Nunes Lucas — Development of Mo
+ lecular Imprinted Polymers in Supercritical CO2: Skin Delivery and Phospho
+ rus Extraction
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rita-santos-nunes-lucas-deve
+ lopment-of-b8d3b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:shear-flow-effects-in-nematics-aad29-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T113000
-SUMMARY:Seminário: Shear flow effects in nematics
+SUMMARY:Shear flow effects in nematics
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
 DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/shear-flow-effec
  ts-nematics
-URL:https://lykeion.pt/e/seminario-shear-flow-effects-in-nematics-aad29.htm
- l
+URL:https://lykeion.pt/e/shear-flow-effects-in-nematics-aad29.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grupo-de-suporte-emocional-dafc4-2026-11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T100000
+SUMMARY:Grupo de Suporte Emocional
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/grupo-de-suporte
+ -emocional-0
+URL:https://lykeion.pt/e/grupo-de-suporte-emocional-dafc4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:using-ai-across-the-research-lifecycle-leapspacetm-scopus-an-07e32-2026
@@ -66,6 +156,17 @@ LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
 DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/nova-science-inn
  ovation-day
 URL:https://lykeion.pt/e/encontro-nova-science-innovation-day-790dd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grupo-mosaic-um-espaco-para-pertencer-619de-2026-11-18@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T140000
+SUMMARY:Grupo Mosaic - Um espaço para pertencer
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/grupo-mosaic-um-
+ espaco-para-pertencer
+URL:https://lykeion.pt/e/grupo-mosaic-um-espaco-para-pertencer-619de.html
 END:VEVENT
 BEGIN:VEVENT
 UID:potencie-a-sua-pesquisa-cientifica-com-a-scopus-17436-2026-11-18@lagend
@@ -132,6 +233,18 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/opj-alma-uma-cid
  ade-varias-vozes-votacao-presencial
 URL:https://lykeion.pt/e/opj-alma-uma-cidade-varias-vozes-votacao-presencia
  l-dd748.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-tecnologias-em-agricultura-de-precisao-136eb-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T160000
+SUMMARY:Provas de Mestrado em Tecnologias em Agricultura de Precisão
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
+ rado-em-tecnologias-em-agricultura-de-precisao
+URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-em-agricultura-d
+ e-precisao-136eb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
@@ -275,6 +388,19 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/mastering-scopus
 URL:https://lykeion.pt/e/mastering-scopus-advanced-search-a0af8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-136eb-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T140000
+SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
+ groindustrial
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
+ rado-em-tecnologias-de-producao-e-transformacao-agroindustrial-3
+URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-de-producao-e-tr
+ ansformaca-136eb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
  -27@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -297,6 +423,42 @@ LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
 DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/ouvir-duas-vezes
  -sinfonia
 URL:https://lykeion.pt/e/ouvir-duas-vezes-a-sinfonia-06c7b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-geologica-ceedd-2026-11-27@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T143000
+SUMMARY:Provas de Mestrado em Engenharia Geológica
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
+ rado-em-engenharia-geologica-1
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-geologica-ceedd.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-136eb-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T100000
+SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
+ gro-Industrial
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
+ rado-em-tecnologias-de-producao-e-transformacao-agro-industrial
+URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-de-producao-e-tr
+ ansformaca-136eb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-rita-da-hortinha-paulino-provas-de-12e2f-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T100000
+SUMMARY:Provas de mestrado de Ana Rita da Hortinha Paulino — Provas de Me
+ strado em Tecnologias de Produção e Transformação Agroindustrial
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-rita-da-hortinha-paulino
+ -provas-de-12e2f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:miradouros-do-monsanto-de-norte-a-sul-93997-2026-11-28@lagenda.pt
@@ -322,6 +484,34 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/scopus-and-scien
  cedirect-getting-start-basic-searching-and-ai-powered-discovery-part-1
 URL:https://lykeion.pt/e/scopus-and-sciencedirect-getting-start-with-basic-
  searching-63029.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-136eb-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T140000
+SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
+ groindustrial
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
+ rado-em-tecnologias-de-producao-e-transformacao-agroindustrial-1
+URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-de-producao-e-tr
+ ansformaca-136eb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:estudo-da-reabilitacao-de-fachada-de-edificio-de-escritorio-99c1b-2026-
+ 12-07@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T150000
+SUMMARY:Estudo da reabilitação de fachada de edifício de escritório com
+  recurso a simulação numérica: Optimização de conforto e eficiência 
+ energética com ênfase no controlo de sobreaquecimento
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/estudo-da-reab
+ ilitacao-de-fachada-de-edificio-de-escritorio-com-recurso-simulacao-numeri
+ ca-optimiza
+URL:https://lykeion.pt/e/estudo-da-reabilitacao-de-fachada-de-edificio-de-e
+ scritorio-99c1b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:scopus-and-sciencedirect-advanced-searching-analysis-and-res-4b0b9-2026

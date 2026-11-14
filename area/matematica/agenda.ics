@@ -113,32 +113,14 @@ URL:https://lykeion.pt/e/jonathan-luk-2026-11-19-12-45-00-00-12h-45m-high-f
  requency-l-148e4.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lisbon-interdisciplinary-mathematics-dfed8-2026-11-19@lagenda.pt
+UID:norm-estimates-for-riesz-transforms-da85d-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T110000
-SUMMARY:Lisbon Interdisciplinary Mathematics
+SUMMARY:Norm estimates for Riesz transforms.
 LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
-DESCRIPTION:https://lims.math.tecnico.ulisboa.pt/seminars
-URL:https://lykeion.pt/e/lisbon-interdisciplinary-mathematics-dfed8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ciencia-e-tecnologia-4f156-2026-11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T140000
-SUMMARY:Ciência e Tecnologia · ISEG – Lisbon School of Economics and Ma
- nagement
-LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/noticias/ciencia-tecnologia/
-URL:https://lykeion.pt/e/ciencia-e-tecnologia-4f156.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ciencia-e-tecnologia-4f156-2026-11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T140000
-SUMMARY:Ciência e Tecnologia · Instituto Superior Técnico
-LOCATION:Instituto Superior Técnico
-DESCRIPTION:https://tecnico.ulisboa.pt/pt/noticias/ciencia-tecnologia/
-URL:https://lykeion.pt/e/ciencia-e-tecnologia-4f156.html
+DESCRIPTION:https://lims.math.tecnico.ulisboa.pt/seminars?action=show&id=78
+ 86
+URL:https://lykeion.pt/e/norm-estimates-for-riesz-transforms-da85d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:francesco-bozzola-2026-11-20-11-00-00-00-11h-some-bounds-in-250fc-2026-
@@ -165,6 +147,19 @@ URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
  quations-41d6b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:andre-guerra-2026-11-23-18-00-00-00-18h-ai-in-mathematical-r-90b9e-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:André Guerra\, 2026-11-23/18:00:00+00\, 18h\, AI in Mathematical R
+ esearch
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://m4ai.math.tecnico.ulisbo
+ a.pt/seminars?action=show&amp\,id=7898
+URL:https://lykeion.pt/e/andre-guerra-2026-11-23-18-00-00-00-18h-ai-in-math
+ ematical-r-90b9e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:carlos-caleiro-2026-11-23-17-30-00-00-17h-30m-formalization-90b9e-2026-
  11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -176,6 +171,38 @@ DESCRIPTION:https://math.tecnico.ulisboa.pthttps://m4ai.math.tecnico.ulisbo
  a.pt/seminars?action=show&amp\,id=7897
 URL:https://lykeion.pt/e/carlos-caleiro-2026-11-23-17-30-00-00-17h-30m-form
  alization-90b9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evaluating-researchers-in-the-ai-era-dbda1-2026-11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T184500
+SUMMARY:Evaluating Researchers in the AI Era.
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://m4ai.math.tecnico.ulisboa.pt/seminars?action=show&id=78
+ 99
+URL:https://lykeion.pt/e/evaluating-researchers-in-the-ai-era-dbda1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hugo-tavares-2026-11-23-20-30-00-00-20h-30m-supervising-stud-90b9e-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Hugo Tavares\, 2026-11-23/20:30:00+00\, 20h 30m\, Supervising Stude
+ nts in the AI Era
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://m4ai.math.tecnico.ulisbo
+ a.pt/seminars?action=show&amp\,id=7900
+URL:https://lykeion.pt/e/hugo-tavares-2026-11-23-20-30-00-00-20h-30m-superv
+ ising-stud-90b9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mathematics-for-artificial-intelligence-d5f2b-2026-11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T173000
+SUMMARY:Mathematics for Artificial Intelligence
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://m4ai.math.tecnico.ulisboa.pt/seminars
+URL:https://lykeion.pt/e/mathematics-for-artificial-intelligence-d5f2b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-0f3e9-2026-11-24@lagenda.pt
@@ -272,17 +299,6 @@ DESCRIPTION:https://novalaw.unl.pt/conferencia-in_solvens-per-e-peap-passad
  o-presente-e-futuro
 URL:https://lykeion.pt/e/in-solvens-per-e-peap-passado-presente-e-futuro-b1
  316.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lisbon-wade-webinar-in-analysis-and-differential-equations-e721d-2026-1
- 2-11@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261211T150000
-SUMMARY:Lisbon WADE — Webinar in Analysis and Differential Equations
-LOCATION:Departamento de Matemática (DM)
-DESCRIPTION:https://math.tecnico.ulisboa.pt/seminars/
-URL:https://lykeion.pt/e/lisbon-wade-webinar-in-analysis-and-differential-e
- quations-e721d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro-18cd9-2026

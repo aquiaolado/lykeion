@@ -57,11 +57,23 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Conferência Internacional do Património\, Turismo e Arqueologia I
  ndustrial
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24192
 URL:https://lykeion.pt/e/conferencia-internacional-do-patrimonio-turismo-e-
  arqueologi-97cc0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-internacional-social-mentoring-in-europe-prospec-440ed-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Conferência Internacional “Social Mentoring in Europe: Prospects
+  for Social Inclusion and Engagement
+LOCATION:Associacao Portuguesa de Sociologia
+DESCRIPTION:https://aps.pt/event/conferencia-internacional-social-mentoring
+ -in-europe-prospects-for-social-inclusion-and-engagement/
+URL:https://lykeion.pt/e/conferencia-internacional-social-mentoring-in-euro
+ pe-prospec-440ed.html
 END:VEVENT
 BEGIN:VEVENT
 UID:empa-2026-xxix-encontro-matematica-nos-primeiros-anos-78844-2026-11-14@
@@ -113,6 +125,15 @@ URL:https://lykeion.pt/e/encontro-arte-para-a-infancia-e-desenvolvimento-so
  cial-e-hum-9684e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontro-nas-margens-do-possivel-d26f2-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T183000
+SUMMARY:Encontro: Nas Margens do Possível
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
+URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontros-arte-e-trabalho-8ffe3-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261114T200000
@@ -121,6 +142,17 @@ LOCATION:Sismógrafo\, Porto
 DESCRIPTION:https://sismografo.org/pt/programacao/encontros-arte-e-trabalho
  /
 URL:https://lykeion.pt/e/encontros-arte-e-trabalho-8ffe3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontros-great-artists-on-campus-2-porto-7ddb7-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Encontros: Great Artists on Campus #2 | Porto
+LOCATION:Universidade Lusófona
+DESCRIPTION:https://www.ulusofona.pt/eventos/great-artists-on-campus-2-port
+ o
+URL:https://lykeion.pt/e/encontros-great-artists-on-campus-2-porto-7ddb7.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:13-e-14-de-novembro-i-congresso-luso-brasileiro-de-justica-a-aba53-2026
@@ -145,17 +177,17 @@ DESCRIPTION:https://institutodehistoriadaarte.com/event/ii-coloquio-index-c
 URL:https://lykeion.pt/e/ii-coloquio-index-collectiones-acores-a4fe5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iii-jornadas-dos-tecnicos-superiores-de-diagnostico-e-terape-ac3c1-2026
+UID:ii-encontros-participativos-e-interculturais-inclusao-e-dive-b5280-2026
  -11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
-SUMMARY:III Jornadas dos Técnicos Superiores de Diagnóstico e Terapêutic
- a (TDST) da ULS Algarve
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
-DESCRIPTION:https://www.ualg.pt/iii-jornadas-dos-tecnicos-superiores-de-dia
- gnostico-e-terapeutica-tdst-da-uls-algarve
-URL:https://lykeion.pt/e/iii-jornadas-dos-tecnicos-superiores-de-diagnostic
- o-e-terape-ac3c1.html
+SUMMARY:II Encontros Participativos e Interculturais: Inclusão e Diversida
+ de
+LOCATION:Universidade Lusófona
+DESCRIPTION:https://www.ulusofona.pt/eventos/ii-encontros-participativos-e-
+ interculturais-inclusao-e-diversidade
+URL:https://lykeion.pt/e/ii-encontros-participativos-e-interculturais-inclu
+ sao-e-dive-b5280.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iii-simposio-nacional-dos-frutos-secos-bcb52-2026-11-14@lagenda.pt
@@ -166,6 +198,20 @@ LOCATION:Centro Nacional de Competências dos Frutos Secos Associação\, B
  ragança
 DESCRIPTION:https://cncfs.pt/node/105
 URL:https://lykeion.pt/e/iii-simposio-nacional-dos-frutos-secos-bcb52.html
+END:VEVENT
+BEGIN:VEVENT
+UID:no-proximo-dia-14-de-novembro-pelas-20h00-hora-espanhola-o-c-bebbc-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:No próximo dia 14 de novembro\, pelas 20h00 (hora espanhola)\, o C
+ entro de Exposições e Congressos de Ayamonte vai acolher o espetáculo .
+ ..
+LOCATION:Vila Real de Santo António\, Vila Real de Santo António
+DESCRIPTION:https://www.cm-vrsa.pt/pt/agenda/58387/habitar-um-mundo-perfeit
+ o.aspx
+URL:https://lykeion.pt/e/no-proximo-dia-14-de-novembro-pelas-20h00-hora-esp
+ anhola-o-c-bebbc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:pisa-coloquio-internacional-camoes-e-as-artes-visuais-de-fer-9207b-2026
@@ -180,20 +226,6 @@ DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
  -fernao-gomes-a-julio-pomar
 URL:https://lykeion.pt/e/pisa-coloquio-internacional-camoes-e-as-artes-visu
  ais-de-fer-9207b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:xii-reuniao-cientifica-da-associacao-iberica-de-veterinarios-927ff-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:XII Reunião Científica da Associação Ibérica de Veterinários 
- de Parques Zoológicos e Fauna Selvagem (IAZWV)
-LOCATION:Ordem dos Médicos Veterinários
-DESCRIPTION:https://www.omv.pt/publicacoes/agenda/xii-reuniao-cientifica-da
- -associacao-iberica-de-veterinarios-de-parques-zoologicos-e-fauna-selvagem
- -iazwv-2
-URL:https://lykeion.pt/e/xii-reuniao-cientifica-da-associacao-iberica-de-ve
- terinarios-927ff.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026
@@ -244,6 +276,19 @@ URL:https://lykeion.pt/e/xxv-congresso-nacional-de-grupanalise-e-psicoterap
  ia-analiti-a15f1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:xxx-congresso-internacional-da-acms-afirmacoes-e-regressoes-e0be5-2026-
+ 11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:XXX Congresso Internacional da ACMS : “AFIRMAÇÕES E Regressões
+  da Democracia Num Mundo Global
+LOCATION:Associacao Portuguesa de Sociologia
+DESCRIPTION:https://aps.pt/event/xxx-congresso-internacional-da-acms-afirma
+ coes-e-regressoes-da-democracia-num-mundo-global/
+URL:https://lykeion.pt/e/xxx-congresso-internacional-da-acms-afirmacoes-e-r
+ egressoes-e0be5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:10o-congresso-da-cna-e-da-agricultura-familiar-cdce6-2026-11-15@lagenda
  .pt
 DTSTAMP:20261114T000000Z
@@ -282,6 +327,15 @@ URL:https://lykeion.pt/e/congress-physics-cases-and-instrumentation-for-the
  -eurisol-d-4d6c1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontro-dia-mundial-da-diabetes-2ec78-2026-11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T140000
+SUMMARY:Encontro: Dia Mundial da Diabetes
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47750
+URL:https://lykeion.pt/e/encontro-dia-mundial-da-diabetes-2ec78.html
+END:VEVENT
+BEGIN:VEVENT
 UID:icone6-6th-international-conference-in-neuroethics-2e1c5-2026-11-16@lag
  enda.pt
 DTSTAMP:20261114T000000Z
@@ -307,19 +361,6 @@ URL:https://lykeion.pt/e/iscap-e-cei-acolhem-a-segunda-reuniao-internaciona
  l-do-proje-847bc.html
 END:VEVENT
 BEGIN:VEVENT
-UID:international-symposium-on-blockchain-and-cybersecurity-ribc-33906-2026
- -11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T090000
-SUMMARY:International Symposium on Blockchain and Cybersecurity – RIBCi
- –CYTED 2026
-LOCATION:Centro de Estudos Organizacionais e Sociais\, Porto
-DESCRIPTION:https://ceos.iscap.ipp.pt/event-details/international-symposium
- -on-blockchain-and-cybersecurity-ribci-cyted-2026
-URL:https://lykeion.pt/e/international-symposium-on-blockchain-and-cybersec
- urity-ribc-33906.html
-END:VEVENT
-BEGIN:VEVENT
 UID:participacao-online-gratuita-no-simposio-internacional-de-bl-847bc-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -333,6 +374,18 @@ URL:https://lykeion.pt/e/participacao-online-gratuita-no-simposio-internaci
  onal-de-bl-847bc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:second-international-conference-sustainable-finance-and-deca-b6089-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T090000
+SUMMARY:Second International Conference – Sustainable Finance and Decarbo
+ nisation
+LOCATION:Universidade Lusíada\, Vila Nova de Famalicão
+DESCRIPTION:https://www.fam.ulusiada.pt/eventos.php
+URL:https://lykeion.pt/e/second-international-conference-sustainable-financ
+ e-and-deca-b6089.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sustainable-finance-decarbonisation-2nd-international-confer-60c02-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -342,6 +395,19 @@ LOCATION:Universidade Lusíada (Porto)\, Porto
 DESCRIPTION:https://www.por.ulusiada.pt/noticias/eventos.php
 URL:https://lykeion.pt/e/sustainable-finance-decarbonisation-2nd-internatio
  nal-confer-60c02.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-de-universidades-celebra-parceria-entre-a-uc-e-a-co-37f53-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:"Encontro de Universidades” celebra parceria entre a UC e a cong
+ énere indiana de Nālandā
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://noticias.uc.pt/artigos/encontro-de-universidades-celebr
+ a-aproximacao-e-parcerias-entre-a-uc-e-a-congenere-indiana-de-n-land/
+URL:https://lykeion.pt/e/encontro-de-universidades-celebra-parceria-entre-a
+ -uc-e-a-co-37f53.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cimeira-apply-ai-bd7b5-2026-11-17@lagenda.pt
@@ -385,6 +451,27 @@ URL:https://lykeion.pt/e/i-congresso-luso-cabo-verdiano-de-direito-b54f5.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:pisa-encontro-com-a-escritora-ana-paula-tavares-9207b-2026-11-17@lagend
+ a.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Pisa: Encontro com a escritora Ana Paula Tavares
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/pisa-encontro-com-a-escritora-ana-paula-tavares
+URL:https://lykeion.pt/e/pisa-encontro-com-a-escritora-ana-paula-tavares-92
+ 07b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portugal-renewable-energy-summit-2026-3b4bb-2026-11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Portugal Renewable Energy Summit 2026
+LOCATION:Laboratório Nacional de Energia e Geologia
+DESCRIPTION:https://www.lneg.pt/portugal-renewable-energy-summit-2026/
+URL:https://lykeion.pt/e/portugal-renewable-energy-summit-2026-3b4bb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:x-workshop-on-immigration-health-and-wellbeing-6ea7a-2026-11-17@lagenda
  .pt
 DTSTAMP:20261114T000000Z
@@ -419,20 +506,6 @@ DESCRIPTION:https://essnortecvp.pt/pt/eventos/1o-congresso-internacional-de
  -acupuntura/
 URL:https://lykeion.pt/e/1o-congresso-internacional-de-acupuntura-97975.htm
  l
-END:VEVENT
-BEGIN:VEVENT
-UID:41st-conference-on-design-of-circuits-and-integrated-systems-c6c7a-2026
- -11-18@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:41st Conference on Design of Circuits and Integrated Systems DCIS 2
- 026
-LOCATION:Instituto de Engenharia de Sistemas e Computadores Investigação 
- e Desenvolvimento
-DESCRIPTION:https://www.inesc-id.pt/events/41st-conference-on-design-of-cir
- cuits-and-integrated-systems-dcis-2026/
-URL:https://lykeion.pt/e/41st-conference-on-design-of-circuits-and-integrat
- ed-systems-c6c7a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:5-a-conferencia-anual-sociodigital-lab-for-public-policy-145d8-2026-11-
@@ -506,6 +579,17 @@ LOCATION:Instituto Politécnico de Portalegre\, Portalegre
 DESCRIPTION:https://www.ipportalegre.pt/pt/2026/11/18/encontro-de-tipografi
  a/
 URL:https://lykeion.pt/e/encontro-de-tipografia-fd4c1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-aa064-2026-11-18@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T170000
+SUMMARY:Encontro era uma vez pinoquio dois séculos depois do nascimento do
+  seu autor
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/encontro-era-uma-vez-pi
+ noquio-dois-seculos-depois-do-nascimento-do-seu-autor
+URL:https://lykeion.pt/e/encontro-aa064.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-nova-science-innovation-day-790dd-2026-11-18@lagenda.pt
@@ -591,15 +675,15 @@ URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-fd2
  e8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xi-congresso-mundial-de-infancia-e-juventude-bb4a7-2026-11-18@lagenda.p
+UID:xi-congresso-mundial-de-infancia-e-juventude-ed469-2026-11-18@lagenda.p
  t
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
-LOCATION:Departamento de Ciência e Tecnologia\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
- ventude/
-URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-bb4a7
+LOCATION:Associacao Portuguesa de Sociologia
+DESCRIPTION:https://aps.pt/event/xi-congresso-mundial-de-infancia-e-juventu
+ de/
+URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-ed469
  .html
 END:VEVENT
 BEGIN:VEVENT
@@ -615,16 +699,36 @@ URL:https://lykeion.pt/e/xxx-encontro-galego-portugues-de-quimica-d8176.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+UID:13-o-forum-gdi-071e2-2026-11-19@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:13.º Fórum GDI
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
+ o.aspx?Codigo=68539
+URL:https://lykeion.pt/e/13-o-forum-gdi-071e2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:13o-forum-de-gestao-de-dados-de-investigacao-831e4-2026-11-19@lagenda.p
  t
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:13o Fórum de Gestão de Dados de Investigação
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24167
 URL:https://lykeion.pt/e/13o-forum-de-gestao-de-dados-de-investigacao-831e4
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:30-reunio-anual-spgh-30th-annual-meeting-spgh-3c753-2026-11-19@lagenda.
+ pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:30 – Reuni – o Anual SPGH/ 30th Annual Meeting SPGH
+LOCATION:Sociedade Portuguesa de Pediatria
+DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50865
+URL:https://lykeion.pt/e/30-reunio-anual-spgh-30th-annual-meeting-spgh-3c75
+ 3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:30-a-reuniao-anual-da-sociedade-portuguesa-de-genetica-human-39904-2026
@@ -669,20 +773,6 @@ LOCATION:Centro de Direito Biomédico\, Coimbra
 DESCRIPTION:https://centrodedireitobiomedico.org/curso/8-congresso-internac
  ional-da-adfas-presente-e-futuro-do-biodireito-da/35/
 URL:https://lykeion.pt/e/8o-congresso-internacional-da-adfas-ab031.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ai-big-data-and-human-genetics-spgh-30th-annual-meeting-pre-40e17-2026-
- 11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T090000
-SUMMARY:AI\, Big Data and Human Genetics – SPGH 30th Annual Meeting Pre-C
- ongress Session
-LOCATION:Instituto de Engenharia de Sistemas e Computadores Investigação 
- e Desenvolvimento
-DESCRIPTION:https://www.inesc-id.pt/events/ai-big-data-and-human-genetics-s
- pgh-30th-annual-meeting-pre-congress-session/
-URL:https://lykeion.pt/e/ai-big-data-and-human-genetics-spgh-30th-annual-me
- eting-pre-40e17.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bastonria-xix-congresso-nacional-da-apfh-4e2d1-2026-11-19@lagenda.pt
@@ -807,8 +897,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -821,17 +910,6 @@ SUMMARY:IX Jornadas de Restauro Fluvial
 LOCATION:Laboratório Associado TERRA
 DESCRIPTION:https://labterra.pt/agenda/ix-jornadas-de-restauro-fluvial/
 URL:https://lykeion.pt/e/ix-jornadas-de-restauro-fluvial-7ad62.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lneg-participa-no-forum-industrial-nacional-eu-solaris-b111c-2026-11-19
- @lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T093000
-SUMMARY:LNEG participa no Fórum Industrial Nacional EU-SOLARIS
-LOCATION:Laboratório Nacional de Energia e Geologia
-DESCRIPTION:https://www.lneg.pt/forum-industrial-nacional-eu-solaris/
-URL:https://lykeion.pt/e/lneg-participa-no-forum-industrial-nacional-eu-sol
- aris-b111c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:leather-summit-realiza-se-em-alcanena-a-905e0-2026-11-19@lagenda.pt
@@ -939,28 +1017,6 @@ URL:https://lykeion.pt/e/vi-congresso-da-sociedade-portuguesa-de-ciencias-e
  m-animais-26643.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xi-congresso-mundial-de-infancia-e-juventude-4346e-2026-11-19@lagenda.p
- t
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T083000
-SUMMARY:XI Congresso Mundial de Infância e Juventude
-LOCATION:Departamento de Ciência e Tecnologia\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
- ventude-2/
-URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-4346e
- .html
-END:VEVENT
-BEGIN:VEVENT
-UID:xxviii-coloquio-de-outono-6342b-2026-11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:XXVIII Colóquio de Outono
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
- o.aspx?Codigo=69222
-URL:https://lykeion.pt/e/xxviii-coloquio-de-outono-6342b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:xxviii-coloquio-de-outono-narrativas-e-representacoes-transc-a0435-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -972,16 +1028,6 @@ DESCRIPTION:https://www.uma.pt/noticias/xxviii-coloquio-de-outono-narrativa
  s-e-representacoes-transculturais-do-amor-call-for-papers
 URL:https://lykeion.pt/e/xxviii-coloquio-de-outono-narrativas-e-representac
  oes-transc-a0435.html
-END:VEVENT
-BEGIN:VEVENT
-UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T093000
-SUMMARY:18.ª edição Fórum do Medicamento
-LOCATION:Centro Cultural de Belém\, Belém
-DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
- kets-2004012616683
-URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
@@ -1040,6 +1086,17 @@ DESCRIPTION:https://www.agendalx.pt/events/event/a-arte-da-critica/
 URL:https://lykeion.pt/e/coloquio-ao-vivo-a-arte-da-critica-3fafc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:congresso-i-frum-de-pediatria-do-alto-alentejo-582a4-2026-11-20@lagenda
+ .pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Congresso: I F – rum de Pediatria do Alto Alentejo
+LOCATION:Sociedade Portuguesa de Pediatria
+DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50861
+URL:https://lykeion.pt/e/congresso-i-frum-de-pediatria-do-alto-alentejo-582
+ a4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:continue-reading-viver-saudavel-nutrition-summit-exhibition-e9482-2026-
  11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -1065,13 +1122,16 @@ URL:https://lykeion.pt/e/encontro-de-jovens-investigadores-e-cerimonia-de-e
  ntrega-de-9e3eb.html
 END:VEVENT
 BEGIN:VEVENT
-UID:forum-genotipar-e-o-caminho-85455-2026-11-20@lagenda.pt
+UID:encontro-apresentacao-de-um-atlas-da-religiao-em-portugal-bc64c-2026-11
+ -20@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261120
-SUMMARY:Fórum: Genotipar é o caminho
-LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
-DESCRIPTION:https://cba.uac.pt/news-events/ver.php?id=35
-URL:https://lykeion.pt/e/forum-genotipar-e-o-caminho-85455.html
+SUMMARY:Encontro: Apresentação de «Um Atlas da Religião em Portugal»
+LOCATION:Centro de Investigação em Teologia e Estudos da Religião
+DESCRIPTION:https://citer.ucp.pt/events/apresentacao-de-um-atlas-da-religia
+ o-em-portugal
+URL:https://lykeion.pt/e/encontro-apresentacao-de-um-atlas-da-religiao-em-p
+ ortugal-bc64c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:i-encontro-cientifico-em-neonatologia-c07fb-2026-11-20@lagenda.pt
@@ -1096,16 +1156,6 @@ DESCRIPTION:https://www.ismat.pt/pt/agenda-de-eventos/ismat-e-universidade-
  de-agadir-promovem-conferencia-internacional-luso-marroquina-de-direito
 URL:https://lykeion.pt/e/ismat-e-universidade-de-agadir-promovem-conferenci
  a-internac-17cf2.html
-END:VEVENT
-BEGIN:VEVENT
-UID:iv-jornadas-lusofonas-de-mediacao-d0073-2026-11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T100000
-SUMMARY:IV Jornadas Lusófonas de Mediação
-LOCATION:Universidade Católica Portuguesa\, Porto
-DESCRIPTION:https://fd.porto.ucp.pt/pt-pt/eventos/iv-jornadas-lusofonas-de-
- mediacao-47416
-URL:https://lykeion.pt/e/iv-jornadas-lusofonas-de-mediacao-d0073.html
 END:VEVENT
 BEGIN:VEVENT
 UID:jessica-pepp-no-arglab-research-colloquium-99f0f-2026-11-20@lagenda.pt
@@ -1155,18 +1205,6 @@ DESCRIPTION:https://www.psicologia.ulisboa.pt/encontro-ser-bebe/
 URL:https://lykeion.pt/e/x-encontro-ser-bebe-0b085.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xi-congresso-mundial-de-infancia-e-juventude-f4a7f-2026-11-20@lagenda.p
- t
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T083000
-SUMMARY:XI Congresso Mundial de Infância e Juventude
-LOCATION:Departamento de Ciência e Tecnologia\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
- ventude-3/
-URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-f4a7f
- .html
-END:VEVENT
-BEGIN:VEVENT
 UID:xiii-coloquio-irene-lisboa-43124-2026-11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T100000
@@ -1213,6 +1251,16 @@ DESCRIPTION:https://ibeb.ciencias.ulisboa.pt/ibeb-no-19o-congresso-do-comit
  e-portugues-da-ursi-com-direito-a-premio/
 URL:https://lykeion.pt/e/ibeb-no-19o-congresso-do-comite-portugues-da-ursi-
  com-direit-aa174.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-coloquio-57528-2026-11-21@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T093000
+SUMMARY:III Colóquio templários e ordem de Cristo
+LOCATION:Vila Nova da Barquinha\, Vila Nova da Barquinha
+DESCRIPTION:https://www.cm-vnbarquinha.pt/index.php/viver/agenda/conferenci
+ as-seminarios/iii-coloquio-templarios-e-ordem-de-cristo
+URL:https://lykeion.pt/e/iii-coloquio-57528.html
 END:VEVENT
 BEGIN:VEVENT
 UID:jornadas-de-pesca-ludica-e-desportiva-12ef9-2026-11-21@lagenda.pt
@@ -1521,15 +1569,15 @@ URL:https://lykeion.pt/e/xiii-coloquio-internacional-colecoes-de-arte-em-po
  rtugal-e-b-3cf1d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2-edicao-do-simposio-onde-o-conhecimento-converge-8def3-2026-11-25@lage
- nda.pt
+UID:2-a-edicao-do-simposio-onde-o-conhecimento-converge-8def3-2026-11-25@la
+ genda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T093000
 SUMMARY:2.ª Edição do Simpósio 'Onde o Conhecimento Converge'
 LOCATION:Escola Secundária da Maia\, Maia
 DESCRIPTION:
-URL:https://lykeion.pt/e/2-edicao-do-simposio-onde-o-conhecimento-converge-
- 8def3.html
+URL:https://lykeion.pt/e/2-a-edicao-do-simposio-onde-o-conhecimento-converg
+ e-8def3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:8a-edicao-do-forum-de-gestao-de-dados-de-investigacao-em-coi-03163-2026
@@ -1562,20 +1610,6 @@ SUMMARY:Conferência: Fórum INESC TEC do Outono
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
 DESCRIPTION:https://forumdooutono.inesctec.pt/
 URL:https://lykeion.pt/e/conferencia-forum-inesc-tec-do-outono-62b33.html
-END:VEVENT
-BEGIN:VEVENT
-UID:epies-encontro-de-profissionais-para-a-inovacao-no-ensino-su-00d68-2026
- -11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:EPIES – Encontro de Profissionais para a Inovação no Ensino Sup
- erior | 2.ª Edição
-LOCATION:ISEC Lisboa – Instituto Superior de Educação e Ciências
-DESCRIPTION:https://www.iseclisboa.pt/index.php/conhecer/comunicacao-e-medi
- a/eventos/3335-epies-encontro-de-profissionais-para-a-inovacao-no-ensino-s
- uperior-2-a-edicao
-URL:https://lykeion.pt/e/epies-encontro-de-profissionais-para-a-inovacao-no
- -ensino-su-00d68.html
 END:VEVENT
 BEGIN:VEVENT
 UID:forum-inesc-tec-do-outono-2026-ed877-2026-11-25@lagenda.pt
@@ -1752,6 +1786,32 @@ URL:https://lykeion.pt/e/encontro-europeu-dedicado-ao-futuro-dos-materiais-
  avancados-d9a59.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontro-envolvimento-co-construcao-e-agencia-dos-as-estudan-5f201-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:Encontro «envolvimento\, Co(construção e Agência Dos/as Estudan
+ tes na Educação Superior»
+LOCATION:Universidade Lusíada (Porto)\, Porto
+DESCRIPTION:https://www.por.ulusiada.pt/noticias/eventos.php
+URL:https://lykeion.pt/e/encontro-envolvimento-co-construcao-e-agencia-dos-
+ as-estudan-5f201.html
+END:VEVENT
+BEGIN:VEVENT
+UID:esta-e-uma-das-questoes-que-vao-estar-em-destaque-no-xii-con-24e7a-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T140000
+SUMMARY:Esta é uma das questões que vão estar em destaque no *XII Congre
+ sso da Indústria de Moldes* \, promovido pela CEFAMOL\, nos dias *26 e 27
+  de novembro* \, no *Teatro Stephens* \, na *Marinha Grande*.
+LOCATION:Centro Tecnológico da Indústria de Moldes\, Ferramentas especiai
+ s e Plásticos\, Marinha Grande
+DESCRIPTION:https://www.cim-portugal.pt/pt/programa/
+URL:https://lykeion.pt/e/esta-e-uma-das-questoes-que-vao-estar-em-destaque-
+ no-xii-con-24e7a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:eventos-spp-42o-congresso-de-pneumologia-74df9-2026-11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T090000
@@ -1810,17 +1870,6 @@ URL:https://lykeion.pt/e/ii-jornadas-internacionais-de-cenografia-figurinos
  -14441.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ii-jornadas-lnternacionais-de-cenografia-figurinos-bdc4b-2026-11-26@lag
- enda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180000
-SUMMARY:II Jornadas lnternacionais de Cenografia & Figurinos
-LOCATION:Centro de Investigação e de Estudos em Belas-Artes
-DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/687
-URL:https://lykeion.pt/e/ii-jornadas-lnternacionais-de-cenografia-figurinos
- -bdc4b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:iii-international-congress-of-quality-of-life-80574-2026-11-26@lagenda.
  pt
 DTSTAMP:20261114T000000Z
@@ -1839,7 +1888,7 @@ DTSTART;TZID=Europe/Lisbon:20261126T093000
 SUMMARY:IV Jornadas Healthy Campus da ULO
 LOCATION:Universidade de Leiria e Oeste\, Leiria
 DESCRIPTION:https://www.ulo.pt/iv-jornadas-healthy-campus-da-ulo-26-de-nove
- mbro-inscricoes-gratuitas-ate-10-de-novembro/
+ mbro-inscricoes-gratuitas-ate-19-de-novembro/
 URL:https://lykeion.pt/e/iv-jornadas-healthy-campus-da-ulo-82c4a.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1855,13 +1904,29 @@ URL:https://lykeion.pt/e/projeto-more-than-human-promove-encontro-online-a-
  78ba5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xii-congresso-da-industria-de-moldes-a521c-2026-11-26@lagenda.pt
+UID:bastonria-cerimnia-de-abertura-do-30-congresso-portugus-de-o-89b95-2026
+ -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T140000
-SUMMARY:XII Congresso da Indústria de Moldes
-LOCATION:Teatro Stephens\, Marinha Grande
-DESCRIPTION:
-URL:https://lykeion.pt/e/xii-congresso-da-industria-de-moldes-a521c.html
+DTSTART;TZID=Europe/Lisbon:20261127T180000
+SUMMARY:Baston – ria - Cerim – nia de Abertura do 30 – Congresso Port
+ ugu – s de Obesidade
+LOCATION:Ordem dos Nutricionistas\, Porto
+DESCRIPTION:https://www.ordemdosnutricionistas.pt/agenda.php
+URL:https://lykeion.pt/e/bastonria-cerimnia-de-abertura-do-30-congresso-por
+ tugus-de-o-89b95.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-internacional-dedicada-ao-cante-alentejano-9a702-2026-11-27
+ @lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T180000
+SUMMARY:Conferência Internacional dedicada ao Cante Alentejano
+LOCATION:Novo Auditório da JFCCS – Charneca da Caparica\, Almada
+DESCRIPTION:https://www.jflaranjeirofeijo.pt/territorio/agenda/icalrepeat.d
+ etail/2026/11/27/7980/-/conferencia-internacional-dedicada-ao-cante-alente
+ jano
+URL:https://lykeion.pt/e/conferencia-internacional-dedicada-ao-cante-alente
+ jano-9a702.html
 END:VEVENT
 BEGIN:VEVENT
 UID:congresso-internacional-one-health-eeef5-2026-11-27@lagenda.pt
@@ -1871,6 +1936,29 @@ SUMMARY:Congresso Internacional One Health
 LOCATION:Laboratório da Paisagem\, Guimarães
 DESCRIPTION:https://labpaisagem.pt
 URL:https://lykeion.pt/e/congresso-internacional-one-health-eeef5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-investigacao-e-intervencao-psicologica-98b1f-2026-11-27@lagend
+ a.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T143000
+SUMMARY:Encontro: Investigação e intervenção psicológica
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/investigacao-e-intervencao-psic
+ ologica-desafios
+URL:https://lykeion.pt/e/encontro-investigacao-e-intervencao-psicologica-98
+ b1f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:forum-cafe-forum-jovens-investigadores-7d15f-2026-11-27@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T130000
+SUMMARY:Fórum Café - Fórum Jovens Investigadores
+LOCATION:Unidade de Investigação e Desenvolvimento em Educação e Forma
+ ção
+DESCRIPTION:https://www.ie.ulisboa.pt/evento/forum-cafe-2026-11-13
+URL:https://lykeion.pt/e/forum-cafe-forum-jovens-investigadores-7d15f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:icnas-27-11-2026-5th-annual-meeting-of-cibit-6e3e2-2026-11-27@lagenda.p
@@ -1918,13 +2006,13 @@ DESCRIPTION:https://www.spcctv.pt/pt/agenda/detalhesevento/61/-/spcctv-cong
 URL:https://lykeion.pt/e/spcctv-congress-2026-2d29e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8-congresso-nacional-de-espeleologia-f3c72-2026-11-28@lagenda.pt
+UID:8o-congresso-nacional-de-espeleologia-f3c72-2026-11-28@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261128
-SUMMARY:8º Congresso Nacional de Espeleologia
+SUMMARY:8o Congresso Nacional de Espeleologia
 LOCATION:Casa da Cultura de Mira de Aire\, Porto de Mós
 DESCRIPTION:
-URL:https://lykeion.pt/e/8-congresso-nacional-de-espeleologia-f3c72.html
+URL:https://lykeion.pt/e/8o-congresso-nacional-de-espeleologia-f3c72.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ll-international-conference-on-set-costume-design-43aed-2026-11-28@lage
@@ -1998,6 +2086,16 @@ URL:https://lykeion.pt/e/ii-congresso-luso-cabo-verdiano-de-direito-af6d6.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+UID:6a-edicao-do-encontro-qualidade-ua-4e7b9-2026-12-02@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T091500
+SUMMARY:6a edição do Encontro Qualidade_UA
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://events.timely.fun/2x770b0s/event/6-edicao-do-encontro-q
+ ualidade_ua?instance_id=20261202091500
+URL:https://lykeion.pt/e/6a-edicao-do-encontro-qualidade-ua-4e7b9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:6th-international-conference-on-information-technology-in-ge-52c92-2026
  -12-02@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2018,8 +2116,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -2260,6 +2357,16 @@ DESCRIPTION:https://www.fchampalimaud.org/events/bonsai-developer-conferenc
 URL:https://lykeion.pt/e/bonsai-developer-conference-2026-7408a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontro-3-9d834-2026-12-07@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T170000
+SUMMARY:Encontro 3
+LOCATION:Centro de Estudos Sociais\, Coimbra
+DESCRIPTION:https://ces.uc.pt/agenda-noticias/agenda-de-eventos/2026/encont
+ ro-3
+URL:https://lykeion.pt/e/encontro-3-9d834.html
+END:VEVENT
+BEGIN:VEVENT
 UID:23rd-congress-of-the-portuguese-ethological-society-spe-2026-68019-2026
  -12-09@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2344,19 +2451,6 @@ URL:https://lykeion.pt/e/encontros-nas-margens-do-possivel-um-grupo-de-disc
  ussao-de-f-1f07a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8o-encontro-anual-das-autoridades-de-transportes-instituto-d-73b85-2026
- -12-10@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
-SUMMARY:8o Encontro Anual das Autoridades de Transportes - Instituto da Mob
- ilidade e dos Transportes
-LOCATION:Instituto da Mobilidade e dos Transportes
-DESCRIPTION:https://www.imt-ip.pt/evento/8o-encontro-anual-das-autoridades-
- de-transportes/
-URL:https://lykeion.pt/e/8o-encontro-anual-das-autoridades-de-transportes-i
- nstituto-d-73b85.html
-END:VEVENT
-BEGIN:VEVENT
 UID:cnn-summit-e8632-2026-12-10@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261210
@@ -2377,6 +2471,20 @@ DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
  recebe-conferencia-internacional-sobre-cuidado-integrado-em-saude/
 URL:https://lykeion.pt/e/universidade-politecnica-de-santarem-recebe-confer
  encia-inte-6051e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:1st-international-meeting-of-ecology-25th-national-ecology-m-f31a6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:1st International Meeting of Ecology & 25th National Ecology Meetin
+ g
+LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
+ icas\, Vila Real
+DESCRIPTION:https://www.citab.utad.pt/events/1st-international-meeting-of-e
+ cology-25th-national-ecology-meeting
+URL:https://lykeion.pt/e/1st-international-meeting-of-ecology-25th-national
+ -ecology-m-f31a6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:arglab-coloquio-11-12-2026-arglab-research-colloquium-fabriz-d135a-2026
@@ -2568,19 +2676,6 @@ LOCATION:Politécnico do Porto\, Porto
 DESCRIPTION:https://www.utporto.pt/noticias/cip-agenda-novembro
 URL:https://lykeion.pt/e/iii-forum-da-internacionalizacao-e-mobilidade-0472
  f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:7o-encontro-anual-das-autoridades-de-transportes-instituto-d-1785f-2026
- -12-18@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
-SUMMARY:7o Encontro Anual das Autoridades de Transportes - Instituto da Mob
- ilidade e dos Transportes
-LOCATION:Instituto da Mobilidade e dos Transportes
-DESCRIPTION:https://www.imt-ip.pt/evento/7o-encontro-anual-das-autoridades-
- de-transportes/
-URL:https://lykeion.pt/e/7o-encontro-anual-das-autoridades-de-transportes-i
- nstituto-d-1785f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:the-unfinished-project-symposium-2027-429ce-2026-12-18@lagenda.pt
@@ -2796,18 +2891,6 @@ DESCRIPTION:https://cemapre.iseg.ulisboa.pt/events/event.php?id=163
 URL:https://lykeion.pt/e/combinatorial-game-theory-colloquium-ii-b41af.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5-o-encontro-nacional-dos-profissionais-de-enoturismo-a177c-2027-01-27@
- lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270127T090000
-SUMMARY:5.º Encontro Nacional dos Profissionais de Enoturismo
-LOCATION:Departamento de Cinema e Artes dos Media (ULHT ECATI)
-DESCRIPTION:https://www.ulusofona.pt/evento/5-encontro-nacional-dos-profiss
- ionais-de-enoturismo
-URL:https://lykeion.pt/e/5-o-encontro-nacional-dos-profissionais-de-enoturi
- smo-a177c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ii-encontros-participativos-e-interculturais-5-a-sessao-8911b-2027-01-2
  7@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2842,7 +2925,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-com-pierre-dardot-1c1e1-2027-01-29@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270129
+DTSTART;TZID=Europe/Lisbon:20270129T170000
 SUMMARY:Encontro com Pierre Dardot
 LOCATION:Culturgest\, Avenidas Novas
 DESCRIPTION:https://www.culturgest.pt/pt/programacao/encontro-com-pierre-da
@@ -3392,6 +3475,18 @@ URL:https://lykeion.pt/e/formacao-comportamento-etico-na-ciencia-citar-e-re
  ferenciar-dd840.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aps-2027-xiv-congresso-portugues-de-sociologia-cbd5e-2027-03-22@lagenda
+ .pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270322
+SUMMARY:APS 2027 – XIV Congresso Português de Sociologia
+LOCATION:Associacao Portuguesa de Sociologia
+DESCRIPTION:https://aps.pt/event/aps-2027-xiv-congresso-portugues-de-sociol
+ ogia/
+URL:https://lykeion.pt/e/aps-2027-xiv-congresso-portugues-de-sociologia-cbd
+ 5e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:i-congresso-luso-mocambicano-de-direito-81130-2027-03-23@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20270323T120000
@@ -3449,19 +3544,6 @@ DESCRIPTION:https://spsp.pt/publicacoes/spsp-disponibiliza-novos-cadernos-c
  ientificos-no-ambito-do-encontro-one-health/
 URL:https://lykeion.pt/e/spsp-disponibiliza-novos-cadernos-cientificos-no-a
  mbito-do-e-51c04.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ii-jornadas-de-certificacao-ferroviaria-instituto-da-mobilid-e2954-2027
- -03-27@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270327
-SUMMARY:II Jornadas de Certificação Ferroviária - Instituto da Mobilidad
- e e dos Transportes
-LOCATION:Instituto da Mobilidade e dos Transportes
-DESCRIPTION:https://www.imt-ip.pt/evento/ii-jornadas-de-certificacao-ferrov
- iaria/
-URL:https://lykeion.pt/e/ii-jornadas-de-certificacao-ferroviaria-instituto-
- da-mobilid-e2954.html
 END:VEVENT
 BEGIN:VEVENT
 UID:meeting-era-spn-education-62c3a-2027-03-27@lagenda.pt
@@ -3671,6 +3753,19 @@ URL:https://lykeion.pt/e/formacao-como-encontrar-publicacoes-na-b-on-conhec
  a-a-nova-i-afdf8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:legalpl-coloquio-final-pluralismo-juridico-no-imperio-portug-62d32-2027
+ -04-11@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20270411T090000
+SUMMARY:LEGALPL | Colóquio final – Pluralismo Jurídico no Império Port
+ uguês (séculos XVIII-XX)
+LOCATION:NOVA School of Law
+DESCRIPTION:https://novalaw.unl.pt/legalpl-coloquio-final-pluralismo-juridi
+ co-no-imperio-portugues-seculos-xviii-xx/
+URL:https://lykeion.pt/e/legalpl-coloquio-final-pluralismo-juridico-no-impe
+ rio-portug-62d32.html
+END:VEVENT
+BEGIN:VEVENT
 UID:1o-forum-internacional-de-investigacao-de-enfermagem-em-doen-55a9e-2027
  -04-13@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -3682,6 +3777,19 @@ DESCRIPTION:https://spedc.pt/event/1o-forum-internacional-de-investigacao-d
  e-enfermagem-em-doente-critico/
 URL:https://lykeion.pt/e/1o-forum-internacional-de-investigacao-de-enfermag
  em-em-doen-55a9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:formacao-utilizar-a-biblioteca-do-conhecimento-online-b-on-v-f1140-2027
+ -04-13@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20270413T150000
+SUMMARY:Formação – Utilizar a Biblioteca do Conhecimento Online (b-on) 
+ – via Zoom meeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/formacao-utilizar-a-bi
+ blioteca-do-conhecimento-online-b-on-via-zoom-meeting/
+URL:https://lykeion.pt/e/formacao-utilizar-a-biblioteca-do-conhecimento-onl
+ ine-b-on-v-f1140.html
 END:VEVENT
 BEGIN:VEVENT
 UID:estg-ciicesi-partners-with-the-business-and-technology-confe-46b5e-2027
@@ -3896,5 +4004,17 @@ DESCRIPTION:https://www.spommf.pt/evento/30th-congress-ebcog-european-congr
  ess-of-obstetrics-and-gynaecology/
 URL:https://lykeion.pt/e/30th-congress-ebcog-european-congress-of-obstetric
  s-and-gyna-877a5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20o-congresso-da-sociedade-portuguesa-de-neuropediatria-5109b-2027-05-1
+ 3@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270513
+SUMMARY:20o Congresso da Sociedade Portuguesa de Neuropediatria
+LOCATION:Sociedade Portuguesa de Neurologia\, Matosinhos
+DESCRIPTION:http://www.spneurologia.com/evento/20-congresso-da-sociedade-po
+ rtuguesa-de-neuropedia/532
+URL:https://lykeion.pt/e/20o-congresso-da-sociedade-portuguesa-de-neuropedi
+ atria-5109b.html
 END:VEVENT
 END:VCALENDAR

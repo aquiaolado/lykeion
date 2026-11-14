@@ -6,6 +6,15 @@ X-WR-CALNAME:Engenharia Eletrotécnica e de Computadores (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-ieee-sobre-detecao-e-comunicacoes-integradas-iee-d838d-2026
  -11-15@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -69,10 +78,18 @@ UID:workshop-from-zero-to-solana-5f1c5-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop From Zero to Solana
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24195
 URL:https://lykeion.pt/e/workshop-from-zero-to-solana-5f1c5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-mestrado-0013b-2026-11-20@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-480/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-0013b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:centro-de-investigacao-oceanica-entre-a-china-e-os-paises-de-f42e5-2026

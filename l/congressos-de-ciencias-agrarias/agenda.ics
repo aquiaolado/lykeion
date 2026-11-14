@@ -6,20 +6,6 @@ X-WR-CALNAME:Congressos de ciências agrárias e veterinárias (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:xii-reuniao-cientifica-da-associacao-iberica-de-veterinarios-927ff-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:XII Reunião Científica da Associação Ibérica de Veterinários 
- de Parques Zoológicos e Fauna Selvagem (IAZWV)
-LOCATION:Ordem dos Médicos Veterinários
-DESCRIPTION:https://www.omv.pt/publicacoes/agenda/xii-reuniao-cientifica-da
- -associacao-iberica-de-veterinarios-de-parques-zoologicos-e-fauna-selvagem
- -iazwv-2
-URL:https://lykeion.pt/e/xii-reuniao-cientifica-da-associacao-iberica-de-ve
- terinarios-927ff.html
-END:VEVENT
-BEGIN:VEVENT
 UID:10o-congresso-da-cna-e-da-agricultura-familiar-cdce6-2026-11-15@lagenda
  .pt
 DTSTAMP:20261114T000000Z
@@ -104,15 +90,6 @@ URL:https://lykeion.pt/e/encontro-de-jovens-investigadores-e-cerimonia-de-e
  ntrega-de-9e3eb.html
 END:VEVENT
 BEGIN:VEVENT
-UID:forum-genotipar-e-o-caminho-85455-2026-11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
-SUMMARY:Fórum: Genotipar é o caminho
-LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
-DESCRIPTION:https://cba.uac.pt/news-events/ver.php?id=35
-URL:https://lykeion.pt/e/forum-genotipar-e-o-caminho-85455.html
-END:VEVENT
-BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-1-o-encontro-nacional-de-c5e00-2026-
  11-21@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -154,8 +131,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -172,6 +148,20 @@ DESCRIPTION:https://www.arditi.pt/pt/noticias/3o-steering-committee-meeting
  -do-projeto-aquafish0-0.html
 URL:https://lykeion.pt/e/3o-steering-committee-meeting-do-projeto-aquafish0
  -0-4eab9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:1st-international-meeting-of-ecology-25th-national-ecology-m-f31a6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:1st International Meeting of Ecology & 25th National Ecology Meetin
+ g
+LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
+ icas\, Vila Real
+DESCRIPTION:https://www.citab.utad.pt/events/1st-international-meeting-of-e
+ cology-25th-national-ecology-meeting
+URL:https://lykeion.pt/e/1st-international-meeting-of-ecology-25th-national
+ -ecology-m-f31a6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:viii-jornadas-do-gtie-a6c40-2026-12-13@lagenda.pt

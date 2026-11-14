@@ -6,18 +6,30 @@ X-WR-CALNAME:ISEC (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:epies-encontro-de-profissionais-para-a-inovacao-no-ensino-su-00d68-2026
- -11-25@lagenda.pt
+UID:isec-lisboa-recebe-sergio-baptista-line-producer-da-serie-gl-88d93-2026
+ -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:EPIES – Encontro de Profissionais para a Inovação no Ensino Sup
- erior | 2.ª Edição
+DTSTART;TZID=Europe/Lisbon:20261119T090000
+SUMMARY:ISEC Lisboa recebe Sérgio Baptista\, Line Producer da série Glór
+ ia\, da Netflix\, para uma masterclass sobre produção audiovisual
 LOCATION:ISEC Lisboa – Instituto Superior de Educação e Ciências
 DESCRIPTION:https://www.iseclisboa.pt/index.php/conhecer/comunicacao-e-medi
- a/eventos/3335-epies-encontro-de-profissionais-para-a-inovacao-no-ensino-s
- uperior-2-a-edicao
-URL:https://lykeion.pt/e/epies-encontro-de-profissionais-para-a-inovacao-no
- -ensino-su-00d68.html
+ a/eventos/3391-isec-lisboa-recebe-sergio-baptista-line-producer-da-serie-g
+ loria-da-netflix-para-uma-masterclass-sobre-producao-audiovisual
+URL:https://lykeion.pt/e/isec-lisboa-recebe-sergio-baptista-line-producer-d
+ a-serie-gl-88d93.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-investigacao-em-optometria-aprender-fazendo-8f599-2026-11-19@
+ lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T143000
+SUMMARY:Seminário | Investigação em Optometria: Aprender Fazendo
+LOCATION:ISEC Lisboa – Instituto Superior de Educação e Ciências
+DESCRIPTION:https://www.iseclisboa.pt/index.php/conhecer/comunicacao-e-medi
+ a/eventos/3392-seminario-investigacao-em-optometria-aprender-fazendo
+URL:https://lykeion.pt/e/seminario-investigacao-em-optometria-aprender-faze
+ ndo-8f599.html
 END:VEVENT
 BEGIN:VEVENT
 UID:8-a-conferencia-anual-de-protecao-civil-ciencia-7d214-2026-11-26@lagend

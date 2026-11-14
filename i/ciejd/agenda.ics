@@ -6,6 +6,15 @@ X-WR-CALNAME:CIEJD (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:dia-dos-autores-europeus-4ac50-2026-11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Dia dos Autores Europeus
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/dia-dos-autores-europeus
+URL:https://lykeion.pt/e/dia-dos-autores-europeus-4ac50.html
+END:VEVENT
+BEGIN:VEVENT
 UID:cimeira-apply-ai-bd7b5-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T073000
@@ -38,6 +47,20 @@ DESCRIPTION:https://eurocid.mne.gov.pt/eventos/o-contributo-da-dimensao-atl
  antica-para-seguranca-internacional-no-contexto-do-papel-da-ue
 URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-70da
  6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:o-contributo-da-dimensao-atlantica-para-a-seguranca-internac-70da6-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T170000
+SUMMARY:O contributo da dimensão atlântica para a segurança internaciona
+ l no contexto do papel da UE no mundo - Conferência Sobre o Futuro da Eur
+ opa
+LOCATION:Centro de Informação Europeia Jacques Delors
+DESCRIPTION:https://eurocid.mne.gov.pt/eventos/o-contributo-da-dimensao-atl
+ antica-para-seguranca-internacional-no-contexto-do-papel-da-ue
+URL:https://lykeion.pt/e/o-contributo-da-dimensao-atlantica-para-a-seguranc
+ a-internac-70da6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-universal-dos-direitos-da-crianca-a4393-2026-11-20@lagenda.pt
@@ -243,7 +266,7 @@ BEGIN:VEVENT
 UID:europa-para-os-cidadaos-conferencia-sobre-o-futuro-da-europa-87634-2027
  -02-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270221
+DTSTART;TZID=Europe/Lisbon:20270221T235900
 SUMMARY:Europa para os Cidadãos Conferência sobre o Futuro da Europa
 LOCATION:Centro de Informação Europeia Jacques Delors
 DESCRIPTION:https://eurocid.mne.gov.pt/eventos/summer-cemp-2022-acores

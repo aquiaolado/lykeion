@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Faculdade de Psicologia e de Ciências da Educação da Univer
+ sidade do Porto (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:encontro-investigacao-e-intervencao-psicologica-98b1f-2026-11-27@lagend
+ a.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T143000
+SUMMARY:Encontro: Investigação e intervenção psicológica
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/investigacao-e-intervencao-psic
+ ologica-desafios
+URL:https://lykeion.pt/e/encontro-investigacao-e-intervencao-psicologica-98
+ b1f.html
+END:VEVENT
+END:VCALENDAR

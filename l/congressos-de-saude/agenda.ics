@@ -30,19 +30,6 @@ URL:https://lykeion.pt/e/encontro-entre-fisicos-2026-encontro-anual-da-comu
  nidade-de-d7fda.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iii-jornadas-dos-tecnicos-superiores-de-diagnostico-e-terape-ac3c1-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:III Jornadas dos Técnicos Superiores de Diagnóstico e Terapêutic
- a (TDST) da ULS Algarve
-LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
-DESCRIPTION:https://www.ualg.pt/iii-jornadas-dos-tecnicos-superiores-de-dia
- gnostico-e-terapeutica-tdst-da-uls-algarve
-URL:https://lykeion.pt/e/iii-jornadas-dos-tecnicos-superiores-de-diagnostic
- o-e-terape-ac3c1.html
-END:VEVENT
-BEGIN:VEVENT
 UID:xxi-congresso-aeffup-72db4-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -51,6 +38,15 @@ LOCATION:Faculdade de Farmácia da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/ffup/pt/noticias_geral.ver_noticia?P_NR=5
  2678
 URL:https://lykeion.pt/e/xxi-congresso-aeffup-72db4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-dia-mundial-da-diabetes-2ec78-2026-11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T140000
+SUMMARY:Encontro: Dia Mundial da Diabetes
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=47750
+URL:https://lykeion.pt/e/encontro-dia-mundial-da-diabetes-2ec78.html
 END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-saude-mental-e-seguranca-4f4a4-2026-11-17@lagenda.pt
@@ -134,8 +130,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -148,16 +143,6 @@ SUMMARY:VI Congresso da SPCAL
 LOCATION:Ordem dos Médicos Veterinários
 DESCRIPTION:https://www.omv.pt/publicacoes/agenda/vi-congresso-da-spcal
 URL:https://lykeion.pt/e/vi-congresso-da-spcal-db61d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T093000
-SUMMARY:18.ª edição Fórum do Medicamento
-LOCATION:Centro Cultural de Belém\, Belém
-DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
- kets-2004012616683
-URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
@@ -183,6 +168,17 @@ DESCRIPTION:https://www.fmv.ulisboa.pt/pt/noticias/faculdade/50-edicao-das-
  jornadas-medico-veterinarias
 URL:https://lykeion.pt/e/50-a-edicao-das-jornadas-medico-veterinarias-1162e
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:congresso-i-frum-de-pediatria-do-alto-alentejo-582a4-2026-11-20@lagenda
+ .pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Congresso: I F – rum de Pediatria do Alto Alentejo
+LOCATION:Sociedade Portuguesa de Pediatria
+DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50861
+URL:https://lykeion.pt/e/congresso-i-frum-de-pediatria-do-alto-alentejo-582
+ a4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:continue-reading-viver-saudavel-nutrition-summit-exhibition-e9482-2026-
@@ -344,7 +340,7 @@ DTSTART;TZID=Europe/Lisbon:20261126T093000
 SUMMARY:IV Jornadas Healthy Campus da ULO
 LOCATION:Universidade de Leiria e Oeste\, Leiria
 DESCRIPTION:https://www.ulo.pt/iv-jornadas-healthy-campus-da-ulo-26-de-nove
- mbro-inscricoes-gratuitas-ate-10-de-novembro/
+ mbro-inscricoes-gratuitas-ate-19-de-novembro/
 URL:https://lykeion.pt/e/iv-jornadas-healthy-campus-da-ulo-82c4a.html
 END:VEVENT
 BEGIN:VEVENT
@@ -854,5 +850,17 @@ DESCRIPTION:https://www.ihmt.unl.pt/events/7-o-congresso-de-medicina-tropic
  doencas-transmitid/
 URL:https://lykeion.pt/e/7-o-congresso-de-medicina-tropical-do-ihmt-nova-on
  e-health-d-cc57d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20o-congresso-da-sociedade-portuguesa-de-neuropediatria-5109b-2027-05-1
+ 3@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270513
+SUMMARY:20o Congresso da Sociedade Portuguesa de Neuropediatria
+LOCATION:Sociedade Portuguesa de Neurologia\, Matosinhos
+DESCRIPTION:http://www.spneurologia.com/evento/20-congresso-da-sociedade-po
+ rtuguesa-de-neuropedia/532
+URL:https://lykeion.pt/e/20o-congresso-da-sociedade-portuguesa-de-neuropedi
+ atria-5109b.html
 END:VEVENT
 END:VCALENDAR

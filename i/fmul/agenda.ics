@@ -6,6 +6,19 @@ X-WR-CALNAME:Faculdade de Medicina da Universidade de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:47o-ciclo-de-conferencias-sobre-doencas-infeciosas-dr-german-6dc32-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T120000
+SUMMARY:47o Ciclo de Conferências sobre Doenças Infeciosas Dr. Germano do
+  Carmo
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:http://www.medicina.ulisboa.pt/47o-ciclo-de-conferencias-sobre-
+ doencas-infeciosas-dr-germano-do-carmo
+URL:https://lykeion.pt/e/47o-ciclo-de-conferencias-sobre-doencas-infeciosas
+ -dr-german-6dc32.html
+END:VEVENT
+BEGIN:VEVENT
 UID:coloquio-saude-mental-e-seguranca-4f4a4-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T190000
@@ -382,6 +395,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-alexandra-santos-de-matos-cr
  itical-ana-4d9df.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-rodrigo-dos-santos-vicente-as-preferen-4d9df-2027
+ -01-08@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20270108T110000
+SUMMARY:Provas de mestrado de Rodrigo dos Santos Vicente — «As Preferên
+ cias e as Perceções de Comunicação do Doente Oncológico na Primeira C
+ onsulta de Oncologia Médica»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rodrigo-dos-santos-vicente-a
+ s-preferen-4d9df.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-carolina-gomes-morais-modelling-vascul-9da22-2027
  -01-09@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -536,6 +562,16 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-vicente-morais-araujo-pombo-
  magalhaes-171db.html
 END:VEVENT
 BEGIN:VEVENT
+UID:submission-deadline-january-15-2027-e5c8b-2027-01-15@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270115
+SUMMARY:Submission deadline: January 15\, 2027
+LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+DESCRIPTION:https://www.tlu.ee/en/ht/memory-and-environment-intersection-fa
+ st-and-slow-violence-transnational-european-literatures
+URL:https://lykeion.pt/e/submission-deadline-january-15-2027-e5c8b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-gomes-iglesias-neurofilaments-45a0f-2027-
  01-19@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -634,6 +670,17 @@ LOCATION:Faculdade de Medicina da Universidade de Lisboa
 DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
 URL:https://lykeion.pt/e/provas-de-mestrado-de-ilda-de-fatima-cumba-tati-an
  alise-econ-fa539.html
+END:VEVENT
+BEGIN:VEVENT
+UID:submission-deadline-february-2-2027-5-00-pm-cet-paris-time-58efb-2027-0
+ 2-02@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Submission deadline: February 2\, 2027 - 5:00 PM (CET\, Paris Time)
+LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+DESCRIPTION:https://www.lestudium-ias.com/news/call-projects-2027-open
+URL:https://lykeion.pt/e/submission-deadline-february-2-2027-5-00-pm-cet-pa
+ ris-time-58efb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-dora-alexandra-neto-duarte-sex-differe-f371f-2027
@@ -1029,5 +1076,14 @@ LOCATION:Faculdade de Medicina da Universidade de Lisboa
 DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
 URL:https://lykeion.pt/e/provas-de-mestrado-de-marta-isabel-martins-gomes-a
  -escassez-3065f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:submission-deadline-april-30-2027-9964c-2027-04-30@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270430
+SUMMARY:Submission deadline: April 30\, 2027
+LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+DESCRIPTION:https://ulices.letras.ulisboa.pt/calls/
+URL:https://lykeion.pt/e/submission-deadline-april-30-2027-9964c.html
 END:VEVENT
 END:VCALENDAR

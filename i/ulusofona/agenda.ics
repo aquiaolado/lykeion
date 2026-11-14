@@ -6,15 +6,28 @@ X-WR-CALNAME:Lusófona (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:ciclo-de-masterclasses-sessoes-tematicas-c411b-2026-11-14@lagenda.pt
+UID:encontros-great-artists-on-campus-2-porto-7ddb7-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T100000
-SUMMARY:Ciclo De Masterclasses & Sessões Temáticas
-LOCATION:Departamento de Cinema e Artes dos Media (ULHT ECATI)
-DESCRIPTION:https://www.ulusofona.pt/evento/ciclo-de-masterclasses-sessoes-
- tematicas-
-URL:https://lykeion.pt/e/ciclo-de-masterclasses-sessoes-tematicas-c411b.htm
- l
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Encontros: Great Artists on Campus #2 | Porto
+LOCATION:Universidade Lusófona
+DESCRIPTION:https://www.ulusofona.pt/eventos/great-artists-on-campus-2-port
+ o
+URL:https://lykeion.pt/e/encontros-great-artists-on-campus-2-porto-7ddb7.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-encontros-participativos-e-interculturais-inclusao-e-dive-b5280-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:II Encontros Participativos e Interculturais: Inclusão e Diversida
+ de
+LOCATION:Universidade Lusófona
+DESCRIPTION:https://www.ulusofona.pt/eventos/ii-encontros-participativos-e-
+ interculturais-inclusao-e-diversidade
+URL:https://lykeion.pt/e/ii-encontros-participativos-e-interculturais-inclu
+ sao-e-dive-b5280.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-o-papel-do-parlamento-europeu-e-os-desafios-da-i-a635f-2026
@@ -199,19 +212,6 @@ DESCRIPTION:https://www.ulusofona.pt/eventos/videojogos-2026
 URL:https://lykeion.pt/e/videojogos-2026-ee63e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:soberania-digital-2026-da-dependencia-tecnologica-a-autonomi-21803-2026
- -12-09@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261209T090000
-SUMMARY:Soberania Digital 2026 - Da Dependência Tecnológica à Autonomia 
- Estratégica
-LOCATION:Departamento de Cinema e Artes dos Media (ULHT ECATI)
-DESCRIPTION:https://www.ulusofona.pt/evento/soberania-digital-2026-da-depen
- dencia-tecnologica-a-autonomia-estrategica
-URL:https://lykeion.pt/e/soberania-digital-2026-da-dependencia-tecnologica-
- a-autonomi-21803.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-acesso-a-justica-e-sociedade-digital-7b120-2026-12-10@lagenda
  .pt
 DTSTAMP:20261114T000000Z
@@ -267,18 +267,6 @@ LOCATION:Departamento de Arquitetura e Urbanismo
 DESCRIPTION:https://arquitetura.ulusofona.pt/pt/eventos/ciclo-conferencias-
  habitacao-critica
 URL:https://lykeion.pt/e/ciclo-de-conferencias-habitacao-critica-ae198.html
-END:VEVENT
-BEGIN:VEVENT
-UID:5-o-encontro-nacional-dos-profissionais-de-enoturismo-a177c-2027-01-27@
- lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270127T090000
-SUMMARY:5.º Encontro Nacional dos Profissionais de Enoturismo
-LOCATION:Departamento de Cinema e Artes dos Media (ULHT ECATI)
-DESCRIPTION:https://www.ulusofona.pt/evento/5-encontro-nacional-dos-profiss
- ionais-de-enoturismo
-URL:https://lykeion.pt/e/5-o-encontro-nacional-dos-profissionais-de-enoturi
- smo-a177c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ii-encontros-participativos-e-interculturais-5-a-sessao-8911b-2027-01-2

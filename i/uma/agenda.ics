@@ -226,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:academic-success-in-higher-education-2025-d0c53-2027-02-06@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270206
+DTSTART;TZID=Europe/Lisbon:20270206T191200
 SUMMARY:Academic Success in Higher Education 2025
 LOCATION:Centro de Investigação em Educação\, Braga
 DESCRIPTION:https://cied.uminho.pt/evento-cientifico/academic-success-in-hi

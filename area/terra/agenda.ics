@@ -6,17 +6,14 @@ X-WR-CALNAME:Ciências da Terra e do Mar (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:palestra-os-romanos-debaixo-da-quinta-de-sao-domingos-benesp-5529f-2026
- -11-14@lagenda.pt
+UID:conferencias-palestras-a1948-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T170000
-SUMMARY:Palestra | Os Romanos debaixo da Quinta de São Domingos – Benesp
- era
-LOCATION:Junta de Freguesia Benespera\, Guarda
-DESCRIPTION:https://www.mun-guarda.pt/agenda-de-eventos/palestra-os-romanos
- -debaixo-da-quinta-de-sao-domingos-benespera/
-URL:https://lykeion.pt/e/palestra-os-romanos-debaixo-da-quinta-de-sao-domin
- gos-benesp-5529f.html
+DTSTART;TZID=Europe/Lisbon:20261114T134500
+SUMMARY:Conferências/Palestras
+LOCATION:Casa do Território\, Vila Nova de Famalicão
+DESCRIPTION:https://www.parquedadevesa.com/_conferencia_ambientar-se_regene
+ rar&mop=7
+URL:https://lykeion.pt/e/conferencias-palestras-a1948.html
 END:VEVENT
 BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-149e7-2026
@@ -57,18 +54,6 @@ URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
  ias-do-mar-2ef51.html
 END:VEVENT
 BEGIN:VEVENT
-UID:26-ciencias-sociais-a-conversa-desafios-e-oportunidades-da-285d6-2026-1
- 1-18@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261118T160000
-SUMMARY:26 Ciências Sociais à Conversa – Desafios e Oportunidades da...
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
- versa-desafios-e-oportunidades-da-transicao-energetica/
-URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-desafios-e-oportuni
- dades-da-285d6.html
-END:VEVENT
-BEGIN:VEVENT
 UID:webinar-12f73-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T110000
@@ -99,8 +84,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T143000
 SUMMARY:Conferência «Alterações climáticas: devemos ter medo do futuro
  ?»
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Física\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24166
 URL:https://lykeion.pt/e/conferencia-alteracoes-climaticas-devemos-ter-medo
  -do-futuro-a0818.html
@@ -130,6 +114,19 @@ DESCRIPTION:https://www.igot.ulisboa.pt/eventos/inauguracao-da-exposicao-ur
  banitas-de-rogerio-araujo
 URL:https://lykeion.pt/e/inauguracao-da-exposicao-urbanitas-de-rogerio-arau
  jo-5e548.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-dina-maria-da-costa-de-carvalho-lemos-44119-2026-
+ 11-18@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T113000
+SUMMARY:Provas de mestrado de Dina Maria da Costa de Carvalho Lemos Ribeiro
+  — Ensinar\, aprender e refletir: um relatório de atividade profissiona
+ l em biologia e geologia
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6117
+URL:https://lykeion.pt/e/provas-de-mestrado-de-dina-maria-da-costa-de-carva
+ lho-lemos-44119.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-2775d-2026-11-18@lagenda.pt
@@ -215,17 +212,6 @@ DESCRIPTION:https://www.ciimar.up.pt/events/conversas-com-ciencia-in-serral
 URL:https://lykeion.pt/e/seminar-66d6d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-eff16-2026-11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T093000
-SUMMARY:Social media toolbox for researchers
-LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
- rto
-DESCRIPTION:https://www.ciimar.up.pt/events/social-media-toolbox-for-resear
- chers/
-URL:https://lykeion.pt/e/workshop-eff16.html
-END:VEVENT
-BEGIN:VEVENT
 UID:webinar-1d6bb-2026-11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T093000
@@ -252,7 +238,7 @@ BEGIN:VEVENT
 UID:workshop-cb646-2026-11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T093000
-SUMMARY:Essential Cybersecurity phishing passwords and best practices
+SUMMARY:Essential cybersecurity phishing passwords and best practices
 LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
  rto
 DESCRIPTION:https://www.ciimar.up.pt/events/essential-cybersecurity-phishin
@@ -323,6 +309,19 @@ URL:https://lykeion.pt/e/8-a-conferencia-anual-de-protecao-civil-ciencia-7d
  214.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-o-impacto-dos-sistemas-alimentares-na-acao-clima-66fb5-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T193000
+SUMMARY:Conferência “O Impacto dos sistemas alimentares na ação climá
+ tica – o papel do poder local
+LOCATION:Teatro Municipal António Pinheiro\, Tavira
+DESCRIPTION:https://cm-tavira.pt/site/evento/conferencia-o-impacto-dos-sist
+ emas-alimentares-na-acao-climatica-o-papel-do-poder-local/
+URL:https://lykeion.pt/e/conferencia-o-impacto-dos-sistemas-alimentares-na-
+ acao-clima-66fb5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-sismos-e-erupcoes-vulcanicas-o-nosso-planeta-c536f-2026-
  11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -333,6 +332,17 @@ LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://idl.ciencias.ulisboa.pt/visitas-sala-de-outreach
 URL:https://lykeion.pt/e/portas-abertas-sismos-e-erupcoes-vulcanicas-o-noss
  o-planeta-c536f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-geologica-ceedd-2026-11-27@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T143000
+SUMMARY:Provas de Mestrado em Engenharia Geológica
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
+ rado-em-engenharia-geologica-1
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-geologica-ceedd.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-estagio-a-utility-network-0c1d6-2026

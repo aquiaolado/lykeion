@@ -6,52 +6,65 @@ X-WR-CALNAME:Instituto de Educação da Universidade de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-daniela-rocha-bicalho-tecnologias-035d3-2026-
- 11-16@lagenda.pt
+UID:provas-de-doutoramento-de-daniela-rocha-bicalho-b3c0e-2026-11-16@lagend
+ a.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Provas de doutoramento de Daniela Rocha Bicalho — Tecnologias de 
- Informação e Comunicação na Educação
+DTSTART;TZID=Europe/Lisbon:20261116T140000
+SUMMARY:Provas de doutoramento de Daniela Rocha Bicalho
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-daniela-rocha-bicalho-te
- cnologias-035d3.html
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-doutoramento
+ -em-educacao-de-daniela-bicalho
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-daniela-rocha-bicalho-b3
+ c0e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-clara-maria-jesus-marques-ventura-324cd-2026-
+UID:provas-de-doutoramento-de-marina-formis-de-oliveira-44eea-2026-11-16@la
+ genda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T143000
+SUMMARY:Provas de doutoramento de Marina Formis de Oliveira
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-mestrado-em-
+ educacao-de-marina-de-oliveira
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-marina-formis-de-oliveir
+ a-44eea.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-clara-maria-jesus-marques-ventura-611c6-2026-
  11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T103000
 SUMMARY:Provas de doutoramento de Clara Maria Jesus Marques Ventura Ferreir
- a — Tecnologias de Informação e Comunicação na Educação
+ a
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-clara-ferreira
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-clara-maria-jesus-marque
- s-ventura-324cd.html
+ s-ventura-611c6.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-pedro-miguel-amaral-dos-reis-tecno-324cd-2026
- -11-17@lagenda.pt
+UID:provas-de-doutoramento-de-pedro-miguel-amaral-dos-reis-122e8-2026-11-17
+ @lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas de doutoramento de Pedro Miguel Amaral dos Reis — Tecnolog
- ias de Informação e Comunicação na Educação
+DTSTART;TZID=Europe/Lisbon:20261117T090000
+SUMMARY:Provas de doutoramento de Pedro Miguel Amaral dos Reis
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-pedro-dos-reis
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-pedro-miguel-amaral-dos-
- reis-tecno-324cd.html
+ reis-122e8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-jorge-miguel-dos-santos-bico-tecno-9b274-2026
- -11-18@lagenda.pt
+UID:provas-de-doutoramento-de-jorge-miguel-dos-santos-bico-122e8-2026-11-18
+ @lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Provas de doutoramento de Jorge Miguel dos Santos Bico — Tecnolog
- ias de Informação e Comunicação na Educação
+DTSTART;TZID=Europe/Lisbon:20261118T140000
+SUMMARY:Provas de doutoramento de Jorge Miguel dos Santos Bico
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-jorge-bico
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-jorge-miguel-dos-santos-
- bico-tecno-9b274.html
+ bico-122e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iii-jornadas-de-jovens-historiadores-em-educacao-encontro-in-f3c1d-2026
@@ -67,88 +80,159 @@ URL:https://lykeion.pt/e/iii-jornadas-de-jovens-historiadores-em-educacao-e
  ncontro-in-f3c1d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-administracao-e-politica-educacion-474fa-2026
- -12-04@lagenda.pt
+UID:provas-de-doutoramento-de-geuzilainy-caty-soares-da-silva-94d6a-2026-11
+ -26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261204
-SUMMARY:Provas de doutoramento de Administração e Política Educacional 
- — Projeto de Tese de Doutoramento
+DTSTART;TZID=Europe/Lisbon:20261126T150000
+SUMMARY:Provas de doutoramento de Geuzilainy Caty Soares da Silva
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-administracao-e-politica
- -educacion-474fa.html
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-mestrado-em-
+ educacao-de-geuzilainy-da-silva
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-geuzilainy-caty-soares-d
+ a-silva-94d6a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-goncalo-alves-de-moura-projeto-de-5d911-2026-
- 12-09@lagenda.pt
+UID:forum-cafe-forum-jovens-investigadores-7d15f-2026-11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Provas de doutoramento de Gonçalo Alves de Moura — Projeto de Te
- se de Doutoramento
-LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-goncalo-alves-de-moura-p
- rojeto-de-5d911.html
+DTSTART;TZID=Europe/Lisbon:20261127T130000
+SUMMARY:Fórum Café - Fórum Jovens Investigadores
+LOCATION:Unidade de Investigação e Desenvolvimento em Educação e Forma
+ ção
+DESCRIPTION:https://www.ie.ulisboa.pt/evento/forum-cafe-2026-11-13
+URL:https://lykeion.pt/e/forum-cafe-forum-jovens-investigadores-7d15f.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-formacao-de-professores-e-supervis-b8a96-2026
+UID:provas-de-doutoramento-de-adria-maria-nina-monteiro-122e8-2026-12-04@la
+ genda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T100000
+SUMMARY:Provas de doutoramento de Adria Maria Nina Monteiro
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-adria-monteiro
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-adria-maria-nina-monteir
+ o-122e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-catarina-da-silva-ferreira-122e8-2026-12-04@l
+ agenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T090000
+SUMMARY:Provas de doutoramento de Catarina da Silva Ferreira
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-catarina-ferreira
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-catarina-da-silva-ferrei
+ ra-122e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-cristina-susana-dos-reis-prata-122e8-2026-12-
+ 04@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T110000
+SUMMARY:Provas de doutoramento de Cristina Susana dos Reis Prata
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-cristina-prata
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-cristina-susana-dos-reis
+ -prata-122e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-elsa-paula-da-encarnacao-belo-122e8-2026-12-0
+ 4@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T120000
+SUMMARY:Provas de doutoramento de Elsa Paula da Encarnação Belo
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-elsa-belo
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-elsa-paula-da-encarnacao
+ -belo-122e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-goncalo-alves-de-moura-122e8-2026-12-09@lagen
+ da.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T160000
+SUMMARY:Provas de doutoramento de Gonçalo Alves de Moura
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-goncalo-de-moura
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-goncalo-alves-de-moura-1
+ 22e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-david-alexandre-assuncao-da-paz-be-122e8-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
-SUMMARY:Provas de doutoramento de Formação de Professores e Supervisão 
- — David Alexandre Assunção da Paz Beirante
+DTSTART;TZID=Europe/Lisbon:20261215T180000
+SUMMARY:Provas de doutoramento de David Alexandre Assunção da Paz Beirant
+ e
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-formacao-de-professores-
- e-supervis-b8a96.html
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-david-beirante
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-david-alexandre-assuncao
+ -da-paz-be-122e8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-formacao-de-professores-e-supervis-b8a96-2026
- -12-15@lagenda.pt
+UID:provas-de-doutoramento-de-diana-marisa-mendes-fernandes-23a73-2026-12-1
+ 5@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
-SUMMARY:Provas de doutoramento de Formação de Professores e Supervisão 
- — Projeto de Tese de Doutoramento
+DTSTART;TZID=Europe/Lisbon:20261215T193000
+SUMMARY:Provas de doutoramento de Diana Marisa Mendes Fernandes
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-formacao-de-professores-
- e-supervis-b8a96.html
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-diana-fernandes
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-diana-marisa-mendes-fern
+ andes-23a73.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-formacao-de-adultos-maria-manuela-c6301-2026-
- 12-16@lagenda.pt
+UID:provas-de-doutoramento-de-ines-gomes-esteves-122e8-2026-12-16@lagenda.p
+ t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
-SUMMARY:Provas de doutoramento de Formação de Adultos — Maria Manuela F
- ernandes Lopes
+DTSTART;TZID=Europe/Lisbon:20261216T153000
+SUMMARY:Provas de doutoramento de Inês Gomes Esteves
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-formacao-de-adultos-mari
- a-manuela-c6301.html
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-ines-esteves
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-ines-gomes-esteves-122e8
+ .html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-formacao-de-professores-e-supervis-c6301-2026
- -12-16@lagenda.pt
+UID:provas-de-doutoramento-de-manuela-conceicao-farinha-122e8-2026-12-16@la
+ genda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
-SUMMARY:Provas de doutoramento de Formação de Professores e Supervisão 
- — Projeto de Tese de Doutoramento
+DTSTART;TZID=Europe/Lisbon:20261216T100000
+SUMMARY:Provas de doutoramento de Manuela Conceição Farinha
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-formacao-de-professores-
- e-supervis-c6301.html
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-doutoramento-em-educacao-de-manuela-farinha
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-manuela-conceicao-farinh
+ a-122e8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-sofia-alexandra-curvelo-oliveira-da-co-d53b3-2026
+UID:provas-de-doutoramento-de-maria-manuela-fernandes-lopes-cf28e-2026-12-1
+ 6@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T110000
+SUMMARY:Provas de doutoramento de Maria Manuela Fernandes Lopes
+LOCATION:Instituto de Educação da Universidade de Lisboa
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
+ ese-de-maria-manuela-lopes
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-maria-manuela-fernandes-
+ lopes-cf28e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-sofia-alexandra-curvelo-oliveira-d-8b261-2026
  -12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
-SUMMARY:Provas de mestrado de Sofia Alexandra Curvelo Oliveira da Costa —
-  Mestrado em Cultura Científica e Divulgação das Ciências
+DTSTART;TZID=Europe/Lisbon:20261218T150000
+SUMMARY:Provas de doutoramento de Sofia Alexandra Curvelo Oliveira da Costa
 LOCATION:Instituto de Educação da Universidade de Lisboa
-DESCRIPTION:https://www.ie.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-mestrado-de-sofia-alexandra-curvelo-oliv
- eira-da-co-d53b3.html
+DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-mestrado-em-
+ cultura-cientifica-e-divulgacao-das-ciencias-de-sofia-costa
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-sofia-alexandra-curvelo-
+ oliveira-d-8b261.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xxxiv-coloquio-da-afirse-portugal-1dbd0-2027-02-10@lagenda.pt

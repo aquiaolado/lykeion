@@ -6,6 +6,16 @@ X-WR-CALNAME:Biblioteca Francisco Pereira de Moura (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:nova-data-conferencia-84711-2026-11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Nova Data: Conferência
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/conferencia-ferreira-de-castr
+ o-referencia-moral-do-seculo-xx/
+URL:https://lykeion.pt/e/nova-data-conferencia-84711.html
+END:VEVENT
+BEGIN:VEVENT
 UID:open-day-toastmasters-c2207-2026-11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T185000

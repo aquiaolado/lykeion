@@ -6,6 +6,18 @@ X-WR-CALNAME:Provas públicas no Porto (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:mariana-paixao-godinho-a-comunicacao-de-eventos-nas-campanha-2e751-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261114T143000
+SUMMARY:Provas de Mestrado de Mariana Paixão Godinho «A Co
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
+ 00191
+URL:https://lykeion.pt/e/mariana-paixao-godinho-a-comunicacao-de-eventos-na
+ s-campanha-2e751.html
+END:VEVENT
+BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-149e7-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -17,6 +29,15 @@ DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
  84392
 URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-cienc
  ias-do-mar-149e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-agregacao-4370f-2026-11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Prova Pública de Agregação
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-agregacao-13/
+URL:https://lykeion.pt/e/prova-publica-de-agregacao-4370f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-ciencias-forenses-9ebe4-2026-11-16@lagenda.pt
@@ -170,6 +191,17 @@ DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
  7294
 URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-maria-rit
  a-coelho-a-a8004.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-elena-maria-sigillo-medicina-dentaria-41b33-2026-
+ 11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de mestrado de Elena Maria Sigillo — Medicina Dentária
+LOCATION:Universidade Fernando Pessoa\, Porto
+DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-elena-maria-sigillo-medicina
+ -dentaria-41b33.html
 END:VEVENT
 BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-2ef51-2026
@@ -489,6 +521,15 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-rita-maria-eira-alves-crimin
  ologia-dbf50.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-publica-de-doutoramento-e605d-2026-11-18@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Prova Pública de Doutoramento
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-doutoramento-26/
+URL:https://lykeion.pt/e/prova-publica-de-doutoramento-e605d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-mestrado-em-cuidados-de-saude-primarios-bc7ff-2026-11-18@lagen
  da.pt
 DTSTAMP:20261114T000000Z
@@ -803,6 +844,15 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-rose-mary-costa-guimaraes-ar
  ea-de-espe-7a928.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-publica-de-mestrado-de7d5-2026-11-19@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-479/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-de7d5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-mestrado-em-comunicacao-clinica-f3fe3-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T100000
@@ -824,16 +874,6 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19403
 URL:https://lykeion.pt/e/prova-de-mestrado-em-medicina-e-oncologia-molecula
  res-9cbce.html
-END:VEVENT
-BEGIN:VEVENT
-UID:prova-de-mestrado-em-saude-publica-e2e03-2026-11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T103000
-SUMMARY:Prova de Mestrado em Saúde Pública
-LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
- 19524
-URL:https://lykeion.pt/e/prova-de-mestrado-em-saude-publica-e2e03.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-biotecnologia-molecular-e-celular-fbc57-2026-
@@ -1018,6 +1058,15 @@ LOCATION:Universidade Fernando Pessoa\, Porto
 DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-matilde-carvalho-ribeiro-psi
  cologia-da-1de67.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-mestrado-0013b-2026-11-20@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-480/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-0013b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-medicina-e-oncologia-moleculares-85814-2026-11-20@
@@ -2041,6 +2090,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-rui-miguel-moreira-barraca-n
  ostalgia-i-f820c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-vitor-hugo-ferreira-gomes-os-almofariz-c1cb5-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T113000
+SUMMARY:Provas de Mestrado de Vitor Hugo Ferreira Gomes «Os almofarizes do
+  Castro de Monte Mozinho. Importações e produções regionais e locais»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
+ 02572
+URL:https://lykeion.pt/e/provas-de-mestrado-de-vitor-hugo-ferreira-gomes-os
+ -almofariz-c1cb5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciado-andre-da-silva-rosa-cfe67-2026
  -11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2531,6 +2593,18 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-icaro-machado-ribeiro-corpos
  -mercados-a5807.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-ines-da-silva-rosa-psicologia-clinica-a9cf3-2026-
+ 12-02@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Provas de mestrado de Inês da Silva Rosa — Psicologia Clínica e
+  da Saúde
+LOCATION:Universidade Fernando Pessoa\, Porto
+DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-da-silva-rosa-psicologi
+ a-clinica-a9cf3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-michelle-regiane-pires-de-souza-a9cf3-2026-12-02@
  lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2580,6 +2654,20 @@ DESCRIPTION:https://sigarra.up.pt/flup/noticias_geral.ver_noticia?p_nr=2024
  71
 URL:https://lykeion.pt/e/provas-de-mestrado-de-debora-antonieta-pinto-ferre
  ira-ensina-edc48.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joao-tiago-de-freitas-gouveia-por-uma-64840-2026-
+ 12-03@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T160000
+SUMMARY:Provas de Mestrado de João Tiago de Freitas Gouveia «Por uma Peda
+ gogia da Ressonância: a IA como mediação\, e não substituição\, do p
+ ensamento filosófico»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/noticias_geral.ver_noticia?p_nr=2025
+ 51
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-tiago-de-freitas-gouvei
+ a-por-uma-64840.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-polydoro-de-albuquerque-diefen-ee928-2026
@@ -2676,20 +2764,6 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-em-fisioterapia-mestre-dora
  -de-almeid-b2e5c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-jessica-ribeiro-who-s-afraid-of-women-9dcf4-2026-
- 12-10@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261210T163000
-SUMMARY:Provas de Mestrado de Jessica Ribeiro «Who's Afraid of Women? The 
- Revolutionary Writing of Maria Teresa Horta\, Maria Velho da Costa\, Diane
-  di Prima\, and Anne Waldman.»
-LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/flup/noticias_geral.ver_noticia?p_nr=2020
- 71
-URL:https://lykeion.pt/e/provas-de-mestrado-de-jessica-ribeiro-who-s-afraid
- -of-women-9dcf4.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-sofia-alexandra-de-oliveira-moreira-ma-036d4-2026
  -12-10@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2714,6 +2788,20 @@ DESCRIPTION:https://sigarra.up.pt/fadeup/noticias_geral.ver_noticia?p_nr=46
  954
 URL:https://lykeion.pt/e/provas-de-doutoramento-em-ciencias-do-desporto-mes
  tre-kesske-248d6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-isabel-bessa-ferreira-a-sala-de-au-1dfca-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T140000
+SUMMARY:Provas de Mestrado de Ana Isabel Bessa Ferreira «A Sala de Aula In
+ vertida no Ensino - Aprendizagem de Filosofia. Um Estudo de Caso no Submó
+ dulo de Filosofia Política»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/noticias_geral.ver_noticia?p_nr=2025
+ 71
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-isabel-bessa-ferreira-a-
+ sala-de-au-1dfca.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruno-andre-da-rocha-moreira-criativid-d6bdb-2026
@@ -2744,6 +2832,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-barbara-sofia-macedo-baptist
  a-da-silva-34bc0.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-cristina-dos-santos-oliveira-multicult-1f611-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T100000
+SUMMARY:Provas de Mestrado de Cristina dos Santos Oliveira «Multiculturali
+ smo: o ensino de filosofia como espaço de inclusão e diferença»
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/flup/noticias_geral.ver_noticia?p_nr=2025
+ 52
+URL:https://lykeion.pt/e/provas-de-mestrado-de-cristina-dos-santos-oliveira
+ -multicult-1f611.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-joao-albuquerque-e-castro-pereir-4db7c-2026
  -12-11@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2756,6 +2857,18 @@ DESCRIPTION:https://sigarra.up.pt/flup/noticias_geral.ver_noticia?p_nr=2021
  71
 URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-joao-albuquerque-e-cas
  tro-pereir-4db7c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-agregacao-doutor-claudio-filipe-guerreiro-farias-0c4bd-2026-1
+ 2-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Provas de Agregação | Doutor Cláudio Filipe Guerreiro Farias
+LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fadeup/noticias_geral.ver_noticia?p_nr=47
+ 014
+URL:https://lykeion.pt/e/provas-de-agregacao-doutor-claudio-filipe-guerreir
+ o-farias-0c4bd.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-eugeni-09965-2026

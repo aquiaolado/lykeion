@@ -6,14 +6,23 @@ X-WR-CALNAME:Centro Ciência Viva do Algarve (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:cores-e-sabores-do-outono-093f1-2026-11-14@lagenda.pt
+UID:14-novembro-b9d6b-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T103000
-SUMMARY:Cores e Sabores do Outono
+DTSTART;VALUE=DATE:20261114
+SUMMARY:14 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/14-novembro-b9d6b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:de-onde-vem-e-para-onde-vao-as-mares-093f1-2026-11-21@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T103000
+SUMMARY:De onde vêm e para onde vão as marés?
 LOCATION:Centro Ciência Viva do Algarve\, Faro
 DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
  cia/manhas-de-ciencia
-URL:https://lykeion.pt/e/cores-e-sabores-do-outono-093f1.html
+URL:https://lykeion.pt/e/de-onde-vem-e-para-onde-vao-as-mares-093f1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:laboratorio-de-engenhocarias-b1383-2026-11-22@lagenda.pt

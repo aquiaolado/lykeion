@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SPP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:30-reunio-anual-spgh-30th-annual-meeting-spgh-3c753-2026-11-19@lagenda.
+ pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:30 – Reuni – o Anual SPGH/ 30th Annual Meeting SPGH
+LOCATION:Sociedade Portuguesa de Pediatria
+DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50865
+URL:https://lykeion.pt/e/30-reunio-anual-spgh-30th-annual-meeting-spgh-3c75
+ 3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:congresso-i-frum-de-pediatria-do-alto-alentejo-582a4-2026-11-20@lagenda
+ .pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Congresso: I F – rum de Pediatria do Alto Alentejo
+LOCATION:Sociedade Portuguesa de Pediatria
+DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50861
+URL:https://lykeion.pt/e/congresso-i-frum-de-pediatria-do-alto-alentejo-582
+ a4.html
+END:VEVENT
+END:VCALENDAR
