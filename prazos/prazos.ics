@@ -376,6 +376,18 @@ URL:https://www.fct.pt/concursos/concurso-de-2027-da-parceria-europeia-ep-p
  ermed
 END:VEVENT
 BEGIN:VEVENT
+UID:prazo-eu-horizon-bridging-2027-02@lykeion.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Prazo: Bridging actions 2027 (HORIZON-BRIDGING-2027-02)
+DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
+ o/funding-tenders/opportunities/portal/screen/opportunities/topic-details/
+ HORIZON-BRIDGING-2027-02-05
+URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
+ pportunities/topic-details/HORIZON-BRIDGING-2027-02-05
+END:VEVENT
+BEGIN:VEVENT
 UID:prazo-eu-horizon-ju-eurohpc-2026-qml-07@lykeion.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20270128
@@ -493,9 +505,9 @@ SUMMARY:Prazo: Cluster 1 - Health (Single stage - 2027/1) (HORIZON-HLTH-202
  7-01)
 DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
  o/funding-tenders/opportunities/portal/screen/opportunities/topic-details/
- HORIZON-HLTH-2027-01-DISEASE-10
+ HORIZON-HLTH-2027-01-ENVHLTH-MISSCLIMA-03
 URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
- pportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-10
+ pportunities/topic-details/HORIZON-HLTH-2027-01-ENVHLTH-MISSCLIMA-03
 END:VEVENT
 BEGIN:VEVENT
 UID:prazo-eu-horizon-hlth-2027-02-two-stage@lykeion.pt
@@ -506,9 +518,9 @@ SUMMARY:Prazo: Cluster 1 - Health (Two stage - 2027) (HORIZON-HLTH-2027-02-
  two-stage)
 DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
  o/funding-tenders/opportunities/portal/screen/opportunities/topic-details/
- HORIZON-HLTH-2027-02-DISEASE-14-two-stage
+ HORIZON-HLTH-2027-02-TOOL-01-two-stage
 URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
- pportunities/topic-details/HORIZON-HLTH-2027-02-DISEASE-14-two-stage
+ pportunities/topic-details/HORIZON-HLTH-2027-02-TOOL-01-two-stage
 END:VEVENT
 BEGIN:VEVENT
 UID:prazo-eu-horizon-eic-2027-pathfinderopen-two-stage@lykeion.pt
@@ -692,9 +704,9 @@ SUMMARY:Prazo: Supporting the implementation of the Soil Deal for Europe Mi
  ssion (HORIZON-MISS-2027-05-two-stage)
 DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
  o/funding-tenders/opportunities/portal/screen/opportunities/topic-details/
- HORIZON-MISS-2027-05-SOIL-06-two-stage
+ HORIZON-MISS-2027-05-SOIL-05-two-stage
 URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
- pportunities/topic-details/HORIZON-MISS-2027-05-SOIL-06-two-stage
+ pportunities/topic-details/HORIZON-MISS-2027-05-SOIL-05-two-stage
 END:VEVENT
 BEGIN:VEVENT
 UID:prazo-eu-horizon-msca-2027-se-01@lykeion.pt
@@ -789,9 +801,9 @@ DTEND;VALUE=DATE:20270616
 SUMMARY:Prazo: Bridging actions 2027 (HORIZON-BRIDGING-2027-03)
 DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
  o/funding-tenders/opportunities/portal/screen/opportunities/topic-details/
- HORIZON-BRIDGING-2027-03-04
+ HORIZON-BRIDGING-2027-03-07
 URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
- pportunities/topic-details/HORIZON-BRIDGING-2027-03-04
+ pportunities/topic-details/HORIZON-BRIDGING-2027-03-07
 END:VEVENT
 BEGIN:VEVENT
 UID:prazo-eu-horizon-infra-2027-01@lykeion.pt
@@ -828,18 +840,6 @@ DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
  HORIZON-CL4-2027-SPACE-03-12
 URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
  pportunities/topic-details/HORIZON-CL4-2027-SPACE-03-12
-END:VEVENT
-BEGIN:VEVENT
-UID:prazo-eu-horizon-widera-2027-03@lykeion.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270908
-DTEND;VALUE=DATE:20270909
-SUMMARY:Prazo: ERA Fellowships (HORIZON-WIDERA-2027-03)
-DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
- o/funding-tenders/opportunities/portal/screen/opportunities/topic-details/
- HORIZON-WIDERA-2027-03-WIDENING-01
-URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
- pportunities/topic-details/HORIZON-WIDERA-2027-03-WIDENING-01
 END:VEVENT
 BEGIN:VEVENT
 UID:prazo-eu-horizon-msca-2027-pf-01@lykeion.pt
@@ -978,9 +978,9 @@ SUMMARY:Prazo: Supporting the implementation of the Adaptation to Climate C
  hange Mission (HORIZON-MISS-2027-01)
 DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
  o/funding-tenders/opportunities/portal/screen/opportunities/topic-details/
- HORIZON-MISS-2027-01-CLIMA-01
+ HORIZON-MISS-2027-01-CLIMA-02
 URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
- pportunities/topic-details/HORIZON-MISS-2027-01-CLIMA-01
+ pportunities/topic-details/HORIZON-MISS-2027-01-CLIMA-02
 END:VEVENT
 BEGIN:VEVENT
 UID:prazo-eu-horizon-miss-2027-03@lykeion.pt
@@ -1028,9 +1028,9 @@ DTEND;VALUE=DATE:20270924
 SUMMARY:Prazo: Call 02 - single stage (2027) (HORIZON-CL6-2027-02)
 DESCRIPTION:Comissão Europeia (Horizonte Europa). https://ec.europa.eu/inf
  o/funding-tenders/opportunities/portal/screen/opportunities/topic-details/
- HORIZON-CL6-2027-02-FARM2FORK-01
+ HORIZON-CL6-2027-02-FARM2FORK-02
 URL:https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/o
- pportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-01
+ pportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-02
 END:VEVENT
 BEGIN:VEVENT
 UID:prazo-eu-horizon-cl2-2027-01@lykeion.pt
