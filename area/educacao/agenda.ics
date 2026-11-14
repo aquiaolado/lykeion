@@ -487,7 +487,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-filipa-alves-oliveira-782f1-2026-11-19@lagend
  a.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T140000
 SUMMARY:Provas de Mestrado de Ana Filipa Alves Oliveira
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://www.ua.pt/pt/noticias/10/99962
@@ -498,7 +498,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-silva-oliveira-estrategias-de-457f3-2026-
  11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T093000
 SUMMARY:Provas de Mestrado de Beatriz Silva Oliveira — Estratégias de Di
  ferenciação Pedagógica para Inclusão numa Turma de Ele
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -1305,7 +1305,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-marina-dos-santos-vicente-bb070-2026-12-11@lagend
  a.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Lisbon:20261211T100000
 SUMMARY:Provas de Mestrado de Marina dos Santos Vicente
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://www.ua.pt/pt/noticias/10/99960

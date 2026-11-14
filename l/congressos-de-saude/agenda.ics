@@ -536,7 +536,7 @@ BEGIN:VEVENT
 UID:10-a-conferencia-anual-da-redesaude-da-universidade-de-lisbo-52e26-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T090000
 SUMMARY:10.ª Conferência Anual da redeSAÚDE da Universidade de Lisboa 
  “Citizen Science in Health: from Individual Participation to Societal Im
  pact

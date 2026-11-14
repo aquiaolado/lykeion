@@ -46,7 +46,7 @@ BEGIN:VEVENT
 UID:continue-reading-conferencia-digitalizacao-e-inovacao-na-agr-a9a61-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Continue reading... : Conferência “Digitalização e Inovação 
  na Agricultura
 LOCATION:Laboratório Associado TERRA
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -365,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:douro-lugar-de-um-encontro-feliz-ddd06-2027-01-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270116
+DTSTART;TZID=Europe/Lisbon:20270116T170000
 SUMMARY:Douro - Lugar de um encontro feliz
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Peso da Régua
 DESCRIPTION:https://www.museudodouro.pt/exposicoes/presente/douro-lugar-de-

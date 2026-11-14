@@ -291,7 +291,7 @@ BEGIN:VEVENT
 UID:aulas-abertas-no-ambito-da-licenciatura-em-ciencia-politica-b45f2-2026-
  11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Aulas-Abertas no âmbito da Licenciatura em Ciência Política e Re
  lações Internacionais
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -340,18 +340,6 @@ URL:https://lykeion.pt/e/fred-talks-conferences-in-psychological-science-73
  e69.html
 END:VEVENT
 BEGIN:VEVENT
-UID:implementar-ferramentas-analiticas-em-marketing-digital-ae979-2026-11-1
- 6@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Implementar ferramentas analíticas em marketing digital
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18451.html?order_by=-1
-URL:https://lykeion.pt/e/implementar-ferramentas-analiticas-em-marketing-di
- gital-ae979.html
-END:VEVENT
-BEGIN:VEVENT
 UID:jornal-arkivo-2233e-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -359,18 +347,6 @@ SUMMARY:Jornal Arkivo
 LOCATION:Arquivo Municipal de Lisboa\, Campolide
 DESCRIPTION:https://www.agendalx.pt/events/event/jornal-arkivo/
 URL:https://lykeion.pt/e/jornal-arkivo-2233e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:marketing-como-promover-a-sua-imagem-pessoal-e-profissional-587b6-2026-
- 11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T120000
-SUMMARY:Marketing - como promover a sua imagem pessoal e profissional
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18114.html?order_by=-1
-URL:https://lykeion.pt/e/marketing-como-promover-a-sua-imagem-pessoal-e-pro
- fissional-587b6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sessao-online-dedicada-ao-european-innovation-council-eic-c9551-2026-11
@@ -421,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-a-logica-no-direito-64d17-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:Aula Aberta - A Lógica no Direito
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-a-logica-no-di
@@ -484,7 +460,7 @@ BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
 LOCATION:ISEG – Lisbon School of Economics and Management
@@ -570,17 +546,6 @@ URL:https://lykeion.pt/e/eses-seminario-a-avaliacao-da-formacao-continua-de
  -professor-65170.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-de-energia-e-eficiencia-energetica-e9b48-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Gestão de Energia e Eficiência Energética
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-energia-e-eficiencia-e
- nergetica/
-URL:https://lykeion.pt/e/gestao-de-energia-e-eficiencia-energetica-e9b48.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:iseg-development-studies-seminars-2026-2027-f5e6e-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T180000
@@ -602,18 +567,6 @@ LOCATION:Centre for Research and Studies in Sociology
 DESCRIPTION:https://www.cies.iscte-iul.pt/np4EN/4998.html
 URL:https://lykeion.pt/e/memory-and-collective-identity-activists-narrative
  s-of-the-a-23979.html
-END:VEVENT
-BEGIN:VEVENT
-UID:nocoes-de-gestao-dos-alergenios-nas-empresas-do-setor-alimen-2526c-2026
- -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T100000
-SUMMARY:Noções de Gestão dos Alergénios nas Empresas do Setor Alimentar
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/17934.html?order_by=-1
-URL:https://lykeion.pt/e/nocoes-de-gestao-dos-alergenios-nas-empresas-do-se
- tor-alimen-2526c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:percursos-da-consciencia-fonologica-a-compreensao-leitora-es-362fa-2026
@@ -1097,19 +1050,6 @@ URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-70da
  6.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-de-laboratorios-industriais-controlo-e-garantia-da-qu-33100-2026
- -11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Gestão de Laboratórios Industriais – controlo e garantia da qua
- lidade dos ensaios
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-laboratorios-industria
- is-controlo-e-garantia-da-qualidade-dos-ensaios/
-URL:https://lykeion.pt/e/gestao-de-laboratorios-industriais-controlo-e-gara
- ntia-da-qu-33100.html
-END:VEVENT
-BEGIN:VEVENT
 UID:licao-anual-da-finisterra-2026-cb387-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T170000
@@ -1162,7 +1102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent
@@ -1386,7 +1326,7 @@ BEGIN:VEVENT
 UID:seminario-cegist-mais-dados-melhor-saude-translating-the-20-48591-2026-
  11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:Seminário CEGIST “Mais Dados\, Melhor Saúde: Translating The 20
   Recommendations Into Practice
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -1864,18 +1804,6 @@ DESCRIPTION:https://www.psicologia.ulisboa.pt/family-science-daniela-castro
 URL:https://lykeion.pt/e/family-science-daniela-castro-dos-reis-947fd.html
 END:VEVENT
 BEGIN:VEVENT
-UID:indicadores-de-desempenho-na-gestao-de-residuos-8da0d-2026-11-24@lagend
- a.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Indicadores de Desempenho na Gestão de Resíduos
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/indicadores-de-desempenho-na-ges
- tao-de-residuos/
-URL:https://lykeion.pt/e/indicadores-de-desempenho-na-gestao-de-residuos-8d
- a0d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:para-alem-da-academia-geografos-em-acao-trajetorias-e-experi-8b3e6-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2170,23 +2098,10 @@ URL:https://lykeion.pt/e/debate-decrescimento-economico-decrescimento-da-ci
  encia-f74fe.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-de-redes-de-agua-da-reducao-de-perdas-a-otimizacao-de-f147d-2026
- -11-26@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Gestão de Redes de Água: Da Redução de Perdas à Otimização d
- e Consumos
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-redes-de-agua-da-reduc
- ao-de-perdas-a-otimizacao-de-consumos/
-URL:https://lykeion.pt/e/gestao-de-redes-de-agua-da-reducao-de-perdas-a-oti
- mizacao-de-f147d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:pensar-sociologicamente-sociedade-em-cena-uma-palavra-pode-v-31462-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Pensar Sociologicamente – “Sociedade em cena – uma palavra po
  de valer mais do que mil imagens?
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -2213,7 +2128,7 @@ BEGIN:VEVENT
 UID:projecao-de-filme-e-debate-vidas-de-pessoas-lgbtqia-com-mais-cbca0-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Projeção de filme e debate: Vidas de pessoas LGBTQIA+ com mais de
   60 anos no sul da Europa
 LOCATION:Departamento de Documentos Institucionais
@@ -2328,18 +2243,6 @@ DESCRIPTION:https://www.uc.pt/uid/ceber/eventos/from-the-margins-to-managem
  tion/
 URL:https://lykeion.pt/e/27-11-26-from-the-margins-to-management-rethinking
  -organizat-bc252.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-do-stress-e-resiliencia-nas-organizacoes-5ddc7-2026-11-27@lagend
- a.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
-SUMMARY:Gestão do Stress e Resiliência nas Organizações
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-do-stress-e-resiliencia-n
- as-organizacoes/
-URL:https://lykeion.pt/e/gestao-do-stress-e-resiliencia-nas-organizacoes-5d
- dc7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iii-seminario-cientifico-622b4-2026-11-27@lagenda.pt
@@ -2743,15 +2646,6 @@ URL:https://lykeion.pt/e/extinction-rebellion-in-norway-making-norwegian-oi
  l-contesta-d8d5e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-de-stocks-e-armazens-bd796-2026-12-03@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
-SUMMARY:Gestão de Stocks e Armazéns
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-stocks-e-armazens/
-URL:https://lykeion.pt/e/gestao-de-stocks-e-armazens-bd796.html
-END:VEVENT
-BEGIN:VEVENT
 UID:interfaces-descomplicar-a-mobilidade-instituto-da-mobilidade-61971-2026
  -12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -3067,19 +2961,6 @@ URL:https://lykeion.pt/e/conferencia-immigration-portugaise-en-france-100-a
  ns-de-pres-c0201.html
 END:VEVENT
 BEGIN:VEVENT
-UID:equipamentos-de-medicao-em-redes-de-agua-gestao-e-calibracao-4d3eb-2026
- -12-10@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261210T080000
-SUMMARY:Equipamentos de Medição em Redes de Água – Gestão e Calibraç
- ão
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/equipamentos-de-medicao-em-redes
- -de-agua-gestao-e-calibracao/
-URL:https://lykeion.pt/e/equipamentos-de-medicao-em-redes-de-agua-gestao-e-
- calibracao-4d3eb.html
-END:VEVENT
-BEGIN:VEVENT
 UID:european-roundtable-for-sustainable-consumption-and-producti-b73cd-2026
  -12-10@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -3142,7 +3023,7 @@ BEGIN:VEVENT
 UID:seminario-acesso-a-justica-e-sociedade-digital-7b120-2026-12-10@lagenda
  .pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
+DTSTART;TZID=Europe/Lisbon:20261210T130000
 SUMMARY:Seminário - Acesso à Justiça e Sociedade Digital
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-acesso-a-justica
@@ -3302,7 +3183,7 @@ BEGIN:VEVENT
 UID:aula-aberta-diplomacia-parlamentar-o-papel-dos-parlamentos-n-0b0cc-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T103000
 SUMMARY:Aula Aberta - Diplomacia Parlamentar: O Papel dos Parlamentos na Po
  lítica Externa Contemporânea
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
@@ -3310,19 +3191,6 @@ DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-diplomacia-par
  lamentar-o-papel-dos-parlamentos-na-politica-externa-contemporanea
 URL:https://lykeion.pt/e/aula-aberta-diplomacia-parlamentar-o-papel-dos-par
  lamentos-n-0b0cc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-do-tempo-stress-e-conflitos-no-trabalho-motivar-para-15a7a-2026-
- 12-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
-SUMMARY:Gestão do Tempo\, Stress e Conflitos no Trabalho – Motivar para 
- 2027
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-do-tempo-stress-e-conflit
- os-no-trabalho-motivar-para-2027/
-URL:https://lykeion.pt/e/gestao-do-tempo-stress-e-conflitos-no-trabalho-mot
- ivar-para-15a7a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-do-projeto-crescer-pme-30799-2026-12-14@lagenda.pt
@@ -3459,16 +3327,6 @@ DESCRIPTION:https://www.aese.pt/agenda/aulas-abertas-do-pgl/
 URL:https://lykeion.pt/e/aulas-abertas-do-pgl-4cdec.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lideranca-motivacao-e-gestao-de-equipas-472a5-2026-12-18@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
-SUMMARY:Liderança\, Motivação e Gestão de Equipas
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/lideranca-motivacao-e-gestao-de-
- equipas/
-URL:https://lykeion.pt/e/lideranca-motivacao-e-gestao-de-equipas-472a5.html
-END:VEVENT
-BEGIN:VEVENT
 UID:18-12-26-seminario-new-trends-in-international-politics-and-bef19-2026-
  12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -3520,16 +3378,6 @@ DESCRIPTION:https://ofei.esepf.pt/?mec-events=aula-aberta-o-educador-coorde
  nador-e-diretor-uma-outra-faceta-profissional-2-2-2-2-2
 URL:https://lykeion.pt/e/aula-aberta-autismo-no-pre-escolar-compreender-inc
  luir-e-int-bf0ed.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-da-mudanca-organizacional-366c1-2027-01-05@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270105T080000
-SUMMARY:Gestão da Mudança Organizacional
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-da-mudanca-organizacional
- -2/
-URL:https://lykeion.pt/e/gestao-da-mudanca-organizacional-366c1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lab-talk-historias-cruzadas-da-habitacao-em-lisboa-baebc-2027-01-06@lag
@@ -3621,17 +3469,6 @@ URL:https://lykeion.pt/e/lancamento-do-boletim-n-o-7-e-do-site-do-observato
  rio-da-leg-03609.html
 END:VEVENT
 BEGIN:VEVENT
-UID:introducao-pratica-a-ia-na-gestao-ambiental-29125-2027-01-12@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270112
-SUMMARY:Introdução Prática à IA na Gestão Ambiental
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/introducao-pratica-a-ia-na-gesta
- o-ambiental/
-URL:https://lykeion.pt/e/introducao-pratica-a-ia-na-gestao-ambiental-29125.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:percursos-da-consciencia-fonologica-a-compreensao-leitora-es-362fa-2027
  -01-12@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -3678,19 +3515,6 @@ SUMMARY:Seminário: Ciclo Ética e Justiça
 LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/ciclo-etica-e-justica
 URL:https://lykeion.pt/e/seminario-ciclo-etica-e-justica-bcb1d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-e-validacao-de-certificados-de-calibracao-analise-de-2cacc-2027-
- 01-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270114T090000
-SUMMARY:Gestão e Validação de Certificados de Calibração – Análise 
- de Casos Práticos
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-e-validacao-de-certificad
- os-de-calibracao-analise-de-casos-praticos/
-URL:https://lykeion.pt/e/gestao-e-validacao-de-certificados-de-calibracao-a
- nalise-de-2cacc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:percursos-da-consciencia-fonologica-a-compreensao-leitora-es-362fa-2027
@@ -3834,18 +3658,6 @@ URL:https://lykeion.pt/e/percursos-da-consciencia-fonologica-a-compreensao-
  leitora-es-362fa.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-de-emergencias-em-contexto-industrial-75a8a-2027-01-19@lagenda.p
- t
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270119
-SUMMARY:Gestão de Emergências em Contexto Industrial
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-emergencias-em-context
- o-industrial/
-URL:https://lykeion.pt/e/gestao-de-emergencias-em-contexto-industrial-75a8a
- .html
-END:VEVENT
-BEGIN:VEVENT
 UID:percursos-da-consciencia-fonologica-a-compreensao-leitora-es-362fa-2027
  -01-19@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -3895,33 +3707,6 @@ DESCRIPTION:https://eurocid.mne.gov.pt/eventos/conferencia-sobre-o-futuro-d
  a-europa-3a-sessao-plenaria
 URL:https://lykeion.pt/e/conferencia-sobre-o-futuro-da-europa-3-a-sessao-pl
  enaria-51a21.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-de-energia-e-eficiencia-energetica-em-sistemas-de-dis-d9e8b-2027
- -01-21@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270121
-SUMMARY:Gestão de Energia e Eficiência Energética em Sistemas de Distrib
- uição e Tratamento de Água – Conceitos Básicos
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-energia-e-eficiencia-e
- nergetica-em-sistemas-de-distribuicao-e-tratamento-de-agua-conceitos-basic
- os/
-URL:https://lykeion.pt/e/gestao-de-energia-e-eficiencia-energetica-em-siste
- mas-de-dis-d9e8b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-de-residuos-de-construcao-e-demolicao-rcd-praticas-e-7f44e-2027-
- 01-21@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270121T080000
-SUMMARY:Gestão de Resíduos de Construção e Demolição (RCD) – Práti
- cas e Conformidade Legal
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-residuos-de-construcao
- -e-demolicao-rcd-praticas-e-conformidade-legal/
-URL:https://lykeion.pt/e/gestao-de-residuos-de-construcao-e-demolicao-rcd-p
- raticas-e-7f44e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:percursos-da-consciencia-fonologica-a-compreensao-leitora-es-362fa-2027
@@ -4122,23 +3907,10 @@ URL:https://lykeion.pt/e/saara-ocidental-na-ordem-juridica-internacional-50
  -anos-apos-47d07.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gestao-de-compras-e-fornecedores-num-mundo-vuca-volatility-u-2f6c2-2027
- -02-02@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270202
-SUMMARY:Gestão de Compras e Fornecedores num mundo VUCA (Volatility\, Unce
- rtainty\, Complexity e Ambiguity)
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-compras-e-fornecedores
- -num-mundo-vuca-volatilidade-incerteza-complexidade-e-ambiguidade-2/
-URL:https://lykeion.pt/e/gestao-de-compras-e-fornecedores-num-mundo-vuca-vo
- latility-u-2f6c2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -4146,20 +3918,6 @@ LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
 DESCRIPTION:https://www.ubi.pt/Evento/23615
 URL:https://lykeion.pt/e/debate-o-legado-do-4-de-fevereiro-e-as-interrogaco
  es-do-pres-e27b5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:novas-tendencias-da-agua-reutilizacao-nexus-agua-energia-emi-c683d-2027
- -02-04@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
-SUMMARY:Novas Tendências da Água: Reutilização\, Nexus Água-Energia\, 
- Emissões de GEE\, Gestão de Dados e Desafios Futuros
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/novas-tendencias-da-agua-reutili
- zacao-nexus-agua-energia-emissoes-de-gee-gestao-de-dados-e-desafios-futuro
- s/
-URL:https://lykeion.pt/e/novas-tendencias-da-agua-reutilizacao-nexus-agua-e
- nergia-emi-c683d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-a-way-forward-on-migration-under-the-portuguese-pres-78e23-2027
@@ -4312,27 +4070,6 @@ URL:https://lykeion.pt/e/cedh-learning-coffee-with-viviane-borges-511ea.htm
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:financas-para-nao-financeiros-1f2ae-2027-02-15@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270215T200000
-SUMMARY:Finanças Para Não Financeiros
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/financas-para-nao-financeiros/
-URL:https://lykeion.pt/e/financas-para-nao-financeiros-1f2ae.html
-END:VEVENT
-BEGIN:VEVENT
-UID:manobras-de-exploracao-e-manutencao-em-celas-de-media-tensao-1ffc3-2027
- -02-15@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270215
-SUMMARY:Manobras de Exploração e Manutenção em Celas de Média Tensão
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/manobras-de-exploracao-e-manuten
- cao-em-celas-de-media-tensao/
-URL:https://lykeion.pt/e/manobras-de-exploracao-e-manutencao-em-celas-de-me
- dia-tensao-1ffc3.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-15-16-de-fevereiro-the-global-legacy-of-truth-comm-0681f-2027
  -02-15@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -4344,32 +4081,6 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/15-16-de-fevereiro-the-glo
  bal-legacy-of-truth-commissions
 URL:https://lykeion.pt/e/seminario-15-16-de-fevereiro-the-global-legacy-of-
  truth-comm-0681f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:emissoes-difusas-de-cov-enquadramento-legal-plano-de-gestao-29b59-2027-
- 02-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270216
-SUMMARY:Emissões Difusas de COV: Enquadramento Legal\, Plano de Gestão de
-  Solventes e Monitorização de Efluentes Gasosos
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/emissoes-difusas-de-cov-enquadra
- mento-legal-plano-de-gestao-de-solventes-e-monitorizacao-de-efluentes-gaso
- sos/
-URL:https://lykeion.pt/e/emissoes-difusas-de-cov-enquadramento-legal-plano-
- de-gestao-29b59.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-da-seguranca-em-ambiente-industrial-e-construcao-c7670-2027-02-1
- 6@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270216
-SUMMARY:Gestão da Segurança em Ambiente Industrial e Construção
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-da-seguranca-em-ambiente-
- industrial-e-construcao/
-URL:https://lykeion.pt/e/gestao-da-seguranca-em-ambiente-industrial-e-const
- rucao-c7670.html
 END:VEVENT
 BEGIN:VEVENT
 UID:europeia-conferencia-sobre-o-futuro-da-europa-3af97-2027-02-18@lagenda.
@@ -4503,18 +4214,6 @@ DESCRIPTION:https://novalaw.unl.pt/escassez-de-agua-em-portugal-e-o-direito
  /
 URL:https://lykeion.pt/e/aula-aberta-escassez-agua-portugal-site-thumbnail-
  85cfd.html
-END:VEVENT
-BEGIN:VEVENT
-UID:incoterms-2020-e-gestao-de-risco-no-comercio-internacional-2f220-2027-0
- 2-23@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270223T080000
-SUMMARY:Incoterms 2020 e Gestão de Risco no Comércio Internacional
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/incoterms-2020-e-gestao-de-risco
- -no-comercio-internacional/
-URL:https://lykeion.pt/e/incoterms-2020-e-gestao-de-risco-no-comercio-inter
- nacional-2f220.html
 END:VEVENT
 BEGIN:VEVENT
 UID:new-perspectives-on-soft-power-and-cultural-diplomacy-5379e-2027-02-24@
@@ -4663,19 +4362,6 @@ SUMMARY:Migrações e regressos forçados
 LOCATION:Observatório da Emigração
 DESCRIPTION:https://observatorioemigracao.pt/np4/7462.html
 URL:https://lykeion.pt/e/migracoes-e-regressos-forcados-81928.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seguranca-eletrica-em-instalacoes-eletricas-de-baixa-media-a-46da1-2027
- -03-04@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270304
-SUMMARY:Segurança Elétrica em Instalações Elétricas de Baixa\, Média\
- , Alta e Muito Alta Tensão
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/seguranca-eletrica-em-instalacoe
- s-eletricas-de-baixa-media-alta-e-muito-alta-tensao/
-URL:https://lykeion.pt/e/seguranca-eletrica-em-instalacoes-eletricas-de-bai
- xa-media-a-46da1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-do-9f910-2027-03-07@lagenda.pt
@@ -5285,18 +4971,6 @@ LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
 DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/30-de-marco-conferencia-th
  e-ending-of-an-era
 URL:https://lykeion.pt/e/conferencia-the-ending-of-an-era-0bc4e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-de-fornecedores-e-compras-industriais-b7c95-2027-03-30@lagenda.p
- t
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270330T080000
-SUMMARY:Gestão de Fornecedores e Compras Industriais
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-de-fornecedores-e-compras
- -industriais/
-URL:https://lykeion.pt/e/gestao-de-fornecedores-e-compras-industriais-b7c95
- .html
 END:VEVENT
 BEGIN:VEVENT
 UID:palestra-apresentacao-do-cedis-no-speed-98ba3-2027-03-30@lagenda.pt

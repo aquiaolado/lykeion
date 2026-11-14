@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-shear-flow-effects-in-nematics-aad29-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Seminário: Shear flow effects in nematics
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-atividade-fisica-e-saude-mestre-ni-1183e-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T100000
 SUMMARY:Provas de Doutoramento em Atividade Física e Saúde | Mestre Nilto
  n Gomes Rolim Filho
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto

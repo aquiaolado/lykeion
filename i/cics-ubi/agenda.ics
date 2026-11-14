@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-c30a8-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:Lunch Seminar · Centro de Investigação em Ciências da Saúde
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/993
@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-71de5-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/671
@@ -64,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a751b-2026-12-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261212
+DTSTART;TZID=Europe/Lisbon:20261212T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/578
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-f575f-2026-12-13@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261213
+DTSTART;TZID=Europe/Lisbon:20261213T143000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/680
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a0f4b-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
+DTSTART;TZID=Europe/Lisbon:20261218T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/579
@@ -144,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-4d414-2027-01-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270117
+DTSTART;TZID=Europe/Lisbon:20270117T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/697
@@ -226,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-44775-2027-02-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270221
+DTSTART;TZID=Europe/Lisbon:20270221T150000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/712
@@ -246,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-b0267-2027-03-07@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270307
+DTSTART;TZID=Europe/Lisbon:20270307T153000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/1053

@@ -418,3 +418,11 @@ body.lyk{
 /* 10/11/2026: contexto na página do evento (frase com os factos e excerto citado do anúncio) */
 .lyk-contexto{font-size:1.08rem;line-height:1.5;margin:0 0 .8em}
 .lyk-cita{margin:.4em 0 .3em;padding:.2em 0 .2em 1em;border-left:3px solid var(--lyk-terra,#C2502A);color:inherit;font-style:normal;line-height:1.55}
+
+/* 14/11/2026: no telemóvel, os 4 passos da entrada num botão (o primeiro ecrã mostra eventos) */
+.lyk .lyk-pers{display:none}
+@media(max-width:700px){
+.lyk .lyk-pers:not([hidden]){display:block;width:100%;margin:.2rem 0 .4rem;padding:.7rem 1rem;border:1px solid var(--linha);border-radius:12px;background:var(--papel);color:var(--tinta);font:inherit;font-weight:600;text-align:left;cursor:pointer}
+.lyk .lyk-pers:not([hidden])::after{content:" ▾";color:var(--suave)}
+.lyk .lyk-portas:not(.aberto){display:none}
+}

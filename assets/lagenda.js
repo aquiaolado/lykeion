@@ -87,7 +87,7 @@ window.LG_distritoPerto = function (D, la, lo) {
   function cartao(e, CAT, lug, url) {
     const [ln] = lug(e), d0 = e.d[0];
     const q = e.x ? `até ${dt(e.f).getDate()} ${MES[dt(e.f).getMonth()]}` : `${["dom","seg","ter","qua","qui","sex","sáb"][dt(d0).getDay()]} ${dt(d0).getDate()} ${MES[dt(d0).getMonth()]}${hora(e.h, d0) ? " · " + hora(e.h, d0) : ""}`;
-    return `<a class="card" href="${url(e)}"><span class="fig">${img(e.i, e.n)}${e.c[0] ? `<span class="selo">${esc(CAT[e.c[0]] || "")}</span>` : ""}${e.g ? '<span class="selo livre">Livre</span>' : ""}</span>` +
+    return `<a class="card" href="${url(e)}"><span class="fig">${img(e.i, CAT[e.c[e.c.length - 1]] || "")}${e.c[0] ? `<span class="selo">${esc(CAT[e.c[0]] || "")}</span>` : ""}${e.g ? '<span class="selo livre">Livre</span>' : ""}</span>` +
       `<span class="quando">${q}</span><span class="tit">${esc(e.n)}</span><span class="onde">${esc(ln)}</span></a>`;
   }
 
@@ -148,7 +148,7 @@ window.LG_distritoPerto = function (D, la, lo) {
     };
     const linha = (e, d) => {
       const [ln, fg] = lug(e), hh = hora(e.h, d);
-      return `<a class="li" href="${url(e)}"><span class="hr${hh ? "" : " sem"}">${hh || "—"}</span><span class="mi">${img(e.i, e.n)}</span>` +
+      return `<a class="li" href="${url(e)}"><span class="hr${hh ? "" : " sem"}">${hh || "—"}</span><span class="mi">${img(e.i, CAT[e.c[e.c.length - 1]] || "")}</span>` +
         `<span class="tx"><span class="ti">${esc(e.n)}</span><br><span class="lg">${esc(ln)}${fg ? " · " + esc(fg) : ""}</span></span>` +
         `<span class="dir">${e.c[0] ? `<span class="tag">${esc(CAT[e.c[0]] || "")}</span>` : ""}${e.g ? '<span class="tag livre">Livre</span>' : e.p ? `<span>${esc(e.p.length > 22 ? e.p.slice(0, 22) + "…" : e.p)}</span>` : ""}</span></a>`;
     };

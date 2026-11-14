@@ -159,7 +159,7 @@ BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
 LOCATION:ISEG – Lisbon School of Economics and Management
@@ -227,28 +227,6 @@ LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
 DESCRIPTION:https://www.cfpsa.pt/courses/show/17934.html?order_by=-1
 URL:https://lykeion.pt/e/nocoes-de-gestao-dos-alergenios-nas-empresas-do-se
  tor-alimen-2526c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-f3d96-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-marketi
- ng-e-comunicacao-20/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-f3d96.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-f3d96-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Seia
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-marketi
- ng-e-comunicacao-20/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-f3d96.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-criatividade-turismo-e-desenvolvimento-regional-6c9fc-2026-11
@@ -394,18 +372,17 @@ URL:https://lykeion.pt/e/utilizacao-da-plataforma-de-gestao-documental-edoc
  -4d01c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
- -11-18@lagenda.pt
+UID:x-workshop-on-immigration-health-and-wellbeing-fd2e8-2026-11-18@lagenda
+ .pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
- migration\, Health and Wellbeing
+SUMMARY:X Workshop on Immigration\, Health and Wellbeing
 LOCATION:Nova SBE
 DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
  e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
  pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
-URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
- orkshop-on-fd2e8.html
+URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-fd2
+ e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:13o-forum-de-gestao-de-dados-de-investigacao-831e4-2026-11-19@lagenda.p
@@ -619,7 +596,7 @@ BEGIN:VEVENT
 UID:seminario-cegist-mais-dados-melhor-saude-translating-the-20-48591-2026-
  11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:Seminário CEGIST “Mais Dados\, Melhor Saúde: Translating The 20
   Recommendations Into Practice
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -798,28 +775,6 @@ LOCATION:Raiz - Instituto De Investigação Da Floresta E Papel\, Aveiro
 DESCRIPTION:https://youtu.be/r2Dvnn39Kck
 URL:https://lykeion.pt/e/portas-abertas-open-day-raiz-venham-conhecer-a-cie
  ncia-e-ino-afef2.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-6112c-2026-11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas de Mestrado - Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Seia
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-mestrado-comunicaca
- o-marketing/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-6112c.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-6112c-2026-11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-mestrado-comunicaca
- o-marketing/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-6112c.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 UID:talento-educacao-e-turismo-9f7eb-2026-11-24@lagenda.pt
@@ -1179,9 +1134,9 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-gestao-especializacao-em-contabilidade-3ea6b-2026-12
  -02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T140000
 SUMMARY:Provas de Mestrado – Gestão – Especialização em Contabilidad
- e
+ e: Miguel Saramago Ribeiro Congrinho Chanoca
 LOCATION:Instituto Politécnico da Guarda\, Guarda
 DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-gestao-
  especializacao-em-contabilidade/
@@ -1411,7 +1366,7 @@ BEGIN:VEVENT
 UID:10-a-conferencia-anual-da-redesaude-da-universidade-de-lisbo-52e26-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T090000
 SUMMARY:10.ª Conferência Anual da redeSAÚDE da Universidade de Lisboa 
  “Citizen Science in Health: from Individual Participation to Societal Im
  pact

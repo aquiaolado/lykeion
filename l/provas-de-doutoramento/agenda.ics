@@ -6,29 +6,6 @@ X-WR-CALNAME:Provas de doutoramento (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
- -11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
- m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 81212
-URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
- doutoramen-6a16f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
- o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
-URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
  @lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -39,6 +16,30 @@ DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
  rova-de-doutoramento-do-aluno-anthony-andrea-faustine
 URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-anthony-andrea-faus
  tine-18cd9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Prova de doutoramento João Manuel Beirão Cardoso Ribeiro quadrado
+  Gil
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
+ o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
+URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de Doutoramento em Ciências de Enfermagem: Soraia Cristina 
+ de Abreu Pereira
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 81212
+URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
+ doutoramen-6a16f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-daniela-rocha-bicalho-tecnologias-035d3-2026-
@@ -63,30 +64,6 @@ DESCRIPTION:https://www.inetmd.pt/eventos/nery-borges/
 URL:https://lykeion.pt/e/provas-de-doutoramento-nery-borges-0999a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
- -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Licenciado César António Andrade Gaspar Lourenço Martins " >Prov
- as de Doutoramento em Ciências Médicas | Licenciado César António Andr
- ade Gaspar Lourenço Martins
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 80432
-URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
- artins-pro-f56a7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
- los-jorge-castilho-rabaca-correia-cordeiro/
-URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-doutoramento-em-metabolismo-clinica-e-experimentaca-e7477-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -99,10 +76,34 @@ URL:https://lykeion.pt/e/prova-de-doutoramento-em-metabolismo-clinica-e-exp
  erimentaca-e7477.html
 END:VEVENT
 BEGIN:VEVENT
+UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Prova de doutoramento Carlos Jorge Castilho Rabaça Correia Cordeir
+ o
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
+ los-jorge-castilho-rabaca-correia-cordeiro/
+URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Provas de Doutoramento em Ciências Médicas: César António Andra
+ de Gaspar Lourenço Martins
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 80432
+URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
+ artins-pro-f56a7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-em-fisioterapia-caceb-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T140000
-SUMMARY:Provas de Doutoramento em Fisioterapia
+SUMMARY:Provas de Doutoramento em Fisioterapia: Olga Maria de Barros Maia
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fadeup/pt/noticias_geral.ver_noticia?P_NR
  =46874
@@ -212,9 +213,8 @@ UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261123
-SUMMARY:Mestre Ana Beatriz Marques de Sousa " >Provas de Doutoramento em Bi
- otecnologia Molecular e Celular Aplicada às Ciências da Saúde | Mestre 
- Ana Beatriz Marques de Sousa
+SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
+ a às Ciências da Saúde: Ana Beatriz Marques de Sousa
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
 DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
  84254
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-e-engenharia-do-ambiente-4effe-2026-
  11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Doutoramento em Ciências e Engenharia do Ambiente de Sar
  a Zandi — Conceção de membranas sustentáveis com nanocompósitos foto
  catalíticos orientada por IA para tratamento de efluentes farmacêu
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 UID:gea-26-11-26-prova-de-doutoramento-67e0c-2026-11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261126
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de doutoramento Pedro Nuno Beirão Cardoso quadrado Gil
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-ped
  ro-nuno-beirao-cardoso-quadrado-gil/
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261130
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de doutoramento Maria de Vasconcelos Cardoso
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-mar
  ia-de-vasconcelos-cardoso/
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-13627-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T110000
-SUMMARY:Provas de Doutoramento
+SUMMARY:Provas de Doutoramento: João Carlos Gil Almeida
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/provas-doutoramento-joao-car
  los-gil-almeida/
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-fisioterapia-mestre-dora-de-almeid-b2e5c-2026
  -12-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
+DTSTART;TZID=Europe/Lisbon:20261210T100000
 SUMMARY:Provas de Doutoramento em Fisioterapia | Mestre Dora de Almeida Jan
  ela
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-kesske-248d6-2026
  -12-11@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Lisbon:20261211T140000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Kessketlen
   Alves Miranda
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-eugeni-09965-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T140000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Eugénio P
  aiva Pereira Ribeiro
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-jhessi-f03cb-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T100000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Jhessica T
  racy Araújo de Oliveira Monteiro
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -569,7 +569,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-atividade-fisica-e-saude-mestre-ni-1183e-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T100000
 SUMMARY:Provas de Doutoramento em Atividade Física e Saúde | Mestre Nilto
  n Gomes Rolim Filho
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -606,7 +606,8 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-38ac2-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T143000
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de Doutoramento: Participação cidadã na regeneração urba
+ na para cidades inteligentes uma análise
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/participacao-cidada-
  na-regeneracao-urbana-para-cidades-inteligentes-uma-analise

@@ -276,7 +276,7 @@ BEGIN:VEVENT
 UID:ciclo-de-seminarios-identidade-coletiva-e-memoria-narrativas-75d33-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Ciclo de Seminários: Identidade coletiva e memória: narrativas de
   ativistas do País Basco e Irlanda do Norte
 LOCATION:Departamento de Documentos Institucionais
@@ -316,8 +316,7 @@ UID:lisbon-classics-seminars-professor-lowell-edmunds-rutgers-un-f400f-2026
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T170000
 SUMMARY:Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Univers
- ity) Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Universit
- y)
+ ity)
 LOCATION:Faculdade de Letras da Universidade de Lisboa
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/lisbon-classics-seminar
  s-professor-lowell-edmunds-rutgers-university
@@ -463,7 +462,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent
@@ -891,7 +890,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-c30a8-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:Lunch Seminar · Centro de Investigação em Ciências da Saúde
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/993
@@ -1075,7 +1074,7 @@ BEGIN:VEVENT
 UID:seminario-liberalismo-no-seculo-xix-a-ideologia-que-tudo-mud-63b29-2026
  -11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261130
+DTSTART;TZID=Europe/Lisbon:20261130T180000
 SUMMARY:Seminário: Liberalismo no século XIX: a ideologia que tudo mudou?
 LOCATION:Departamento de Documentos Institucionais
 DESCRIPTION:https://www.iscte-iul.pt/evento/liberalismo-no-seculo-xix-ideol
@@ -1130,7 +1129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-71de5-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/671
@@ -1357,7 +1356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a751b-2026-12-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261212
+DTSTART;TZID=Europe/Lisbon:20261212T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/578
@@ -1366,7 +1365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-f575f-2026-12-13@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261213
+DTSTART;TZID=Europe/Lisbon:20261213T143000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/680
@@ -1412,7 +1411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a0f4b-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
+DTSTART;TZID=Europe/Lisbon:20261218T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/579
@@ -1455,16 +1454,6 @@ DESCRIPTION:https://lab2pt.net/opportunities/chamada-de-trabalhos-para-a-re
  vista-psiax10
 URL:https://lykeion.pt/e/chamada-de-trabalhos-para-a-revista-psiax-10-b1c3b
  .html
-END:VEVENT
-BEGIN:VEVENT
-UID:gestao-da-mudanca-organizacional-366c1-2027-01-05@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20270105T080000
-SUMMARY:Gestão da Mudança Organizacional
-LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
-DESCRIPTION:https://www.cenertec.pt/cursos/gestao-da-mudanca-organizacional
- -2/
-URL:https://lykeion.pt/e/gestao-da-mudanca-organizacional-366c1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lab-talk-historias-cruzadas-da-habitacao-em-lisboa-baebc-2027-01-06@lag
@@ -1512,7 +1501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-4d414-2027-01-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270117
+DTSTART;TZID=Europe/Lisbon:20270117T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/697
@@ -1572,7 +1561,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-44775-2027-02-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270221
+DTSTART;TZID=Europe/Lisbon:20270221T150000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/712

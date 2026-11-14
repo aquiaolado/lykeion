@@ -446,7 +446,7 @@ BEGIN:VEVENT
 UID:aulas-abertas-no-ambito-da-licenciatura-em-ciencia-politica-b45f2-2026-
  11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Aulas-Abertas no âmbito da Licenciatura em Ciência Política e Re
  lações Internacionais
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -814,7 +814,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-a-logica-no-direito-64d17-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:Aula Aberta - A Lógica no Direito
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-a-logica-no-di
@@ -887,7 +887,7 @@ BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
 LOCATION:ISEG – Lisbon School of Economics and Management
@@ -1189,28 +1189,6 @@ DESCRIPTION:https://fcse.lisboa.ucp.pt/pt-pt/eventos/provas-de-mestrado-em-
  lingua-gestual-portuguesa-e-educacao-de-surdos-55681
 URL:https://lykeion.pt/e/provas-de-mestrado-em-lingua-gestual-portuguesa-e-
  educacao-d-b9306.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-f3d96-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-marketi
- ng-e-comunicacao-20/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-f3d96.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-f3d96-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Seia
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-marketi
- ng-e-comunicacao-20/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-f3d96.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-clara-maria-jesus-marques-ventura-324cd-2026-
@@ -1967,18 +1945,17 @@ URL:https://lykeion.pt/e/workshop-formula-student-engenharia-tecnologia-ino
  vacao-e-mo-a8d31.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
- -11-18@lagenda.pt
+UID:x-workshop-on-immigration-health-and-wellbeing-fd2e8-2026-11-18@lagenda
+ .pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
- migration\, Health and Wellbeing
+SUMMARY:X Workshop on Immigration\, Health and Wellbeing
 LOCATION:Nova SBE
 DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
  e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
  pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
-URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
- orkshop-on-fd2e8.html
+URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-fd2
+ e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-bb4a7-2026-11-18@lagenda.p
@@ -2300,7 +2277,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-filipa-alves-oliveira-782f1-2026-11-19@lagend
  a.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T140000
 SUMMARY:Provas de Mestrado de Ana Filipa Alves Oliveira
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://www.ua.pt/pt/noticias/10/99962
@@ -2311,7 +2288,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-silva-oliveira-estrategias-de-457f3-2026-
  11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T093000
 SUMMARY:Provas de Mestrado de Beatriz Silva Oliveira — Estratégias de Di
  ferenciação Pedagógica para Inclusão numa Turma de Ele
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -2424,7 +2401,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-planeamento-regional-e-urbano-ccs-de-h-153be-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Provas de Mestrado em Planeamento Regional e Urbano - CCS de Henriq
  ue Valente Carvalho — Mobilidade Escolar em Vila Nova de Gaia: Prioridad
  es de Intervenção nas Escolas mais Críticas
@@ -2500,7 +2477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent
@@ -3063,7 +3040,7 @@ BEGIN:VEVENT
 UID:seminario-cegist-mais-dados-melhor-saude-translating-the-20-48591-2026-
  11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:Seminário CEGIST “Mais Dados\, Melhor Saúde: Translating The 20
   Recommendations Into Practice
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -4092,17 +4069,6 @@ URL:https://lykeion.pt/e/portas-abertas-open-day-raiz-venham-conhecer-a-cie
  ncia-e-ino-afef2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-6112c-2026-11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas de Mestrado - Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Seia
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-mestrado-comunicaca
- o-marketing/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-6112c.h
- tml
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-alexandre-daniel-sa-araujo-rodrigues-a-6ea50-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -4233,17 +4199,6 @@ DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
  7514
 URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciado-hugo-rafa
  el-folha-s-4f949.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-6112c-2026-11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-mestrado-comunicaca
- o-marketing/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-6112c.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-caselhas-trindade-relacao-ent-817f2-2026
@@ -4877,7 +4832,7 @@ BEGIN:VEVENT
 UID:pensar-sociologicamente-sociedade-em-cena-uma-palavra-pode-v-31462-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Pensar Sociologicamente – “Sociedade em cena – uma palavra po
  de valer mais do que mil imagens?
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -4916,7 +4871,7 @@ BEGIN:VEVENT
 UID:projecao-de-filme-e-debate-vidas-de-pessoas-lgbtqia-com-mais-cbca0-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Projeção de filme e debate: Vidas de pessoas LGBTQIA+ com mais de
   60 anos no sul da Europa
 LOCATION:Departamento de Documentos Institucionais
@@ -5703,7 +5658,7 @@ BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -5817,9 +5772,9 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-gestao-especializacao-em-contabilidade-3ea6b-2026-12
  -02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T140000
 SUMMARY:Provas de Mestrado – Gestão – Especialização em Contabilidad
- e
+ e: Miguel Saramago Ribeiro Congrinho Chanoca
 LOCATION:Instituto Politécnico da Guarda\, Guarda
 DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-gestao-
  especializacao-em-contabilidade/
@@ -6023,7 +5978,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-13627-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T110000
-SUMMARY:Provas de Doutoramento
+SUMMARY:Provas de Doutoramento: João Carlos Gil Almeida
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/provas-doutoramento-joao-car
  los-gil-almeida/
@@ -6842,7 +6797,7 @@ BEGIN:VEVENT
 UID:seminario-acesso-a-justica-e-sociedade-digital-7b120-2026-12-10@lagenda
  .pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
+DTSTART;TZID=Europe/Lisbon:20261210T130000
 SUMMARY:Seminário - Acesso à Justiça e Sociedade Digital
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-acesso-a-justica
@@ -6914,7 +6869,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-marina-dos-santos-vicente-bb070-2026-12-11@lagend
  a.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Lisbon:20261211T100000
 SUMMARY:Provas de Mestrado de Marina dos Santos Vicente
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://www.ua.pt/pt/noticias/10/99960
@@ -7114,7 +7069,7 @@ BEGIN:VEVENT
 UID:aula-aberta-diplomacia-parlamentar-o-papel-dos-parlamentos-n-0b0cc-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T103000
 SUMMARY:Aula Aberta - Diplomacia Parlamentar: O Papel dos Parlamentos na Po
  lítica Externa Contemporânea
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
@@ -7327,7 +7282,7 @@ BEGIN:VEVENT
 UID:10-a-conferencia-anual-da-redesaude-da-universidade-de-lisbo-52e26-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T090000
 SUMMARY:10.ª Conferência Anual da redeSAÚDE da Universidade de Lisboa 
  “Citizen Science in Health: from Individual Participation to Societal Im
  pact
@@ -7353,7 +7308,8 @@ BEGIN:VEVENT
 UID:prova-de-mestrado-7d94c-2026-12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T143000
-SUMMARY:Prova de Mestrado
+SUMMARY:Prova de Mestrado: Relicário de opressão e resistência mulheres 
+ negras fumageiras do recôncavo baiano
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/relicario-de-opressa
  o-e-resistencia-mulheres-negras-fumageiras-do-reconcavo-baiano
@@ -7523,7 +7479,8 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-38ac2-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T143000
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de Doutoramento: Participação cidadã na regeneração urba
+ na para cidades inteligentes uma análise
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/participacao-cidada-
  na-regeneracao-urbana-para-cidades-inteligentes-uma-analise
@@ -8587,7 +8544,7 @@ BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov

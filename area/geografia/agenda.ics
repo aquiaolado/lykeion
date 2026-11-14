@@ -322,7 +322,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-planeamento-regional-e-urbano-ccs-de-h-153be-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Provas de Mestrado em Planeamento Regional e Urbano - CCS de Henriq
  ue Valente Carvalho — Mobilidade Escolar em Vila Nova de Gaia: Prioridad
  es de Intervenção nas Escolas mais Críticas
@@ -334,7 +334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent

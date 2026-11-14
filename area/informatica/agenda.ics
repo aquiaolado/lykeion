@@ -66,7 +66,7 @@ BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
 LOCATION:ISEG – Lisbon School of Economics and Management
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-e-engenharia-do-ambiente-4effe-2026-
  11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Doutoramento em Ciências e Engenharia do Ambiente de Sar
  a Zandi — Conceção de membranas sustentáveis com nanocompósitos foto
  catalíticos orientada por IA para tratamento de efluentes farmacêu

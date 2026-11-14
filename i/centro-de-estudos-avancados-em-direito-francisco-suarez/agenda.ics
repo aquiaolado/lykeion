@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-a-logica-no-direito-64d17-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:Aula Aberta - A Lógica no Direito
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-a-logica-no-di
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:seminario-acesso-a-justica-e-sociedade-digital-7b120-2026-12-10@lagenda
  .pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
+DTSTART;TZID=Europe/Lisbon:20261210T130000
 SUMMARY:Seminário - Acesso à Justiça e Sociedade Digital
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-acesso-a-justica
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 UID:aula-aberta-diplomacia-parlamentar-o-papel-dos-parlamentos-n-0b0cc-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T103000
 SUMMARY:Aula Aberta - Diplomacia Parlamentar: O Papel dos Parlamentos na Po
  lítica Externa Contemporânea
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez

@@ -419,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-shear-flow-effects-in-nematics-aad29-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Seminário: Shear flow effects in nematics
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
 LOCATION:ISEG – Lisbon School of Economics and Management
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 UID:conferencia-alteracoes-climaticas-devemos-ter-medo-do-futuro-a0818-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T143000
 SUMMARY:Conferência «Alterações climáticas: devemos ter medo do futuro
  ?»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -839,7 +839,8 @@ UID:provas-publicas-de-mestrados-nao-profissionalizantes-5631c-2026-11-18@l
  agenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
-SUMMARY:Provas Públicas de Mestrados Não Profissionalizantes
+SUMMARY:Provas Públicas de Mestrados Não Profissionalizantes: Alice Roma 
+ Basílio
 LOCATION:Centro Interdisciplinar de Estudos Educacionais
 DESCRIPTION:https://www.eselx.upl.pt/eventos/provas-publicas-de-mestrados-n
  ao-profissionalizantes
@@ -1504,20 +1505,6 @@ DESCRIPTION:https://www.ordemdosengenheiros.pt/pt/eventos/forum-rjue-ccp-o-
 URL:https://lykeion.pt/e/forum-rjue-ccp-o-que-muda-43aec.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
- -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Mestre Ana Beatriz Marques de Sousa " >Provas de Doutoramento em Bi
- otecnologia Molecular e Celular Aplicada às Ciências da Saúde | Mestre 
- Ana Beatriz Marques de Sousa
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 84254
-URL:https://lykeion.pt/e/mestre-ana-beatriz-marques-de-sousa-provas-de-dout
- oramento-e-8cc45.html
-END:VEVENT
-BEGIN:VEVENT
 UID:passeio-cientifico-telhados-solares-de-ciencias-1fcfa-2026-11-23@lagend
  a.pt
 DTSTAMP:20261114T000000Z
@@ -1548,10 +1535,23 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
 URL:https://lykeion.pt/e/prova-de-mestrado-em-informatica-medica-9aea3.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
+ a às Ciências da Saúde: Ana Beatriz Marques de Sousa
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84254
+URL:https://lykeion.pt/e/mestre-ana-beatriz-marques-de-sousa-provas-de-dout
+ oramento-e-8cc45.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-e-engenharia-do-ambiente-4effe-2026-
  11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Doutoramento em Ciências e Engenharia do Ambiente de Sar
  a Zandi — Conceção de membranas sustentáveis com nanocompósitos foto
  catalíticos orientada por IA para tratamento de efluentes farmacêu
@@ -2786,7 +2786,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-13627-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T110000
-SUMMARY:Provas de Doutoramento
+SUMMARY:Provas de Doutoramento: João Carlos Gil Almeida
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/provas-doutoramento-joao-car
  los-gil-almeida/
@@ -3393,7 +3393,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-atividade-fisica-e-saude-mestre-ni-1183e-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T100000
 SUMMARY:Provas de Doutoramento em Atividade Física e Saúde | Mestre Nilto
  n Gomes Rolim Filho
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto

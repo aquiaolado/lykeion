@@ -176,7 +176,7 @@ BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
 LOCATION:ISEG – Lisbon School of Economics and Management
@@ -273,8 +273,7 @@ UID:lisbon-classics-seminars-professor-lowell-edmunds-rutgers-un-f400f-2026
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T170000
 SUMMARY:Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Univers
- ity) Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Universit
- y)
+ ity)
 LOCATION:Faculdade de Letras da Universidade de Lisboa
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/lisbon-classics-seminar
  s-professor-lowell-edmunds-rutgers-university
@@ -342,17 +341,14 @@ DESCRIPTION:https://deec.tecnico.ulisboa.pt/eventos/palestras/tecinnov-bris
 URL:https://lykeion.pt/e/tecinnov-brisa-workshop-de-co-criacao-34366.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-de-filosofia-e-literatura-workshop-de-filosofia-e-l-b64bd-2026
- -11-17@lagenda.pt
+UID:workshop-de-filosofia-e-literatura-b64bd-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T183000
-SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
- ra
+SUMMARY:Workshop de Filosofia e Literatura
 LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/workshop-de-filosofia-e
  -literatura-51
-URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
- osofia-e-l-b64bd.html
+URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-b64bd.html
 END:VEVENT
 BEGIN:VEVENT
 UID:4-a-sessao-gender-lab-lunch-talks-promessas-e-riscos-da-ia-n-2e8a0-2026
@@ -881,7 +877,7 @@ BEGIN:VEVENT
 UID:seminario-cegist-mais-dados-melhor-saude-translating-the-20-48591-2026-
  11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:Seminário CEGIST “Mais Dados\, Melhor Saúde: Translating The 20
   Recommendations Into Practice
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -1129,17 +1125,14 @@ DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
 URL:https://lykeion.pt/e/workshop-latex-e6c51.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-de-filosofia-e-literatura-workshop-de-filosofia-e-l-edf9b-2026
- -11-24@lagenda.pt
+UID:workshop-de-filosofia-e-literatura-edf9b-2026-11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T183000
-SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
- ra
+SUMMARY:Workshop de Filosofia e Literatura
 LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/workshop-de-filosofia-e
  -literatura-50
-URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
- osofia-e-l-edf9b.html
+URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-edf9b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xiii-coloquio-internacional-colecoes-de-arte-em-portugal-e-b-3cf1d-2026
@@ -1576,7 +1569,7 @@ BEGIN:VEVENT
 UID:o-futuro-esta-na-racao-desafios-e-oportunidades-na-industria-dbf11-2026
  -11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261130
+DTSTART;TZID=Europe/Lisbon:20261130T090000
 SUMMARY:O Futuro está na Ração: Desafios e Oportunidades na Indústria d
  os Alimentos Compostos
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
@@ -2259,7 +2252,7 @@ BEGIN:VEVENT
 UID:10-a-conferencia-anual-da-redesaude-da-universidade-de-lisbo-52e26-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T090000
 SUMMARY:10.ª Conferência Anual da redeSAÚDE da Universidade de Lisboa 
  “Citizen Science in Health: from Individual Participation to Societal Im
  pact
@@ -2274,7 +2267,8 @@ BEGIN:VEVENT
 UID:prova-de-mestrado-7d94c-2026-12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T143000
-SUMMARY:Prova de Mestrado
+SUMMARY:Prova de Mestrado: Relicário de opressão e resistência mulheres 
+ negras fumageiras do recôncavo baiano
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/relicario-de-opressa
  o-e-resistencia-mulheres-negras-fumageiras-do-reconcavo-baiano
@@ -2413,7 +2407,8 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-38ac2-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T143000
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de Doutoramento: Participação cidadã na regeneração urba
+ na para cidades inteligentes uma análise
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/participacao-cidada-
  na-regeneracao-urbana-para-cidades-inteligentes-uma-analise

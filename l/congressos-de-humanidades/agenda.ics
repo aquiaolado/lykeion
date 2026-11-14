@@ -508,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:douro-lugar-de-um-encontro-feliz-ddd06-2027-01-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270116
+DTSTART;TZID=Europe/Lisbon:20270116T170000
 SUMMARY:Douro - Lugar de um encontro feliz
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Peso da Régua
 DESCRIPTION:https://www.museudodouro.pt/exposicoes/presente/douro-lugar-de-

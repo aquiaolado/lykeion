@@ -116,7 +116,7 @@ BEGIN:VEVENT
 UID:aulas-abertas-no-ambito-da-licenciatura-em-ciencia-politica-b45f2-2026-
  11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Aulas-Abertas no âmbito da Licenciatura em Ciência Política e Re
  lações Internacionais
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-shear-flow-effects-in-nematics-aad29-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Seminário: Shear flow effects in nematics
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 UID:conferencia-alteracoes-climaticas-devemos-ter-medo-do-futuro-a0818-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T143000
 SUMMARY:Conferência «Alterações climáticas: devemos ter medo do futuro
  ?»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -280,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tmc-exibe-terra-vil-de-luis-campos-931ba-2026-11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T213000
 SUMMARY:TMC~ exibe “Terra Vil”\, de Luís Campos
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 UID:pensar-sociologicamente-sociedade-em-cena-uma-palavra-pode-v-31462-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Pensar Sociologicamente – “Sociedade em cena – uma palavra po
  de valer mais do que mil imagens?
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov

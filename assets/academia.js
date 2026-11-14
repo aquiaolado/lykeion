@@ -63,7 +63,17 @@
   marcaNovos();
 
   if (!caixa && !ola0) return;
-  fetch(B + "academia.json").then(r => r.json()).then(D => {
+  // 14/11/2026 (avaliação do site): o ficheiro de todos os eventos (~280 KB comprimido) já não compete com a primeira pintura.
+  // Quem chega pela primeira vez, sem pesquisa nem escolhas guardadas, vê a página feita no servidor; o ficheiro vem quando o
+  // navegador está livre, ou logo ao primeiro toque, tecla ou foco. Com pesquisa (?q=…) ou escolhas guardadas, vem já.
+  const urgente = !!location.search || (() => { try { const p = JSON.parse(localStorage.getItem("lyk-porta")) || {};
+    return !!((p.areas || []).length || (p.insts || []).length || p.sou || (p.onde || []).length); } catch (_) { return false; } })();
+  new Promise(pronto => {
+    if (urgente) return pronto();
+    ["pointerdown", "keydown", "focusin"].forEach(t => addEventListener(t, pronto, { once: true, passive: true }));
+    const livre = () => (window.requestIdleCallback ? requestIdleCallback(pronto, { timeout: 3000 }) : setTimeout(pronto, 1500));
+    if (document.readyState === "complete") livre(); else addEventListener("load", livre, { once: true });
+  }).then(() => fetch(B + "academia.json")).then(r => r.json()).then(D => {
     PAIS = D.pais || {}; arrumar();
     document.dispatchEvent(new CustomEvent("lyk:dados", { detail: D }));
     {  // atualizar a memória da visita (só na entrada, que lê o academia.json)
@@ -325,6 +335,9 @@
   const $ = id => document.getElementById(id);
   const inp = $("lykfac"), op = $("lykfacop"), volta = $("lyk-volta"), escF = $("lykfacesc"), finasBox = $("lykfinas");
   const perfil = $("lyk-perfil"), mesa = $("lyk-mesa"), geral = $("lyk-geral"), partilha = $("lyk-partilha");
+  // 14/11/2026: no telemóvel os 4 passos ficam fechados num botão, para os eventos aparecerem logo no primeiro ecrã
+  const pers = $("lyk-pers"), abrirPortas = () => { box.classList.add("aberto"); if (pers) { pers.hidden = true; pers.setAttribute("aria-expanded", "true"); } };
+  if (pers) pers.addEventListener("click", () => { abrirPortas(); box.scrollIntoView({ block: "nearest" }); });
   const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const norm = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const lerLS = (k, v) => { try { return JSON.parse(localStorage.getItem(k)) || v; } catch (_) { return v; } };
@@ -559,6 +572,7 @@
     if (alheia) partilha.innerHTML = 'Está a ver uma seleção que alguém partilhou consigo. <button type="button" class="bt" data-alheia="guardar">Guardar como minha</button> ' +
       (vazio(P) ? "" : '<button type="button" class="lyk-lig" data-alheia="voltar">Voltar à minha</button>');
     box.hidden = !editar;
+    if (pers) pers.hidden = !editar || box.classList.contains("aberto");
     document.body.classList.toggle("lyk-perfil-on", !vazio(p) && !editar);
   };
   // a contagem enquanto escolhe
@@ -576,7 +590,7 @@
   // cliques na faixa, na secretária e na partilha
   document.addEventListener("click", ev => {
     const t = ev.target;
-    const ed = t.closest("[data-editar]"); if (ed) { if (alheia) { P = arrumar(alheia); alheia = null; guardar(); } editar = true; tudo(); inp.focus({ preventScroll: true }); box.scrollIntoView({ block: "nearest" }); return; }
+    const ed = t.closest("[data-editar]"); if (ed) { if (alheia) { P = arrumar(alheia); alheia = null; guardar(); } editar = true; abrirPortas(); tudo(); inp.focus({ preventScroll: true }); box.scrollIntoView({ block: "nearest" }); return; }
     const ti = t.closest("#lyk-perfil [data-tirar]"); if (ti) { if (alheia) { P = arrumar(alheia); alheia = null; } tirar(ti.dataset.tirar); return; }
     const al = t.closest("[data-alheia]"); if (al) { if (al.dataset.alheia === "guardar") { P = arrumar(alheia); guardar(); } alheia = null; history.replaceState(null, "", location.pathname); editar = vazio(P); tudo(); return; }
     const sp = t.closest("#lyk-mesa [data-sep]"); if (sp) { sep = sp.dataset.sep; mostrar = 30; gravarLS("lyk-sep", sep); desenhaMesa(); if (sp.closest(".lyk-lado")) mesa.scrollIntoView({ behavior: "smooth" }); return; }

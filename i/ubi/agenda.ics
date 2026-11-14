@@ -116,7 +116,7 @@ BEGIN:VEVENT
 UID:aulas-abertas-no-ambito-da-licenciatura-em-ciencia-politica-b45f2-2026-
  11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Aulas-Abertas no âmbito da Licenciatura em Ciência Política e Re
  lações Internacionais
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 UID:conferencia-alteracoes-climaticas-devemos-ter-medo-do-futuro-a0818-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T143000
 SUMMARY:Conferência «Alterações climáticas: devemos ter medo do futuro
  ?»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -330,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tmc-exibe-terra-vil-de-luis-campos-931ba-2026-11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T213000
 SUMMARY:TMC~ exibe “Terra Vil”\, de Luís Campos
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
@@ -377,7 +377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-c30a8-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:Lunch Seminar · Centro de Investigação em Ciências da Saúde
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/993
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 UID:pensar-sociologicamente-sociedade-em-cena-uma-palavra-pode-v-31462-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Pensar Sociologicamente – “Sociedade em cena – uma palavra po
  de valer mais do que mil imagens?
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -435,7 +435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-71de5-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/671
@@ -457,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a751b-2026-12-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261212
+DTSTART;TZID=Europe/Lisbon:20261212T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/578
@@ -477,7 +477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-f575f-2026-12-13@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261213
+DTSTART;TZID=Europe/Lisbon:20261213T143000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/680
@@ -495,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a0f4b-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
+DTSTART;TZID=Europe/Lisbon:20261218T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/579
@@ -537,7 +537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-4d414-2027-01-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270117
+DTSTART;TZID=Europe/Lisbon:20270117T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/697
@@ -578,7 +578,7 @@ BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -632,7 +632,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-44775-2027-02-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270221
+DTSTART;TZID=Europe/Lisbon:20270221T150000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/712
@@ -666,7 +666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-b0267-2027-03-07@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270307
+DTSTART;TZID=Europe/Lisbon:20270307T153000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/1053

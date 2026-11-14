@@ -88,29 +88,6 @@ URL:https://lykeion.pt/e/dia-da-faculdade-49-o-aniversario-da-nova-medical-
  school-4f45f.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
- -11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
- m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 81212
-URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
- doutoramen-6a16f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
- o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
-URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-mestrado-em-evidencia-e-decisao-em-saude-5db4d-2026-11-16@lage
  nda.pt
 DTSTAMP:20261114T000000Z
@@ -121,6 +98,30 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19464
 URL:https://lykeion.pt/e/prova-de-mestrado-em-evidencia-e-decisao-em-saude-
  5db4d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Prova de doutoramento João Manuel Beirão Cardoso Ribeiro quadrado
+  Gil
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
+ o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
+URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de Doutoramento em Ciências de Enfermagem: Soraia Cristina 
+ de Abreu Pereira
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 81212
+URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
+ doutoramen-6a16f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-antonio-augusto-ribeiro-da-silva-evolu-09cbb-2026
@@ -214,7 +215,8 @@ BEGIN:VEVENT
 UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261117
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de doutoramento Carlos Jorge Castilho Rabaça Correia Cordeir
+ o
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
  los-jorge-castilho-rabaca-correia-cordeiro/
@@ -224,7 +226,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-fisioterapia-caceb-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T140000
-SUMMARY:Provas de Doutoramento em Fisioterapia
+SUMMARY:Provas de Doutoramento em Fisioterapia: Olga Maria de Barros Maia
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fadeup/pt/noticias_geral.ver_noticia?P_NR
  =46874
@@ -451,7 +453,7 @@ BEGIN:VEVENT
 UID:seminario-cegist-mais-dados-melhor-saude-translating-the-20-48591-2026-
  11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:Seminário CEGIST “Mais Dados\, Melhor Saúde: Translating The 20
   Recommendations Into Practice
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -507,20 +509,6 @@ URL:https://lykeion.pt/e/congresso-premio-best-ideas-foi-entregue-no-cnom-b
  c63c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
- -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Mestre Ana Beatriz Marques de Sousa " >Provas de Doutoramento em Bi
- otecnologia Molecular e Celular Aplicada às Ciências da Saúde | Mestre 
- Ana Beatriz Marques de Sousa
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 84254
-URL:https://lykeion.pt/e/mestre-ana-beatriz-marques-de-sousa-provas-de-dout
- oramento-e-8cc45.html
-END:VEVENT
-BEGIN:VEVENT
 UID:23-11-26-provas-de-agregacao-de-joao-carlos-gomes-ribeiro-8d135-2026-11
  -23@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -531,6 +519,19 @@ DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/provas-de-agregacao-de-joao-
  carlos-gomes-ribeiro/
 URL:https://lykeion.pt/e/23-11-26-provas-de-agregacao-de-joao-carlos-gomes-
  ribeiro-8d135.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
+ a às Ciências da Saúde: Ana Beatriz Marques de Sousa
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84254
+URL:https://lykeion.pt/e/mestre-ana-beatriz-marques-de-sousa-provas-de-dout
+ oramento-e-8cc45.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carlota-sofia-cabral-guedes-a-percecao-4dc8b-2026
@@ -849,7 +850,8 @@ UID:perda-auditiva-e-declinio-cognitivo-o-que-no-3fafd-2026-11-26@lagenda.p
  t
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Perda auditiva e declínio cognitivo: o que no...
+SUMMARY:Perda auditiva e declínio cognitivo o que nos diz a evidência cie
+ ntífica
 LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:https://ispup.up.pt/evento/perda-auditiva-e-declinio-cognitivo-
  o-que-nos-diz-a-evidencia-cientifica/
@@ -860,7 +862,7 @@ BEGIN:VEVENT
 UID:projecao-de-filme-e-debate-vidas-de-pessoas-lgbtqia-com-mais-cbca0-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Projeção de filme e debate: Vidas de pessoas LGBTQIA+ com mais de
   60 anos no sul da Europa
 LOCATION:Departamento de Documentos Institucionais
@@ -868,16 +870,6 @@ DESCRIPTION:https://www.iscte-iul.pt/evento/vidas-de-pessoas-lgbtqia-com-ma
  is-de-60-anos-no-sul-europa
 URL:https://lykeion.pt/e/projecao-de-filme-e-debate-vidas-de-pessoas-lgbtqi
  a-com-mais-cbca0.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gea-26-11-26-prova-de-doutoramento-67e0c-2026-11-26@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-ped
- ro-nuno-beirao-cardoso-quadrado-gil/
-URL:https://lykeion.pt/e/gea-26-11-26-prova-de-doutoramento-67e0c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-saude-publica-3e81d-2026-11-26@lagenda.pt
@@ -888,6 +880,16 @@ LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19623
 URL:https://lykeion.pt/e/prova-de-mestrado-em-saude-publica-3e81d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-26-11-26-prova-de-doutoramento-67e0c-2026-11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Prova de doutoramento Pedro Nuno Beirão Cardoso quadrado Gil
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-ped
+ ro-nuno-beirao-cardoso-quadrado-gil/
+URL:https://lykeion.pt/e/gea-26-11-26-prova-de-doutoramento-67e0c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-elsa-marinela-alves-carreiro-conhecime-eb48d-2026
@@ -1004,7 +1006,7 @@ BEGIN:VEVENT
 UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261130
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de doutoramento Maria de Vasconcelos Cardoso
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-mar
  ia-de-vasconcelos-cardoso/
@@ -1205,7 +1207,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-fisioterapia-mestre-dora-de-almeid-b2e5c-2026
  -12-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
+DTSTART;TZID=Europe/Lisbon:20261210T100000
 SUMMARY:Provas de Doutoramento em Fisioterapia | Mestre Dora de Almeida Jan
  ela
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -1231,7 +1233,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-kesske-248d6-2026
  -12-11@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Lisbon:20261211T140000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Kessketlen
   Alves Miranda
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -1317,7 +1319,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-eugeni-09965-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T140000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Eugénio P
  aiva Pereira Ribeiro
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -1330,7 +1332,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-jhessi-f03cb-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T100000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Jhessica T
  racy Araújo de Oliveira Monteiro
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -1368,7 +1370,7 @@ BEGIN:VEVENT
 UID:10-a-conferencia-anual-da-redesaude-da-universidade-de-lisbo-52e26-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T090000
 SUMMARY:10.ª Conferência Anual da redeSAÚDE da Universidade de Lisboa 
  “Citizen Science in Health: from Individual Participation to Societal Im
  pact
@@ -1383,7 +1385,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-atividade-fisica-e-saude-mestre-ni-1183e-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T100000
 SUMMARY:Provas de Doutoramento em Atividade Física e Saúde | Mestre Nilto
  n Gomes Rolim Filho
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -1767,7 +1769,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-b0267-2027-03-07@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270307
+DTSTART;TZID=Europe/Lisbon:20270307T153000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/1053

@@ -258,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-shear-flow-effects-in-nematics-aad29-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Seminário: Shear flow effects in nematics
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -480,18 +480,17 @@ URL:https://lykeion.pt/e/seminario-celebracao-da-diversidade-e-da-inclusao-
  na-nova-sc-67f29.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
- -11-18@lagenda.pt
+UID:x-workshop-on-immigration-health-and-wellbeing-fd2e8-2026-11-18@lagenda
+ .pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
- migration\, Health and Wellbeing
+SUMMARY:X Workshop on Immigration\, Health and Wellbeing
 LOCATION:Nova SBE
 DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
  e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
  pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
-URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
- orkshop-on-fd2e8.html
+URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-fd2
+ e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:a-cubic-underestimator-for-deterministic-global-optimization-69e29-2026
@@ -545,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent

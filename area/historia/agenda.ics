@@ -286,7 +286,7 @@ BEGIN:VEVENT
 UID:ciclo-de-seminarios-identidade-coletiva-e-memoria-narrativas-75d33-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Ciclo de Seminários: Identidade coletiva e memória: narrativas de
   ativistas do País Basco e Irlanda do Norte
 LOCATION:Departamento de Documentos Institucionais
@@ -953,7 +953,7 @@ BEGIN:VEVENT
 UID:seminario-liberalismo-no-seculo-xix-a-ideologia-que-tudo-mud-63b29-2026
  -11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261130
+DTSTART;TZID=Europe/Lisbon:20261130T180000
 SUMMARY:Seminário: Liberalismo no século XIX: a ideologia que tudo mudou?
 LOCATION:Departamento de Documentos Institucionais
 DESCRIPTION:https://www.iscte-iul.pt/evento/liberalismo-no-seculo-xix-ideol
@@ -1226,7 +1226,7 @@ BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov

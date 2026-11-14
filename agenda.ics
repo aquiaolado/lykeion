@@ -894,19 +894,6 @@ URL:https://lykeion.pt/e/mes-da-filosofia-celebrado-no-requisite-e-leia-da-
  biblioteca-a3ddc.html
 END:VEVENT
 BEGIN:VEVENT
-UID:neste-workshop-conduzido-por-miguel-pereira-da-silva-os-part-b5905-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Neste workshop conduzido por Miguel Pereira da Silva\, os participa
- ntes descobrem a fotografia analógica sem necessidade de um laboratório 
- tradicional.
-LOCATION:Instituto Superior Bissaya Barreto\, Coimbra
-DESCRIPTION:https://agenda.fbb.pt/eventos/workshop-de-fotografia-analogica/
-URL:https://lykeion.pt/e/neste-workshop-conduzido-por-miguel-pereira-da-sil
- va-os-part-b5905.html
-END:VEVENT
-BEGIN:VEVENT
 UID:networking-fridays-sargassum-across-the-atlantic-series-ab539-2026-11-1
  4@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -1185,6 +1172,17 @@ DESCRIPTION:https://docs.google.com/forms/d/e/1FAIpQLSftjgP8JSkFgLNlHUDV5xm
  6fziVnq2cLnnWd9cuMn7SW2ia5w/viewform
 URL:https://lykeion.pt/e/workshop-de-cozinha-vegetariana-14-de-novembro-b19
  7b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:neste-workshop-conduzido-por-miguel-pereira-da-silva-os-part-b5905-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Workshop de fotografia analógica
+LOCATION:Instituto Superior Bissaya Barreto\, Coimbra
+DESCRIPTION:https://agenda.fbb.pt/eventos/workshop-de-fotografia-analogica/
+URL:https://lykeion.pt/e/neste-workshop-conduzido-por-miguel-pereira-da-sil
+ va-os-part-b5905.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xix-hospital-faz-de-conta-88f42-2026-11-14@lagenda.pt
@@ -1654,19 +1652,6 @@ DESCRIPTION:https://www.agendalx.pt/events/event/jornal-arkivo/
 URL:https://lykeion.pt/e/jornal-arkivo-2233e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
- -11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Mestre Soraia Cristina de Abreu Pereira " >Provas de Doutoramento e
- m Ciências de Enfermagem | Mestre Soraia Cristina de Abreu Pereira
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 81212
-URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
- doutoramen-6a16f.html
-END:VEVENT
-BEGIN:VEVENT
 UID:participacao-online-gratuita-no-simposio-internacional-de-bl-847bc-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -1678,16 +1663,6 @@ LOCATION:ISCAP – Instituto Superior de Contabilidade e Administração do
 DESCRIPTION:https://www.iscap.ipp.pt
 URL:https://lykeion.pt/e/participacao-online-gratuita-no-simposio-internaci
  onal-de-bl-847bc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
- o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
-URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-anthony-andrea-faustine-18cd9-2026-11-16
@@ -1732,6 +1707,30 @@ LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19188
 URL:https://lykeion.pt/e/prova-de-mestrado-em-informatica-medica-e0a2a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-16-11-26-prova-de-doutoramento-86d78-2026-11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Prova de doutoramento João Manuel Beirão Cardoso Ribeiro quadrado
+  Gil
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-joa
+ o-manuel-beirao-cardoso-ribeiro-quadrado-gil/
+URL:https://lykeion.pt/e/gea-16-11-26-prova-de-doutoramento-86d78.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mestre-soraia-cristina-de-abreu-pereira-provas-de-doutoramen-6a16f-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de Doutoramento em Ciências de Enfermagem: Soraia Cristina 
+ de Abreu Pereira
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 81212
+URL:https://lykeion.pt/e/mestre-soraia-cristina-de-abreu-pereira-provas-de-
+ doutoramen-6a16f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-moura-pinto-um-patrimonio-68f98-2026
@@ -2061,7 +2060,7 @@ BEGIN:VEVENT
 UID:aulas-abertas-no-ambito-da-licenciatura-em-ciencia-politica-b45f2-2026-
  11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Aulas-Abertas no âmbito da Licenciatura em Ciência Política e Re
  lações Internacionais
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -2331,7 +2330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-shear-flow-effects-in-nematics-aad29-2026-11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Seminário: Shear flow effects in nematics
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -2459,7 +2458,7 @@ BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
 LOCATION:ISEG – Lisbon School of Economics and Management
@@ -2550,30 +2549,6 @@ DESCRIPTION:https://www.uc.pt/iii/ensino/escolas-doutorais/agenda/webinar-d
 URL:https://lykeion.pt/e/ed-17-11-26-webinar-03613.html
 END:VEVENT
 BEGIN:VEVENT
-UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
- -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Licenciado César António Andrade Gaspar Lourenço Martins " >Prov
- as de Doutoramento em Ciências Médicas | Licenciado César António Andr
- ade Gaspar Lourenço Martins
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 80432
-URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
- artins-pro-f56a7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
- los-jorge-castilho-rabaca-correia-cordeiro/
-URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-doutoramento-em-metabolismo-clinica-e-experimentaca-e7477-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2608,6 +2583,17 @@ URL:https://lykeion.pt/e/prova-de-mestrado-em-medicina-e-oncologia-molecula
  res-9e9ac.html
 END:VEVENT
 BEGIN:VEVENT
+UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Prova de doutoramento Carlos Jorge Castilho Rabaça Correia Cordeir
+ o
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
+ los-jorge-castilho-rabaca-correia-cordeiro/
+URL:https://lykeion.pt/e/gea-17-11-26-prova-de-doutoramento-ec96a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-agregacao-doutora-helena-maria-machado-barbosa-da-1f12d-2026-
  11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2621,10 +2607,23 @@ URL:https://lykeion.pt/e/provas-de-agregacao-doutora-helena-maria-machado-b
  arbosa-da-1f12d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:licenciado-cesar-antonio-andrade-gaspar-lourenco-martins-pro-f56a7-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Provas de Doutoramento em Ciências Médicas: César António Andra
+ de Gaspar Lourenço Martins
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 80432
+URL:https://lykeion.pt/e/licenciado-cesar-antonio-andrade-gaspar-lourenco-m
+ artins-pro-f56a7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-em-fisioterapia-caceb-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T140000
-SUMMARY:Provas de Doutoramento em Fisioterapia
+SUMMARY:Provas de Doutoramento em Fisioterapia: Olga Maria de Barros Maia
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fadeup/pt/noticias_geral.ver_noticia?P_NR
  =46874
@@ -2831,28 +2830,6 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-lingua-gestual-portuguesa-e-
  educacao-d-b9306.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-f3d96-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-marketi
- ng-e-comunicacao-20/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-f3d96.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-f3d96-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Seia
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-marketi
- ng-e-comunicacao-20/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-f3d96.h
- tml
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-doutoramento-de-clara-maria-jesus-marques-ventura-324cd-2026-
  11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -2976,7 +2953,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-a-logica-no-direito-64d17-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:Aula Aberta - A Lógica no Direito
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-a-logica-no-di
@@ -3064,7 +3041,7 @@ BEGIN:VEVENT
 UID:ciclo-de-seminarios-identidade-coletiva-e-memoria-narrativas-75d33-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Ciclo de Seminários: Identidade coletiva e memória: narrativas de
   ativistas do País Basco e Irlanda do Norte
 LOCATION:Departamento de Documentos Institucionais
@@ -3116,7 +3093,7 @@ BEGIN:VEVENT
 UID:continue-reading-conferencia-digitalizacao-e-inovacao-na-agr-a9a61-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Continue reading... : Conferência “Digitalização e Inovação 
  na Agricultura
 LOCATION:Laboratório Associado TERRA
@@ -3303,8 +3280,7 @@ UID:lisbon-classics-seminars-professor-lowell-edmunds-rutgers-un-f400f-2026
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T170000
 SUMMARY:Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Univers
- ity) Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Universit
- y)
+ ity)
 LOCATION:Faculdade de Letras da Universidade de Lisboa
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/lisbon-classics-seminar
  s-professor-lowell-edmunds-rutgers-university
@@ -3489,17 +3465,14 @@ URL:https://lykeion.pt/e/webinars-what-makes-forward-college-unique-02-dec-
  1722c.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-de-filosofia-e-literatura-workshop-de-filosofia-e-l-b64bd-2026
- -11-17@lagenda.pt
+UID:workshop-de-filosofia-e-literatura-b64bd-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T183000
-SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
- ra
+SUMMARY:Workshop de Filosofia e Literatura
 LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/workshop-de-filosofia-e
  -literatura-51
-URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
- osofia-e-l-b64bd.html
+URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-b64bd.html
 END:VEVENT
 BEGIN:VEVENT
 UID:17-11-2026-aula-aberta-grecia-e-roma-antigas-para-criancas-e-5a2aa-2026
@@ -3665,7 +3638,8 @@ UID:provas-publicas-de-mestrados-nao-profissionalizantes-5631c-2026-11-18@l
  agenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
-SUMMARY:Provas Públicas de Mestrados Não Profissionalizantes
+SUMMARY:Provas Públicas de Mestrados Não Profissionalizantes: Alice Roma 
+ Basílio
 LOCATION:Centro Interdisciplinar de Estudos Educacionais
 DESCRIPTION:https://www.eselx.upl.pt/eventos/provas-publicas-de-mestrados-n
  ao-profissionalizantes
@@ -4071,18 +4045,17 @@ DESCRIPTION:https://eventos.utad.pt/evento/workshop-origami-uma-folha-infin
 URL:https://lykeion.pt/e/workshop-de-origami-uma-folha-infinitas-2499d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
- -11-18@lagenda.pt
+UID:x-workshop-on-immigration-health-and-wellbeing-fd2e8-2026-11-18@lagenda
+ .pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
- migration\, Health and Wellbeing
+SUMMARY:X Workshop on Immigration\, Health and Wellbeing
 LOCATION:Nova SBE
 DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
  e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
  pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
-URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
- orkshop-on-fd2e8.html
+URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-fd2
+ e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:beyond-the-paper-count-com-marta-da-pian-elsevier-7d953-2026-11-18@lage
@@ -4320,7 +4293,7 @@ BEGIN:VEVENT
 UID:conferencia-alteracoes-climaticas-devemos-ter-medo-do-futuro-a0818-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T143000
 SUMMARY:Conferência «Alterações climáticas: devemos ter medo do futuro
  ?»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -5073,7 +5046,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-filipa-alves-oliveira-782f1-2026-11-19@lagend
  a.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T140000
 SUMMARY:Provas de Mestrado de Ana Filipa Alves Oliveira
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://www.ua.pt/pt/noticias/10/99962
@@ -5084,7 +5057,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-silva-oliveira-estrategias-de-457f3-2026-
  11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T093000
 SUMMARY:Provas de Mestrado de Beatriz Silva Oliveira — Estratégias de Di
  ferenciação Pedagógica para Inclusão numa Turma de Ele
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -5267,7 +5240,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-planeamento-regional-e-urbano-ccs-de-h-153be-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Provas de Mestrado em Planeamento Regional e Urbano - CCS de Henriq
  ue Valente Carvalho — Mobilidade Escolar em Vila Nova de Gaia: Prioridad
  es de Intervenção nas Escolas mais Críticas
@@ -6031,7 +6004,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent
@@ -7188,7 +7161,7 @@ BEGIN:VEVENT
 UID:seminario-cegist-mais-dados-melhor-saude-translating-the-20-48591-2026-
  11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T110000
 SUMMARY:Seminário CEGIST “Mais Dados\, Melhor Saúde: Translating The 20
   Recommendations Into Practice
 LOCATION:ISEG – Lisbon School of Economics and Management\, Boticas
@@ -7908,20 +7881,6 @@ URL:https://lykeion.pt/e/iii-jornadas-de-jovens-historiadores-em-educacao-e
  ncontro-in-f3c1d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
- -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Mestre Ana Beatriz Marques de Sousa " >Provas de Doutoramento em Bi
- otecnologia Molecular e Celular Aplicada às Ciências da Saúde | Mestre 
- Ana Beatriz Marques de Sousa
-LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
-DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
- 84254
-URL:https://lykeion.pt/e/mestre-ana-beatriz-marques-de-sousa-provas-de-dout
- oramento-e-8cc45.html
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-9aea3-2026-11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T140000
@@ -7944,10 +7903,23 @@ URL:https://lykeion.pt/e/23-11-26-provas-de-agregacao-de-joao-carlos-gomes-
  ribeiro-8d135.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
+ a às Ciências da Saúde: Ana Beatriz Marques de Sousa
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84254
+URL:https://lykeion.pt/e/mestre-ana-beatriz-marques-de-sousa-provas-de-dout
+ oramento-e-8cc45.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-e-engenharia-do-ambiente-4effe-2026-
  11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Doutoramento em Ciências e Engenharia do Ambiente de Sar
  a Zandi — Conceção de membranas sustentáveis com nanocompósitos foto
  catalíticos orientada por IA para tratamento de efluentes farmacêu
@@ -9174,17 +9146,6 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-automatic-take-off-and-land
  ing-for-te-872e8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-6112c-2026-11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas de Mestrado - Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Seia
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-mestrado-comunicaca
- o-marketing/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-6112c.h
- tml
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-alexandre-daniel-sa-araujo-rodrigues-a-6ea50-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -9425,17 +9386,6 @@ DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
  7514
 URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciado-hugo-rafa
  el-folha-s-4f949.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-marketing-e-comunicacao-6112c-2026-11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas de Mestrado – Marketing e Comunicação
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-mestrado-comunicaca
- o-marketing/
-URL:https://lykeion.pt/e/provas-de-mestrado-marketing-e-comunicacao-6112c.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-caselhas-trindade-relacao-ent-817f2-2026
@@ -10152,7 +10102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tmc-exibe-terra-vil-de-luis-campos-931ba-2026-11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T213000
 SUMMARY:TMC~ exibe “Terra Vil”\, de Luís Campos
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
@@ -10274,17 +10224,14 @@ DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
 URL:https://lykeion.pt/e/workshop-latex-e6c51.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-de-filosofia-e-literatura-workshop-de-filosofia-e-l-edf9b-2026
- -11-24@lagenda.pt
+UID:workshop-de-filosofia-e-literatura-edf9b-2026-11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T183000
-SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
- ra
+SUMMARY:Workshop de Filosofia e Literatura
 LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/workshop-de-filosofia-e
  -literatura-50
-URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
- osofia-e-l-edf9b.html
+URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-edf9b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-neurociencia-aplicada-ao-turismo-citur-64813-2026-11-24@lag
@@ -11176,7 +11123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-c30a8-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:Lunch Seminar · Centro de Investigação em Ciências da Saúde
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/993
@@ -11611,22 +11558,13 @@ UID:perda-auditiva-e-declinio-cognitivo-o-que-no-3fafd-2026-11-26@lagenda.p
  t
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Perda auditiva e declínio cognitivo: o que no...
+SUMMARY:Perda auditiva e declínio cognitivo o que nos diz a evidência cie
+ ntífica
 LOCATION:Universidade do Porto\, Porto
 DESCRIPTION:https://ispup.up.pt/evento/perda-auditiva-e-declinio-cognitivo-
  o-que-nos-diz-a-evidencia-cientifica/
 URL:https://lykeion.pt/e/perda-auditiva-e-declinio-cognitivo-o-que-no-3fafd
  .html
-END:VEVENT
-BEGIN:VEVENT
-UID:gea-26-11-26-prova-de-doutoramento-67e0c-2026-11-26@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-ped
- ro-nuno-beirao-cardoso-quadrado-gil/
-URL:https://lykeion.pt/e/gea-26-11-26-prova-de-doutoramento-67e0c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-saude-publica-3e81d-2026-11-26@lagenda.pt
@@ -11637,6 +11575,16 @@ LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19623
 URL:https://lykeion.pt/e/prova-de-mestrado-em-saude-publica-3e81d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-26-11-26-prova-de-doutoramento-67e0c-2026-11-26@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Prova de doutoramento Pedro Nuno Beirão Cardoso quadrado Gil
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-ped
+ ro-nuno-beirao-cardoso-quadrado-gil/
+URL:https://lykeion.pt/e/gea-26-11-26-prova-de-doutoramento-67e0c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-publicas-de-mestrado-22b8e-2026-11-26@lagenda.pt
@@ -12327,7 +12275,7 @@ BEGIN:VEVENT
 UID:pensar-sociologicamente-sociedade-em-cena-uma-palavra-pode-v-31462-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Pensar Sociologicamente – “Sociedade em cena – uma palavra po
  de valer mais do que mil imagens?
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -12399,7 +12347,7 @@ BEGIN:VEVENT
 UID:projecao-de-filme-e-debate-vidas-de-pessoas-lgbtqia-com-mais-cbca0-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Projeção de filme e debate: Vidas de pessoas LGBTQIA+ com mais de
   60 anos no sul da Europa
 LOCATION:Departamento de Documentos Institucionais
@@ -13914,16 +13862,6 @@ DESCRIPTION:https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/
 URL:https://lykeion.pt/e/mostra-espanha-2026-obras-convidadas-76a82.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261130
-SUMMARY:Prova de Doutoramento
-LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-mar
- ia-de-vasconcelos-cardoso/
-URL:https://lykeion.pt/e/gea-30-11-26-prova-de-doutoramento-6bc2c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:prova-de-mestrado-em-metabolismo-biopatologia-e-experimentac-827bd-2026
  -11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -13934,6 +13872,16 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19685
 URL:https://lykeion.pt/e/prova-de-mestrado-em-metabolismo-biopatologia-e-ex
  perimentac-827bd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Prova de doutoramento Maria de Vasconcelos Cardoso
+LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-mar
+ ia-de-vasconcelos-cardoso/
+URL:https://lykeion.pt/e/gea-30-11-26-prova-de-doutoramento-6bc2c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-federated-anomaly-detection-over-dist-9e0ce-2026
@@ -14249,7 +14197,7 @@ BEGIN:VEVENT
 UID:o-futuro-esta-na-racao-desafios-e-oportunidades-na-industria-dbf11-2026
  -11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261130
+DTSTART;TZID=Europe/Lisbon:20261130T090000
 SUMMARY:O Futuro está na Ração: Desafios e Oportunidades na Indústria d
  os Alimentos Compostos
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
@@ -14275,7 +14223,7 @@ BEGIN:VEVENT
 UID:seminario-liberalismo-no-seculo-xix-a-ideologia-que-tudo-mud-63b29-2026
  -11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261130
+DTSTART;TZID=Europe/Lisbon:20261130T180000
 SUMMARY:Seminário: Liberalismo no século XIX: a ideologia que tudo mudou?
 LOCATION:Departamento de Documentos Institucionais
 DESCRIPTION:https://www.iscte-iul.pt/evento/liberalismo-no-seculo-xix-ideol
@@ -14467,9 +14415,9 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-gestao-especializacao-em-contabilidade-3ea6b-2026-12
  -02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T140000
 SUMMARY:Provas de Mestrado – Gestão – Especialização em Contabilidad
- e
+ e: Miguel Saramago Ribeiro Congrinho Chanoca
 LOCATION:Instituto Politécnico da Guarda\, Guarda
 DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-gestao-
  especializacao-em-contabilidade/
@@ -14682,7 +14630,7 @@ BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -14874,7 +14822,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-13627-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T110000
-SUMMARY:Provas de Doutoramento
+SUMMARY:Provas de Doutoramento: João Carlos Gil Almeida
 LOCATION:ISPA – Instituto Universitário
 DESCRIPTION:https://www.ispa.pt/agenda/eventos/provas-doutoramento-joao-car
  los-gil-almeida/
@@ -14911,7 +14859,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-estudos-editoriais-de-ana-luisa-teixei-0dcc8-2026
  -12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T150000
 SUMMARY:Provas de Mestrado em Estudos Editoriais de Ana Luísa Teixeira Nun
  es Pereira — Heroínas do desporto português: conceção de uma coleç
  ão de não-ficção para o público infantojuvenil
@@ -15174,7 +15122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-71de5-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/671
@@ -16384,7 +16332,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-fisioterapia-mestre-dora-de-almeid-b2e5c-2026
  -12-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
+DTSTART;TZID=Europe/Lisbon:20261210T100000
 SUMMARY:Provas de Doutoramento em Fisioterapia | Mestre Dora de Almeida Jan
  ela
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -16750,7 +16698,7 @@ BEGIN:VEVENT
 UID:seminario-acesso-a-justica-e-sociedade-digital-7b120-2026-12-10@lagenda
  .pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
+DTSTART;TZID=Europe/Lisbon:20261210T130000
 SUMMARY:Seminário - Acesso à Justiça e Sociedade Digital
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
 DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/seminario-acesso-a-justica
@@ -16843,7 +16791,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-kesske-248d6-2026
  -12-11@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Lisbon:20261211T140000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Kessketlen
   Alves Miranda
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -16898,7 +16846,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-marina-dos-santos-vicente-bb070-2026-12-11@lagend
  a.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Lisbon:20261211T100000
 SUMMARY:Provas de Mestrado de Marina dos Santos Vicente
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://www.ua.pt/pt/noticias/10/99960
@@ -17167,7 +17115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a751b-2026-12-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261212
+DTSTART;TZID=Europe/Lisbon:20261212T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/578
@@ -17272,7 +17220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-f575f-2026-12-13@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261213
+DTSTART;TZID=Europe/Lisbon:20261213T143000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/680
@@ -17441,7 +17389,7 @@ BEGIN:VEVENT
 UID:aula-aberta-diplomacia-parlamentar-o-papel-dos-parlamentos-n-0b0cc-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T103000
 SUMMARY:Aula Aberta - Diplomacia Parlamentar: O Papel dos Parlamentos na Po
  lítica Externa Contemporânea
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
@@ -17541,7 +17489,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-eugeni-09965-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T140000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Eugénio P
  aiva Pereira Ribeiro
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -17554,7 +17502,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-do-desporto-mestre-jhessi-f03cb-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T100000
 SUMMARY:Provas de Doutoramento em Ciências do Desporto | Mestre Jhessica T
  racy Araújo de Oliveira Monteiro
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -17809,7 +17757,8 @@ BEGIN:VEVENT
 UID:prova-de-mestrado-7d94c-2026-12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T143000
-SUMMARY:Prova de Mestrado
+SUMMARY:Prova de Mestrado: Relicário de opressão e resistência mulheres 
+ negras fumageiras do recôncavo baiano
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/relicario-de-opressa
  o-e-resistencia-mulheres-negras-fumageiras-do-reconcavo-baiano
@@ -17819,7 +17768,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-em-atividade-fisica-e-saude-mestre-ni-1183e-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T100000
 SUMMARY:Provas de Doutoramento em Atividade Física e Saúde | Mestre Nilto
  n Gomes Rolim Filho
 LOCATION:Faculdade de Desporto da Universidade do Porto\, Porto
@@ -17907,7 +17856,7 @@ BEGIN:VEVENT
 UID:10-a-conferencia-anual-da-redesaude-da-universidade-de-lisbo-52e26-2026
  -12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T090000
 SUMMARY:10.ª Conferência Anual da redeSAÚDE da Universidade de Lisboa 
  “Citizen Science in Health: from Individual Participation to Societal Im
  pact
@@ -18111,7 +18060,8 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-38ac2-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T143000
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de Doutoramento: Participação cidadã na regeneração urba
+ na para cidades inteligentes uma análise
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/participacao-cidada-
  na-regeneracao-urbana-para-cidades-inteligentes-uma-analise
@@ -18147,7 +18097,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-estudos-editoriais-de-adriana-firmino-95d05-2026-
  12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
+DTSTART;TZID=Europe/Lisbon:20261218T093000
 SUMMARY:Provas de Mestrado em Estudos Editoriais de Adriana Firmino Santos 
  — A produção cultural ao serviço da literatura infantil: relatório d
  e estágio na The Book Company
@@ -18227,7 +18177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a0f4b-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
+DTSTART;TZID=Europe/Lisbon:20261218T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/579
@@ -19461,7 +19411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:douro-lugar-de-um-encontro-feliz-ddd06-2027-01-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270116
+DTSTART;TZID=Europe/Lisbon:20270116T170000
 SUMMARY:Douro - Lugar de um encontro feliz
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Peso da Régua
 DESCRIPTION:https://www.museudodouro.pt/exposicoes/presente/douro-lugar-de-
@@ -19521,7 +19471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-4d414-2027-01-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270117
+DTSTART;TZID=Europe/Lisbon:20270117T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/697
@@ -20795,7 +20745,7 @@ BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -21731,7 +21681,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-44775-2027-02-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270221
+DTSTART;TZID=Europe/Lisbon:20270221T150000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/712
@@ -22610,7 +22560,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-b0267-2027-03-07@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270307
+DTSTART;TZID=Europe/Lisbon:20270307T153000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/1053

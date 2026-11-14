@@ -475,19 +475,6 @@ URL:https://lykeion.pt/e/mes-da-filosofia-celebrado-no-requisite-e-leia-da-
  biblioteca-a3ddc.html
 END:VEVENT
 BEGIN:VEVENT
-UID:neste-workshop-conduzido-por-miguel-pereira-da-silva-os-part-b5905-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Neste workshop conduzido por Miguel Pereira da Silva\, os participa
- ntes descobrem a fotografia analógica sem necessidade de um laboratório 
- tradicional.
-LOCATION:Instituto Superior Bissaya Barreto\, Coimbra
-DESCRIPTION:https://agenda.fbb.pt/eventos/workshop-de-fotografia-analogica/
-URL:https://lykeion.pt/e/neste-workshop-conduzido-por-miguel-pereira-da-sil
- va-os-part-b5905.html
-END:VEVENT
-BEGIN:VEVENT
 UID:novi-sad-ciclo-de-cinema-portugues-51e99-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -594,6 +581,17 @@ LOCATION:Centro de Estudos de História Religiosa
 DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-formacao-cehr
  -2
 URL:https://lykeion.pt/e/sessao-do-seminario-de-formacao-cehr-44e0c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:neste-workshop-conduzido-por-miguel-pereira-da-silva-os-part-b5905-2026
+ -11-14@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Workshop de fotografia analógica
+LOCATION:Instituto Superior Bissaya Barreto\, Coimbra
+DESCRIPTION:https://agenda.fbb.pt/eventos/workshop-de-fotografia-analogica/
+URL:https://lykeion.pt/e/neste-workshop-conduzido-por-miguel-pereira-da-sil
+ va-os-part-b5905.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026
@@ -902,7 +900,7 @@ BEGIN:VEVENT
 UID:ciclo-de-seminarios-identidade-coletiva-e-memoria-narrativas-75d33-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Ciclo de Seminários: Identidade coletiva e memória: narrativas de
   ativistas do País Basco e Irlanda do Norte
 LOCATION:Departamento de Documentos Institucionais
@@ -962,8 +960,7 @@ UID:lisbon-classics-seminars-professor-lowell-edmunds-rutgers-un-f400f-2026
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T170000
 SUMMARY:Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Univers
- ity) Lisbon Classics Seminars: Professor Lowell Edmunds (Rutgers Universit
- y)
+ ity)
 LOCATION:Faculdade de Letras da Universidade de Lisboa
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/lisbon-classics-seminar
  s-professor-lowell-edmunds-rutgers-university
@@ -1098,17 +1095,14 @@ URL:https://lykeion.pt/e/reservas-visitaveis-do-museu-nacional-de-etnologia
  -dd25d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-de-filosofia-e-literatura-workshop-de-filosofia-e-l-b64bd-2026
- -11-17@lagenda.pt
+UID:workshop-de-filosofia-e-literatura-b64bd-2026-11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T183000
-SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
- ra
+SUMMARY:Workshop de Filosofia e Literatura
 LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/workshop-de-filosofia-e
  -literatura-51
-URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
- osofia-e-l-b64bd.html
+URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-b64bd.html
 END:VEVENT
 BEGIN:VEVENT
 UID:17-11-2026-aula-aberta-grecia-e-roma-antigas-para-criancas-e-5a2aa-2026
@@ -1580,7 +1574,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-filipa-alves-oliveira-782f1-2026-11-19@lagend
  a.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T140000
 SUMMARY:Provas de Mestrado de Ana Filipa Alves Oliveira
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://www.ua.pt/pt/noticias/10/99962
@@ -1740,7 +1734,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T170000
 SUMMARY:Seminário Permanente IHA
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent
@@ -2753,17 +2747,14 @@ URL:https://lykeion.pt/e/seminario-uma-utopia-perene-e-o-seu-fracasso-3b7e3
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-de-filosofia-e-literatura-workshop-de-filosofia-e-l-edf9b-2026
- -11-24@lagenda.pt
+UID:workshop-de-filosofia-e-literatura-edf9b-2026-11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T183000
-SUMMARY:Workshop de Filosofia e Literatura Workshop de Filosofia e Literatu
- ra
+SUMMARY:Workshop de Filosofia e Literatura
 LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
 DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/workshop-de-filosofia-e
  -literatura-50
-URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-workshop-de-fil
- osofia-e-l-edf9b.html
+URL:https://lykeion.pt/e/workshop-de-filosofia-e-literatura-edf9b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:x-congresso-de-historia-local-584c2-2026-11-24@lagenda.pt
@@ -2864,7 +2855,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-c30a8-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:Lunch Seminar · Centro de Investigação em Ciências da Saúde
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/993
@@ -3458,7 +3449,7 @@ BEGIN:VEVENT
 UID:seminario-liberalismo-no-seculo-xix-a-ideologia-que-tudo-mud-63b29-2026
  -11-30@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261130
+DTSTART;TZID=Europe/Lisbon:20261130T180000
 SUMMARY:Seminário: Liberalismo no século XIX: a ideologia que tudo mudou?
 LOCATION:Departamento de Documentos Institucionais
 DESCRIPTION:https://www.iscte-iul.pt/evento/liberalismo-no-seculo-xix-ideol
@@ -3652,7 +3643,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-71de5-2026-12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/671
@@ -4204,7 +4195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a751b-2026-12-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261212
+DTSTART;TZID=Europe/Lisbon:20261212T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/578
@@ -4226,7 +4217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-f575f-2026-12-13@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261213
+DTSTART;TZID=Europe/Lisbon:20261213T143000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/680
@@ -4305,7 +4296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a0f4b-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
+DTSTART;TZID=Europe/Lisbon:20261218T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/579
@@ -4375,7 +4366,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-estudos-editoriais-de-adriana-firmino-95d05-2026-
  12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261218
+DTSTART;TZID=Europe/Lisbon:20261218T093000
 SUMMARY:Provas de Mestrado em Estudos Editoriais de Adriana Firmino Santos 
  — A produção cultural ao serviço da literatura infantil: relatório d
  e estágio na The Book Company
@@ -4571,7 +4562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:douro-lugar-de-um-encontro-feliz-ddd06-2027-01-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270116
+DTSTART;TZID=Europe/Lisbon:20270116T170000
 SUMMARY:Douro - Lugar de um encontro feliz
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Peso da Régua
 DESCRIPTION:https://www.museudodouro.pt/exposicoes/presente/douro-lugar-de-
@@ -4581,7 +4572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-4d414-2027-01-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270117
+DTSTART;TZID=Europe/Lisbon:20270117T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/697
@@ -4683,7 +4674,7 @@ BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -4826,7 +4817,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-44775-2027-02-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270221
+DTSTART;TZID=Europe/Lisbon:20270221T150000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/712

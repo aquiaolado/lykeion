@@ -509,6 +509,8 @@
     const sala = document.getElementById("legcasa"), ev = document.getElementById("casaev"), cx = sala || ev; if (!cx || !cx.dataset.lugar) return;
     fetch(B + "conta/sala.php?casa=" + encodeURIComponent(cx.dataset.lugar)).then(r => r.ok ? r.json() : Promise.reject()).then(j => {
       const fi = j.ficha || {}, pf = sala && document.querySelector(".sala-cab .ficha");
+      const cs = document.getElementById("confsala");  // 14/11/2026: «confirmado pela sala» no evento e na página da sala
+      if (cs && fi.confirmado_em) { const d = new Date(fi.confirmado_em.slice(0, 10) + "T12:00:00"); cs.textContent = `Ficha confirmada pela sala a ${d.getDate()} ${MES[d.getMonth()]}. `; }
       if (pf && fi.confirmado_em) {  // a sala corrigiu a ficha no painel: o que ela escreveu passa à frente do diretório
         const d = pf.dataset, site = fi.site || d.s || "", url = site && !/^https?:/.test(site) ? "https://" + site : site;
         pf.innerHTML = [esc(fi.morada || d.m || ""), url ? `<a href="${esc(url)}" target="_blank" rel="noopener">site da sala</a>` : "",

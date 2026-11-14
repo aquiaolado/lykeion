@@ -107,11 +107,11 @@ function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeira
   };
   try {
     $cmd(null, 220);
-    $cmd('EHLO asfeiras.pt', 250);
+    $cmd('EHLO ' . (explode('@', $de)[1] ?? 'asfeiras.pt'), 250);
     if ($porta === 587) {
       $cmd('STARTTLS', 220);
       if (!stream_socket_enable_crypto($s, true, STREAM_CRYPTO_METHOD_TLS_CLIENT)) throw new RuntimeException('não foi possível cifrar a ligação');
-      $cmd('EHLO asfeiras.pt', 250);
+      $cmd('EHLO ' . (explode('@', $de)[1] ?? 'asfeiras.pt'), 250);
     }
     $cmd('AUTH LOGIN', 334); $cmd(base64_encode($utilizador), 334); $cmd(base64_encode($pass), 235);
     $cmd("MAIL FROM:<$de>", 250); $cmd("RCPT TO:<$para>", [250, 251]); $cmd('DATA', 354);

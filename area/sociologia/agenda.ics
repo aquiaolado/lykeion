@@ -294,18 +294,17 @@ URL:https://lykeion.pt/e/v-congresso-associacao-dos-arqueologos-portugueses
  -7fe4a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x-workshop-on-immigration-health-and-wellbeing-x-workshop-on-fd2e8-2026
- -11-18@lagenda.pt
+UID:x-workshop-on-immigration-health-and-wellbeing-fd2e8-2026-11-18@lagenda
+ .pt
 DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261118
-SUMMARY:X Workshop on Immigration\, Health and Wellbeing - X Workshop on Im
- migration\, Health and Wellbeing
+SUMMARY:X Workshop on Immigration\, Health and Wellbeing
 LOCATION:Nova SBE
 DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
  e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
  pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
-URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-x-w
- orkshop-on-fd2e8.html
+URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-fd2
+ e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-bb4a7-2026-11-18@lagenda.p
@@ -805,7 +804,7 @@ BEGIN:VEVENT
 UID:pensar-sociologicamente-sociedade-em-cena-uma-palavra-pode-v-31462-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Pensar Sociologicamente – “Sociedade em cena – uma palavra po
  de valer mais do que mil imagens?
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -818,7 +817,7 @@ BEGIN:VEVENT
 UID:projecao-de-filme-e-debate-vidas-de-pessoas-lgbtqia-com-mais-cbca0-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Projeção de filme e debate: Vidas de pessoas LGBTQIA+ com mais de
   60 anos no sul da Europa
 LOCATION:Departamento de Documentos Institucionais
@@ -1409,7 +1408,8 @@ BEGIN:VEVENT
 UID:prova-de-mestrado-7d94c-2026-12-16@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T143000
-SUMMARY:Prova de Mestrado
+SUMMARY:Prova de Mestrado: Relicário de opressão e resistência mulheres 
+ negras fumageiras do recôncavo baiano
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/relicario-de-opressa
  o-e-resistencia-mulheres-negras-fumageiras-do-reconcavo-baiano
@@ -1457,7 +1457,8 @@ BEGIN:VEVENT
 UID:prova-de-doutoramento-38ac2-2026-12-18@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T143000
-SUMMARY:Prova de Doutoramento
+SUMMARY:Prova de Doutoramento: Participação cidadã na regeneração urba
+ na para cidades inteligentes uma análise
 LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
 DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/participacao-cidada-
  na-regeneracao-urbana-para-cidades-inteligentes-uma-analise
@@ -1639,7 +1640,7 @@ BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
