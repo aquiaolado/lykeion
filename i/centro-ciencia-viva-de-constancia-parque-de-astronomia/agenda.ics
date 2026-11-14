@@ -7,18 +7,8 @@ X-WR-CALNAME:Centro Ciência Viva de Constância - Parque de Astronomia (Ly
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:horarios-b8bae-2026-11-13@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Horários
-LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
- ância
-DESCRIPTION:https://constancia.cienciaviva.pt/1195/exposicoes
-URL:https://lykeion.pt/e/horarios-b8bae.html
-END:VEVENT
-BEGIN:VEVENT
 UID:visita-guiada-exposicao-a-fisica-do-voo-50ffe-2026-11-24@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T110000
 SUMMARY:Visita guiada: Exposição: A física do voo
 LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
@@ -30,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-um-passeio-pelo-ceu-sessao-de-planetario-50c7a-2026-11-24
  @lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T120000
 SUMMARY:Visita guiada: Um passeio pelo céu - Sessão de planetário
 LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
@@ -42,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-viagem-pelo-universo-no-parque-de-astronomia-d45bd-2026-1
  1-24@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T100000
 SUMMARY:Visita guiada: Viagem pelo Universo no Parque de Astronomia!
 LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
@@ -53,7 +43,7 @@ URL:https://lykeion.pt/e/visita-guiada-viagem-pelo-universo-no-parque-de-as
 END:VEVENT
 BEGIN:VEVENT
 UID:espreitar-o-ceu-da-barquinha-ed7c7-2026-11-26@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Espreitar o céu da Barquinha!
 LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Vila 
@@ -63,7 +53,7 @@ URL:https://lykeion.pt/e/espreitar-o-ceu-da-barquinha-ed7c7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apagamos-as-luzes-e-acendemos-as-estrelas-3647a-2026-11-28@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T203000
 SUMMARY:Apagamos as luzes e acendemos as estrelas!
 LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const

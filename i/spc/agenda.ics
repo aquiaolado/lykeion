@@ -6,27 +6,9 @@ X-WR-CALNAME:SPC (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:4o-forum-rpc-676c6-2026-11-13@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Lisbon:20261113T140000
-SUMMARY:4o Fórum Rpc
-LOCATION:Sociedade Portuguesa de Cardiologia
-DESCRIPTION:https://spc.pt/evento/4o-forum-rpc/
-URL:https://lykeion.pt/e/4o-forum-rpc-676c6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:congresso-nacional-da-ordem-dos-medicos-5a5c8-2026-11-13@lagenda.pt
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:Congresso Nacional da Ordem dos Médicos
-LOCATION:Sociedade Portuguesa de Cardiologia
-DESCRIPTION:https://spc.pt/evento/congresso-nacional-da-ordem-dos-medicos/
-URL:https://lykeion.pt/e/congresso-nacional-da-ordem-dos-medicos-5a5c8.html
-END:VEVENT
-BEGIN:VEVENT
 UID:webinar-de-cardio-oncologia-com-a-sociedade-brasileira-de-ca-f6afd-2026
  -11-14@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Webinar de Cardio-Oncologia com a Sociedade Brasileira de Cardiolog
  ia
@@ -38,7 +20,7 @@ URL:https://lykeion.pt/e/webinar-de-cardio-oncologia-com-a-sociedade-brasil
 END:VEVENT
 BEGIN:VEVENT
 UID:conversas-com-evidencia-pfizer-41dbc-2026-11-20@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T190000
 SUMMARY:Conversas com Evidência – PFIZER
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -47,7 +29,7 @@ URL:https://lykeion.pt/e/conversas-com-evidencia-pfizer-41dbc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conversas-com-evidencia-viatris-70da9-2026-11-23@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T190000
 SUMMARY:Conversas com Evidência – Viatris
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -57,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conversas-com-evidencia-boehringer-ingelheim-2f50a-2026-11-27@lagenda.p
  t
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T190000
 SUMMARY:Conversas com Evidência – BOEHRINGER-INGELHEIM
 LOCATION:Sociedade Portuguesa de Cardiologia
@@ -69,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:reuniao-anual-do-gehp-beyond-one-disease-redefining-the-face-28b71-2026
  -11-28@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Reunião Anual do Gehp “beyond One Disease: Redefining The Faces 
  Of Pulmonary Hypertension Annual Meeting
@@ -83,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:reuniao-anual-do-grupo-de-estudo-de-doencas-do-miocardio-e-d-2ed89-2027
  -02-24@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20270224
 SUMMARY:Reunião anual do Grupo de Estudo de Doenças do Miocárdio e do Pe
  ricárdio
@@ -95,7 +77,7 @@ URL:https://lykeion.pt/e/reuniao-anual-do-grupo-de-estudo-de-doencas-do-mio
 END:VEVENT
 BEGIN:VEVENT
 UID:congresso-portugues-de-cardiologia-cpc2027-5714b-2027-03-18@lagenda.pt
-DTSTAMP:20261113T000000Z
+DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20270318
 SUMMARY:Congresso Português de Cardiologia (CPC2027)
 LOCATION:Sociedade Portuguesa de Cardiologia
