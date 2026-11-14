@@ -34,7 +34,7 @@ BEGIN:VEVENT
 UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
  11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T180100
 SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
  , em torno da obra de José Leite de Vasconcelos (1858-1941)
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-14@la
  genda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T103000
 SUMMARY:Exposição «Reinterpretações: da Escrita à Sétima Arte»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
@@ -115,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-e4318-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T170000
 SUMMARY:Exposição · Faculdade de Belas Artes da Universidade do Porto
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-149e7-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T160000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Ciências do Mar - 
  Recursos Marinhos
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-ciencias-do-mar-2ef51-2026
  -11-17@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Ciências do Mar - 
  Recursos Marinhos | Ana Rita Oliveira e Costa
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -2379,7 +2379,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-duarte-perestrelo-ribeiro-joga-39daa-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T155200
 SUMMARY:Provas de Mestrado de Beatriz Duarte Perestrelo Ribeiro «Jogar ent
  re dados e palavras: O impacto de estratégias gamificadas na retenção e
   expansão de vocabulário em alunos do 9.º ano de Português e In

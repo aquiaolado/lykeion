@@ -594,7 +594,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-bb4a7-2026-11-18@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -687,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bastonria-xix-congresso-nacional-da-apfh-4e2d1-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T180000
 SUMMARY:Baston – ria - XIX Congresso Nacional da APFH
 LOCATION:Ordem dos Nutricionistas\, Porto
 DESCRIPTION:https://www.ordemdosnutricionistas.pt/agenda.php
@@ -942,7 +942,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-4346e-2026-11-19@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -1158,7 +1158,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-f4a7f-2026-11-20@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -1275,7 +1275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xi-simposio-de-organizacao-e-gestao-escolar-b7b14-2026-11-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261121
+DTSTART;TZID=Europe/Lisbon:20261121T155200
 SUMMARY:XI Simpósio de Organização e Gestão Escolar
 LOCATION:Centro de Investigação em Educação\, Braga
 DESCRIPTION:https://cied.uminho.pt/evento-cientifico/xi-simposio-de-organiz
@@ -1398,7 +1398,7 @@ BEGIN:VEVENT
 UID:bastonria-congresso-regional-dos-psiclogos-da-madeira-2026-p-f3ca6-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Baston – ria - Congresso Regional dos Psic – logos da Madeira 2
  026: Psicologia e Trauma: Da Ferida – Reconstru –…
 LOCATION:Ordem dos Nutricionistas\, Porto
@@ -1564,19 +1564,6 @@ DESCRIPTION:https://forumdooutono.inesctec.pt/
 URL:https://lykeion.pt/e/conferencia-forum-inesc-tec-do-outono-62b33.html
 END:VEVENT
 BEGIN:VEVENT
-UID:continue-reading-insipack-ii-2026-international-conference-o-e6934-2026
- -11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Continue reading... : INSIPACK II 2026 – International Conference
-  on Safety and Innovation in Food Packaging
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/insipack-ii-2026-international-confe
- rence-on-safety-and-innovation-in-food-packaging/
-URL:https://lykeion.pt/e/continue-reading-insipack-ii-2026-international-co
- nference-o-e6934.html
-END:VEVENT
-BEGIN:VEVENT
 UID:epies-encontro-de-profissionais-para-a-inovacao-no-ensino-su-00d68-2026
  -11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -1613,6 +1600,20 @@ URL:https://lykeion.pt/e/isel-symposium-on-sustainable-energy-transition-is
  set-ac4e8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:insipack-ii-international-conference-on-safety-and-innovatio-12c7d-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T170000
+SUMMARY:InSIPack II – International Conference on Safety and Innovation i
+ n Food Packaging 2026
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/insipack-ii-inte
+ rnational-conference-safety-and-innovation-food-packaging-2026
+URL:https://lykeion.pt/e/insipack-ii-international-conference-on-safety-and
+ -innovatio-12c7d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:symposium-where-knowledge-converges-immerse-in-reality-918f5-2026-11-25
  @lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -1627,7 +1628,7 @@ BEGIN:VEVENT
 UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-a9931-2026-11-25@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T170000
 SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/vi-coloquio-sobre-ensino-apre

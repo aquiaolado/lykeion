@@ -255,7 +255,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-bb4a7-2026-11-18@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-4346e-2026-11-19@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-f4a7f-2026-11-20@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -516,7 +516,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xi-simposio-de-organizacao-e-gestao-escolar-b7b14-2026-11-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261121
+DTSTART;TZID=Europe/Lisbon:20261121T155200
 SUMMARY:XI Simpósio de Organização e Gestão Escolar
 LOCATION:Centro de Investigação em Educação\, Braga
 DESCRIPTION:https://cied.uminho.pt/evento-cientifico/xi-simposio-de-organiz
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 UID:bastonria-congresso-regional-dos-psiclogos-da-madeira-2026-p-f3ca6-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Baston – ria - Congresso Regional dos Psic – logos da Madeira 2
  026: Psicologia e Trauma: Da Ferida – Reconstru –…
 LOCATION:Ordem dos Nutricionistas\, Porto
@@ -699,7 +699,7 @@ BEGIN:VEVENT
 UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-a9931-2026-11-25@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T170000
 SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/vi-coloquio-sobre-ensino-apre

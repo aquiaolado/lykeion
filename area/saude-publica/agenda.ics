@@ -298,7 +298,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-marcelino-simao-da-silva-brandao-ribei-edbfc-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:Provas de mestrado de Marcelino Simão da Silva Brandão Ribeiro 
  — Impacto de uma formação em serviço no conhecimento dos enfermeiros 
  sobre os cuidados ao docente com pacemaker externo transcutâneo
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-fabio-duarte-teixeira-da-costa-impleme-edbfc-2026
  -11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T100000
 SUMMARY:Provas de mestrado de Fábio Duarte Teixeira da Costa — Implement
  ação da via verde sépsis no serviço de urgência: dificuldades antecip
  adas pelos enfermeiros
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-fernando-jorge-dos-santos-silva-dias-m-edbfc-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de Fernando Jorge dos Santos Silva Dias — Mest
  rado: Mestrado em Enfermagem Médico‐Cirúrgica na área de Enfermagem 
  à Pessoa em Situação Crítica
@@ -565,7 +565,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-pedro-azevedo-cerqueira-mestrado-edbfc-2026-
  11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de João Pedro Azevedo Cerqueira — Mestrado: M
  estrado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pesso
  a em Situação Crítica
@@ -627,19 +627,6 @@ URL:https://lykeion.pt/e/workshop-rotulos-mitos-e-redes-sociais-a-importanc
  ia-da-lite-5d1ce.html
 END:VEVENT
 BEGIN:VEVENT
-UID:continue-reading-insipack-ii-2026-international-conference-o-e6934-2026
- -11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Continue reading... : INSIPACK II 2026 – International Conference
-  on Safety and Innovation in Food Packaging
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/insipack-ii-2026-international-confe
- rence-on-safety-and-innovation-in-food-packaging/
-URL:https://lykeion.pt/e/continue-reading-insipack-ii-2026-international-co
- nference-o-e6934.html
-END:VEVENT
-BEGIN:VEVENT
 UID:debate-analise-e-interpretacao-de-estudos-cientificos-na-are-0482a-2026
  -11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
@@ -664,6 +651,20 @@ DESCRIPTION:https://www.sppsm.org/especialistas-nacionais-e-internacionais-
  l/
 URL:https://lykeion.pt/e/especialistas-nacionais-e-internacionais-reunem-se
  -para-deba-5ef4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:insipack-ii-international-conference-on-safety-and-innovatio-12c7d-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T170000
+SUMMARY:InSIPack II – International Conference on Safety and Innovation i
+ n Food Packaging 2026
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/insipack-ii-inte
+ rnational-conference-safety-and-innovation-food-packaging-2026
+URL:https://lykeion.pt/e/insipack-ii-international-conference-on-safety-and
+ -innovatio-12c7d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-vem-conhecer-as-enzimas-adsorventes-e-pele-no-eaa50-2026
@@ -692,7 +693,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-andre-luiz-de-lima-assistentes-de-voz-1b183-2026-
  11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T143000
 SUMMARY:Provas de mestrado de André Luiz de Lima — Assistentes de Voz pa
  ra a Promoção da Autonomia e do Bem-Estar de Idosos na Região de Bragan
  ça
@@ -895,7 +896,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-elsa-marinela-alves-carreiro-conhecime-eb48d-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Provas de mestrado de Elsa Marinela Alves Carreiro — Conhecimento
  s sobre cuidados paliativos dos enfermeiros da Cirurgia Geral de adultos d
  e um Centro Hospitalar Universitário
@@ -908,7 +909,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-francisco-jose-faria-silva-identificac-edbfc-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T100000
 SUMMARY:Provas de mestrado de Francisco José Faria Silva — Identificaç
  ão das intervenções de enfermagem no doente crítico com traumatismo cr
  ânio encefálico na perspetiva dos enfermeiros do serviço de urgência
@@ -966,7 +967,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-paulo-simao-martinho-sousa-mestrado-me-edbfc-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Provas de mestrado de Paulo Simão Martinho Sousa — Mestrado: Mes
  trado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pessoa 
  em Situação Crítica
@@ -1081,7 +1082,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-lucas-medeiros-hart-saturnu-plataforma-1b183-2026
  -12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T143000
 SUMMARY:Provas de mestrado de Lucas Medeiros Hart — SATURNU: Plataforma W
  eb para a Coordenação do Transporte Não Urgente de Cuidados de Saúde O
  rganizado pelos Municípios
@@ -1095,7 +1096,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-mario-antonio-marinho-de-sousa-desenvo-1b183-2026
  -12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T143000
 SUMMARY:Provas de mestrado de Mário António Marinho de Sousa — Desenvol
  vimento de um Sistema Inteligente para Gestão de Agendamentos na Saúde
 LOCATION:Instituto Politécnico de Bragança\, Bragança
@@ -1345,7 +1346,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-damas-lapa-rodrigues-desnutricao-ccc88-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T110000
 SUMMARY:Provas de mestrado de Maria Damas Lapa Rodrigues — Desnutrição\
  , sarcopenia\, déficit cognitivo e qualidade de vida em idosos institucio
  nalizados - Qual a relação?
@@ -1483,7 +1484,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-miguel-david-natal-a-medicina-geral-e-98478-2027-
  01-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270110
+DTSTART;TZID=Europe/Lisbon:20270110T110000
 SUMMARY:Provas de mestrado de Miguel David Natal — "A Medicina Geral e Fa
  miliar face aos cuidados paliativos: Ações Paliativas e formação em CP
 LOCATION:Faculdade de Medicina da Universidade de Lisboa
@@ -1495,7 +1496,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-lopes-ferreira-estado-nutriciona-96abb-2027
  -01-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270112
+DTSTART;TZID=Europe/Lisbon:20270112T110000
 SUMMARY:Provas de mestrado de Joana Lopes Ferreira — Estado nutricional e
  m doentes hospitalizados com disfagia e satisfação com as dietas de text
  ura modificada
@@ -1624,7 +1625,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-carolina-neiva-guedes-da-silva-pandemi-ea1e9-2027
  -01-30@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270130
+DTSTART;TZID=Europe/Lisbon:20270130T110000
 SUMMARY:Provas de mestrado de Carolina Neiva Guedes da Silva — «Pandemia
   de COVID-19 e Cuidados Paliativos em doentes cardíacos de um hospital te
  rciário brasileiro»
@@ -1637,7 +1638,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-helder-joaquim-alves-pinto-prevalencia-4ef9f-2027
  -01-31@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270131
+DTSTART;TZID=Europe/Lisbon:20270131T110000
 SUMMARY:Provas de mestrado de Hélder Joaquim Alves Pinto — «Prevalênci
  a de Náuseas e Vómitos em Cuidados Paliativos»
 LOCATION:Faculdade de Medicina da Universidade de Lisboa
@@ -1649,7 +1650,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-catarina-leandro-sequeira-amaro-avalia-fa539-2027
  -02-02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270202
+DTSTART;TZID=Europe/Lisbon:20270202T110000
 SUMMARY:Provas de mestrado de Catarina Leandro Sequeira Amaro — Avaliaç
  ão de fatores nutricionais com impacto no risco oncológico
 LOCATION:Faculdade de Medicina da Universidade de Lisboa
@@ -1675,7 +1676,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-marta-henriques-pestana-oliveira-prest-a2117-2027
  -02-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270204
+DTSTART;TZID=Europe/Lisbon:20270204T110000
 SUMMARY:Provas de mestrado de Marta Henriques Pestana Oliveira — Prestaç
  ão de cuidados paliativos por médicos de família em Portugal: barreiras
   e necessidades – um estudo transversal
@@ -1743,7 +1744,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-helio-manuel-braganca-da-silva-como-sa-23b93-2027
  -02-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270224
+DTSTART;TZID=Europe/Lisbon:20270224T110000
 SUMMARY:Provas de mestrado de Hélio Manuel Bragança da Silva — "Como s
  ão os Fatores de Equidade em Saúde Avaliados e Reportados em Revisões S
  istemáticas de Intervenções de Reabilitação Cardiovascular em Pesso
@@ -1793,7 +1794,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-monica-alexandra-da-costa-abreu-carque-8f6ce-2027
  -03-08@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270308
+DTSTART;TZID=Europe/Lisbon:20270308T110000
 SUMMARY:Provas de mestrado de Mónica Alexandra da Costa Abreu Carqueijó 
  — «O uso da oxigenoterapia em doentes nos últimos dias e horas de vida
  : perceção dos profissionais de saúde num internamento hospitalar»
@@ -1827,7 +1828,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-isabel-breda-alves-de-moura-ident-2a2f6-2027
  -03-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270312
+DTSTART;TZID=Europe/Lisbon:20270312T110000
 SUMMARY:Provas de mestrado de Inês Isabel Brêda Alves de Moura — "Ident
  ificação das necessidades em Cuidados Paliativos pelos médicos dos Cuid
  ados de Saúde Primários
@@ -1840,7 +1841,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-adriana-filipa-barradas-da-graca-rodri-9c8cf-2027
  -03-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270316
+DTSTART;TZID=Europe/Lisbon:20270316T110000
 SUMMARY:Provas de mestrado de Adriana Filipa Barradas da Graça Rodrigues 
  — Intervenção Nutricional Perioperatória em Cirurgia Eletiva Colorret
  al: Implementação da Metodologia ERAS® em Contexto Hospitalar
@@ -1853,7 +1854,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-carolina-maria-henriques-gouveia-compo-863f4-2027
  -03-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270318
+DTSTART;TZID=Europe/Lisbon:20270318T110000
 SUMMARY:Provas de mestrado de Carolina Maria Henriques Gouveia — Comporta
  mentos alimentares perturbados em contexto de consulta de nutrição
 LOCATION:Faculdade de Medicina da Universidade de Lisboa
@@ -2011,7 +2012,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-sofia-casimiro-teixeira-duarte-necessi-28bec-2027
  -04-08@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270408
+DTSTART;TZID=Europe/Lisbon:20270408T110000
 SUMMARY:Provas de mestrado de Sofia Casimiro Teixeira Duarte — «Necessid
  ades de cuidados paliativos e prevalência de sintomas em doentes instituc
  ionalizados numa unidade de longa duração»
@@ -2067,7 +2068,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-marta-isabel-martins-gomes-a-escassez-3065f-2027-
  04-09@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270409
+DTSTART;TZID=Europe/Lisbon:20270409T110000
 SUMMARY:Provas de mestrado de Marta Isabel Martins Gomes — «A escassez d
  e tempo como limitação à prática de Enfermagem numa Unidade de Cuidado
  s Paliativos»

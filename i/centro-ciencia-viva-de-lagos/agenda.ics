@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:portas-abertas-entrada-gratuita-no-centro-ciencia-viva-de-la-2cf14-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Portas abertas: Entrada gratuita no Centro Ciência Viva de Lagos!
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
 DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 UID:passeio-cientifico-a-vida-no-barranco-do-demo-festival-de-ca-2cf14-2026
  -11-28@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261128
+DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: A vida no Barranco do Demo - Festival de Camin
  hadas de Monchique
 LOCATION:Centro Ciência Viva de Lagos\, Monchique
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 UID:passeio-cientifico-as-plantas-das-caldas-festival-de-caminha-2cf14-2026
  -11-28@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261128
+DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: As Plantas das Caldas - Festival de Caminhadas
   de Monchique
 LOCATION:Centro Ciência Viva de Lagos\, Monchique
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 UID:workshop-do-digital-ao-3d-da-vida-aos-fosseis-2cf14-2026-11-29@lagenda.
  pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261129
+DTSTART;TZID=Europe/Lisbon:20261129T180000
 SUMMARY:Workshop: Do digital ao 3D – Dá vida aos fósseis
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
 DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog

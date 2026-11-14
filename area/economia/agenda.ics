@@ -363,7 +363,7 @@ BEGIN:VEVENT
 UID:utilizacao-da-plataforma-de-gestao-documental-edoc-4d01c-2026-11-18@lag
  enda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:Utilização da plataforma de Gestão Documental EDOC
 LOCATION:NFC - Núcleo de Formação Contínua\, Portalegre
 DESCRIPTION:https://nfc.ipportalegre.pt/agenda/utilizacao-da-plataforma-de-
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 UID:conferencia-terceiro-setor-novos-desafios-novas-respostas-fbd99-2026-11
  -20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T141500
 SUMMARY:Conferência - Terceiro Setor: Novos Desafios\, Novas Respostas
 LOCATION:Centro de Arte e Cultura\, Évora
 DESCRIPTION:https://www.fea.pt/agenda/detalhes/conferencia-terceiro-setor-n
@@ -641,7 +641,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xi-simposio-de-organizacao-e-gestao-escolar-b7b14-2026-11-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261121
+DTSTART;TZID=Europe/Lisbon:20261121T155200
 SUMMARY:XI Simpósio de Organização e Gestão Escolar
 LOCATION:Centro de Investigação em Educação\, Braga
 DESCRIPTION:https://cied.uminho.pt/evento-cientifico/xi-simposio-de-organiz
@@ -966,7 +966,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-yassine-bassoumi-plataforma-de-gestao-1b183-2026-
  11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T143000
 SUMMARY:Provas de mestrado de Yassine Bassoumi — Plataforma de Gestão de
   Tarefas de Colaboradores
 LOCATION:Instituto Politécnico de Bragança\, Bragança
@@ -1180,7 +1180,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-mario-antonio-marinho-de-sousa-desenvo-1b183-2026
  -12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T143000
 SUMMARY:Provas de mestrado de Mário António Marinho de Sousa — Desenvol
  vimento de um Sistema Inteligente para Gestão de Agendamentos na Saúde
 LOCATION:Instituto Politécnico de Bragança\, Bragança
@@ -1293,7 +1293,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-peter-aloysius-galvao-healion-plano-de-60399-2026
  -12-10@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261210
+DTSTART;TZID=Europe/Lisbon:20261210T090000
 SUMMARY:Provas de mestrado de Peter Aloysius Galvão Healion — Plano de n
  egócios sustentável para uma escola de surf ecológica em São Miguel
 LOCATION:Universidade dos Açores\, Ponta Delgada
@@ -1646,7 +1646,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ilda-de-fatima-cumba-tati-analise-econ-fa539-2027
  -02-02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270202
+DTSTART;TZID=Europe/Lisbon:20270202T110000
 SUMMARY:Provas de mestrado de Ilda de Fátima Cumba Tati — Análise Econ
  ómica da Reabilitação Cardiovascular: Revisão Narrativa
 LOCATION:Faculdade de Medicina da Universidade de Lisboa

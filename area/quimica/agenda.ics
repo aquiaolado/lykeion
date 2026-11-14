@@ -202,7 +202,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-bioquimica-medica-understanding-an-ccc88-2026
  -12-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T110000
 SUMMARY:Provas de doutoramento de Bioquímica Médica — “Understanding 
  and inhibiting flaviviruses capsid proteins to develop new drugs against d
  engue and Zika viruses
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-bioquimica-medica-innovative-contr-cd6fc-2027
  -03-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270304
+DTSTART;TZID=Europe/Lisbon:20270304T110000
 SUMMARY:Provas de doutoramento de Bioquímica Médica — “Innovative con
  tributions towards therapeutic strategies for metastatic breast cancer tre
  atment

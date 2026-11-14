@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:bastonria-xix-congresso-nacional-da-apfh-4e2d1-2026-11-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T180000
 SUMMARY:Baston – ria - XIX Congresso Nacional da APFH
 LOCATION:Ordem dos Nutricionistas\, Porto
 DESCRIPTION:https://www.ordemdosnutricionistas.pt/agenda.php
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:bastonria-congresso-regional-dos-psiclogos-da-madeira-2026-p-f3ca6-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Baston – ria - Congresso Regional dos Psic – logos da Madeira 2
  026: Psicologia e Trauma: Da Ferida – Reconstru –…
 LOCATION:Ordem dos Nutricionistas\, Porto

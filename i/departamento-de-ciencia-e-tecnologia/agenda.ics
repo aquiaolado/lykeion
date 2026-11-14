@@ -21,7 +21,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-bb4a7-2026-11-18@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-4346e-2026-11-19@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-f4a7f-2026-11-20@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/xi-congresso-mundial-de-infancia-e-ju
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-delloite-a37cd-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T093000
 SUMMARY:Open Day Delloite
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/open-day-delloite/
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-concorrencia-casos-reais-2ef47-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T163000
 SUMMARY:Webinar “Concorrência: Casos Reais
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/webinar-concorrencia-casos-reais-4/
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:talk-ai-and-human-judgement-0aeb0-2026-11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T111000
 SUMMARY:Talk “AI and Human Judgement
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/talk-ai-and-human-judgement/
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 UID:aula-aberta-desenvolvimento-da-linguagem-sinais-de-alerta-e-e2bd8-2026-
  12-03@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T160000
 SUMMARY:Aula Aberta “Desenvolvimento da Linguagem\, Sinais de Alerta e In
  tervenção Interdisciplinar em Contextos Socioeducativos
 LOCATION:Departamento de Ciência e Tecnologia\, Porto

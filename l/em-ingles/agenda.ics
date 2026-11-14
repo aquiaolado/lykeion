@@ -73,7 +73,7 @@ BEGIN:VEVENT
 UID:cmu-portugal-info-session-how-to-apply-for-the-2027-calls-fo-eff83-2026
  -11-15@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261115
+DTSTART;TZID=Europe/Lisbon:20261115T160000
 SUMMARY:CMU Portugal Info Session: “How to Apply for the 2027 Calls for M
  obility Initiatives
 LOCATION:Carnegie Mellon Portugal
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 UID:roundtable-discussion-alfa-movement-student-brigades-for-wor-bfe7c-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T150000
 SUMMARY:Roundtable Discussion. Alfa Movement Student Brigades for Work and 
  Literacy: 50 Years
 LOCATION:Centro de Estudos Interdisciplinares em Educação e Desenvolvimen
@@ -664,19 +664,6 @@ URL:https://lykeion.pt/e/conferencia-socialist-yugoslavia-all-year-yound-a-
  sketch-of-075ef.html
 END:VEVENT
 BEGIN:VEVENT
-UID:continue-reading-insipack-ii-2026-international-conference-o-e6934-2026
- -11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Continue reading... : INSIPACK II 2026 – International Conference
-  on Safety and Innovation in Food Packaging
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/insipack-ii-2026-international-confe
- rence-on-safety-and-innovation-in-food-packaging/
-URL:https://lykeion.pt/e/continue-reading-insipack-ii-2026-international-co
- nference-o-e6934.html
-END:VEVENT
-BEGIN:VEVENT
 UID:fit-for-recovery-and-transition-5afcf-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T160000
@@ -684,6 +671,20 @@ SUMMARY:Fit for recovery and transition
 LOCATION:Centro de Informação Europeia Jacques Delors
 DESCRIPTION:https://eurocid.mne.gov.pt/eventos/fit-recovery-and-transition
 URL:https://lykeion.pt/e/fit-for-recovery-and-transition-5afcf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:insipack-ii-international-conference-on-safety-and-innovatio-12c7d-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T170000
+SUMMARY:InSIPack II – International Conference on Safety and Innovation i
+ n Food Packaging 2026
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/insipack-ii-inte
+ rnational-conference-safety-and-innovation-food-packaging-2026
+URL:https://lykeion.pt/e/insipack-ii-international-conference-on-safety-and
+ -innovatio-12c7d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-class-subverting-the-grammar-of-teen-dramas-buffy-the-v-27f26-2026

@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:aula-aberta-no-ambito-da-uc-desafios-atuais-em-engenharia-al-d9a21-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T100000
 SUMMARY:Aula Aberta no âmbito da UC «Desafios Atuais em Engenharia Alimen
  tar» do Mestrado em Engenharia Alimentar
 LOCATION:Universidade de Coimbra
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-kilsan-da-rosa-antonio-associacao-entr-6edab-2026
  -12-05@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261205
+DTSTART;TZID=Europe/Lisbon:20261205T110000
 SUMMARY:Provas de mestrado de Kilsan da Rosa António — Associação entr
  e a microbiota intestinal e o comportamento alimentar descontrolado em mul
  heres com obesidade e síndrome dos ovários policísticos
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-simoes-alves-transicao-na-menopau-a5cad-2026
  -12-19@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261219
+DTSTART;TZID=Europe/Lisbon:20261219T110000
 SUMMARY:Provas de mestrado de Inês Simões Alves — Transição na menopa
  usa: caracterização do padrão alimentar
 LOCATION:Faculdade de Medicina da Universidade de Lisboa
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-carolina-maria-henriques-gouveia-compo-863f4-2027
  -03-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270318
+DTSTART;TZID=Europe/Lisbon:20270318T110000
 SUMMARY:Provas de mestrado de Carolina Maria Henriques Gouveia — Comporta
  mentos alimentares perturbados em contexto de consulta de nutrição
 LOCATION:Faculdade de Medicina da Universidade de Lisboa

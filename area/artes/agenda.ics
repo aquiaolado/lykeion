@@ -129,7 +129,7 @@ BEGIN:VEVENT
 UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
  11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T180100
 SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
  , em torno da obra de José Leite de Vasconcelos (1858-1941)
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-14@la
  genda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T103000
 SUMMARY:Exposição «Reinterpretações: da Escrita à Sétima Arte»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
@@ -244,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-e4318-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T170000
 SUMMARY:Exposição · Faculdade de Belas Artes da Universidade do Porto
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -711,7 +711,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a-conversa-com-charlotte-corderoy-c57da-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T163000
 SUMMARY:À conversa com... Charlotte Corderoy
 LOCATION:Fundação Calouste Gulbenkian\, Avenidas Novas
 DESCRIPTION:https://gulbenkian.pt/agenda/a-conversa-com-charlotte-corderoy/
@@ -962,7 +962,7 @@ BEGIN:VEVENT
 UID:conferencia-terceiro-setor-novos-desafios-novas-respostas-fbd99-2026-11
  -20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T141500
 SUMMARY:Conferência - Terceiro Setor: Novos Desafios\, Novas Respostas
 LOCATION:Centro de Arte e Cultura\, Évora
 DESCRIPTION:https://www.fea.pt/agenda/detalhes/conferencia-terceiro-setor-n
@@ -1028,7 +1028,7 @@ BEGIN:VEVENT
 UID:conferencia-redinha-na-terceira-invasao-francesa-1810-1811-3c7f4-2026-1
  1-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261121
+DTSTART;TZID=Europe/Lisbon:20261121T113900
 SUMMARY:Conferência: Redinha na Terceira Invasão Francesa (1810-1811)
 LOCATION:Junta de Freguesia da Redinha\, Pombal
 DESCRIPTION:https://www.cm-pombal.pt/visitar/eventos/evento-71/conferencia-

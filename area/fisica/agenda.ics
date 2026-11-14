@@ -279,7 +279,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-goncalo-rebelo-abrantes-pires-estagio-a0700-2026-
  12-12@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261212
+DTSTART;TZID=Europe/Lisbon:20261212T110000
 SUMMARY:Provas de mestrado de Gonçalo Rebelo Abrantes Pires — Estágio n
  um Programa de Reabilitação Cardiovascular fase III: da avaliação à p
  rescrição de exercício físico
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-antonio-da-conceicao-pedro-pais-a-d74a8-2027
  -02-13@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20270213
+DTSTART;TZID=Europe/Lisbon:20270213T110000
 SUMMARY:Provas de mestrado de João António da Conceição Pedro Pais — 
  Avaliação multidimensional de um programa de exercício físico personal
  izado em modalidade home-based baseado no Vivifrail em doentes submet

@@ -479,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-concorrencia-casos-reais-2ef47-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T163000
 SUMMARY:Webinar “Concorrência: Casos Reais
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/webinar-concorrencia-casos-reais-4/

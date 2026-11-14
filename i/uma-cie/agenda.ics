@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xi-simposio-de-organizacao-e-gestao-escolar-b7b14-2026-11-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261121
+DTSTART;TZID=Europe/Lisbon:20261121T155200
 SUMMARY:XI Simpósio de Organização e Gestão Escolar
 LOCATION:Centro de Investigação em Educação\, Braga
 DESCRIPTION:https://cied.uminho.pt/evento-cientifico/xi-simposio-de-organiz

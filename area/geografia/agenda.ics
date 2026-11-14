@@ -612,7 +612,7 @@ BEGIN:VEVENT
 UID:provas-de-agregacao-de-sergio-paulo-avila-campos-marques-o-m-12fc9-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:Provas de agregação de Sérgio Paulo Ávila Campos Marques — O 
  modelo dinâmico sensível ao nível do mar (SLS) da biogeografia insular 
  marinha.
@@ -915,7 +915,7 @@ BEGIN:VEVENT
 UID:provas-de-agregacao-de-rui-alexandre-marcal-dias-castanho-te-0e424-2026
  -12-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T090000
 SUMMARY:Provas de agregação de Rui Alexandre Marçal Dias Castanho — Te
  rritorialidade Funcional e Integração Transfronteiriça: Fundamentos par
  a um Modelo Integrado de Planeamento Territorial

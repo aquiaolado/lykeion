@@ -495,7 +495,7 @@ BEGIN:VEVENT
 UID:conferencia-redinha-na-terceira-invasao-francesa-1810-1811-3c7f4-2026-1
  1-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261121
+DTSTART;TZID=Europe/Lisbon:20261121T113900
 SUMMARY:Conferência: Redinha na Terceira Invasão Francesa (1810-1811)
 LOCATION:Junta de Freguesia da Redinha\, Pombal
 DESCRIPTION:https://www.cm-pombal.pt/visitar/eventos/evento-71/conferencia-

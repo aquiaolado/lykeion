@@ -30,7 +30,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Madalena 
  Teixeira Custódio
 LOCATION:Departamento de Física da NOVA FCT\, Almada
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Madalena 
  Teixeira Custódio
 LOCATION:Departamento de Física da NOVA FCT\, Almada

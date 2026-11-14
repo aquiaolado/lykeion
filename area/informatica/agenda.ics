@@ -434,7 +434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:talk-ai-and-human-judgement-0aeb0-2026-11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T111000
 SUMMARY:Talk “AI and Human Judgement
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/talk-ai-and-human-judgement/
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-emanuel-antunes-santos-agentes-d-1b183-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T143000
 SUMMARY:Provas de mestrado de Diogo Emanuel Antunes Santos — Agentes de I
  A para automatização de fluxos de trabalho na área da formação profis
  sional
@@ -547,7 +547,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-jemal-samba-rumo-a-uma-ferramenta-inte-1b183-2026
  -12-02@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTART;TZID=Europe/Lisbon:20261202T143000
 SUMMARY:Provas de mestrado de Jemal Samba — Rumo a uma Ferramenta Intelig
  ente para uma Cibersegurança Holística
 LOCATION:Instituto Politécnico de Bragança\, Bragança

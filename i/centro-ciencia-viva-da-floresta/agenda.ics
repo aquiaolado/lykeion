@@ -28,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pinheiros-de-natal-gratuitos-e3c77-2026-12-01@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261201
+DTSTART;TZID=Europe/Lisbon:20261201T183000
 SUMMARY:Pinheiros de Natal Gratuitos
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
 DESCRIPTION:https://www.ccvfloresta.com/distribuicao-gratuita-de-pinheiros-
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 UID:distribuicao-gratuita-de-pinheiros-de-natal-provenientes-de-6d0da-2026-
  12-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261221
+DTSTART;TZID=Europe/Lisbon:20261221T183000
 SUMMARY:Distribuição gratuita de pinheiros de Natal (provenientes de desb
  astes)
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova

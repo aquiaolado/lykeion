@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Madalena 
  Teixeira Custódio
 LOCATION:Departamento de Física da NOVA FCT\, Almada
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Madalena 
  Teixeira Custódio
 LOCATION:Departamento de Física da NOVA FCT\, Almada
@@ -224,6 +224,20 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/scopus-e-integra
  cao-com-ia-referencias-citacoes-e-nova-pesquisa-em-linguagem-natural
 URL:https://lykeion.pt/e/a-scopus-e-a-integracao-com-a-ia-referencias-citac
  oes-e-a-no-91201.html
+END:VEVENT
+BEGIN:VEVENT
+UID:insipack-ii-international-conference-on-safety-and-innovatio-12c7d-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T170000
+SUMMARY:InSIPack II – International Conference on Safety and Innovation i
+ n Food Packaging 2026
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/insipack-ii-inte
+ rnational-conference-safety-and-innovation-food-packaging-2026
+URL:https://lykeion.pt/e/insipack-ii-international-conference-on-safety-and
+ -innovatio-12c7d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:novel-therapeutic-approaches-bridging-research-and-implement-c7bf4-2026

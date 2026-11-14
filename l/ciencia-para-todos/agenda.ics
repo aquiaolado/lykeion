@@ -141,7 +141,7 @@ BEGIN:VEVENT
 UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
  11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T180100
 SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
  , em torno da obra de José Leite de Vasconcelos (1858-1941)
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-14@la
  genda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T103000
 SUMMARY:Exposição «Reinterpretações: da Escrita à Sétima Arte»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
@@ -268,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-e4318-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T170000
 SUMMARY:Exposição · Faculdade de Belas Artes da Universidade do Porto
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -691,7 +691,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3-a-semana-da-ciencia-a9a7c-2026-11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T114300
 SUMMARY:3.ª Semana da Ciência
 LOCATION:Ponte de Lima\, Ponte de Lima
 DESCRIPTION:https://www.cm-pontedelima.pt/municipio/comunicacao/eventos/eve
@@ -840,7 +840,7 @@ BEGIN:VEVENT
 UID:dia-nacional-da-cultura-cientifica-24-novembro-10h00-centro-d83aa-2026-
  11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T100000
 SUMMARY:Dia Nacional da Cultura Científica 24 novembro 10h00 Centro Ciênc
  ia Viva de Lagos
 LOCATION:Lagos\, Lagos
@@ -932,7 +932,7 @@ BEGIN:VEVENT
 UID:portas-abertas-entrada-gratuita-no-centro-ciencia-viva-de-la-2cf14-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Portas abertas: Entrada gratuita no Centro Ciência Viva de Lagos!
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
 DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
@@ -1133,7 +1133,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-delloite-a37cd-2026-11-25@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T093000
 SUMMARY:Open Day Delloite
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/open-day-delloite/
@@ -1448,7 +1448,7 @@ BEGIN:VEVENT
 UID:passeio-cientifico-a-vida-no-barranco-do-demo-festival-de-ca-2cf14-2026
  -11-28@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261128
+DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: A vida no Barranco do Demo - Festival de Camin
  hadas de Monchique
 LOCATION:Centro Ciência Viva de Lagos\, Monchique
@@ -1461,7 +1461,7 @@ BEGIN:VEVENT
 UID:passeio-cientifico-as-plantas-das-caldas-festival-de-caminha-2cf14-2026
  -11-28@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261128
+DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: As Plantas das Caldas - Festival de Caminhadas
   de Monchique
 LOCATION:Centro Ciência Viva de Lagos\, Monchique
@@ -1557,7 +1557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pinheiros-de-natal-gratuitos-e3c77-2026-12-01@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261201
+DTSTART;TZID=Europe/Lisbon:20261201T183000
 SUMMARY:Pinheiros de Natal Gratuitos
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
 DESCRIPTION:https://www.ccvfloresta.com/distribuicao-gratuita-de-pinheiros-
@@ -1664,7 +1664,7 @@ BEGIN:VEVENT
 UID:distribuicao-gratuita-de-pinheiros-de-natal-provenientes-de-6d0da-2026-
  12-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261221
+DTSTART;TZID=Europe/Lisbon:20261221T183000
 SUMMARY:Distribuição gratuita de pinheiros de Natal (provenientes de desb
  astes)
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova

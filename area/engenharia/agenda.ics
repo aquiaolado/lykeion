@@ -186,7 +186,7 @@ BEGIN:VEVENT
 UID:aula-aberta-no-ambito-da-uc-desafios-atuais-em-engenharia-al-d9a21-2026
  -11-16@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T100000
 SUMMARY:Aula Aberta no âmbito da UC «Desafios Atuais em Engenharia Alimen
  tar» do Mestrado em Engenharia Alimentar
 LOCATION:Universidade de Coimbra
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
  -11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Madalena 
  Teixeira Custódio
 LOCATION:Departamento de Física da NOVA FCT\, Almada
@@ -954,7 +954,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mad-12fae-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Madalena 
  Teixeira Custódio
 LOCATION:Departamento de Física da NOVA FCT\, Almada

@@ -218,7 +218,7 @@ BEGIN:VEVENT
 UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
  11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T180100
 SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
  , em torno da obra de José Leite de Vasconcelos (1858-1941)
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 UID:exposicao-reinterpretacoes-da-escrita-a-setima-arte-cb00e-2026-11-14@la
  genda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T103000
 SUMMARY:Exposição «Reinterpretações: da Escrita à Sétima Arte»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-reint
@@ -345,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-e4318-2026-11-14@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+DTSTART;TZID=Europe/Lisbon:20261114T170000
 SUMMARY:Exposição · Faculdade de Belas Artes da Universidade do Porto
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -1433,7 +1433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a-conversa-com-charlotte-corderoy-c57da-2026-11-18@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T163000
 SUMMARY:À conversa com... Charlotte Corderoy
 LOCATION:Fundação Calouste Gulbenkian\, Avenidas Novas
 DESCRIPTION:https://gulbenkian.pt/agenda/a-conversa-com-charlotte-corderoy/
@@ -1835,7 +1835,7 @@ BEGIN:VEVENT
 UID:conferencia-terceiro-setor-novos-desafios-novas-respostas-fbd99-2026-11
  -20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T141500
 SUMMARY:Conferência - Terceiro Setor: Novos Desafios\, Novas Respostas
 LOCATION:Centro de Arte e Cultura\, Évora
 DESCRIPTION:https://www.fea.pt/agenda/detalhes/conferencia-terceiro-setor-n
@@ -2094,7 +2094,7 @@ BEGIN:VEVENT
 UID:conferencia-redinha-na-terceira-invasao-francesa-1810-1811-3c7f4-2026-1
  1-21@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261121
+DTSTART;TZID=Europe/Lisbon:20261121T113900
 SUMMARY:Conferência: Redinha na Terceira Invasão Francesa (1810-1811)
 LOCATION:Junta de Freguesia da Redinha\, Pombal
 DESCRIPTION:https://www.cm-pombal.pt/visitar/eventos/evento-71/conferencia-
@@ -2443,7 +2443,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-isabel-nunes-monteiro-dificuldades-edbfc-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de Ana Isabel Nunes Monteiro — Dificuldades pe
  rcecionadas pelos enfermeiros no transporte inter-hospitalar da Pessoa em 
  Situação Crítica: Um estudo Descritivo e Correlacional
@@ -2457,7 +2457,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-fernando-jorge-dos-santos-silva-dias-m-edbfc-2026
  -11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de Fernando Jorge dos Santos Silva Dias — Mest
  rado: Mestrado em Enfermagem Médico‐Cirúrgica na área de Enfermagem 
  à Pessoa em Situação Crítica
@@ -2471,7 +2471,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-pedro-azevedo-cerqueira-mestrado-edbfc-2026-
  11-23@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de João Pedro Azevedo Cerqueira — Mestrado: M
  estrado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pesso
  a em Situação Crítica
@@ -3123,7 +3123,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-duarte-perestrelo-ribeiro-joga-39daa-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T155200
 SUMMARY:Provas de Mestrado de Beatriz Duarte Perestrelo Ribeiro «Jogar ent
  re dados e palavras: O impacto de estratégias gamificadas na retenção e
   expansão de vocabulário em alunos do 9.º ano de Português e In
@@ -3179,7 +3179,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-cristiana-maria-louro-rolao-de-carvalh-eb48d-2026
  -11-26@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Provas de mestrado de Cristiana Maria Louro Rolão de Carvalho — 
  Tradução\, adaptação cultural e validação da “P-CaRES” para port
  uguês europeu
@@ -3240,7 +3240,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-paulo-simao-martinho-sousa-mestrado-me-edbfc-2026
  -11-27@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Provas de mestrado de Paulo Simão Martinho Sousa — Mestrado: Mes
  trado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pessoa 
  em Situação Crítica
@@ -3820,7 +3820,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-daniela-sofia-cardoso-moreira-da-rocha-1d4c0-2026
  -12-04@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Lisbon:20261204T090000
 SUMMARY:Provas de mestrado de Daniela Sofia Cardoso Moreira da Rocha — Os
   Superpoderes da filosofia para crianças: o lúdico como trampolim para a
   liberdade para pensar

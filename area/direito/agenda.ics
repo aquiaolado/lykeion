@@ -803,7 +803,7 @@ BEGIN:VEVENT
 UID:aula-aberta-promover-criancas-ativas-autonomas-e-com-direito-bf0ed-2026
  -11-24@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Aula Aberta: Promover crianças ativas\, autónomas e com direitos:
   Eu consigo!
 LOCATION:Observatório da Formação e da Educação Inclusiva (OFEI)\, Por

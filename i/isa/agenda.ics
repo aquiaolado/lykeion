@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:instituto-superior-de-agronomia-acolhe-workshop-sobre-a-abor-a058b-2026
  -11-20@lagenda.pt
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T173000
 SUMMARY:Instituto Superior de Agronomia acolhe Workshop sobre a abordagem m
  ultiator no Horizonte Europa
 LOCATION:Instituto Superior de Agronomia
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-a9931-2026-11-25@lagenda.p
  t
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T170000
 SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA
 LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
 DESCRIPTION:https://www.isa.ulisboa.pt/evento/vi-coloquio-sobre-ensino-apre
