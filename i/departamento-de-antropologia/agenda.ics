@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Antropologia (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:encontro-arte-para-a-infancia-e-desenvolvimento-social-e-hum-9684e-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T083000
+SUMMARY:Encontro: Arte para a Infância e Desenvolvimento Social e Humano
+LOCATION:Departamento de Antropologia
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/xvi-encontro-internacional-arte
+ -para-a-infancia-e-desenvolvimento-social-e-humano/
+URL:https://lykeion.pt/e/encontro-arte-para-a-infancia-e-desenvolvimento-so
+ cial-e-hum-9684e.html
+END:VEVENT
+END:VCALENDAR

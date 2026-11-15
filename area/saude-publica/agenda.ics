@@ -232,7 +232,7 @@ BEGIN:VEVENT
 UID:gea-17-11-26-prova-de-doutoramento-ec96a-2026-11-17@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261117
-SUMMARY:Prova de doutoramento Carlos Jorge Castilho rabaça Correia Cordeir
+SUMMARY:Prova de doutoramento Carlos Jorge Castilho Rabaça Correia Cordeir
  o
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-car
@@ -273,6 +273,53 @@ LOCATION:Universidade Fernando Pessoa\, Porto
 DESCRIPTION:https://www.ufp.pt/defesas-de-dissertacao-de-mestrado/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-bernardo-de-lima-ferreira-ps
  icologia-c-9dccd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ilidia-gomes-magalhaes-comportamento-i-af511-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T093000
+SUMMARY:Provas de mestrado de Ilídia Gomes Magalhães — Comportamento in
+ ovador em saúde: o papel dos estilos de liderança\, autonomia profission
+ al e o humor do líder
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6168
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ilidia-gomes-magalhaes-compo
+ rtamento-i-af511.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-isa-andrea-canelas-costa-o-comportamen-e6f8b-2026
+ -11-17@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T110000
+SUMMARY:Provas de mestrado de Isa Andrea Canelas Costa — O comportamento 
+ intraempreendedor dos médicos dentistas do serviço nacional de saúde no
+  interior de portugal: o papel da resiliência e da satisfação…
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6086
+URL:https://lykeion.pt/e/provas-de-mestrado-de-isa-andrea-canelas-costa-o-c
+ omportamen-e6f8b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:saude-mental-workshop-metodos-de-estudo-fdccf-2026-11-17@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T140000
+SUMMARY:Saúde Mental | Workshop “Métodos de Estudo
+LOCATION:Instituto Politécnico de Setúbal\, Setúbal
+DESCRIPTION:https://www.unips.pt/eventos/saude-mental-workshop-metodos-de-e
+ studo/
+URL:https://lykeion.pt/e/saude-mental-workshop-metodos-de-estudo-fdccf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:10-o-ciclo-de-workshops-sobre-08b91-2026-11-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:10.º Ciclo de Workshops sobre...
+LOCATION:Universidade Lusíada
+DESCRIPTION:https://news.ulusiada.pt/Home/Detalhe/Detalhes/10186-ciclo-de-w
+ orkshops-sobre-desenvolvimento-de-soft-skills-workshop-2-abordagem-e-m233t
+ odos-de-estudo
+URL:https://lykeion.pt/e/10-o-ciclo-de-workshops-sobre-08b91.html
 END:VEVENT
 BEGIN:VEVENT
 UID:1o-congresso-internacional-de-acupuntura-97975-2026-11-18@lagenda.pt
@@ -323,6 +370,19 @@ DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/provas-de-agregacao-em-cienc
  ias-da-saude-ramo-de-medicina-do-doutor-joaquim-manuel-soares-cerejeira/
 URL:https://lykeion.pt/e/18-11-26-provas-de-agregacao-de-joaquim-manuel-soa
  res-cereje-3c526.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-agregacao-de-joaquim-manuel-soares-cerejeira-cienc-bb06b-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de agregação de Joaquim Manuel Soares Cerejeira — Ciênc
+ ias da Saúde\, ramo de Medicina (FMUC)
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://calendar.google.com/calendar/ical/provas.academicas%40g
+ mail.com/public/basic.ics
+URL:https://lykeion.pt/e/provas-de-agregacao-de-joaquim-manuel-soares-cerej
+ eira-cienc-bb06b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-flavia-mota-araujo-acesso-a-habita-d39dd-2026
@@ -453,19 +513,6 @@ DESCRIPTION:https://sigarra.up.pt/fcnaup/pt/noticias_geral.ver_noticia?P_NR
 URL:https://lykeion.pt/e/a-conversa-com-marion-nestle-a20e8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:clube-de-leitura-debate-novo-livro-sobre-bem-estar-nas-organ-7a5a7-2026
- -11-19@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T130000
-SUMMARY:Clube de Leitura debate novo livro sobre bem-estar nas organizaçõ
- es
-LOCATION:Instituto Politécnico de Setúbal\, Setúbal
-DESCRIPTION:https://www.unips.pt/eventos/clube-de-leitura-debate-novo-livro
- -sobre-bem-estar-nas-organizacoes/
-URL:https://lykeion.pt/e/clube-de-leitura-debate-novo-livro-sobre-bem-estar
- -nas-organ-7a5a7.html
-END:VEVENT
-BEGIN:VEVENT
 UID:hitech-2027-information-session-at-i3s-a4156-2026-11-19@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T143000
@@ -536,6 +583,19 @@ LOCATION:Escola Superior de Enfermagem de Lisboa
 DESCRIPTION:https://enfermagem.ulisboa.pt/provasacademicas
 URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-pereira-ferreira-pr
  evencao-de-8f271.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ines-carmo-dos-santos-estigma-em-saude-46c52-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Provas de mestrado de Inês Carmo Dos Santos — Estigma em Saúde 
+ Mental: Estereótipos\, Distanciamento Social e Discriminação entre Adul
+ tos Portugueses
+LOCATION:Universidade Lusófona
+DESCRIPTION:https://www.ulusofona.pt/teses
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-carmo-dos-santos-estigm
+ a-em-saude-46c52.html
 END:VEVENT
 BEGIN:VEVENT
 UID:continue-reading-viver-saudavel-nutrition-summit-exhibition-e9482-2026-
@@ -697,6 +757,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-carlota-sofia-cabral-guedes-
  a-percecao-4dc8b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-agregacao-de-joao-carlos-gomes-silva-ribeiro-cienc-f7a0e-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Provas de agregação de João Carlos Gomes Silva Ribeiro — Ciên
+ cias da Saúde\, ramo de Medicina (FMUC)
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://calendar.google.com/calendar/ical/provas.academicas%40g
+ mail.com/public/basic.ics
+URL:https://lykeion.pt/e/provas-de-agregacao-de-joao-carlos-gomes-silva-rib
+ eiro-cienc-f7a0e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-filipa-pinto-conde-ribau-psicologia-cl-a79e2-2026
  -11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -708,6 +781,19 @@ LOCATION:Centro de Investigação em Ciência Psicológica
 DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-filipa-pinto-conde-ribau-psi
  cologia-cl-a79e2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-luciano-jose-moreira-ferreira-dormir-b-d253d-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T143000
+SUMMARY:Provas de mestrado de Luciano José Moreira Ferreira — Dormir bem
+ \, crescer melhor - projeto de intervenção comunitária para a promoçã
+ o da saúde do sono em crianças do ensino pré-escolar
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6121
+URL:https://lykeion.pt/e/provas-de-mestrado-de-luciano-jose-moreira-ferreir
+ a-dormir-b-d253d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:semana-c-t-2026-vamos-falar-sobre-emocoes-workshop-para-pais-4c31b-2026
@@ -749,6 +835,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-vivien-merciel-verissimo-de-
  suarez-apa-2bda8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-rita-da-rocha-oliveira-envolviment-ae2c7-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T140000
+SUMMARY:Provas de mestrado de Ana Rita da Rocha Oliveira — Envolvimento d
+ o pai no nascimento\, perceções dos enfermeiros especialistas em enferma
+ gem de saúde materna e obstétrica
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6111
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-rita-da-rocha-oliveira-e
+ nvolviment-ae2c7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-rua-titulo-do-trabalho-estrategia-0327a-2026
  -11-24@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -760,6 +859,19 @@ LOCATION:Escola Superior de Comunicação Social
 DESCRIPTION:https://www.escs.upl.pt/provas-publicas-mestrado
 URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-rua-titulo-do-trabalho-
  estrategia-0327a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-manuela-da-conceicao-oliveira-alves-av-d5566-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T143000
+SUMMARY:Provas de mestrado de Manuela da Conceição Oliveira Alves — Ava
+ liação de bem-estar animal em bovinos de leite baseada no protocolo welf
+ are quality
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6156
+URL:https://lykeion.pt/e/provas-de-mestrado-de-manuela-da-conceicao-oliveir
+ a-alves-av-d5566.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sofia-chen-xu-adesao-e-satisfacao-da-p-efd30-2026
@@ -865,6 +977,19 @@ URL:https://lykeion.pt/e/prova-de-mestrado-em-educacao-para-a-saude-c7e45.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-agregacao-de-joao-manuel-garcia-do-nascimento-grav-4a7c4-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de agregação de João Manuel Garcia do Nascimento Graveto 
+ — Enfermagem
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://calendar.google.com/calendar/ical/provas.academicas%40g
+ mail.com/public/basic.ics
+URL:https://lykeion.pt/e/provas-de-agregacao-de-joao-manuel-garcia-do-nasci
+ mento-grav-4a7c4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-netto-mestrado-em-nutrica-1f587-2026
  -11-25@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -913,6 +1038,19 @@ LOCATION:Centro de Investigação em Ciência Psicológica
 DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-isabel-santa-barbara-cavalca
  nti-de-mou-905b8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-mara-miranda-pitrez-ferreira-criativid-e5507-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T100000
+SUMMARY:Provas de mestrado de Mara Miranda Pitrez Ferreira — Criatividade
+  e comportamento inovador dos profissionais de saúde: o papel da satisfa
+ ção sexual e do bem-estar
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6139
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mara-miranda-pitrez-ferreira
+ -criativid-e5507.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-ambiente-e-saude-global-108f8-2026-11-25@lagenda.pt
@@ -1083,6 +1221,19 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-ariana-isabel-perez-pere
  ira-enanti-dcf85.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-andreia-daniela-goncalves-da-silva-int-acf30-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T143000
+SUMMARY:Provas de mestrado de Andreia Daniela Gonçalves da Silva — Inter
+ venção psicomotora\, saúde mental e desempenho cognitivo em idosos inst
+ itucionalizados
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6092
+URL:https://lykeion.pt/e/provas-de-mestrado-de-andreia-daniela-goncalves-da
+ -silva-int-acf30.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-elsa-marinela-alves-carreiro-conhecime-c3f3c-2026
  -11-26@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1167,6 +1318,20 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
 URL:https://lykeion.pt/e/prova-de-mestrado-em-saude-publica-64535.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-beatriz-isabel-tenreira-sanches-7130a-2026-11-27@
+ lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Beatriz Isabel Tenreira Sanches: Lic.ª Beatr
+ iz Isabel Tenreira Sanches
+LOCATION:Universidade Lusíada
+DESCRIPTION:https://news.ulusiada.pt/Home/Detalhe/Detalhes/prova-p250blica-
+ de-mestrado-em-musicoterapia-musicoterapia-e-sa250de-mental-no-adulto-inst
+ itucionalizado-lic170-beatriz-isabel-tenreira-sanches
+URL:https://lykeion.pt/e/provas-de-mestrado-de-beatriz-isabel-tenreira-sanc
+ hes-7130a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-juliana-borges-o-impacto-dos-fatores-p-53751-2026
  -11-27@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1178,6 +1343,18 @@ LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
 DESCRIPTION:https://www.iscac.pt/aluno-a/provas-publicas-de-mestrado/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-juliana-borges-o-impacto-dos
  -fatores-p-53751.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-mariana-luisa-fernandes-neves-o-surf-c-95586-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T143000
+SUMMARY:Provas de mestrado de Mariana Luísa Fernandes Neves — O surf com
+ o intervenção terapêutica na saúde mental dos jovens
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://provas.utad.pt/Home/Detalhes/6113
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-luisa-fernandes-neve
+ s-o-surf-c-95586.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-paulo-simao-martinho-sousa-analise-dos-5dbe4-2026
@@ -1267,6 +1444,19 @@ LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-mar
  ia-de-vasconcelos-cardoso/
 URL:https://lykeion.pt/e/gea-30-11-26-prova-de-doutoramento-6bc2c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-maria-de-vasconcelos-cardoso-progr-5bfc0-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Provas de doutoramento de Maria de Vasconcelos Cardoso — Programa
+  de Doutoramento em Ciências da Saúde\, Ciências Biomédicas (FMUC)
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://calendar.google.com/calendar/ical/provas.academicas%40g
+ mail.com/public/basic.ics
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-maria-de-vasconcelos-car
+ doso-progr-5bfc0.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-mafalda-rolis-gomes-ferreira-faust-088b5-2026
@@ -1665,15 +1855,13 @@ DESCRIPTION:https://essnortecvp.pt/pt/eventos/3o-seminario-enfermagem-e-o-d
 URL:https://lykeion.pt/e/3o-seminario-enfermagem-e-o-direito-aa3d5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aula-aberta-4-garantir-o-bem-estar-no-8556e-2026-12-14@lagenda.pt
+UID:aula-aberta-4-garantir-o-bem-estar-no-667bf-2026-12-14@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Aula aberta #4 — Garantir o bem-estar no...
 LOCATION:CLISSIS\, Vila Nova de Famalicão
-DESCRIPTION:https://web3.lis.ulusiada.pt/news/Home/Detalhe/Detalhes/aula-ab
- erta-4-garantir-o-bem-estar-no-sistema-de-prote231227o-social-portugu234s-
- desafios-para-o-servi231o-social-mestre-cid225lia-craveiro
-URL:https://lykeion.pt/e/aula-aberta-4-garantir-o-bem-estar-no-8556e.html
+DESCRIPTION:https://clissis.ulusiada.pt/category/eventos
+URL:https://lykeion.pt/e/aula-aberta-4-garantir-o-bem-estar-no-667bf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-doutor-claudio-filipe-guerreiro-farias-0c4bd-2026-1
@@ -1980,19 +2168,6 @@ DESCRIPTION:https://essnortecvp.pt/pt/eventos/aula-aberta-transformar-o-sof
  aliativos/
 URL:https://lykeion.pt/e/aula-aberta-transformar-o-sofrimento-novos-caminho
  s-e-organi-169c3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:clube-de-leitura-conversa-com-ana-encarnacao-sobre-saude-res-ab30b-2027
- -01-21@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20270121T130000
-SUMMARY:Clube de Leitura conversa com Ana Encarnação sobre saúde\, resil
- iência e qualidade de vida
-LOCATION:Instituto Politécnico de Setúbal\, Setúbal
-DESCRIPTION:https://www.unips.pt/eventos/clube-de-leitura-conversa-com-ana-
- encarnacao-sobre-saude-resiliencia-e-qualidade-de-vida/
-URL:https://lykeion.pt/e/clube-de-leitura-conversa-com-ana-encarnacao-sobre
- -saude-res-ab30b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21-01-2027-22-01-2027-ii-congresso-internacional-de-enfermag-dd8e7-2027
@@ -2381,18 +2556,6 @@ LOCATION:Sociedade Portuguesa de Disfunção Temporomandibular e Dor Orofac
 DESCRIPTION:https://spdof.pt/workshops-e-congressos/1st-international-spdof
  -meeting-day/
 URL:https://lykeion.pt/e/workshops-e-congressos-17d4f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conferencia-as-mulheres-na-industria-e-o-bem-estar-e13c9-2027-03-26@lag
- enda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20270326T143000
-SUMMARY:Conferência “As Mulheres na Indústria e o Bem-Estar
-LOCATION:Instituto Politécnico de Setúbal\, Setúbal
-DESCRIPTION:https://www.unips.pt/eventos/conferencia-as-mulheres-na-industr
- ia-e-o-bem-estar/
-URL:https://lykeion.pt/e/conferencia-as-mulheres-na-industria-e-o-bem-estar
- -e13c9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:spsp-disponibiliza-novos-cadernos-cientificos-no-ambito-do-e-51c04-2027
