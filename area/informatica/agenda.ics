@@ -6,35 +6,9 @@ X-WR-CALNAME:Informática e Dados (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:deephip-ai-assisted-detection-and-analysis-of-hip-joint-heal-e18ca-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:DeepHip - AI-assisted detection and analysis of hip joint health in
-  community-dwelling adults
-LOCATION:IA&SAÚDE\, Valongo
-DESCRIPTION:https://iasaude.ipsn.cespu.pt/?q=content/deephip-ai-assisted-de
- tection-and-analysis-hip-joint-health-community-dwelling-adults
-URL:https://lykeion.pt/e/deephip-ai-assisted-detection-and-analysis-of-hip-
- joint-heal-e18ca.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ipsn-promove-tres-workshops-de-investigacao-em-formato-webin-fb622-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Lisbon:20261114T180000
-SUMMARY:IPSN promove três workshops de investigação em formato webinar d
- urante o mês de novembro
-LOCATION:Valongo\, Valongo
-DESCRIPTION:https://www.cespu.pt/noticias-e-eventos/2026/11/ipsn-promove-tr
- es-workshops-de-investigacao-em-formato-webinar-durante-o-mes-de-novembro/
-URL:https://lykeion.pt/e/ipsn-promove-tres-workshops-de-investigacao-em-for
- mato-webin-fb622.html
-END:VEVENT
-BEGIN:VEVENT
 UID:a-incd-no-encontro-da-rede-nacional-de-computacao-avancada-9c4c3-2026-1
  1-15@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:A INCD no Encontro da Rede Nacional de Computação Avançada
 LOCATION:Infraestrutura Nacional de Computação Distribuída / Centro Naci
@@ -44,9 +18,22 @@ URL:https://lykeion.pt/e/a-incd-no-encontro-da-rede-nacional-de-computacao-
  avancada-9c4c3.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ipsn-promove-tres-workshops-de-investigacao-em-formato-webin-fb622-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T180000
+SUMMARY:IPSN promove três workshops de investigação em formato webinar d
+ urante o mês de novembro
+LOCATION:Valongo\, Valongo
+DESCRIPTION:https://www.cespu.pt/noticias-e-eventos/2026/11/ipsn-promove-tr
+ es-workshops-de-investigacao-em-formato-webinar-durante-o-mes-de-novembro/
+URL:https://lykeion.pt/e/ipsn-promove-tres-workshops-de-investigacao-em-for
+ mato-webin-fb622.html
+END:VEVENT
+BEGIN:VEVENT
 UID:participacao-online-gratuita-no-simposio-internacional-de-bl-847bc-2026
  -11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Participação online gratuita no Simpósio Internacional de Blockc
  hain e Cibersegurança 2026
@@ -58,7 +45,7 @@ URL:https://lykeion.pt/e/participacao-online-gratuita-no-simposio-internaci
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-e0a2a-2026-11-16@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T113000
 SUMMARY:Prova de Mestrado em Informática Médica
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -68,7 +55,7 @@ URL:https://lykeion.pt/e/prova-de-mestrado-em-informatica-medica-e0a2a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cimeira-apply-ai-bd7b5-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T073000
 SUMMARY:Cimeira Apply AI
 LOCATION:Centro de Informação Europeia Jacques Delors
@@ -78,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:das-09-30-as-14-30-conferencia-ai-readiness-iseg-auditorio-c-0bb39-2026
  -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Conferência | AI Readiness ISEG\, Auditório CGD (Edifício Quelha
  s)
@@ -89,7 +76,7 @@ URL:https://lykeion.pt/e/das-09-30-as-14-30-conferencia-ai-readiness-iseg-a
 END:VEVENT
 BEGIN:VEVENT
 UID:ed-17-11-26-webinar-03613-2026-11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:ED 17.11.26 Webinar
 LOCATION:Universidade de Coimbra\, Coimbra
@@ -100,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ia-no-trabalho-comandos-eficazes-para-simplificar-tarefas-ebbda-2026-11
  -17@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:IA no Trabalho: Comandos Eficazes para Simplificar Tarefas
 LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
@@ -112,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-francisco-luis-pereira-epistemologia-n-9ed17-2026
  -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T160000
 SUMMARY:Provas de Mestrado de Francisco Luís Pereira «Epistemologia Narra
  tiva e Inteligência Artificial: Uma Avaliação Ética do Discurso Polít
@@ -126,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:using-ai-across-the-research-lifecycle-leapspacetm-scopus-an-07e32-2026
  -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T150000
 SUMMARY:Using AI across the research lifecycle: LeapSpaceTM\, Scopus and Sc
  iVal
@@ -140,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4-a-sessao-gender-lab-lunch-talks-promessas-e-riscos-da-ia-n-2e8a0-2026
  -11-18@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T133000
 SUMMARY:4.ª Sessão Gender Lab Lunch Talks - Promessas e riscos da IA nos 
  Estudos de Género
@@ -154,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-filipa-alexandra-pereira-pinho-potenci-8febf-2026
  -11-18@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T140000
 SUMMARY:Provas de Mestrado de Filipa Alexandra Pereira Pinho «Potencialida
  des de um Tutor de Inteligência Artificial no processo de ensino e aprend
@@ -168,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jessica-cristina-almeida-resende-confi-19fd7-2026
  -11-18@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:Provas de Mestrado de Jéssica Cristina Almeida Resende «Confirmar
   para Comunicar...A utilização de apresentações geradas por inteligên
@@ -182,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sara-pascoal-na-international-conference-life-writing-self-f-e1802-2026
  -11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Sara Pascoal na International Conference Life Writing\, Self-Figura
  tions\, and Critical Digital Humanities
@@ -194,7 +181,7 @@ URL:https://lykeion.pt/e/sara-pascoal-na-international-conference-life-writ
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-from-zero-to-solana-5f1c5-2026-11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop From Zero to Solana
 LOCATION:Departamento de Física\, Covilhã
@@ -204,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
  genda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T090000
 SUMMARY:2o Congresso Internacional de Exercício Terapêutico
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
@@ -217,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-inteligencia-artificial-aplicacoes-implicacoes-e-de183-2026
  -11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T120000
 SUMMARY:Aula Aberta: Inteligência Artificial: Aplicações\, Implicações
  \, Especulações
@@ -230,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gamification-and-digital-games-with-generative-ai-from-idea-901ef-2026-
  11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T040000
 SUMMARY:Gamification and Digital Games with Generative AI: From Idea to Pra
  ctice Workshop
@@ -242,8 +229,8 @@ URL:https://lykeion.pt/e/gamification-and-digital-games-with-generative-ai-
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-0013b-2026-11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T123000
 SUMMARY:Prova Pública de Mestrado
 LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-480/
@@ -252,7 +239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ramiro-jose-pinheiro-correia-formar-pa-86dfe-2026
  -11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T150000
 SUMMARY:Provas de mestrado de Ramiro José Pinheiro Correia — Formar para
   o futuro: o paseo e o pensamento computacional nas práticas de tic do 3o
@@ -265,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:andre-guerra-2026-11-23-18-00-00-00-18h-ai-in-mathematical-r-90b9e-2026
  -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:André Guerra\, 2026-11-23/18:00:00+00\, 18h\, AI in Mathematical R
  esearch
@@ -277,7 +264,7 @@ URL:https://lykeion.pt/e/andre-guerra-2026-11-23-18-00-00-00-18h-ai-in-math
 END:VEVENT
 BEGIN:VEVENT
 UID:evaluating-researchers-in-the-ai-era-dbda1-2026-11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T184500
 SUMMARY:Evaluating Researchers in the AI Era.
 LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
@@ -288,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hugo-tavares-2026-11-23-20-30-00-00-20h-30m-supervising-stud-90b9e-2026
  -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Hugo Tavares\, 2026-11-23/20:30:00+00\, 20h 30m\, Supervising Stude
  nts in the AI Era
@@ -300,7 +287,7 @@ URL:https://lykeion.pt/e/hugo-tavares-2026-11-23-20-30-00-00-20h-30m-superv
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-9aea3-2026-11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Prova de Mestrado em Informática Médica
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -311,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ricardo-rocha-silva-costa-a-pratica-da-65bf0-2026
  -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T093000
 SUMMARY:Provas de mestrado de Ricardo Rocha Silva Costa — A prática da a
  prendizagem colaborativa como ferramenta no ensino de informática: desafi
@@ -324,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-avaliar-para-aprender-com-ia-feedback-e-colaboracao-47384-2026
  -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Workshop: Avaliar para aprender com IA: feedback e colaboração en
  tre pares
@@ -336,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:coimbra-business-school-iscac-business-summit-by-coimbra-ite-d6937-2026
  -11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Coimbra Business School - ISCAC Business Summit by Coimbra iTEC
 LOCATION:Politécnico de Coimbra\, Coimbra
@@ -347,7 +334,7 @@ URL:https://lykeion.pt/e/coimbra-business-school-iscac-business-summit-by-c
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-pepsico-ai-how-to-win-83bec-2026-11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T174500
 SUMMARY:Open Day “PepsiCo & AI: How to Win?
 LOCATION:AESE Business School
@@ -358,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:24-11-2026-conferencia-aberta-experiencia-social-e-inteligen-09f93-2026
  -11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T130000
 SUMMARY:[Conferência aberta] Experiência social e inteligência artificia
  l a partir de Hegel e Marx
@@ -370,7 +357,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:25-11-26-7-o-debate-em-torno-da-inovacao-pedagogica-ia-no-en-0275b-2026
  -11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T143000
 SUMMARY:7.º Debate em torno da Inovação Pedagógica: IA no ensino superi
  or Práticas\, preocupações e escolhas pedagógicas: um espaço de refle
@@ -385,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a-scopus-e-a-integracao-com-a-ia-referencias-citacoes-e-a-no-91201-2026
  -11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:A Scopus e a integração com a IA: referências\, citações e a n
  ova pesquisa em linguagem natural
@@ -398,7 +385,7 @@ URL:https://lykeion.pt/e/a-scopus-e-a-integracao-com-a-ia-referencias-citac
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-forum-inesc-tec-do-outono-62b33-2026-11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Conferência: Fórum INESC TEC do Outono
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
@@ -407,7 +394,7 @@ URL:https://lykeion.pt/e/conferencia-forum-inesc-tec-do-outono-62b33.html
 END:VEVENT
 BEGIN:VEVENT
 UID:forum-inesc-tec-do-outono-2026-ed877-2026-11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T110000
 SUMMARY:Fórum INESC TEC do Outono 2026
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
@@ -417,7 +404,7 @@ URL:https://lykeion.pt/e/forum-inesc-tec-do-outono-2026-ed877.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-informatica-medica-832fd-2026-11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:Prova de Mestrado em Informática Médica
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -428,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-catarina-isabel-mendes-capinha-intelig-af536-2026
  -11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T103000
 SUMMARY:Provas de mestrado de Catarina Isabel Mendes Capinha — Inteligên
  cia artificial: criação de recursos didáticos inclusivos e apoio à pr
@@ -441,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-utilizacao-de-inteligencia-artificial-na-saude-44faf-2026-11-2
  5@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Workshop: Utilização de Inteligência Artificial na Saúde
 LOCATION:Instituto Politécnico de Beja\, Beja
@@ -452,7 +439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-f5533-2026-11-26@lage
  nda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Café de ciência: Ciência no Copo - Entre livros e IA
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -463,7 +450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-do-algoritmo-a-acao-a-ia-agentica-a7655-2026-11-26@lagenda.
  pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Conferência: Do algoritmo à ação: a IA Agêntica
 LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
@@ -474,7 +461,7 @@ URL:https://lykeion.pt/e/conferencia-do-algoritmo-a-acao-a-ia-agentica-a765
 END:VEVENT
 BEGIN:VEVENT
 UID:talk-ai-and-human-judgement-0aeb0-2026-11-26@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T111000
 SUMMARY:Talk “AI and Human Judgement
 LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
@@ -484,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-applied-ai-and-digital-solutions-research-projects-55b84-2026-
  11-26@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Workshop: Applied AI and Digital Solutions: Research Projects Shapi
  ng Industry and Society
@@ -496,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:istar-iscte-received-students-from-digital-tecnologies-and-s-23fc4-2026
  -11-27@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:ISTAR-Iscte received students from Digital Tecnologies and Sustaina
  ble Construction
@@ -510,7 +497,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cintesis-apoia-ai-in-digestive-healthcare-shaping-the-future-b5ad7-2026
  -11-29@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T155000
 SUMMARY:CINTESIS apoia «AI in Digestive Healthcare: Shaping the Future»
 LOCATION:Centro de Investigação em Tecnologias e Serviços de Saúde\, Po
@@ -523,7 +510,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-seguros-na-era-da-inteligencia-artificial-6cf4c-2026-11-29@lage
  nda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T190000
 SUMMARY:Webinar “Seguros na era da Inteligência Artificial
 LOCATION:Instituto de Estudos Superiores Financeiros e Fiscais\, Porto
@@ -534,7 +521,7 @@ URL:https://lykeion.pt/e/webinar-seguros-na-era-da-inteligencia-artificial-
 END:VEVENT
 BEGIN:VEVENT
 UID:brown-bag-tech-talk-sara-parece-f8c95-2026-11-30@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T123000
 SUMMARY:Brown Bag Tech Talk – Sara Parece
 LOCATION:Centro de Investigação em Ciências da Informação Tecnologias 
@@ -546,7 +533,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-sobre-inteligencia-artificial-miop-ia-o-que-nao-es-f2f41-2026
  -11-30@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T210000
 SUMMARY:Seminário sobre Inteligência Artificial | MIOP(IA): O que não es
  tamos a ver bem
@@ -559,7 +546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scopus-and-sciencedirect-getting-start-with-basic-searching-63029-2026-
  12-01@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:Scopus and ScienceDirect: Getting start with basic searching and AI
  -Powered discovery (Part 1)
@@ -573,7 +560,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jemal-samba-rumo-a-uma-ferramenta-inte-1b183-2026
  -12-02@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T143000
 SUMMARY:Provas de mestrado de Jemal Samba — Rumo a uma Ferramenta Intelig
  ente para uma Cibersegurança Holística
@@ -585,7 +572,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-jemal-samba-rumo-a-uma-ferra
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-oaip-5da32-2026-12-02@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T110000
 SUMMARY:Seminário oaip ferramentas de IA para o ensino a aprendizagem e a 
  avaliação no ensino Superior
@@ -597,7 +584,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-tiago-de-freitas-gouveia-por-uma-64840-2026-
  12-03@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T160000
 SUMMARY:Provas de Mestrado de João Tiago de Freitas Gouveia «Por uma Peda
  gogia da Ressonância: a IA como mediação\, e não substituição\, do p
@@ -611,7 +598,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a-investigacao-em-ciencias-sociais-na-era-da-inteligencia-ar-30cf5-2026
  -12-04@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T093000
 SUMMARY:A investigação em Ciências Sociais na era da Inteligência Artif
  icial
@@ -624,7 +611,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-deyvison-nogueira-de-oliveira-sistema-1b183-2026-
  12-04@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T143000
 SUMMARY:Provas de mestrado de Deyvison Nogueira de Oliveira — Sistema de 
  visão computacional para estimativa do peso de bovinos baseado em algorit
@@ -638,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17-a-conferencia-lusofona-de-ciencia-aberta-aberta-a-chamada-e9810-2026
  -12-05@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261205
 SUMMARY:17.ª Conferência Lusófona de Ciência Aberta: aberta a chamada d
  e trabalhos
@@ -650,7 +637,7 @@ URL:https://lykeion.pt/e/17-a-conferencia-lusofona-de-ciencia-aberta-aberta
 END:VEVENT
 BEGIN:VEVENT
 UID:bonsai-developer-conference-2026-7408a-2026-12-07@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Bonsai Developer Conference 2026
 LOCATION:Centro Champalimaud
@@ -661,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinars-educating-students-for-tomorrow-s-ai-driven-workpla-54c9d-2026
  -12-09@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Webinars Educating students for tomorrow's AI-driven workplace 17 N
  ov.
@@ -672,7 +659,7 @@ URL:https://lykeion.pt/e/webinars-educating-students-for-tomorrow-s-ai-driv
 END:VEVENT
 BEGIN:VEVENT
 UID:excel-avancado-com-inteligencia-artificial-b7c3e-2026-12-10@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T160000
 SUMMARY:Excel Avançado com Inteligência Artificial
 LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
@@ -683,7 +670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-epea-seminario-internacional-esfera-publica-na-era-dos-al-fb74c-2026
  -12-10@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:II EPEA – Seminário Internacional Esfera Pública na Era dos Alg
  oritmos
@@ -695,7 +682,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-agentes-da-mudanca-agentic-ai-e-o-futuro-das-decis-8066e-2026
  -12-10@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T120000
 SUMMARY:Seminário: Agentes da Mudança – Agentic AI e o Futuro das Decis
  ões
@@ -708,7 +695,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:especialista-em-tecnologia-exascale-a-conversa-no-iscte-iul-8d8c9-2026-
  12-11@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Especialista em tecnologia Exascale à conversa no ISCTE-IUL
 LOCATION:Iscte – Instituto Universitário de Lisboa
@@ -719,7 +706,7 @@ URL:https://lykeion.pt/e/especialista-em-tecnologia-exascale-a-conversa-no-
 END:VEVENT
 BEGIN:VEVENT
 UID:portugal-crypto-day-2026-06324-2026-12-11@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Portugal Crypto Day 2026
 LOCATION:Laboratório para a Ciência da Computação e Informática\, Alma
@@ -730,7 +717,7 @@ URL:https://lykeion.pt/e/portugal-crypto-day-2026-06324.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-equivet-ai-9a953-2026-12-12@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T143000
 SUMMARY:Workshop EquiVet.AI
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -740,7 +727,7 @@ URL:https://lykeion.pt/e/workshop-equivet-ai-9a953.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sessao-de-encerramento-do-projeto-seaitall-ad3b6-2026-12-14@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Sessão de encerramento do projeto SEAitALL
 LOCATION:Centro de Investigação em Ciências da Informação Tecnologias 
@@ -753,7 +740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-primeiro-estudo-sobre-adocao-de-inteligencia-4f14a-2026
  -12-15@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261215T150000
 SUMMARY:Apresentação do primeiro estudo sobre adoção de Inteligência A
  rtificial no Jornalismo Português
@@ -765,7 +752,7 @@ URL:https://lykeion.pt/e/apresentacao-do-primeiro-estudo-sobre-adocao-de-in
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-publicas-de-mestrado-87e4b-2026-12-31@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Provas Públicas de Mestrado
 LOCATION:Centro de Inovação e Investigação em Ciências Empresariais e 
@@ -776,7 +763,7 @@ URL:https://lykeion.pt/e/provas-publicas-de-mestrado-87e4b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:magic-monthly-meetings-ines-veiga-f3e9f-2027-01-08@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270108
 SUMMARY:MagIC Monthly Meetings: Inês Veiga
 LOCATION:MagIC Research Center
@@ -787,7 +774,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminars-preventing-zoonotic-spillover-outcomes-of-a-literac-f3e9f-2027
  -01-08@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270108
 SUMMARY:Seminars: Preventing zoonotic spillover: outcomes of a literacy int
  ervention in rural Thailand
@@ -800,7 +787,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-sonia-claudia-da-costa-sousa-professo-086f6-2027
  -01-11@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270111T100000
 SUMMARY:Provas de agregação de Sónia Cláudia da Costa Sousa\, Professor
  a Associada\, Tallinn University — Edital _ provas de agregação\, na 
@@ -813,7 +800,7 @@ URL:https://lykeion.pt/e/provas-de-agregacao-de-sonia-claudia-da-costa-sous
 END:VEVENT
 BEGIN:VEVENT
 UID:introducao-pratica-a-ia-na-gestao-ambiental-29125-2027-01-12@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270112
 SUMMARY:Introdução Prática à IA na Gestão Ambiental
 LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
@@ -825,7 +812,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:notice-for-the-award-of-grant-in-the-scope-of-r-d-projects-a-1ed2f-2027
  -01-18@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270118
 SUMMARY:Notice for the Award of Grant in the Scope of R&D Projects and Inst
  itutions (Ref. Blockchain.PT/Istar/E22)
@@ -840,7 +827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:notice-for-the-award-of-grants-in-the-scope-of-r-d-projects-a9abb-2027-
  01-29@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270129
 SUMMARY:Notice for the Award of Grants in the Scope of R&D Projects and Ins
  titutions (Ref. Blockchain.PT/Istar/E21)
@@ -855,7 +842,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:on-29th-january-will-take-place-the-internal-workshop-applie-0ccb2-2027
  -01-29@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270129T110000
 SUMMARY:On 29th January will take place the Internal Workshop: Applied Inte
  lligent Computing Techniques in the Energy Domain
@@ -870,7 +857,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fct-apresenta-centro-nacional-de-computacao-avancada-a-18baa-2027-01-31
  @lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270131
 SUMMARY:FCT apresenta Centro Nacional de Computação Avançada…
 LOCATION:Infraestrutura Nacional de Computação Distribuída / Centro Naci
@@ -882,7 +869,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:curators-in-the-loop-human-centred-ai-for-the-digital-curati-0514f-2027
  -02-09@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270209T130000
 SUMMARY:Curators in the loop: human-centred AI for the digital curation of 
  cultural heritage collections
@@ -895,7 +882,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-lecture-space-form-movement-the-impact-of-public-space-da83b-2027-
  02-09@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270209T180000
 SUMMARY:Open Lecture: Space -> Form -> Movement: The impact of public space
   topology on movement patterns
@@ -909,7 +896,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-patrimonio-industrial-patrimonio-partilh-3e5fd-2027
  -03-17@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270317
 SUMMARY:Ciclo de Seminários “Património industrial. Património partilh
  ado” 17 e 24 de março…
@@ -924,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-internacional-do-projeto-free-choices-f2d31-2027-03-20@lagend
  a.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270320
 SUMMARY:Seminário Internacional do projeto Free Choices
 LOCATION:Centro Interdisciplinar de Estudos de Género
@@ -935,7 +922,7 @@ URL:https://lykeion.pt/e/seminario-internacional-do-projeto-free-choices-f2
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-0aa15-2027-03-21@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270321T153000
 SUMMARY:Webinar integração da IA na academia ferramentas e reflexões ét
  icas
@@ -947,7 +934,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-gender-mainstreaming-in-medicine-and-medical-res-f2d31-2027
  -03-24@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270324
 SUMMARY:Conferência Gender Mainstreaming in Medicine and Medical Research
 LOCATION:Centro Interdisciplinar de Estudos de Género
@@ -960,7 +947,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:roboparty-2026-de-25-a-27-de-marco-ha-uma-enorme-surpresa-co-6cf5d-2027
  -03-25@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270325
 SUMMARY:RoboParty 2026: de 25 a 27 de março. Há uma enorme surpresa com r
  obôs humanoides
@@ -973,7 +960,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:public-notice-for-award-of-grant-under-r-d-projects-and-inst-c8c6b-2027
  -03-26@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270326
 SUMMARY:Public Notice for Award of Grant Under R&D Projects and Institution
  s (LIVARC_BI1)
@@ -986,7 +973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:unforseen-paths-symposium-transcending-boundaries-and-sharin-a430f-2027
  -04-05@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270405
 SUMMARY:Unforseen Paths Symposium – Transcending Boundaries and Sharing C
  ritical Approaches to Architectural Heritage – took place on 5th April
@@ -1001,7 +988,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:whatnext-law-inteligencia-artificial-na-cidade-do-futuro-7bd6d-2027-04-
  05@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270405T120000
 SUMMARY:WhatNext.Law | Inteligência Artificial na Cidade do Futuro
 LOCATION:NOVA School of Law
@@ -1013,7 +1000,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-revisao-da-literatura-com-ferramentas-de-ia-7fd31-2027-04-08@
  lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270408T183000
 SUMMARY:Seminário | Revisão da literatura com ferramentas de IA
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
@@ -1025,7 +1012,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:investigadores-do-istar-iul-no-evento-a-casa-do-patrimonio-d-20728-2027
  -04-09@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270409
 SUMMARY:Investigadores do ISTAR-IUL no evento “A Casa do Patrimonio Digit
  al” na FCTUC/dARQ
@@ -1039,7 +1026,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12th-international-conference-on-internet-of-things-big-data-7f40a-2027
  -04-18@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270418
 SUMMARY:12th International Conference on Internet of Things\, Big Data and 
  Security
@@ -1052,7 +1039,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:22nd-international-conference-on-evaluation-of-novel-approac-38281-2027
  -04-20@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270420
 SUMMARY:22nd International Conference on Evaluation of Novel Approaches to 
  Software Engineering

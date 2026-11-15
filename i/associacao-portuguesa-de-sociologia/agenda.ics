@@ -6,23 +6,10 @@ X-WR-CALNAME:Associacao Portuguesa de Sociologia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conferencia-internacional-social-mentoring-in-europe-prospec-440ed-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Conferência Internacional “Social Mentoring in Europe: Prospects
-  for Social Inclusion and Engagement
-LOCATION:Associacao Portuguesa de Sociologia
-DESCRIPTION:https://aps.pt/event/conferencia-internacional-social-mentoring
- -in-europe-prospects-for-social-inclusion-and-engagement/
-URL:https://lykeion.pt/e/conferencia-internacional-social-mentoring-in-euro
- pe-prospec-440ed.html
-END:VEVENT
-BEGIN:VEVENT
 UID:xxx-congresso-internacional-da-acms-afirmacoes-e-regressoes-e0be5-2026-
- 11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
+ 11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
 SUMMARY:XXX Congresso Internacional da ACMS : “AFIRMAÇÕES E Regressões
   da Democracia Num Mundo Global
 LOCATION:Associacao Portuguesa de Sociologia
@@ -34,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xi-congresso-mundial-de-infancia-e-juventude-ed469-2026-11-18@lagenda.p
  t
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T083000
 SUMMARY:XI Congresso Mundial de Infância e Juventude
 LOCATION:Associacao Portuguesa de Sociologia
@@ -45,7 +32,7 @@ URL:https://lykeion.pt/e/xi-congresso-mundial-de-infancia-e-juventude-ed469
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-on-african-urban-planning-e82d3-2026-11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T120000
 SUMMARY:Webinar on African Urban Planning
 LOCATION:Associacao Portuguesa de Sociologia
@@ -55,8 +42,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-pensar-o-futuro-portugal-e-o-mundo-em-85c16-2026-
  11-25@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T183000
 SUMMARY:Apresentação do livro “Pensar o Futuro: Portugal e o mundo em p
  rospetiva estratégica
 LOCATION:Associacao Portuguesa de Sociologia
@@ -68,8 +55,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mesa-redonda-debate-decrescimento-economico-decrescimento-da-e5449-2026
  -11-26@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261126
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T143000
 SUMMARY:Mesa-redonda/debate – “Decrescimento Económico\, Decrescimento
   da Ciência?
 LOCATION:Associacao Portuguesa de Sociologia
@@ -81,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aps-2027-xiv-congresso-portugues-de-sociologia-cbd5e-2027-03-22@lagenda
  .pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270322
 SUMMARY:APS 2027 – XIV Congresso Português de Sociologia
 LOCATION:Associacao Portuguesa de Sociologia

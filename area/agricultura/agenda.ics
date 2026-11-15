@@ -6,33 +6,9 @@ X-WR-CALNAME:Agricultura e Floresta (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
- -11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
- dos Investigadores
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
- r-dos-investigadores/
-URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
- lhar-dos-i-8501f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:floresta-uma-experiencia-de-raiz-8dd00-2026-11-14@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Floresta: Uma Experiência de Raiz
-LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
- ões
-DESCRIPTION:https://www.agendalx.pt/events/event/floresta-uma-experiencia-d
- e-raiz/
-URL:https://lykeion.pt/e/floresta-uma-experiencia-de-raiz-8dd00.html
-END:VEVENT
-BEGIN:VEVENT
 UID:10o-congresso-da-cna-e-da-agricultura-familiar-cdce6-2026-11-15@lagenda
  .pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:10o Congresso da CNA e da Agricultura Familiar
 LOCATION:Associação Colab4Food – Laboratório Colaborativo para a Inova
@@ -43,9 +19,33 @@ URL:https://lykeion.pt/e/10o-congresso-da-cna-e-da-agricultura-familiar-cdc
  e6.html
 END:VEVENT
 BEGIN:VEVENT
+UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
+ dos Investigadores
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
+ r-dos-investigadores/
+URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
+ lhar-dos-i-8501f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:floresta-uma-experiencia-de-raiz-8dd00-2026-11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Floresta: Uma Experiência de Raiz
+LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
+ ões
+DESCRIPTION:https://www.agendalx.pt/events/event/floresta-uma-experiencia-d
+ e-raiz/
+URL:https://lykeion.pt/e/floresta-uma-experiencia-de-raiz-8dd00.html
+END:VEVENT
+BEGIN:VEVENT
 UID:continue-reading-conferencia-digitalizacao-e-inovacao-na-agr-a9a61-2026
  -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T093000
 SUMMARY:Continue reading... : Conferência “Digitalização e Inovação 
  na Agricultura
@@ -58,8 +58,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-servicos-de-ecossistema-florestais-indicadores-e-f-4c1ea-2026
  -11-17@lagenda.pt
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261117T153000
 SUMMARY:Seminário “Serviços de ecossistema florestais: indicadores e fe
  rramentas para a gestão multifuncional - Da investigação à aplicação
   no território
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:esac-auditorio-principal-bloco-e-seminario-sementes-plantas-c7951-2026-
  11-18@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T090000
 SUMMARY:ESAC - Auditório principal (Bloco E) Seminário “Sementes\, Plan
  tas e Outro Material de Propagação em Agricultura Biológica
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:inauguracao-da-exposicao-urbanitas-de-rogerio-araujo-5e548-2026-11-18@l
  agenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T170000
 SUMMARY:Inauguração da Exposição URBANITAS de Rogério Araújo
 LOCATION:Instituto de Geografia e Ordenamento do Território
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rituparna-roy-no-grupo-wittgenstein-de-lisboa-66d97-2026-11-18@lagenda.
  pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T160000
 SUMMARY:Rituparna Roy no Grupo Wittgenstein de Lisboa
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sustainable-agrifood-production-seminars-26-9-seminar-b416b-2026-11-18@
  lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T140000
 SUMMARY:Sustainable Agrifood Production Seminars '26 - #9 Seminar
 LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
@@ -122,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:drones-do-sentinela-atlantica-em-exposicao-no-evento-de-inov-b0e3e-2026
  -11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Drones do Sentinela Atlântica em exposição no evento de inovaç
  ão do Exército
@@ -135,7 +135,7 @@ URL:https://lykeion.pt/e/drones-do-sentinela-atlantica-em-exposicao-no-even
 END:VEVENT
 BEGIN:VEVENT
 UID:european-bioeconomy-conference-2026-ae5c7-2026-11-19@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:European Bioeconomy Conference 2026
 LOCATION:Associação Colab4Food – Laboratório Colaborativo para a Inova
@@ -147,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-de-jovens-investigadores-e-cerimonia-de-entrega-de-9e3eb-2026-
  11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T143000
 SUMMARY:Encontro de Jovens Investigadores e Cerimónia de Entrega de Prémi
  os - 1.ª Edição
@@ -160,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:instituto-superior-de-agronomia-acolhe-workshop-sobre-a-abor-a058b-2026
  -11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T173000
 SUMMARY:Instituto Superior de Agronomia acolhe Workshop sobre a abordagem m
  ultiator no Horizonte Europa
@@ -173,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-tecnologias-em-agricultura-de-precisao-136eb-2026
  -11-20@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T160000
 SUMMARY:Provas de Mestrado em Tecnologias em Agricultura de Precisão
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -185,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-1-o-encontro-nacional-de-c5e00-2026-
  11-21@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Escola Superior Agrária de Coimbra 1.º Encontro Nacional de Enfer
  magem Veterinária
@@ -198,7 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-semana-da-ciencia-e-da-te-359ba-2026
  -11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T093000
 SUMMARY:Escola Superior Agrária de Coimbra Semana da Ciência e da Tecnolo
  gia 2026 na ESAC
@@ -211,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sergio-manuel-alves-seixas-projeto-de-b0068-2026-
  11-23@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de Sérgio Manuel Alves Seixas — Projeto de um
  a adega e preparação da produção de vinho em contexto de consultoria v
@@ -224,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-open-day-raiz-venham-conhecer-a-ciencia-e-ino-afef2-2026
  -11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Portas abertas: Open Day RAIZ – Venham conhecer a Ciência e Inov
  ação que sustenta uma Bioeconomia de base Florestal
@@ -236,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-iara-garanito-nobre-d3fd5-2026
  -11-24@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T143000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Iara Garanito Nóbrega
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -247,7 +247,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-iara-gara
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-final-life-lxaquila-ef99b-2026-11-26@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T091500
 SUMMARY:Conferência Final LIFE LxAquila
 LOCATION:Sociedade Portuguesa para o Estudo das Aves
@@ -257,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-xi-eedaa-encontro-de-estudantes-de-doutoramento-81a92-2026-
  11-26@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Conferência: XI EEDAA - Encontro de Estudantes de Doutoramento em 
  Ambiente e Agricultura
@@ -269,7 +269,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-as-novas-descobertas-no-vale-do-coa-6f587-2026-11-27@lagend
  a.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Conferência: As novas descobertas no Vale do Côa
 LOCATION:Museu do Côa - Centro Ciência Viva\, Vila Nova de Foz Côa
@@ -279,7 +279,7 @@ URL:https://lykeion.pt/e/conferencia-as-novas-descobertas-no-vale-do-coa-6f
 END:VEVENT
 BEGIN:VEVENT
 UID:sessao-solene-do-ano-letivo-2026-2027-10375-2026-11-27@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T170000
 SUMMARY:Sessão Solene do Ano Letivo 2026-2027
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -290,7 +290,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-umdiacom-catarina-prista-27-novembro-2026-11h30-854b7-2026-11-2
  7@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T113000
 SUMMARY:Webinar | UmDiaCom... Catarina Prista | 27 novembro 2026 | 11h30
 LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
@@ -302,7 +302,7 @@ URL:https://lykeion.pt/e/webinar-umdiacom-catarina-prista-27-novembro-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:amicos-silvestris-o-que-sao-5c2bb-2026-11-28@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T183000
 SUMMARY:Amicos Silvestris - o que são
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -312,7 +312,7 @@ URL:https://lykeion.pt/e/amicos-silvestris-o-que-sao-5c2bb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:passeio-micologico-de-outono-0da2b-2026-11-28@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T093000
 SUMMARY:Passeio Micológico de Outono
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -323,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:30-11-2026-jornada-internacional-de-estudos-fenomenologicos-018c0-2026-
  11-30@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T160000
 SUMMARY:Jornada Internacional de Estudos Fenomenológicos: Fenomenologia e 
  Política
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
@@ -347,7 +347,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1st-international-meeting-of-ecology-25th-national-ecology-m-f31a6-2026
  -12-11@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:1st International Meeting of Ecology & 25th National Ecology Meetin
  g
@@ -361,7 +361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-campus-de-bencanta-iii-es-de4ca-2026
  -12-16@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T093000
 SUMMARY:Escola Superior Agrária de Coimbra Campus de Bencanta III Escola d
  e Inverno da Agrária de Coimbra – Projeto Farm4Future
@@ -373,7 +373,7 @@ URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-campus-de-benca
 END:VEVENT
 BEGIN:VEVENT
 UID:douro-lugar-de-um-encontro-feliz-ddd06-2027-01-16@lagenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270116T170000
 SUMMARY:Douro - Lugar de um encontro feliz
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Peso da Régua
@@ -384,7 +384,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:inovacao-na-floresta-1a-acao-de-demonstracao-replant-66a79-2027-03-23@l
  agenda.pt
-DTSTAMP:20261114T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20270323
 SUMMARY:Inovação na Floresta: 1a Ação de Demonstração rePLANT
 LOCATION:CoLAB ForestWISE\, Vila Real
