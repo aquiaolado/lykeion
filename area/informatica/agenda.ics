@@ -223,7 +223,8 @@ UID:workshop-from-zero-to-solana-5f1c5-2026-11-19@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop From Zero to Solana
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24195
 URL:https://lykeion.pt/e/workshop-from-zero-to-solana-5f1c5.html
 END:VEVENT
@@ -271,7 +272,7 @@ UID:prova-publica-de-mestrado-0013b-2026-11-20@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T123000
 SUMMARY:Prova Pública de Mestrado
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-480/
 URL:https://lykeion.pt/e/prova-publica-de-mestrado-0013b.html
 END:VEVENT
@@ -542,7 +543,7 @@ UID:talk-ai-and-human-judgement-0aeb0-2026-11-26@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T111000
 SUMMARY:Talk “AI and Human Judgement
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/talk-ai-and-human-judgement/
 URL:https://lykeion.pt/e/talk-ai-and-human-judgement-0aeb0.html
 END:VEVENT
@@ -752,7 +753,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:II EPEA – Seminário Internacional Esfera Pública na Era dos Alg
  oritmos
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24208
 URL:https://lykeion.pt/e/ii-epea-seminario-internacional-esfera-publica-na-
  era-dos-al-fb74c.html
@@ -797,7 +799,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-miguel-alexandre-rocha-silvestre-respo-037ae-2026
  -12-11@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Lisbon:20261211T110000
 SUMMARY:Provas de mestrado de Miguel Alexandre Rocha Silvestre — Responsa
  bilidade Civil por danos causados por mecanismos dotados de Inteligência 
  Artificial
@@ -810,7 +812,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-beirao-titulo-do-trabalho-entre-052cf-2026-
  12-11@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Lisbon:20261211T110000
 SUMMARY:Provas de mestrado de Pedro Beirão — Título do trabalho: «ENTR
  E O ALGORITMO E O ROSTO – O Desafio de Não Deixar Ninguém Para Trás.
  »
@@ -847,7 +849,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-francisco-afonso-titulo-do-trabalho-cr-66390-2026
  -12-14@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T110000
 SUMMARY:Provas de mestrado de Francisco Afonso — Título do trabalho: Cri
  atividade humana e inteligência artificial: o futuro da publicidade entre
   a imaginação e o algoritmo."
@@ -900,7 +902,8 @@ UID:provas-publicas-de-mestrado-87e4b-2026-12-31@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Provas Públicas de Mestrado
-LOCATION:Escola Superior de Tecnologia e Gestão\, Felgueiras
+LOCATION:Centro de Inovação e Investigação em Ciências Empresariais e 
+ Sistemas de Informação\, Felgueiras
 DESCRIPTION:https://www.estg.ipp.pt/noticias/provas-publicas-de-mestrado-mg
  iqas-1
 URL:https://lykeion.pt/e/provas-publicas-de-mestrado-87e4b.html
@@ -1036,6 +1039,16 @@ DESCRIPTION:https://istar.iscte-iul.pt/news-posts/open-lecture-space-form-m
  ovement-the-impact-of-public-space-topology-on-movement-patterns/
 URL:https://lykeion.pt/e/open-lecture-space-form-movement-the-impact-of-pub
  lic-space-da83b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-summit-ap-capacitar-pela-experimentacao-55101-2027-02-26@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20270226T090000
+SUMMARY:AI Summit AP: Capacitar pela Experimentação
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/blog/eventos/ai-summit-ap/
+URL:https://lykeion.pt/e/ai-summit-ap-capacitar-pela-experimentacao-55101.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-patrimonio-industrial-patrimonio-partilh-3e5fd-2027

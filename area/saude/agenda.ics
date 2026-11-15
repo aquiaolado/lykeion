@@ -354,7 +354,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-sofia-silva-pereira-relacao-entre-ee89c-2026-
  11-16@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T110000
 SUMMARY:Provas de mestrado de Ana Sofia Silva Pereira — Relação entre o
   tipo e a dimensão de cuidados prestados\, estilos de vida e autocuidado 
  de jovens adultos cuidadores
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-raquel-gomes-peixe-efeitos-de-ee89c-2026-
  11-16@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T110000
 SUMMARY:Provas de mestrado de Mariana Raquel Gomes Peixe — Efeitos de um 
  programa de reabilitação respiratória multicomponentes na qualidade de 
  vida e bem-estar subjetivo em pessoas com Doença pulmonar Obstru
@@ -581,7 +581,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-sofia-goncalves-contente-titulo-do-4e5ac-2026
  -11-17@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T110000
 SUMMARY:Provas de mestrado de Ana Sofia Gonçalves Contente — Título do 
  trabalho: "Responsabilidade social das marcas de skincare e perceção sob
  re o uso precoce de produtos de cuidados com a pele em crianças
@@ -793,7 +793,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-tiago-correia-pereira-baptista-jor-4c806-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T130000
 SUMMARY:Provas de doutoramento de Tiago Correia Pereira Baptista Jorge — 
  Mediação Intercultural em Saúde\, em Portugal: o presente e o futuro
 LOCATION:Universidade Aberta
@@ -1033,7 +1033,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -1166,6 +1167,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-daniela-filipa-rodrigues-nev
  es-estagio-60764.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-diogo-miguel-ramalho-charraz-nanoparti-2e14f-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T163000
+SUMMARY:Provas de mestrado de Diogo Miguel Ramalho Charraz — Nanopartícu
+ las lipídicas como sistemas de administração oral de fármacos antineop
+ lásicos no tratamento do cancro colorretal
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://fct.ualg.pt/provas-de-mestrado-integrado-em-ciencias-fa
+ rmaceuticas-264
+URL:https://lykeion.pt/e/provas-de-mestrado-de-diogo-miguel-ramalho-charraz
+ -nanoparti-2e14f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-fabio-duarte-teixeira-da-costa-impleme-edbfc-2026
  -11-19@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1239,6 +1254,16 @@ DESCRIPTION:https://www.institutocriap.com/evento/webinario/sexualidade-e-p
  sicopatologia-13-edicao
 URL:https://lykeion.pt/e/webinario-sexualidade-e-psicopatologia-13-a-edicao
  -a-compree-8bb9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T093000
+SUMMARY:18.ª edição Fórum do Medicamento
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
+ kets-2004012616683
+URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
@@ -1519,18 +1544,6 @@ URL:https://lykeion.pt/e/conferencia-investigacao-criminal-em-medicina-vete
  rinaria-ca-d6c28.html
 END:VEVENT
 BEGIN:VEVENT
-UID:congresso-premio-best-ideas-foi-entregue-no-cnom-bc63c-2026-11-23@lagen
- da.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Congresso: Prémio Best Ideas foi entregue no CNOM
-LOCATION:Ordem dos Médicos Secção Regional do Sul
-DESCRIPTION:https://www.omsul.pt/noticias/premio-best-ideas-foi-entregue-no
- -cnom
-URL:https://lykeion.pt/e/congresso-premio-best-ideas-foi-entregue-no-cnom-b
- c63c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conversas-com-evidencia-viatris-70da9-2026-11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T190000
@@ -1669,18 +1682,17 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-marques-dos-santos-
  impacto-do-60764.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-fernando-jorge-dos-santos-silva-dias-m-edbfc-2026
+UID:provas-de-mestrado-de-fernando-jorge-dos-santos-silva-dias-c-edbfc-2026
  -11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
-SUMMARY:Provas de mestrado de Fernando Jorge dos Santos Silva Dias — Mest
- rado: Mestrado em Enfermagem Médico‐Cirúrgica na área de Enfermagem 
- à Pessoa em Situação Crítica
+SUMMARY:Provas de mestrado de Fernando Jorge dos Santos Silva Dias — Cult
+ ura de segurança no serviço de urgência: perceção dos enfermeiros
 LOCATION:Instituto Politécnico de Bragança\, Chaves
 DESCRIPTION:https://essa.unipb.pt/estudar/informa%C3%A7%C3%A3o/provas-p%C3%
  BAblicas-de-mestrado/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-fernando-jorge-dos-santos-si
- lva-dias-m-edbfc.html
+ lva-dias-c-edbfc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-filipa-pinto-conde-ribau-psicologia-cl-6d136-2026
@@ -1694,20 +1706,6 @@ LOCATION:Centro de Investigação em Ciência Psicológica
 DESCRIPTION:https://www.psicologia.ulisboa.pt/ensino/provas-academicas/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-filipa-pinto-conde-ribau-psi
  cologia-cl-6d136.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-joao-pedro-azevedo-cerqueira-mestrado-edbfc-2026-
- 11-23@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T100000
-SUMMARY:Provas de mestrado de João Pedro Azevedo Cerqueira — Mestrado: M
- estrado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pesso
- a em Situação Crítica
-LOCATION:Instituto Politécnico de Bragança\, Chaves
-DESCRIPTION:https://essa.unipb.pt/estudar/informa%C3%A7%C3%A3o/provas-p%C3%
- BAblicas-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-pedro-azevedo-cerqueira
- -mestrado-edbfc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luciano-jose-moreira-ferreira-dormir-b-d253d-2026
@@ -1850,7 +1848,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-rua-titulo-do-trabalho-estrategia-133e0-2026
  -11-24@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T110000
 SUMMARY:Provas de mestrado de Inês Rua — Título do trabalho: "Estratég
  ias de Comunicação para a promoção da literacia em saúde na doença M
  ieloma Múltiplo: O Caso da Associação Portuguesa Contra a Leucemia.
@@ -2701,18 +2699,17 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-matilde-lourenco-ferreira-gr
  avidez-e-i-c493a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-paulo-simao-martinho-sousa-mestrado-me-edbfc-2026
+UID:provas-de-mestrado-de-paulo-simao-martinho-sousa-analise-dos-edbfc-2026
  -11-27@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
-SUMMARY:Provas de mestrado de Paulo Simão Martinho Sousa — Mestrado: Mes
- trado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pessoa 
- em Situação Crítica
+SUMMARY:Provas de mestrado de Paulo Simão Martinho Sousa — Análise dos 
+ cuidados de enfermagem omissos no serviço de urgência
 LOCATION:Instituto Politécnico de Bragança\, Chaves
 DESCRIPTION:https://essa.unipb.pt/estudar/informa%C3%A7%C3%A3o/provas-p%C3%
  BAblicas-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-paulo-simao-martinho-sousa-m
- estrado-me-edbfc.html
+URL:https://lykeion.pt/e/provas-de-mestrado-de-paulo-simao-martinho-sousa-a
+ nalise-dos-edbfc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-raquel-fernandes-ribeiro-psicologia-cl-ebb21-2026
@@ -3306,7 +3303,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-biologia-molecular-e-celular-de-joao-p-5187d-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T100000
 SUMMARY:Provas de Mestrado em Biologia Molecular e Celular de João Pedro R
  ibeiro dos Santos — Caracterização funcional do Interactoma da Bri3 no
   cérebro
@@ -3319,7 +3316,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-correia-barbosa-titulo-do-trab-dd9d5-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:Provas de mestrado de Beatriz Correia Barbosa — Título do trabal
  ho: “Redes Sociais e Saúde Mental: Um Estudo Qualitativo sobre Brain Ro
  t\, Hiperconectividade e FOMO."

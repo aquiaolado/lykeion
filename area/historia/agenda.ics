@@ -139,7 +139,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -164,7 +165,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
@@ -1241,7 +1243,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-pedro-barros-rodrigues-cardoso-ti-c77ea-2026
  -12-03@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T110000
 SUMMARY:Provas de mestrado de Luís Pedro Barros Rodrigues Cardoso — Tít
  ulo do trabalho: "ENTRE O REAL E A FICÇÃO: Contexto Histórico Na Constr
  ução de Narrativas Audiovisuais Escrita E DESENVOLVIMENTO DE RIO
@@ -1261,6 +1263,19 @@ DESCRIPTION:http://ifilnova.pt/eventos/o-ideal-de-felicidade-intelectual-de
  -aristoteles-na-italia-do-seculo-xiv/
 URL:https://lykeion.pt/e/seminario-o-ideal-de-felicidade-intelectual-de-ari
  stoteles-14f77.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-do-seminario-de-investigadores-arquivos-romanos-diplo-a6deb-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Sessão do seminário de investigadores «Arquivos Romanos: Diploma
+ cia Vaticana e Direitos Humanos»
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-investigadore
+ s-arquivos-romanos-diplomacia-vaticana-e-direitos-3
+URL:https://lykeion.pt/e/sessao-do-seminario-de-investigadores-arquivos-rom
+ anos-diplo-a6deb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:uma-breve-historia-dos-direitos-da-natureza-f9367-2026-12-05@lagenda.pt
@@ -1578,7 +1593,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/23615
 URL:https://lykeion.pt/e/debate-o-legado-do-4-de-fevereiro-e-as-interrogaco
  es-do-pres-e27b5.html

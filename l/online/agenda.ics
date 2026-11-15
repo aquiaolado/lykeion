@@ -50,7 +50,8 @@ UID:sessao-online-dedicada-ao-european-innovation-council-eic-c9551-2026-11
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Sessão online dedicada ao European Innovation Council (EIC)
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24222
 URL:https://lykeion.pt/e/sessao-online-dedicada-ao-european-innovation-coun
  cil-eic-c9551.html
@@ -213,7 +214,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T150000
 SUMMARY:Webinar “Qualitative and Quantitative Analysis of Online Reviews:
   LDA\, SBERT and VADER
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/webinar-qualitative-and-quantitative-
  analysis-of-online-reviews-lda-sbert-and-vader/
 URL:https://lykeion.pt/e/webinar-qualitative-and-quantitative-analysis-of-o
@@ -267,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-on-african-urban-planning-e82d3-2026-11-19@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T120000
 SUMMARY:Webinar on African Urban Planning
 LOCATION:Associacao Portuguesa de Sociologia
 DESCRIPTION:https://aps.pt/event/webinar-on-african-urban-planning/
@@ -555,7 +556,7 @@ UID:webinar-concorrencia-casos-reais-2ef47-2026-11-25@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T163000
 SUMMARY:Webinar “Concorrência: Casos Reais
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/webinar-concorrencia-casos-reais-4/
 URL:https://lykeion.pt/e/webinar-concorrencia-casos-reais-2ef47.html
 END:VEVENT
@@ -702,6 +703,19 @@ LOCATION:Forward College
 DESCRIPTION:https://zoom.us/webinar/register/WN_iCfOTu1KR_eyS2WuLDBjZg
 URL:https://lykeion.pt/e/webinars-student-life-in-3-cities-09-dec-16613.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-do-seminario-de-investigadores-arquivos-romanos-diplo-a6deb-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Sessão do seminário de investigadores «Arquivos Romanos: Diploma
+ cia Vaticana e Direitos Humanos»
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-investigadore
+ s-arquivos-romanos-diplomacia-vaticana-e-direitos-3
+URL:https://lykeion.pt/e/sessao-do-seminario-de-investigadores-arquivos-rom
+ anos-diplo-a6deb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-introducao-ao-zotero-via-zoom-meeting-770e6-2026-12-04@lagenda.
@@ -1057,7 +1071,7 @@ BEGIN:VEVENT
 UID:webinar-0e2fc-2027-02-24@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270224T100000
-SUMMARY:Webinar ebsco discovery service pesquisa de informação para os tr
+SUMMARY:Webinar ebsco discovery Service pesquisa de informação para os tr
  abalhos académicos
 LOCATION:Instituto Superior Técnico
 DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-ebsco-discover

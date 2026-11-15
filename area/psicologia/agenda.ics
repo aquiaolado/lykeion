@@ -1042,7 +1042,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-correia-barbosa-titulo-do-trab-dd9d5-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:Provas de mestrado de Beatriz Correia Barbosa — Título do trabal
  ho: “Redes Sociais e Saúde Mental: Um Estudo Qualitativo sobre Brain Ro
  t\, Hiperconectividade e FOMO."

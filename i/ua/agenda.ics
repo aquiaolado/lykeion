@@ -163,7 +163,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-estudos-editoriais-de-joana-grilo-gome-e7dc2-2026
  -11-30@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261130
+DTSTART;TZID=Europe/Lisbon:20261130T100000
 SUMMARY:Provas de Mestrado em Estudos Editoriais de Joana Grilo Gomes — U
  m Primeiro Capítulo: Estágio Curricular na Caminho das Palavras.
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-portugues-lingua-estrangeira-lingua-se-841d9-2026
  -12-03@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T110000
 SUMMARY:Provas de Mestrado em Português Língua Estrangeira/ Língua Segun
  da de Xinyu Wei — Uso de anglicismos em português: estudo aplicado a po
  dcast de jovens universitários.
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-daiane-de-jesus-trindade-reis-de-diane-f3524-2026
  -12-07@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261207
+DTSTART;TZID=Europe/Lisbon:20261207T113000
 SUMMARY:Provas de Mestrado de Daiane de Jesus Trindade reis de Diane de Jes
  us Trindade Reis
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-biologia-molecular-e-celular-de-joao-p-5187d-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T100000
 SUMMARY:Provas de Mestrado em Biologia Molecular e Celular de João Pedro R
  ibeiro dos Santos — Caracterização funcional do Interactoma da Bri3 no
   cérebro

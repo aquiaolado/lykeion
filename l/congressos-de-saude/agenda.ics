@@ -96,7 +96,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -109,6 +110,16 @@ SUMMARY:VI Congresso da SPCAL
 LOCATION:Ordem dos Médicos Veterinários
 DESCRIPTION:https://www.omv.pt/publicacoes/agenda/vi-congresso-da-spcal
 URL:https://lykeion.pt/e/vi-congresso-da-spcal-db61d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T093000
+SUMMARY:18.ª edição Fórum do Medicamento
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
+ kets-2004012616683
+URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
@@ -202,18 +213,6 @@ DESCRIPTION:https://www.esac.pt/index.php/eventos/1-o-encontro-nacional-de-
  enfermagem-veterinaria/
 URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-1-o-encontro-na
  cional-de-c5e00.html
-END:VEVENT
-BEGIN:VEVENT
-UID:congresso-premio-best-ideas-foi-entregue-no-cnom-bc63c-2026-11-23@lagen
- da.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Congresso: Prémio Best Ideas foi entregue no CNOM
-LOCATION:Ordem dos Médicos Secção Regional do Sul
-DESCRIPTION:https://www.omsul.pt/noticias/premio-best-ideas-foi-entregue-no
- -cnom
-URL:https://lykeion.pt/e/congresso-premio-best-ideas-foi-entregue-no-cnom-b
- c63c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:insipack-ii-international-conference-on-safety-and-innovatio-12c7d-2026

@@ -517,7 +517,8 @@ UID:mostra-cinema-resistencia-entre-leiras-6a8f4-2026-11-17@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Mostra Cinema Resistência – “Entre Leiras
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24186
 URL:https://lykeion.pt/e/mostra-cinema-resistencia-entre-leiras-6a8f4.html
 END:VEVENT
@@ -741,7 +742,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-jessica-alves-oliveira-titulo-do-traba-deebb-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de mestrado de Jéssica Alves Oliveira — Título do trabal
  ho: “Design de som em Rádio FM: a construção da identidade sonora na 
  Perspectiva da Produção."
@@ -754,7 +755,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-barbara-machado-titulo-do-trabal-deebb-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de mestrado de Maria Bárbara Machado — Título do trabalh
  o: “Communicating with Young Adults in the Art Museum - A Case Study of 
  the Museo Nacional Thyssen-Bornemisza.
@@ -767,7 +768,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-sales-titulo-do-trabalho-a-influe-deebb-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de mestrado de Rita Sales — Título do trabalho: “A infl
  uência da Direção de fotografia e Colorgrade na expressão e narrativa 
  audiovisual."
@@ -1264,7 +1265,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-andre-alberto-pascoa-quendera-titulo-d-dd5ae-2026
  -11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T110000
 SUMMARY:Provas de mestrado de André Alberto Páscoa Quendera — Título d
  o trabalho: « Tempus Fugit - Entre a Identidade juvenil e o quotidiano ad
  ulto: um estudo em cinema documental.»
@@ -1610,7 +1611,7 @@ BEGIN:VEVENT
 UID:teatro-em-conferencia-iniciativa-e-organizacao-cristovao-cun-35273-2026
  -11-27@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T210000
+DTSTART;VALUE=DATE:20261127
 SUMMARY:Teatro Em Conferência iniciativa e organização Cristóvão Cunha
   e Pedro Silveira
 LOCATION:Teatro Viriato\, Viseu
@@ -1922,6 +1923,19 @@ URL:https://lykeion.pt/e/encontros-nas-margens-do-possivel-um-grupo-de-disc
  ussao-de-f-1f07a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:a-permanencia-necessaria-dos-direitos-humanos-num-mundo-em-m-0f735-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T134000
+SUMMARY:A permanência necessária dos Direitos Humanos num mundo em mudan
+ ça
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/blog/eventos/blog-eventos-a-permanencia-nece
+ ssaria-dos-direitos-humanos-num-mundo-em-mudanca/
+URL:https://lykeion.pt/e/a-permanencia-necessaria-dos-direitos-humanos-num-
+ mundo-em-m-0f735.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-archives-of-conflitct-photography-between-vernac-b274d-2026
  -12-10@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -2158,7 +2172,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-sara-raquel-ferreira-costa-entre-l-fe362-2027
  -01-07@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20270107
+DTSTART;TZID=Europe/Lisbon:20270107T130000
 SUMMARY:Provas de doutoramento de Sara Raquel Ferreira Costa — Entre Lín
  guas e Lirismos: A Arte da Tradução em Camilo Pessanha
 LOCATION:Universidade Aberta

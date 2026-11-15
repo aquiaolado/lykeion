@@ -394,7 +394,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -477,7 +478,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
@@ -1046,7 +1048,8 @@ UID:mostra-cinema-resistencia-entre-leiras-6a8f4-2026-11-17@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Mostra Cinema Resistência – “Entre Leiras
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24186
 URL:https://lykeion.pt/e/mostra-cinema-resistencia-entre-leiras-6a8f4.html
 END:VEVENT
@@ -1368,6 +1371,18 @@ DESCRIPTION:https://doi.org/10.1086/606120
 URL:https://lykeion.pt/e/https-doi-org-10-1086-606120-62865.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-voluntariado-com-proposito-e-compromisso-da-caso-95909-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T173000
+SUMMARY:Conferência «Voluntariado com Propósito e Compromisso da CASO»
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/conferencia-voluntariado-com-propo
+ sito-e-compromisso-da-caso
+URL:https://lykeion.pt/e/conferencia-voluntariado-com-proposito-e-compromis
+ so-da-caso-95909.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontro-aa064-2026-11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T170000
@@ -1609,7 +1624,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-jessica-alves-oliveira-titulo-do-traba-deebb-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de mestrado de Jéssica Alves Oliveira — Título do trabal
  ho: “Design de som em Rádio FM: a construção da identidade sonora na 
  Perspectiva da Produção."
@@ -1622,7 +1637,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-barbara-machado-titulo-do-trabal-deebb-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de mestrado de Maria Bárbara Machado — Título do trabalh
  o: “Communicating with Young Adults in the Art Museum - A Case Study of 
  the Museo Nacional Thyssen-Bornemisza.
@@ -1635,7 +1650,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-sales-titulo-do-trabalho-a-influe-deebb-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T110000
 SUMMARY:Provas de mestrado de Rita Sales — Título do trabalho: “A infl
  uência da Direção de fotografia e Colorgrade na expressão e narrativa 
  audiovisual."
@@ -2998,7 +3013,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-andre-alberto-pascoa-quendera-titulo-d-dd5ae-2026
  -11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T110000
 SUMMARY:Provas de mestrado de André Alberto Páscoa Quendera — Título d
  o trabalho: « Tempus Fugit - Entre a Identidade juvenil e o quotidiano ad
  ulto: um estudo em cinema documental.»
@@ -3022,32 +3037,18 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-marques-dos-santos-
  impacto-do-60764.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-fernando-jorge-dos-santos-silva-dias-m-edbfc-2026
+UID:provas-de-mestrado-de-joao-pedro-azevedo-cerqueira-conhecime-edbfc-2026
  -11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
-SUMMARY:Provas de mestrado de Fernando Jorge dos Santos Silva Dias — Mest
- rado: Mestrado em Enfermagem Médico‐Cirúrgica na área de Enfermagem 
- à Pessoa em Situação Crítica
-LOCATION:Instituto Politécnico de Bragança\, Chaves
-DESCRIPTION:https://essa.unipb.pt/estudar/informa%C3%A7%C3%A3o/provas-p%C3%
- BAblicas-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-fernando-jorge-dos-santos-si
- lva-dias-m-edbfc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-joao-pedro-azevedo-cerqueira-mestrado-edbfc-2026-
- 11-23@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T100000
-SUMMARY:Provas de mestrado de João Pedro Azevedo Cerqueira — Mestrado: M
- estrado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pesso
- a em Situação Crítica
+SUMMARY:Provas de mestrado de João Pedro Azevedo Cerqueira — Conheciment
+ o dos enfermeiros sobre Escalas de Avaliação de Delirium na pessoa em si
+ tuação crítica
 LOCATION:Instituto Politécnico de Bragança\, Chaves
 DESCRIPTION:https://essa.unipb.pt/estudar/informa%C3%A7%C3%A3o/provas-p%C3%
  BAblicas-de-mestrado/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-pedro-azevedo-cerqueira
- -mestrado-edbfc.html
+ -conhecime-edbfc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-arqueologia-de-carlota-nicole-freitas-bf39a-2026-
@@ -3977,24 +3978,10 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-filipe-jose-nunes-agostinho-
  prevencao-088e0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-paulo-simao-martinho-sousa-mestrado-me-edbfc-2026
- -11-27@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T100000
-SUMMARY:Provas de mestrado de Paulo Simão Martinho Sousa — Mestrado: Mes
- trado em Enfermagem Médico‐Cirúrgica na área de Enfermagem à Pessoa 
- em Situação Crítica
-LOCATION:Instituto Politécnico de Bragança\, Chaves
-DESCRIPTION:https://essa.unipb.pt/estudar/informa%C3%A7%C3%A3o/provas-p%C3%
- BAblicas-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-paulo-simao-martinho-sousa-m
- estrado-me-edbfc.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teatro-em-conferencia-iniciativa-e-organizacao-cristovao-cun-35273-2026
  -11-27@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T210000
+DTSTART;VALUE=DATE:20261127
 SUMMARY:Teatro Em Conferência iniciativa e organização Cristóvão Cunha
   e Pedro Silveira
 LOCATION:Teatro Viriato\, Viseu
@@ -4583,7 +4570,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-em-portugues-lingua-estrangeira-lingua-se-841d9-2026
  -12-03@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T110000
 SUMMARY:Provas de Mestrado em Português Língua Estrangeira/ Língua Segun
  da de Xinyu Wei — Uso de anglicismos em português: estudo aplicado a po
  dcast de jovens universitários.
@@ -4596,7 +4583,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-pedro-barros-rodrigues-cardoso-ti-c77ea-2026
  -12-03@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T110000
 SUMMARY:Provas de mestrado de Luís Pedro Barros Rodrigues Cardoso — Tít
  ulo do trabalho: "ENTRE O REAL E A FICÇÃO: Contexto Histórico Na Constr
  ução de Narrativas Audiovisuais Escrita E DESENVOLVIMENTO DE RIO
@@ -4631,10 +4618,23 @@ URL:https://lykeion.pt/e/seminario-o-ideal-de-felicidade-intelectual-de-ari
  stoteles-14f77.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sessao-do-seminario-de-investigadores-arquivos-romanos-diplo-a6deb-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Sessão do seminário de investigadores «Arquivos Romanos: Diploma
+ cia Vaticana e Direitos Humanos»
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-investigadore
+ s-arquivos-romanos-diplomacia-vaticana-e-direitos-3
+URL:https://lykeion.pt/e/sessao-do-seminario-de-investigadores-arquivos-rom
+ anos-diplo-a6deb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-do-professor-cesar-santos-silva-e-do-professor-d-3da82-2026
  -12-04@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Lisbon:20261204T153000
 SUMMARY:Conferência do Professor César Santos Silva e do Professor Doutor
   Michael Hothwell – «Os Judeus no Porto e as suas tradições: O Hanukk
  ah»
@@ -4980,7 +4980,7 @@ BEGIN:VEVENT
 UID:natal-natais-mesa-redonda-com-o-professor-doutor-istvan-rako-8fb92-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T173000
 SUMMARY:«Natal... Natais...» - Mesa-redonda com o Professor Doutor Istvá
  n Rakoczi\, o Professor Doutor Giuseppe Mea\, a Dr.a Carolina Avilez de Ba
  sto e a Dr.a Mafalda de Brito
@@ -5003,6 +5003,19 @@ DESCRIPTION:https://citer.ucp.pt/events/2a-sessao-do-ciclo-internacional-de
  -conferencias-cidade-e-mito-do-passado-ao-presente
 URL:https://lykeion.pt/e/2a-sessao-do-ciclo-internacional-de-conferencias-c
  idade-e-mi-4570b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a-permanencia-necessaria-dos-direitos-humanos-num-mundo-em-m-0f735-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T134000
+SUMMARY:A permanência necessária dos Direitos Humanos num mundo em mudan
+ ça
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/blog/eventos/blog-eventos-a-permanencia-nece
+ ssaria-dos-direitos-humanos-num-mundo-em-mudanca/
+URL:https://lykeion.pt/e/a-permanencia-necessaria-dos-direitos-humanos-num-
+ mundo-em-m-0f735.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-archives-of-conflitct-photography-between-vernac-b274d-2026
@@ -5392,7 +5405,7 @@ BEGIN:VEVENT
 UID:natal-nao-obrigado-a-perspetiva-grinch-conversa-com-a-profes-84b9f-2026
  -12-16@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T173000
 SUMMARY:«Natal? Não\, obrigado! (a perspetiva Grinch)» - Conversa com a 
  Professora Doutora Zulmira Santos e a Professora Doutora Helena Vilaça
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
@@ -5605,7 +5618,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-sara-raquel-ferreira-costa-entre-l-fe362-2027
  -01-07@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20270107
+DTSTART;TZID=Europe/Lisbon:20270107T130000
 SUMMARY:Provas de doutoramento de Sara Raquel Ferreira Costa — Entre Lín
  guas e Lirismos: A Arte da Tradução em Camilo Pessanha
 LOCATION:Universidade Aberta
@@ -5895,7 +5908,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/23615
 URL:https://lykeion.pt/e/debate-o-legado-do-4-de-fevereiro-e-as-interrogaco
  es-do-pres-e27b5.html

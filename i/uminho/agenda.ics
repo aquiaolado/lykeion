@@ -6,18 +6,6 @@ X-WR-CALNAME:Universidade do Minho (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-15@lagend
- a.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261115
-SUMMARY:Ciclo de conferências «O que diz o Direito Civil?»
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
- o.aspx?Codigo=68370
-URL:https://lykeion.pt/e/ciclo-de-conferencias-o-que-diz-o-direito-civil-97
- 4d7.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nunzio-ali-unbounded-economic-inequality-commonsense-and-phi-fe4e0-2026
  -11-15@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -29,15 +17,6 @@ DESCRIPTION:https://ceps.elach.uminho.pt/event/nunzio-ali-unbounded-economi
  c-inequality-commonsense-and-philosophical-justifications/
 URL:https://lykeion.pt/e/nunzio-ali-unbounded-economic-inequality-commonsen
  se-and-phi-fe4e0.html
-END:VEVENT
-BEGIN:VEVENT
-UID:pedimos-desculpa-mas-algo-correu-mal-29787-2026-11-15@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261115
-SUMMARY:Pedimos desculpa\, mas algo correu mal
-LOCATION:Centro IDEA\, Braga
-DESCRIPTION:https://idea.uminho.pt/pt/eventos
-URL:https://lykeion.pt/e/pedimos-desculpa-mas-algo-correu-mal-29787.html
 END:VEVENT
 BEGIN:VEVENT
 UID:announcement-for-the-award-of-a-post-doctoral-research-fello-d6560-2026
@@ -67,16 +46,6 @@ DESCRIPTION:https://www.ese.uminho.pt/pt/posgraduacao/provasacademicas/Pagi
  nas/default.aspx
 URL:https://lykeion.pt/e/provas-de-mestrado-de-antonio-augusto-ribeiro-da-s
  ilva-evolu-09cbb.html
-END:VEVENT
-BEGIN:VEVENT
-UID:13-o-forum-gdi-071e2-2026-11-19@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:13.º Fórum GDI
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
- o.aspx?Codigo=68539
-URL:https://lykeion.pt/e/13-o-forum-gdi-071e2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:announcement-for-the-award-of-one-research-fellowship-ref-a-54792-2026-
@@ -466,6 +435,15 @@ DESCRIPTION:https://www.ie.uminho.pt/pt/Eventos/_layouts/15/UMinho.PortaisU
  OEI.UI/Pages/EventsDetail.aspx?id=69624
 URL:https://lykeion.pt/e/provas-de-doutoramento-em-estudos-da-crianca-na-es
  pecialidad-a240b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ars-em-salas-de-aula-b778c-2027-01-24@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:ARS em salas de aula
+LOCATION:Centro IDEA\, Braga
+DESCRIPTION:https://idea.uminho.pt/pt/agenda/Paginas/ARS24.aspx
+URL:https://lykeion.pt/e/ars-em-salas-de-aula-b778c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-fernanda-eugenia-puga-de-magalhaes-a-e-5116d-2027

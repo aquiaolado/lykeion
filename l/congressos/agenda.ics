@@ -502,22 +502,13 @@ URL:https://lykeion.pt/e/xxx-encontro-galego-portugues-de-quimica-d8176.htm
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:13-o-forum-gdi-071e2-2026-11-19@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:13.º Fórum GDI
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
- o.aspx?Codigo=68539
-URL:https://lykeion.pt/e/13-o-forum-gdi-071e2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:13o-forum-de-gestao-de-dados-de-investigacao-831e4-2026-11-19@lagenda.p
  t
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:13o Fórum de Gestão de Dados de Investigação
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24167
 URL:https://lykeion.pt/e/13o-forum-de-gestao-de-dados-de-investigacao-831e4
  .html
@@ -710,7 +701,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -841,6 +833,16 @@ DESCRIPTION:https://www.uma.pt/noticias/xxviii-coloquio-de-outono-narrativa
  s-e-representacoes-transculturais-do-amor-call-for-papers
 URL:https://lykeion.pt/e/xxviii-coloquio-de-outono-narrativas-e-representac
  oes-transc-a0435.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-a-edicao-forum-do-medicamento-a63c8-2026-11-20@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T093000
+SUMMARY:18.ª edição Fórum do Medicamento
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.eventbrite.pt/e/18a-edicao-forum-do-medicamento-tic
+ kets-2004012616683
+URL:https://lykeion.pt/e/18-a-edicao-forum-do-medicamento-a63c8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2o-congresso-internacional-de-exercicio-terapeutico-b0172-2026-11-20@la
@@ -1186,18 +1188,6 @@ DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1051/
  gia-2026
 URL:https://lykeion.pt/e/congresso-internacional-de-microbiologia-em-lingua
  -portugues-34343.html
-END:VEVENT
-BEGIN:VEVENT
-UID:congresso-premio-best-ideas-foi-entregue-no-cnom-bc63c-2026-11-23@lagen
- da.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Congresso: Prémio Best Ideas foi entregue no CNOM
-LOCATION:Ordem dos Médicos Secção Regional do Sul
-DESCRIPTION:https://www.omsul.pt/noticias/premio-best-ideas-foi-entregue-no
- -cnom
-URL:https://lykeion.pt/e/congresso-premio-best-ideas-foi-entregue-no-cnom-b
- c63c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23-november-2026-25-november-2026-drawing-from-territory-con-ccc19-2026
@@ -1933,7 +1923,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -2151,15 +2142,6 @@ DESCRIPTION:https://cied.uminho.pt/evento-cientifico/3-o-coloquio-desafios-
  curriculares-e-pedagogicos-na-formacao-docente/
 URL:https://lykeion.pt/e/3-o-coloquio-desafios-curriculares-e-pedagogicos-n
  a-formacao-8def4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:encontro-outlook-2017-29bde-2026-12-06@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261206T140000
-SUMMARY:Encontro Outlook 2017
-LOCATION:Observatório da Emigração
-DESCRIPTION:https://observatorioemigracao.pt/np4/6118.html
-URL:https://lykeion.pt/e/encontro-outlook-2017-29bde.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bonsai-developer-conference-2026-7408a-2026-12-07@lagenda.pt
@@ -3076,6 +3058,16 @@ URL:https://lykeion.pt/e/22nd-international-conference-on-computer-graphics
  -interacti-e86ee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-summit-ap-capacitar-pela-experimentacao-55101-2027-02-26@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20270226T090000
+SUMMARY:AI Summit AP: Capacitar pela Experimentação
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/blog/eventos/ai-summit-ap/
+URL:https://lykeion.pt/e/ai-summit-ap-capacitar-pela-experimentacao-55101.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 UID:2as-jornadas-de-sociologia-58970-2027-02-27@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270227T093000
@@ -3372,6 +3364,19 @@ DESCRIPTION:https://cied.uminho.pt/evento-cientifico/simposio-internacional
  -de-educacao-de-adultos-educar-para-a-pratica-da-liberdade/
 URL:https://lykeion.pt/e/simposio-internacional-de-educacao-de-adultos-educ
  ar-para-a-db93e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-ip-ap-o-maior-impulso-de-capacitacao-digital-na-adm-14104-2027
+ -03-26@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20270326T091500
+SUMMARY:Encontro IP>AP | O maior Impulso de Capacitação Digital na Admini
+ stração Pública
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/blog/eventos/encontro-ip-ap-o-maior-impulso-
+ de-capacitacao-digital-na-administracao-publica/
+URL:https://lykeion.pt/e/encontro-ip-ap-o-maior-impulso-de-capacitacao-digi
+ tal-na-adm-14104.html
 END:VEVENT
 BEGIN:VEVENT
 UID:spsp-disponibiliza-novos-cadernos-cientificos-no-ambito-do-e-51c04-2027

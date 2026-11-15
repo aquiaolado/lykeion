@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-jose-gomes-da-veiga-tavares-bd38b-2026-
  11-16@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T130000
 SUMMARY:Provas de doutoramento de Maria José Gomes da Veiga Tavares — A
  ção Social Escolar no Ensino Superior Cabo-verdiano: Práticas\, Desafio
  s de Sustentabilidade e Contributos para o Desenvolvimento do Capit
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-andreia-esteves-titulo-do-trabalho-sus-dd5ae-2026
  -11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T110000
 SUMMARY:Provas de mestrado de Andreia Esteves — Título do trabalho: “S
  ustentabilidade e comunicação das marcas de chocolate artesanal: preocup
  ações e perceções dos consumidores”.
@@ -290,7 +290,8 @@ UID:workshop-reimaginar-a-lideranca-escola-da-energia-d62a8-2026-12-02@lage
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Workshop «Reimaginar a Liderança» - Escola da Energia
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24227
 URL:https://lykeion.pt/e/workshop-reimaginar-a-lideranca-escola-da-energia-
  d62a8.html
@@ -306,6 +307,19 @@ LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.icnova.fcsh.unl.pt/evento/forum-ocs/
 URL:https://lykeion.pt/e/i-forum-ocs-debate-comunicacao-estrategica-sustent
  abilidade-4f678.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bibliotecas-da-ap-desafios-e-oportunidades-na-inovacao-e-na-aee37-2026-
+ 12-06@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261206T093000
+SUMMARY:Bibliotecas da AP: Desafios e Oportunidades na Inovação e na Sust
+ entabilidade
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/blog/eventos/bibliotecas-da-ap-desafios-e-op
+ ortunidades-na-inovacao-e-na-sustentabilidade/
+URL:https://lykeion.pt/e/bibliotecas-da-ap-desafios-e-oportunidades-na-inov
+ acao-e-na-aee37.html
 END:VEVENT
 BEGIN:VEVENT
 UID:estudo-da-reabilitacao-de-fachada-de-edificio-de-escritorio-99c1b-2026-

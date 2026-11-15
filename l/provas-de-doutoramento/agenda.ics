@@ -70,7 +70,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-jose-gomes-da-veiga-tavares-bd38b-2026-
  11-16@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T130000
 SUMMARY:Provas de doutoramento de Maria José Gomes da Veiga Tavares — A
  ção Social Escolar no Ensino Superior Cabo-verdiano: Práticas\, Desafio
  s de Sustentabilidade e Contributos para o Desenvolvimento do Capit
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-marisa-cristina-godinho-balas-wome-b1c57-2026
  -11-17@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T130000
 SUMMARY:Provas de doutoramento de Marisa Cristina Godinho Balas — Women\,
   Land\, and Power: A Nexus Constrained by Gender Inequality in Mozambique
 LOCATION:Universidade Aberta
@@ -333,7 +333,7 @@ UID:prova-publica-de-doutoramento-e605d-2026-11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T100000
 SUMMARY:Prova Pública de Doutoramento
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-doutoramento-26/
 URL:https://lykeion.pt/e/prova-publica-de-doutoramento-e605d.html
 END:VEVENT
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-tiago-correia-pereira-baptista-jor-4c806-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
+DTSTART;TZID=Europe/Lisbon:20261118T130000
 SUMMARY:Provas de doutoramento de Tiago Correia Pereira Baptista Jorge — 
  Mediação Intercultural em Saúde\, em Portugal: o presente e o futuro
 LOCATION:Universidade Aberta
@@ -650,7 +650,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-rui-armando-ferreira-de-sa-diversi-6dca8-2026
  -11-20@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T130000
 SUMMARY:Provas de doutoramento de Rui Armando Ferreira de Sá — Diversida
  de Cultural\, Interculturalidade e Competência Intercultural nas Sociedad
  es Contemporâneas: Avaliação de Competências Interculturais em T
@@ -807,7 +807,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-carlos-jose-mendes-da-silva-os-qua-a7b47-2026
  -11-25@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;TZID=Europe/Lisbon:20261125T130000
 SUMMARY:Provas de doutoramento de Carlos José Mendes da Silva — Os quatr
  o diálogos de Tempo de agora de Martim Affonso de Miranda: edição e est
  udo
@@ -1657,17 +1657,6 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-maria-manuela-fernandes-
  lopes-cf28e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:prova-de-doutoramento-38ac2-2026-12-18@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261218T143000
-SUMMARY:Prova de Doutoramento: Participação cidadã na regeneração urba
- na para cidades inteligentes uma análise
-LOCATION:Instituto de Ciências Sociais da Universidade de Lisboa
-DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/participacao-cidada-
- na-regeneracao-urbana-para-cidades-inteligentes-uma-analise
-URL:https://lykeion.pt/e/prova-de-doutoramento-38ac2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-da-educacao-especialidade-a240b-2026
  -12-18@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1750,7 +1739,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-sara-raquel-ferreira-costa-entre-l-fe362-2027
  -01-07@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20270107
+DTSTART;TZID=Europe/Lisbon:20270107T130000
 SUMMARY:Provas de doutoramento de Sara Raquel Ferreira Costa — Entre Lín
  guas e Lirismos: A Arte da Tradução em Camilo Pessanha
 LOCATION:Universidade Aberta

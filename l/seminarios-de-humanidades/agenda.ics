@@ -412,6 +412,18 @@ DESCRIPTION:https://doi.org/10.1086/606120
 URL:https://lykeion.pt/e/https-doi-org-10-1086-606120-62865.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-voluntariado-com-proposito-e-compromisso-da-caso-95909-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T173000
+SUMMARY:Conferência «Voluntariado com Propósito e Compromisso da CASO»
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/conferencia-voluntariado-com-propo
+ sito-e-compromisso-da-caso
+URL:https://lykeion.pt/e/conferencia-voluntariado-com-proposito-e-compromis
+ so-da-caso-95909.html
+END:VEVENT
+BEGIN:VEVENT
 UID:luxemburgo-conferencia-de-marco-neves-the-cafe-orange-une-hi-8221c-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1125,7 +1137,7 @@ BEGIN:VEVENT
 UID:teatro-em-conferencia-iniciativa-e-organizacao-cristovao-cun-35273-2026
  -11-27@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T210000
+DTSTART;VALUE=DATE:20261127
 SUMMARY:Teatro Em Conferência iniciativa e organização Cristóvão Cunha
   e Pedro Silveira
 LOCATION:Teatro Viriato\, Viseu
@@ -1343,10 +1355,23 @@ URL:https://lykeion.pt/e/seminario-o-ideal-de-felicidade-intelectual-de-ari
  stoteles-14f77.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sessao-do-seminario-de-investigadores-arquivos-romanos-diplo-a6deb-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Sessão do seminário de investigadores «Arquivos Romanos: Diploma
+ cia Vaticana e Direitos Humanos»
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-investigadore
+ s-arquivos-romanos-diplomacia-vaticana-e-direitos-3
+URL:https://lykeion.pt/e/sessao-do-seminario-de-investigadores-arquivos-rom
+ anos-diplo-a6deb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-do-professor-cesar-santos-silva-e-do-professor-d-3da82-2026
  -12-04@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Lisbon:20261204T153000
 SUMMARY:Conferência do Professor César Santos Silva e do Professor Doutor
   Michael Hothwell – «Os Judeus no Porto e as suas tradições: O Hanukk
  ah»
@@ -1455,7 +1480,7 @@ BEGIN:VEVENT
 UID:natal-natais-mesa-redonda-com-o-professor-doutor-istvan-rako-8fb92-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T173000
 SUMMARY:«Natal... Natais...» - Mesa-redonda com o Professor Doutor Istvá
  n Rakoczi\, o Professor Doutor Giuseppe Mea\, a Dr.a Carolina Avilez de Ba
  sto e a Dr.a Mafalda de Brito
@@ -1478,6 +1503,19 @@ DESCRIPTION:https://citer.ucp.pt/events/2a-sessao-do-ciclo-internacional-de
  -conferencias-cidade-e-mito-do-passado-ao-presente
 URL:https://lykeion.pt/e/2a-sessao-do-ciclo-internacional-de-conferencias-c
  idade-e-mi-4570b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a-permanencia-necessaria-dos-direitos-humanos-num-mundo-em-m-0f735-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T134000
+SUMMARY:A permanência necessária dos Direitos Humanos num mundo em mudan
+ ça
+LOCATION:Instituto Nacional de Administração
+DESCRIPTION:https://www.ina.pt/blog/eventos/blog-eventos-a-permanencia-nece
+ ssaria-dos-direitos-humanos-num-mundo-em-mudanca/
+URL:https://lykeion.pt/e/a-permanencia-necessaria-dos-direitos-humanos-num-
+ mundo-em-m-0f735.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-archives-of-conflitct-photography-between-vernac-b274d-2026

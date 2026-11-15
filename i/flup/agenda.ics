@@ -1600,7 +1600,7 @@ BEGIN:VEVENT
 UID:conferencia-do-professor-cesar-santos-silva-e-do-professor-d-3da82-2026
  -12-04@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Lisbon:20261204T153000
 SUMMARY:Conferência do Professor César Santos Silva e do Professor Doutor
   Michael Hothwell – «Os Judeus no Porto e as suas tradições: O Hanukk
  ah»
@@ -1684,7 +1684,7 @@ BEGIN:VEVENT
 UID:natal-natais-mesa-redonda-com-o-professor-doutor-istvan-rako-8fb92-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T173000
 SUMMARY:«Natal... Natais...» - Mesa-redonda com o Professor Doutor Istvá
  n Rakoczi\, o Professor Doutor Giuseppe Mea\, a Dr.a Carolina Avilez de Ba
  sto e a Dr.a Mafalda de Brito
@@ -1781,7 +1781,7 @@ BEGIN:VEVENT
 UID:natal-nao-obrigado-a-perspetiva-grinch-conversa-com-a-profes-84b9f-2026
  -12-16@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261216
+DTSTART;TZID=Europe/Lisbon:20261216T173000
 SUMMARY:«Natal? Não\, obrigado! (a perspetiva Grinch)» - Conversa com a 
  Professora Doutora Zulmira Santos e a Professora Doutora Helena Vilaça
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto

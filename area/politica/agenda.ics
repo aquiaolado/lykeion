@@ -88,7 +88,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T140000
 SUMMARY:Aulas-Abertas no âmbito da Licenciatura em Ciência Política e Re
  lações Internacionais
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24223
 URL:https://lykeion.pt/e/aulas-abertas-no-ambito-da-licenciatura-em-ciencia
  -politica-b45f2.html
@@ -301,16 +302,16 @@ URL:https://lykeion.pt/e/conferencia-analysis-of-the-security-environment-i
  n-the-west-8deb0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-voluntariado-com-proposito-e-compromisso-da-caso-a8885-2026
+UID:conferencia-voluntariado-com-proposito-e-compromisso-da-caso-95909-2026
  -11-18@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T173000
 SUMMARY:Conferência «Voluntariado com Propósito e Compromisso da CASO»
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/conferencia-voluntariado-com-p
- roposito-e-compromisso-da-caso
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/conferencia-voluntariado-com-propo
+ sito-e-compromisso-da-caso
 URL:https://lykeion.pt/e/conferencia-voluntariado-com-proposito-e-compromis
- so-da-caso-a8885.html
+ so-da-caso-95909.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-doutoramento-ana-marques-provas-publicas-010d4-2026-11
@@ -571,7 +572,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T180000
 SUMMARY:Aula Aberta “Enfrentamentos a Violência Doméstica em Perspectiv
  a Comparada entre a América Latina e a União Europeia
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-enfrentamentos-a-violenci
  a-domestica-em-perspectiva-comparada-entre-a-america-latina-e-a-uniao-euro
  peia/
@@ -779,7 +780,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -873,10 +875,23 @@ URL:https://lykeion.pt/e/extinction-rebellion-in-norway-making-norwegian-oi
  l-contesta-d8d5e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sessao-do-seminario-de-investigadores-arquivos-romanos-diplo-a6deb-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Sessão do seminário de investigadores «Arquivos Romanos: Diploma
+ cia Vaticana e Direitos Humanos»
+LOCATION:Centro de Estudos de História Religiosa
+DESCRIPTION:https://cehr.ucp.pt/events/sessao-do-seminario-de-investigadore
+ s-arquivos-romanos-diplomacia-vaticana-e-direitos-3
+URL:https://lykeion.pt/e/sessao-do-seminario-de-investigadores-arquivos-rom
+ anos-diplo-a6deb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-vitor-santos-titulo-do-trabalho-a-desi-ff268-2026
  -12-04@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de Vitor Santos — Título do trabalho: “A de
  sinformação e a Guerra no Médio Oriente: um estudo sobre a TVI e CNN Po
  rtugal
@@ -1055,7 +1070,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-debora-felicidade-titulo-do-trabalho-v-51d26-2026
  -12-15@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T110000
 SUMMARY:Provas de mestrado de Débora Felicidade — Título do trabalho: "
  Verificar sem Estar no Terreno: a Utilização de Testemunhos Palestiniano
  s na Cobertura da Guerra em Gaza - Estudo de Caso da CNN Internac

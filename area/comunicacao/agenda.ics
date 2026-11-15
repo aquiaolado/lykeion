@@ -12,7 +12,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:Inscrições Workshop Hands-on Science “A Ciência não fala por 
  si
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24197
 URL:https://lykeion.pt/e/inscricoes-workshop-hands-on-science-a-ciencia-nao
  -fala-por-e7150.html
@@ -56,7 +57,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-amelia-gomes-titulo-do-trabalho-cultur-b63be-2026
  -11-16@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T110000
 SUMMARY:Provas de mestrado de Amélia Gomes — Título do trabalho: “Cul
  tura Organizacional e Comunicação Interna: Influência no desempenho e m
  otivação dos Colaboradores numa loja insígnia Continente.
@@ -280,7 +281,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-sonia-henriques-titulo-do-trabalho-o-f-be5d7-2026
  -11-19@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T110000
 SUMMARY:Provas de mestrado de Sónia Henriques — Título do trabalho: "O 
  futebol feminino em Portugal: a reputação da modalidade nos Órgãos de 
  Comunicação Social sob a perspetiva das Relações Públicas.
@@ -393,7 +394,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-andreia-esteves-titulo-do-trabalho-sus-dd5ae-2026
  -11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T110000
 SUMMARY:Provas de mestrado de Andreia Esteves — Título do trabalho: “S
  ustentabilidade e comunicação das marcas de chocolate artesanal: preocup
  ações e perceções dos consumidores”.
@@ -406,7 +407,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-camila-tavares-titulo-do-trabalho-a-co-dd5ae-2026
  -11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTART;TZID=Europe/Lisbon:20261123T110000
 SUMMARY:Provas de mestrado de Camila Tavares — Título do trabalho: "A Co
  municação com Voluntários: Uma análise das práticas das Instituiçõe
  s Particulares de Solidariedade Social do concelho de Lisboa.
@@ -457,7 +458,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-sonia-da-silva-ribeiro-titulo-do-traba-133e0-2026
  -11-24@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T110000
 SUMMARY:Provas de mestrado de Sónia da Silva Ribeiro — Título do trabal
  ho: "A Comunicação Interna nas autarquias: proposta de plano de Comunica
  ção Interna para a Câmara Municipal de Esposende.
@@ -566,23 +567,10 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-gloria-catarina-da-silva-mir
  anda-comun-84c53.html
 END:VEVENT
 BEGIN:VEVENT
-UID:feedback-na-ciencia-como-o-feedback-desenvolve-a-sua-comunic-eb54d-2026
- -11-30@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261130T140000
-SUMMARY:Feedback na Ciência: Como o Feedback Desenvolve a Sua Comunicaçã
- o Científica
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/feedback-na-ciencia-como-o-fee
- dback-desenvolve-sua-comunicacao-cientifica
-URL:https://lykeion.pt/e/feedback-na-ciencia-como-o-feedback-desenvolve-a-s
- ua-comunic-eb54d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-ines-carvalho-titulo-do-trabalho-3639c-2026
  -11-30@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261130
+DTSTART;TZID=Europe/Lisbon:20261130T110000
 SUMMARY:Provas de mestrado de Maria Inês Carvalho — Título do trabalho:
   «Desafios Éticos no Jornalismo Radiofónico Local: o Caso da Rádio Iri
  s FM.»
@@ -671,7 +659,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-cunha-segurado-titulo-do-trabalh-ff268-2026
  -12-04@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de Diogo Cunha Segurado — Título do trabalho:
   «Comunicação Digital dos Clubes de Futebol E Ligação dos Adeptos: Os
   Casos do Sport Lisboa E BENFICA E Do Sporting Clube de Portugal.»
@@ -684,7 +672,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-costa-titulo-do-trabalho-analise-ff268-2026
  -12-04@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de Joana Costa — Título do trabalho: «Análi
  se da publicidade Disney: o discurso e a perceçao de pais e filhos.»
 LOCATION:Escola Superior de Comunicação Social
@@ -696,7 +684,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-vitor-santos-titulo-do-trabalho-a-desi-ff268-2026
  -12-04@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de Vitor Santos — Título do trabalho: “A de
  sinformação e a Guerra no Médio Oriente: um estudo sobre a TVI e CNN Po
  rtugal
@@ -721,7 +709,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-correia-barbosa-titulo-do-trab-dd9d5-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:Provas de mestrado de Beatriz Correia Barbosa — Título do trabal
  ho: “Redes Sociais e Saúde Mental: Um Estudo Qualitativo sobre Brain Ro
  t\, Hiperconectividade e FOMO."
@@ -734,7 +722,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-giovanna-bandeira-titulo-do-trabalho-m-dd9d5-2026
  -12-09@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261209
+DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:Provas de mestrado de Giovanna Bandeira — Título do trabalho: «
  Marketing e Comunicação Digital B2B: Branding\, Posicionamento e Transfo
  rmação Digital na Innovx Beyond Technologies.»
@@ -808,7 +796,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-francisco-afonso-titulo-do-trabalho-cr-66390-2026
  -12-14@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261214
+DTSTART;TZID=Europe/Lisbon:20261214T110000
 SUMMARY:Provas de mestrado de Francisco Afonso — Título do trabalho: Cri
  atividade humana e inteligência artificial: o futuro da publicidade entre
   a imaginação e o algoritmo."

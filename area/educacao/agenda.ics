@@ -123,7 +123,7 @@ BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-jose-gomes-da-veiga-tavares-bd38b-2026-
  11-16@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T130000
 SUMMARY:Provas de doutoramento de Maria José Gomes da Veiga Tavares — A
  ção Social Escolar no Ensino Superior Cabo-verdiano: Práticas\, Desafio
  s de Sustentabilidade e Contributos para o Desenvolvimento do Capit
@@ -533,7 +533,8 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Departamento de Arquitetura\, Covilhã
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -978,7 +979,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-rua-titulo-do-trabalho-estrategia-133e0-2026
  -11-24@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T110000
 SUMMARY:Provas de mestrado de Inês Rua — Título do trabalho: "Estratég
  ias de Comunicação para a promoção da literacia em saúde na doença M
  ieloma Múltiplo: O Caso da Associação Portuguesa Contra a Leucemia.
@@ -1361,6 +1362,16 @@ DESCRIPTION:https://www.iscac.pt/eventos/aula-aberta-direito-a-habitacao-re
 URL:https://lykeion.pt/e/plataforma-teams-aula-aberta-6c6d0.html
 END:VEVENT
 BEGIN:VEVENT
+UID:visitas-as-exposicoes-0f687-2026-11-29@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T110000
+SUMMARY:Visitas às Exposições
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-m
+ ac-ccb/2026-11-29/
+URL:https://lykeion.pt/e/visitas-as-exposicoes-0f687.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-estefania-rodrigues-aleixo-a-his-7bf0f-2026
  -11-30@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1414,7 +1425,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T160000
 SUMMARY:Aula Aberta “Desenvolvimento da Linguagem\, Sinais de Alerta e In
  tervenção Interdisciplinar em Contextos Socioeducativos
-LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/desenvolvimento-da-linguagem-sinais-d
  e-alerta-e-intervencao-interdisciplinar-em-contextos-socioeducativos/
 URL:https://lykeion.pt/e/aula-aberta-desenvolvimento-da-linguagem-sinais-de
@@ -1545,6 +1556,18 @@ URL:https://lykeion.pt/e/3-o-coloquio-desafios-curriculares-e-pedagogicos-n
  a-formacao-8def4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-daiane-de-jesus-trindade-reis-de-diane-f3524-2026
+ -12-07@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T113000
+SUMMARY:Provas de Mestrado de Daiane de Jesus Trindade reis de Diane de Jes
+ us Trindade Reis
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100031
+URL:https://lykeion.pt/e/provas-de-mestrado-de-daiane-de-jesus-trindade-rei
+ s-de-diane-f3524.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-raquel-reguengo-goncalves-literaci-1baca-2026
  -12-07@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1570,6 +1593,17 @@ URL:https://lykeion.pt/e/convento-de-s-francisco-coimbra-8-a-reuniao-intern
  acional-da-33da4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-doutoramento-e-de-agregacao-eee14-2026-12-09@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261209
+SUMMARY:Provas de Doutoramento e de Agregação
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fpce/estudantes/informacoes-academicas/provas
+ -academicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-e-de-agregacao-eee14.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-goncalo-alves-de-moura-122e8-2026-12-09@lagen
  da.pt
 DTSTAMP:20261115T000000Z
@@ -1580,6 +1614,33 @@ DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
  ese-de-doutoramento-em-educacao-de-goncalo-de-moura
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-goncalo-alves-de-moura-1
  22e8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-jerusa-silva-dos-santos-eee14-2026-12-09@lage
+ nda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261209
+SUMMARY:Provas de doutoramento de Jerusa Silva dos Santos
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fpce/estudantes/informacoes-academicas/provas
+ -academicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-jerusa-silva-dos-santos-
+ eee14.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-joana-alexandra-mendes-sequeira-fe-eee14-2026
+ -12-09@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261209
+SUMMARY:Provas de doutoramento de Joana Alexandra Mendes Sequeira Fernandes
+  Neto
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fpce/estudantes/informacoes-academicas/provas
+ -academicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-joana-alexandra-mendes-s
+ equeira-fe-eee14.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ed-09-12-26-workshop-1861e-2026-12-09@lagenda.pt
@@ -1673,6 +1734,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
  no-supervi-0bbed.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-doutoramento-de-joao-filipe-rocha-teixeira-eee14-2026-12-14@l
+ agenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Provas de doutoramento de João Filipe Rocha Teixeira
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fpce/estudantes/informacoes-academicas/provas
+ -academicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-joao-filipe-rocha-teixei
+ ra-eee14.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-david-alexandre-assuncao-da-paz-be-122e8-2026
  -12-15@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1708,6 +1782,19 @@ DESCRIPTION:https://www.ie.ulisboa.pt/prova-academica/prova-de-projeto-de-t
  ese-de-doutoramento-em-educacao-de-ines-esteves
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-ines-gomes-esteves-122e8
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-joana-filipa-francisco-lopes-amado-eee14-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Provas de doutoramento de Joana Filipa Francisco Lopes Amado
+LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
+ de de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fpce/estudantes/informacoes-academicas/provas
+ -academicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-joana-filipa-francisco-l
+ opes-amado-eee14.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-manuela-conceicao-farinha-122e8-2026-12-16@la
