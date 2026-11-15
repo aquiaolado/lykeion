@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-pedro-ferreira-da-costa-c2cab-2026-11-16@lag
  enda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261116
+DTSTART;TZID=Europe/Lisbon:20261116T100000
 SUMMARY:Provas de mestrado de João Pedro Ferreira da Costa
 LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
 DESCRIPTION:https://esd.ipca.pt/oferta-educativa/cursos-de-mestrado/provas-
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-andre-franco-dos-santos-c9953-2026-11-17@lagenda.
  pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T100000
 SUMMARY:Provas de mestrado de André Franco dos Santos
 LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
 DESCRIPTION:https://esd.ipca.pt/oferta-educativa/cursos-de-mestrado/provas-
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-rodrigo-cesar-de-oliveira-suriba-diniz-2e09b-2026
  -11-24@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T100000
 SUMMARY:Provas de mestrado de Rodrigo Cesar de Oliveira Suriba Diniz
 LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
 DESCRIPTION:https://esd.ipca.pt/oferta-educativa/cursos-de-mestrado/provas-
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-rodrigues-pereira-bessa-e-men-7094f-2026
  -12-03@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTART;TZID=Europe/Lisbon:20261203T100000
 SUMMARY:Provas de mestrado de Ana Rita Rodrigues Pereira Bessa e Meneses
 LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
 DESCRIPTION:https://esd.ipca.pt/oferta-educativa/cursos-de-mestrado/provas-
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-de-barros-moraes-sayao-domingu-f88d0-2026
  -12-15@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T100000
 SUMMARY:Provas de mestrado de Beatriz De Barros Moraes Sayao Domingues
 LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
 DESCRIPTION:https://esd.ipca.pt/oferta-educativa/cursos-de-mestrado/provas-
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-miguel-candeias-da-silva-f88d0-2026-12-15@l
  agenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261215
+DTSTART;TZID=Europe/Lisbon:20261215T100000
 SUMMARY:Provas de mestrado de Pedro Miguel Candeias da Silva
 LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
 DESCRIPTION:https://esd.ipca.pt/oferta-educativa/cursos-de-mestrado/provas-
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-manuela-monteiro-faria-80b28-2026-12-22@lag
  enda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261222
+DTSTART;TZID=Europe/Lisbon:20261222T100000
 SUMMARY:Provas de mestrado de Joana Manuela Monteiro Faria
 LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
 DESCRIPTION:https://esd.ipca.pt/oferta-educativa/cursos-de-mestrado/provas-
