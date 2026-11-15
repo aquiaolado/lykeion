@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Ordem dos Médicos (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:exposicao-deambulacoes-cruzadas-5ade1-2026-11-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T183000
+SUMMARY:Exposição «Deambulações Cruzadas»
+LOCATION:Ordem dos Médicos
+DESCRIPTION:https://ordemdosmedicos.pt/exposicao-variacoes-de-microscopia-c
+ iencia-com-arte-ou-arte-com-ciencia
+URL:https://lykeion.pt/e/exposicao-deambulacoes-cruzadas-5ade1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-deambulacoes-cruzadas-d69b9-2026-11-19@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T173000
+SUMMARY:Exposição «Deambulações Cruzadas»
+LOCATION:Ordem dos Médicos
+DESCRIPTION:https://ordemdosmedicos.pt/exposicao-deambulacoes-cruzadas
+URL:https://lykeion.pt/e/exposicao-deambulacoes-cruzadas-d69b9.html
+END:VEVENT
+END:VCALENDAR

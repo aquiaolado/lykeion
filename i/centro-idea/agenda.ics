@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro IDEA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:pedimos-desculpa-mas-algo-correu-mal-29787-2026-11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Pedimos desculpa\, mas algo correu mal
+LOCATION:Centro IDEA\, Braga
+DESCRIPTION:https://idea.uminho.pt/pt/eventos
+URL:https://lykeion.pt/e/pedimos-desculpa-mas-algo-correu-mal-29787.html
+END:VEVENT
+END:VCALENDAR

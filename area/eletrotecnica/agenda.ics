@@ -6,6 +6,15 @@ X-WR-CALNAME:Engenharia Eletrotécnica e de Computadores (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-ieee-sobre-detecao-e-comunicacoes-integradas-iee-d838d-2026
  -11-15@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -16,6 +25,20 @@ LOCATION:Instituto de Engenharia de Sistemas e Computadores
 DESCRIPTION:https://inesc.pt/eventos/
 URL:https://lykeion.pt/e/conferencia-ieee-sobre-detecao-e-comunicacoes-inte
  gradas-iee-d838d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-engenharia-informatica-e-de-comput-5142f-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de doutoramento em Engenharia Informática e de Computadores
+  de Anthony Andrea Faustine — Efficient and Robust Machine Learning for 
+ Net- Load Forecasting in Low-Voltage Distribution Systems
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://posgraduacao.tecnico.ulisboa.pt/calendario-de-provas-ac
+ ademicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-engenharia-informatica-e
+ -de-comput-5142f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:41-a-conferencia-sobre-projecto-de-circuitos-e-sistemas-inte-b9ca5-2026
@@ -69,7 +92,7 @@ UID:workshop-from-zero-to-solana-5f1c5-2026-11-19@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Workshop From Zero to Solana
-LOCATION:Departamento de Física\, Covilhã
+LOCATION:Departamento de Arquitetura\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24195
 URL:https://lykeion.pt/e/workshop-from-zero-to-solana-5f1c5.html
 END:VEVENT
@@ -81,6 +104,18 @@ SUMMARY:Prova Pública de Mestrado
 LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-480/
 URL:https://lykeion.pt/e/prova-publica-de-mestrado-0013b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-usman-riaz-provas-publicas-de-mestrado-b28ea-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Provas de mestrado de Usman Riaz — Provas Públicas de Mestrado e
+ m Engenharia Informática (E-Learning)
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/estudar/provas-publicas/provas-mestrado
+URL:https://lykeion.pt/e/provas-de-mestrado-de-usman-riaz-provas-publicas-d
+ e-mestrado-b28ea.html
 END:VEVENT
 BEGIN:VEVENT
 UID:centro-de-investigacao-oceanica-entre-a-china-e-os-paises-de-f42e5-2026
@@ -149,6 +184,48 @@ LOCATION:Instituto de Geografia e Ordenamento do Território
 DESCRIPTION:https://www.igot.ulisboa.pt/provas
 URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
  no-supervi-e31c4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-engenharia-eletrotecnica-e-de-comp-d84d6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Provas de doutoramento em Engenharia Eletrotécnica e de Computador
+ es de Afonso Duarte Amaral Cardoso Botelho — Onboard Optimal Guidance an
+ d Control for Safe Spacecraft Rendezvous
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://posgraduacao.tecnico.ulisboa.pt/calendario-de-provas-ac
+ ademicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-engenharia-eletrotecnica
+ -e-de-comp-d84d6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-engenharia-eletrotecnica-e-de-comp-d84d6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Provas de doutoramento em Engenharia Eletrotécnica e de Computador
+ es de Ricardo Galhardas Messias — Modelling DSO and Flexibility Service 
+ Provider Interactions for Least-Cost Smart Grid Planning
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://posgraduacao.tecnico.ulisboa.pt/calendario-de-provas-ac
+ ademicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-engenharia-eletrotecnica
+ -e-de-comp-d84d6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-em-engenharia-informatica-e-de-comput-d6812-2026
+ -12-14@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Provas de doutoramento em Engenharia Informática e de Computadores
+  de Rui Orlando Magalhães Ribeiro — Characterizing Individuals through 
+ Language using Fuzzy Fingerprints and Language Models
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://posgraduacao.tecnico.ulisboa.pt/calendario-de-provas-ac
+ ademicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-engenharia-informatica-e
+ -de-comput-d6812.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-a7a18-2026

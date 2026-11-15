@@ -6,6 +6,15 @@ X-WR-CALNAME:Planetário do Porto - Centro Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:planetario-do-porto-o-sol-a-nossa-estrela-7d0be-2026-11-21@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T160000

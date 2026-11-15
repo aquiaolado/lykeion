@@ -6,6 +6,19 @@ X-WR-CALNAME:Faculdade de Medicina da Universidade de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:47o-ciclo-de-conferencias-sobre-doencas-infeciosas-dr-german-6dc32-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T120000
+SUMMARY:47o Ciclo de Conferências sobre Doenças Infeciosas Dr. Germano do
+  Carmo
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:http://www.medicina.ulisboa.pt/47o-ciclo-de-conferencias-sobre-
+ doencas-infeciosas-dr-germano-do-carmo
+URL:https://lykeion.pt/e/47o-ciclo-de-conferencias-sobre-doencas-infeciosas
+ -dr-german-6dc32.html
+END:VEVENT
+BEGIN:VEVENT
 UID:coloquio-saude-mental-e-seguranca-4f4a4-2026-11-17@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T190000
@@ -330,6 +343,19 @@ LOCATION:Faculdade de Medicina da Universidade de Lisboa
 DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
 URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-lima-ferreira-associati
  on-of-mate-fa7fe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-fabio-rafael-leite-costa-acompanhament-abe4f-2027
+ -01-03@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20270103T110000
+SUMMARY:Provas de mestrado de Fábio Rafael Leite Costa — «Acompanhament
+ o de famílias em luto em Medicina Geral e Familiar: Práticas e Atitudes 
+ do Médico de Família»
+LOCATION:Faculdade de Medicina da Universidade de Lisboa
+DESCRIPTION:https://www.medicina.ulisboa.pt/provas-academicas-1
+URL:https://lykeion.pt/e/provas-de-mestrado-de-fabio-rafael-leite-costa-aco
+ mpanhament-abe4f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-bela-demba-reabilitacao-cardiaca-e-83555-2027

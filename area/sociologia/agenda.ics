@@ -6,6 +6,19 @@ X-WR-CALNAME:Sociologia e Sociedade (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:cem-cultura-espaco-e-memoria-n-o-23-chamada-de-artigos-da9c3-2026-11-15
+ @lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:CEM - Cultura\, Espaço e Memória\, n.o 23_chamada de artigos
+LOCATION:Centro de Investigação Transdisciplinar Cultura Espaço e Memór
+ ia\, Porto
+DESCRIPTION:https://citcem.org/eventos/chamada-de-artigos-cem-cultura-espac
+ o-e-memoria-n-o-23/
+URL:https://lykeion.pt/e/cem-cultura-espaco-e-memoria-n-o-23-chamada-de-art
+ igos-da9c3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-15@lagenda
  .pt
 DTSTAMP:20261115T000000Z
@@ -26,6 +39,30 @@ LOCATION:Centro Interdisciplinar de Ciências Sociais
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/sessao-de-esclarecimento-estagi
  os-curriculares-licenciatura/
 URL:https://lykeion.pt/e/14-a-16-nov-2026-gulbenkian-e-nova-fcsh-6fe2f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-perspectivas-do-direito-na-historia-047d6-2026-11-15@lagenda.
+ pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T120000
+SUMMARY:Seminário Perspectivas do Direito na História
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-19-de-ja
+ neiro-seminario-perspectivas-do-direito-na-historia
+URL:https://lykeion.pt/e/seminario-perspectivas-do-direito-na-historia-047d
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-de-historia-europeia-do-direito-e-justica-3d598-2026-11-15@la
+ genda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261115T120000
+SUMMARY:Seminário de História Europeia do Direito e Justiça
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-16-de-de
+ zembro-seminario-de-historia-europeia-do-direito-e-justica
+URL:https://lykeion.pt/e/seminario-de-historia-europeia-do-direito-e-justic
+ a-3d598.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-is-the-process-of-adding-a-crimes-division-to-the-04037-2026-
@@ -57,17 +94,14 @@ URL:https://lykeion.pt/e/seminario-speed-la-ordenacion-del-tiempo-de-trabaj
  o-en-el-or-ebf69.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xvi-international-colloquium-arts-for-childhood-and-social-a-3bdbe-2026
- -11-15@lagenda.pt
+UID:seminarios-clinicos-clinica-e-migracao-0fd68-2026-11-15@lagenda.pt
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261115T110000
-SUMMARY:XVI International Colloquium Arts for Childhood and Social and Huma
- n Development
-LOCATION:Centro de Estudos em Música\, Avenidas Novas
-DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/xvi-international-colloquium
- -arts-for-childhood-and-social-and-human-development/
-URL:https://lykeion.pt/e/xvi-international-colloquium-arts-for-childhood-an
- d-social-a-3bdbe.html
+DTSTART;TZID=Europe/Lisbon:20261115T163000
+SUMMARY:Seminários Clínicos – Clínica e Migração
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/seminarios-clinicos-clinica-
+ e-migracao/
+URL:https://lykeion.pt/e/seminarios-clinicos-clinica-e-migracao-0fd68.html
 END:VEVENT
 BEGIN:VEVENT
 UID:26-5-a-conferencia-do-ciclo-de-conferencias-a-sociologia-na-f6533-2026-
@@ -120,6 +154,45 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/ii-curso-breve-a-revisao-d
  o-etaf-e-do-cpta
 URL:https://lykeion.pt/e/ii-curso-breve-a-revisao-do-etaf-e-do-cpta-20fa2.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+UID:lecture-urban-nature-for-climate-resilience-nature-based-sol-8539b-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Lecture: Urban Nature for Climate Resilience: Nature-based Solution
+ s for Adaptation\, Mitigation and Just Urban Transitions
+LOCATION:United Nations University\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/lecture-urban-nature-for-climate-resilience-nature
+ -based-sol-8539b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-sara-daniela-parreira-rijo-da-silv-4b5a3-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de doutoramento de Sara Daniela Parreira Rijo da Silva — E
+ ntre o silêncio e a escuta: Uma análise sociológica do bem-estar dos an
+ tigos combatentes beneficiários da Rede Nacional de Apoio
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/estudar/provas-publicas/provas-doutoramen
+ to
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-sara-daniela-parreira-ri
+ jo-da-silv-4b5a3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-tatiana-isabel-mourato-catarrinho-biol-f4a38-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Provas de mestrado de Tatiana Isabel Mourato Catarrinho — Biologi
+ a reprodutiva\, migração e distribuição do caranguejo-peludo-chinês (
+ Eriocheir sinensis) na bacia hidrográfica do rio Tejo
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/estudar/provas-publicas/provas-mestrado
+URL:https://lykeion.pt/e/provas-de-mestrado-de-tatiana-isabel-mourato-catar
+ rinho-biol-f4a38.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conversas-de-campolide-habitacao-e-democracia-01428-2026-11-17@lagenda.
@@ -202,6 +275,70 @@ SUMMARY:NOVA Science & Innovation Day
 LOCATION:Centro de Estudos em Música\, Campolide
 DESCRIPTION:https://cesem.fcsh.unl.pt/en/event/nova-science-innovation-day/
 URL:https://lykeion.pt/e/nova-science-innovation-day-c5861.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-doutoramento-ana-marques-provas-publicas-010d4-2026-11
+ -18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T150000
+SUMMARY:Prova Pública de Doutoramento - Ana Marques Provas Públicas
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
+ ovas-publicas/prova-publica-de-doutoramento-ana-marques
+URL:https://lykeion.pt/e/prova-publica-de-doutoramento-ana-marques-provas-p
+ ublicas-010d4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-mestrado-helena-coelho-provas-publicas-010d4-2026-11-1
+ 8@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Prova Pública de Mestrado - Helena Coelho Provas Públicas
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
+ ovas-publicas/prova-publica-de-mestrado-helena-coelho
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-helena-coelho-provas-pub
+ licas-010d4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-flavia-mota-araujo-acesso-a-habita-a7b63-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de doutoramento de Flávia Mota Araújo — Acesso à habita
+ ção no Grande Porto: Experiências de discriminação de pessoas migrant
+ es brasileiras e as suas implicações para a integração e o bem-estar
+LOCATION:Universidade da Maia\, Maia
+DESCRIPTION:https://www.umaia.pt/pt/ensino/provas-publicas
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-flavia-mota-araujo-acess
+ o-a-habita-a7b63.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-luana-stefani-medeiros-pontoglio-t-a7b63-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de doutoramento de Luana Stefani Medeiros Pontoglio — Traj
+ etórias migratórias de mulheres brasileiras no Porto: integração\, (re
+ )construção identitária e saúde mental
+LOCATION:Universidade da Maia\, Maia
+DESCRIPTION:https://www.umaia.pt/pt/ensino/provas-publicas
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-luana-stefani-medeiros-p
+ ontoglio-t-a7b63.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-patricia-isabel-candido-moita-auto-891de-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Provas de doutoramento de Patrícia Isabel Cândido Moita — Auton
+ omia e Vida independente da pessoa com deficiência: uma análise socioló
+ gica
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/estudar/provas-publicas/provas-doutoramen
+ to
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-patricia-isabel-candido-
+ moita-auto-891de.html
 END:VEVENT
 BEGIN:VEVENT
 UID:roundtable-discussion-alfa-movement-student-brigades-for-wor-bfe7c-2026
@@ -341,6 +478,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-fernanda-pereira-vaquero-cur
  cio-escult-62912.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-jessica-patricia-costa-santos-rocha-ha-48e40-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Provas de mestrado de Jéssica Patrícia Costa Santos Rocha — Hab
+ itação em territórios de baixa densidade: o caso da estratégia local d
+ e habitação de Arouca
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-jessica-patricia-costa-santo
+ s-rocha-ha-48e40.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminars-self-regulation-and-co-regulation-in-biosynthesis-p-ac274-2026
  -11-19@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -448,17 +598,6 @@ DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/seminario-permanente-d
  e-investigacao-cics-nova-avancos-perspectivas-e-desafios-os-25-anos-das-po
  liticas-de-descriminalizacao-das-drogas-em-portugal/
 URL:https://lykeion.pt/e/seminario-285e8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-projeto-parental-dos-casais-jovens-3a9f8-2026-11-20@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T140000
-SUMMARY:Webinar | Projeto Parental dos Casais Jovens
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/webinar-projeto-parent
- al-dos-casais-jovens/
-URL:https://lykeion.pt/e/webinar-projeto-parental-dos-casais-jovens-3a9f8.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-um-mundo-em-azul-desafios-da-transicao-demografi-69f3a-2026
@@ -589,6 +728,18 @@ URL:https://lykeion.pt/e/lancamento-do-livro-direito-constitucional-de-moca
  mbique-76dc8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-publica-de-doutoramento-joana-simoes-provas-publicas-010d4-2026-1
+ 1-23@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T150000
+SUMMARY:Prova Pública de Doutoramento - Joana Simões Provas Públicas
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
+ ovas-publicas/prova-publica-de-doutoramento-joana-simoes
+URL:https://lykeion.pt/e/prova-publica-de-doutoramento-joana-simoes-provas-
+ publicas-010d4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-diana-dias-gomes-corpos-como-campo-de-0c69f-2026-
  11-23@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -664,6 +815,18 @@ URL:https://lykeion.pt/e/ii-encontro-luso-brasileiro-sobre-direitos-humanos
  -e-terrori-83242.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-publica-de-mestrado-ana-valente-provas-publicas-010d4-2026-11-24@
+ lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Prova Pública de Mestrado - Ana Valente Provas Públicas
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
+ ovas-publicas/prova-publica-de-mestrado-ana-valente
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-ana-valente-provas-publi
+ cas-010d4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-sofia-pinto-maia-o-crime-de-violen-656ca-2026
  -11-24@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -689,6 +852,30 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/o-direito-entre-a-terra-o-
  mar-a-sustentabilidade-e-a-diaspora
 URL:https://lykeion.pt/e/seminario-o-direito-entre-a-terra-o-mar-a-sustenta
  bilidade-e-5c422.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-doutoramento-jorge-cunha-provas-publicas-010d4-2026-11
+ -25@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T143000
+SUMMARY:Prova Pública de Doutoramento - Jorge Cunha Provas Públicas
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
+ ovas-publicas/prova-publica-de-doutoramento-jorge-cunha
+URL:https://lykeion.pt/e/prova-publica-de-doutoramento-jorge-cunha-provas-p
+ ublicas-010d4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:prova-publica-de-mestrado-beatriz-conceicao-provas-publicas-010d4-2026-
+ 11-25@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Prova Pública de Mestrado - Beatriz Conceição Provas Públicas
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
+ ovas-publicas/prova-publica-de-mestrado-beatriz-conceicao
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-beatriz-conceicao-provas
+ -publicas-010d4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-da-energia-ao-carbono-proposta-de-mod-74338-2026
@@ -809,6 +996,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-debora-caroline-cardoso-entr
  e-a-reduca-12e10.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-jessica-lourenco-titulo-do-trabalho-as-28d0f-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Provas de mestrado de Jéssica Lourenço — Título do trabalho: 
+ “As mulheres jornalistas na editoria de desporto da SIC: experiências\,
+  desigualdades e riscos.
+LOCATION:Escola Superior de Comunicação Social
+DESCRIPTION:https://www.escs.upl.pt/provas-publicas-mestrado
+URL:https://lykeion.pt/e/provas-de-mestrado-de-jessica-lourenco-titulo-do-t
+ rabalho-as-28d0f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-8901f-2026-11-26@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T093000
@@ -916,6 +1116,20 @@ DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
  02272
 URL:https://lykeion.pt/e/provas-de-mestrado-de-cao-jingnan-contributo-dos-m
  arcadores-2752b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-sara-isabel-vieira-silva-avaliacao-da-69293-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Sara Isabel Vieira Silva — Avaliação da o
+ corrência de bisfenol A em águas minerais engarrafadas por recurso a té
+ cnicas de microextração e estudos de migração
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://www.uma.pt/sobre/servicos-administrativos/unidade-de-as
+ suntos-academicos-uaa/provas/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-sara-isabel-vieira-silva-ava
+ liacao-da-69293.html
 END:VEVENT
 BEGIN:VEVENT
 UID:27-11-26-research-seminar-8d0de-2026-11-27@lagenda.pt
@@ -1180,6 +1394,19 @@ DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-dezembro-70-o-anivers
  ario-da-declaracao-universal-dos-direitos-humanos
 URL:https://lykeion.pt/e/seminario-70-o-aniversario-da-declaracao-universal
  -dos-direi-5ee4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ativismo-migracao-e-direitos-trans-em-italia-conversa-com-le-6636b-2026
+ -12-09@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T150000
+SUMMARY:Ativismo\, Migração e Direitos Trans em Itália: conversa com Lei
+ la Pereira (Associazione Libellula Italia)
+LOCATION:Centro de Estudos Sociais\, Coimbra
+DESCRIPTION:https://ces.uc.pt/agenda-noticias/agenda-de-eventos/2026/ativis
+ mo-migracao-e-direitos-trans-em-italia
+URL:https://lykeion.pt/e/ativismo-migracao-e-direitos-trans-em-italia-conve
+ rsa-com-le-6636b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iii-conferencia-in-solvens-a54e2-2026-12-09@lagenda.pt
@@ -1618,7 +1845,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
-LOCATION:Departamento de Física\, Covilhã
+LOCATION:Departamento de Arquitetura\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/23615
 URL:https://lykeion.pt/e/debate-o-legado-do-4-de-fevereiro-e-as-interrogaco
  es-do-pres-e27b5.html

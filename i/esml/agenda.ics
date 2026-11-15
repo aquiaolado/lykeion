@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Escola Superior de Música de Lisboa (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:masterclass-de-trombone-com-justin-clark-79d84-2026-12-03@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Masterclass de Trombone com Justin Clark
+LOCATION:Escola Superior de Música de Lisboa
+DESCRIPTION:https://www.esml.upl.pt/en/events
+URL:https://lykeion.pt/e/masterclass-de-trombone-com-justin-clark-79d84.htm
+ l
+END:VEVENT
+END:VCALENDAR

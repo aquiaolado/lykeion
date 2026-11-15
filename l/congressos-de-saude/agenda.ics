@@ -96,7 +96,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
-LOCATION:Departamento de Física\, Covilhã
+LOCATION:Departamento de Arquitetura\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24185
 URL:https://lykeion.pt/e/iv-in2me-congresso-de-educacao-medica-da-faculdade
  -de-cienci-7d8ce.html
@@ -298,16 +298,6 @@ DESCRIPTION:https://www.ordemenfermeiros.pt/eventos/conteudos/iicongressoen
  fermagemperioperatoriaulsentredourovouga/
 URL:https://lykeion.pt/e/ii-congresso-de-enfermagem-perioperatoria-da-uls-e
  ntre-douro-14025.html
-END:VEVENT
-BEGIN:VEVENT
-UID:iv-jornadas-healthy-campus-da-ulo-82c4a-2026-11-26@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T093000
-SUMMARY:IV Jornadas Healthy Campus da ULO
-LOCATION:Universidade de Leiria e Oeste\, Leiria
-DESCRIPTION:https://www.ulo.pt/iv-jornadas-healthy-campus-da-ulo-26-de-nove
- mbro-inscricoes-gratuitas-ate-19-de-novembro/
-URL:https://lykeion.pt/e/iv-jornadas-healthy-campus-da-ulo-82c4a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:icnas-27-11-2026-5th-annual-meeting-of-cibit-6e3e2-2026-11-27@lagenda.p
@@ -828,5 +818,18 @@ DESCRIPTION:http://www.spneurologia.com/evento/20-congresso-da-sociedade-po
  rtuguesa-de-neuropedia/532
 URL:https://lykeion.pt/e/20o-congresso-da-sociedade-portuguesa-de-neuropedi
  atria-5109b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:41-a-reuniao-anual-do-grupo-de-estudos-de-envelhecimento-cer-b9afb-2027
+ -05-14@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270514
+SUMMARY:41.ª Reunião Anual do Grupo de Estudos de Envelhecimento Cerebral
+  e Demência (GEECD)
+LOCATION:Sociedade Portuguesa de Neurologia\, Matosinhos
+DESCRIPTION:http://www.spneurologia.com/evento/41-reuniao-anual-do-grupo-de
+ -estudos-de-envelhecim/528
+URL:https://lykeion.pt/e/41-a-reuniao-anual-do-grupo-de-estudos-de-envelhec
+ imento-cer-b9afb.html
 END:VEVENT
 END:VCALENDAR

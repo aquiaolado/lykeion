@@ -6,6 +6,17 @@ X-WR-CALNAME:Geografia e Território (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:a-escola-com-autonomia-instituto-da-mobilidade-e-dos-transpo-18cd0-2026
+ -11-15@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:A Escola com Autonomia - Instituto da Mobilidade e dos Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/ir-para-a-escola-com-autonomia/
+URL:https://lykeion.pt/e/a-escola-com-autonomia-instituto-da-mobilidade-e-d
+ os-transpo-18cd0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:22-10-2026-22-12-2026-exposicao-itinerante-landscape-togethe-275dc-2026
  -11-15@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -35,7 +46,7 @@ UID:exposicao-a-bordamos-o-nosso-territorio-c3b92-2026-11-15@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:Exposição “(A)Bordamos o Nosso Território
-LOCATION:Departamento de Física\, Covilhã
+LOCATION:Departamento de Arquitetura\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24221
 URL:https://lykeion.pt/e/exposicao-a-bordamos-o-nosso-territorio-c3b92.html
 END:VEVENT
@@ -46,7 +57,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
-LOCATION:Departamento de Física\, Covilhã
+LOCATION:Departamento de Arquitetura\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24178
 URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
@@ -117,7 +128,7 @@ UID:6o-seminario-cpcj-covilha-violencia-domestica-quebrar-ciclos-43bc0-2026
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:6o Seminário CPCJ Covilhã "Violência Doméstica: Quebrar Ciclos
-LOCATION:Departamento de Física\, Covilhã
+LOCATION:Departamento de Arquitetura\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24163
 URL:https://lykeion.pt/e/6o-seminario-cpcj-covilha-violencia-domestica-queb
  rar-ciclos-43bc0.html
@@ -349,6 +360,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-rui-jorge-martins-monteiro-o
  -comboio-p-201a9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-jessica-patricia-costa-santos-rocha-ha-48e40-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Provas de mestrado de Jéssica Patrícia Costa Santos Rocha — Hab
+ itação em territórios de baixa densidade: o caso da estratégia local d
+ e habitação de Arouca
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-jessica-patricia-costa-santo
+ s-rocha-ha-48e40.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T170000
@@ -445,17 +469,6 @@ DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/seminario-permanente-d
  e-investigacao-cics-nova-avancos-perspectivas-e-desafios-os-25-anos-das-po
  liticas-de-descriminalizacao-das-drogas-em-portugal/
 URL:https://lykeion.pt/e/seminario-285e8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-projeto-parental-dos-casais-jovens-3a9f8-2026-11-20@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261120T140000
-SUMMARY:Webinar | Projeto Parental dos Casais Jovens
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/webinar-projeto-parent
- al-dos-casais-jovens/
-URL:https://lykeion.pt/e/webinar-projeto-parental-dos-casais-jovens-3a9f8.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 UID:manifestacao-nacional-a-exigir-respeito-pela-voz-das-populac-d8146-2026
@@ -602,6 +615,18 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-alexandre-daniel-sa-araujo-r
  odrigues-a-6ea50.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-luisa-fineza-gustavo-adocao-no-ordenam-77ae6-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T110000
+SUMMARY:Provas de mestrado de  Luísa Fineza Gustavo — Adoção no Ord
+ enamento Jurídico Português
+LOCATION:Universidade Autónoma de Lisboa\, Santo António
+DESCRIPTION:https://autonoma.pt/prova-publica/luisa-fineza-gustavo/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-luisa-fineza-gustavo-adocao-
+ no-ordenam-77ae6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aproximacao-da-data-xi-encontro-citcem-46772-2026-11-25@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261125
@@ -651,18 +676,18 @@ URL:https://lykeion.pt/e/evolucao-de-espaco-e-territorio-retrospectivas-con
  ceituais-e-b2c04.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-despacho-n-o-185-2026-relatorio-so-02130-2026
+UID:provas-de-agregacao-de-sergio-paulo-avila-campos-marques-rel-02130-2026
  -11-27@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261127
-SUMMARY:Provas de doutoramento de Despacho n.o 185/2026 — Relatório sobr
- e a unidade curricular – Biogeografia Insular Marinha Seminário: O mode
- lo dinâmico sensível ao nível do mar (SLS) da biogeografia insula
+SUMMARY:Provas de agregação de Sérgio Paulo Ávila Campos Marques — Re
+ latório sobre a unidade curricular – Biogeografia Insular Marinha Semin
+ ário: O modelo dinâmico sensível ao nível do mar (SLS) da biogeograf
 LOCATION:Universidade dos Açores\, Ponta Delgada
 DESCRIPTION:https://uac.pt/sites/default/files/desp.185-2026juridoutorsergi
  omarques.pdf
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-despacho-n-o-185-2026-re
- latorio-so-02130.html
+URL:https://lykeion.pt/e/provas-de-agregacao-de-sergio-paulo-avila-campos-m
+ arques-rel-02130.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-raquel-arezes-nascimento-aspectos-4b94c-2026-
@@ -729,6 +754,19 @@ DESCRIPTION:https://sigarra.up.pt/faup/noticias_geral.ver_noticia?p_nr=9638
  6
 URL:https://lykeion.pt/e/apresentacao-do-livro-urbanismo-agora-manual-para-
  urbanistas-3d11d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:interfaces-descomplicar-a-mobilidade-instituto-da-mobilidade-61971-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Interfaces: Descomplicar a Mobilidade - Instituto da Mobilidade e d
+ os Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/interfaces-descomplicar-a-mobilida
+ de/
+URL:https://lykeion.pt/e/interfaces-descomplicar-a-mobilidade-instituto-da-
+ mobilidade-61971.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-estagio-delimitacao-das-a-e31c4-2026
@@ -883,6 +921,19 @@ URL:https://lykeion.pt/e/2a-sessao-do-ciclo-internacional-de-conferencias-c
  idade-e-mi-4570b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:8o-encontro-anual-das-autoridades-de-transportes-instituto-d-73b85-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:8o Encontro Anual das Autoridades de Transportes - Instituto da Mob
+ ilidade e dos Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/8o-encontro-anual-das-autoridades-
+ de-transportes/
+URL:https://lykeion.pt/e/8o-encontro-anual-das-autoridades-de-transportes-i
+ nstituto-d-73b85.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mesa-redonda-1eb1c-2026-12-10@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T103000
@@ -890,6 +941,17 @@ SUMMARY:Mesa redonda re place
 LOCATION:Centro de Estudos Geográficos
 DESCRIPTION:https://ceg.igot.ulisboa.pt/eventos/mesa-redonda-re-place
 URL:https://lykeion.pt/e/mesa-redonda-1eb1c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pesados-com-pegada-leve-instituto-da-mobilidade-e-dos-transp-1a504-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Pesados com Pegada Leve - Instituto da Mobilidade e dos Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/ciclo-de-encontros/
+URL:https://lykeion.pt/e/pesados-com-pegada-leve-instituto-da-mobilidade-e-
+ dos-transp-1a504.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rui-joao-ramos-afonso-o-artico-e-as-ro-39223-2026
@@ -931,18 +993,18 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
  no-supervi-0bbed.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-de-despacho-n-o-271-2026-retificacao-a89dc-2026-
- 12-14@lagenda.pt
+UID:provas-de-agregacao-de-rui-alexandre-marcal-dias-castanho-re-a89dc-2026
+ -12-14@lagenda.pt
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261214
-SUMMARY:Provas de doutoramento de Despacho n.o 271/2026 Retificação — R
- elatório sobre a unidade curricular – Governança Territorial e Planeam
- ento Estratégico para Sistemas de Economia Circular Lição: Territor
+SUMMARY:Provas de agregação de Rui Alexandre Marçal Dias Castanho — Re
+ latório sobre a unidade curricular – Governança Territorial e Planeame
+ nto Estratégico para Sistemas de Economia Circular Lição: Territoria
 LOCATION:Universidade dos Açores\, Ponta Delgada
 DESCRIPTION:https://uac.pt/sites/default/files/desp.271-2026juriagregruicas
  tanho.pdf
-URL:https://lykeion.pt/e/provas-de-doutoramento-de-despacho-n-o-271-2026-re
- tificacao-a89dc.html
+URL:https://lykeion.pt/e/provas-de-agregacao-de-rui-alexandre-marcal-dias-c
+ astanho-re-a89dc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-alves-pereira-cartografia-de-e38e2-2026-
@@ -1047,6 +1109,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
  no-supervi-a7a18.html
 END:VEVENT
 BEGIN:VEVENT
+UID:7o-encontro-anual-das-autoridades-de-transportes-instituto-d-1785f-2026
+ -12-18@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:7o Encontro Anual das Autoridades de Transportes - Instituto da Mob
+ ilidade e dos Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/7o-encontro-anual-das-autoridades-
+ de-transportes/
+URL:https://lykeion.pt/e/7o-encontro-anual-das-autoridades-de-transportes-i
+ nstituto-d-1785f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:a-participacao-cidada-na-regeneracao-urbana-para-cidades-int-38ac2-2026
  -12-18@lagenda.pt
 DTSTAMP:20261115T000000Z
@@ -1059,6 +1134,31 @@ DESCRIPTION:https://www.ics.ulisboa.pt/prova-academica/participacao-cidada-
  na-regeneracao-urbana-para-cidades-inteligentes-uma-analise
 URL:https://lykeion.pt/e/a-participacao-cidada-na-regeneracao-urbana-para-c
  idades-int-38ac2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-fernanda-eugenia-puga-de-magalhaes-a-e-5116d-2027
+ -02-01@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270201
+SUMMARY:Provas de mestrado de Fernanda Eugénia Puga de Magalhães — A ev
+ olução do sistema viário em Braga: desde a cidade romana à cidade mode
+ rna
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.ics.uminho.pt/pt/Ensino/Mestrados/Paginas/Provas.as
+ px
+URL:https://lykeion.pt/e/provas-de-mestrado-de-fernanda-eugenia-puga-de-mag
+ alhaes-a-e-5116d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:projeto-1bilhete-pt-instituto-da-mobilidade-e-dos-transporte-6fc9b-2027
+ -02-10@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270210
+SUMMARY:Projeto 1Bilhete.pt - Instituto da Mobilidade e dos Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/projeto-1bilhete-pt/
+URL:https://lykeion.pt/e/projeto-1bilhete-pt-instituto-da-mobilidade-e-dos-
+ transporte-6fc9b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-daniela-martins-pereira-da-silva-d-bf420-2027
@@ -1120,6 +1220,19 @@ LOCATION:Centro de Investigação do Território Transportes e Ambiente\, P
  orto
 DESCRIPTION:https://citta.fe.up.pt/events/ciclo-de-sessoes-ao-1-2-dia-1
 URL:https://lykeion.pt/e/ciclo-de-sessoes-ao-12-dia-b2c13.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-jornadas-de-certificacao-ferroviaria-instituto-da-mobilid-e2954-2027
+ -03-27@lagenda.pt
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:II Jornadas de Certificação Ferroviária - Instituto da Mobilidad
+ e e dos Transportes
+LOCATION:Instituto da Mobilidade e dos Transportes
+DESCRIPTION:https://www.imt-ip.pt/evento/ii-jornadas-de-certificacao-ferrov
+ iaria/
+URL:https://lykeion.pt/e/ii-jornadas-de-certificacao-ferroviaria-instituto-
+ da-mobilid-e2954.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-as-minas-na-cidade-dos-arquivos-chega-ao-lousal-62ca6-2027-03
