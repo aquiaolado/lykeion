@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UC CEMMPRE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:cemmpre-and-arise-at-iums-2026-congress-2ffd5-2026-11-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T143000
+SUMMARY:CEMMPRE and ARISE at IUMS 2026 Congress
+LOCATION:Centro de Engenharia Mecânica Materiais e Processos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cemmpre/news/cemmpre-and-arise-at-iums-2026-c
+ ongress/
+URL:https://lykeion.pt/e/cemmpre-and-arise-at-iums-2026-congress-2ffd5.html
+END:VEVENT
+END:VCALENDAR

@@ -64,6 +64,50 @@ function publicar(array $v): void {  // junta a linha ao CSV no GitHub (volta a 
 }
 function chave_org(string $id): string { return substr(hash_hmac('sha256', "lykeion-org|$id", segredo()), 0, 20); }  // a mesma do inscrever.php
 function link_org(string $id): string { global $URL; return $URL . 'conta/inscrever.php?org=' . rawurlencode($id) . '&k=' . chave_org($id); }
+// ---- revisão antes de sair (16/11/2026, plano «dar o salto», modelo Calenda) ----
+// Quem propõe vê primeiro como fica («Assim aparece no Lykeion») e confirma. O Lykeion revê sozinho: o que for grave
+// (pode não ser ciência, já está no site, título em maiúsculas ou enorme, ligações na descrição) fica à espera da gestão,
+// mesmo com o link pessoal da instituição; o resto publica logo. A gestão vê tudo o que espera numa fila (?fila).
+const NAO_CIENCIA = '/\b(festas?|arraial|jantar|almo[cç]o[- ]conv[ií]vio|receitas?|concertos?|baile|karaoke|sunset|dj|missa|sorteio|desconto|promo[cç][aã]o|venda de|feira de emprego|happy hour)\b/iu';
+const MOTIVOS = ['ciencia' => 'Não é um evento de ciência (festas, concertos e jantares têm outras agendas).', 'repetido' => 'O evento já está no Lykeion.',
+                 'dados' => 'Faltam dados para o publicar (data, local ou ligação para a página oficial).', 'portugal' => 'Não é em Portugal nem de uma instituição portuguesa.',
+                 'pago' => 'O Lykeion não publica anúncios nem promoções.'];
+function chave_fila(): string { return substr(hash_hmac('sha256', 'lykeion-fila', segredo()), 0, 24); }
+function sem_acento(string $t): string {
+  $t = mb_strtolower($t);
+  return strtr($t, ['á' => 'a', 'à' => 'a', 'â' => 'a', 'ã' => 'a', 'é' => 'e', 'ê' => 'e', 'í' => 'i', 'ó' => 'o', 'ô' => 'o', 'õ' => 'o', 'ú' => 'u', 'ü' => 'u', 'ç' => 'c']);
+}
+function palavras(string $t): array { return array_values(array_unique(array_filter(preg_split('/[^a-z0-9]+/', sem_acento($t)), fn($w) => strlen($w) >= 4))); }
+function parecido(array $v): array {  // o mesmo dia e um título quase igual nos eventos do site: [título, endereço] ou []
+  global $URL; $a = palavras($v['titulo']); if (count($a) < 2) return [];
+  foreach ((array)(acad()['ev'] ?? []) as $e) {
+    if (!in_array($v['data_inicio'], (array)($e['d'] ?? []), true)) continue;
+    $b = palavras((string)($e['n'] ?? '')); if (count($b) < 2) continue;
+    if (count(array_intersect($a, $b)) / min(count($a), count($b)) >= 0.7) return [(string)$e['n'], $URL . 'e/' . ($e['pg'] ?? '') . '.html'];
+  }
+  return [];
+}
+function revisao(array $v): array {  // ['grave' => [...], 'leve' => [...]]
+  $g = []; $l = []; $t = $v['titulo'];
+  if (preg_match('/\p{Lu}{3}/u', $t) && $t === mb_strtoupper($t)) $g[] = 'O título está todo em maiúsculas.';
+  if (mb_strlen($t) > 140) $g[] = 'O título é muito comprido (mais de 140 carateres): o resto pode ir para «Em poucas palavras».';
+  if (preg_match(NAO_CIENCIA, $t)) $g[] = 'Pode não ser um evento de ciência (festas, concertos e jantares têm outras agendas).';
+  if (preg_match('#https?://|www\.#i', $v['descricao'])) $g[] = 'A descrição tem ligações (só a ligação oficial aparece no Lykeion).';
+  $j = parecido($v); if ($j) $g[] = 'Parece já estar no Lykeion: «' . $j[0] . '» (' . $j[1] . ').';
+  if ($v['hora'] === '') $l[] = 'Sem hora: quem procura gosta de saber a que horas começa.';
+  if ($v['instituicao'] === '') $l[] = 'Sem instituição da nossa lista.';
+  if ($v['local'] === '' && $v['modo'] !== 'online') $l[] = 'Sem sala nem edifício.';
+  return ['grave' => $g, 'leve' => $l];
+}
+function frase_evento(array $v, array $subs): string {  // a mesma frase das páginas de evento do Lykeion
+  $SEM = ['domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado']; $MES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+  $longo = fn($d) => $SEM[(int)date('w', strtotime($d))] . ', ' . (int)substr($d, 8, 2) . ' de ' . $MES[(int)substr($d, 5, 2) - 1];
+  $tipo = ''; foreach ($subs as $s) if ($s[0] === $v['subtipo']) $tipo = $s[1];
+  $inst = nome_inst($v['instituicao']);
+  $f = ($tipo ?: 'Evento') . ($inst ? ", com organização de $inst" : '') . ($v['modo'] === 'online' ? ', online' : ", em {$v['concelho']}") . ', ' . $longo($v['data_inicio']);
+  if ($v['data_fim'] !== $v['data_inicio']) $f .= ' (até ' . $longo($v['data_fim']) . ')';
+  return $f . ($v['hora'] ? ", às {$v['hora']}" : '') . '.';
+}
 function data_ok(string $d): bool { return (bool)preg_match('/^\d{4}-\d{2}-\d{2}$/', $d) && checkdate((int)substr($d, 5, 2), (int)substr($d, 8, 2), (int)substr($d, 0, 4)); }
 $h = fn($s) => htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8');
 
@@ -94,15 +138,69 @@ try {
     exit('</table>' . $fim);
   }
 
+  // ---- a fila da revisão (16/11/2026): tudo o que espera, com publicar e recusar com o motivo ----
+  if (isset($_GET['fila'])) {
+    if (!k_ok(chave_fila())) {
+      if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+        enviar_email($CFG['email_avisos'], '[Lykeion] Fila da revisão', "Para ver o que espera por revisão:\n{$URL}conta/propor.php?fila&k=" . chave_fila() . "\n", '', 'Lykeion');
+        exit($topo . '<p>Enviado para o email da gestão.</p>' . $fim);
+      }
+      exit($topo . '<h1>Fila da revisão</h1><form method="post"><p>O link para a fila vai para o email da gestão.</p><button style="padding:10px 16px">Enviar</button></form>' . $fim);
+    }
+    $q = pp_bd()->prepare("SELECT id, dados, email, criado_em FROM lg_propostas WHERE estado = 'espera' AND criado_em >= ? ORDER BY criado_em DESC LIMIT 200");
+    $q->execute([date('Y-m-d H:i:s', strtotime('-120 days'))]);
+    $c = pp_bd()->prepare('SELECT estado, COUNT(*) FROM lg_propostas WHERE criado_em >= ? GROUP BY estado'); $c->execute([date('Y-m-d H:i:s', strtotime('-30 days'))]);
+    $cont = $c->fetchAll(PDO::FETCH_KEY_PAIR);
+    echo $topo, '<h1>Fila da revisão</h1><p style="color:var(--suave)">Últimos 30 dias: ', (int)($cont['publicada'] ?? 0), ' publicados, ', (int)($cont['espera'] ?? 0), ' à espera, ', (int)($cont['recusada'] ?? 0), ' recusados.</p>';
+    $n = 0;
+    foreach ($q->fetchAll(PDO::FETCH_ASSOC) as $r) {
+      $v = json_decode($r['dados'], true) ?: []; $id = $r['id']; $n++;
+      if (($v['data_inicio'] ?? $v['prazo'] ?? '9') < date('Y-m-d')) continue;  // já passou: não vale a pena
+      $t = $v['titulo'] ?? $v['nome'] ?? '';
+      echo '<article style="border:1px solid var(--linha);border-radius:10px;padding:12px 14px;margin:12px 0"><p class="rot" style="margin:0">', $h($r['criado_em']), ' · ', $h($v['quem'] ?? ''), ' · ', $h($r['email']), '</p>',
+        '<h2 style="margin:4px 0;font-size:1.1rem">', $h($t), '</h2><p style="margin:0">', $h(($v['data_inicio'] ?? 'Prazo ' . ($v['prazo'] ?? '')) . (!empty($v['hora']) ? ' às ' . $v['hora'] : '') . ' · ' . (nome_inst($v['instituicao'] ?? '') ?: ($v['entidade'] ?? '')) . (!empty($v['concelho']) ? ' · ' . $v['concelho'] : '')), '</p>',
+        !empty($v['url'] ?? $v['ligacao'] ?? '') ? '<p style="margin:4px 0"><a href="' . $h($v['url'] ?? $v['ligacao']) . '" rel="nofollow noopener" target="_blank">' . $h(mb_substr($v['url'] ?? $v['ligacao'], 0, 90)) . '</a></p>' : '',
+        !empty($v['_rev']) ? '<p style="margin:4px 0;color:var(--legenda)">' . implode('<br>', array_map($h, (array)$v['_rev'])) . '</p>' : '',
+        '<form method="post" action="?recusar=', $h(rawurlencode($id)), '&amp;k=', chave_aprovar($id), '" style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:8px">',
+        '<a class="bt" style="background:var(--cobalto);color:#fff;border-color:var(--cobalto)" href="?aprovar=', $h(rawurlencode($id)), '&amp;k=', chave_aprovar($id), '">Publicar</a>',
+        '<select name="motivo">', implode('', array_map(fn($k, $m) => '<option value="' . $k . '">' . $h($m) . '</option>', array_keys(MOTIVOS), MOTIVOS)), '</select>',
+        '<button class="bt">Recusar</button></form></article>';
+    }
+    if (!$n) echo '<p>Nada à espera. 🎉</p>';
+    exit($fim);
+  }
+  // ---- recusar com o motivo (quem propôs recebe um email curto) ----
+  if (isset($_GET['recusar'])) {
+    $id = mb_substr((string)$_GET['recusar'], 0, 16);
+    if (!k_ok(chave_aprovar($id)) || $_SERVER['REQUEST_METHOD'] !== 'POST') { http_response_code(403); exit($topo . '<p>Este link não é válido.</p>' . $fim); }
+    $q = pp_bd()->prepare('SELECT dados, estado, email FROM lg_propostas WHERE id = ?'); $q->execute([$id]); $r = $q->fetch(PDO::FETCH_ASSOC);
+    if (!$r) exit($topo . '<p>Não encontrei esta proposta.</p>' . $fim);
+    $v = json_decode($r['dados'], true) ?: []; $t = $v['titulo'] ?? $v['nome'] ?? '';
+    $motivo = MOTIVOS[(string)($_POST['motivo'] ?? '')] ?? MOTIVOS['dados'];
+    if ($r['estado'] === 'espera') {
+      pp_bd()->prepare("UPDATE lg_propostas SET estado = 'recusada' WHERE id = ?")->execute([$id]);
+      if (filter_var($r['email'], FILTER_VALIDATE_EMAIL))
+        enviar_email($r['email'], 'O seu evento no Lykeion: ' . mb_substr($t, 0, 80), "Olá,\n\nObrigado por nos mandar «{$t}». Desta vez não o publicamos:\n\n$motivo\n\n"
+          . "Se acha que nos enganámos, responda a este email e voltamos a ver.\n\nLykeion · O encontro da ciência\n", '', 'Lykeion');
+    }
+    exit($topo . '<p>Recusado: <b>' . $h($t) . '</b>. ' . (filter_var($r['email'], FILTER_VALIDATE_EMAIL) ? 'Quem propôs recebeu o motivo por email.' : '') . '</p><p><a href="?fila&amp;k=' . chave_fila() . '">Voltar à fila</a></p>' . $fim);
+  }
+
   // ---- aprovar uma proposta que ficou à espera (um clique no email) ----
   if (isset($_GET['aprovar'])) {
     $id = mb_substr((string)$_GET['aprovar'], 0, 16);
     if (!k_ok(chave_aprovar($id))) { http_response_code(403); exit($topo . '<p>Este link não é válido.</p>' . $fim); }
     $q = pp_bd()->prepare('SELECT dados, estado FROM lg_propostas WHERE id = ?'); $q->execute([$id]); $r = $q->fetch(PDO::FETCH_ASSOC);
     if (!$r) exit($topo . '<p>Não encontrei esta proposta.</p>' . $fim);
-    if ($r['estado'] !== 'publicada') { publicar(json_decode($r['dados'], true)); pp_bd()->prepare("UPDATE lg_propostas SET estado = 'publicada' WHERE id = ?")->execute([$id]); }
-    $v = json_decode($r['dados'], true);
-    exit($topo . '<p>Publicado: <b>' . $h($v['titulo'] ?? $v['nome'] ?? '') . '</b>. Aparece no Lykeion daqui a uns minutos.</p>' . $fim);
+    $v = json_decode($r['dados'], true); unset($v['_rev']);
+    if ($r['estado'] !== 'publicada') {
+      publicar($v); pp_bd()->prepare("UPDATE lg_propostas SET estado = 'publicada' WHERE id = ?")->execute([$id]);
+      $em = pp_bd()->prepare('SELECT email FROM lg_propostas WHERE id = ?'); $em->execute([$id]); $em = (string)$em->fetchColumn();
+      if (filter_var($em, FILTER_VALIDATE_EMAIL) && !empty($v['titulo']))  // 16/11/2026: quem propôs fica a saber que já saiu
+        enviar_email($em, 'Já está no Lykeion: ' . mb_substr($v['titulo'], 0, 80), "Olá,\n\nRevimos e publicámos o seu evento:\n\n{$v['titulo']}\n{$v['data_inicio']}" . (!empty($v['hora']) ? " às {$v['hora']}" : '')
+          . "\n\nAparece no Lykeion daqui a uns minutos. Obrigado!\n\nLykeion · O encontro da ciência\n", '', 'Lykeion');
+    }
+    exit($topo . '<p>Publicado: <b>' . $h($v['titulo'] ?? $v['nome'] ?? '') . '</b>. Aparece no Lykeion daqui a uns minutos.</p><p><a href="?fila&amp;k=' . chave_fila() . '">Voltar à fila</a></p>' . $fim);
   }
 
   // ---- propor um prazo de bolsa, prémio ou concurso (8/11/2026) ----
@@ -198,13 +296,40 @@ try {
     $ip = hash('sha256', ($_SERVER['REMOTE_ADDR'] ?? '') . segredo());
     $q = pp_bd()->prepare('SELECT COUNT(*) FROM lg_propostas WHERE ip = ? AND criado_em >= ?'); $q->execute([$ip, date('Y-m-d 00:00:00')]);
     if (!$pessoal && (int)$q->fetchColumn() >= MAX_DIA_IP) $erros[] = 'Recebemos muitas propostas deste endereço hoje. Tente amanhã ou escreva para info@lykeion.pt.';
-    if (!$erros) {
+    $rev = $erros ? ['grave' => [], 'leve' => []] : revisao($v);
+    if (!$erros && !empty($P['corrigir'])) $erros = [];  // «Corrigir»: volta ao formulário, preenchido
+    elseif (!$erros && empty($P['confirmar'])) {
+      // ---- «Assim aparece no Lykeion»: quem propõe vê e confirma antes de enviar ----
+      $esc = '';
+      foreach ($P as $k => $x) {
+        if (in_array($k, ['confirmar', 'corrigir'], true)) continue;
+        foreach ((array)$x as $y) $esc .= '<input type="hidden" name="' . $h(is_array($x) ? "{$k}[]" : $k) . '" value="' . $h($y) . '">';
+      }
+      $logo_ = ($pessoal || $dono !== '') && !$rev['grave'];
+      echo $topo, '<h1>Assim aparece no Lykeion</h1><p style="color:var(--suave);margin:4px 0 14px">Veja se está tudo certo antes de enviar.</p>',
+        '<article style="border:1px solid var(--linha);border-radius:12px;padding:16px 18px;background:var(--papel)">',
+        '<p class="rot" style="margin:0 0 6px">', $h(nome_inst($v['instituicao']) ?: 'Sem instituição'), '</p><h2 style="margin:0 0 8px">', $h($v['titulo']), '</h2>',
+        '<p style="margin:0 0 8px">', $h(frase_evento($v, $subs)), '</p>',
+        $v['local'] ? '<p style="margin:0 0 8px">' . $h($v['local']) . ', ' . $h($v['concelho']) . '</p>' : '',
+        $v['descricao'] ? '<p style="margin:0 0 8px;white-space:pre-wrap">' . $h($v['descricao']) . '</p>' : '',
+        $v['url'] ? '<p style="margin:0"><a href="' . $h($v['url']) . '" rel="nofollow noopener" target="_blank">Página oficial do evento</a></p>' : '',
+        $v['inscricoes'] ? '<p style="margin:8px 0 0"><b>Inscrições gratuitas no Lykeion</b>' . ($v['lotacao'] ? ' · ' . $h($v['lotacao']) . ' lugares' : '') . '</p>' : '',
+        $v['prazo'] ? '<p style="margin:8px 0 0">Chamada de comunicações até ' . $h($v['prazo']) . '</p>' : '', '</article>',
+        $rev['grave'] ? '<div style="background:#FBE9E1;border-left:3px solid var(--legenda);padding:8px 12px;margin-top:14px"><b>Antes de aparecer, revemos isto à mão:</b><br>' . implode('<br>', array_map($h, $rev['grave'])) . '</div>' : '',
+        $rev['leve'] ? '<div style="border-left:3px solid var(--linha);padding:8px 12px;margin-top:14px;color:var(--suave)"><b>Sugestões</b> (pode enviar assim):<br>' . implode('<br>', array_map($h, $rev['leve'])) . '</div>' : '',
+        '<form method="post" style="margin-top:18px">', $esc,
+        '<button class="bt" name="confirmar" value="1" style="background:var(--cobalto);color:#fff;border-color:var(--cobalto)">', $logo_ ? 'Publicar' : 'Enviar para revisão', '</button> ',
+        '<button class="bt" name="corrigir" value="1">Corrigir</button></form>',
+        '<p style="color:var(--suave);font-size:14px">', $logo_ ? 'Aparece no Lykeion daqui a uns minutos.' : 'Vemos o evento antes de aparecer, normalmente no próprio dia, e avisamos por email.', '</p>', $fim;
+      exit;
+    }
+    if (!$erros && empty($P['corrigir'])) {
       $v['id'] = substr(sha1($v['titulo'] . '|' . $v['data_inicio'] . '|' . ($v['url'] ?: $v['instituicao'] . $v['local'])), 0, 12);
       $v['enviado_em'] = date('Y-m-d'); $v['quem'] = $pessoal ? 'instituicao' : ($dono ? 'site-da-instituicao' : 'visitante');
       $ja = pp_bd()->prepare('SELECT estado FROM lg_propostas WHERE id = ?'); $ja->execute([$v['id']]); $antes = $ja->fetchColumn();
-      $logo = $pessoal || $dono !== '';
+      $logo = ($pessoal || $dono !== '') && !$rev['grave'];
       if ($antes === false) pp_bd()->prepare('INSERT INTO lg_propostas (id, dados, email, ip, estado, criado_em) VALUES (?,?,?,?,?,?)')
-        ->execute([$v['id'], json_encode($v, JSON_UNESCAPED_UNICODE), $email, $ip, $logo ? 'publicada' : 'espera', date('Y-m-d H:i:s')]);
+        ->execute([$v['id'], json_encode($v + ['_rev' => $rev['grave']], JSON_UNESCAPED_UNICODE), $email, $ip, $logo ? 'publicada' : 'espera', date('Y-m-d H:i:s')]);
       $resumo = "{$v['titulo']}\n{$v['data_inicio']}" . ($v['data_fim'] !== $v['data_inicio'] ? " a {$v['data_fim']}" : '') . ($v['hora'] ? " às {$v['hora']}" : '')
         . "\n{$v['local']}, {$v['concelho']}\n" . (nome_inst($v['instituicao']) ?: '(sem instituição)') . "\n{$v['url']}\n" . ($v['prazo'] ? "Prazo de submissão: {$v['prazo']}\n" : '')
         . ($v['descricao'] ? "\n{$v['descricao']}\n" : '') . ($v['inscricoes'] ? "Inscrições no Lykeion" . ($v['lotacao'] ? " ({$v['lotacao']} lugares)" : '') . "\n" : '') . ($email ? "\nProposto por: $email\n" : '');
@@ -221,7 +346,8 @@ try {
         $msg = 'Recebido. Aparece no Lykeion daqui a uns minutos' . ($v['url'] ? ', com ligação para a página oficial' : '') . '.' . (filter_var($email, FILTER_VALIDATE_EMAIL) ? ' Mandámos para o seu email o link para gerir o evento' . ($v['inscricoes'] ? ' e ver os inscritos' : '') . '.' : '') . ' Obrigado!';
       } else {
         enviar_email($CFG['email_avisos'], '[Lykeion] Evento proposto: ' . mb_substr($v['titulo'], 0, 80),
-          "Um visitante propôs este evento. A ligação não é para o site de uma instituição que conhecemos, por isso espera por si.\n\n$resumo\nPublicar com um clique:\n{$URL}conta/propor.php?aprovar={$v['id']}&k=" . chave_aprovar($v['id']) . "\n\nSe não for para publicar, não precisa de fazer nada.\n", $email, 'Lykeion');
+          ($rev['grave'] ? "Este evento espera por si porque a revisão automática encontrou:\n- " . implode("\n- ", $rev['grave']) . "\n" : "Um visitante propôs este evento. A ligação não é para o site de uma instituição que conhecemos, por isso espera por si.\n")
+          . "\n$resumo\nTudo o que espera (publicar ou recusar com o motivo): {$URL}conta/propor.php?fila&k=" . chave_fila() . "\n\nPublicar com um clique:\n{$URL}conta/propor.php?aprovar={$v['id']}&k=" . chave_aprovar($v['id']) . "\n\nSe não for para publicar, não precisa de fazer nada.\n", $email, 'Lykeion');
         $msg = 'Recebido. Vemos a proposta e publicamos em breve. Mandámos para o seu email o link para gerir o evento. Obrigado!';
       }
       $v = [];
@@ -260,8 +386,8 @@ try {
     $rot('Prazo para submeter comunicações', '(congressos com chamada aberta; aparece em «Chamadas abertas»)'), '<input type="date" name="prazo" value="', $val('prazo'), '" style="', $campo, '">',
     $rot('Em poucas palavras', '(opcional, até 600 caracteres)'), '<textarea name="descricao" maxlength="600" rows="4" style="', $campo, '">', $val('descricao'), '</textarea>',
     $rot('O seu email', $pessoal ? '(para receber o link de gestão do evento; obrigatório com inscrições; não aparece no site)' : '(para o link de gestão do evento e uma dúvida; não aparece no site)') . '<input name="email" type="email"' . ($pessoal ? '' : ' required') . ' maxlength="190" style="' . $campo . '">',
-    '<p style="margin-top:18px"><button class="bt" style="background:var(--cobalto);color:#fff;border-color:var(--cobalto)">Enviar</button></p></form>',
-    '<p style="color:var(--suave);font-size:13px">É de uma instituição e quer juntar eventos sempre que houver? Peça o link pessoal da sua instituição para info@lykeion.pt: o que juntar aparece logo, sem revisão. ',
+    '<p style="margin-top:18px"><button class="bt" style="background:var(--cobalto);color:#fff;border-color:var(--cobalto)">Ver como fica</button></p></form>',
+    '<p style="color:var(--suave);font-size:13px">É de uma instituição e quer juntar eventos sempre que houver? Peça o link pessoal da sua instituição para info@lykeion.pt: o que juntar aparece logo (só o que a revisão automática estranhar espera por nós). ',
     'Também pode <a href="', $URL, 'incorporar/">pôr a agenda da instituição no seu site</a>. Tem uma bolsa, um prémio ou um concurso com candidaturas abertas? <a href="', $URL, 'conta/propor.php?prazo">Proponha o prazo</a>.</p>', $fim;
 } catch (Throwable $e) {
   error_log('lykeion propor: ' . $e->getMessage());

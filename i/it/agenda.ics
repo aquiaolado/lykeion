@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:icst2026-19th-international-conference-on-sensing-technology-21438-2026
+ -12-07@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:ICST2026 - 19th International Conference on Sensing Technology
+LOCATION:Instituto de Telecomunicações
+DESCRIPTION:https://www.it.pt/Events/Event/5721
+URL:https://lykeion.pt/e/icst2026-19th-international-conference-on-sensing-
+ technology-21438.html
+END:VEVENT
+END:VCALENDAR

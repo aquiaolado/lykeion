@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IVV IP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:forum-anual-dos-vinhos-de-portugal-reune-o-setor-em-almeirim-29c12-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T090000
+SUMMARY:Fórum Anual dos Vinhos de Portugal reúne o setor em Almeirim…
+LOCATION:Instituto da Vinha e do Vinho IP
+DESCRIPTION:https://www.ivv.gov.pt/2026/11/16/forum-anual-dos-vinhos-de-por
+ tugal-reune-o-setor-em-almeirim-a-26-de-novembro/
+URL:https://lykeion.pt/e/forum-anual-dos-vinhos-de-portugal-reune-o-setor-e
+ m-almeirim-29c12.html
+END:VEVENT
+END:VCALENDAR

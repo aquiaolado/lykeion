@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:seminario-os-sistemas-de-informacao-geografica-da-dgrm-e-o-o-ec76c-2026
  -11-18@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T143000
 SUMMARY:Seminário | Os Sistemas de Informação Geográfica da DGRM e o Or
  denamento do Espaço Marítimo Nacional
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-arqueologia-do-sagrado-cronicas-fotogr-92735-2026
  -11-22@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261122T150000
 SUMMARY:Apresentação do livro «Arqueologia do Sagrado - Crónicas Fotogr
  áficas»
@@ -31,5 +31,18 @@ DESCRIPTION:http://portal2.ipt.pt/pt/noticias/exposicoes/apresentacao_do_li
  vro_arqueologia_do_sagrado_cronicas_fotograficas_2026_11_12
 URL:https://lykeion.pt/e/apresentacao-do-livro-arqueologia-do-sagrado-croni
  cas-fotogr-92735.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-relevancia-curricular-politecnica-o-fu-f4eb8-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T150000
+SUMMARY:Apresentação do livro «Relevância Curricular Politécnica: O fu
+ turo urgente»
+LOCATION:Instituto Politécnico de Tomar\, Tomar
+DESCRIPTION:http://portal2.ipt.pt/pt/noticias/lazer/apresentacao_do_livro_r
+ elevancia_curricular_politecnica_o_futuro_urgente_2026_11_16
+URL:https://lykeion.pt/e/apresentacao-do-livro-relevancia-curricular-polite
+ cnica-o-fu-f4eb8.html
 END:VEVENT
 END:VCALENDAR

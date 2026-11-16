@@ -6,17 +6,27 @@ X-WR-CALNAME:Congressos de engenharia e tecnologia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-15@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261115T094500
+UID:2-a-conferencia-anual-do-nova-green-lab-f78ee-2026-11-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T094500
 SUMMARY:2.ª Conferência Anual do NOVA Green Lab
 LOCATION:NOVA School of Law
 DESCRIPTION:https://novalaw.unl.pt/2-a-conferencia-anual-do-nova-green-lab/
 URL:https://lykeion.pt/e/2-a-conferencia-anual-do-nova-green-lab-f78ee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:cemmpre-and-arise-at-iums-2026-congress-2ffd5-2026-11-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T143000
+SUMMARY:CEMMPRE and ARISE at IUMS 2026 Congress
+LOCATION:Centro de Engenharia Mecânica Materiais e Processos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cemmpre/news/cemmpre-and-arise-at-iums-2026-c
+ ongress/
+URL:https://lykeion.pt/e/cemmpre-and-arise-at-iums-2026-congress-2ffd5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portugal-renewable-energy-summit-2026-3b4bb-2026-11-17@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Portugal Renewable Energy Summit 2026
 LOCATION:Laboratório Nacional de Energia e Geologia
@@ -25,7 +35,7 @@ URL:https://lykeion.pt/e/portugal-renewable-energy-summit-2026-3b4bb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-nova-science-innovation-day-790dd-2026-11-18@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Encontro: NOVA Science & Innovation Day
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -35,9 +45,22 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/nova-science-inn
 URL:https://lykeion.pt/e/encontro-nova-science-innovation-day-790dd.html
 END:VEVENT
 BEGIN:VEVENT
+UID:18-11-2026-20-11-2026-xii-encontro-cientifico-do-neq-aac-a160c-2026-11-
+ 18@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:XII Encontro Científico do NEQ/AAC
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/dquimica/eventos/xii-encontro-cientific
+ o-do-neq-aac/
+URL:https://lykeion.pt/e/18-11-2026-20-11-2026-xii-encontro-cientifico-do-n
+ eq-aac-a160c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:13o-forum-de-gestao-de-dados-de-investigacao-831e4-2026-11-19@lagenda.p
  t
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:13o Fórum de Gestão de Dados de Investigação
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -48,7 +71,7 @@ URL:https://lykeion.pt/e/13o-forum-de-gestao-de-dados-de-investigacao-831e4
 END:VEVENT
 BEGIN:VEVENT
 UID:8o-congresso-internacional-da-adfas-ab031-2026-11-19@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T110000
 SUMMARY:8o Congresso Internacional da Adfas
 LOCATION:Centro de Direito Biomédico\, Coimbra
@@ -59,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-introducao-ao-zotero-via-zoom-meeting-ecfd9-2026-11-19@lagenda
  .pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T100000
 SUMMARY:Formação – Introdução ao Zotero – via Zoom meeting
 LOCATION:Instituto Superior Técnico
@@ -69,21 +92,9 @@ URL:https://lykeion.pt/e/formacao-introducao-ao-zotero-via-zoom-meeting-ecf
  d9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iii-congresso-internacional-a-hidraulica-em-edificios-monume-53210-2026
- -11-19@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:III Congresso Internacional a Hidráulica em Edifícios Monumentais
-LOCATION:Faculdade de Letras da Universidade de Lisboa
-DESCRIPTION:http://www.artis.letras.ulisboa.pt/eventos\,9\,2447\,detalhe.as
- px
-URL:https://lykeion.pt/e/iii-congresso-internacional-a-hidraulica-em-edific
- ios-monume-53210.html
-END:VEVENT
-BEGIN:VEVENT
 UID:iv-in2me-congresso-de-educacao-medica-da-faculdade-de-cienci-7d8ce-2026
  -11-19@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:IV In2ME - Congresso de Educação Médica da Faculdade de Ciência
  s da Saúde
@@ -96,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pampilhosa-da-serra-acolhe-i-congresso-internacional-do-medr-1ab0a-2026
  -11-19@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Pampilhosa da Serra acolhe I Congresso Internacional do Medronheiro
   e do Medronho
@@ -107,9 +118,18 @@ URL:https://lykeion.pt/e/pampilhosa-da-serra-acolhe-i-congresso-internacion
  al-do-medr-1ab0a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:forum-genotipar-e-o-caminho-85455-2026-11-20@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Fórum: Genotipar é o caminho
+LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
+DESCRIPTION:https://cba.uac.pt/news-events/ver.php?id=35
+URL:https://lykeion.pt/e/forum-genotipar-e-o-caminho-85455.html
+END:VEVENT
+BEGIN:VEVENT
 UID:webinar-publicacao-de-comunicacao-cientifica-ferramentas-via-6f6c6-2026
  -11-20@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T100000
 SUMMARY:Webinar – Publicação de comunicação científica: ferramentas 
  – via Zoom meeting
@@ -122,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vg-colab-co-organised-and-sponsered-xxvi-meeting-of-the-port-d2a3d-2026
  -11-21@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:VG CoLAB co-organised and sponsered XXVI Meeting of the Portuguese 
  Electrochemical Society
@@ -135,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-publicacao-de-comunicacao-cientifica-web-of-science-6f6c6-2026-
  11-21@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T100000
 SUMMARY:Webinar – Publicação de comunicação científica: Web of Scien
  ce – via Zoom meeting
@@ -147,7 +167,7 @@ URL:https://lykeion.pt/e/webinar-publicacao-de-comunicacao-cientifica-web-o
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-forum-inesc-tec-do-outono-62b33-2026-11-25@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Conferência: Fórum INESC TEC do Outono
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
@@ -156,7 +176,7 @@ URL:https://lykeion.pt/e/conferencia-forum-inesc-tec-do-outono-62b33.html
 END:VEVENT
 BEGIN:VEVENT
 UID:forum-inesc-tec-do-outono-2026-ed877-2026-11-25@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T110000
 SUMMARY:Fórum INESC TEC do Outono 2026
 LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
@@ -167,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isel-symposium-on-sustainable-energy-transition-isset-ac4e8-2026-11-25@
  lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:ISEL Symposium on Sustainable Energy Transition (ISSET)
 LOCATION:Instituto Superior de Engenharia de Lisboa
@@ -178,7 +198,7 @@ URL:https://lykeion.pt/e/isel-symposium-on-sustainable-energy-transition-is
 END:VEVENT
 BEGIN:VEVENT
 UID:6th-eugloh-plant-science-meeting-331a9-2026-11-26@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:6th EUGLOH Plant Science Meeting
 LOCATION:Faculdade de Ciências da Universidade do Porto\, Porto
@@ -189,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-europeu-dedicado-ao-futuro-dos-materiais-avancados-d9a59-2026-
  11-26@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Encontro europeu dedicado ao futuro dos Materiais Avançados decorr
  e na Universidade de Aveiro nos dias 26 e 28 de novembro
@@ -202,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:projeto-more-than-human-promove-encontro-online-a-78ba5-2026-11-26@lage
  nda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T140000
 SUMMARY:Projeto More Than Human promove encontro online…
 LOCATION:Universidade Aberta
@@ -214,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-mendeley-revisitado-descubra-o-novo-mendeley-referen-df43a-2026
  -11-28@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T153000
 SUMMARY:Webinar – Mendeley revisitado: descubra o novo Mendeley Reference
   Manager – via Zoom meeting
@@ -227,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6th-international-conference-on-information-technology-in-ge-52c92-2026
  -12-02@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:6th International Conference on Information Technology in Geo-Engin
  eering (ICITG 2026) / JTC2 Workshop\, 2 a 4 de dezembro de 2026
@@ -241,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
@@ -254,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2nd-mobilise-symposium-in-molecular-bioengineering-3a930-2026-12-03@lag
  enda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:2nd MOBILIsE Symposium in Molecular Bioengineering
 LOCATION:i3S – Instituto de Investigação e Inovação em Saúde\, Porto
@@ -265,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:i-forum-ocs-debate-comunicacao-estrategica-sustentabilidade-4f678-2026-
  12-04@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T093000
 SUMMARY:I Fórum OCS debate comunicação estratégica\, sustentabilidade e
   greenwashing
@@ -277,7 +297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-introducao-ao-zotero-via-zoom-meeting-770e6-2026-12-04@lagenda.
  pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T153000
 SUMMARY:Webinar – Introdução ao Zotero – via Zoom meeting
 LOCATION:Instituto Superior Técnico
@@ -287,9 +307,20 @@ URL:https://lykeion.pt/e/webinar-introducao-ao-zotero-via-zoom-meeting-770e
  6.html
 END:VEVENT
 BEGIN:VEVENT
+UID:icst2026-19th-international-conference-on-sensing-technology-21438-2026
+ -12-07@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:ICST2026 - 19th International Conference on Sensing Technology
+LOCATION:Instituto de Telecomunicações
+DESCRIPTION:https://www.it.pt/Events/Event/5721
+URL:https://lykeion.pt/e/icst2026-19th-international-conference-on-sensing-
+ technology-21438.html
+END:VEVENT
+BEGIN:VEVENT
 UID:webinar-introducao-ao-zotero-via-zoom-meeting-770e6-2026-12-12@lagenda.
  pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T153000
 SUMMARY:Webinar – Introdução ao Zotero – via Zoom meeting
 LOCATION:Instituto Superior Técnico
@@ -299,8 +330,20 @@ URL:https://lykeion.pt/e/webinar-introducao-ao-zotero-via-zoom-meeting-770e
  6.html
 END:VEVENT
 BEGIN:VEVENT
+UID:centre-of-biological-engineering-annual-meeting-2026-strateg-1716b-2026
+ -12-14@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261214T100000
+SUMMARY:Centre of Biological Engineering Annual Meeting 2026 – Strategic 
+ Reflection\, Community and Science
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.ceb.uminho.pt/Events/Details/9446
+URL:https://lykeion.pt/e/centre-of-biological-engineering-annual-meeting-20
+ 26-strateg-1716b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:symposium-d06c6-2027-01-07@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270107
 SUMMARY:Symposium
 LOCATION:Departamento de Matemática (DM)
@@ -310,7 +353,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cees-2027-4th-international-conference-on-construction-energ-345cc-2027
  -02-03@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270203
 SUMMARY:CEES 2027 - 4th International Conference on Construction\, Energy\,
   Environment and Sustainability
@@ -323,7 +366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-conhecer-os-servicos-da-biblioteca-do-tecnico-via-zo-18ab0-2027
  -02-06@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270206T153000
 SUMMARY:Webinar – Conhecer os serviços da Biblioteca do Técnico – via
   Zoom meeting
@@ -336,7 +379,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20th-international-joint-conference-on-biomedical-engineerin-1c23b-2027
  -02-19@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270219
 SUMMARY:20th International Joint Conference on Biomedical Engineering Syste
  ms and Technologies
@@ -349,7 +392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-conhecer-os-servicos-da-biblioteca-do-ist-via-zoom-4e0ca-2027-
  02-22@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270222T100000
 SUMMARY:Formação – Conhecer os serviços da Biblioteca do IST – via Z
  oom meeting
@@ -362,7 +405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7th-international-conference-on-robotics-computer-vision-and-3b720-2027
  -02-27@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270227
 SUMMARY:7th International Conference on Robotics\, Computer Vision and Inte
  lligent Systems
@@ -375,7 +418,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-comportamento-etico-na-ciencia-citar-e-referenciar-e-90894-2027
  -02-27@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270227T163000
 SUMMARY:Webinar – Comportamento ético na ciência: citar e referenciar e
  m trabalhos científicos – via Zoom meeting
@@ -389,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-conhecer-os-servicos-da-biblioteca-do-tecnico-via-z-4e0ca-2027
  -03-07@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270307T100000
 SUMMARY:Formação – Conhecer os serviços da Biblioteca do Técnico – 
  via Zoom meeting
@@ -402,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-como-recuperar-informacao-com-a-b-on-via-zoom-meetin-bc18b-2027
  -03-13@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270313T153000
 SUMMARY:Webinar – Como recuperar informação com a b-on – via Zoom mee
  ting
@@ -415,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-comportamento-etico-na-ciencia-citar-e-referenciar-dd840-2027-
  03-21@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270321T170000
 SUMMARY:Formação – Comportamento ético na ciência: citar e referencia
  r em trabalhos científicos – via Zoom meeting
@@ -429,7 +472,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-descubra-os-recursos-de-informacao-da-universidade-f0e89-2027-
  03-28@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270328T100000
 SUMMARY:Formação – Descubra os recursos de informação da Universidade
   de Lisboa: EDS e B-on – via Zoom meeting
@@ -443,7 +486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-latex-4-de-abril-via-zoom-meeting-9aad7-2027-04-04@lagenda.
  pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270404T140000
 SUMMARY:Workshop de LaTeX ― 4 de abril ― via Zoom meeting
 LOCATION:Instituto Superior Técnico
@@ -455,7 +498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-como-encontrar-publicacoes-na-b-on-conheca-a-nova-i-afdf8-2027
  -04-11@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270411T100000
 SUMMARY:Formação – Como encontrar publicações na B-on: conheça a nov
  a interface de pesquisa – via Zoom meeting
@@ -469,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-utilizar-a-biblioteca-do-conhecimento-online-b-on-v-f1140-2027
  -04-13@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270413T150000
 SUMMARY:Formação – Utilizar a Biblioteca do Conhecimento Online (b-on) 
  – via Zoom meeting
@@ -480,9 +523,22 @@ URL:https://lykeion.pt/e/formacao-utilizar-a-biblioteca-do-conhecimento-onl
  ine-b-on-v-f1140.html
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-como-fazer-uma-apresentacao-de-sucesso-via-zoom-meet-8bb2b-2027
+ -04-15@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20270415T100000
+SUMMARY:Webinar – Como fazer uma apresentação de sucesso – via Zoom m
+ eeting
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://bist.tecnico.ulisboa.pt/arquivos/webinar-como-fazer-uma
+ -apresentacao-de-sucesso-via-zoom-meeting-2/
+URL:https://lykeion.pt/e/webinar-como-fazer-uma-apresentacao-de-sucesso-via
+ -zoom-meet-8bb2b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:7th-international-conference-on-image-processing-and-vision-7f40a-2027-
  04-18@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270418
 SUMMARY:7th International Conference on Image Processing and Vision Enginee
  ring
@@ -495,7 +551,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:22nd-international-conference-on-evaluation-of-novel-approac-38281-2027
  -04-20@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270420
 SUMMARY:22nd International Conference on Evaluation of Novel Approaches to 
  Software Engineering

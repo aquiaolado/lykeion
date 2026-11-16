@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ESAP (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:exposicao-o-desenho-das-horas-circulares-relato-de-um-cartog-6507c-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T170000
+SUMMARY:Exposição «O desenho das Horas Circulares: Relato de um Cartógr
+ afo de Sombras»\, de Telmo Castro\, na Casa da Arquitetura
+LOCATION:Escola Superior Artística do Porto\, Porto
+DESCRIPTION:https://esap.pt/atividades_dep/exposicao-o-desenho-das-horas-ci
+ rculares-relato-de-um-cartografo-de-sombras-de-telmo-castro-na-casa-da-arq
+ uitetura/
+URL:https://lykeion.pt/e/exposicao-o-desenho-das-horas-circulares-relato-de
+ -um-cartog-6507c.html
+END:VEVENT
+END:VCALENDAR

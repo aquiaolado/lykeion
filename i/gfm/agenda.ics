@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:GFM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:as-submissoes-para-divulgacao-devem-ser-feitas-ate-ao-dia-30-8b2cb-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:As submissões para divulgação devem ser feitas até ao dia 30 de
+  Novembro.
+LOCATION:Grupo de Física Matemática
+DESCRIPTION:
+URL:https://lykeion.pt/e/as-submissoes-para-divulgacao-devem-ser-feitas-ate
+ -ao-dia-30-8b2cb.html
+END:VEVENT
+END:VCALENDAR

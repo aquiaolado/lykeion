@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:webinar-atualizacao-na-abordagem-ao-doente-politraumatizado-e2607-2026-
  12-10@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Webinar – Atualização na abordagem ao doente politraumatizado
 LOCATION:Sociedade Portuguesa de Ortopedia e Traumatologia
@@ -16,5 +16,18 @@ DESCRIPTION:https://spot.pt/eventos/webinar-atualizacao-na-abordagem-ao-doe
  nte-politraumatizado/
 URL:https://lykeion.pt/e/webinar-atualizacao-na-abordagem-ao-doente-politra
  umatizado-e2607.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6-o-meeting-de-casos-clinicos-da-seccao-de-coluna-da-spot-de-a1df7-2027
+ -01-23@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270123
+SUMMARY:6.º Meeting de Casos Clínicos da Secção de Coluna da SPOT debat
+ e o futuro da coluna degenerativa
+LOCATION:Sociedade Portuguesa de Ortopedia e Traumatologia
+DESCRIPTION:https://spot.pt/6-o-meeting-de-casos-clinicos-da-seccao-de-colu
+ na-da-spot-debate-o-futuro-da-coluna-degenerativa/
+URL:https://lykeion.pt/e/6-o-meeting-de-casos-clinicos-da-seccao-de-coluna-
+ da-spot-de-a1df7.html
 END:VEVENT
 END:VCALENDAR

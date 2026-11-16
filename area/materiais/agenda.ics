@@ -6,10 +6,22 @@ X-WR-CALNAME:Engenharia Química e de Materiais (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:exposicao-a-liberdade-esta-a-pa-b47ea-2026-11-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T170000
+SUMMARY:Exposição A Liberdade Está A passar por aqui os anos das várias
+  eleições de
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/ex
+ posicao-a-liberdade-esta-a-passar-por-aqui-os-50-anos-das-varias-eleicoes-
+ de-1976
+URL:https://lykeion.pt/e/exposicao-a-liberdade-esta-a-pa-b47ea.html
+END:VEVENT
+BEGIN:VEVENT
 UID:licao-de-jubilacao-professor-rodrigo-martins-do-silicio-aos-54595-2026-
- 11-15@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261115T144500
+ 11-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T144500
 SUMMARY:Lição de Jubilação | Professor Rodrigo Martins | Do Silício ao
  s Materiais Avançados: Uma Viagem Rumo ao Futuro
 LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
@@ -21,9 +33,9 @@ URL:https://lykeion.pt/e/licao-de-jubilacao-professor-rodrigo-martins-do-si
 END:VEVENT
 BEGIN:VEVENT
 UID:xangai-participacao-portuguesa-na-exposicao-between-elsewher-4b65b-2026
- -11-15@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261115
+ -11-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
 SUMMARY:Xangai: Participação portuguesa na exposição “Between Elsewhe
  res: Memory and Identity Across Cultures
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -34,21 +46,9 @@ URL:https://lykeion.pt/e/xangai-participacao-portuguesa-na-exposicao-betwee
  n-elsewher-4b65b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-a-liberdade-esta-a-pa-b47ea-2026-11-16@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261116T170000
-SUMMARY:Exposição A Liberdade Está A passar por aqui os anos das várias
-  eleições de
-LOCATION:Instituto Superior de Ciências Sociais e Políticas
-DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/ex
- posicao-a-liberdade-esta-a-passar-por-aqui-os-50-anos-das-varias-eleicoes-
- de-1976
-URL:https://lykeion.pt/e/exposicao-a-liberdade-esta-a-pa-b47ea.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-agregacao-em-engenharia-de-materiais-de-ana-clara-ba8ff-2026-
  11-17@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Provas de agregação em Engenharia de Materiais de Ana Clara Lopes
   Marques — Technology of Polymeric Materials (TMPol)
@@ -60,7 +60,7 @@ URL:https://lykeion.pt/e/provas-de-agregacao-em-engenharia-de-materiais-de-
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-deambulacoes-cruzadas-5ade1-2026-11-18@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T183000
 SUMMARY:Exposição «Deambulações Cruzadas»
 LOCATION:Ordem dos Médicos
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-engenharia-quimica-de-marta-gomes-2a60a-2026-
  11-18@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 SUMMARY:Provas de doutoramento em Engenharia Química de Marta Gomes Figuei
  ra de Almeida Bordonhos — Aluminium-based Metal–Organic Frameworks for
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-engenharia-de-materiais-de-ricardo-bad43-2026
  -11-25@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de doutoramento em Engenharia de Materiais de Ricardo Jorge 
  Clemente Martins — FeTaTiWX with X = Cu\, V\, and Cr high entropy alloys
@@ -99,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-malena-de-fatima-tavares-schweiker-des-45e05-2026
  -11-25@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de mestrado de Malena de Fátima Tavares Schweiker — Desen
  volvimento de novos materiais foto-ativos contendo C-dots para aplicaçõe
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-estruturas-com-materiais-sustentaveis-c1bca-2026-11-25@lagenda
  .pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Workshop: Estruturas com materiais sustentáveis
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-europeu-dedicado-ao-futuro-dos-materiais-avancados-d9a59-2026-
  11-26@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Encontro europeu dedicado ao futuro dos Materiais Avançados decorr
  e na Universidade de Aveiro nos dias 26 e 28 de novembro
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-pedro-miguel-cruz-matias-polimeros-9a085-2026
  -12-02@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de doutoramento de Pedro Miguel Cruz Matias — Polímeros o
  rgânicos porosos para a remediação de poluentes emergentes
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-laura-raquel-lourenco-de-sousa-est-e9238-2026
  -12-04@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de doutoramento de Laura Raquel Lourenço de Sousa — Estud
  o de barreiras acústicas de baixa altura baseadas em metamateriais
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fabricar-o-futuro-workshop-by-citai-fabxr-ismat-0fdd1-2026-12-08@lagend
  a.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261208
 SUMMARY:«Fabricar o Futuro» - Workshop by Citai-fabxr Ismat
 LOCATION:Instituto Superior Manuel Teixeira Gomes\, Portimão
@@ -174,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carlos-filipe-reis-martins-o-castro-de-35678-2026
  -12-09@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T113000
 SUMMARY:Provas de Mestrado de Carlos Filipe Reis Martins «O Castro de Baiz
  a (Vilar de Andorinho\, Vila Nova de Gaia\, NW de Portugal) Estudo dos mat
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oficina-de-joalharia-contemporanea-com-materiais-reciclados-7bcb6-2026-
  12-12@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T140000
 SUMMARY:Oficina de Joalharia Contemporânea com Materiais Reciclados com He
  lena Cardoso
@@ -200,7 +200,7 @@ URL:https://lykeion.pt/e/oficina-de-joalharia-contemporanea-com-materiais-r
 END:VEVENT
 BEGIN:VEVENT
 UID:materiais-em-contacto-com-a-agua-67289-2026-12-17@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T080000
 SUMMARY:Materiais em Contacto com a Água
 LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
@@ -210,9 +210,9 @@ URL:https://lykeion.pt/e/materiais-em-contacto-com-a-agua-67289.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-be94e-2026-12-18@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T180000
-SUMMARY:Exposição ensaios de tectónica digital
+SUMMARY:Exposição ensaios de Tectónica digital
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
 DESCRIPTION:https://lab2pt.net/exhibitions/exposicao-ensaios-de-tectonica-d
  igital
@@ -220,7 +220,7 @@ URL:https://lykeion.pt/e/exposicao-be94e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sessao-cienciavitae-b9cb1-2027-01-26@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270126
 SUMMARY:Sessão CIÊNCIAVITAE apresentação e vídeo disponíveis
 LOCATION:Instituto Superior Técnico
@@ -230,7 +230,7 @@ URL:https://lykeion.pt/e/sessao-cienciavitae-b9cb1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oficina-os-clandestinos-3253f-2027-03-10@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270310T103000
 SUMMARY:Oficina Os Clandestinos
 LOCATION:Centro Cultural de Belém\, Belém

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:x-workshop-on-immigration-health-and-wellbeing-6ea7a-2026-11-17@lagenda
  .pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T084500
 SUMMARY:X Workshop on Immigration\, Health and Wellbeing
 LOCATION:Nova SBE\, Cascais
@@ -18,27 +18,34 @@ URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-6ea
  7a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x-workshop-on-immigration-health-and-wellbeing-fd2e8-2026-11-18@lagenda
- .pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:X Workshop on Immigration\, Health and Wellbeing
-LOCATION:Nova SBE
-DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
- e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
- pt/id/2435/x-workshop-on-immigration-health-and-wellbeing
-URL:https://lykeion.pt/e/x-workshop-on-immigration-health-and-wellbeing-fd2
- e8.html
+UID:who-trains-who-retains-attracting-and-keeping-health-workers-88059-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T141500
+SUMMARY:Who Trains\, Who Retains?Attracting and Keeping Health Workers Acro
+ ss Border
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/who-trains-who-retainsattracting-an
+ d-keeping-health-workers-across-border-tickets-2004082711338
+URL:https://lykeion.pt/e/who-trains-who-retains-attracting-and-keeping-heal
+ th-workers-88059.html
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-de-dados-em-saude-no-dia-fd2e8-2027-03-19@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20270319
-SUMMARY:Workshop de Dados em Saúde - No dia
-LOCATION:Nova SBE
-DESCRIPTION:https://www.novasbe.unl.pt/pt/docentes-e-investigacao/centros-d
- e-conhecimento/health-economics-management/eventos/event-detail-health-pt-
- pt/id/2089/workshop-de-dados-em-saude
-URL:https://lykeion.pt/e/workshop-de-dados-em-saude-no-dia-fd2e8.html
+UID:explore-f7149-2026-11-26@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T110000
+SUMMARY:Explore
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/explore-tickets-2001395078556
+URL:https://lykeion.pt/e/explore-f7149.html
+END:VEVENT
+BEGIN:VEVENT
+UID:redesign-f0994-2026-12-11@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T110000
+SUMMARY:Redesign
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/redesign-tickets-2001395229006
+URL:https://lykeion.pt/e/redesign-f0994.html
 END:VEVENT
 END:VCALENDAR

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-engenharia-civil-de-joao-alfredo-d-ddc1e-2026
  -11-16@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Provas de doutoramento em Engenharia Civil de João Alfredo de Lazz
  ari — Direct Strength Method for Pultruded FRP Columns: Experiments\, Co
@@ -20,9 +20,22 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-em-engenharia-civil-de-joao
  -alfredo-d-ddc1e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-bernardo-marques-de-jesus-desenvolvime-b2670-2026
+ -11-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261116T100000
+SUMMARY:Provas de mestrado de Bernardo Marques de Jesus — Desenvolvimento
+  de um sistema autónomo para monitorização da inclinação e rotação 
+ em tubos guia geotécnicos
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-bernardo-marques-de-jesus-de
+ senvolvime-b2670.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-carlos-andre-alves-pires-bitcoin-e-eth-7dd1a-2026
  -11-16@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20261116T170000
 SUMMARY:Provas de mestrado de  Carlos André Alves Pires — Bitcoin e E
  ther: Um Estudo Comparativo de Rentabilidade e Perceção
@@ -32,21 +45,34 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-carlos-andre-alves-pires-bit
  coin-e-eth-7dd1a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iii-congresso-internacional-a-hidraulica-em-edificios-monume-53210-2026
- -11-19@lagenda.pt
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:III Congresso Internacional a Hidráulica em Edifícios Monumentais
-LOCATION:Faculdade de Letras da Universidade de Lisboa
-DESCRIPTION:http://www.artis.letras.ulisboa.pt/eventos\,9\,2447\,detalhe.as
- px
-URL:https://lykeion.pt/e/iii-congresso-internacional-a-hidraulica-em-edific
- ios-monume-53210.html
+UID:seminario-de-sistemas-dinamicos-large-deviations-beyond-boun-35e1b-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T140000
+SUMMARY:Seminário de Sistemas Dinâmicos «Large Deviations Beyond Bounded
+  Observables»
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/seminario-de-sistemas-dinam
+ icos-deviations
+URL:https://lykeion.pt/e/seminario-de-sistemas-dinamicos-large-deviations-b
+ eyond-boun-35e1b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:palestra-as-primeiras-estruturas-pre-esforcadas-em-portugal-21744-2026-
+ 11-19@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T173000
+SUMMARY:Palestra “As primeiras estruturas pré-esforçadas em Portugal
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://tecnico.ulisboa.pt/pt/eventos/palestra-as-primeiras-est
+ ruturas-pre-esforcadas-em-portugal/
+URL:https://lykeion.pt/e/palestra-as-primeiras-estruturas-pre-esforcadas-em
+ -portugal-21744.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maicon-hugo-block-engenharia-civil-61f9c-2026-11-
  19@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Provas de mestrado de Maicon Hugo Block — Engenharia Civil
 LOCATION:Universidade Fernando Pessoa\, Porto
@@ -57,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-as-novas-descobertas-no-vale-do-coa-6f587-2026-11-27@lagend
  a.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Conferência: As novas descobertas no Vale do Côa
 LOCATION:Museu do Côa - Centro Ciência Viva\, Vila Nova de Foz Côa
@@ -68,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-na-area-de-engenharia-civil-do-doutor-vi-c901e-2026
  -12-09@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de Agregação na Área de Engenharia Civil do Doutor Vítor
   Emanuel Marta da Silva
@@ -79,7 +105,7 @@ URL:https://lykeion.pt/e/provas-de-agregacao-na-area-de-engenharia-civil-do
 END:VEVENT
 BEGIN:VEVENT
 UID:pontes-rolantes-e-acessorios-de-elevacao-618ed-2027-01-19@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270119T080000
 SUMMARY:Pontes Rolantes e Acessórios de Elevação
 LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
@@ -91,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:europeia-conferencia-sobre-o-futuro-da-europa-3af97-2027-02-18@lagenda.
  pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270218T113000
 SUMMARY:Europeia Conferência sobre o Futuro da Europa
 LOCATION:Centro de Informação Europeia Jacques Delors
@@ -102,7 +128,7 @@ URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-3af9
 END:VEVENT
 BEGIN:VEVENT
 UID:os-valores-europeus-e-o-futuro-da-uniao-3af97-2027-02-18@lagenda.pt
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;TZID=Europe/Lisbon:20270218T113000
 SUMMARY:Os valores europeus e o futuro da União
 LOCATION:Centro de Informação Europeia Jacques Delors

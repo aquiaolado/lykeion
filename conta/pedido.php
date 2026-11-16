@@ -52,13 +52,19 @@ function pd_texto(array $i): array {
                   : "Ainda não conseguimos ler eventos futuros no vosso site.";
   $assunto = "Os eventos $da $curto no Lykeion, a agenda pública da ciência em Portugal";
   $t = "Bom dia,\n\n"
-     . "O Lykeion (" . SITE . ") é uma agenda gratuita e aberta dos eventos da ciência em Portugal: conferências, seminários, aulas abertas, congressos, provas públicas e divulgação. Não tem publicidade nem destaques pagos. Publicamos só os factos de cada evento (título, data, hora, local e instituição) e uma ligação para a página oficial.\n\n"
+     . "O Lykeion (" . SITE . ") é uma agenda gratuita e aberta dos eventos da ciência em Portugal. Não tem publicidade nem destaques pagos. Publicamos só os factos de cada evento (título, data, hora, local e instituição) e uma ligação para a página oficial.\n\n"
      . ucfirst($a) . " $nome já tem página no Lykeion: $pag\n\n$agora\n\n"
-     . "Para que os vossos eventos apareçam sempre, basta uma destas três coisas:\n\n"
-     . "1. Dizer-nos qual é a página da vossa agenda de eventos, se tiverem uma (ou um calendário .ics ou RSS).\n"
-     . "2. Pôr o endereço info@lykeion.pt na lista da vossa newsletter ou dos avisos de eventos.\n"
-     . "3. Propor cada evento diretamente em $propor (um minuto, sem custos).\n\n"
-     . "Também podem pôr a agenda do Lykeion da instituição no vosso site, sem custos: $inc\n\n"
+     // 16/11/2026 (Paulo): pedir a página de cada tipo de evento e as agendas das unidades (faculdades, centros, departamentos).
+     . "Muitas vezes cada tipo de evento está numa página diferente. Se nos disserem onde estão, passamos a lê-los sozinhos:\n\n"
+     . "- agenda geral de eventos (conferências, seminários, aulas abertas);\n"
+     . "- provas académicas (doutoramento, mestrado, agregação);\n"
+     . "- congressos, encontros científicos e chamadas de trabalhos (call for papers);\n"
+     . "- divulgação científica e atividades para escolas e público.\n\n"
+     . "Se as vossas unidades (faculdades, escolas, centros de investigação, departamentos) tiverem agenda própria, digam-nos também qual é.\n\n"
+     . "Também serve:\n"
+     . "- pôr o endereço info@lykeion.pt na vossa newsletter ou nos avisos de eventos;\n"
+     . "- propor um evento diretamente em $propor (um minuto, sem custos).\n\n"
+     . "Podem ainda pôr a agenda do Lykeion da instituição no vosso site, sem custos: $inc\n\n"
      . "Se algum dado estiver errado ou se preferirem não aparecer, basta responder a este email.\n\n"
      . "Com os melhores cumprimentos,\nA equipa do Lykeion\nO encontro da ciência\ninfo@lykeion.pt · " . SITE . "\n";
   return [$assunto, $t];

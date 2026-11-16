@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ESSSM (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:curso-breve-microcredencial-avaliacao-e-prescricao-de-produt-d642b-2027
+ -04-16@lagenda.pt
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=Europe/Lisbon:20270416T090000
+SUMMARY:Curso Breve: Microcredencial – Avaliação e Prescrição de Prod
+ utos de Apoio
+LOCATION:Escola Superior de Enfermagem de Santa Maria\, Porto
+DESCRIPTION:https://www.santamariasaude.pt/curso-breve-microcredencial-aval
+ iacao-e-prescricao-de-produtos-de-apoio/
+URL:https://lykeion.pt/e/curso-breve-microcredencial-avaliacao-e-prescricao
+ -de-produt-d642b.html
+END:VEVENT
+END:VCALENDAR
