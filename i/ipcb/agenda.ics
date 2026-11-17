@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carolina-jose-da-silva-fernandes-anali-c05e0-2026
  -11-17@lagenda.pt
-DTSTAMP:20261116T000000Z
+DTSTAMP:20261117T000000Z
 DTSTART;TZID=Europe/Lisbon:20261117T143000
 SUMMARY:Provas de mestrado de Carolina José da Silva Fernandes — Anális
  e da comunicação matemática na Educação Pré-Escolar: A utilização 
@@ -19,9 +19,20 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-jose-da-silva-ferna
  ndes-anali-c05e0.html
 END:VEVENT
 BEGIN:VEVENT
+UID:csto2ne-legacy-future-52f70-2026-11-19@lagenda.pt
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Csto2ne Legacy & Future
+LOCATION:Centro de Biotecnologia de Plantas da Beira Interior\, Castelo Bra
+ nco
+DESCRIPTION:https://cbpbi.ipcb.pt/wp-content/uploads/2026/10/Programme-Guid
+ e-CSTO2NE-LEGACY-FUTURE.pdf
+URL:https://lykeion.pt/e/csto2ne-legacy-future-52f70.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-isabel-grancho-cardoso-o-impacto-d-951ed-2026
  -11-26@lagenda.pt
-DTSTAMP:20261116T000000Z
+DTSTAMP:20261117T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T143000
 SUMMARY:Provas de mestrado de Ana Isabel Grancho Cardoso — O impacto do i
  doso com demência nos cuidadores formais de Estruturas Residenciais para 
