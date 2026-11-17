@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:provas-publicas-de-mestrado-e3dc2-2026-12-31@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261231
+DTSTART;TZID=Europe/Lisbon:20261231T090000
 SUMMARY:Provas Públicas de Mestrado
 LOCATION:Centro de Inovação e Investigação em Ciências Empresariais e 
  Sistemas de Informação\, Felgueiras

@@ -466,28 +466,6 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
  nciada-mad-12fae.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-enfermagem-comunitaria-c3412-2026-11-18@lagenda.pt
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Provas de Mestrado – Enfermagem Comunitária
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-enferma
- gem-comunitaria-34/
-URL:https://lykeion.pt/e/provas-de-mestrado-enfermagem-comunitaria-c3412.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-enfermagem-comunitaria-c3412-2026-11-18@lagenda.pt
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Provas de Mestrado – Enfermagem Comunitária
-LOCATION:Instituto Politécnico da Guarda\, Seia
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-enferma
- gem-comunitaria-34/
-URL:https://lykeion.pt/e/provas-de-mestrado-enfermagem-comunitaria-c3412.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-agregacao-de-joaquim-manuel-soares-cerejeira-cienc-bb06b-2026
  -11-18@lagenda.pt
 DTSTAMP:20261117T000000Z
@@ -2673,7 +2651,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:alumnight-with-faculdade-de-medicina-28dad-2026-11-27@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T173000
 SUMMARY:Alumnight with Faculdade de Medicina
 LOCATION:Centro de Estudos de Medicina Baseada na Evidência
 DESCRIPTION:https://www.medicina.ulisboa.pt/alumnight-faculdade-de-medicina

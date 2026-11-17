@@ -426,3 +426,11 @@ body.lyk{
 .lyk .lyk-pers:not([hidden])::after{content:" ▾";color:var(--suave)}
 .lyk .lyk-portas:not(.aberto){display:none}
 }
+/* 17/11/2026 (quem chega pelo Google): botões que quebram linha não se sobrepõem ao texto; aviso de evento passado; menos vazio no telemóvel */
+.lyk .pcab p:has(>.bt){display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
+.lyk .pcab .lyk-assinar{display:contents}
+.lyk .pcab .lyk-assinar small{flex-basis:100%}
+.lyk .lyk-passou{background:#FBEDE6;border-left:3px solid #B5532E;padding:.5rem .8rem;margin:0 0 .8rem;border-radius:4px}
+.lyk .lyk-oque{margin-top:1.2rem;padding-top:.8rem;border-top:1px solid var(--linha)}
+.lyk .social:empty{display:none}
+@media (max-width:640px){.lyk .ev-corpo{margin-top:0}}

@@ -299,7 +299,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-giovanna-tourinho-giorgi-gestao-e-cons-1c023-2026
  -11-24@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Provas de mestrado de Giovanna Tourinho Giorgi — Gestão e Conser
  vação Preventiva da Coleção de Figurinos do Círculo de Cultura Teatra
  l - Teatro Experimental do Porto (CCT-TEP)
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-nuria-goncalves-niz-colecao-de-armas-e-4e0ed-2026
  -11-24@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Provas de mestrado de Núria Gonçalves Niz — Coleção de armas 
  em reserva do Museu de Etnografia e História da Póvoa do Varzim: propost
  a de um plano de conservação

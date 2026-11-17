@@ -2072,7 +2072,7 @@ BEGIN:VEVENT
 UID:panel-the-road-from-antalya-to-abu-dhabi-global-water-bankru-ac1f1-2026
  -11-17@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
+DTSTART;TZID=Europe/Lisbon:20261117T190000
 SUMMARY:Panel: The Road from Antalya to Abu Dhabi: Global Water Bankruptcy 
  and the New Water Agenda
 LOCATION:United Nations University\, Guimarães
@@ -3033,28 +3033,6 @@ DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
  -engenharia-biomedica-da-licenciada-madalena-teixeira-custodio
 URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
  nciada-mad-12fae.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-enfermagem-comunitaria-c3412-2026-11-18@lagenda.pt
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Provas de Mestrado – Enfermagem Comunitária
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-enferma
- gem-comunitaria-34/
-URL:https://lykeion.pt/e/provas-de-mestrado-enfermagem-comunitaria-c3412.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-enfermagem-comunitaria-c3412-2026-11-18@lagenda.pt
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Provas de Mestrado – Enfermagem Comunitária
-LOCATION:Instituto Politécnico da Guarda\, Seia
-DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-enferma
- gem-comunitaria-34/
-URL:https://lykeion.pt/e/provas-de-mestrado-enfermagem-comunitaria-c3412.ht
- ml
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-joaquim-manuel-soares-cerejeira-cienc-bb06b-2026
@@ -6298,7 +6276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sdg-innovation-summit-malaysia-2026-sism-fba5a-2026-11-19@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T190000
 SUMMARY:SDG Innovation Summit Malaysia 2026 (SISM)
 LOCATION:United Nations University\, Guimarães
 DESCRIPTION:https://unu.edu/events
@@ -7527,7 +7505,7 @@ BEGIN:VEVENT
 UID:distincao-academica-escola-doutoral-de-ciencias-aba2e-2026-11-20@lagend
  a.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T235900
 SUMMARY:Distinção Académica - Escola Doutoral de CIÊNCIAS
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/distincao-academica-escola-
@@ -10935,7 +10913,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-giovanna-tourinho-giorgi-gestao-e-cons-1c023-2026
  -11-24@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Provas de mestrado de Giovanna Tourinho Giorgi — Gestão e Conser
  vação Preventiva da Coleção de Figurinos do Círculo de Cultura Teatra
  l - Teatro Experimental do Porto (CCT-TEP)
@@ -11062,7 +11040,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-nuria-goncalves-niz-colecao-de-armas-e-4e0ed-2026
  -11-24@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Provas de mestrado de Núria Gonçalves Niz — Coleção de armas 
  em reserva do Museu de Etnografia e História da Póvoa do Varzim: propost
  a de um plano de conservação
@@ -16008,7 +15986,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:alumnight-with-faculdade-de-medicina-28dad-2026-11-27@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T173000
 SUMMARY:Alumnight with Faculdade de Medicina
 LOCATION:Centro de Estudos de Medicina Baseada na Evidência
 DESCRIPTION:https://www.medicina.ulisboa.pt/alumnight-faculdade-de-medicina
@@ -23898,7 +23876,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-publicas-de-mestrado-e3dc2-2026-12-31@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261231
+DTSTART;TZID=Europe/Lisbon:20261231T090000
 SUMMARY:Provas Públicas de Mestrado
 LOCATION:Centro de Inovação e Investigação em Ciências Empresariais e 
  Sistemas de Informação\, Felgueiras

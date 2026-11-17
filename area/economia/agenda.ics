@@ -521,7 +521,7 @@ BEGIN:VEVENT
 UID:distincao-academica-escola-doutoral-de-ciencias-aba2e-2026-11-20@lagend
  a.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T235900
 SUMMARY:Distinção Académica - Escola Doutoral de CIÊNCIAS
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/distincao-academica-escola-
@@ -807,7 +807,7 @@ BEGIN:VEVENT
 UID:provas-de-mestrado-de-giovanna-tourinho-giorgi-gestao-e-cons-1c023-2026
  -11-24@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Provas de mestrado de Giovanna Tourinho Giorgi — Gestão e Conser
  vação Preventiva da Coleção de Figurinos do Círculo de Cultura Teatra
  l - Teatro Experimental do Porto (CCT-TEP)
@@ -1645,7 +1645,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-publicas-de-mestrado-e3dc2-2026-12-31@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261231
+DTSTART;TZID=Europe/Lisbon:20261231T090000
 SUMMARY:Provas Públicas de Mestrado
 LOCATION:Centro de Inovação e Investigação em Ciências Empresariais e 
  Sistemas de Informação\, Felgueiras

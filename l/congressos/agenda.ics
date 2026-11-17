@@ -645,7 +645,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sdg-innovation-summit-malaysia-2026-sism-fba5a-2026-11-19@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261119
+DTSTART;TZID=Europe/Lisbon:20261119T190000
 SUMMARY:SDG Innovation Summit Malaysia 2026 (SISM)
 LOCATION:United Nations University\, Guimarães
 DESCRIPTION:https://unu.edu/events

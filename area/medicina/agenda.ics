@@ -1366,7 +1366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:alumnight-with-faculdade-de-medicina-28dad-2026-11-27@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T173000
 SUMMARY:Alumnight with Faculdade de Medicina
 LOCATION:Centro de Estudos de Medicina Baseada na Evidência
 DESCRIPTION:https://www.medicina.ulisboa.pt/alumnight-faculdade-de-medicina

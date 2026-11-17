@@ -920,7 +920,7 @@ BEGIN:VEVENT
 UID:distincao-academica-escola-doutoral-de-ciencias-aba2e-2026-11-20@lagend
  a.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261120
+DTSTART;TZID=Europe/Lisbon:20261120T235900
 SUMMARY:Distinção Académica - Escola Doutoral de CIÊNCIAS
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/distincao-academica-escola-
@@ -2094,7 +2094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:alumnight-with-faculdade-de-medicina-28dad-2026-11-27@lagenda.pt
 DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261127
+DTSTART;TZID=Europe/Lisbon:20261127T173000
 SUMMARY:Alumnight with Faculdade de Medicina
 LOCATION:Centro de Estudos de Medicina Baseada na Evidência
 DESCRIPTION:https://www.medicina.ulisboa.pt/alumnight-faculdade-de-medicina
