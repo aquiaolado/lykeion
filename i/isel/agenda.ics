@@ -6,9 +6,21 @@ X-WR-CALNAME:Instituto Superior de Engenharia de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:isel-symposium-on-sustainable-energy-transition-isset-ac4e8-2026-11-24@
+ lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:ISEL Symposium on Sustainable Energy Transition (ISSET)
+LOCATION:Instituto Superior de Engenharia de Lisboa
+DESCRIPTION:https://www.isel.pt/eventos/isel-symposium-sustainable-energy-t
+ ransition
+URL:https://lykeion.pt/e/isel-symposium-on-sustainable-energy-transition-is
+ set-ac4e8.html
+END:VEVENT
+BEGIN:VEVENT
 UID:isel-symposium-on-sustainable-energy-transition-isset-ac4e8-2026-11-25@
  lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:ISEL Symposium on Sustainable Energy Transition (ISSET)
 LOCATION:Instituto Superior de Engenharia de Lisboa

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Engenharia Eletrotécnica e de Computadores (D
+ EEC) (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:deec-talk-com-marco-piccardo-829f3-2026-11-18@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T120000
+SUMMARY:Deec Talk com Marco Piccardo
+LOCATION:Departamento de Engenharia Eletrotécnica e de Computadores (DEEC)
+DESCRIPTION:https://deec.tecnico.ulisboa.pt/eventos/palestras/deec-talk-com
+ -marco-piccardo
+URL:https://lykeion.pt/e/deec-talk-com-marco-piccardo-829f3.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro Ciência Viva de Tavira (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:conferencia-cientistas-na-minha-escola-humm-que-cheiro-e-est-b922b-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Conferência: Cientistas na minha Escola - Humm... que cheiro é es
+ te?!!
+LOCATION:Centro Ciência Viva de Tavira\, Tavira
+DESCRIPTION:https://tavira.cienciaviva.pt/
+URL:https://lykeion.pt/e/conferencia-cientistas-na-minha-escola-humm-que-ch
+ eiro-e-est-b922b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-experimenta-do-laboratorio-para-a-escola-bb15f-2026-11-24@lag
+ enda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Exposição: Experimenta: Do laboratório para a escola
+LOCATION:Centro Ciência Viva de Tavira\, Tavira
+DESCRIPTION:https://tavira.cienciaviva.pt/
+URL:https://lykeion.pt/e/exposicao-experimenta-do-laboratorio-para-a-escola
+ -bb15f.html
+END:VEVENT
+END:VCALENDAR

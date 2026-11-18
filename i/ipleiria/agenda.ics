@@ -6,21 +6,8 @@ X-WR-CALNAME:IPLeiria (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-nostalgia-observacoes-extradimensionais-inauguraca-672a9-2026
- -11-17@lagenda.pt
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=Europe/Lisbon:20261117T150000
-SUMMARY:Exposição “Nostalgia — Observações extradimensionais” (In
- auguração – 29 de setembro na ULO)
-LOCATION:Politécnico de Leiria\, Leiria
-DESCRIPTION:https://www.ulo.pt/exposicao-nostalgia-observacoes-extradimensi
- onais-inauguracao-29-de-setembro-na-ulo/
-URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
- inauguraca-672a9.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-angela-da-ponte-e1301-2026-11-18@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T173000
 SUMMARY:Aula Aberta – Ângela da Ponte
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
@@ -32,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-da-ferramenta-ao-som-a-espacializacao-sonora-com-e1301-2026
  -11-18@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T173000
 SUMMARY:Aula Aberta: da Ferramenta ao Som: a Espacialização Sonora Como E
  lemento Estrutural na Criação do Objeto Artístico
@@ -44,8 +31,21 @@ URL:https://lykeion.pt/e/aula-aberta-da-ferramenta-ao-som-a-espacializacao-
  sonora-com-e1301.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-nostalgia-observacoes-extradimensionais-inauguraca-672a9-2026
+ -11-18@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=Europe/Lisbon:20261118T150000
+SUMMARY:Exposição “Nostalgia — Observações extradimensionais” (In
+ auguração – 29 de setembro na ULO)
+LOCATION:Politécnico de Leiria\, Leiria
+DESCRIPTION:https://www.ulo.pt/exposicao-nostalgia-observacoes-extradimensi
+ onais-inauguracao-29-de-setembro-na-ulo/
+URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
+ inauguraca-672a9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontro-arte-contemporanea-um-bem-comum-a2b63-2026-11-19@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Encontro: Arte Contemporânea - UM BEM COMUM
 LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
@@ -53,5 +53,18 @@ LOCATION:Escola Superior de Artes e Design das Caldas da Rainha\, Caldas da
 DESCRIPTION:https://www.ipleiria.pt/esadcr/2026/11/11/3o-encontro-rpac/
 URL:https://lykeion.pt/e/encontro-arte-contemporanea-um-bem-comum-a2b63.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:iv-jornadas-healthy-campus-da-ulo-26-de-novembro-inscricoes-19542-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T093000
+SUMMARY:IV Jornadas Healthy Campus da ULO – 26 de novembro // (Inscriçõ
+ es Gratuitas até 19 de novembro)
+LOCATION:Politécnico de Leiria\, Leiria
+DESCRIPTION:https://www.ipleiria.pt/iv-jornadas-healthy-campus-da-ulo-26-de
+ -novembro-inscricoes-gratuitas-ate-19-de-novembro/
+URL:https://lykeion.pt/e/iv-jornadas-healthy-campus-da-ulo-26-de-novembro-i
+ nscricoes-19542.html
 END:VEVENT
 END:VCALENDAR

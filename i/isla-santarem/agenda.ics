@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ISLA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:aula-aberta-gestao-de-armazens-logisticos-493d7-2026-11-18@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Aula aberta: Gestão de Armazéns Logísticos
+LOCATION:ISLA Santarém\, Santarém
+DESCRIPTION:https://www.islasantarem.pt/pt/isla-media/eventos/aula-aberta-g
+ estao-de-armazens-logisticos
+URL:https://lykeion.pt/e/aula-aberta-gestao-de-armazens-logisticos-493d7.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:mesa-redonda-construir-o-futuro-do-turismo-1ea0d-2026-11-18@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Mesa Redonda: Construir o Futuro do Turismo
+LOCATION:ISLA Santarém\, Santarém
+DESCRIPTION:https://www.islasantarem.pt/pt/isla-media/eventos/mesa-redonda-
+ construir-o-futuro-do-turismo
+URL:https://lykeion.pt/e/mesa-redonda-construir-o-futuro-do-turismo-1ea0d.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:x-conferencia-upsell-78b10-2026-11-25@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:X Conferência Upsell
+LOCATION:ISLA Santarém\, Santarém
+DESCRIPTION:https://www.islasantarem.pt/pt/isla-media/eventos/x-conferencia
+ -upsell
+URL:https://lykeion.pt/e/x-conferencia-upsell-78b10.html
+END:VEVENT
+END:VCALENDAR

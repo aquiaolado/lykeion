@@ -6,22 +6,35 @@ X-WR-CALNAME:Engenharia Civil e Construção (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:seminario-de-sistemas-dinamicos-large-deviations-beyond-boun-35e1b-2026
+UID:14-00-seminario-seminario-de-sistemas-dinamicos-large-deviat-35e1b-2026
  -11-18@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Lisbon:20261118T140000
-SUMMARY:Seminário de Sistemas Dinâmicos «Large Deviations Beyond Bounded
-  Observables»
+SUMMARY:Seminário Seminário de Sistemas Dinâmicos «Large Deviations Bey
+ ond Bounded Observables»
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/eventos/seminario-de-sistemas-dinam
  icos-deviations
-URL:https://lykeion.pt/e/seminario-de-sistemas-dinamicos-large-deviations-b
- eyond-boun-35e1b.html
+URL:https://lykeion.pt/e/14-00-seminario-seminario-de-sistemas-dinamicos-la
+ rge-deviat-35e1b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3o-encontro-de-outono-da-apmgf-aveiro-espera-por-ti-para-cri-4352e-2026
+ -11-19@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:3o Encontro de Outono da APMGF – Aveiro espera por ti para criar 
+ pontes!
+LOCATION:Associacao Portuguesa de Medicina Geral e Familiar
+DESCRIPTION:https://apmgf.pt/evento/iii-encontro-de-outono-da-apmgf-19-a-21
+ -de-novembro-de-2026-na-cidade-de-aveiro-2/
+URL:https://lykeion.pt/e/3o-encontro-de-outono-da-apmgf-aveiro-espera-por-t
+ i-para-cri-4352e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:palestra-as-primeiras-estruturas-pre-esforcadas-em-portugal-21744-2026-
  11-19@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Lisbon:20261119T173000
 SUMMARY:Palestra “As primeiras estruturas pré-esforçadas em Portugal
 LOCATION:Instituto Superior Técnico
@@ -33,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maicon-hugo-block-engenharia-civil-61f9c-2026-11-
  19@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Provas de mestrado de Maicon Hugo Block — Engenharia Civil
 LOCATION:Universidade Fernando Pessoa\, Porto
@@ -44,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-as-novas-descobertas-no-vale-do-coa-6f587-2026-11-27@lagend
  a.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Conferência: As novas descobertas no Vale do Côa
 LOCATION:Museu do Côa - Centro Ciência Viva\, Vila Nova de Foz Côa
@@ -53,20 +66,8 @@ URL:https://lykeion.pt/e/conferencia-as-novas-descobertas-no-vale-do-coa-6f
  587.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-agregacao-na-area-de-engenharia-civil-do-doutor-vi-c901e-2026
- -12-09@lagenda.pt
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Provas de Agregação na Área de Engenharia Civil do Doutor Vítor
-  Emanuel Marta da Silva
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100035
-URL:https://lykeion.pt/e/provas-de-agregacao-na-area-de-engenharia-civil-do
- -doutor-vi-c901e.html
-END:VEVENT
-BEGIN:VEVENT
 UID:pontes-rolantes-e-acessorios-de-elevacao-618ed-2027-01-19@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Lisbon:20270119T080000
 SUMMARY:Pontes Rolantes e Acessórios de Elevação
 LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
@@ -78,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:europeia-conferencia-sobre-o-futuro-da-europa-3af97-2027-02-18@lagenda.
  pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Lisbon:20270218T113000
 SUMMARY:Europeia Conferência sobre o Futuro da Europa
 LOCATION:Centro de Informação Europeia Jacques Delors
@@ -89,7 +90,7 @@ URL:https://lykeion.pt/e/europeia-conferencia-sobre-o-futuro-da-europa-3af9
 END:VEVENT
 BEGIN:VEVENT
 UID:os-valores-europeus-e-o-futuro-da-uniao-3af97-2027-02-18@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Lisbon:20270218T113000
 SUMMARY:Os valores europeus e o futuro da União
 LOCATION:Centro de Informação Europeia Jacques Delors

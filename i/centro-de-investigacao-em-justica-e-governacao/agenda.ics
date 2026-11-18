@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:i-am-dissatisfied-with-my-energy-supply-contract-can-i-switc-979a9-2026
  -12-19@lagenda.pt
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Lisbon:20261219T110000
 SUMMARY:I am dissatisfied with my energy supply contract. Can I switch supp
  liers? Am I required to have a fixed-term contract?
@@ -18,5 +18,15 @@ DESCRIPTION:https://www.jusgov.uminho.pt/event/i-am-dissatisfied-with-my-en
  term-contract/
 URL:https://lykeion.pt/e/i-am-dissatisfied-with-my-energy-supply-contract-c
  an-i-switc-979a9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:short-training-course-in-sports-law-3c685-2027-02-06@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=Europe/Lisbon:20270206T180000
+SUMMARY:Short Training Course in Sports Law
+LOCATION:Centro de Investigação em Justiça e Governação\, Braga
+DESCRIPTION:https://www.jusgov.uminho.pt/event/short-training-course-in-spo
+ rts-law-2026/
+URL:https://lykeion.pt/e/short-training-course-in-sports-law-3c685.html
 END:VEVENT
 END:VCALENDAR

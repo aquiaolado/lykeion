@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:EMNSC (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:workshop-loops-e-chops-16973-2026-11-23@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Workshop Loops e Chops
+LOCATION:Escola de Música Nossa Senhora do Cabo\, Amadora
+DESCRIPTION:https://www.emnsc.pt/cm.html
+URL:https://lykeion.pt/e/workshop-loops-e-chops-16973.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-de-gamelao-9c1f1-2026-12-11@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Workshop de Gamelão
+LOCATION:Escola de Música Nossa Senhora do Cabo\, Amadora
+DESCRIPTION:https://www.emnsc.pt/cm.html
+URL:https://lykeion.pt/e/workshop-de-gamelao-9c1f1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:masterclass-e-workshop-de-contrabaixo-c6594-2026-12-16@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Masterclass e Workshop de Contrabaixo
+LOCATION:Escola de Música Nossa Senhora do Cabo\, Amadora
+DESCRIPTION:https://www.emnsc.pt/assets/images/atividades/concursos-masterc
+ lasses/MasterclassContrabaixo_info.pdf
+URL:https://lykeion.pt/e/masterclass-e-workshop-de-contrabaixo-c6594.html
+END:VEVENT
+BEGIN:VEVENT
+UID:masterclass-de-viola-0b565-2026-12-18@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:Masterclass de Viola
+LOCATION:Escola de Música Nossa Senhora do Cabo\, Amadora
+DESCRIPTION:https://www.emnsc.pt/assets/images/atividades/concursos-masterc
+ lasses/MasterclassViola.pdf
+URL:https://lykeion.pt/e/masterclass-de-viola-0b565.html
+END:VEVENT
+BEGIN:VEVENT
+UID:masterclass-de-flauta-b92b1-2027-01-14@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20270114
+SUMMARY:Masterclass de Flauta
+LOCATION:Escola de Música Nossa Senhora do Cabo\, Amadora
+DESCRIPTION:https://www.emnsc.pt/cm.html
+URL:https://lykeion.pt/e/masterclass-de-flauta-b92b1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:masterclass-de-violoncelo-20785-2027-03-08@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20270308
+SUMMARY:Masterclass de Violoncelo
+LOCATION:Escola de Música Nossa Senhora do Cabo\, Amadora
+DESCRIPTION:https://www.emnsc.pt/cm.html
+URL:https://lykeion.pt/e/masterclass-de-violoncelo-20785.html
+END:VEVENT
+BEGIN:VEVENT
+UID:masterclass-de-violino-527a2-2027-04-05@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20270405
+SUMMARY:Masterclass de Violino
+LOCATION:Escola de Música Nossa Senhora do Cabo\, Amadora
+DESCRIPTION:https://www.emnsc.pt/cm.html
+URL:https://lykeion.pt/e/masterclass-de-violino-527a2.html
+END:VEVENT
+END:VCALENDAR

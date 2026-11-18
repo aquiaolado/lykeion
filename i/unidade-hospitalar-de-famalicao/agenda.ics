@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Unidade Hospitalar de Famalicão (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:o-homem-a-sexualidade-no-seculo-xxi-2d75b-2026-11-19@lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T180000
+SUMMARY:O Homem: a Sexualidade no Século XXI
+LOCATION:Unidade Hospitalar de Famalicão\, Vila Nova de Famalicão
+DESCRIPTION:https://www.ulsmave.min-saude.pt/eventos/o-homem-a-sexualidade-
+ no-seculo-xxi/
+URL:https://lykeion.pt/e/o-homem-a-sexualidade-no-seculo-xxi-2d75b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-encontro-de-patologia-digestiva-da-uls-do-medio-ave-fcab0-2026-11-26
+ @lagenda.pt
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T090000
+SUMMARY:II Encontro de Patologia Digestiva da ULS do Médio Ave
+LOCATION:Unidade Hospitalar de Famalicão\, Vila Nova de Famalicão
+DESCRIPTION:https://www.ulsmave.min-saude.pt/eventos/ii-encontro-de-patolog
+ ia-digestiva-da-uls-do-medio-ave/
+URL:https://lykeion.pt/e/ii-encontro-de-patologia-digestiva-da-uls-do-medio
+ -ave-fcab0.html
+END:VEVENT
+END:VCALENDAR
