@@ -6,8 +6,18 @@ X-WR-CALNAME:Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:clube-da-ciencia-75173-2026-11-19@lagenda.pt
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Lisbon:20261119T100000
+SUMMARY:Clube da Ciência
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16162-clube-da-ciênc
+ ia_16162
+URL:https://lykeion.pt/e/clube-da-ciencia-75173.html
+END:VEVENT
+BEGIN:VEVENT
 UID:de-onde-vem-e-para-onde-vao-as-mares-093f1-2026-11-21@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T103000
 SUMMARY:De onde vêm e para onde vão as marés?
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -17,7 +27,7 @@ URL:https://lykeion.pt/e/de-onde-vem-e-para-onde-vao-as-mares-093f1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:laboratorio-de-engenhocarias-b1383-2026-11-22@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261122T103000
 SUMMARY:Laboratório de Engenhocarias
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -28,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-cientistas-na-minha-escola-humm-que-cheiro-e-est-b922b-2026
  -11-23@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Conferência: Cientistas na minha Escola - Humm... que cheiro é es
  te?!!
@@ -39,7 +49,7 @@ URL:https://lykeion.pt/e/conferencia-cientistas-na-minha-escola-humm-que-ch
 END:VEVENT
 BEGIN:VEVENT
 UID:semana-da-ciencia-tecnologia-a4528-2026-11-23@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Semana da Ciência & Tecnologia
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
@@ -49,7 +59,7 @@ URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-a4528.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-0f3e9-2026-11-24@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T213000
 SUMMARY:Café de Ciência · Centro Ciência Viva de Bragança
 LOCATION:Centro Ciência Viva de Bragança\, Bragança
@@ -58,9 +68,22 @@ DESCRIPTION:https://braganca.cienciaviva.pt/2240/cafe-de-ciencia---24-de-no
 URL:https://lykeion.pt/e/cafe-de-ciencia-0f3e9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:dia-nacional-da-cultura-cientifica-24-novembro-10h00-centro-d83aa-2026-
+ 11-24@lagenda.pt
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T100000
+SUMMARY:Dia Nacional da Cultura Científica 24 novembro 10h00 Centro Ciênc
+ ia Viva de Lagos
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16229-dia-nacional-da
+ -cultura-científica
+URL:https://lykeion.pt/e/dia-nacional-da-cultura-cientifica-24-novembro-10h
+ 00-centro-d83aa.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-experimenta-do-laboratorio-para-a-escola-bb15f-2026-11-24@lag
  enda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Exposição: Experimenta: Do laboratório para a escola
 LOCATION:Centro Ciência Viva de Tavira\, Tavira
@@ -71,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-entrada-gratuita-no-centro-ciencia-viva-de-la-2cf14-2026
  -11-24@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Portas abertas: Entrada gratuita no Centro Ciência Viva de Lagos!
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
@@ -83,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-entrada-gratuita-no-centro-ciencia-viva-de-bra-4f2cf-2026
  -11-24@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Visita guiada: Entrada gratuita no Centro Ciência Viva de Braganç
  a!
@@ -94,7 +117,7 @@ URL:https://lykeion.pt/e/visita-guiada-entrada-gratuita-no-centro-ciencia-v
 END:VEVENT
 BEGIN:VEVENT
 UID:noites-astronomicas-abef3-2026-11-25@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T183000
 SUMMARY:Noites astronómicas observação da Lua
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -105,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:passeio-cientifico-noite-de-anfibios-em-mindelo-05e77-2026-11-27@lagend
  a.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Passeio científico: Noite de anfíbios em Mindelo
 LOCATION:Centro Ciência Viva de Vila do Conde\, Vila do Conde
@@ -115,7 +138,7 @@ URL:https://lykeion.pt/e/passeio-cientifico-noite-de-anfibios-em-mindelo-05
 END:VEVENT
 BEGIN:VEVENT
 UID:espaco-kids-100-ciencia-28-de-novembro-6084c-2026-11-28@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T110000
 SUMMARY:Espaço Kids: 100 Ciência - 28 de novembro
 LOCATION:Centro Ciência Viva de Bragança\, Bragança
@@ -126,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-arqueologia-na-semana-da-ciencia-e-da-tecnologia-7cf8b-2026-1
  1-28@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Exposição: Arqueologia na Semana da Ciência e da Tecnologia
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -137,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:passeio-cientifico-a-vida-no-barranco-do-demo-festival-de-ca-2cf14-2026
  -11-28@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: A vida no Barranco do Demo - Festival de Camin
  hadas de Monchique
@@ -150,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:passeio-cientifico-as-plantas-das-caldas-festival-de-caminha-2cf14-2026
  -11-28@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: As Plantas das Caldas - Festival de Caminhadas
   de Monchique
@@ -161,9 +184,22 @@ URL:https://lykeion.pt/e/passeio-cientifico-as-plantas-das-caldas-festival-
  de-caminha-2cf14.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciencia-em-familia-29-novembro-10h30-centro-ciencia-viva-de-30b0c-2026-
+ 11-29@lagenda.pt
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:Ciência Em Família 29 novembro 10h30 Centro Ciência Viva de Lago
+ s
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16249-ciência-em-fam
+ ília_16249
+URL:https://lykeion.pt/e/ciencia-em-familia-29-novembro-10h30-centro-cienci
+ a-viva-de-30b0c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-do-digital-ao-3d-da-vida-aos-fosseis-2cf14-2026-11-29@lagenda.
  pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T180000
 SUMMARY:Workshop: Do digital ao 3D – Dá vida aos fósseis
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
@@ -175,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:historias-vivas-aqui-estamos-nos-de-oliver-jeffers-13-dezemb-9e2a2-2026
  -12-13@lagenda.pt
-DTSTAMP:20261118T000000Z
+DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Lisbon:20261213T103000
 SUMMARY:Histórias Vivas | Aqui Estamos Nós\, de Oliver Jeffers 13 dezembr
  o 10h30 Centro Ciência Viva de Lagos
