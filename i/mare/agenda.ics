@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:MARE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:the-impossible-things-workshop-ae44b-2027-03-15@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20270315
+SUMMARY:The Impossible Things Workshop
+LOCATION:Pólo da Madeira do Centro de Ciências do Mar e do Ambiente\, Fun
+ chal
+DESCRIPTION:https://mare-madeira.pt/events/tecnologias/
+URL:https://lykeion.pt/e/the-impossible-things-workshop-ae44b.html
+END:VEVENT
+END:VCALENDAR

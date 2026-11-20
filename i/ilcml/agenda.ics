@@ -6,12 +6,30 @@ X-WR-CALNAME:ILCML (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:jornadas-femqueer-iv-5f8c4-2026-11-20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Jornadas Femqueer IV
+LOCATION:Instituto de Literatura Comparada Margarida Losa\, Porto
+DESCRIPTION:https://ilcml.com/jornadas-femqueer-iv/
+URL:https://lykeion.pt/e/jornadas-femqueer-iv-5f8c4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-aberto-com-jade-nogueira-ea965-2026-11-26@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T100000
 SUMMARY:Seminário Aberto com Jade Nogueira
 LOCATION:Instituto de Literatura Comparada Margarida Losa\, Porto
 DESCRIPTION:https://ilcml.com/seminario-aberto-com-jade-nogueira/
 URL:https://lykeion.pt/e/seminario-aberto-com-jade-nogueira-ea965.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-aberto-com-luiza-fontes-59c5c-2026-12-07@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T150000
+SUMMARY:Seminário Aberto com Luiza Fontes
+LOCATION:Instituto de Literatura Comparada Margarida Losa\, Porto
+DESCRIPTION:https://ilcml.com/seminario-aberto-com-luiza-fontes/
+URL:https://lykeion.pt/e/seminario-aberto-com-luiza-fontes-59c5c.html
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NOVA SBE (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:explore-f7149-2026-11-26@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T110000
+SUMMARY:Explore
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/explore-tickets-2001395078556
+URL:https://lykeion.pt/e/explore-f7149.html
+END:VEVENT
+BEGIN:VEVENT
+UID:redesign-f0994-2026-12-11@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T110000
+SUMMARY:Redesign
+LOCATION:Nova SBE\, Cascais
+DESCRIPTION:https://www.eventbrite.pt/e/redesign-tickets-2001395229006
+URL:https://lykeion.pt/e/redesign-f0994.html
+END:VEVENT
+END:VCALENDAR

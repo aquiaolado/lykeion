@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:jornadas-de-pesca-ludica-e-desportiva-12ef9-2026-11-21@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Jornadas de Pesca Lúdica e Desportiva
 LOCATION:Departamento Ambiente e Recursos Naturais\, Bragança
@@ -16,8 +16,21 @@ DESCRIPTION:https://esa.unipb.pt/eventos/jornadas-de-pesca-ludica-e-desport
 URL:https://lykeion.pt/e/jornadas-de-pesca-ludica-e-desportiva-12ef9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-baldios-e-agroecossistemas-tradicao-tecnologia-e-v-cf34d-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Seminário: Baldios e Agroecossistemas: Tradição\, Tecnologia e V
+ alor dos Serviços dos Ecossistemas
+LOCATION:Departamento Ambiente e Recursos Naturais\, Bragança
+DESCRIPTION:https://esa.unipb.pt/eventos/seminario-baldios-agroecossistemas
+ -tradicao-tecnologia-valor-servicos-ecossistemas/
+URL:https://lykeion.pt/e/seminario-baldios-e-agroecossistemas-tradicao-tecn
+ ologia-e-v-cf34d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:jornadas-de-restauro-fluvial-2026-8171d-2026-12-10@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Jornadas de Restauro Fluvial 2026
 LOCATION:Departamento Ambiente e Recursos Naturais\, Bragança

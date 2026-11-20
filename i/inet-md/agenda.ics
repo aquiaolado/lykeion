@@ -6,34 +6,21 @@ X-WR-CALNAME:INET-md (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:escola-de-outono-2026-cc765-2026-11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Escola de Outono 2026
+UID:seminario-a-zoom-lens-for-the-future-of-the-text-ba804-2026-11-20@lagen
+ da.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T110000
+SUMMARY:Seminário: A Zoom Lens for the Future of the Text
 LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
  ça
-DESCRIPTION:https://www.inetmd.pt/eventos/escola-de-outono-2026-ouvir-imagi
- nar-partilhar-e-experienciar-a-mundanidade-sonora-entre-processos-criativo
- s-artisticos-e-educativos/
-URL:https://lykeion.pt/e/escola-de-outono-2026-cc765.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-catedra-movimiento-y-lenguajes-transferencia-e-inv-c332a-2026
- -11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T170000
-SUMMARY:Seminário: Cátedra Movimiento y Lenguajes: transferencia e invest
- igación
-LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
- ça
-DESCRIPTION:https://www.inetmd.pt/eventos/catedra-movimiento-y-lenguajes-tr
- ansferencia-e-investigacion/
-URL:https://lykeion.pt/e/seminario-catedra-movimiento-y-lenguajes-transfere
- ncia-e-inv-c332a.html
+DESCRIPTION:https://www.inetmd.pt/eventos/a-zoom-lens-for-the-future-of-the
+ -text/
+URL:https://lykeion.pt/e/seminario-a-zoom-lens-for-the-future-of-the-text-b
+ a804.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-jean-gorges-d2e3d-2026-11-27@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T143000
 SUMMARY:Provas de doutoramento: Jean Gorges
 LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
@@ -43,22 +30,8 @@ DESCRIPTION:https://www.inetmd.pt/eventos/provas-de-doutoramento-jean-gorge
 URL:https://lykeion.pt/e/provas-de-doutoramento-jean-gorges-d2e3d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:inet-md-promove-1-o-encontro-da-linha-tematica-poder-politic-65b89-2026
- -12-02@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261202T090000
-SUMMARY:INET-md promove 1.º Encontro da Linha Temática Poder\, Política 
- e Ativismo
-LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
- ça
-DESCRIPTION:https://www.inetmd.pt/eventos/inet-md-promove-1-o-encontro-da-l
- inha-tematica-poder-politica-e-ativismo/
-URL:https://lykeion.pt/e/inet-md-promove-1-o-encontro-da-linha-tematica-pod
- er-politic-65b89.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-doutoramento-rodrigo-affonso-824be-2026-12-02@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T151500
 SUMMARY:Provas de doutoramento: Rodrigo Affonso
 LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
@@ -66,5 +39,20 @@ LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
 DESCRIPTION:https://www.inetmd.pt/eventos/provas-de-doutoramento-rodrigo-af
  fonso/
 URL:https://lykeion.pt/e/provas-de-doutoramento-rodrigo-affonso-824be.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-energias-sonoras-o-impacto-das-transicoes-energeti-35018-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T140000
+SUMMARY:Seminário: Energias Sonoras. O impacto das transições energétic
+ as nos instrumentos tradicionais de sopro do Sul de Itália
+LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
+ ça
+DESCRIPTION:https://www.inetmd.pt/eventos/energias-sonoras-o-impacto-das-tr
+ ansicoes-energeticas-nos-instrumentos-tradicionais-de-sopro-do-sul-de-ital
+ ia/
+URL:https://lykeion.pt/e/seminario-energias-sonoras-o-impacto-das-transicoe
+ s-energeti-35018.html
 END:VEVENT
 END:VCALENDAR

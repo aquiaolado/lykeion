@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:coloquio-tricentenario-da-3a-edicao-dos-philosophiae-natural-66fa2-2026
  -11-24@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T093000
 SUMMARY:Colóquio: Tricentenário da 3a edição dos «Philosophiae Natural
  is Principia Mathematica»\, de Isaac Newton
@@ -19,8 +19,20 @@ URL:https://lykeion.pt/e/coloquio-tricentenario-da-3a-edicao-dos-philosophi
  ae-natural-66fa2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:debate-de-cidadaos-a-turistas-comunidades-entre-as-necessida-22a03-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T060000
+SUMMARY:Debate: De cidadãos a turistas: comunidades entre as necessidades 
+ locais e as exigências globais
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/from-citizens-tourists/
+URL:https://lykeion.pt/e/debate-de-cidadaos-a-turistas-comunidades-entre-as
+ -necessida-22a03.html
+END:VEVENT
+BEGIN:VEVENT
 UID:x-congresso-de-historia-local-584c2-2026-11-24@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T093000
 SUMMARY:X Congresso de História Local
 LOCATION:Instituto de História Contemporânea
@@ -29,7 +41,7 @@ URL:https://lykeion.pt/e/x-congresso-de-historia-local-584c2.html
 END:VEVENT
 BEGIN:VEVENT
 UID:socialist-yugoslavia-all-year-round-9bdb9-2026-11-25@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T123000
 SUMMARY:Socialist Yugoslavia All Year Round
 LOCATION:Instituto de História Contemporânea
@@ -38,7 +50,7 @@ URL:https://lykeion.pt/e/socialist-yugoslavia-all-year-round-9bdb9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-rosario-martins-b14d9-2026-12-07@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261207T023000
 SUMMARY:Provas de Doutoramento de Rosário Martins
 LOCATION:Instituto de História Contemporânea
@@ -48,7 +60,7 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-rosario-martins-b14d9.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:iv-congresso-karl-marx-51ec1-2027-01-22@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20270122
 SUMMARY:IV Congresso Karl Marx
 LOCATION:Instituto de História Contemporânea
@@ -58,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:new-perspectives-on-soft-power-and-cultural-diplomacy-5379e-2027-02-24@
  lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20270224
 SUMMARY:New Perspectives on Soft Power and Cultural Diplomacy
 LOCATION:Instituto de História Contemporânea\, Alvalade

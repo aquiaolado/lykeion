@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:congresso-internacional-de-microbiologia-em-lingua-portugues-34343-2026
  -11-23@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Congresso internacional de Microbiologia em língua Portuguesa ( Mi
  crobiologia 2026)
@@ -18,5 +18,17 @@ DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1051/
  gia-2026
 URL:https://lykeion.pt/e/congresso-internacional-de-microbiologia-em-lingua
  -portugues-34343.html
+END:VEVENT
+BEGIN:VEVENT
+UID:13-30-simposio-restauro-da-natureza-em-ecossistemas-floresta-354e9-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T013000
+SUMMARY:Simpósio “Restauro da Natureza em Ecossistemas Florestais
+LOCATION:Instituto Nacional de Investigação Agrária e Veterinária
+DESCRIPTION:https://www.iniav.pt/calendario-de-eventos/detalhesevento/1066/
+ -/simposio-restauro-da-natureza-em-ecossistemas-florestais
+URL:https://lykeion.pt/e/13-30-simposio-restauro-da-natureza-em-ecossistema
+ s-floresta-354e9.html
 END:VEVENT
 END:VCALENDAR

@@ -6,35 +6,9 @@ X-WR-CALNAME:Escola Superior Agrária de Coimbra (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:corredor-do-edificio-principal-da-esac-exposicao-de-fotograf-3e2b7-2026
- -11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Corredor do Edifício Principal da ESAC Exposição de Fotografia 
- “Macrocosmos – Os insetos
-LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
-DESCRIPTION:https://www.esac.pt/index.php/eventos/exposicao-de-fotografia-m
- acrocosmos-os-insetos/
-URL:https://lykeion.pt/e/corredor-do-edificio-principal-da-esac-exposicao-d
- e-fotograf-3e2b7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-antonio-pedro-ribeiro-borges-caracteri-d4b1c-2026
- -11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T134500
-SUMMARY:Provas de mestrado de António Pedro Ribeiro Borges — Caracteriza
- ção e valorização das borras de vinho
-LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
-DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
- s-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-antonio-pedro-ribeiro-borges
- -caracteri-d4b1c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-1-o-encontro-nacional-de-c5e00-2026-
  11-21@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261121
 SUMMARY:Escola Superior Agrária de Coimbra 1.º Encontro Nacional de Enfer
  magem Veterinária
@@ -47,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-semana-da-ciencia-e-da-te-359ba-2026
  -11-23@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T093000
 SUMMARY:Escola Superior Agrária de Coimbra Semana da Ciência e da Tecnolo
  gia 2026 na ESAC
@@ -56,5 +30,73 @@ DESCRIPTION:https://www.esac.pt/index.php/eventos/semana-da-ciencia-e-da-te
  cnologia-2026-na-esac/
 URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-semana-da-cienc
  ia-e-da-te-359ba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-maria-vieira-rodrigues-producao-qualid-c2d4c-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T134500
+SUMMARY:Provas de mestrado de Maria Vieira Rodrigues — Produção\, Quali
+ dade e Desenvolvimento de Novos Produtos Alimentares
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
+ s-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-vieira-rodrigues-produ
+ cao-qualid-c2d4c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-beatriz-antunes-tristao-contributo-par-0a0df-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T134500
+SUMMARY:Provas de mestrado de Beatriz Antunes Tristão — Contributo para 
+ o diagnóstico e mitigação do desperdício alimentar em três estabeleci
+ mentos de ensino do concelho de Arganil
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
+ s-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-beatriz-antunes-tristao-cont
+ ributo-par-0a0df.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-mariana-ventura-dias-travassos-standar-d6157-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T134500
+SUMMARY:Provas de mestrado de Mariana Ventura Dias Travassos — Standardiz
+ ação de Procedimentos de Operação e Suporte à Produção de Padaria e
+  Pastelaria
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
+ s-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-ventura-dias-travass
+ os-standar-d6157.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-patricia-sousa-gameiro-monitorizacao-e-410c5-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T134500
+SUMMARY:Provas de mestrado de Patrícia Sousa Gameiro — Monitorização e
+  caracterização do circuito da água numa unidade de produção de vinho
+ s e espumantes: avaliação de eficiência hídrica e oportunidades de ot
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
+ s-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-patricia-sousa-gameiro-monit
+ orizacao-e-410c5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ines-de-jesus-teixeira-ribeiro-avaliac-16e03-2026
+ -12-04@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T134500
+SUMMARY:Provas de mestrado de Inês de Jesus Teixeira Ribeiro — Avaliaç
+ ão de Métodos de Conservação para Kiwi Verde
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
+ s-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-de-jesus-teixeira-ribei
+ ro-avaliac-16e03.html
 END:VEVENT
 END:VCALENDAR

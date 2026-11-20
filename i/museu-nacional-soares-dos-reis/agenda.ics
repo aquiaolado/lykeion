@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Museu Nacional Soares dos Reis (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:natal-circular-encontro-da-comunidade-bombarda-bom-barda-nat-83ae8-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T193000
+SUMMARY:Natal Circular: Encontro da Comunidade Bombarda | Bom(Barda) Natal 
+ 2026
+LOCATION:Museu Nacional Soares dos Reis\, Porto
+DESCRIPTION:https://www.eventbrite.pt/e/bilhetes-natal-circular-encontro-da
+ -comunidade-bombarda-bombarda-natal-2026-2004846112692
+URL:https://lykeion.pt/e/natal-circular-encontro-da-comunidade-bombarda-bom
+ -barda-nat-83ae8.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Biblioteca Noronha Feio (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:10-a-conferencia-anual-da-redesaude-caadc-2026-12-16@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:10.ª Conferência Anual da redeSAÚDE
+LOCATION:Biblioteca Noronha Feio\, Oeiras
+DESCRIPTION:https://www.fmh.ulisboa.pt/eventos/item/3723-10-conferencia-anu
+ al-da-redesaude
+URL:https://lykeion.pt/e/10-a-conferencia-anual-da-redesaude-caadc.html
+END:VEVENT
+END:VCALENDAR

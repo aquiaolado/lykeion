@@ -6,16 +6,28 @@ X-WR-CALNAME:CITCEM (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:call-para-projetos-de-investigacao-internos-citcem-90a6c-2026-12-15@lag
- enda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;VALUE=DATE:20261215
-SUMMARY:Call para Projetos de investigação internos CITCEM
+UID:ciclo-de-conferencias-do-mestrado-em-estudos-alemaes-transna-82302-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T163000
+SUMMARY:Ciclo de Conferências do Mestrado em Estudos Alemães Transnaciona
+ is_2026/2027_Sessão 6
 LOCATION:Centro de Investigação Transdisciplinar Cultura Espaço e Memór
  ia\, Porto
-DESCRIPTION:https://citcem.org/call-para-projetos-de-investigacao-internos-
- citcem/
-URL:https://lykeion.pt/e/call-para-projetos-de-investigacao-internos-citcem
- -90a6c.html
+DESCRIPTION:https://citcem.org/ciclo-de-conferencias-do-mestrado-em-estudos
+ -alemaes-transnacionais_2026-2027_sessao-6/
+URL:https://lykeion.pt/e/ciclo-de-conferencias-do-mestrado-em-estudos-alema
+ es-transna-82302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-em-historia-da-literatura-s9-eaf9a-2026-11-26@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Seminário em História da Literatura_S9
+LOCATION:Centro de Investigação Transdisciplinar Cultura Espaço e Memór
+ ia\, Porto
+DESCRIPTION:https://citcem.org/eventos/seminario-em-historia-da-literatura_
+ s9/
+URL:https://lykeion.pt/e/seminario-em-historia-da-literatura-s9-eaf9a.html
 END:VEVENT
 END:VCALENDAR

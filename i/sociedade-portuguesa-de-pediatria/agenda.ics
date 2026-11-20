@@ -6,25 +6,32 @@ X-WR-CALNAME:SPP (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:30-reunio-anual-spgh-30th-annual-meeting-spgh-3c753-2026-11-19@lagenda.
- pt
-DTSTAMP:20261119T000000Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:30 – Reuni – o Anual SPGH/ 30th Annual Meeting SPGH
-LOCATION:Sociedade Portuguesa de Pediatria
-DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50865
-URL:https://lykeion.pt/e/30-reunio-anual-spgh-30th-annual-meeting-spgh-3c75
- 3.html
-END:VEVENT
-BEGIN:VEVENT
 UID:congresso-i-frum-de-pediatria-do-alto-alentejo-582a4-2026-11-20@lagenda
  .pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Congresso: I F – rum de Pediatria do Alto Alentejo
 LOCATION:Sociedade Portuguesa de Pediatria
 DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50861
 URL:https://lykeion.pt/e/congresso-i-frum-de-pediatria-do-alto-alentejo-582
  a4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-jornadas-de-pediatria-da-ulsbe-05063-2026-11-25@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:II Jornadas de Pediatria da ULSBE
+LOCATION:Sociedade Portuguesa de Pediatria
+DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50885
+URL:https://lykeion.pt/e/ii-jornadas-de-pediatria-da-ulsbe-05063.html
+END:VEVENT
+BEGIN:VEVENT
+UID:escola-de-outono-da-spgp-2026-653d0-2026-11-26@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Escola de Outono da SPGP - 2026
+LOCATION:Sociedade Portuguesa de Pediatria
+DESCRIPTION:https://www.spp.pt/eventos/default.asp?ida=50841
+URL:https://lykeion.pt/e/escola-de-outono-da-spgp-2026-653d0.html
 END:VEVENT
 END:VCALENDAR

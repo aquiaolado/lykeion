@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CENDREV (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:painel-vicente-4dab0-2027-01-04@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20270104T090000
+SUMMARY:Painel Vicente
+LOCATION:Centro Dramático de Évora\, Évora
+DESCRIPTION:https://www.cendrev.com/blank-2
+URL:https://lykeion.pt/e/painel-vicente-4dab0.html
+END:VEVENT
+END:VCALENDAR

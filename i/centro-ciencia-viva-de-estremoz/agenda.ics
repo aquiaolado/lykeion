@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centro Ciência Viva de Estremoz (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-tecnologia-2026-c3134-2026-11-29@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:Semana da Ciência e Tecnologia 2026
+LOCATION:Centro Ciência Viva de Estremoz\, Estremoz
+DESCRIPTION:https://www.ccvestremoz.com/semana-ciencia-e-tecnologia
+URL:https://lykeion.pt/e/semana-da-ciencia-e-tecnologia-2026-c3134.html
+END:VEVENT
+END:VCALENDAR

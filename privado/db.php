@@ -68,7 +68,8 @@ function email_nao_enviar(string $para): bool {
   return false;
 }
 
-function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeiras.pt', $html = '', $extra = '', $via = '') {
+// $eml: uma mensagem inteira (tal como veio da caixa) para seguir em anexo, como «mensagem-original.eml» (reencaminhar, 19 nov. 2026).
+function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeiras.pt', $html = '', $extra = '', $via = '', $eml = '') {
   global $CFG;
   if (email_nao_enviar((string)$para)) return [false, 'pediu para não receber emails do asfeiras.pt (privado/nao_enviar.csv)'];
   $de = (string)$CFG['email_remetente'];
@@ -82,6 +83,13 @@ function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeira
     $cab .= "Content-Type: multipart/alternative; boundary=\"$f\"\r\n";
     $corpo = "--$f\r\nContent-Type: text/plain; charset=UTF-8\r\nContent-Transfer-Encoding: base64\r\n\r\n" . chunk_split(base64_encode($texto))
            . "--$f\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: base64\r\n\r\n" . chunk_split(base64_encode($html)) . "--$f--\r\n";
+  }
+  if ($eml !== '') { // corpo + mensagem original em anexo
+    $ct = ''; $cab = preg_replace_callback('/Content-Type:[^\r]*\r\n(Content-Transfer-Encoding:[^\r]*\r\n)?/', function ($x) use (&$ct) { $ct = $x[0]; return ''; }, $cab, 1);
+    $f = 'mx' . bin2hex(random_bytes(8));
+    $cab .= "Content-Type: multipart/mixed; boundary=\"$f\"\r\n";
+    $corpo = "--$f\r\n$ct\r\n$corpo\r\n--$f\r\nContent-Type: message/rfc822; name=\"mensagem-original.eml\"\r\nContent-Transfer-Encoding: base64\r\nContent-Disposition: attachment; filename=\"mensagem-original.eml\"\r\n\r\n"
+           . chunk_split(base64_encode($eml)) . "--$f--\r\n";
   }
   $b = $via === 'brevo';
   $pass = (string)($CFG[$b ? 'smtp2_password' : 'smtp_password'] ?? '');

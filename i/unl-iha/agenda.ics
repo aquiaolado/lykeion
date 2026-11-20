@@ -6,10 +6,10 @@ X-WR-CALNAME:UNL IHA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-19@lagenda
+UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-20@lagenda
  .pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T170000
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T170000
 SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
@@ -18,9 +18,9 @@ URL:https://lykeion.pt/e/exposicao-damao-fogo-do-coracao-de-ana-janeiro-308
  38.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-queridas-amigas-af305-2026-11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T180000
+UID:exposicao-queridas-amigas-af305-2026-11-20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T180000
 SUMMARY:Exposição | Queridas Amigas
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-queridas-
@@ -28,33 +28,22 @@ DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-queridas-
 URL:https://lykeion.pt/e/exposicao-queridas-amigas-af305.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-permanente-iha-1a442-2026-11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T170000
-SUMMARY:Seminário Permanente IHA
+UID:seminario-de-leitura-iha-late-fascism-de-alberto-toscano-20-3a768-2026-
+ 11-20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Seminário de Leitura IHA | Late Fascism\, de Alberto Toscano | 20 
+ nov.
 LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/seminario-permanent
- e-iha-preservacao-e-valorizacao-de-paisagens-fortificadas-com-luciene-pess
- otti/
-URL:https://lykeion.pt/e/seminario-permanente-iha-1a442.html
-END:VEVENT
-BEGIN:VEVENT
-UID:visita-guiada-e-mesa-redonda-a-pintura-de-tereza-arriaga-tem-ddaeb-2026
- -11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T170000
-SUMMARY:Visita Guiada e Mesa-redonda | A pintura de Tereza Arriaga: temas\,
-  modos\, escrita
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/visita-guiada-e-mes
- a-redonda-a-pintura-de-tereza-arriaga-temas-modos-escrita/
-URL:https://lykeion.pt/e/visita-guiada-e-mesa-redonda-a-pintura-de-tereza-a
- rriaga-tem-ddaeb.html
+DESCRIPTION:https://institutodehistoriadaarte.com/seminario-de-leitura-iha-
+ late-fascism-20-nov/
+URL:https://lykeion.pt/e/seminario-de-leitura-iha-late-fascism-de-alberto-t
+ oscano-20-3a768.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-de-leitura-iha-late-fascism-race-capitalism-and-th-dfb11-2026
  -11-20@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T120000
 SUMMARY:Seminário de Leitura IHA | “Late Fascism: Race\, Capitalism and 
  the Politics of Crisis”\, de Alberto Toscano
@@ -68,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-24@
  lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Congresso | Uncertain Landscapes 2: Beyond the resources
 LOCATION:Instituto de Historia da Arte
@@ -80,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontros-nas-margens-do-possivel-um-grupo-de-discussao-de-f-1f07a-2026
  -12-09@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T183000
 SUMMARY:Encontros: Nas Margens do Possível: um grupo de discussão de fic
  ção científica e fabulações críticas e especulativas

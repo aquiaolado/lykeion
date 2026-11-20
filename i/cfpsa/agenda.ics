@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:workshop-bolo-rei-e-escangalhado-42c43-2026-11-21@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T050000
 SUMMARY:Workshop Bolo rei e escangalhado
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -17,7 +17,7 @@ URL:https://lykeion.pt/e/workshop-bolo-rei-e-escangalhado-42c43.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-fritos-de-natal-b7165-2026-11-21@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T050000
 SUMMARY:Workshop Fritos de Natal
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -27,7 +27,7 @@ URL:https://lykeion.pt/e/workshop-fritos-de-natal-b7165.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-tronco-de-natal-cdabf-2026-11-21@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T050000
 SUMMARY:Workshop Tronco de Natal
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -36,8 +36,18 @@ DESCRIPTION:https://www.cfpsa.pt/courses/show/17850.html?order_by=-1
 URL:https://lykeion.pt/e/workshop-tronco-de-natal-cdabf.html
 END:VEVENT
 BEGIN:VEVENT
+UID:fundamentos-da-inteligencia-artificial-f5c54-2026-11-23@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T120000
+SUMMARY:Fundamentos da Inteligência artificial
+LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
+ as
+DESCRIPTION:https://www.cfpsa.pt/courses/show/18465.html?order_by=-1
+URL:https://lykeion.pt/e/fundamentos-da-inteligencia-artificial-f5c54.html
+END:VEVENT
+BEGIN:VEVENT
 UID:atitudes-motivacao-e-satisfacao-no-trabalho-bc06c-2026-11-25@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T040000
 SUMMARY:Atitudes\, motivação e satisfação no trabalho
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -49,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:introducao-a-gestao-do-tempo-e-a-organizacao-do-trabalho-b037b-2026-11-
  25@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:Introdução à gestão do tempo e à organização do trabalho
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -60,7 +70,7 @@ URL:https://lykeion.pt/e/introducao-a-gestao-do-tempo-e-a-organizacao-do-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-confecao-de-pizzas-4cac5-2026-11-25@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T040000
 SUMMARY:Workshop Confeção de pizzas
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -71,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aplicar-a-inteligencia-emocional-no-processo-de-venda-00b6a-2026-11-26@
  lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T123000
 SUMMARY:Aplicar a inteligência emocional no processo de venda
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -82,12 +92,22 @@ URL:https://lykeion.pt/e/aplicar-a-inteligencia-emocional-no-processo-de-ve
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-cozinha-mediterranea-a594d-2026-11-27@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T050000
 SUMMARY:Workshop Cozinha mediterrânea
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
  as
 DESCRIPTION:https://www.cfpsa.pt/courses/show/18074.html?order_by=-1
 URL:https://lykeion.pt/e/workshop-cozinha-mediterranea-a594d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:gestao-de-stress-e-conflitos-e509c-2026-11-30@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T040000
+SUMMARY:Gestão de stress e conflitos
+LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
+ as
+DESCRIPTION:https://www.cfpsa.pt/courses/show/18041.html?order_by=-1
+URL:https://lykeion.pt/e/gestao-de-stress-e-conflitos-e509c.html
 END:VEVENT
 END:VCALENDAR

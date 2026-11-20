@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:conversas-de-sofa-saude-mental-bem-estar-na-ulisboa-2026-a50c5-2026-11-
- 19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T150000
+ 20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T150000
 SUMMARY:Conversas de sofá – saúde mental & bem-estar na ulisboa 2026
 LOCATION:Faculdade de Belas-Artes da Universidade de Lisboa
 DESCRIPTION:https://www.belasartes.ulisboa.pt/saude-mental-bem-estar-na-uli
@@ -18,29 +18,8 @@ URL:https://lykeion.pt/e/conversas-de-sofa-saude-mental-bem-estar-na-ulisbo
  a-2026-a50c5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-artistico-e-cientifico-f9f85-2026-11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T200000
-SUMMARY:Encontro Artístico e Científico
-LOCATION:Centro de Investigação e de Estudos em Belas-Artes\, Santo Antó
- nio
-DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/686
-URL:https://lykeion.pt/e/encontro-artistico-e-cientifico-f9f85.html
-END:VEVENT
-BEGIN:VEVENT
-UID:mariana-pinto-coelho-dias-terra-miraculosa-3c88f-2026-11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T173000
-SUMMARY:Mariana Pinto Coelho Dias\, «Terra Miraculosa»
-LOCATION:Centro de Investigação e de Estudos em Belas-Artes\, Avenidas No
- vas
-DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/681
-URL:https://lykeion.pt/e/mariana-pinto-coelho-dias-terra-miraculosa-3c88f.h
- tml
-END:VEVENT
-BEGIN:VEVENT
 UID:masterclass-com-annalisa-d-quagliata-blanco-67aa0-2026-11-20@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T183000
 SUMMARY:Masterclass com Annalisa D. Quagliata Blanco
 LOCATION:Faculdade de Belas-Artes da Universidade de Lisboa
@@ -51,7 +30,7 @@ URL:https://lykeion.pt/e/masterclass-com-annalisa-d-quagliata-blanco-67aa0.
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-bdc4b-2026-11-26@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Conferência · Centro de Investigação e de Estudos em Belas-Arte
  s
@@ -60,9 +39,22 @@ DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/687
 URL:https://lykeion.pt/e/conferencia-bdc4b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:vlll-coloquio-expressao-multipla-desenho-aplicado-teoria-e-p-e8f5d-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Vlll Colóquio Expressão Múltipla – Desenho Aplicado | Teoria e
+  Prática do Desenho
+LOCATION:Faculdade de Belas-Artes da Universidade de Lisboa
+DESCRIPTION:https://www.belasartes.ulisboa.pt/viii-coloquio-expressao-multi
+ pla-chamada-de-trabalhos-desenho-aplicado-teoria-e-pratica-do-desenho/
+URL:https://lykeion.pt/e/vlll-coloquio-expressao-multipla-desenho-aplicado-
+ teoria-e-p-e8f5d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ll-international-conference-on-set-costume-design-43aed-2026-11-28@lage
  nda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T093000
 SUMMARY:Ll International Conference on Set & Costume Design
 LOCATION:Faculdade de Belas-Artes da Universidade de Lisboa

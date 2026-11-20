@@ -7,8 +7,19 @@ X-WR-CALNAME:UC Exploratório - Centro Ciência Viva da Universidade de Coi
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:circular-lab-d3dfd-2026-11-21@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T110000
+SUMMARY:Circular lab (re)vestir com ciência
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/circular-lab
+ ---(re)vestir-com-ci%C3%AAncia
+URL:https://lykeion.pt/e/circular-lab-d3dfd.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conversar-e-o-melhor-remedio-834fc-2026-11-21@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261121T170000
 SUMMARY:Conversar é o melhor remédio
 LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra

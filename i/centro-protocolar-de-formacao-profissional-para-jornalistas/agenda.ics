@@ -7,9 +7,27 @@ X-WR-CALNAME:Centro Protocolar de Formação Profissional para Jornalistas
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:contar-historias-com-sons-4b60b-2026-11-20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Contar Histórias com Sons
+LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
+DESCRIPTION:https://www.cenjor.pt
+URL:https://lykeion.pt/e/contar-historias-com-sons-4b60b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:historias-que-marcam-bf754-2026-11-25@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Histórias QUE Marcam
+LOCATION:Centro Protocolar de Formação Profissional para Jornalistas
+DESCRIPTION:https://www.cenjor.pt
+URL:https://lykeion.pt/e/historias-que-marcam-bf754.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-um-dia-na-vida-de-um-jornalista-com-ia-pesquisar-pr-dcf1d-2026
  -11-26@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Workshop “Um dia na vida de um jornalista com IA: pesquisar\, pre
  parar\, entrevistar e verificar
@@ -20,7 +38,7 @@ URL:https://lykeion.pt/e/workshop-um-dia-na-vida-de-um-jornalista-com-ia-pe
 END:VEVENT
 BEGIN:VEVENT
 UID:substack-para-jornalistas-a34fb-2026-12-17@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:Substack para Jornalistas
 LOCATION:Centro Protocolar de Formação Profissional para Jornalistas

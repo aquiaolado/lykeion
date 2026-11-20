@@ -6,10 +6,24 @@ X-WR-CALNAME:Faculdade de Arquitetura da Universidade do Porto (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:aula-aberta-do-curso-de-formacao-continua-fotografia-como-in-16dcc-2026
+ -11-20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T143000
+SUMMARY:Aula aberta do Curso de Formação Contínua 'Fotografia como Instr
+ umento de Interpretação e Representação da Arquitetura e do Espaço Ur
+ bano' 'Nenhuma câmara é neutra: o equipamento fotográfico na constr
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 6605
+URL:https://lykeion.pt/e/aula-aberta-do-curso-de-formacao-continua-fotograf
+ ia-como-in-16dcc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:curso-breve-centro-historico-do-porto-30-anos-olhares-cruzad-9ab3e-2026
- -11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T180000
+ -11-20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T180000
 SUMMARY:Curso Breve - Centro Histórico do Porto - 30 Anos: Olhares Cruzado
  s
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
@@ -20,9 +34,9 @@ URL:https://lykeion.pt/e/curso-breve-centro-historico-do-porto-30-anos-olha
 END:VEVENT
 BEGIN:VEVENT
 UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
- -11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T090000
+ -11-20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T090000
 SUMMARY:Exposição | Anuária 25.26 - Inteligência Arquitetónica
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
@@ -31,9 +45,9 @@ URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
  -inteligen-a9a54.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-a9a54-2026-11-19@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261119T090000
+UID:exposicao-a9a54-2026-11-20@lagenda.pt
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Lisbon:20261120T090000
 SUMMARY:Exposição · Faculdade de Arquitetura da Universidade do Porto
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
@@ -41,21 +55,8 @@ DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
 URL:https://lykeion.pt/e/exposicao-a9a54.html
 END:VEVENT
 BEGIN:VEVENT
-UID:apresentacao-do-livro-urbanismo-agora-manual-para-urbanistas-3d11d-2026
- -12-03@lagenda.pt
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Lisbon:20261203T183000
-SUMMARY:Apresentação do livro | 'Urbanismo\, Agora! Manual para urbanista
- s inquietos'\, de Jorge Carvalho
-LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/faup/noticias_geral.ver_noticia?p_nr=9638
- 6
-URL:https://lykeion.pt/e/apresentacao-do-livro-urbanismo-agora-manual-para-
- urbanistas-3d11d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:unfinished-project-symposium-2027-ba67a-2027-02-11@lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20270211T152000
 SUMMARY:Unfinished Project Symposium 2027
 LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto

@@ -6,22 +6,34 @@ X-WR-CALNAME:CICS.NOVA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:seminario-285e8-2026-11-20@lagenda.pt
-DTSTAMP:20261119T000000Z
+UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-20@lagen
+ da.pt
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:26 Exposição Etnografias da Pastorícia
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
+ da-pastoricia/
+URL:https://lykeion.pt/e/26-17-dez-26-exposicao-etnografias-da-pastoricia-a
+ 35a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-permanente-de-investigacao-cics-nova-285e8-2026-11-20@lagenda
+ .pt
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261120T113000
-SUMMARY:Seminário permanente de investigação CICS nova avanços perspect
- ivas e desafios os anos das políticas de descriminalização das drogas e
- m Portugal
+SUMMARY:Seminário Permanente de Investigação CICS.NOVA
 LOCATION:Centro Interdisciplinar de Ciências Sociais
 DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/seminario-permanente-d
  e-investigacao-cics-nova-avancos-perspectivas-e-desafios-os-25-anos-das-po
  liticas-de-descriminalizacao-das-drogas-em-portugal/
-URL:https://lykeion.pt/e/seminario-285e8.html
+URL:https://lykeion.pt/e/seminario-permanente-de-investigacao-cics-nova-285
+ e8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:26-ciencias-sociais-a-conversa-a-construcao-da-ciencia-780c0-2026-11-24
  @lagenda.pt
-DTSTAMP:20261119T000000Z
+DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T160000
 SUMMARY:26 Ciências Sociais à Conversa – (A Construção da) Ciência..
  .
