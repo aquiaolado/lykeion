@@ -6,22 +6,9 @@ X-WR-CALNAME:CAMGSD (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:francesco-bozzola-2026-11-20-11-00-00-00-11h-some-bounds-in-250fc-2026-
- 11-20@lagenda.pt
-DTSTAMP:20261120T000000Z
-DTSTART;VALUE=DATE:20261120
-SUMMARY:Francesco Bozzola\, 2026-11-20/11:00:00+00\, 11h\, Some bounds in f
- ractional spectral geometry for higher-order problems
-LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
-DESCRIPTION:https://math.tecnico.ulisboa.pthttps://wade.ulisboa.pt/seminars
- ?action=show&amp\,id=7880
-URL:https://lykeion.pt/e/francesco-bozzola-2026-11-20-11-00-00-00-11h-some-
- bounds-in-250fc.html
-END:VEVENT
-BEGIN:VEVENT
 UID:andre-guerra-2026-11-23-18-00-00-00-18h-ai-in-mathematical-r-90b9e-2026
  -11-23@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:André Guerra\, 2026-11-23/18:00:00+00\, 18h\, AI in Mathematical R
  esearch
@@ -34,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:carlos-caleiro-2026-11-23-17-30-00-00-17h-30m-formalization-90b9e-2026-
  11-23@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Carlos Caleiro\, 2026-11-23/17:30:00+00\, 17h 30m\, Formalization i
  n Lean
@@ -46,7 +33,7 @@ URL:https://lykeion.pt/e/carlos-caleiro-2026-11-23-17-30-00-00-17h-30m-form
 END:VEVENT
 BEGIN:VEVENT
 UID:evaluating-researchers-in-the-ai-era-dbda1-2026-11-23@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T184500
 SUMMARY:Evaluating Researchers in the AI Era.
 LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
@@ -57,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hugo-tavares-2026-11-23-20-30-00-00-20h-30m-supervising-stud-90b9e-2026
  -11-23@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Hugo Tavares\, 2026-11-23/20:30:00+00\, 20h 30m\, Supervising Stude
  nts in the AI Era
@@ -69,7 +56,7 @@ URL:https://lykeion.pt/e/hugo-tavares-2026-11-23-20-30-00-00-20h-30m-superv
 END:VEVENT
 BEGIN:VEVENT
 UID:mathematics-for-artificial-intelligence-d5f2b-2026-11-23@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T173000
 SUMMARY:Mathematics for Artificial Intelligence
 LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
@@ -79,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:anja-svraka-2026-11-24-16-00-00-00-16h-additivity-of-constru-6668f-2026
  -11-24@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Anja Švraka\, 2026-11-24/16:00:00+00\, 16h\, Additivity of constru
  ctible factorization algebras
@@ -92,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aleksander-ivanov-2026-11-25-16-00-00-00-16h-higher-categori-6668f-2026
  -11-25@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Aleksander Ivanov\, 2026-11-25/16:00:00+00\, 16h\, Higher categoric
  al bistellar moves
@@ -105,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-27-15-00-00-00-15h-mini-course-on-elli-c1345-2026
  -11-27@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Herwig Hauser\, 2026-11-27/15:00:00+00\, 15h\, Mini-course on Ellip
  tic Curves: Classical Geometry
@@ -118,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-27-16-00-00-00-16h-mini-course-on-elli-c1345-2026
  -11-27@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Herwig Hauser\, 2026-11-27/16:00:00+00\, 16h\, Mini-course on Ellip
  tic Curves: Complex Analysis
@@ -131,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-30-09-30-00-00-09h-30m-mini-course-on-c1345-2026-
  11-30@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Herwig Hauser\, 2026-11-30/09:30:00+00\, 09h 30m\, Mini-course on E
  lliptic Curves: Algebraic Geometry
@@ -144,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-12-03-10-00-00-00-10h-mini-course-on-elli-c1345-2026
  -12-03@lagenda.pt
-DTSTAMP:20261120T000000Z
+DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Herwig Hauser\, 2026-12-03/10:00:00+00\, 10h\, Mini-course on Ellip
  tic Curves: Number Theory
