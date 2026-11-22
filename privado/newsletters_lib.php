@@ -25,14 +25,24 @@ function nl_links(string $html, string $texto): array {
   $r = [];
   if ($html !== '' && preg_match_all('#<a\b[^>]*href\s*=\s*["\']([^"\']+)["\'][^>]*>(.*?)</a>#is', $html, $mm, PREG_SET_ORDER))
     foreach ($mm as $m) $r[] = [html_entity_decode(trim($m[1]), ENT_QUOTES | ENT_HTML5, 'UTF-8'), trim(html_entity_decode(strip_tags($m[2]), ENT_QUOTES | ENT_HTML5, 'UTF-8'))];
+  // texto simples ao estilo Outlook, «Clique aqui para confirmar<http://…>»: o texto antes do < conta como texto da ligação
+  // (21 nov. 2026: os 39 pedidos «Subscrição da(s) newsletter(s)» das câmaras vinham assim e nunca eram confirmados)
+  if (preg_match_all('#([^\n<>]{0,100})<(https?://[^>\s]+)>#i', $texto, $mm, PREG_SET_ORDER)) foreach ($mm as $x) $r[] = [$x[2], trim($x[1])];
   if (preg_match_all('#https?://[^\s<>"\')\]]+#i', $texto, $mm)) foreach ($mm[0] as $u) $r[] = [$u, ''];
   return array_values(array_filter($r, fn($l) => !preg_match('#^(mailto|tel|javascript):|^\##i', $l[0])));
 }
 
 // O link de confirmação, se este email for um pedido de confirmação de subscrição.
+// 21 nov. 2026: o texto é limpo de HTML antes (os emails só em HTML tinham 1500 caracteres de estilos e nunca eram vistos:
+// 39 pedidos «Subscrição da(s) newsletter(s)» de câmaras ficaram por confirmar) e as palavras de confirmar têm de ser
+// palavras inteiras («atividades» e «criativo» faziam passar newsletters normais por pedidos de confirmação).
+const NL_CONFIRMAR = '/(\\bconfirm|\\bvalid(ar|e|a|ação)\\b|\\bverifi(car|que|cação)\\b|\\bativ(ar|e|ação|ada|ado)\\b|\\bactiv(ar|e|ate|ação|ada)\\b|opt.?in|consentimento)/iu';
 function nl_link_confirmacao(array $m): string {
-  $sobre = $m['assunto'] . ' ' . mb_substr($m['texto'], 0, 1500);
-  if (!preg_match(NL_PEDIDO, $sobre) || !preg_match('/(confirm|valid|verifi|ativ|activ|opt.?in)/iu', $sobre)) return '';
+  if (preg_match('/^\s*(re|res|fw|fwd|enc|tr|rv)\s*:/iu', (string)$m['assunto'])) return ''; // resposta a um email nosso
+  $limpo = nl_texto((string)$m['texto']);
+  $sobre = $m['assunto'] . ' ' . mb_substr($limpo, 0, 2000);
+  if (!preg_match(NL_PEDIDO, $sobre) || !preg_match(NL_CONFIRMAR, $sobre)) return '';
+  if (!isset($m['html']) && str_contains((string)$m['texto'], '<a ')) $m['html'] = $m['texto']; // emails lidos da base
   $melhor = ''; $pontos = 0;
   foreach (nl_links($m['html'] ?? '', $m['texto']) as [$url, $txt]) {
     if (!preg_match('#^https?://#i', $url)) continue;
@@ -145,7 +155,22 @@ function nl_tratar(PDO $pdo, array $m): string {
     return $res === 'ok' ? 'newsletter' : 'novo'; // sem a mensagem «subscrição confirmada» fica em «Para tratar»
   }
   if (!empty($m['lista'])) return 'newsletter'; // envio em massa (List-Unsubscribe/List-Id): não é resposta de ninguém
+  if (nl_parece_newsletter($m)) return 'newsletter';
   return '';
+}
+
+// 21 nov. 2026: muitas câmaras mandam a newsletter sem cabeçalho List-Unsubscribe (Palmela, Torres Vedras, Lagoa, Murça,
+// Amarante, Matosinhos…). Iam para «Para tratar» e a triagem dava-as por tratadas: nunca chegavam à recolha.
+// Conta como newsletter: não é resposta nem reencaminhamento, e o texto tem a frase de anular a subscrição.
+function nl_parece_newsletter(array $m): bool {
+  if (preg_match('/^\\s*(re|res|fw|fwd|enc|tr|rv)\\s*:|automatic reply|resposta autom|aus[êe]ncia|out of office/iu', (string)$m['assunto'])) return false;
+  $t = nl_texto((string)$m['texto']);
+  if (preg_match('/^(subscri[çc][ãa]o da\\(s\\) newsletter|assinatura de newsletter)/iu', (string)$m['assunto'])
+      || preg_match(NL_CONFIRMAR, $m['assunto'] . ' ' . mb_substr($t, 0, 2000))) return false; // pedido de confirmação que não deu para abrir: fica para ver à mão
+  // remetente newsletter@…/boletim@… ou assunto com «newsletter»/«boletim»: é um envio da lista
+  if (preg_match('/^(newsletter|boletim|news)[^@]*@/i', (string)$m['de_email']) || preg_match('/\b(newsletter|boletim (municipal|informativo))\b/iu', (string)$m['assunto'])) return true;
+  if (preg_match('/(escreveu|wrote|-----\\s*original|mensagem original)\\b/iu', $t) && preg_match('/lykeion/iu', $t)) return false; // responde a um email nosso
+  return (bool)preg_match('/(unsubscri|anular (a )?(sua )?(subscri|inscri)|cancelar (a )?(sua )?(subscri|inscri|newsletter)|deixar de receber|remover (da|o seu e-?mail da) lista|desinscrever|retirar (a )?subscri|gerir (as )?(suas )?(prefer|subscri))/iu', $t);
 }
 
 // ---------- 3) Eventos das newsletters para a recolha diária ----------
@@ -173,9 +198,43 @@ function nl_ligacoes_evento(array $m): string {
   return json_encode($r, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 }
 
+// Resumo da caixa (21 nov. 2026, pedido do Paulo): todos os emails recebidos nos últimos 60 dias, só cabeçalhos
+// (remetente, assunto, data, estado) e o texto (até 6000 caracteres; aceite pelo Paulo a 21 nov.), mais o registo das
+// confirmações de subscrição. Serve para ver que câmaras e juntas mandam newsletters que não são reconhecidas como tal
+// (sem List-Unsubscribe) e que confirmações falharam. Vai para emails/caixa_resumo.json no ramo fonte (repo privado),
+// uma vez por dia, à parte das newsletters (estado cx_resumo_exportado).
+function nl_resumo_caixa(PDO $pdo): array {
+  nl_tabela($pdo);
+  $q = $pdo->prepare('SELECT uid, de_email, de_nome, assunto, data, estado, tipo, texto FROM emails WHERE data >= ? ORDER BY data');
+  $q->execute([date('Y-m-d', strtotime('-60 days'))]);
+  $emails = [];
+  foreach ($q->fetchAll(PDO::FETCH_ASSOC) as $e)
+    $emails[] = ['uid' => (int)$e['uid'], 'de_email' => $e['de_email'], 'de_nome' => $e['de_nome'], 'assunto' => $e['assunto'], 'data' => $e['data'],
+                 'estado' => $e['estado'], 'tipo' => $e['tipo'],
+                 'parece_envio_em_massa' => (bool)preg_match('/(unsubscri|anular (a )?(sua )?subscri|cancelar (a )?(sua )?subscri|deixar de receber|remover da lista|newsletter)/iu', mb_substr((string)$e['texto'], 0, 60000)),
+                 'texto' => mb_substr((string)$e['texto'], 0, 6000)];
+  $c = $pdo->prepare('SELECT de_email, assunto, url, http, em, resultado, nota FROM nl_confirmacoes WHERE em >= ? ORDER BY em');
+  $c->execute([date('Y-m-d', strtotime('-60 days'))]);
+  $conf = $c->fetchAll(PDO::FETCH_ASSOC);
+  $json = json_encode(['gerado_em' => date('Y-m-d H:i'), 'emails' => $emails, 'confirmacoes' => $conf], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT) . "\n";
+  return [$json, md5(json_encode([$emails, $conf]))];
+}
+
+function nl_resumo_exportar(PDO $pdo): void {
+  $hoje = date('Y-m-d');
+  if (cx_estado('cx_resumo_exportado') === $hoje || !function_exists('gh_ligado') || !gh_ligado()) return;
+  [$json, $h] = nl_resumo_caixa($pdo);
+  if ($h !== cx_estado('cx_resumo_hash')) {
+    gh_gravar(['emails/caixa_resumo.json' => $json], 'Resumo da caixa (' . $hoje . ')');
+    cx_estado('cx_resumo_hash', $h);
+  }
+  cx_estado('cx_resumo_exportado', $hoje);
+}
+
 // Uma vez por dia (a partir das 4h): grava recolha/newsletters.json na fonte, se mudou.
 function nl_exportar(PDO $pdo, bool $forcar = false): string {
   $hoje = date('Y-m-d');
+  try { nl_resumo_exportar($pdo); } catch (Throwable $e) {}
   if (!$forcar && (cx_estado('nl_exportado') === $hoje || (int)date('G') < 4)) return '';
   if (!function_exists('gh_ligado') || !gh_ligado()) return 'sem chave do GitHub';
   nl_coluna_ligacoes($pdo);

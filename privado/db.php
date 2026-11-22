@@ -69,9 +69,13 @@ function email_nao_enviar(string $para): bool {
 }
 
 // $eml: uma mensagem inteira (tal como veio da caixa) para seguir em anexo, como «mensagem-original.eml» (reencaminhar, 19 nov. 2026).
-function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeiras.pt', $html = '', $extra = '', $via = '', $eml = '') {
+// $cc: um endereço em cópia (21 nov. 2026: o vendedor vai em cópia no pedido à câmara). Ignorado se for inválido ou estiver no nao_enviar.csv.
+function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeiras.pt', $html = '', $extra = '', $via = '', $eml = '', $cc = '') {
   global $CFG;
   if (email_nao_enviar((string)$para)) return [false, 'pediu para não receber emails do asfeiras.pt (privado/nao_enviar.csv)'];
+  $cc = trim((string)$cc);
+  if ($cc !== '' && (!filter_var($cc, FILTER_VALIDATE_EMAIL) || email_nao_enviar($cc) || mb_strtolower($cc) === mb_strtolower((string)$para))) $cc = '';
+  if ($cc !== '') $extra = "Cc: <$cc>\r\n" . $extra;
   $de = (string)$CFG['email_remetente'];
   $as = mb_encode_mimeheader($assunto, 'UTF-8', 'B', "\r\n");
   $cab = "From: $nome <$de>\r\n" . ($responder ? "Reply-To: $responder\r\n" : '') . $extra . "MIME-Version: 1.0\r\n";
@@ -122,7 +126,7 @@ function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeira
       $cmd('EHLO ' . (explode('@', $de)[1] ?? 'asfeiras.pt'), 250);
     }
     $cmd('AUTH LOGIN', 334); $cmd(base64_encode($utilizador), 334); $cmd(base64_encode($pass), 235);
-    $cmd("MAIL FROM:<$de>", 250); $cmd("RCPT TO:<$para>", [250, 251]); $cmd('DATA', 354);
+    $cmd("MAIL FROM:<$de>", 250); $cmd("RCPT TO:<$para>", [250, 251]); if ($cc !== '') { try { $cmd("RCPT TO:<$cc>", [250, 251]); } catch (Throwable $e) {} } // uma cópia recusada não impede o envio $cmd('DATA', 354);
     $msg = 'Date: ' . date('r') . "\r\nMessage-ID: <" . bin2hex(random_bytes(12)) . "@" . (explode('@', $de)[1] ?? 'asfeiras.pt') . ">\r\nTo: <$para>\r\nSubject: $as\r\n$cab\r\n$corpo";
     $msg = str_replace(["\r\n", "\r"], "\n", $msg);
     $msg = preg_replace('/^\./m', '..', $msg);
