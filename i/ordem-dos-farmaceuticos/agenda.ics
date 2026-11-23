@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Ordem dos Farmaceuticos (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:xviii-jornadas-de-farmacia-hospitalar-a40d4-2027-02-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270226
+SUMMARY:XVIII Jornadas de Farmácia Hospitalar
+LOCATION:Ordem dos Farmaceuticos
+DESCRIPTION:https://www.ordemfarmaceuticos.pt/pt/eventos/xviii-jornadas-de-
+ farmacia-hospitalar-2/
+URL:https://lykeion.pt/e/xviii-jornadas-de-farmacia-hospitalar-a40d4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:congresso-nacional-dos-farmaceuticos-2027-f4d8d-2027-05-20@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270520
+SUMMARY:Congresso Nacional dos Farmacêuticos 2027
+LOCATION:Ordem dos Farmaceuticos
+DESCRIPTION:https://www.ordemfarmaceuticos.pt/pt/eventos/congresso-nacional
+ -dos-farmaceuticos-2027/
+URL:https://lykeion.pt/e/congresso-nacional-dos-farmaceuticos-2027-f4d8d.ht
+ ml
+END:VEVENT
+END:VCALENDAR

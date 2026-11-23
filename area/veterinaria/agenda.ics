@@ -6,45 +6,9 @@ X-WR-CALNAME:Veterinária e Animais (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:50-a-edicao-das-jornadas-medico-veterinarias-1162e-2026-11-22@lagenda.p
- t
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:50.ª edição das Jornadas Médico-Veterinárias
-LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
-DESCRIPTION:https://www.fmv.ulisboa.pt/pt/noticias/faculdade/50-edicao-das-
- jornadas-medico-veterinarias
-URL:https://lykeion.pt/e/50-a-edicao-das-jornadas-medico-veterinarias-1162e
- .html
-END:VEVENT
-BEGIN:VEVENT
-UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
- dos Investigadores
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
- r-dos-investigadores/
-URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
- lhar-dos-i-8501f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminar-66d6d-2026-11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261122T110000
-SUMMARY:Conversas com ciência in Serralves November
-LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
- rto
-DESCRIPTION:https://www.ciimar.up.pt/events/conversas-com-ciencia-in-serral
- ves-november-2/
-URL:https://lykeion.pt/e/seminar-66d6d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-investigar-para-curar-vem-descobrir-como-se-estu-d6c28-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Conferência: Investigar para Curar: vem descobrir como se estuda o
   cancro nos animais
@@ -56,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-investigacao-criminal-em-medicina-veterinaria-ca-d6c28-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Conferência: Investigação Criminal em Medicina Veterinária - ca
  sos reais
@@ -66,9 +30,22 @@ URL:https://lykeion.pt/e/conferencia-investigacao-criminal-em-medicina-vete
  rinaria-ca-d6c28.html
 END:VEVENT
 BEGIN:VEVENT
+UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
+ dos Investigadores
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
+ r-dos-investigadores/
+URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
+ lhar-dos-i-8501f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-castro-graca-meireles-con-6bf44-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Mestrado de Ana Carolina Castro Graça Meireles « Contor
  cem-se da mesma forma\, mulher e veado: A Representação do Animal em Mar
@@ -82,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-elaine-andrade-alves-pinto-caracteriza-98f44-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de Elaine Andrade Alves Pinto — Caracterizaç
  ão histológica da pele de animais selvagens
@@ -92,9 +69,23 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-elaine-andrade-alves-pinto-c
  aracteriza-98f44.html
 END:VEVENT
 BEGIN:VEVENT
+UID:salfix-alternative-long-term-solution-for-the-preservation-o-3db08-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:SALFIX - Alternative Long-Term Solution for the Preservation of Vet
+ erinary Anatomical Specimens: A Comparison Between Saturated Saline Soluti
+ on and FineFix®.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/salfix-alternative-long
+ -term-solution-preservation-veterinary-anatomical-specimens
+URL:https://lykeion.pt/e/salfix-alternative-long-term-solution-for-the-pres
+ ervation-o-3db08.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-nem-todos-os-bichos-tem-patas-uma-viagem-ao-mundo-i-d6c28-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Workshop: Nem Todos os Bichos Têm Patas! Uma viagem ao mundo invis
  ível da Medicina Veterinária
@@ -106,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-manuela-da-conceicao-oliveira-alves-av-d5566-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T143000
 SUMMARY:Provas de mestrado de Manuela da Conceição Oliveira Alves — Ava
  liação de bem-estar animal em bovinos de leite baseada no protocolo welf
@@ -119,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-filipe-da-silva-lima-ecografia-d-233fc-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T110000
 SUMMARY:Provas de mestrado de Tiago Filipe da Silva Lima — Ecografia do p
  âncreas em animais de companhia: discussão de cinco casos clínicos – 
@@ -132,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-quem-bive-no-bioterio-uma-viagem-pelo-mundo-dos-ani-27d68-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Workshop: Quem bive no biotério? Uma viagem pelo mundo dos animais
   de laboratório
@@ -144,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-visita-aos-laboratorios-cultura-de-celulas-an-c1bca-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Portas abertas: Visita aos laboratórios: cultura de células anima
  is\, genética e citogenética molecular\, microscopia
@@ -155,7 +146,7 @@ URL:https://lykeion.pt/e/portas-abertas-visita-aos-laboratorios-cultura-de-
 END:VEVENT
 BEGIN:VEVENT
 UID:5o-encontro-anual-al4animals-2026-37f9e-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:5o Encontro Anual AL4AnimalS 2026
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -165,7 +156,7 @@ URL:https://lykeion.pt/e/5o-encontro-anual-al4animals-2026-37f9e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-patologia-de-animais-silvestres-20e5f-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:Masterclass: Patologia de Animais Silvestres
 LOCATION:Instituto Politécnico de Portalegre\, Portalegre
@@ -177,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-ciencia-no-ovo-novos-caminhos-para-reduzir-o-uso-de-4db05-2026
  -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Workshop: Ciência no ovo - novos caminhos para reduzir o uso de an
  imais na investigação
@@ -189,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-daniela-catarina-de-azevedo-costa-aval-451c0-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T143000
 SUMMARY:Provas de mestrado de Daniela Catarina de Azevedo Costa — Avalia
  ção etológica e enriquecimento ambiental de animais em programas de con
@@ -201,7 +192,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-daniela-catarina-de-azevedo-
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-equivet-ai-9a953-2026-12-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T143000
 SUMMARY:Workshop EquiVet.AI
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -211,7 +202,7 @@ URL:https://lykeion.pt/e/workshop-equivet-ai-9a953.html
 END:VEVENT
 BEGIN:VEVENT
 UID:viii-jornadas-do-gtie-a6c40-2026-12-13@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261213
 SUMMARY:VIII Jornadas do GTIE
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -222,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-olhares-para-um-mundo-invisivel-em-busca-dos-microv-f6233-2027
  -01-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270103T100000
 SUMMARY:Workshop "Olhares para um mundo invisível: em busca dos microverte
  brados do...

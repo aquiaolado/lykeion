@@ -6,11 +6,36 @@ X-WR-CALNAME:Faculdade de Motricidade Humana (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:cafe-de-ciencia-cipers-science-cafe-ai-for-everyday-research-1d870-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Café de ciência: CIPER’s Science Café: AI for Everyday Researc
+ h and Human Functioning
+LOCATION:Faculdade de Motricidade Humana\, Oeiras
+DESCRIPTION:https://www.fmh.ulisboa.pt/
+URL:https://lykeion.pt/e/cafe-de-ciencia-cipers-science-cafe-ai-for-everyda
+ y-research-1d870.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-sofia-monteiro-flora-prova-de-dout-cdd61-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T140000
+SUMMARY:Provas de doutoramento de Sofia Monteiro Flora — Prova de Doutora
+ mento no ramo de Motricidade Humana na especialidade de Atividade Física 
+ e Saúde
+LOCATION:Faculdade de Motricidade Humana
+DESCRIPTION:https://www.fmh.ulisboa.pt/provas-academicas/doutoramentos
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-sofia-monteiro-flora-pro
+ va-de-dout-cdd61.html
+END:VEVENT
+BEGIN:VEVENT
 UID:10-a-conferencia-anual-da-redesaude-caadc-2026-12-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:10.ª Conferência Anual da redeSAÚDE
-LOCATION:Biblioteca Noronha Feio\, Oeiras
+LOCATION:Faculdade de Motricidade Humana
 DESCRIPTION:https://www.fmh.ulisboa.pt/eventos/item/3723-10-conferencia-anu
  al-da-redesaude
 URL:https://lykeion.pt/e/10-a-conferencia-anual-da-redesaude-caadc.html

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-helena-sofia-do-maio-pericao-blending-3be1e-2026-
  11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T140000
 SUMMARY:Provas de mestrado de Helena Sofia do Maio Pericão — Blending Dy
  namic Scale-Up Between Mini and Commercial-Scale Continuous Blenders
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-adriana-goncalves-casteleiro-preparati-508fd-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T150000
 SUMMARY:Provas de mestrado de Adriana Gonçalves Casteleiro — Preparation
   of an Agelastatin Prodrug for Targeted Therapy
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-goncalo-vicente-carvalho-role-of-micro-df976-2026
  -11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T100000
 SUMMARY:Provas de mestrado de Gonçalo Vicente Carvalho — Role of microRN
  As in Cholangiocarcinoma
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ricardo-martins-carvalho-synthesis-of-665d8-2026-
  11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T103000
 SUMMARY:Provas de mestrado de Ricardo Martins Carvalho — Synthesis of the
   Natural Product Psychollatine
@@ -59,9 +59,23 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ricardo-martins-carvalho-syn
  thesis-of-665d8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-matilde-gaspar-vaz-validacao-de-limpez-2204c-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T140000
+SUMMARY:Provas de mestrado de Matilde Gaspar Vaz — Validação de Limpeza
+ : Transição de Processos Manuais para Automáticos
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/validacao-de-limpeza-transicao-de-processos-manuais-para-automa
+ ticos/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-matilde-gaspar-vaz-validacao
+ -de-limpez-2204c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-matilde-lourenco-ferreira-gravidez-e-i-b8677-2026
  -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T103000
 SUMMARY:Provas de mestrado de Matilde Lourenço Ferreira — Gravidez e Inf
  eções Virais: Mecanismos de Lesão Fetal\, Diagnóstico e Prevenção
@@ -75,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-margarida-alexandra-reis-pereira-unloc-322d1-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T163000
 SUMMARY:Provas de mestrado de Margarida Alexandra Reis Pereira — Unlockin
  g the neuroprotective effect of Carboxyhemoglobin (COHb) in Parkinson’s 
@@ -91,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-jose-arcanjo-esteves-the-role-of-3b780-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T100000
 SUMMARY:Provas de mestrado de Pedro José Arcanjo Esteves — The Role of A
  dult Neurogenesis in the Antidepressant Effects of Physical Exercise and C
@@ -104,9 +118,39 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-pedro-jose-arcanjo-esteves-t
  he-role-of-3b780.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-catarina-sofia-da-silva-solipa-cosmeto-7375e-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T113000
+SUMMARY:Provas de mestrado de Catarina Sofia da Silva Solipa — Cosmetolog
+ ia ao longo da vida: necessidades de hidratação e produtos adequados par
+ a cada idade
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/cosmetologia-ao-longo-da-vida-necessidades-de-hidratacao-e-prod
+ utos-adequados-para-cada-idade/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-catarina-sofia-da-silva-soli
+ pa-cosmeto-7375e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-henrique-alexandre-seixas-cavaco-lims-63f98-2026-
+ 12-10@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T140000
+SUMMARY:Provas de mestrado de Henrique Alexandre Seixas Cavaco — LIMS Imp
+ lementation as a Tool for GxP Compliance and Data Integrity: A Case Study 
+ on System Validation and Data Management
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/lims-implementation-as-a-tool-for-gxp-compliance-and-data-integ
+ rity-a-case-study-on-system-validation-and-data-management/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-henrique-alexandre-seixas-ca
+ vaco-lims-63f98.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-leonor-carvalho-teixeira-characterizat-18d0d-2026
  -12-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T143000
 SUMMARY:Provas de mestrado de Leonor Carvalho Teixeira — Characterization
   of the Tumor Microenvironment Using Multiplex Imaging and Development of 
@@ -118,5 +162,121 @@ DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
  breast-cancer/
 URL:https://lykeion.pt/e/provas-de-mestrado-de-leonor-carvalho-teixeira-cha
  racterizat-18d0d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-sarah-giampiccolo-nefropatias-sindrome-a9333-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T160000
+SUMMARY:Provas de mestrado de Sarah Giampiccolo — Nefropatias: Síndrome 
+ Nefrótica e Síndrome Nefrítica – do Diagnóstico ao Tratamento
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/nefropatias-sindrome-nefrotica-e-sindrome-nefritica-do-diagnost
+ ico-ao-tratamento/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-sarah-giampiccolo-nefropatia
+ s-sindrome-a9333.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-lara-figueiredo-penso-towards-deeper-u-0e507-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T160000
+SUMMARY:Provas de mestrado de Lara Figueiredo Penso — Towards deeper unde
+ rstanding of secondary drying main factors: adsorption and diffusivity of 
+ solvents in Amorphous Spray-Dried Dispersions
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/towards-deeper-understanding-of-secondary-drying-main-factors-a
+ dsorption-and-diffusivity-of-solvents-in-amorphous-spray-dried-dispersions
+ /
+URL:https://lykeion.pt/e/provas-de-mestrado-de-lara-figueiredo-penso-toward
+ s-deeper-u-0e507.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-mariana-almeida-goncalves-spartium-jun-14ea4-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T113000
+SUMMARY:Provas de mestrado de Mariana Almeida Gonçalves — Spartium junce
+ um Pods as Sustainable Cosmetic Ingredient
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/spartium-junceum-pods-as-sustainable-cosmetic-ingredient/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-almeida-goncalves-sp
+ artium-jun-14ea4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-mariana-sofia-da-silva-pita-developmen-e011e-2026
+ -12-14@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261214T140000
+SUMMARY:Provas de mestrado de Mariana Sofia da Silva Pita — Development o
+ f a Cosmetic Product for Sensitive Skin With a Branding Strategy Focused o
+ n Cosmetic Literacy
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/development-of-a-cosmetic-product-for-sensitive-skin-with-a-bra
+ nding-strategy-focused-on-cosmetic-literacy/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-sofia-da-silva-pita-
+ developmen-e011e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-teresa-elidia-diaz-gomes-smart-cosmeto-1c172-2026
+ -12-14@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261214T113000
+SUMMARY:Provas de mestrado de Teresa Elidia Diaz Gomes — Smart Cosmetolog
+ y and Personalized Skincare: The Role of Artificial Intelligence\, Aplicat
+ ion and Aesthetic Devices
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/smart-cosmetology-and-personalized-skincare-the-role-of-artific
+ ial-intelligence-aplication-and-aesthetic-devices/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-teresa-elidia-diaz-gomes-sma
+ rt-cosmeto-1c172.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-lucila-chrystine-linardi-grant-lima-av-372fa-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261215T140000
+SUMMARY:Provas de mestrado de Lucila Chrystine Linardi Grant Lima — Avali
+ ação da eficácia de um Cosmético personalizado para hidratação e rep
+ aração da pele das mãos
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/avaliacao-da-eficacia-de-um-cosmetico-personalizado-para-hidrat
+ acao-e-reparacao-da-pele-das-maos/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-lucila-chrystine-linardi-gra
+ nt-lima-av-372fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rita-matos-leal-reverse-engineering-in-a1de3-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T100000
+SUMMARY:Provas de mestrado de Rita Matos Leal — Reverse Engineering in To
+ pical Medicines
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/reverse-engineering-in-topical-medicines/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rita-matos-leal-reverse-engi
+ neering-in-a1de3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-eloisa-costa-wagner-neto-analise-funci-0c4cf-2026
+ -12-18@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T100000
+SUMMARY:Provas de mestrado de Eloisa Costa Wagner Neto — Análise funcion
+ al e bioinformática da endolisina ASB1.4 enquanto enzima fágica de inter
+ esse para Helicobacter pylori
+LOCATION:Faculdade de Farmácia da Universidade de Lisboa
+DESCRIPTION:https://www.ff.ulisboa.pt/ensino/ensino-estudar-na-fful/provas-
+ academicas/analise-funcional-e-bioinformatica-da-endolisina-asb1-4-enquant
+ o-enzima-fagica-de-interesse-para-helicobacter-pylori/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-eloisa-costa-wagner-neto-ana
+ lise-funci-0c4cf.html
 END:VEVENT
 END:VCALENDAR

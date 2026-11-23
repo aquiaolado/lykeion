@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:praxis-seminar-series-2026-2027-session-10-luhuna-carvalho-dc4c2-2026-1
  1-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T160000
 SUMMARY:Praxis Seminar Series 2026-2027: Session 10 [Luhuna Carvalho
 LOCATION:Centro de Filosofia
@@ -18,19 +18,39 @@ URL:https://lykeion.pt/e/praxis-seminar-series-2026-2027-session-10-luhuna-
  carvalho-dc4c2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:essence-beyond-essence-d53bb-2026-12-09@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261209T160000
-SUMMARY:Essence beyond Essence
-LOCATION:Centro de Filosofia\, Ajuda
-DESCRIPTION:https://cful.letras.ulisboa.pt/events/essence-beyond-essence-mi
- chael-marder-praxis-na-rua-at-jardim-botanico-da-ajuda/
-URL:https://lykeion.pt/e/essence-beyond-essence-d53bb.html
+UID:hphil-seminar-november-26-2026-6ffaa-2026-11-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:HPhil Seminar: November 26\, 2026
+LOCATION:Centro de Filosofia
+DESCRIPTION:https://cful.letras.ulisboa.pt/events/hphil-seminar-november-26
+ -2026/
+URL:https://lykeion.pt/e/hphil-seminar-november-26-2026-6ffaa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hphil-seminar-december-3-2026-d1704-2026-12-03@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:HPhil Seminar: December 3\, 2026
+LOCATION:Centro de Filosofia
+DESCRIPTION:https://cful.letras.ulisboa.pt/events/hphil-seminar-december-3-
+ 2026/
+URL:https://lykeion.pt/e/hphil-seminar-december-3-2026-d1704.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hphil-seminar-december-10-2026-a4695-2026-12-10@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:HPhil Seminar: December 10\, 2026
+LOCATION:Centro de Filosofia
+DESCRIPTION:https://cful.letras.ulisboa.pt/events/hphil-seminar-december-10
+ -2026/
+URL:https://lykeion.pt/e/hphil-seminar-december-10-2026-a4695.html
 END:VEVENT
 BEGIN:VEVENT
 UID:praxis-seminar-series-2026-2027-session-11-irene-borges-duar-0dd7e-2026
  -12-15@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261215T160000
 SUMMARY:Praxis Seminar Series 2026-2027: Session 11 [Irene Borges Duarte
 LOCATION:Centro de Filosofia
@@ -38,41 +58,5 @@ DESCRIPTION:https://cful.letras.ulisboa.pt/events/praxis-seminar-2026-27-s1
  1/
 URL:https://lykeion.pt/e/praxis-seminar-series-2026-2027-session-11-irene-b
  orges-duar-0dd7e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminar-series-in-analytic-philosophy-2025-26-session-28-0561d-2026-12-
- 16@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261216
-SUMMARY:Seminar Series in Analytic Philosophy 2025-26: Session 28
-LOCATION:Centro de Filosofia
-DESCRIPTION:https://cful.letras.ulisboa.pt/seminar-series-in-analytic-philo
- sophy-2025-26-session-28/
-URL:https://lykeion.pt/e/seminar-series-in-analytic-philosophy-2025-26-sess
- ion-28-0561d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminar-series-in-analytic-philosophy-2025-26-session-28-0561d-2027-02-
- 17@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270217
-SUMMARY:Seminar Series in Analytic Philosophy 2025-26: Session 28
-LOCATION:Centro de Filosofia
-DESCRIPTION:https://cful.letras.ulisboa.pt/seminar-series-in-analytic-philo
- sophy-2025-26-session-28/
-URL:https://lykeion.pt/e/seminar-series-in-analytic-philosophy-2025-26-sess
- ion-28-0561d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminar-series-in-analytic-philosophy-2025-26-session-28-0561d-2027-03-
- 03@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270303
-SUMMARY:Seminar Series in Analytic Philosophy 2025-26: Session 28
-LOCATION:Centro de Filosofia
-DESCRIPTION:https://cful.letras.ulisboa.pt/seminar-series-in-analytic-philo
- sophy-2025-26-session-28/
-URL:https://lykeion.pt/e/seminar-series-in-analytic-philosophy-2025-26-sess
- ion-28-0561d.html
 END:VEVENT
 END:VCALENDAR

@@ -6,49 +6,9 @@ X-WR-CALNAME:Universidade de Coimbra (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:20-11-2026-31-12-2026-exposicao-90-anos-90-historias-90-voze-861f5-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261122T173000
-SUMMARY:Exposição 90 Anos\, 90 Histórias\, 90 Vozes\, Milhares de Memór
- ias
-LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
- oimbra
-DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-90-anos-90-histo
- rias-90-vozes-milhares-de-memorias/
-URL:https://lykeion.pt/e/20-11-2026-31-12-2026-exposicao-90-anos-90-histori
- as-90-voze-861f5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:17-10-2026-18-12-2026-exposicao-belem-lima-novissimo-24f29-2026-11-22@l
- agenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261122T160000
-SUMMARY:Exposição Belém Lima Novíssimo
-LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
- oimbra
-DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-belem-lima-novis
- simo/
-URL:https://lykeion.pt/e/17-10-2026-18-12-2026-exposicao-belem-lima-novissi
- mo-24f29.html
-END:VEVENT
-BEGIN:VEVENT
-UID:22-10-2026-22-12-2026-exposicao-itinerante-landscape-togethe-275dc-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261122T170000
-SUMMARY:Exposição itinerante Landscape Together
-LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
- oimbra
-DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-itinerante-lands
- cape-together-centro-interior-villages-to-get-territorial-communities-1/
-URL:https://lykeion.pt/e/22-10-2026-22-12-2026-exposicao-itinerante-landsca
- pe-togethe-275dc.html
-END:VEVENT
-BEGIN:VEVENT
 UID:antecipar-a-experiencia-de-ser-adulto-ha-mais-tempo-jogo-de-fd1c4-2026-
  11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T150000
 SUMMARY:Antecipar a experiência de ser Adulto há mais tempo | Jogo de tab
  uleiro
@@ -60,7 +20,7 @@ URL:https://lykeion.pt/e/antecipar-a-experiencia-de-ser-adulto-ha-mais-temp
 END:VEVENT
 BEGIN:VEVENT
 UID:como-fazer-monstros-com-as-palavras-025fa-2026-11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Como Fazer Monstros com as Palavras?
 LOCATION:Teatro Académico de Gil Vicente\, Coimbra
@@ -69,10 +29,63 @@ DESCRIPTION:https://tagv.pt/agenda/como-fazer-monstros-com-as-palavras-de-l
 URL:https://lykeion.pt/e/como-fazer-monstros-com-as-palavras-025fa.html
 END:VEVENT
 BEGIN:VEVENT
+UID:11-11-2026-30-11-2026-conferencias-estudos-europeus-1-o-sem-8348d-2026-
+ 11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Conferências Estudos Europeus 1.º sem. 2026/27 Ciclo 11 novembro 
+ Faculdade de Letras (vários espaços)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/ciclo-de-conferencias-estudo
+ s-europeus/
+URL:https://lykeion.pt/e/11-11-2026-30-11-2026-conferencias-estudos-europeu
+ s-1-o-sem-8348d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20-11-2026-31-12-2026-exposicao-90-anos-90-historias-90-voze-861f5-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T173000
+SUMMARY:Exposição 90 Anos\, 90 Histórias\, 90 Vozes\, Milhares de Memór
+ ias
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-90-anos-90-histo
+ rias-90-vozes-milhares-de-memorias/
+URL:https://lykeion.pt/e/20-11-2026-31-12-2026-exposicao-90-anos-90-histori
+ as-90-voze-861f5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:17-10-2026-18-12-2026-exposicao-belem-lima-novissimo-24f29-2026-11-23@l
+ agenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T160000
+SUMMARY:Exposição Belém Lima Novíssimo
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-belem-lima-novis
+ simo/
+URL:https://lykeion.pt/e/17-10-2026-18-12-2026-exposicao-belem-lima-novissi
+ mo-24f29.html
+END:VEVENT
+BEGIN:VEVENT
+UID:22-10-2026-22-12-2026-exposicao-itinerante-landscape-togethe-275dc-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T170000
+SUMMARY:Exposição itinerante Landscape Together
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-itinerante-lands
+ cape-together-centro-interior-villages-to-get-territorial-communities-1/
+URL:https://lykeion.pt/e/22-10-2026-22-12-2026-exposicao-itinerante-landsca
+ pe-togethe-275dc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:23-11-26-provas-de-agregacao-de-joao-carlos-gomes-ribeiro-8d135-2026-11
  -23@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T103000
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de Agregação de João Carlos Gomes Ribeiro
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/fmuc/agenda-fmuc/provas-de-agregacao-de-joao-
@@ -83,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-antonio-pedro-nunes-caeiro-licao-semi-e3c81-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de agregação de António Pedro Nunes Caeiro — Lição/Se
  minário
@@ -96,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-antonio-pedro-nunes-caeiro-provas-de-d6008-2026-
  11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de agregação de António Pedro Nunes Caeiro — Provas de 
  Agregação em Ciências Jurídico-Criminais
@@ -108,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-joao-carlos-gomes-silva-ribeiro-cienc-f7a0e-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de agregação de João Carlos Gomes Silva Ribeiro — Ciên
  cias da Saúde\, ramo de Medicina (FMUC)
@@ -121,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruna-sofia-ferreira-coelho-cortes-132e3-2026-11-
  23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Bruna Sofia Ferreira Coelho Cortês
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -133,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-catarina-isabel-paulino-curado-fd4d9-2026-11-23@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Catarina Isabel Paulino Curado
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -145,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-rita-lopes-pereira-c9c76-2026-11-23@lagenda
  .pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Joana Rita Lopes Pereira
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -157,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-da-conceicao-marques-garcia-89d76-2026-11-2
  3@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Maria da Conceição Marques Garcia
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -169,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-margarida-ferreiro-nunes-74125-2026-11-23
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Mariana Margarida Ferreiro Nunes
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -181,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariline-de-oliveira-peres-a4817-2026-11-23@lagen
  da.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Mariline de Oliveira Peres
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -193,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-campos-silva-granja-bento-ebadc-2026-11-23@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Rita Campos Silva Granja Bento
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -205,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-vanessa-rafaela-ferreira-novo-0ae2d-2026-11-23@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Vanessa Rafaela Ferreira Novo
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -215,20 +228,21 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-vanessa-rafaela-ferreira-nov
  o-0ae2d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:24-11-26-aula-aberta-daac8-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Aula aberta a inovação vem a sala conversas abertas sobre inovaç
- ão em diferentes contextos Carla Duarte
-LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-a-inovacao-vem-a-sal
- a-conversas-abertas-sobre-inovacao-em-diferentes-contextos-carla-duarte/
-URL:https://lykeion.pt/e/24-11-26-aula-aberta-daac8.html
+UID:12-11-2026-27-11-2026-seminario-regionalism-in-the-age-of-po-afe7d-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Seminário “Regionalism in the Age of Polycrisis
+LOCATION:Centro de Estudos Interdisciplinares do Século XX\, Coimbra
+DESCRIPTION:https://www.uc.pt/ceis20/seminarios/seminario-regionalism-in-th
+ e-age-of-polycrisis-latin-american-dynamics-afinidades-disciplinares/
+URL:https://lykeion.pt/e/12-11-2026-27-11-2026-seminario-regionalism-in-the
+ -age-of-po-afe7d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:debate-mulheres-rurais-e-agroecologia-barreiras-invisibilida-be31f-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Debate: Mulheres rurais e agroecologia: barreiras\, invisibilidades
   e alternativas
@@ -240,7 +254,7 @@ URL:https://lykeion.pt/e/debate-mulheres-rurais-e-agroecologia-barreiras-in
 END:VEVENT
 BEGIN:VEVENT
 UID:debate-o-futuro-da-investigacao-em-fisica-54908-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Debate: O futuro da investigação em física
 LOCATION:Universidade de Coimbra\, Coimbra
@@ -250,7 +264,7 @@ URL:https://lykeion.pt/e/debate-o-futuro-da-investigacao-em-fisica-54908.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-ciencia-no-departamento-de-fisica-54908-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Exposição: Ciência no Departamento de Física
 LOCATION:Universidade de Coimbra\, Coimbra
@@ -261,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-antonio-pedro-nunes-caeiro-licao-semi-f5b5a-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de agregação de António Pedro Nunes Caeiro — Lição/Se
  minário
@@ -274,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-talita-colombi-rezende-desenvolvim-5f1db-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de doutoramento de Talita Colombi Rezende — Desenvolviment
  o de materiais de alto desempenho baseados em PVC utilizando polimerizaç
@@ -288,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-cruz-barros-de-almeida-597b8-2026-11-24@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Ana Rita Cruz Barros de Almeida
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -299,7 +313,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-rita-cruz-barros-de-alme
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-julia-rosell-vinuales-907f9-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Júlia Rosell Viñuales
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -311,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-beatriz-gaspar-pires-8ae73-2026-11-24@lagen
  da.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Maria Beatriz Gaspar Pires
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -323,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-correia-goncalves-d4586-2026-11-24@lagend
  a.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Mariana Correia Gonçalves
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -335,7 +349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-patricia-cardoso-luis-nunes-d6480-2026-11-24@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Patrícia Cardoso Luís Nunes
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -347,7 +361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-soraia-isabel-matos-rosa-d3cac-2026-11-24@lagenda
  .pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Soraia Isabel Matos Rosa
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -359,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sonia-gouveia-goncalves-fernandes-08261-2026-11-2
  4@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Sónia Gouveia Gonçalves Fernandes
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -371,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-a-descoberta-das-hortas-e-da-hidroponia-fd1c4-2026-11-24@lagen
  da.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Workshop: À descoberta das hortas e da hidroponia
 LOCATION:Universidade de Coimbra\, Coimbra
@@ -383,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:x-congresso-de-historia-local-conceitos-praticas-e-desafios-1f396-2026-
  11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:X Congresso de História Local: Conceitos\, Práticas e Desafios
 LOCATION:Centro de Ecologia Funcional (CFE)\, Coimbra
@@ -392,9 +406,44 @@ URL:https://lykeion.pt/e/x-congresso-de-historia-local-conceitos-praticas-e
  -desafios-1f396.html
 END:VEVENT
 BEGIN:VEVENT
+UID:24-11-2026-aula-aberta-o-que-traduzir-numa-cena-iliadica-f7207-2026-11-
+ 24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T130000
+SUMMARY:[Aula Aberta] O que traduzir numa cena iliádica?
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-traduzir-iliada/
+URL:https://lykeion.pt/e/24-11-2026-aula-aberta-o-que-traduzir-numa-cena-il
+ iadica-f7207.html
+END:VEVENT
+BEGIN:VEVENT
+UID:24-11-2026-aula-aberta-traduzir-homero-para-lingua-portugues-ecb1a-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T180000
+SUMMARY:[Aula Aberta] Traduzir Homero para língua portuguesa\, em Portugal
+  e no Brasil
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/aula-aberta-traduzir-homero/
+URL:https://lykeion.pt/e/24-11-2026-aula-aberta-traduzir-homero-para-lingua
+ -portugues-ecb1a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:24-11-2026-conferencia-aberta-experiencia-social-e-inteligen-09f93-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T130000
+SUMMARY:[Conferência aberta] Experiência social e inteligência artificia
+ l a partir de Hegel e Marx
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/conf-hegel-maxr/
+URL:https://lykeion.pt/e/24-11-2026-conferencia-aberta-experiencia-social-e
+ -inteligen-09f93.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-vet-talks-dar-voz-a-bicharada-o-robalo-tambem-va-fd1c4-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T150000
 SUMMARY:Conferência: Vet Talks - Dar voz à bicharada | O Robalo também v
  ai ao médico?
@@ -407,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-joao-manuel-garcia-do-nascimento-grav-4a7c4-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de agregação de João Manuel Garcia do Nascimento Graveto 
  — Enfermagem
@@ -420,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-luiz-cesar-de-oliveira-transferenc-56d2e-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de doutoramento de Luiz Cesar de Oliveira — Transferência
   de Conhecimento e Tecnologia nos Parques Tecnológicos no Brasil\, Portug
@@ -434,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-andreia-margarida-lucas-dias-3830f-2026-11-25@lag
  enda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de mestrado de Andreia Margarida Lucas Dias
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -444,9 +493,21 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-andreia-margarida-lucas-dias
  -3830f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-filipa-raquel-fernandes-troca-3aee3-2026-11-25@la
+ genda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de Filipa Raquel Fernandes Troca
+LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/eseuc/estudantes/provas-academicas-e-titulos-
+ de-especialista/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-filipa-raquel-fernandes-troc
+ a-3aee3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-vanessa-sofia-carapeta-medina-d018a-2026-11-25@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de mestrado de Vanessa Sofia Carapeta Medina
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -457,7 +518,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-vanessa-sofia-carapeta-medin
 END:VEVENT
 BEGIN:VEVENT
 UID:ora-bolas-show-de-ciencia-fd1c4-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T150000
 SUMMARY:Ora Bolas - Show de Ciência
 LOCATION:Universidade de Coimbra\, Coimbra
@@ -467,7 +528,7 @@ URL:https://lykeion.pt/e/ora-bolas-show-de-ciencia-fd1c4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gea-26-11-26-prova-de-doutoramento-67e0c-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Prova de doutoramento Pedro Nuno Beirão Cardoso quadrado Gil
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
@@ -478,7 +539,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-pedro-nuno-beirao-cardoso-quadrado-f6199-2026
  -11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de doutoramento de Pedro Nuno Beirão Cardoso Quadrado Gil 
  — Progressão em Queratocone: um modelo integrado de análise de progres
@@ -492,7 +553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-regina-carvalho-fernandes-cb31b-2026-11-26@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Ana Regina Carvalho Fernandes
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -504,7 +565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-carvalho-dias-8c8c9-2026-11-26@lagenda.p
  t
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Ana Rita Carvalho Dias
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -516,7 +577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jacira-patricia-dos-santos-ribeiro-c956b-2026-11-
  26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Jacira Patrícia dos Santos Ribeiro
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -526,9 +587,21 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-jacira-patricia-dos-santos-r
  ibeiro-c956b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-lenia-de-jesus-afonso-nunes-ca71d-2026-11-26@lage
+ nda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Provas de mestrado de Lénia de Jesus Afonso Nunes
+LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/eseuc/estudantes/provas-academicas-e-titulos-
+ de-especialista/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-lenia-de-jesus-afonso-nunes-
+ ca71d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-magda-pacheco-magalhaes-daf43-2026-11-26@lagenda.
  pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Magda Pacheco Magalhães
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -540,7 +613,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-liliana-duarte-pires-475de-2026-11-26@lagen
  da.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Maria Liliana Duarte Pires
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -552,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-marina-rodriguez-munoz-65620-2026-11-26@lagenda.p
  t
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Marina Rodriguez Muñoz
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -564,7 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:soil-microbe-interactions-in-legume-based-intercropping-and-9b96a-2026-
  11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Soil microbe interactions in legume-based intercropping and its imp
  lications for soil fertility
@@ -577,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-autismo-psicologos-autistas-e-psicologia-0a47b-2026-11-26@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T140000
 SUMMARY:Workshop: Autismo\, psicólogos autistas e psicologia
 LOCATION:Centro de Estudos Sociais\, Coimbra
@@ -589,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-ecologias-e-economias-feministas-solidarias-dab4d-2026-11-26@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T170000
 SUMMARY:Workshop: Ecologias e economias feministas solidárias
 LOCATION:Centro de Estudos Sociais\, Coimbra
@@ -601,7 +674,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-power-conflict-and-diplomacy-in-cyberspace-c9481-2026-11-27
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T141500
 SUMMARY:Conferência: Power\, conflict and diplomacy in cyberspace
 LOCATION:Centro de Estudos Sociais\, Coimbra
@@ -613,7 +686,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:evolucao-de-espaco-e-territorio-retrospectivas-conceituais-e-b2c04-2026
  -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Evolução de espaço e território: retrospectivas conceituais e c
  ontribuições da Geografia às ciências sociais
@@ -624,23 +697,9 @@ URL:https://lykeion.pt/e/evolucao-de-espaco-e-territorio-retrospectivas-con
  ceituais-e-b2c04.html
 END:VEVENT
 BEGIN:VEVENT
-UID:27-11-26-from-the-margins-to-management-rethinking-organizat-bc252-2026
- -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T140000
-SUMMARY:From the Margins to Management: Rethinking Organizations and Market
- s through Care\, Disability and Migration
-LOCATION:Centro de Investigação em Economia e Gestão\, Coimbra
-DESCRIPTION:https://www.uc.pt/uid/ceber/eventos/from-the-margins-to-managem
- ent-rethinking-organizations-and-markets-through-care-disability-and-migra
- tion/
-URL:https://lykeion.pt/e/27-11-26-from-the-margins-to-management-rethinking
- -organizat-bc252.html
-END:VEVENT
-BEGIN:VEVENT
 UID:icnas-27-11-2026-5th-annual-meeting-of-cibit-6e3e2-2026-11-27@lagenda.p
  t
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:ICNAS 27.11.2026 5th Annual Meeting of CIBIT
 LOCATION:Centro de Imagem Biomédica e Investigação Translacional\, Coimb
@@ -650,8 +709,19 @@ URL:https://lykeion.pt/e/icnas-27-11-2026-5th-annual-meeting-of-cibit-6e3e2
  .html
 END:VEVENT
 BEGIN:VEVENT
+UID:27-11-26-narrativas-que-nos-habitam-congresso-27-novembro-st-46470-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Narrativas que nos habitam Congresso 27 novembro Student Hub UC
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/narrativas-que-nos-habitam/
+URL:https://lykeion.pt/e/27-11-26-narrativas-que-nos-habitam-congresso-27-n
+ ovembro-st-46470.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-alba-quintana-ruiz-78aa4-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Alba Quintana Ruiz
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -663,7 +733,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-raquel-neves-pinao-bfe0d-2026-11-27@lagenda.p
  t
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Ana Raquel Neves Pinão
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -675,7 +745,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-filipa-morouco-henriques-acdd3-2026-11-27@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Inês Filipa Morouço Henriques
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -687,7 +757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-otilia-de-jesus-almeida-ramos-c77a6-2026-11-27@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Otília de Jesus Almeida Ramos
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -699,7 +769,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sara-isabel-da-cruz-figueira-3a74a-2026-11-27@lag
  enda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Sara Isabel da Cruz Figueira
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -711,7 +781,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-alexandre-ramos-simoes-1da05-2026-11-27@lag
  enda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Tiago Alexandre Ramos Simões
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -721,35 +791,9 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-tiago-alexandre-ramos-simoes
  -1da05.html
 END:VEVENT
 BEGIN:VEVENT
-UID:27-11-26-research-seminar-8d0de-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T140000
-SUMMARY:Research seminar from the margins to management rethinking organiza
- tions and markets from the perspective of care disability
-LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/feuc/eventos/research-seminar-from-the-margin
- s-to-management-rethinking-organizations-and-markets-from-the-perspective-
- of-care-disability/
-URL:https://lykeion.pt/e/27-11-26-research-seminar-8d0de.html
-END:VEVENT
-BEGIN:VEVENT
-UID:27-11-26-seminario-new-trends-in-international-politics-and-bef19-2026-
- 11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261127
-SUMMARY:Seminário New Trends in International Politics and Conflict Resolu
- tion
-LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/feuc/eventos/seminario-new-trends-in-internat
- ional-politics-and-conflict-resolution-power-conflict-and-diplomacy-in-cyb
- erspace-andre-barrinha/
-URL:https://lykeion.pt/e/27-11-26-seminario-new-trends-in-international-pol
- itics-and-bef19.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-a-contracao-das-historias-da-agua-e-a-producao-da-97685-2026-
  11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T110000
 SUMMARY:Seminário: A contração das histórias da água e a produção da
   escassez no Sul de Portugal
@@ -760,8 +804,31 @@ URL:https://lykeion.pt/e/seminario-a-contracao-das-historias-da-agua-e-a-pr
  oducao-da-97685.html
 END:VEVENT
 BEGIN:VEVENT
+UID:27-11-2026-jornada-narrativas-que-nos-habitam-mito-e-filosof-d822c-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T100000
+SUMMARY:[Jornada] Narrativas que nos habitam: mito e filosofia
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/jorn-narrativas/
+URL:https://lykeion.pt/e/27-11-2026-jornada-narrativas-que-nos-habitam-mito
+ -e-filosof-d822c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:30-11-2026-jornada-internacional-de-estudos-fenomenologicos-018c0-2026-
+ 11-30@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T160000
+SUMMARY:Jornada Internacional de Estudos Fenomenológicos: Fenomenologia e 
+ Política
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/jorn-fenomenologia/
+URL:https://lykeion.pt/e/30-11-2026-jornada-internacional-de-estudos-fenome
+ nologicos-018c0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Prova de doutoramento Maria de Vasconcelos Cardoso
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
@@ -772,7 +839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-arthur-fernando-veronez-de-sousa-a-45a8c-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de doutoramento de Arthur Fernando Veronez de Sousa — Aval
  iação multidisciplinar das dimensões ecológicas e humanas na sustentab
@@ -786,7 +853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-eduardo-martinez-rodrigues-ortega-b14b9-2026-
  11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de doutoramento de Eduardo Martinez Rodrigues Ortega — Ges
  tão Verde de Recursos Humanos em Empresas Certificadas e Não Certificada
@@ -800,7 +867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-de-vasconcelos-cardoso-progr-5bfc0-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de doutoramento de Maria de Vasconcelos Cardoso — Programa
   de Doutoramento em Ciências da Saúde\, Ciências Biomédicas (FMUC)
@@ -813,7 +880,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-pegah-aghabozorgi-dimensionamento-176fc-2026-
  11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de doutoramento de Pegah Aghabozorgi — Dimensionamento ava
  nçado ao fogo baseado no desempenho de pavilhões em estrutura de aço
@@ -824,8 +891,20 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-pegah-aghabozorgi-dimens
  ionamento-176fc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-joao-francisco-coelho-ferreira-e0c4d-2026-11-30@l
+ agenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Provas de mestrado de João Francisco Coelho Ferreira
+LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/eseuc/estudantes/provas-academicas-e-titulos-
+ de-especialista/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-francisco-coelho-ferrei
+ ra-e0c4d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-paula-galles-sanchez-ea00e-2026-11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de mestrado de Paula Gallés Sánchez
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -837,7 +916,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-miguel-craveiro-leal-da-silva-ne-00ad5-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de mestrado de Tiago Miguel Craveiro Leal da Silva Neves
 LOCATION:Escola Superior de Enfermagem de Coimbra\, Coimbra
@@ -849,7 +928,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arranque-do-projeto-safebot-uma-iniciativa-europeia-para-o-b-23b03-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T210000
 SUMMARY:Arranque do Projeto SAFEBOT: uma iniciativa europeia para o bem-est
  ar socioemocional nas escolas
@@ -860,9 +939,20 @@ URL:https://lykeion.pt/e/arranque-do-projeto-safebot-uma-iniciativa-europei
  a-para-o-b-23b03.html
 END:VEVENT
 BEGIN:VEVENT
+UID:orphika-2026-a-night-at-the-movies-christmas-edition-8dea0-2026-12-02@l
+ agenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T213000
+SUMMARY:Orphika 2026 - A Night at the Movies: Christmas Edition
+LOCATION:Brain Imaging Network\, Coimbra
+DESCRIPTION:https://noticias.uc.pt/artigos/orphika-2026-fado-iluminado-1/
+URL:https://lykeion.pt/e/orphika-2026-a-night-at-the-movies-christmas-editi
+ on-8dea0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-alexandre-filipe-matias-correia-op-d4304-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de doutoramento de Alexandre Filipe Matias Correia — Optim
  ização e Gestão de Microrredes para Fornecimento de Potência em Situa
@@ -876,7 +966,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ana-catarina-martins-miguens-amaro-c86b9-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de doutoramento de Ana Catarina Martins Miguens Amaro — An
  álise do Comportamento Visual\, Cinética e Cinemática no Lançamento de
@@ -890,7 +980,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-anny-barcelos-mazioli-a-melancolia-2af8c-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de doutoramento de Anny Barcelos Mazioli — A melancolia fe
  minina setecentista: Dona Maria I e o limiar entre as emoções e a doenç
@@ -904,7 +994,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-helena-filipa-bigares-grangeia-qua-56b2b-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de doutoramento de Helena Filipa Bigares Grangeia — Qualit
  y by Design na Indústria Farmacêutica 4.0
@@ -917,7 +1007,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-pedro-miguel-cruz-matias-polimeros-9a085-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de doutoramento de Pedro Miguel Cruz Matias — Polímeros o
  rgânicos porosos para a remediação de poluentes emergentes
@@ -930,7 +1020,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-aylton-bonomo-junior-doutoramento-5ba38-2026-
  12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Provas de doutoramento de Aylton Bonomo Junior — Doutoramento em 
  Ciências Jurídico-Processuais
@@ -942,7 +1032,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-aylton-bonomo-junior-o-juiz-como-d-fc61d-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Provas de doutoramento de Aylton Bonomo Junior — O Juiz como Dest
  inatário da Boa-Fé Processual Objetiva no Direito Português
@@ -955,7 +1045,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-bruno-miguel-simao-rolo-rosmaninho-fde68-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Provas de doutoramento de Bruno Miguel Simão Rolo Rosmaninho — C
  omunicações por Luz Visível para Aplicações 6G
@@ -968,7 +1058,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a-investigacao-em-ciencias-sociais-na-era-da-inteligencia-ar-30cf5-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T093000
 SUMMARY:A investigação em Ciências Sociais na era da Inteligência Artif
  icial
@@ -979,23 +1069,47 @@ URL:https://lykeion.pt/e/a-investigacao-em-ciencias-sociais-na-era-da-intel
  igencia-ar-30cf5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:04-12-26-organizational-reform-in-primary-health-care-and-tu-6e7ec-2026
+UID:04-12-26-brian-kibuuka-aulas-abertas-04-dezembro-sala-jorge-c4a40-2026-
+ 12-04@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Brian Kibuuka Aulas abertas 04 dezembro Sala Jorge Faria (piso 5\, 
+ FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/brian-kibuuka/
+URL:https://lykeion.pt/e/04-12-26-brian-kibuuka-aulas-abertas-04-dezembro-s
+ ala-jorge-c4a40.html
+END:VEVENT
+BEGIN:VEVENT
+UID:04-12-26-padre-antonio-vieira-os-sermoes-italianos-conferenc-8ff2b-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261204T140000
-SUMMARY:Organizational reform in primary health care and tuberculosis treat
- ment outcomes: evidence from Portugal using the Synthetic Control Method
-LOCATION:Centro de Investigação em Economia e Gestão\, Coimbra
-DESCRIPTION:https://www.uc.pt/uid/ceber/eventos/organizational-reform-in-pr
- imary-health-care-and-tuberculosis-treatment-outcomes-evidence-from-portug
- al-using-the-synthetic-1/
-URL:https://lykeion.pt/e/04-12-26-organizational-reform-in-primary-health-c
- are-and-tu-6e7ec.html
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Padre António Vieira: Os Sermões Italianos Conferência 04 dezemb
+ ro Instituto de Estudos Brasileiros (piso 5\, FLUC)
+LOCATION:Faculdade de Letras da Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/fluc/agenda-fluc/padre-antonio-vieira-os-serm
+ oes-italianos/
+URL:https://lykeion.pt/e/04-12-26-padre-antonio-vieira-os-sermoes-italianos
+ -conferenc-8ff2b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-agregacao-de-ruben-huttel-heleno-licao-seminario-a7001-2026-1
+ 2-04@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Provas de agregação de Rúben Hüttel Heleno — Lição/Seminár
+ io
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://calendar.google.com/calendar/ical/provas.academicas%40g
+ mail.com/public/basic.ics
+URL:https://lykeion.pt/e/provas-de-agregacao-de-ruben-huttel-heleno-licao-s
+ eminario-a7001.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ana-margarida-da-silva-dias-branco-50b64-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de doutoramento de Ana Margarida da Silva Dias Branco Carval
  has — Pesca\, Confecção e Consumo de Enguias como Património Alimenta
@@ -1009,7 +1123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-kaike-pinto-monteiro-otimizacao-to-a620a-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de doutoramento de Kaike Pinto Monteiro — Otimização top
  ológica de conexões metálicas produzidas por Wire-Arc Additive Manufact
@@ -1023,7 +1137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-laura-raquel-lourenco-de-sousa-est-e9238-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de doutoramento de Laura Raquel Lourenço de Sousa — Estud
  o de barreiras acústicas de baixa altura baseadas em metamateriais
@@ -1036,7 +1150,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-pedro-joao-vinagre-costa-modelacao-07ba4-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de doutoramento de Pedro João Vinagre Costa — Modelação
   numérica dos processos de fabrico de anéis de pistão: previsão da rug
@@ -1048,23 +1162,36 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-pedro-joao-vinagre-costa
  -modelacao-07ba4.html
 END:VEVENT
 BEGIN:VEVENT
-UID:04-12-26-seminario-new-trends-in-international-politics-and-bef19-2026-
+UID:seminario-new-trends-in-international-politics-and-conflict-bef19-2026-
  12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Seminário New Trends in International Politics and Conflict Resolu
- tion
+ tion | Drugs\, Gangs and Penal Populism: New Trends in Enduring Structures
+  of Violence | Silvia Roque
 LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
 DESCRIPTION:https://www.uc.pt/feuc/eventos/seminario-new-trends-in-internat
  ional-politics-and-conflict-resolution-drugs-gangs-and-penal-populism-new-
  trends-in-enduring/
-URL:https://lykeion.pt/e/04-12-26-seminario-new-trends-in-international-pol
- itics-and-bef19.html
+URL:https://lykeion.pt/e/seminario-new-trends-in-international-politics-and
+ -conflict-bef19.html
+END:VEVENT
+BEGIN:VEVENT
+UID:04-12-2026-seminario-aberto-quem-responde-pelas-palavras-do-26e89-2026-
+ 12-04@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T160000
+SUMMARY:[Seminário Aberto] Quem responde pelas palavras do poeta? Tragédi
+ a\, citação e autoridade na palavra pública
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/seminario-aberto-palavras-poeta/
+URL:https://lykeion.pt/e/04-12-2026-seminario-aberto-quem-responde-pelas-pa
+ lavras-do-26e89.html
 END:VEVENT
 BEGIN:VEVENT
 UID:17-a-conferencia-lusofona-de-ciencia-aberta-aberta-a-chamada-e9810-2026
  -12-05@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261205
 SUMMARY:17.ª Conferência Lusófona de Ciência Aberta: aberta a chamada d
  e trabalhos
@@ -1076,8 +1203,8 @@ URL:https://lykeion.pt/e/17-a-conferencia-lusofona-de-ciencia-aberta-aberta
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-3-9d834-2026-12-07@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261207T170000
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T180000
 SUMMARY:Encontro 3
 LOCATION:Centro de Estudos Sociais\, Coimbra
 DESCRIPTION:https://ces.uc.pt/agenda-noticias/agenda-de-eventos/2026/encont
@@ -1087,7 +1214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-rodrigo-gabriel-oliveira-paredes-m-c7af9-2026
  -12-07@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Provas de doutoramento de Rodrigo Gabriel Oliveira Paredes — Moni
  torização Distribuída e Causal de Processos de Grande Escala e com Múl
@@ -1099,8 +1226,21 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-rodrigo-gabriel-oliveira
  -paredes-m-c7af9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ativismo-migracao-e-direitos-trans-em-italia-conversa-com-le-6636b-2026
+ -12-09@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T150000
+SUMMARY:Ativismo\, Migração e Direitos Trans em Itália: conversa com Lei
+ la Pereira (Associazione Libellula Italia)
+LOCATION:Centro de Estudos Sociais\, Coimbra
+DESCRIPTION:https://ces.uc.pt/agenda-noticias/agenda-de-eventos/2026/ativis
+ mo-migracao-e-direitos-trans-em-italia
+URL:https://lykeion.pt/e/ativismo-migracao-e-direitos-trans-em-italia-conve
+ rsa-com-le-6636b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-e-de-agregacao-ea0b5-2026-12-09@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de Doutoramento e de Agregação
 LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
@@ -1112,7 +1252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-jerusa-silva-dos-santos-f9def-2026-12-09@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de doutoramento de Jerusa Silva dos Santos
 LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
@@ -1125,7 +1265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-joana-alexandra-mendes-sequeira-fe-1ea7f-2026
  -12-09@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de doutoramento de Joana Alexandra Mendes Sequeira Fernandes
   Neto
@@ -1139,7 +1279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-thaysa-sonale-almeida-silva-inovac-b3666-2026
  -12-09@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de doutoramento de Thaysa Sonale Almeida Silva — Inovaçã
  o Social e Parcerias Intersetoriais: Estudo de caso em uma Organização d
@@ -1151,9 +1291,19 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-thaysa-sonale-almeida-si
  lva-inovac-b3666.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ed-09-12-26-workshop-1861e-2026-12-09@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T093000
+SUMMARY:Workshop com todo o respeito mas assertividade na academia
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/iii/ensino/escolas-doutorais/agenda/workshop-
+ com-todo-o-respeito-mas-assertividade-na-academia/
+URL:https://lykeion.pt/e/ed-09-12-26-workshop-1861e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ana-rita-soares-mateus-valorizacao-49cec-2026
  -12-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Provas de doutoramento de Ana Rita Soares Mateus — Valorização 
  de subprodutos da indústria alimentar da bacia do Mediterrâneo: desenvol
@@ -1167,7 +1317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-de-los-angeles-martinez-cohe-0c9be-2026
  -12-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Provas de doutoramento de Maria de Los Angeles Martinez Cohen — M
  edição dos impactos societais das colaborações universidade-indústria
@@ -1179,9 +1329,21 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-maria-de-los-angeles-mar
  tinez-cohe-0c9be.html
 END:VEVENT
 BEGIN:VEVENT
+UID:simposio-ferramentas-para-uma-saude-inclusiva-12468-2026-12-10@lagenda.
+ pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T093000
+SUMMARY:Simpósio: Ferramentas para uma saúde inclusiva
+LOCATION:Centro de Estudos Sociais\, Coimbra
+DESCRIPTION:https://ces.uc.pt/agenda-noticias/agenda-de-eventos/2026/ferram
+ entas-para-uma-saude-inclusiva
+URL:https://lykeion.pt/e/simposio-ferramentas-para-uma-saude-inclusiva-1246
+ 8.html
+END:VEVENT
+BEGIN:VEVENT
 UID:as-vicissitudes-de-ser-professora-de-fisica-na-universidade-23706-2026-
  12-11@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:As vicissitudes de ser Professora de Física na Universidade de Coi
  mbra – entre a Ditadura e a Liberdade
@@ -1193,7 +1355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-diogo-goncalo-salgado-braz-paixao-9f6f9-2026-
  12-11@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Provas de doutoramento de Diogo Gonçalo Salgado Braz — Paixão\,
   Regulação da Motivação e Satisfação com a Vida em Jovens Futebolist
@@ -1207,7 +1369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ines-carmona-lameiras-e-silva-moni-0bfd0-2026
  -12-11@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Provas de doutoramento de Inês Carmona Lameiras e Silva Moniz — 
  Células estaminais mesenquimais do cordão umbilical e o seu potencial pr
@@ -1219,34 +1381,21 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-ines-carmona-lameiras-e-
  silva-moni-0bfd0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:11-12-26-seminario-new-trends-in-international-politics-and-3c3b5-2026-
- 12-11@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-SUMMARY:Seminário New Trends in International Politics and Conflict Resolu
- tion
-LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/feuc/eventos/seminario-novas-tendencias-em-po
- litica-internacional-e-resolucao-de-conflitos-tres-anos-de-um-genocidio-em
- -curso-o-debate-aca/
-URL:https://lykeion.pt/e/11-12-26-seminario-new-trends-in-international-pol
- itics-and-3c3b5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:12-12-26-aula-aberta-09efd-2026-12-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+UID:defesa-de-tese-de-doutoramento-marta-isabel-lopes-capinha-96806-2026-12
+ -12@lagenda.pt
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261212
-SUMMARY:Aula aberta desigualdades digitais acesso literacia e representativ
- idade bia Carneiro
-LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-desigualdades-digita
- is-acesso-literacia-e-representatividade-bia-carneiro/
-URL:https://lykeion.pt/e/12-12-26-aula-aberta-09efd.html
+SUMMARY:Defesa de Tese de Doutoramento - Marta Isabel Lopes Capinha
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/cineicc/news/defesa-de-tese-de-doutoramento-m
+ arta-isabel-lopes-capinha/
+URL:https://lykeion.pt/e/defesa-de-tese-de-doutoramento-marta-isabel-lopes-
+ capinha-96806.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-joao-filipe-rocha-teixeira-d2150-2026-12-14@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Provas de doutoramento de João Filipe Rocha Teixeira
 LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
@@ -1257,20 +1406,9 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-joao-filipe-rocha-teixei
  ra-d2150.html
 END:VEVENT
 BEGIN:VEVENT
-UID:15-12-26-aula-aberta-523f7-2026-12-15@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261215
-SUMMARY:Aula aberta behind the Business global careers João Tomé Mariana 
- Simões Vieira
-LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/feuc/eventos/aula-aberta-behind-the-business-
- global-careers-joao-tome-mariana-simoes-vieira/
-URL:https://lykeion.pt/e/15-12-26-aula-aberta-523f7.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-doutoramento-de-isabel-maria-melo-mendes-passos-o-e44a3-2026-
  12-15@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de doutoramento de Isabel Maria Melo Mendes Passos — O imp
  acte das alterações climáticas nas florestas submediterrâneas de carva
@@ -1283,7 +1421,7 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-isabel-maria-melo-mendes
 END:VEVENT
 BEGIN:VEVENT
 UID:defesa-de-doutoramento-de-liliana-duarte-21486-2026-12-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T111500
 SUMMARY:Defesa de Doutoramento de Liliana Duarte
 LOCATION:Universidade de Coimbra\, Coimbra
@@ -1295,7 +1433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-joana-filipa-francisco-lopes-amado-22a08-2026
  -12-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de doutoramento de Joana Filipa Francisco Lopes Amado
 LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
@@ -1308,7 +1446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-liliana-neto-duarte-ecologia-da-in-00bdb-2026
  -12-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de doutoramento de Liliana Neto Duarte — Ecologia da invas
  ora Acacia longifolia: Da ecologia histórica a uma estratégia de gestão
@@ -1322,7 +1460,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-teresa-gabriel-dos-santos-ma-54dd4-2026
  -12-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de doutoramento de Maria Teresa Gabriel dos Santos — Matem
  ática Recreativa de Alcuíno de York e a sua integração na sala de aula
@@ -1335,7 +1473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-isabel-cristina-dordio-dimas-gestao-d-98f34-2026
  -12-17@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:Provas de agregação de Isabel Cristina Dórdio Dimas — Gestão 
  de Empresas (FEUC)
@@ -1348,7 +1486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gea-18-12-26-programa-de-doutoramento-frederico-teixeira-gab-30d83-2026
  -12-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Programa de Doutoramento | Frederico Teixeira Gabriel Furriel 18 de
  zembro Anfiteatro do iCBR Polo das Ciências da Saúde\, FMUC
@@ -1361,7 +1499,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-carlos-miguel-machado-marto-desdif-1fd41-2026
  -12-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Provas de doutoramento de Carlos Miguel Machado Marto — Desdifere
  nciação-diferenciação celular como opção em medicina dentária regen
@@ -1375,7 +1513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-frederico-teixeira-gabriel-furriel-55da4-2026
  -12-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Provas de doutoramento de Frederico Teixeira Gabriel Furriel — In
  ibição da via da adenosina – uma nova abordagem para potenciar a imuno
@@ -1389,7 +1527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-ines-pinho-da-cruz-desenvolv-9ce6b-2026
  -12-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Provas de doutoramento de Maria Inês Pinho da Cruz — Desenvolvim
  ento e Caracterização Experimental de uma Interface Sensorial Removível
@@ -1403,7 +1541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-rita-isabel-fernandes-de-oliveira-ebe81-2026-
  12-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Provas de doutoramento de Rita Isabel Fernandes de Oliveira — Nov
  os inibidores da protease 7 específica de ubiquitina (USP7) como fármaco
@@ -1415,23 +1553,9 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-rita-isabel-fernandes-de
  -oliveira-ebe81.html
 END:VEVENT
 BEGIN:VEVENT
-UID:18-12-26-seminario-new-trends-in-international-politics-and-bef19-2026-
- 12-18@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261218
-SUMMARY:Seminário New Trends in International Politics and Conflict Resolu
- tion
-LOCATION:Faculdade de Economia da Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/feuc/eventos/seminario-new-trends-in-internat
- ional-politics-and-conflict-resolution-memory-and-political-competition-in
- -eastern-europe-zo/
-URL:https://lykeion.pt/e/18-12-26-seminario-new-trends-in-international-pol
- itics-and-bef19.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-doutoramento-de-manuela-de-carvalho-meireles-entre-a08e4-2026
  -12-21@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261221
 SUMMARY:Provas de doutoramento de Manuela de Carvalho Meireles — Entre Cr
  avo\, Arruda e Alecrim – a Umbanda e a Diversidade Cultural em Portugal:
@@ -1445,7 +1569,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-claudia-beatriz-almeida-rodrigues-8a914-2026-
  12-22@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261222
 SUMMARY:Provas de doutoramento de Cláudia Beatriz Almeida Rodrigues — An
  álise de Dados Espaciais Urbanos: Rumo a Espaços Seguros\, Inclusivos e 
@@ -1459,7 +1583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:estados-gerais-salvaguardar-e-transformar-o-sns-lisboa-ed588-2027-01-05
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270105
 SUMMARY:Estados Gerais - Salvaguardar e Transformar o SNS (Lisboa)
 LOCATION:Centro de Estudos e Investigação em Saúde\, Coimbra
@@ -1470,7 +1594,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-daniela-dos-reis-castilho-o-papel-08f23-2027-
  01-05@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270105
 SUMMARY:Provas de doutoramento de Daniela dos Reis Castilho — O Papel dos
   Investimentos em Turismo no Caminho para a Sustentabilidade
@@ -1483,7 +1607,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-rogerio-paulo-pais-da-costa-87fc4-2027-01-05@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270105
 SUMMARY:Provas de doutoramento de Rogério Paulo Pais da Costa
 LOCATION:Faculdade de Psicologia e de Ciências da Educação da Universida
@@ -1494,9 +1618,21 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-rogerio-paulo-pais-da-co
  sta-87fc4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:doctoral-thesis-defense-rita-alexandra-brilha-ribeiro-cea10-2027-01-07@
+ lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270107
+SUMMARY:Doctoral Thesis Defense – Rita Alexandra Brilha Ribeiro
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/cineicc/news/doctoral-thesis-defense-rita-ale
+ xandra-brilha-ribeiro/
+URL:https://lykeion.pt/e/doctoral-thesis-defense-rita-alexandra-brilha-ribe
+ iro-cea10.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-sandra-de-freitas-moreira-da-silva-54236-2027
  -01-11@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270111
 SUMMARY:Provas de doutoramento de Sandra de Freitas Moreira da Silva e Nogu
  eira — A Inteligência Artificial na Decisão Penal: a Avaliação de Ri
@@ -1510,7 +1646,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-sandra-de-freitas-moreira-da-silva-25fa9-2027
  -01-11@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270111
 SUMMARY:Provas de doutoramento de Sandra de Freitas Moreira da Silva e Nogu
  eira — Doutoramento em Ciências Jurídico-Criminais
@@ -1522,7 +1658,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-paula-uematsu-arruda-da-autoconten-a386e-2027
  -01-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270112
 SUMMARY:Provas de doutoramento de Paula Uematsu Arruda — Da autocontenç
  ão ao ativismo na jurisprudência da Corte Interamericana de Direitos Hum
@@ -1536,7 +1672,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-paula-uematsu-arruda-doutoramento-54c6b-2027-
  01-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270112
 SUMMARY:Provas de doutoramento de Paula Uematsu Arruda — Doutoramento em 
  Direito Público
@@ -1548,7 +1684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-tiago-antonio-principe-ferreira-da-16ad8-2027
  -01-14@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270114
 SUMMARY:Provas de doutoramento de Tiago António Príncipe Ferreira da Fons
  eca Ramos — Contributos para a História da Psicoterapia em Portugal
@@ -1561,7 +1697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-keynesmenio-sousa-afonso-neto-patr-5ff4c-2027
  -01-15@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270115
 SUMMARY:Provas de doutoramento de Keynesménio Sousa Afonso Neto — Patrim
  ónio Geológico de São Tomé e Príncipe
@@ -1574,7 +1710,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cuidin-2-0-avaliar-saude-mental-dos-cuidadores-informais-3f479-2027-01-
  16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270116
 SUMMARY:CuidIn 2.0: Avaliar saúde mental dos cuidadores informais
 LOCATION:Centro de Estudos e Investigação em Saúde\, Coimbra
@@ -1586,7 +1722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-catarina-helena-branco-simoes-da-silv-0aaa5-2027
  -01-19@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270119
 SUMMARY:Provas de agregação de Catarina Helena Branco Simões da Silva 
  — Lição/Seminário
@@ -1599,7 +1735,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-claudia-maria-cruz-santos-licao-semin-b6dd2-2027
  -01-21@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270121
 SUMMARY:Provas de agregação de Cláudia Maria Cruz Santos — Lição/Sem
  inário
@@ -1612,7 +1748,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-claudia-maria-cruz-santos-provas-de-a-46c5e-2027
  -01-21@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270121
 SUMMARY:Provas de agregação de Cláudia Maria Cruz Santos — Provas de A
  gregação em Ciências Jurídico-Criminais
@@ -1623,7 +1759,7 @@ URL:https://lykeion.pt/e/provas-de-agregacao-de-claudia-maria-cruz-santos-p
 END:VEVENT
 BEGIN:VEVENT
 UID:congresso-direito-da-saude-em-transicao-9335d-2027-01-22@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270122T093000
 SUMMARY:Congresso 'Direito da Saúde em Transição'
 LOCATION:Centro de Direito Biomédico\, Coimbra
@@ -1634,7 +1770,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-claudia-maria-cruz-santos-licao-semin-2cd77-2027
  -01-22@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270122
 SUMMARY:Provas de agregação de Cláudia Maria Cruz Santos — Lição/Sem
  inário
@@ -1647,7 +1783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ian-pimentel-gameiro-doutoramento-bed5d-2027-
  01-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270125
 SUMMARY:Provas de doutoramento de Ian Pimentel Gameiro — Doutoramento em 
  Ciências Jurídico-Filosóficas
@@ -1659,7 +1795,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ian-pimentel-gameiro-pluralismo-s-9b40f-2027-
  01-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270125
 SUMMARY:Provas de doutoramento de Ian Pimentel Gameiro — Pluralismo(s) Ju
  rídico(s)\, Unidade e Sentido: Uma Proposta de Concretização Semiótico
@@ -1673,8 +1809,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:29-01-27-seminario-novos-horizontes-na-vigilancia-do-carcino-97507-2027
  -01-29@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20270129T093000
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270129
 SUMMARY:Seminário Novos horizontes na Vigilância do Carcinoma Orofarínge
  o
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
@@ -1685,7 +1821,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-marine-carriere-de-miranda-doutora-876d9-2027
  -02-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270204
 SUMMARY:Provas de doutoramento de Marine Carriere de Miranda — Doutoramen
  to em Ciências Jurídico-Criminais
@@ -1697,7 +1833,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-marine-carriere-de-miranda-o-domin-5eb9f-2027
  -02-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270204
 SUMMARY:Provas de doutoramento de Marine Carriere de Miranda — O domínio
   do facto na comparticipação\, l’auteur moral e a criminalidade de emp
@@ -1711,7 +1847,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:relatorio-sns-em-foco-expectativas-e-realidade-do-observator-73a7e-2027
  -02-13@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270213
 SUMMARY:Relatório «SNS em FOCO: Expectativas e Realidade» do Observatór
  io
@@ -1724,7 +1860,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:longevidade-e-saude-oral-comunitaria-intervencao-em-odontoge-23014-2027
  -02-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270218
 SUMMARY:Longevidade e Saúde Oral Comunitária: Intervenção em Odontogeri
  atria no Grande Porto
@@ -1737,7 +1873,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fct-increases-investment-and-phd-scholarships-for-2026-call-0d83a-2027-
  02-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270224
 SUMMARY:FCT increases Investment and PhD Scholarships for 2026 Call
 LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
@@ -1748,9 +1884,33 @@ URL:https://lykeion.pt/e/fct-increases-investment-and-phd-scholarships-for-
  2026-call-0d83a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:doctoral-thesis-defense-alexandra-isabel-morgadinho-lino-92a3d-2027-02-
+ 25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270225
+SUMMARY:Doctoral Thesis Defense – Alexandra Isabel Morgadinho Lino
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/cineicc/news/doctoral-thesis-defense-alexandr
+ a-isabel-morgadinho-lino/
+URL:https://lykeion.pt/e/doctoral-thesis-defense-alexandra-isabel-morgadinh
+ o-lino-92a3d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:doctoral-thesis-defense-ana-claudia-alves-nogueira-917ef-2027-02-25@lag
+ enda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270225
+SUMMARY:Doctoral Thesis Defense – Ana Cláudia Alves Nogueira
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/cineicc/news/doctoral-thesis-defense-ana-clau
+ dia-alves-nogueira/
+URL:https://lykeion.pt/e/doctoral-thesis-defense-ana-claudia-alves-nogueira
+ -917ef.html
+END:VEVENT
+BEGIN:VEVENT
 UID:o-departamento-de-fisica-da-uc-50-primaveras-1950-2000-e-out-8814c-2027
  -02-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270227
 SUMMARY:O Departamento de Física da UC: 50 Primaveras (1950-2000). E outra
  s histórias
@@ -1762,7 +1922,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:estados-gerais-salvaguardar-e-transformar-o-sns-braga-7049a-2027-03-04@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270304
 SUMMARY:Estados Gerais - Salvaguardar e Transformar o SNS (Braga)
 LOCATION:Centro de Estudos e Investigação em Saúde\, Coimbra
@@ -1773,7 +1933,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:h2oforall-nominated-for-the-ersar-innovation-award-2025-c657c-2027-03-0
  4@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270304
 SUMMARY:H2OforAll Nominated for the ERSAR Innovation Award 2025
 LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
@@ -1786,7 +1946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:o-emissor-radiofonico-do-laboratorio-de-fisica-1932-23c10-2027-03-04@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270304
 SUMMARY:O Emissor Radiofónico do Laboratório de Física (1932)
 LOCATION:Centro de Física\, Coimbra
@@ -1797,7 +1957,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iii-simposio-internacional-de-harmonizacao-orofacial-b2f7c-2027-03-10@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270310
 SUMMARY:III Simpósio Internacional de Harmonização Orofacial
 LOCATION:Centro de Estudos e Investigação em Saúde\, Coimbra
@@ -1809,7 +1969,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-susana-maria-aires-de-sousa-licao-sem-d4975-2027
  -03-11@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270311
 SUMMARY:Provas de agregação de Susana Maria Aires de Sousa — Lição/Se
  minário
@@ -1822,7 +1982,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-susana-maria-aires-de-sousa-provas-de-a4572-2027
  -03-11@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270311
 SUMMARY:Provas de agregação de Susana Maria Aires de Sousa — Provas de 
  Agregação em Ciências Jurídico-Criminais
@@ -1834,7 +1994,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-susana-maria-aires-de-sousa-licao-sem-eb47b-2027
  -03-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270312
 SUMMARY:Provas de agregação de Susana Maria Aires de Sousa — Lição/Se
  minário
@@ -1847,7 +2007,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iv-jornadas-internacionais-memorias-do-carvao-9c8b1-2027-03-18@lagenda.
  pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270318
 SUMMARY:IV Jornadas Internacionais ‘Memórias do Carvão
 LOCATION:Centro de Ecologia Funcional (CFE)\, Coimbra
@@ -1858,7 +2018,7 @@ URL:https://lykeion.pt/e/iv-jornadas-internacionais-memorias-do-carvao-9c8b
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-miguel-bandeira-jeronimo-f2b84-2027-04-05@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270405
 SUMMARY:Seminário: Miguel Bandeira Jerónimo
 LOCATION:Centro de História da Sociedade e da Cultura\, Coimbra
@@ -1868,7 +2028,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:como-acabar-com-o-sns-em-nove-passos-dicas-para-uma-governac-7c5cd-2027
  -04-06@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270406
 SUMMARY:Como acabar com o SNS em nove passos: dicas para uma governação e
  fetiva
@@ -1881,7 +2041,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vii-encontro-memoria-para-todos-para-que-serve-a-historia-or-a1cef-2027
  -04-08@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270408
 SUMMARY:VII Encontro Memória para Todos | Para que serve a História Oral?
   Da Memória ao Conhecimento: Investigação\, Interpretação e Participa
@@ -1896,7 +2056,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cibb-classificado-como-excelente-na-avaliacao-de-unidades-de-31ba1-2027
  -04-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270416
 SUMMARY:CiBB classificado como Excelente na avaliação de Unidades de I&D 
  da FCT

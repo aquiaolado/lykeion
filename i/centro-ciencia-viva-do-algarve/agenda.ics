@@ -6,18 +6,32 @@ X-WR-CALNAME:Centro Ciência Viva do Algarve (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:laboratorio-de-engenhocarias-b1383-2026-11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261122T103000
-SUMMARY:Laboratório de Engenhocarias
+UID:qual-e-o-papel-das-algas-e-das-nossas-escolhas-na-sustentabi-c44b7-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T120000
+SUMMARY:Qual é o papel das algas e das nossas escolhas na sustentabilidade
+ ?
 LOCATION:Centro Ciência Viva do Algarve\, Faro
-DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
- cia/laboratorio-engenhocarias
-URL:https://lykeion.pt/e/laboratorio-de-engenhocarias-b1383.html
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/semana-da-ciencia-e-tecnologia
+ /para-escolas/qual-e-o-papel-das-algas-e-das-nossas-escolhas-na-sustentabi
+ lidade
+URL:https://lykeion.pt/e/qual-e-o-papel-das-algas-e-das-nossas-escolhas-na-
+ sustentabi-c44b7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:app-super-vicente-e4a1b-2026-11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:APP Super Vicente
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/semana-da-ciencia-e-tecnologia
+ /para-escolas/app-super-vicente
+URL:https://lykeion.pt/e/app-super-vicente-e4a1b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:noites-astronomicas-abef3-2026-11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T183000
 SUMMARY:Noites astronómicas observação da lua
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -26,9 +40,31 @@ DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/desafios-gratuitos/noites-astr
 URL:https://lykeion.pt/e/noites-astronomicas-abef3.html
 END:VEVENT
 BEGIN:VEVENT
+UID:qual-o-futuro-do-turismo-aos-olhos-dos-jovens-c44b7-2026-11-25@lagenda.
+ pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Qual o Futuro do Turismo aos olhos dos Jovens?
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/semana-da-ciencia-e-tecnologia
+ /para-escolas/qual-o-futuro-do-turismo-aos-olhos-dos-jovens
+URL:https://lykeion.pt/e/qual-o-futuro-do-turismo-aos-olhos-dos-jovens-c44b
+ 7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:historias-de-uma-criatura-viajante-26bab-2026-11-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T120000
+SUMMARY:Histórias de uma Criatura Viajante
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/semana-da-ciencia-e-tecnologia
+ /para-escolas/historias-de-uma-criatura-viajante
+URL:https://lykeion.pt/e/historias-de-uma-criatura-viajante-26bab.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-arqueologia-na-semana-da-ciencia-e-da-tecnologia-7cf8b-2026-1
  1-28@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Exposição: Arqueologia na Semana da Ciência e da Tecnologia
 LOCATION:Centro Ciência Viva do Algarve\, Faro

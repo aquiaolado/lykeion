@@ -6,10 +6,25 @@ X-WR-CALNAME:CICS.NOVA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-22@lagen
+UID:26-conferencia-final-do-ciclo-de-conferencias-a-sociologia-n-9ad07-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T110000
+SUMMARY:26 Conferência Final do Ciclo de Conferências “A sociologia na.
+ ..
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/conferencia-final-do-c
+ iclo-de-conferencias-a-sociologia-na-peninsula-iberica-e-para-alem-dela-di
+ alogos-transfronteiricos-la-sociologia-en-la-peninsula-iberica-y-mas-alla-
+ dialogos-transfronte/
+URL:https://lykeion.pt/e/26-conferencia-final-do-ciclo-de-conferencias-a-so
+ ciologia-n-9ad07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-23@lagen
  da.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
 SUMMARY:26 Exposição Etnografias da Pastorícia
 LOCATION:Centro Interdisciplinar de Ciências Sociais
 DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
@@ -20,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26-ciencias-sociais-a-conversa-a-construcao-da-ciencia-780c0-2026-11-24
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T160000
 SUMMARY:26 Ciências Sociais à Conversa – (A Construção da) Ciência..
  .

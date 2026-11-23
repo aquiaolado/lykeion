@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:aula-aberta-vida-e-morte-dos-direitos-formas-de-tutela-e-res-65ed4-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T173000
 SUMMARY:Aula Aberta «Vida e morte dos direitos (formas de tutela e restri
  ções)»
@@ -19,9 +19,21 @@ URL:https://lykeion.pt/e/aula-aberta-vida-e-morte-dos-direitos-formas-de-tu
  tela-e-res-65ed4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciclo-de-workshops-etnografia-e-praticas-criativas-2af4e-2026-11-23@lag
+ enda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T160000
+SUMMARY:Ciclo de Workshops: Etnografia e Práticas Criativas
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/ci
+ clo-de-workshops-etnografia-e-praticas-criativas
+URL:https://lykeion.pt/e/ciclo-de-workshops-etnografia-e-praticas-criativas
+ -2af4e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-de-encerramento-do-projeto-farol-f2d31-2026-11-23@lagenda.p
  t
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Conferência de encerramento do projeto FAROL
 LOCATION:Centro Interdisciplinar de Estudos de Género
@@ -31,9 +43,23 @@ URL:https://lykeion.pt/e/conferencia-de-encerramento-do-projeto-farol-f2d31
  .html
 END:VEVENT
 BEGIN:VEVENT
+UID:programa-de-desenvolvimento-de-investigacao-do-capp-oficinas-b0866-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T173000
+SUMMARY:Programa de Desenvolvimento de Investigação do CAPP: Oficinas de 
+ Escrita e Publicação 2026
+LOCATION:Instituto Superior de Ciências Sociais e Políticas
+DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/pr
+ ograma-de-desenvolvimento-de-investigacao-do-capp-oficinas-de-escrita-e-pu
+ blicacao-2026
+URL:https://lykeion.pt/e/programa-de-desenvolvimento-de-investigacao-do-cap
+ p-oficinas-b0866.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-publica-de-doutoramento-joana-simoes-provas-publicas-baef8-2026-1
  1-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T150000
 SUMMARY:Prova Pública de Doutoramento - Joana Simões Provas Públicas
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -44,7 +70,7 @@ URL:https://lykeion.pt/e/prova-publica-de-doutoramento-joana-simoes-provas-
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-valente-8768d-2026-11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Ana Valente
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -55,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-de-apresentacao-do-livro-inteligencia-economica-polit-e5cf6-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T183000
 SUMMARY:Sessão de Apresentação do Livro “Inteligência Económica\, Po
  líticas Públicas e Território
@@ -69,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-ana-valente-provas-publicas-52c78-2026-11-24@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Prova Pública de Mestrado - Ana Valente Provas Públicas
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -80,7 +106,7 @@ URL:https://lykeion.pt/e/prova-publica-de-mestrado-ana-valente-provas-publi
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-conceicao-efedd-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Beatriz Conceição
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -91,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-doutoramento-jorge-cunha-provas-publicas-26397-2026-11
  -25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T143000
 SUMMARY:Prova Pública de Doutoramento - Jorge Cunha Provas Públicas
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -103,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-beatriz-conceicao-provas-publicas-34ee7-2026-
  11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Prova Pública de Mestrado - Beatriz Conceição Provas Públicas
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -114,7 +140,7 @@ URL:https://lykeion.pt/e/prova-publica-de-mestrado-beatriz-conceicao-provas
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-karina-alves-4b183-2026-11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de mestrado de Karina Alves
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -124,7 +150,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-karina-alves-4b183.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-head-heart-bc268-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Seminário Head & Heart
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -135,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-francisco-iredio-provas-publicas-b4724-2026-1
  2-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Prova Pública de Mestrado - Francisco Irédio Provas Públicas
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -147,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-karina-alves-provas-publicas-e99f9-2026-12-02
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Prova Pública de Mestrado - Karina Alves Provas Públicas
 LOCATION:Instituto Superior de Ciências Sociais e Políticas
@@ -159,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-internacional-do-projeto-free-choices-f2d31-2027-03-20@lagend
  a.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270320
 SUMMARY:Seminário Internacional do projeto Free Choices
 LOCATION:Centro Interdisciplinar de Estudos de Género
@@ -171,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-gender-mainstreaming-in-medicine-and-medical-res-f2d31-2027
  -03-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270324
 SUMMARY:Conferência Gender Mainstreaming in Medicine and Medical Research
 LOCATION:Centro Interdisciplinar de Estudos de Género

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UNU-EGOV (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:knowledge-summit-2026-knowledge-navigating-crises-in-a-chang-8e94c-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T190000
+SUMMARY:Knowledge Summit 2026: Knowledge – Navigating Crises in a Changin
+ g World
+LOCATION:United Nations University Operating Unit on Policy-Driven Electron
+ ic Governance\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/knowledge-summit-2026-knowledge-navigating-crises-
+ in-a-chang-8e94c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:migration-seminar-series-the-immobility-development-nexus-5dd4d-2026-11
+ -25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T190000
+SUMMARY:Migration Seminar Series: The Immobility-Development Nexus
+LOCATION:United Nations University Operating Unit on Policy-Driven Electron
+ ic Governance\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/migration-seminar-series-the-immobility-developmen
+ t-nexus-5dd4d.html
+END:VEVENT
+END:VCALENDAR

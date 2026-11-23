@@ -6,10 +6,19 @@ X-WR-CALNAME:UBI (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:ciclo-de-seminarios-7b94c-2026-11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Ciclo de Seminários
+LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
+DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/744
+URL:https://lykeion.pt/e/ciclo-de-seminarios-7b94c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -19,22 +28,20 @@ URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:inscricoes-oficina-escola-do-reparar-gratuita-para-estudante-17bcf-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:Inscrições: Oficina «Escola do Reparar» gratuita para estudante
- s da UBI
-LOCATION:Universidade da Beira Interior\, Covilhã
-DESCRIPTION:https://www.ubi.pt/Evento/24233
-URL:https://lykeion.pt/e/inscricoes-oficina-escola-do-reparar-gratuita-para
- -estudante-17bcf.html
+UID:gala-de-aniversario-aaubi-2026-4e981-2026-11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Gala de Aniversário AAUBI 2026
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24240
+URL:https://lykeion.pt/e/gala-de-aniversario-aaubi-2026-4e981.html
 END:VEVENT
 BEGIN:VEVENT
 UID:mes-da-filosofia-celebrado-no-requisite-e-leia-da-biblioteca-a3ddc-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
 SUMMARY:Mês da Filosofia celebrado no Requisite e Leia da Biblioteca Centr
  al
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -45,9 +52,9 @@ URL:https://lykeion.pt/e/mes-da-filosofia-celebrado-no-requisite-e-leia-da-
 END:VEVENT
 BEGIN:VEVENT
 UID:questionario-estrategia-de-politica-cultural-estudantes-da-u-0cdf6-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
 SUMMARY:Questionário Estratégia de Política Cultural - Estudantes da UBI
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
  ilhã
@@ -57,9 +64,9 @@ URL:https://lykeion.pt/e/questionario-estrategia-de-politica-cultural-estud
 END:VEVENT
 BEGIN:VEVENT
 UID:fundamentos-da-educacao-no-requisite-e-leia-da-biblioteca-da-84526-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
 SUMMARY:«Fundamentos da Educação» no Requisite e Leia da Biblioteca da 
  FCSH
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -69,37 +76,9 @@ URL:https://lykeion.pt/e/fundamentos-da-educacao-no-requisite-e-leia-da-bib
  lioteca-da-84526.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ciclo-de-seminarios-7b94c-2026-11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Ciclo de Seminários
-LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
-DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/744
-URL:https://lykeion.pt/e/ciclo-de-seminarios-7b94c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:encontro-ubi-ciencia-e-inovacao-2026-a75c1-2026-11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Encontro UBI Ciência e Inovação 2026
-LOCATION:Universidade da Beira Interior\, Covilhã
-DESCRIPTION:https://www.ubi.pt/Evento/24168
-URL:https://lykeion.pt/e/encontro-ubi-ciencia-e-inovacao-2026-a75c1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:gala-de-aniversario-aaubi-2026-4e981-2026-11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Gala de Aniversário AAUBI 2026
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
-DESCRIPTION:https://www.ubi.pt/Evento/24240
-URL:https://lykeion.pt/e/gala-de-aniversario-aaubi-2026-4e981.html
-END:VEVENT
-BEGIN:VEVENT
 UID:1-a-convencao-nacional-do-desporto-universitario-6ee24-2026-11-24@lagen
  da.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:1.ª Convenção Nacional do Desporto Universitário
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -110,7 +89,7 @@ URL:https://lykeion.pt/e/1-a-convencao-nacional-do-desporto-universitario-6
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-83157-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -119,7 +98,7 @@ URL:https://lykeion.pt/e/ciclo-de-seminarios-83157.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tmc-exibe-terra-vil-de-luis-campos-931ba-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T213000
 SUMMARY:TMC~ exibe “Terra Vil”\, de Luís Campos
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -130,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:da-investigacao-ao-negocio-empreender-em-medtech-05ac5-2026-11-25@lagen
  da.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Da Investigação ao Negócio - Empreender em MedTech
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -142,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dia-aberto-ao-conhecimento-2026-ciencia-e-inovacao-o-que-esp-13c14-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Dia Aberto ao Conhecimento 2026 - Ciência e Inovação: O que espe
  ram as empresas da academia?
@@ -155,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lancamento-de-podcast-encerra-o-mes-da-inovacao-pedagogica-149f5-2026-1
  1-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Lançamento de podcast encerra o Mês da Inovação Pedagógica
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -166,7 +145,7 @@ URL:https://lykeion.pt/e/lancamento-de-podcast-encerra-o-mes-da-inovacao-pe
 END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-c30a8-2026-11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:Lunch Seminar · Centro de Investigação em Ciências da Saúde
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -176,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:interaction-vamos-continuar-a-transformar-os-nossos-espacos-f35cf-2026-
  11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:InterAction: Vamos continuar a transformar os nossos espaços
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -187,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-26-nov-26-de-novembro-de-2020-seminario-c3427-2026-11-26@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Lunch Seminar :: 26 Nov 26 de novembro de 2020 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -198,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pensar-sociologicamente-sociedade-em-cena-uma-palavra-pode-v-31462-2026
  -11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Pensar Sociologicamente – “Sociedade em cena – uma palavra po
  de valer mais do que mil imagens?
@@ -211,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-conferencias-fundacao-calouste-gulbenkian-na-ubi-df906-2026-11-30@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:II Conferências Fundação Calouste Gulbenkian na UBI
 LOCATION:Universidade da Beira Interior\, Covilhã
@@ -222,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
@@ -235,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-reimaginar-a-lideranca-escola-da-energia-d62a8-2026-12-02@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Workshop «Reimaginar a Liderança» - Escola da Energia
 LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
@@ -246,7 +225,7 @@ URL:https://lykeion.pt/e/workshop-reimaginar-a-lideranca-escola-da-energia-
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-71de5-2026-12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -254,9 +233,31 @@ DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/671
 URL:https://lykeion.pt/e/ciclo-de-seminarios-71de5.html
 END:VEVENT
 BEGIN:VEVENT
+UID:masterclass-active-breaks-in-healthcare-settings-a-workplace-9d544-2026
+ -12-04@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Masterclass “Active Breaks in Healthcare Settings: A Workplace St
+ rategy to Promote Occupational Well-Being
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24242
+URL:https://lykeion.pt/e/masterclass-active-breaks-in-healthcare-settings-a
+ -workplace-9d544.html
+END:VEVENT
+BEGIN:VEVENT
+UID:reuniao-anual-cochrane-portugal-62863-2026-12-04@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Reunião Anual Cochrane Portugal
+LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
+DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/12083
+URL:https://lykeion.pt/e/reuniao-anual-cochrane-portugal-62863.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ii-epea-seminario-internacional-esfera-publica-na-era-dos-al-fb74c-2026
  -12-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:II EPEA – Seminário Internacional Esfera Pública na Era dos Alg
  oritmos
@@ -268,7 +269,7 @@ URL:https://lykeion.pt/e/ii-epea-seminario-internacional-esfera-publica-na-
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a751b-2026-12-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -278,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-12-dez-12-de-dezembro-de-2019-seminario-79dda-2026-12-12@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261212
 SUMMARY:Lunch Seminar :: 12 Dez 12 de dezembro de 2019 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -288,7 +289,7 @@ URL:https://lykeion.pt/e/lunch-seminar-12-dez-12-de-dezembro-de-2019-semina
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-f575f-2026-12-13@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261213T143000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -297,7 +298,7 @@ URL:https://lykeion.pt/e/ciclo-de-seminarios-f575f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-c808b-2026-12-17@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -306,7 +307,7 @@ URL:https://lykeion.pt/e/ciclo-de-seminarios-c808b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-a0f4b-2026-12-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -316,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-19-dez-19-de-dezembro-de-2019-seminario-c6667-2026-12-19@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261219
 SUMMARY:Lunch Seminar :: 19 Dez 19 de dezembro de 2019 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -327,7 +328,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-9-jan-09-de-janeiro-de-2020-seminario-d8bff-2027-01-09@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270109
 SUMMARY:Lunch Seminar :: 9 Jan 09 de janeiro de 2020 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -338,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-12jan-12-de-janeiro-de-2023-seminario-f34da-2027-01-12@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270112
 SUMMARY:Lunch Seminar :: 12Jan 12 de janeiro de 2023 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -348,7 +349,7 @@ URL:https://lykeion.pt/e/lunch-seminar-12jan-12-de-janeiro-de-2023-seminari
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-4d414-2027-01-17@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270117T140000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -358,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-23-jan-23-de-janeiro-de-2020-seminario-58fe0-2027-01-23@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270123
 SUMMARY:Lunch Seminar :: 23 Jan 23 de janeiro de 2020 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -369,7 +370,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-26jan-26-de-janeiro-de-2023-seminario-7b066-2027-01-26@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270126
 SUMMARY:Lunch Seminar :: 26Jan 26 de janeiro de 2023 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -379,7 +380,7 @@ URL:https://lykeion.pt/e/lunch-seminar-26jan-26-de-janeiro-de-2023-seminari
 END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-a3321-2027-02-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270203
 SUMMARY:Lunch Seminar · Centro de Investigação em Ciências da Saúde
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -389,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:debate-o-legado-do-4-de-fevereiro-e-as-interrogacoes-do-pres-e27b5-2027
  -02-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270204T153000
 SUMMARY:Debate: “O legado do 4 de fevereiro e as interrogações do prese
  nte
@@ -402,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-6-fev-06-de-fevereiro-de-2020-seminario-93151-2027-02-06@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270206
 SUMMARY:Lunch Seminar :: 6 Fev 06 de fevereiro de 2020 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -413,7 +414,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-10fev-10-de-fevereiro-de-2022-seminario-1fa5a-2027-02-10@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270210
 SUMMARY:Lunch Seminar :: 10Fev 10 de fevereiro de 2022 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -424,7 +425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-17fev-17-de-fevereiro-de-2022-seminario-1444e-2027-02-17@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270217
 SUMMARY:Lunch Seminar :: 17Fev 17 de fevereiro de 2022 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -434,7 +435,7 @@ URL:https://lykeion.pt/e/lunch-seminar-17fev-17-de-fevereiro-de-2022-semina
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-0ea1a-2027-02-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270218
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -443,7 +444,7 @@ URL:https://lykeion.pt/e/ciclo-de-seminarios-0ea1a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-44775-2027-02-21@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270221T150000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -453,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-24fev-24-de-fevereiro-de-2022-seminario-82607-2027-02-24@
  lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270224
 SUMMARY:Lunch Seminar :: 24Fev 24 de fevereiro de 2022 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -464,7 +465,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafes-filosoficos-cartografias-da-indignacao-como-arde-o-pen-d7583-2027
  -02-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270226T150000
 SUMMARY:Cafés Filosóficos «Cartografias da Indignação»: «Como Arde o
   Pensamento? Filosofia e Indignação»
@@ -477,7 +478,7 @@ URL:https://lykeion.pt/e/cafes-filosoficos-cartografias-da-indignacao-como-
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-seminarios-b0267-2027-03-07@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270307T153000
 SUMMARY:Ciclo de Seminários
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -486,7 +487,7 @@ URL:https://lykeion.pt/e/ciclo-de-seminarios-b0267.html
 END:VEVENT
 BEGIN:VEVENT
 UID:praxis-research-forum-2aabc-2027-03-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270312
 SUMMARY:Praxis Research Forum
 LOCATION:Praxis – Centro de Filosofia\, Política e Cultura\, Covilhã
@@ -497,7 +498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-17mar-17-de-marco-de-2022-seminario-6a72d-2027-03-17@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270317
 SUMMARY:Lunch Seminar :: 17Mar 17 de março de 2022 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -508,7 +509,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:um-tema-uma-autora-um-texto-can-the-subaltern-speak-485c2-2027-03-17@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270317T183000
 SUMMARY:Um tema\, uma autora\, um texto: “Can the Subaltern Speak?
 LOCATION:Praxis – Centro de Filosofia\, Política e Cultura\, Covilhã
@@ -520,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-24mar-24-de-marco-de-2022-seminario-50993-2027-03-24@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270324
 SUMMARY:Lunch Seminar :: 24Mar 24 de março de 2022 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -531,7 +532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-25-marco-25-de-marco-de-2021-seminario-de523-2027-03-25@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270325
 SUMMARY:Lunch Seminar :: 25 Março 25 de março de 2021 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -542,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-31mar-31-de-marco-de-2022-seminario-7fb53-2027-03-31@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Lunch Seminar :: 31Mar 31 de março de 2022 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
@@ -553,12 +554,32 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lunch-seminar-6abr-06-de-abril-de-2022-seminario-b0912-2027-04-06@lagen
  da.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270406
 SUMMARY:Lunch Seminar :: 6Abr 06 de abril de 2022 - Seminário
 LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/1076
 URL:https://lykeion.pt/e/lunch-seminar-6abr-06-de-abril-de-2022-seminario-b
  0912.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-seminarios-6b3fb-2027-04-21@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270421
+SUMMARY:Ciclo de Seminários
+LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
+DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/857
+URL:https://lykeion.pt/e/ciclo-de-seminarios-6b3fb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-seminar-21abr-21-de-abril-de-2022-seminario-fd334-2027-04-21@lage
+ nda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270421
+SUMMARY:Lunch Seminar :: 21Abr 21 de abril de 2022 - Seminário
+LOCATION:Centro de Investigação em Ciências da Saúde\, Covilhã
+DESCRIPTION:https://www.ubi.pt/Sites/fcsaude/pt/Evento/1085
+URL:https://lykeion.pt/e/lunch-seminar-21abr-21-de-abril-de-2022-seminario-
+ fd334.html
 END:VEVENT
 END:VCALENDAR

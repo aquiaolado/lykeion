@@ -6,56 +6,21 @@ X-WR-CALNAME:Ciências Agrárias e Veterinárias (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:50-a-edicao-das-jornadas-medico-veterinarias-1162e-2026-11-22@lagenda.p
- t
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:50.ª edição das Jornadas Médico-Veterinárias
-LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
-DESCRIPTION:https://www.fmv.ulisboa.pt/pt/noticias/faculdade/50-edicao-das-
- jornadas-medico-veterinarias
-URL:https://lykeion.pt/e/50-a-edicao-das-jornadas-medico-veterinarias-1162e
- .html
-END:VEVENT
-BEGIN:VEVENT
-UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
- -11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
- dos Investigadores
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
- r-dos-investigadores/
-URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
- lhar-dos-i-8501f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminar-66d6d-2026-11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261122T110000
-SUMMARY:Conversas com ciência in Serralves November
-LOCATION:Centro Interdisciplinar de Investigação Marinha e Ambiental\, Po
- rto
-DESCRIPTION:https://www.ciimar.up.pt/events/conversas-com-ciencia-in-serral
- ves-november-2/
-URL:https://lykeion.pt/e/seminar-66d6d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:floresta-uma-experiencia-de-raiz-8dd00-2026-11-22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:Floresta: Uma Experiência de Raiz
-LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
- ões
-DESCRIPTION:https://www.agendalx.pt/events/event/floresta-uma-experiencia-d
- e-raiz/
-URL:https://lykeion.pt/e/floresta-uma-experiencia-de-raiz-8dd00.html
+UID:conferencia-da-embalagem-ao-recurso-como-recuperar-e-valoriz-33ed5-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T140000
+SUMMARY:Conferência: Da embalagem ao recurso: Como recuperar e valorizar o
+ s materiais das embalagens alimentares?
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.med.uevora.pt/pt/
+URL:https://lykeion.pt/e/conferencia-da-embalagem-ao-recurso-como-recuperar
+ -e-valoriz-33ed5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-investigar-para-curar-vem-descobrir-como-se-estu-d6c28-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Conferência: Investigar para Curar: vem descobrir como se estuda o
   cancro nos animais
@@ -67,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-investigacao-criminal-em-medicina-veterinaria-ca-d6c28-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Conferência: Investigação Criminal em Medicina Veterinária - ca
  sos reais
@@ -77,9 +42,22 @@ URL:https://lykeion.pt/e/conferencia-investigacao-criminal-em-medicina-vete
  rinaria-ca-d6c28.html
 END:VEVENT
 BEGIN:VEVENT
+UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
+ dos Investigadores
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
+ r-dos-investigadores/
+URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
+ lhar-dos-i-8501f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-semana-da-ciencia-e-da-te-359ba-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T093000
 SUMMARY:Escola Superior Agrária de Coimbra Semana da Ciência e da Tecnolo
  gia 2026 na ESAC
@@ -90,9 +68,20 @@ URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-semana-da-cienc
  ia-e-da-te-359ba.html
 END:VEVENT
 BEGIN:VEVENT
+UID:floresta-uma-experiencia-de-raiz-8dd00-2026-11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Floresta: Uma Experiência de Raiz
+LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
+ ões
+DESCRIPTION:https://www.agendalx.pt/events/event/floresta-uma-experiencia-d
+ e-raiz/
+URL:https://lykeion.pt/e/floresta-uma-experiencia-de-raiz-8dd00.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-3o-ciclo-de-estudos-conducente-ao-grau-de-doutor-e-656e7-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T143000
 SUMMARY:Provas de 3o ciclo de estudos conducente ao grau de Doutor em Ciên
  cias Farmacêuticas\, na especialidade de Nutrição e Química dos Alimen
@@ -106,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-castro-graca-meireles-con-6bf44-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Provas de Mestrado de Ana Carolina Castro Graça Meireles « Contor
  cem-se da mesma forma\, mulher e veado: A Representação do Animal em Mar
@@ -118,9 +107,36 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-carolina-castro-graca-me
  ireles-con-6bf44.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-beatriz-antunes-tristao-controlo-de-zo-d1b3a-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T134500
+SUMMARY:Provas de mestrado de Beatriz Antunes Tristão — Controlo de Zoon
+ oses em Carcaças de Ruminantes nos Matadouros – Contributo para a Segur
+ ança Alimentar
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
+ s-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-beatriz-antunes-tristao-cont
+ rolo-de-zo-d1b3a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-cristiana-de-oliveira-rodrigues-produc-949c7-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T134500
+SUMMARY:Provas de mestrado de Cristiana de Oliveira Rodrigues — Produçã
+ o\, Qualidade e Desenvolvimento de Novos Produtos Alimentares
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
+ s-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-cristiana-de-oliveira-rodrig
+ ues-produc-949c7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-elaine-andrade-alves-pinto-caracteriza-98f44-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de Elaine Andrade Alves Pinto — Caracterizaç
  ão histológica da pele de animais selvagens
@@ -130,22 +146,9 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-elaine-andrade-alves-pinto-c
  aracteriza-98f44.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-maria-vieira-rodrigues-producao-qualid-c2d4c-2026
- -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T134500
-SUMMARY:Provas de mestrado de Maria Vieira Rodrigues — Produção\, Quali
- dade e Desenvolvimento de Novos Produtos Alimentares
-LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
-DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
- s-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-vieira-rodrigues-produ
- cao-qualid-c2d4c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-sergio-manuel-alves-seixas-projeto-de-b0068-2026-
  11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T100000
 SUMMARY:Provas de mestrado de Sérgio Manuel Alves Seixas — Projeto de um
  a adega e preparação da produção de vinho em contexto de consultoria v
@@ -156,9 +159,23 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-sergio-manuel-alves-seixas-p
  rojeto-de-b0068.html
 END:VEVENT
 BEGIN:VEVENT
+UID:salfix-alternative-long-term-solution-for-the-preservation-o-3db08-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:SALFIX - Alternative Long-Term Solution for the Preservation of Vet
+ erinary Anatomical Specimens: A Comparison Between Saturated Saline Soluti
+ on and FineFix®.
+LOCATION:UCIBIO\, Valongo
+DESCRIPTION:https://ucibio.iucs.cespu.pt/?q=content/salfix-alternative-long
+ -term-solution-preservation-veterinary-anatomical-specimens
+URL:https://lykeion.pt/e/salfix-alternative-long-term-solution-for-the-pres
+ ervation-o-3db08.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-nem-todos-os-bichos-tem-patas-uma-viagem-ao-mundo-i-d6c28-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Workshop: Nem Todos os Bichos Têm Patas! Uma viagem ao mundo invis
  ível da Medicina Veterinária
@@ -170,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-producao-de-sabao-a-partir-de-oleos-alimentares-usa-f922b-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Workshop: Produção de sabão a partir de óleos alimentares usado
  s
@@ -180,9 +197,20 @@ URL:https://lykeion.pt/e/workshop-producao-de-sabao-a-partir-de-oleos-alime
  ntares-usa-f922b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:23-a-26-nov-2026-workshops-semana-da-ciencia-e-da-tecnologia-70f83-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Workshops | Semana da Ciência e da Tecnologia 2026
+LOCATION:ISPA – Instituto Universitário
+DESCRIPTION:https://www.ispa.pt/agenda/eventos/semana-da-ciencia-ispa-2026/
+URL:https://lykeion.pt/e/23-a-26-nov-2026-workshops-semana-da-ciencia-e-da-
+ tecnologia-70f83.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-open-day-raiz-venham-conhecer-a-ciencia-e-ino-afef2-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Portas abertas: Open Day RAIZ – Venham conhecer a Ciência e Inov
  ação que sustenta uma Bioeconomia de base Florestal
@@ -194,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-3o-ciclo-de-estudos-conducente-ao-grau-de-doutor-e-971f3-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T143000
 SUMMARY:Provas de 3o ciclo de estudos conducente ao grau de Doutor em Ciên
  cias Farmacêuticas\, na especialidade de Nutrição e Química dos Alimen
@@ -208,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-direito-licenciada-iara-garanito-nobre-d3fd5-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T143000
 SUMMARY:Provas de Mestrado em Direito - Licenciada Iara Garanito Nóbrega
 LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
@@ -218,23 +246,9 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-iara-gara
  nito-nobre-d3fd5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-beatriz-antunes-tristao-contributo-par-0a0df-2026
- -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T134500
-SUMMARY:Provas de mestrado de Beatriz Antunes Tristão — Contributo para 
- o diagnóstico e mitigação do desperdício alimentar em três estabeleci
- mentos de ensino do concelho de Arganil
-LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
-DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
- s-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-beatriz-antunes-tristao-cont
- ributo-par-0a0df.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-manuela-da-conceicao-oliveira-alves-av-d5566-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T143000
 SUMMARY:Provas de mestrado de Manuela da Conceição Oliveira Alves — Ava
  liação de bem-estar animal em bovinos de leite baseada no protocolo welf
@@ -247,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-ventura-dias-travassos-standar-d6157-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T134500
 SUMMARY:Provas de mestrado de Mariana Ventura Dias Travassos — Standardiz
  ação de Procedimentos de Operação e Suporte à Produção de Padaria e
@@ -259,9 +273,23 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-ventura-dias-travass
  os-standar-d6157.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-salete-santos-ferreira-contributo-para-1743a-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T134500
+SUMMARY:Provas de mestrado de Salete Santos Ferreira — Contributo para o 
+ diagnóstico e mitigação do desperdício alimentar em três estabelecime
+ ntos de ensino do concelho de Arganil
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/estudar/estudantes/provas-publica
+ s-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-salete-santos-ferreira-contr
+ ibuto-para-1743a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-filipe-da-silva-lima-ecografia-d-233fc-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T110000
 SUMMARY:Provas de mestrado de Tiago Filipe da Silva Lima — Ecografia do p
  âncreas em animais de companhia: discussão de cinco casos clínicos – 
@@ -274,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-quem-bive-no-bioterio-uma-viagem-pelo-mundo-dos-ani-27d68-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Workshop: Quem bive no biotério? Uma viagem pelo mundo dos animais
   de laboratório
@@ -284,9 +312,21 @@ URL:https://lykeion.pt/e/workshop-quem-bive-no-bioterio-uma-viagem-pelo-mun
  do-dos-ani-27d68.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-laboratorio-de-fenomenologia-e-etnometodologia-i-0a031-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Conferência: Laboratório de fenomenologia e etnometodologia: Inve
+ stigação em Serviço Social
+LOCATION:Universidade Lusíada
+DESCRIPTION:https://geacc.hypotheses.org/9175
+URL:https://lykeion.pt/e/conferencia-laboratorio-de-fenomenologia-e-etnomet
+ odologia-i-0a031.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-visita-aos-laboratorios-cultura-de-celulas-an-c1bca-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Portas abertas: Visita aos laboratórios: cultura de células anima
  is\, genética e citogenética molecular\, microscopia
@@ -298,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ricardo-jose-vieira-santos-produca-8f388-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de doutoramento de Ricardo José Vieira Santos — Produçã
  o sustentável de tomate de indústria através da aplicação dos princí
@@ -312,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-patricia-sousa-gameiro-monitorizacao-e-410c5-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T134500
 SUMMARY:Provas de mestrado de Patrícia Sousa Gameiro — Monitorização e
   caracterização do circuito da água numa unidade de produção de vinho
@@ -325,7 +365,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-patricia-sousa-gameiro-monit
 END:VEVENT
 BEGIN:VEVENT
 UID:5o-encontro-anual-al4animals-2026-37f9e-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:5o Encontro Anual AL4AnimalS 2026
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -335,7 +375,7 @@ URL:https://lykeion.pt/e/5o-encontro-anual-al4animals-2026-37f9e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:banco-alimentar-50-a-campanha-de-recolha-f6cee-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Banco Alimentar | 50.ª Campanha de Recolha
 LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
@@ -345,9 +385,22 @@ URL:https://lykeion.pt/e/banco-alimentar-50-a-campanha-de-recolha-f6cee.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-o-impacto-dos-sistemas-alimentares-na-acao-clima-66fb5-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T193000
+SUMMARY:Conferência “O Impacto dos sistemas alimentares na ação climá
+ tica – o papel do poder local
+LOCATION:Teatro Municipal António Pinheiro\, Tavira
+DESCRIPTION:https://cm-tavira.pt/site/evento/conferencia-o-impacto-dos-sist
+ emas-alimentares-na-acao-climatica-o-papel-do-poder-local/
+URL:https://lykeion.pt/e/conferencia-o-impacto-dos-sistemas-alimentares-na-
+ acao-clima-66fb5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-xi-eedaa-encontro-de-estudantes-de-doutoramento-81a92-2026-
  11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Conferência: XI EEDAA - Encontro de Estudantes de Doutoramento em 
  Ambiente e Agricultura
@@ -359,7 +412,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-nadia-sofia-oliveira-ribeiro-cabral-di-b74fc-2026
  -11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Nádia Sofia Oliveira Ribeiro Cabral Dias —
   “ Vinculação da Pessoa com Perturbação do Comportamento Alimentar -
@@ -372,7 +425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:13-30-simposio-restauro-da-natureza-em-ecossistemas-floresta-354e9-2026
  -11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T013000
 SUMMARY:Simpósio “Restauro da Natureza em Ecossistemas Florestais
 LOCATION:Instituto Nacional de Investigação Agrária e Veterinária
@@ -384,7 +437,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-as-novas-descobertas-no-vale-do-coa-6f587-2026-11-27@lagend
  a.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Conferência: As novas descobertas no Vale do Côa
 LOCATION:Museu do Côa - Centro Ciência Viva\, Vila Nova de Foz Côa
@@ -394,7 +447,7 @@ URL:https://lykeion.pt/e/conferencia-as-novas-descobertas-no-vale-do-coa-6f
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-10000-well-plate-b7c6b-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Exposição «10000 Well Plate»
 LOCATION:Jardim Botânico Tropical
@@ -403,7 +456,7 @@ URL:https://lykeion.pt/e/exposicao-10000-well-plate-b7c6b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-patologia-de-animais-silvestres-20e5f-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:Masterclass: Patologia de Animais Silvestres
 LOCATION:Instituto Politécnico de Portalegre\, Portalegre
@@ -413,8 +466,18 @@ URL:https://lykeion.pt/e/masterclass-patologia-de-animais-silvestres-20e5f.
  html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-7c314-2026-11-27@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T143000
+SUMMARY:Seminário grupo de investigação história e futuros da economia
+LOCATION:Biblioteca Francisco Pereira de Moura
+DESCRIPTION:https://www.iseg.ulisboa.pt/event/seminario-grupo-de-investigac
+ ao-historia-e-futuros-da-economia/
+URL:https://lykeion.pt/e/seminario-7c314.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sessao-solene-do-ano-letivo-2026-2027-10375-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T170000
 SUMMARY:Sessão Solene do Ano Letivo 2026-2027
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -425,7 +488,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-umdiacom-catarina-prista-27-novembro-2026-11h30-854b7-2026-11-2
  7@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T113000
 SUMMARY:Webinar | UmDiaCom... Catarina Prista | 27 novembro 2026 | 11h30
 LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
@@ -438,7 +501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-a-quimica-dos-alimentos-na-alimentacao-infantil-da-42097-2026-
  11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Workshop: A Química dos Alimentos na Alimentação Infantil: da Fr
  uta ao Puré
@@ -450,7 +513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-ciencia-no-ovo-novos-caminhos-para-reduzir-o-uso-de-4db05-2026
  -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Workshop: Ciência no ovo - novos caminhos para reduzir o uso de an
  imais na investigação
@@ -461,7 +524,7 @@ URL:https://lykeion.pt/e/workshop-ciencia-no-ovo-novos-caminhos-para-reduzi
 END:VEVENT
 BEGIN:VEVENT
 UID:amicos-silvestris-o-que-sao-5c2bb-2026-11-28@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T183000
 SUMMARY:Amicos Silvestris - o que são
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -470,8 +533,28 @@ DESCRIPTION:https://www.ccvfloresta.com/actividades/amicos-silvestris-o-que
 URL:https://lykeion.pt/e/amicos-silvestris-o-que-sao-5c2bb.html
 END:VEVENT
 BEGIN:VEVENT
+UID:cafe-de-ciencia-agricultura-e-biodiversidade-cultivar-o-futu-c7137-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Café de ciência: Agricultura e biodiversidade: cultivar o futuro
+LOCATION:Centro Ciência Viva de Alviela\, Alcanena
+DESCRIPTION:https://alviela.cienciaviva.pt
+URL:https://lykeion.pt/e/cafe-de-ciencia-agricultura-e-biodiversidade-culti
+ var-o-futu-c7137.html
+END:VEVENT
+BEGIN:VEVENT
+UID:palestra-tecnica-cuidar-do-olival-2beb3-2026-11-28@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T090000
+SUMMARY:Palestra Técnica «Cuidar do Olival»
+LOCATION:Central das Artes - Porto de Mós\, Porto de Mós
+DESCRIPTION:https://www.municipio-portodemos.pt/pages/1290?event_id=4596
+URL:https://lykeion.pt/e/palestra-tecnica-cuidar-do-olival-2beb3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:passeio-micologico-de-outono-0da2b-2026-11-28@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T093000
 SUMMARY:Passeio Micológico de Outono
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -480,9 +563,22 @@ DESCRIPTION:https://www.ccvfloresta.com/actividades/saidas-de-campo/624-pas
 URL:https://lykeion.pt/e/passeio-micologico-de-outono-0da2b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-baldios-e-agroecossistemas-tradicao-tecnologia-e-v-cf34d-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T083000
+SUMMARY:Seminário: Baldios e Agroecossistemas: Tradição\, Tecnologia e V
+ alor dos Serviços dos Ecossistemas
+LOCATION:Departamento Biologia e Biotecnologia\, Bragança
+DESCRIPTION:https://esa.unipb.pt/eventos/seminario-baldios-agroecossistemas
+ -tradicao-tecnologia-valor-servicos-ecossistemas/
+URL:https://lykeion.pt/e/seminario-baldios-e-agroecossistemas-tradicao-tecn
+ ologia-e-v-cf34d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:utilizacao-de-metodos-fisicos-e-computacionais-para-a-compre-9bdb9-2026
  -11-29@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:Utilização de métodos físicos e computacionais para a compreens
  ão funcional de novas moléculas
@@ -492,9 +588,21 @@ URL:https://lykeion.pt/e/utilizacao-de-metodos-fisicos-e-computacionais-par
  a-a-compre-9bdb9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:30-11-2026-jornada-internacional-de-estudos-fenomenologicos-018c0-2026-
+ 11-30@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T160000
+SUMMARY:Jornada Internacional de Estudos Fenomenológicos: Fenomenologia e 
+ Política
+LOCATION:Centro de Estudos Clássicos e Humanísticos\, Coimbra
+DESCRIPTION:https://www.uc.pt/cech/agenda/jorn-fenomenologia/
+URL:https://lykeion.pt/e/30-11-2026-jornada-internacional-de-estudos-fenome
+ nologicos-018c0.html
+END:VEVENT
+BEGIN:VEVENT
 UID:med-soil-manifestacao-de-interesse-para-dois-perfis-profissi-c6616-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:MED Soil + | Manifestação de interesse para dois perfis profissio
  nais no futuro Centro de Excelência em Regeneração de Solos Mediterrân
@@ -510,7 +618,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:o-futuro-esta-na-racao-desafios-e-oportunidades-na-industria-dbf11-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T090000
 SUMMARY:O Futuro está na Ração: Desafios e Oportunidades na Indústria d
  os Alimentos Compostos
@@ -523,7 +631,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-daniela-catarina-de-azevedo-costa-aval-451c0-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T143000
 SUMMARY:Provas de mestrado de Daniela Catarina de Azevedo Costa — Avalia
  ção etológica e enriquecimento ambiental de animais em programas de con
@@ -536,7 +644,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-juliana-gouveia-teixeira-isolamento-e-1ca40-2026-
  11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T143000
 SUMMARY:Provas de mestrado de Juliana Gouveia Teixeira — Isolamento e ide
  ntificação de fungos entomopatogénicos e avaliação do seu potencial p
@@ -549,7 +657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
@@ -562,7 +670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-alexandre-domingues-viana-plataforma-d-bf086-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T140000
 SUMMARY:Provas de Mestrado de Alexandre Domingues Viana «Plataforma de Seg
  urança Operacional e Planeamento Tático no Combate a Incêndios Floresta
@@ -576,7 +684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3o-steering-committee-meeting-do-projeto-aquafish0-0-4eab9-2026-12-03@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:3o Steering Committee Meeting do projeto AQUAFISH0.0
 LOCATION:Agencia Regional para o Desenvolvimento da Investigacao Tecnologia
@@ -589,7 +697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-daniel-nobrega-rodrigues-estagio-78acd-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Provas de mestrado de Pedro Daniel Nóbrega Rodrigues — Estágio 
  no Serviço de Saúde Ocupacional da Câmara Municipal de Loures
@@ -602,7 +710,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:congresso-dia-mundial-do-solo-2026-upb-associa-se-a-celebrac-83228-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Congresso: Dia Mundial do Solo 2026 | UPB associa-se à celebraçã
  o nacional
@@ -615,7 +723,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ana-margarida-da-silva-dias-branco-50b64-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de doutoramento de Ana Margarida da Silva Dias Branco Carval
  has — Pesca\, Confecção e Consumo de Enguias como Património Alimenta
@@ -629,7 +737,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-de-jesus-teixeira-ribeiro-avaliac-16e03-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T134500
 SUMMARY:Provas de mestrado de Inês de Jesus Teixeira Ribeiro — Avaliaç
  ão de Métodos de Conservação para Kiwi Verde
@@ -642,7 +750,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-kilsan-da-rosa-antonio-associacao-entr-8b855-2026
  -12-05@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261205T110000
 SUMMARY:Provas de mestrado de Kilsan da Rosa António — Associação entr
  e a microbiota intestinal e o comportamento alimentar descontrolado em mul
@@ -655,7 +763,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:estudante-do-cba-sara-patricia-bettencourt-luna-defende-prov-fb938-2026
  -12-07@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261207T100000
 SUMMARY:Estudante do CBA Sara Patrícia Bettencourt Luna defende provas de 
  doutoramento
@@ -665,9 +773,23 @@ URL:https://lykeion.pt/e/estudante-do-cba-sara-patricia-bettencourt-luna-de
  fende-prov-fb938.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-edvalda-pascoal-mate-analise-do-desemp-61b8d-2026
+ -12-07@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T143000
+SUMMARY:Provas de mestrado de Edvalda Pascoal Mate — Análise do desempen
+ ho energético de um sistema de cogeração numa unidade industrial do set
+ or alimentar
+LOCATION:Instituto Politécnico de Bragança\, Bragança
+DESCRIPTION:https://estig.unipb.pt/estudar/informa%C3%A7%C3%A3o/provas-p%C3
+ %BAblicas-de-mestrado/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-edvalda-pascoal-mate-analise
+ -do-desemp-61b8d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:racas-autoctones-acoreanas-e-a-sua-sustentabilidade-bc1d8-2026-12-07@la
  genda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Raças Autóctones Açoreanas e a sua Sustentabilidade
 LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
@@ -678,7 +800,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ana-rita-soares-mateus-valorizacao-49cec-2026
  -12-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Provas de doutoramento de Ana Rita Soares Mateus — Valorização 
  de subprodutos da indústria alimentar da bacia do Mediterrâneo: desenvol
@@ -690,8 +812,35 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-ana-rita-soares-mateus-v
  alorizacao-49cec.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-diana-isabel-geraldes-domingues-implem-7246a-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Provas de mestrado de Diana Isabel Geraldes Domingues — Implement
+ ação de Sistemas de Segurança Alimentar em Pequenas e Médias Empresas:
+  análise de não conformidades e propostas de melhoria
+LOCATION:Instituto Politécnico de Bragança\, Bragança
+DESCRIPTION:https://esa.unipb.pt/provas-publicas/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-diana-isabel-geraldes-doming
+ ues-implem-7246a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:1st-international-meeting-of-ecology-25th-national-ecology-m-f31a6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:1st International Meeting of Ecology & 25th National Ecology Meetin
+ g
+LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
+ icas\, Vila Real
+DESCRIPTION:https://www.citab.utad.pt/events/1st-international-meeting-of-e
+ cology-25th-national-ecology-meeting
+URL:https://lykeion.pt/e/1st-international-meeting-of-ecology-25th-national
+ -ecology-m-f31a6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-equivet-ai-9a953-2026-12-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T143000
 SUMMARY:Workshop EquiVet.AI
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -701,7 +850,7 @@ URL:https://lykeion.pt/e/workshop-equivet-ai-9a953.html
 END:VEVENT
 BEGIN:VEVENT
 UID:viii-jornadas-do-gtie-a6c40-2026-12-13@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261213
 SUMMARY:VIII Jornadas do GTIE
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -712,7 +861,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-isabel-maria-melo-mendes-passos-o-e44a3-2026-
  12-15@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de doutoramento de Isabel Maria Melo Mendes Passos — O imp
  acte das alterações climáticas nas florestas submediterrâneas de carva
@@ -726,7 +875,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-campus-de-bencanta-iii-es-de4ca-2026
  -12-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T093000
 SUMMARY:Escola Superior Agrária de Coimbra Campus de Bencanta III Escola d
  e Inverno da Agrária de Coimbra – Projeto Farm4Future
@@ -739,7 +888,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-simoes-alves-transicao-na-menopau-a5cad-2026
  -12-19@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261219T110000
 SUMMARY:Provas de mestrado de Inês Simões Alves — Transição na menopa
  usa: caracterização do padrão alimentar
@@ -751,7 +900,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-olhares-para-um-mundo-invisivel-em-busca-dos-microv-f6233-2027
  -01-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270103T100000
 SUMMARY:Workshop "Olhares para um mundo invisível: em busca dos microverte
  brados do...
@@ -764,7 +913,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carolina-maria-henriques-gouveia-compo-863f4-2027
  -03-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270318T110000
 SUMMARY:Provas de mestrado de Carolina Maria Henriques Gouveia — Comporta
  mentos alimentares perturbados em contexto de consulta de nutrição
@@ -776,7 +925,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:inovacao-na-floresta-1a-acao-de-demonstracao-replant-66a79-2027-03-23@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270323
 SUMMARY:Inovação na Floresta: 1a Ação de Demonstração rePLANT
 LOCATION:CoLAB ForestWISE\, Vila Real

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:andre-guerra-2026-11-23-18-00-00-00-18h-ai-in-mathematical-r-90b9e-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:André Guerra\, 2026-11-23/18:00:00+00\, 18h\, AI in Mathematical R
  esearch
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:carlos-caleiro-2026-11-23-17-30-00-00-17h-30m-formalization-90b9e-2026-
  11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Carlos Caleiro\, 2026-11-23/17:30:00+00\, 17h 30m\, Formalization i
  n Lean
@@ -33,7 +33,7 @@ URL:https://lykeion.pt/e/carlos-caleiro-2026-11-23-17-30-00-00-17h-30m-form
 END:VEVENT
 BEGIN:VEVENT
 UID:evaluating-researchers-in-the-ai-era-dbda1-2026-11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T184500
 SUMMARY:Evaluating Researchers in the AI Era.
 LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hugo-tavares-2026-11-23-20-30-00-00-20h-30m-supervising-stud-90b9e-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Hugo Tavares\, 2026-11-23/20:30:00+00\, 20h 30m\, Supervising Stude
  nts in the AI Era
@@ -56,7 +56,7 @@ URL:https://lykeion.pt/e/hugo-tavares-2026-11-23-20-30-00-00-20h-30m-superv
 END:VEVENT
 BEGIN:VEVENT
 UID:mathematics-for-artificial-intelligence-d5f2b-2026-11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T173000
 SUMMARY:Mathematics for Artificial Intelligence
 LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-em-matematica-de-pedro-ricardo-simao-ant-af515-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de agregação em Matemática de Pedro Ricardo Simão Antune
  s — Numerical Analysis of Partial Differential Equations
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-estatistica-e-processos-estocastic-bbd3f-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de doutoramento em Estatística e Processos Estocásticos de
   Felipe Emanoel Barletta Mendes — Bayesian Joint Modeling for Multiple O
@@ -91,9 +91,20 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-em-estatistica-e-processos-
  estocastic-bbd3f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:nova-math-analysis-seminar-e2db8-2026-11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Analysis Seminar
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/nova-math-analys
+ is-seminar
+URL:https://lykeion.pt/e/nova-math-analysis-seminar-e2db8.html
+END:VEVENT
+BEGIN:VEVENT
 UID:anja-svraka-2026-11-24-16-00-00-00-16h-additivity-of-constru-6668f-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Anja Švraka\, 2026-11-24/16:00:00+00\, 16h\, Additivity of constru
  ctible factorization algebras
@@ -105,7 +116,7 @@ URL:https://lykeion.pt/e/anja-svraka-2026-11-24-16-00-00-00-16h-additivity-
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-0f3e9-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T213000
 SUMMARY:Café de Ciência · Centro Ciência Viva de Bragança
 LOCATION:Centro Ciência Viva de Bragança\, Bragança
@@ -116,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:coloquio-tricentenario-da-3a-edicao-dos-philosophiae-natural-66fa2-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T093000
 SUMMARY:Colóquio: Tricentenário da 3a edição dos «Philosophiae Natural
  is Principia Mathematica»\, de Isaac Newton
@@ -129,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-em-matematica-de-pedro-ricardo-simao-ant-8affa-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de agregação em Matemática de Pedro Ricardo Simão Antune
  s — The Method of Fundamental Solutions: recent developments and applica
@@ -143,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aleksander-ivanov-2026-11-25-16-00-00-00-16h-higher-categori-6668f-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Aleksander Ivanov\, 2026-11-25/16:00:00+00\, 16h\, Higher categoric
  al bistellar moves
@@ -154,9 +165,19 @@ URL:https://lykeion.pt/e/aleksander-ivanov-2026-11-25-16-00-00-00-16h-highe
  r-categori-6668f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:16-00-coloquio-coloquio-de-matematica-56e11-2026-11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T160000
+SUMMARY:Colóquio Colóquio de Matemática
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/coloquio-de-matematica-maks
+ on
+URL:https://lykeion.pt/e/16-00-coloquio-coloquio-de-matematica-56e11.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-matheus-e-silva-aleixo-efeitos-do-02a6d-2026-
  11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de doutoramento de Matheus e Silva Aleixo — Efeitos do Tre
  ino Pliométrico na Força e Potência Muscular: Transferência Vertical e
@@ -170,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:research-seminars-in-mathematics-applied-to-economics-and-ma-0bd01-2026
  -11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T113000
 SUMMARY:Research Seminars in Mathematics Applied to Economics and Managemen
  t
@@ -183,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:congresso-resultados-do-epicopd-serao-apresentados-no-dia-629da-2026-11
  -27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:Congresso: Resultados do EpiCOPD serão apresentados no dia
 LOCATION:Sociedade Portuguesa de Pneumologia
@@ -195,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-27-15-00-00-00-15h-mini-course-on-elli-c1345-2026
  -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Herwig Hauser\, 2026-11-27/15:00:00+00\, 15h\, Mini-course on Ellip
  tic Curves: Classical Geometry
@@ -208,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-27-16-00-00-00-16h-mini-course-on-elli-c1345-2026
  -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Herwig Hauser\, 2026-11-27/16:00:00+00\, 16h\, Mini-course on Ellip
  tic Curves: Complex Analysis
@@ -221,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:as-submissoes-para-divulgacao-devem-ser-feitas-ate-ao-dia-30-8b2cb-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:As submissões para divulgação devem ser feitas até ao dia 30 de
   Novembro.
@@ -232,7 +253,7 @@ URL:https://lykeion.pt/e/as-submissoes-para-divulgacao-devem-ser-feitas-ate
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-programa-intestino-9f8e8-2026-11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T120000
 SUMMARY:Conferência – Programa + INTESTINO
 LOCATION:Escola Superior de Saúde da Cruz Vermelha Portuguesa
@@ -242,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-30-09-30-00-00-09h-30m-mini-course-on-c1345-2026-
  11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Herwig Hauser\, 2026-11-30/09:30:00+00\, 09h 30m\, Mini-course on E
  lliptic Curves: Algebraic Geometry
@@ -254,7 +275,7 @@ URL:https://lykeion.pt/e/herwig-hauser-2026-11-30-09-30-00-00-09h-30m-mini-
 END:VEVENT
 BEGIN:VEVENT
 UID:pde-utad-encontro-cientifico-em-matematica-89095-2026-11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T100000
 SUMMARY:PDE@UTAD/ Encontro científico em Matemática
 LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
@@ -264,9 +285,20 @@ URL:https://lykeion.pt/e/pde-utad-encontro-cientifico-em-matematica-89095.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+UID:mini-course-on-elliptic-curves-group-theory-cbf96-2026-12-02@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T103000
+SUMMARY:Mini-course on Elliptic Curves: Group Theory.
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://geolis.math.tecnico.ulisboa.pt/seminars?action=show&id=
+ 7892
+URL:https://lykeion.pt/e/mini-course-on-elliptic-curves-group-theory-cbf96.
+ html
+END:VEVENT
+BEGIN:VEVENT
 UID:herwig-hauser-2026-12-03-10-00-00-00-10h-mini-course-on-elli-c1345-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Herwig Hauser\, 2026-12-03/10:00:00+00\, 10h\, Mini-course on Ellip
  tic Curves: Number Theory
@@ -279,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-pedro-joao-vinagre-costa-modelacao-07ba4-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de doutoramento de Pedro João Vinagre Costa — Modelação
   numérica dos processos de fabrico de anéis de pistão: previsão da rug
@@ -293,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:in-solvens-per-e-peap-passado-presente-e-futuro-b1316-2026-12-10@lagend
  a.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T090000
 SUMMARY:«IN_SOLVENS: PER e PEAP – Passado\, presente e futuro»
 LOCATION:NOVA School of Law
@@ -305,10 +337,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro-18cd9-2026
  -12-14@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T150000
 SUMMARY:Prova de Doutoramento do aluno Rui Orlando Magalhães Ribeiro
-LOCATION:Instituto Superior Técnico
+LOCATION:Departamento de Engenharia Informática (DEI)
 DESCRIPTION:https://dei.tecnico.ulisboa.pt/eventos/provas-de-doutoramento/p
  rova-de-doutoramento-do-aluno-rui-orlando-magalhaes-ribeiro
 URL:https://lykeion.pt/e/prova-de-doutoramento-do-aluno-rui-orlando-magalha
@@ -317,7 +349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-teresa-gabriel-dos-santos-ma-54dd4-2026
  -12-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de doutoramento de Maria Teresa Gabriel dos Santos — Matem
  ática Recreativa de Alcuíno de York e a sua integração na sala de aula
@@ -330,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-em-matematica-aplicada-a-economia-e-a-ge-3851c-2026
  -12-17@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T170000
 SUMMARY:Provas de Agregação em Matemática Aplicada à Economia e à Gest
  ão
@@ -342,7 +374,7 @@ URL:https://lykeion.pt/e/provas-de-agregacao-em-matematica-aplicada-a-econo
 END:VEVENT
 BEGIN:VEVENT
 UID:xix-black-holes-workshop-8cdb5-2026-12-17@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T080000
 SUMMARY:XIX Black Holes Workshop
 LOCATION:LIP - Laboratório de Instrumentação e Física Experimental de P
@@ -353,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:first-lisbon-research-workshop-on-economics-and-econometrics-92dae-2027
  -01-07@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270107
 SUMMARY:First Lisbon Research Workshop on Economics and Econometrics of Edu
  cation
@@ -363,17 +395,8 @@ URL:https://lykeion.pt/e/first-lisbon-research-workshop-on-economics-and-ec
  onometrics-92dae.html
 END:VEVENT
 BEGIN:VEVENT
-UID:symposium-d06c6-2027-01-07@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270107
-SUMMARY:Symposium
-LOCATION:Departamento de Matemática (DM)
-DESCRIPTION:https://symposium.math.tecnico.ulisboa.pt/
-URL:https://lykeion.pt/e/symposium-d06c6.html
-END:VEVENT
-BEGIN:VEVENT
 UID:modelling-nonlinear-time-series-0e849-2027-01-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270110
 SUMMARY:Modelling Nonlinear Time Series
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -382,7 +405,7 @@ URL:https://lykeion.pt/e/modelling-nonlinear-time-series-0e849.html
 END:VEVENT
 BEGIN:VEVENT
 UID:predictability-of-financial-markets-97702-2027-01-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270116
 SUMMARY:Predictability of Financial Markets
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -392,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:winter-school-on-stochastic-dynamics-and-control-in-finance-23482-2027-
  01-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270116
 SUMMARY:Winter School on Stochastic Dynamics and Control in Finance and Eco
  nomics
@@ -404,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:international-trends-in-data-driven-education-policy-scienti-60e70-2027
  -01-17@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270117
 SUMMARY:International Trends in Data-Driven Education Policy: Scientific Re
  search and Education
@@ -416,7 +439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:second-lisbon-research-workshop-on-economics-statistics-and-f3d08-2027-
  01-18@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270118
 SUMMARY:Second Lisbon Research Workshop on Economics\, Statistics and Econo
  metrics of Education
@@ -427,7 +450,7 @@ URL:https://lykeion.pt/e/second-lisbon-research-workshop-on-economics-stati
 END:VEVENT
 BEGIN:VEVENT
 UID:6th-one-day-meeting-on-dynamical-systems-3bb7e-2027-01-19@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270119
 SUMMARY:6th One Day Meeting on Dynamical Systems
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -438,7 +461,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lisbon-economics-and-statistics-of-education-629f6-2027-01-20@lagenda.p
  t
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270120
 SUMMARY:Lisbon Economics and Statistics of Education
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -449,7 +472,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:properties-of-inference-in-dynamic-panel-data-models-34591-2027-01-21@l
  agenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270121
 SUMMARY:Properties of Inference in Dynamic Panel Data Models
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -459,7 +482,7 @@ URL:https://lykeion.pt/e/properties-of-inference-in-dynamic-panel-data-mode
 END:VEVENT
 BEGIN:VEVENT
 UID:combinatorial-game-theory-colloquium-ii-b41af-2027-01-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270125
 SUMMARY:Combinatorial Game Theory Colloquium II
 LOCATION:Centro de Matematica Aplicada à Previsão e Decisão Económica
@@ -469,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fred-talks-conferences-in-psychological-science-58b44-2027-03-07@lagend
  a.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270307T140000
 SUMMARY:Fred Talks | Conferences in Psychological Science
 LOCATION:Faculdade de Psicologia da Universidade de Lisboa

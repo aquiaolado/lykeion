@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:conversas-de-sofa-saude-mental-bem-estar-na-ulisboa-2026-a50c5-2026-11-
- 22@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261122T150000
+ 23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T150000
 SUMMARY:Conversas de sofá – saúde mental & bem-estar na ulisboa 2026
 LOCATION:Faculdade de Belas-Artes da Universidade de Lisboa
 DESCRIPTION:https://www.belasartes.ulisboa.pt/saude-mental-bem-estar-na-uli
@@ -19,7 +19,7 @@ URL:https://lykeion.pt/e/conversas-de-sofa-saude-mental-bem-estar-na-ulisbo
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-bdc4b-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Conferência · Centro de Investigação e de Estudos em Belas-Arte
  s
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vlll-coloquio-expressao-multipla-desenho-aplicado-teoria-e-p-e8f5d-2026
  -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Vlll Colóquio Expressão Múltipla – Desenho Aplicado | Teoria e
   Prática do Desenho
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ll-international-conference-on-set-costume-design-43aed-2026-11-28@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T093000
 SUMMARY:Ll International Conference on Set & Costume Design
 LOCATION:Faculdade de Belas-Artes da Universidade de Lisboa
@@ -51,5 +51,18 @@ DESCRIPTION:https://www.belasartes.ulisboa.pt/ii-jornadas-internacionais-de
  -cenografia-figurinos-chamada-de-trabalhos/
 URL:https://lykeion.pt/e/ll-international-conference-on-set-costume-design-
  43aed.html
+END:VEVENT
+BEGIN:VEVENT
+UID:doutoramento-em-belas-artes-ciencias-da-arte-e-do-patrimonio-8b13f-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T143000
+SUMMARY:Doutoramento em Belas-Artes [Ciências da Arte e do Património] / 
+ Alberto Cláudio Rodrigues Faria
+LOCATION:Faculdade de Belas-Artes da Universidade de Lisboa
+DESCRIPTION:https://www.belasartes.ulisboa.pt/evento/doutoramento-em-belas-
+ artes-ciencias-da-arte-e-do-patrimonio-diana-ramos/
+URL:https://lykeion.pt/e/doutoramento-em-belas-artes-ciencias-da-arte-e-do-
+ patrimonio-8b13f.html
 END:VEVENT
 END:VCALENDAR

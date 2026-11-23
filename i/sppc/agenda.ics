@@ -6,9 +6,21 @@ X-WR-CALNAME:SPPC (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:ifs-talks-the-podcast-on-internal-family-systems-ff321-2026-11-23@lagen
+ da.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:IFS Talks - The Podcast on Internal Family Systems
+LOCATION:Sociedade Portuguesa de Psicoterapias Construtivistas
+DESCRIPTION:https://construtivistas.pt/especializacao/ifs-talks-podcast-int
+ ernal-family-systems
+URL:https://lykeion.pt/e/ifs-talks-the-podcast-on-internal-family-systems-f
+ f321.html
+END:VEVENT
+BEGIN:VEVENT
 UID:circulo-ifs-2o-encontro-de-psicoterapeutas-ifs-de-lingua-por-b23ba-2027
  -01-22@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270122T090000
 SUMMARY:CÍRCULO IFS - 2o Encontro de Psicoterapeutas IFS de Lingua Portugu
  esa - Jan 2027

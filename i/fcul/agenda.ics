@@ -6,9 +6,21 @@ X-WR-CALNAME:Faculdade de Ciências da Universidade de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:ciencias-na-semana-da-ciencia-e-da-tecnologia-2026-060b3-2026-11-23@lag
+ enda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:CIÊNCIAS na Semana da Ciência e da Tecnologia 2026
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/ciencias-na-semana-da-cienc
+ ia-e-da-tecnologia-2026
+URL:https://lykeion.pt/e/ciencias-na-semana-da-ciencia-e-da-tecnologia-2026
+ -060b3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:passeio-cientifico-telhados-solares-de-ciencias-1fcfa-2026-11-23@lagend
  a.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Passeio científico: Telhados solares de CIÊNCIAS
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -17,9 +29,22 @@ URL:https://lykeion.pt/e/passeio-cientifico-telhados-solares-de-ciencias-1f
  cfa.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-catarina-filipa-antunes-bruno-efeitos-f5330-2026-
+ 11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Provas de mestrado de Catarina Filipa Antunes Bruno — Efeitos da 
+ Amora na Integridade da Barreira Intestinal e na Resposta Inflamatória nu
+ m Modelo de Ratinho Humanizado com Obesidade
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-catarina-filipa-antunes-brun
+ o-efeitos-f5330.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-emanuel-verissimo-nunes-confidential-c-9a136-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Emanuel Veríssimo Nunes — Confidential Cha
  nnel to Channel Data Transformation and Sharing in Hyperledger Fabric
@@ -31,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ines-de-schofield-henriques-engineerin-ae8c6-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Inês de Schofield Henriques — Engineering 
  S100 Chaperones to Target Amyloid-β Conformers in Alzheimer ́s Disease
@@ -41,9 +66,21 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-de-schofield-henriques-
  engineerin-ae8c6.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-madalena-correia-de-matos-bicho-rodolf-1375c-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Provas de mestrado de Madalena Correia de Matos Bicho Rodolfo — D
+ ynamics of Trypanosoma congolense cytoadhesion
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-madalena-correia-de-matos-bi
+ cho-rodolf-1375c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-sandro-joel-lourenco-coelho-integracao-6f1b4-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de mestrado de Sandro Joel Lourenço Coelho — Integração
   de um SOAR na infraestrutura de segurança de uma Instituição de Ensino
@@ -53,8 +90,21 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-sandro-joel-lourenco-coelho-
  integracao-6f1b4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-gabriel-david-martins-goncalves-estrel-a6cb2-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Provas de mestrado de Gabriel David Martins Gonçalves Estrela de B
+ arros — Síntese e Caracterização de novos catalisadores sustentáveis
+  derivados de cinzas volantes
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-gabriel-david-martins-goncal
+ ves-estrel-a6cb2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-latex-e6c51-2026-11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Workshop LaTeX
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -62,8 +112,18 @@ DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
 URL:https://lykeion.pt/e/workshop-latex-e6c51.html
 END:VEVENT
 BEGIN:VEVENT
+UID:16-00-coloquio-coloquio-de-matematica-56e11-2026-11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T160000
+SUMMARY:Colóquio Colóquio de Matemática
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/coloquio-de-matematica-maks
+ on
+URL:https://lykeion.pt/e/16-00-coloquio-coloquio-de-matematica-56e11.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-meteoritos-17687-2026-11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Conferência: Meteoritos
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -72,8 +132,83 @@ DESCRIPTION:https://ciencias.ulisboa.pt/sociedade/comunicacao-e-divulgacao-
 URL:https://lykeion.pt/e/conferencia-meteoritos-17687.html
 END:VEVENT
 BEGIN:VEVENT
+UID:earth-systems-seminars-baf3b-2026-11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T130000
+SUMMARY:Earth Systems Seminars
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/earth-systems-seminars-over
+ building
+URL:https://lykeion.pt/e/earth-systems-seminars-baf3b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joao-diogo-domingos-garcia-lama2-md-te-b8ba4-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de João Diogo Domingos Garcia — LAMA2-MD: tes
+ ting rAAVbased gene therapy in mice and patient-derived cell lines
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-diogo-domingos-garcia-l
+ ama2-md-te-b8ba4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-malena-de-fatima-tavares-schweiker-des-dda64-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de Malena de Fátima Tavares Schweiker — Desen
+ volvimento de novos materiais foto-ativos contendo C-dots para aplicaçõe
+ s sustentáveis
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-malena-de-fatima-tavares-sch
+ weiker-des-dda64.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rafael-espinhosa-cepeda-lopes-modulati-69911-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de Rafael Espinhosa Cepeda Lopes — Modulation 
+ of RT Response in Healthy and Cancer Cells through SOD Inhibition and Deve
+ lopment of a Standardized Tool for Clonogenic Assay Quantific
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rafael-espinhosa-cepeda-lope
+ s-modulati-69911.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rui-filipe-duarte-bernardino-caracteri-a2c9c-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de Rui Filipe Duarte Bernardino — "Caracteriza
+ ção mineralógica\, geoquímica e estrutural da zona fissural de Feitais
+  (Aljustrel\, Portugal): influência das estruturas de desligamento
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rui-filipe-duarte-bernardino
+ -caracteri-a2c9c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-de-fisica-exploring-jupiter-s-atmospheric-chemistr-3693e-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T140000
+SUMMARY:Seminário de Física «Exploring Jupiter's Atmospheric Chemistry a
+ nd Aerosol Properties Through Multi-Wavelength Spectroscopy»
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/seminario-de-fisica-explori
+ ng-jupiters-atmospheric-chemistry-and-aerosol-properties-through-multi-wav
+ elength-spectroscopy
+URL:https://lykeion.pt/e/seminario-de-fisica-exploring-jupiter-s-atmospheri
+ c-chemistr-3693e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-soldadura-ff19c-2026-11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Workshop Soldadura
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -83,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-f5533-2026-11-26@lage
  nda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Café de ciência: Ciência no Copo - Entre livros e IA
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -93,7 +228,7 @@ URL:https://lykeion.pt/e/cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-futuro-eficiencia-renovaveis-17687-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Conferência: Futuro = Eficiência + Renováveis?
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -104,7 +239,7 @@ URL:https://lykeion.pt/e/conferencia-futuro-eficiencia-renovaveis-17687.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-scientia-c077c-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T160000
 SUMMARY:Encontro Scientia
 LOCATION:Centro de Ecologia Evolução e Alterações Ambientais
@@ -116,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-sismos-e-erupcoes-vulcanicas-o-nosso-planeta-c536f-2026-
  11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Portas abertas: Sismos e erupções vulcânicas: o nosso planeta é
   dinâmico!
@@ -127,7 +262,7 @@ URL:https://lykeion.pt/e/portas-abertas-sismos-e-erupcoes-vulcanicas-o-noss
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-arduino-b299d-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Workshop de Arduino
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -137,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:homenagem-publica-de-jubilacao-e-ultima-licao-do-professor-p-0fc3d-2026
  -12-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T093000
 SUMMARY:Homenagem pública de jubilação e última lição do Professor Pe
  dro Miranda

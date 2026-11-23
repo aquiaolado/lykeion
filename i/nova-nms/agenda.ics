@@ -6,9 +6,33 @@ X-WR-CALNAME:NOVA Medical School (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-daniela-viana-parente-mestrado-em-inve-e92e3-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Provas de mestrado de Daniela Viana Parente — Mestrado em Investi
+ gação Biomédica
+LOCATION:NOVA Medical School
+DESCRIPTION:https://www.nms.unl.pt/pt-pt/ensino/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-daniela-viana-parente-mestra
+ do-em-inve-e92e3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-daniela-da-silva-alvo-mestrado-em-inve-e900b-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Provas de mestrado de Daniela da Silva Alvo — Mestrado em Investi
+ gação Biomédica
+LOCATION:NOVA Medical School
+DESCRIPTION:https://www.nms.unl.pt/pt-pt/ensino/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-daniela-da-silva-alvo-mestra
+ do-em-inve-e900b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-netto-mestrado-em-nutrica-1f587-2026
  -11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de mestrado de Ana Carolina Netto — Mestrado em Nutrição
   Humana e Metabolismo

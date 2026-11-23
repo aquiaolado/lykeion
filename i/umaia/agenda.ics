@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ana-gabriela-abreu-mendes-mais-pol-820bc-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de doutoramento de Ana Gabriela Abreu Mendes — Mais Polvor
  eira- Solidariedade\, Educação e Empreendedorismo Social CRL
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-isabel-maria-machado-da-silva-burn-01b99-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de doutoramento de Isabel Maria Machado da Silva — Burnout
   e Riscos Psicossociais no setor privado em Portugal: estudo exploratório
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-jonas-francisco-luis-mendes-escola-874e3-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de doutoramento de Jonas Francisco Luís Mendes — Escola B
  ásica e Secundária de Pinheiro
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-ines-andre-teixeira-experien-c8e57-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de doutoramento de Maria Inês André Teixeira — Experiên
  cias Adversas na Infância e Adolescência por Pares e Ansiedade Social em
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-mariana-chaves-silva-fenotipagem-d-77cf7-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de doutoramento de Mariana Chaves Silva — Fenotipagem Digi
  tal e a Predição da Sintomatologia Depressiva: Uma Abordagem Exploratór
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-sandra-da-silva-pereira-o-papel-do-ae517-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Provas de doutoramento de Sandra da Silva Pereira — O Papel dos O
  bjetos Pessoais nos Cuidados Diários de Idosos Institucionalizados: Uma V
@@ -81,9 +81,21 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-sandra-da-silva-pereira-
  o-papel-do-ae517.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-doutoramento-de-ana-sofia-borges-barqueiro-maia-es-bba83-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Provas de doutoramento de Ana Sofia Borges Barqueiro Maia — Estud
+ o Piloto: A Relação Entre o Medo da Dor e a Flexibilidade Cognitiva
+LOCATION:Universidade da Maia\, Maia
+DESCRIPTION:https://www.umaia.pt/pt/ensino/provas-publicas
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-ana-sofia-borges-barquei
+ ro-maia-es-bba83.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-filipa-carvalho-dias-relacao-dos-e-71a44-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de doutoramento de Filipa Carvalho Dias — Relação dos ev
  entos com a imagem da marca Liga Portugal
@@ -95,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-mariana-lourenco-fernandes-atitude-f65a8-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de doutoramento de Mariana Lourenço Fernandes — Atitudes 
  de estudantes em formação inicial de professores em relação à inclus
@@ -104,5 +116,17 @@ LOCATION:Universidade da Maia\, Maia
 DESCRIPTION:https://www.umaia.pt/pt/ensino/provas-publicas
 URL:https://lykeion.pt/e/provas-de-doutoramento-de-mariana-lourenco-fernand
  es-atitude-f65a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-doutoramento-de-vania-sofia-oliveira-silva-colegio-c5699-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Provas de doutoramento de Vânia Sofia Oliveira Silva — Colégio 
+ de Gaia
+LOCATION:Universidade da Maia\, Maia
+DESCRIPTION:https://www.umaia.pt/pt/ensino/provas-publicas
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-vania-sofia-oliveira-sil
+ va-colegio-c5699.html
 END:VEVENT
 END:VCALENDAR

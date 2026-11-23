@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:workshop-semana-arte-e-ciencia-agrupamento-de-escolas-de-vil-343ec-2026
  -11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Workshop: Semana Arte e Ciência - Agrupamento de Escolas de Vila N
  ova da Barquinha
@@ -16,5 +16,16 @@ LOCATION:Centro Ciência Viva de Alviela\, Vila Nova da Barquinha
 DESCRIPTION:https://alviela.cienciaviva.pt/
 URL:https://lykeion.pt/e/workshop-semana-arte-e-ciencia-agrupamento-de-esco
  las-de-vil-343ec.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cafe-de-ciencia-agricultura-e-biodiversidade-cultivar-o-futu-c7137-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Café de ciência: Agricultura e biodiversidade: cultivar o futuro
+LOCATION:Centro Ciência Viva de Alviela\, Alcanena
+DESCRIPTION:https://alviela.cienciaviva.pt
+URL:https://lykeion.pt/e/cafe-de-ciencia-agricultura-e-biodiversidade-culti
+ var-o-futu-c7137.html
 END:VEVENT
 END:VCALENDAR

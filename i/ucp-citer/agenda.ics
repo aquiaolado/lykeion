@@ -6,9 +6,21 @@ X-WR-CALNAME:UCP CITER (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:encontro-apresentacao-de-um-atlas-da-religiao-em-portugal-bc64c-2026-11
+ -23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Encontro: Apresentação de «Um Atlas da Religião em Portugal»
+LOCATION:Centro de Investigação em Teologia e Estudos da Religião
+DESCRIPTION:https://citer.ucp.pt/events/apresentacao-de-um-atlas-da-religia
+ o-em-portugal
+URL:https://lykeion.pt/e/encontro-apresentacao-de-um-atlas-da-religiao-em-p
+ ortugal-bc64c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:1a-sessao-do-ciclo-internacional-de-conferencias-cidade-e-mi-ab695-2027
  -03-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270310
 SUMMARY:1a sessão do Ciclo Internacional de Conferências “Cidade e Mito
  : do passado ao presente
@@ -17,5 +29,18 @@ DESCRIPTION:https://citer.ucp.pt/events/1a-sessao-do-ciclo-internacional-de
  -conferencias-cidade-e-mito-do-passado-ao-presente
 URL:https://lykeion.pt/e/1a-sessao-do-ciclo-internacional-de-conferencias-c
  idade-e-mi-ab695.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-desporto-sociabilidades-e-comunidades-d84b3-2027-
+ 04-20@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270420
+SUMMARY:Apresentação do livro\, “Desporto\, Sociabilidades e Comunidade
+ s” e evocação da memória de Manuel Sérgio
+LOCATION:Centro de Investigação em Teologia e Estudos da Religião
+DESCRIPTION:https://citer.ucp.pt/events/apresentacao-do-livro-desporto-soci
+ abilidades-e-comunidades-e-evocacao-da-memoria-de-manuel
+URL:https://lykeion.pt/e/apresentacao-do-livro-desporto-sociabilidades-e-co
+ munidades-d84b3.html
 END:VEVENT
 END:VCALENDAR

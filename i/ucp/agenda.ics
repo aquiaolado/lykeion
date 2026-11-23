@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:catolica-working-paper-series-framing-supranational-and-euro-d3ed4-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T124500
 SUMMARY:Católica Working Paper Series | Framing Supranational and European
   Union Regulatory Framework Governing Online Hate Speech
@@ -19,9 +19,57 @@ URL:https://lykeion.pt/e/catolica-working-paper-series-framing-supranationa
  l-and-euro-d3ed4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:center-for-interdisciplinary-research-in-health-c8fa8-2026-11-23@lagend
+ a.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Center for Interdisciplinary Research in Health
+LOCATION:Centro de Investigação Interdisciplinar em Saúde
+DESCRIPTION:https://fcse.lisboa.ucp.pt/news-events/eventos?f%5B0%5D=field_c
+ ategories%3A16
+URL:https://lykeion.pt/e/center-for-interdisciplinary-research-in-health-c8
+ fa8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-apresentacao-de-um-atlas-da-religiao-em-portugal-bc64c-2026-11
+ -23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Encontro: Apresentação de «Um Atlas da Religião em Portugal»
+LOCATION:Centro de Investigação em Teologia e Estudos da Religião
+DESCRIPTION:https://citer.ucp.pt/events/apresentacao-de-um-atlas-da-religia
+ o-em-portugal
+URL:https://lykeion.pt/e/encontro-apresentacao-de-um-atlas-da-religiao-em-p
+ ortugal-bc64c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-manuela-silva-uma-vida-muitas-causas-2bbe1-2026-11-23@lagenda
+ .pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Exposição: Manuela Silva: uma vida\, muitas causas
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://cehr.ucp.pt/events/manuela-silva-uma-vida-muitas-causas
+ -mostra-documental
+URL:https://lykeion.pt/e/exposicao-manuela-silva-uma-vida-muitas-causas-2bb
+ e1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-salterio-os-150-salmos-da-biblia-66411-2026-11-23@l
+ agenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T183000
+SUMMARY:Lançamento do livro «Saltério. Os 150 salmos da bíblia»
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/lancamento-do-livro-salterio-o
+ s-150-salmos-da-biblia
+URL:https://lykeion.pt/e/lancamento-do-livro-salterio-os-150-salmos-da-bibl
+ ia-66411.html
+END:VEVENT
+BEGIN:VEVENT
 UID:post-doc-lounge-between-academia-and-practice-86c57-2026-11-23@lagenda.
  pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Post Doc lounge | Between Academia and Practice
 LOCATION:Centro de Estudos de Comunicação e Cultura
@@ -33,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-em-enfermagem-desenvolvimento-da-compa-0b631-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T143000
 SUMMARY:Prova de Doutoramento em Enfermagem: «Desenvolvimento da Compaixã
  o na Formação Inicial em Enfermagem»
@@ -44,9 +92,22 @@ URL:https://lykeion.pt/e/prova-de-doutoramento-em-enfermagem-desenvolviment
  o-da-compa-0b631.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-89f8c-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T183000
+SUMMARY:Lançamento do livro: «A Morte medicamente assistida à luz da Con
+ stituição»
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/lancamento-do-livro-morte-medi
+ camente-assistida-luz-da-constituicao
+URL:https://lykeion.pt/e/lancamento-do-livro-a-morte-medicamente-assistida-
+ a-luz-da-c-89f8c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-giovanna-tourinho-giorgi-gestao-e-cons-1c023-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Provas de mestrado de Giovanna Tourinho Giorgi — Gestão e Conser
  vação Preventiva da Coleção de Figurinos do Círculo de Cultura Teatra
@@ -60,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-nuria-goncalves-niz-colecao-de-armas-e-4e0ed-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T150000
 SUMMARY:Provas de mestrado de Núria Gonçalves Niz — Coleção de armas 
  em reserva do Museu de Etnografia e História da Póvoa do Varzim: propost
@@ -74,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-online-como-progredir-nos-rankings-da-competitivid-57775-2026
  -11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Seminário Online | Como progredir nos rankings da competitividade 
  fiscal?
@@ -85,8 +146,32 @@ URL:https://lykeion.pt/e/seminario-online-como-progredir-nos-rankings-da-co
  mpetitivid-57775.html
 END:VEVENT
 BEGIN:VEVENT
+UID:catolica-porto-sbe-career-day-for-executives-9f244-2026-11-25@lagenda.p
+ t
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T153000
+SUMMARY:Católica Porto SBE Career Day for Executives
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/catolica-porto-sbe-career-day-exec
+ utives
+URL:https://lykeion.pt/e/catolica-porto-sbe-career-day-for-executives-9f244
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:faculdade-de-ciencias-da-saude-e-enfermagem-porto-9928a-2026-11-25@lage
+ nda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Faculdade de Ciências da Saúde e Enfermagem (Porto)
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/events?f%5B0%5D=ucp_events_visible_categor
+ ies%3A1086
+URL:https://lykeion.pt/e/faculdade-de-ciencias-da-saude-e-enfermagem-porto-
+ 9928a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:apresentacao-do-livro-trabalho-s-work-s-88d96-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Apresentação do livro “Trabalho s / Work s"
 LOCATION:Universidade Católica Portuguesa\, Porto
@@ -96,7 +181,7 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-trabalho-s-work-s-88d96.html
 END:VEVENT
 BEGIN:VEVENT
 UID:catolica-porto-sbe-international-open-day-7d52f-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T160000
 SUMMARY:Católica Porto SBE International Open Day
 LOCATION:Universidade Católica Portuguesa
@@ -106,8 +191,54 @@ URL:https://lykeion.pt/e/catolica-porto-sbe-international-open-day-7d52f.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:catolica-porto-school-of-business-and-economics-dbba7-2026-11-26@lagend
+ a.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Católica Porto School of Business and Economics
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/events?f%5B0%5D=ucp_events_visible_categor
+ ies%3A1201
+URL:https://lykeion.pt/e/catolica-porto-school-of-business-and-economics-db
+ ba7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:international-study-week-2027-webinar-e632f-2026-11-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T163000
+SUMMARY:International Study Week 2027 | Webinar
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/international-study-week-2027-webi
+ nar
+URL:https://lykeion.pt/e/international-study-week-2027-webinar-e632f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:master-s-degree-exams-in-neuropsychology-3778d-2026-11-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T150000
+SUMMARY:Master's Degree Exams in Neuropsychology
+LOCATION:Centro de Investigação Interdisciplinar em Saúde
+DESCRIPTION:https://fcse.lisboa.ucp.pt/events/masters-degree-exams-neuropsy
+ chology-55651
+URL:https://lykeion.pt/e/master-s-degree-exams-in-neuropsychology-3778d.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:reliquias-e-lugares-sagrados-patrimonio-religioso-publicos-m-8d418-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T093000
+SUMMARY:Relíquias e Lugares Sagrados: Património Religioso\, Públicos\, 
+ Mediação Cultural
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/reliquias-e-lugares-sagrados-patri
+ monio-religioso-publicos-mediacao-cultural
+URL:https://lykeion.pt/e/reliquias-e-lugares-sagrados-patrimonio-religioso-
+ publicos-m-8d418.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-a379b-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T100000
 SUMMARY:Seminário · Universidade Católica Portuguesa
 LOCATION:Universidade Católica Portuguesa\, Braga
@@ -116,7 +247,7 @@ URL:https://lykeion.pt/e/seminario-a379b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-68899-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T183000
 SUMMARY:Aula aberta gerald Schneider
 LOCATION:Universidade Católica Portuguesa
@@ -124,9 +255,22 @@ DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/aula-aberta-gerald-schneider
 URL:https://lykeion.pt/e/aula-aberta-68899.html
 END:VEVENT
 BEGIN:VEVENT
+UID:final-registration-exams-for-the-doctoral-thesis-proposal-in-e1d3c-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T110000
+SUMMARY:Final Registration Exams for the Doctoral Thesis Proposal in Nursin
+ g
+LOCATION:Centro de Investigação Interdisciplinar em Saúde
+DESCRIPTION:https://fcse.lisboa.ucp.pt/events/final-registration-exams-doct
+ oral-thesis-proposal-nursing-55791
+URL:https://lykeion.pt/e/final-registration-exams-for-the-doctoral-thesis-p
+ roposal-in-e1d3c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:international-seminar-professor-gerald-schneider-0e743-2026-11-27@lagen
  da.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:International Seminar | Professor Gerald Schneider
 LOCATION:Centro de Investigação do Instituto de Estudos Políticos
@@ -137,7 +281,7 @@ URL:https://lykeion.pt/e/international-seminar-professor-gerald-schneider-0
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-jan-ijas-7aed3-2026-11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T170000
 SUMMARY:Masterclass Jan Ijäs
 LOCATION:Universidade Católica Portuguesa\, Porto
@@ -146,9 +290,23 @@ DESCRIPTION:https://artes.porto.ucp.pt/pt-pt/eventos/masterclass-jan-ijas-3
 URL:https://lykeion.pt/e/masterclass-jan-ijas-7aed3.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-gabriel-freire-de-sousa-vasconcelos-en-a7ee7-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T150000
+SUMMARY:Provas de mestrado de Gabriel Freire de Sousa Vasconcelos — Entre
+  duas temporalidades: a pintura de São João Evangelista e os desafios é
+ ticos na remoção de uma repolicromia tardia
+LOCATION:Universidade Católica Portuguesa\, Porto
+DESCRIPTION:https://artes.porto.ucp.pt/pt-pt/noticias/provas-publicas-escol
+ a-das-artes-novembro-2026-31806
+URL:https://lykeion.pt/e/provas-de-mestrado-de-gabriel-freire-de-sousa-vasc
+ oncelos-en-a7ee7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:feedback-na-ciencia-como-o-feedback-desenvolve-a-sua-comunic-eb54d-2026
  -11-30@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T140000
 SUMMARY:Feedback na Ciência: Como o Feedback Desenvolve a Sua Comunicaçã
  o Científica
@@ -161,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-os-modelos-de-organizacao-territorial-do-estado-25a54-2026-
  12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T163000
 SUMMARY:Aula Aberta - Os modelos de organização territorial do Estado: Po
  rtugal e Espanha em perspetiva comparada
@@ -174,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-the-rome-lectures-1944-father-marie-benoit-and-t-035e8-2026
  -12-02@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Conferência «The Rome Lectures\, 1944: Father Marie-Benoît and t
  he Path to Jewish-Christian Rapprochement»
@@ -185,22 +343,22 @@ URL:https://lykeion.pt/e/conferencia-the-rome-lectures-1944-father-marie-be
  noit-and-t-035e8.html
 END:VEVENT
 BEGIN:VEVENT
-UID:50-anos-de-constitucionalismo-democratico-memorias-principio-e8be6-2026
+UID:50-anos-de-constitucionalismo-democratico-memorias-principio-a8fb7-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261203
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T100000
 SUMMARY:50 Anos de Constitucionalismo Democrático: Memórias\, Princípios
   e Desafios
-LOCATION:Centro de Estudos e Investigação em Direito
-DESCRIPTION:https://ceid.fd.ucp.pt/events/50-anos-de-constitucionalismo-dem
- ocratico-memorias-principios-e-desafios
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/50-anos-de-constitucionalismo-demo
+ cratico-memorias-principios-e-desafios
 URL:https://lykeion.pt/e/50-anos-de-constitucionalismo-democratico-memorias
- -principio-e8be6.html
+ -principio-a8fb7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-doutoramento-em-enfermagem-efetividade-de-um-progra-ecbd3-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Prova de Doutoramento em Enfermagem: «Efetividade de um Programa d
  e Exercício Físico na Pessoa Submetida a Cirurgia Cardíaca»
@@ -213,7 +371,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-neves-azevedo-relacao-entre-pa-dfd55-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T100000
 SUMMARY:Provas de mestrado de Mariana Neves Azevedo — Relação entre Par
  tner Phubbing e Intimidade nas Relações Românticas em Adultos Portugues
@@ -226,7 +384,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-do-seminario-de-investigadores-arquivos-romanos-diplo-a6deb-2026
  -12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Sessão do seminário de investigadores «Arquivos Romanos: Diploma
  cia Vaticana e Direitos Humanos»
@@ -239,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-julio-miranda-deus-o-outro-dos-h-5b8de-2026
  -12-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T143000
 SUMMARY:Provas de mestrado de Pedro Júlio Miranda — «(Deus)\, o Outro d
  os homens». A alteridade na construção da identidade em Adolphe Gesché
@@ -251,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruno-miguel-rodrigues-pereira-ribeiro-d6f48-2026
  -12-07@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Provas de mestrado de Bruno Miguel Rodrigues Pereira Ribeiro — EM
  RC como espaço de diálogo entre a Religião e a Ciência. A sua importâ
@@ -263,7 +421,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-bruno-miguel-rodrigues-perei
 END:VEVENT
 BEGIN:VEVENT
 UID:catolica-talks-direito-comercial-0c940-2026-12-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Católica Talks | Direito Comercial
 LOCATION:Centro de Estudos e Investigação em Direito
@@ -273,7 +431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminars-sessao-de-apresentacao-relatorio-da-negociacao-cole-16001-2026
  -12-11@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T153000
 SUMMARY:Seminars: Sessão de Apresentação | Relatório da Negociação Co
  letiva de 2025
@@ -286,7 +444,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-transformar-conhecimento-formacao-cuidado-futuro-9d47e-2026-12
  -15@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261215T103000
 SUMMARY:Open Day “TRANSFORMAR: Conhecimento · Formação · Cuidado · F
  uturo
@@ -299,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-nelson-cesar-pinto-silva-entre-geracoe-aad53-2027
  -01-04@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270104
 SUMMARY:Provas de mestrado de Nelson César Pinto Silva — Entre Geraçõe
  s: o contributo dos avós e das pessoas mais velhas para a formação inte
@@ -312,7 +470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ludemira-fernandes-vieira-da-silveira-5520b-2027-
  01-07@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270107
 SUMMARY:Provas de mestrado de Ludemira Fernandes Vieira da Silveira — A a
  rte de falar de Jesus à luz da Exortação Apostólica Pós-Sinodal Chris
@@ -325,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10-a-edicao-do-industrial-marketing-management-imm-summit-856f4-2027-01
  -12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270112
 SUMMARY:10.ª edição do Industrial Marketing Management (IMM) Summit
 LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
@@ -337,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7th-lisbon-winter-school-for-the-study-of-communication-medi-45937-2027
  -01-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270112
 SUMMARY:7th Lisbon Winter School for the Study of Communication: Media and 
  Dignity
@@ -349,7 +507,7 @@ URL:https://lykeion.pt/e/7th-lisbon-winter-school-for-the-study-of-communic
 END:VEVENT
 BEGIN:VEVENT
 UID:cedh-learning-coffee-with-viviane-borges-511ea-2027-02-12@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270212
 SUMMARY:CEDH Learning Coffee with Viviane Borges
 LOCATION:Centre for Studies in Human Development\, Porto
@@ -361,7 +519,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1a-sessao-do-ciclo-internacional-de-conferencias-cidade-e-mi-ab695-2027
  -03-10@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270310
 SUMMARY:1a sessão do Ciclo Internacional de Conferências “Cidade e Mito
  : do passado ao presente
@@ -373,7 +531,7 @@ URL:https://lykeion.pt/e/1a-sessao-do-ciclo-internacional-de-conferencias-c
 END:VEVENT
 BEGIN:VEVENT
 UID:fep-ucp-international-week-2026-c5871-2027-03-16@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270316
 SUMMARY:FEP-UCP International Week 2026
 LOCATION:Centre for Studies in Human Development\, Porto
@@ -382,8 +540,21 @@ DESCRIPTION:https://cedh.fep.porto.ucp.pt/events/fep-ucp-international-week
 URL:https://lykeion.pt/e/fep-ucp-international-week-2026-c5871.html
 END:VEVENT
 BEGIN:VEVENT
+UID:apresentacao-do-livro-desporto-sociabilidades-e-comunidades-d84b3-2027-
+ 04-20@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270420
+SUMMARY:Apresentação do livro\, “Desporto\, Sociabilidades e Comunidade
+ s” e evocação da memória de Manuel Sérgio
+LOCATION:Centro de Investigação em Teologia e Estudos da Religião
+DESCRIPTION:https://citer.ucp.pt/events/apresentacao-do-livro-desporto-soci
+ abilidades-e-comunidades-e-evocacao-da-memoria-de-manuel
+URL:https://lykeion.pt/e/apresentacao-do-livro-desporto-sociabilidades-e-co
+ munidades-d84b3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:open-day-03e2f-2027-04-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20270424T083000
 SUMMARY:Open Day · Universidade Católica Portuguesa
 LOCATION:Universidade Católica Portuguesa\, Sintra

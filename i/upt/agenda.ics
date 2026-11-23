@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:aula-aberta-enfrentamentos-a-violencia-domestica-em-perspect-186c6-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T180000
 SUMMARY:Aula Aberta “Enfrentamentos a Violência Doméstica em Perspectiv
  a Comparada entre a América Latina e a União Europeia
@@ -20,8 +20,43 @@ URL:https://lykeion.pt/e/aula-aberta-enfrentamentos-a-violencia-domestica-e
  m-perspect-186c6.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-publica-de-mestrado-0a0a8-2026-11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-481/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-0a0a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joana-alexandra-barbosa-ribeiro-o-segu-f6c78-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T083000
+SUMMARY:Provas de mestrado de Joana Alexandra Barbosa Ribeiro — O segundo
+  paciente?!: perspetivas dos cuidadores familiares sobre as necessidades d
+ e suporte no contexto do cancro colorretal
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joana-alexandra-barbosa-ribe
+ iro-o-segu-f6c78.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-marta-alexandra-amaro-esteves-literaci-4c994-2026
+ -11-23@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261123T083000
+SUMMARY:Provas de mestrado de Marta Alexandra Amaro Esteves — Literacia e
+ m cancro e atitudes e comportamentos de saúde: um estudo transversal em e
+ studantes do ensino superior
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-marta-alexandra-amaro-esteve
+ s-literaci-4c994.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-ingaming-vai-as-escolas-5c957-2026-11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Workshop “InGaming Vai às Escolas
 LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
@@ -29,21 +64,56 @@ DESCRIPTION:https://www.upt.pt/agenda/workshop-ingaming/
 URL:https://lykeion.pt/e/workshop-ingaming-vai-as-escolas-5c957.html
 END:VEVENT
 BEGIN:VEVENT
-UID:debate-sobre-homicidio-nas-relacoes-de-intimidade-4fca3-2026-11-25@lage
- nda.pt
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T100000
-SUMMARY:Debate sobre homicídio nas relações de intimidade
+UID:prova-publica-de-mestrado-48ddc-2026-11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-483/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-48ddc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-joao-pedro-gomes-barros-intervencoes-d-bf43d-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T083000
+SUMMARY:Provas de mestrado de João Pedro Gomes Barros — Intervenções d
+ igitais para a reabilitação da memória prospetiva: scoping review e des
+ envolvimento de um protocolo Delphi para orientar a sua aplicação…
 LOCATION:Universidade Portucalense\, Porto
-DESCRIPTION:https://www.upt.pt/debate-sobre-homicidio-nas-relacoes-de-intim
- idade/?utm_source=rss&#038\,utm_medium=rss&#038\,utm_campaign=debate-sobre
- -homicidio-nas-relacoes-de-intimidade
-URL:https://lykeion.pt/e/debate-sobre-homicidio-nas-relacoes-de-intimidade-
- 4fca3.html
+DESCRIPTION:https://www.upt.pt/agenda/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-joao-pedro-gomes-barros-inte
+ rvencoes-d-bf43d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-marta-alexandra-ferraria-fontes-body-a-85ac3-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T083000
+SUMMARY:Provas de mestrado de Marta Alexandra Ferraria Fontes — Body appr
+ eciation among dancers: the role of perfectionistic self-presentation of b
+ ody image\, self-criticism and self-reassurance
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-marta-alexandra-ferraria-fon
+ tes-body-a-85ac3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-tatiana-ferreira-casto-estudo-de-valid-e105d-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T083000
+SUMMARY:Provas de mestrado de Tatiana Ferreira Casto — Estudo de validaç
+ ão da escala de comentários em relação ao corpo em adolescentes portug
+ ueses
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/
+URL:https://lykeion.pt/e/provas-de-mestrado-de-tatiana-ferreira-casto-estud
+ o-de-valid-e105d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-deloitte-a37cd-2026-11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T093000
 SUMMARY:Open Day” Deloitte
 LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
@@ -52,7 +122,7 @@ URL:https://lykeion.pt/e/open-day-deloitte-a37cd.html
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-concorrencia-casos-reais-2ef47-2026-11-25@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T163000
 SUMMARY:Webinar “Concorrência: Casos Reais
 LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
@@ -62,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-as-funcoes-do-contrato-e-as-consequencias-da-sua-d6744-2026
  -11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Aula Aberta “As Funções do Contrato e as Consequências da sua 
  Invalidade
@@ -73,8 +143,17 @@ URL:https://lykeion.pt/e/aula-aberta-as-funcoes-do-contrato-e-as-consequenc
  ias-da-sua-d6744.html
 END:VEVENT
 BEGIN:VEVENT
+UID:prova-publica-de-mestrado-f84e9-2026-11-26@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Prova Pública de Mestrado
+LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
+DESCRIPTION:https://www.upt.pt/agenda/prova-publica-de-mestrado-486/
+URL:https://lykeion.pt/e/prova-publica-de-mestrado-f84e9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-de-investigacao-do-remit-31afe-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Seminário de Investigação do REMIT
 LOCATION:CINTESIS.UPT\, Porto
@@ -83,7 +162,7 @@ URL:https://lykeion.pt/e/seminario-de-investigacao-do-remit-31afe.html
 END:VEVENT
 BEGIN:VEVENT
 UID:talk-ai-and-human-judgement-0aeb0-2026-11-26@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T111000
 SUMMARY:Talk “AI and Human Judgement
 LOCATION:Departamento de Arquitetura e Multimédia Gallaecia\, Porto
@@ -93,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-desenvolvimento-da-linguagem-sinais-de-alerta-e-e2bd8-2026-
  12-03@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T160000
 SUMMARY:Aula Aberta “Desenvolvimento da Linguagem\, Sinais de Alerta e In
  tervenção Interdisciplinar em Contextos Socioeducativos
@@ -102,5 +181,17 @@ DESCRIPTION:https://www.upt.pt/agenda/desenvolvimento-da-linguagem-sinais-d
  e-alerta-e-intervencao-interdisciplinar-em-contextos-socioeducativos/
 URL:https://lykeion.pt/e/aula-aberta-desenvolvimento-da-linguagem-sinais-de
  -alerta-e-e2bd8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:maria-lucia-amaral-debate-direitos-humanos-2df4b-2026-12-10@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T143000
+SUMMARY:Maria Lúcia Amaral debate Direitos Humanos
+LOCATION:Universidade Portucalense\, Porto
+DESCRIPTION:https://www.upt.pt/noticias/maria-lucia-amaral-debate-direitos-
+ humanos/?utm_source=rss&#038\,utm_medium=rss&#038\,utm_campaign=maria-luci
+ a-amaral-debate-direitos-humanos
+URL:https://lykeion.pt/e/maria-lucia-amaral-debate-direitos-humanos-2df4b.h
+ tml
 END:VEVENT
 END:VCALENDAR

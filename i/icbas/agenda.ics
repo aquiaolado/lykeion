@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-oncologia-3fbff-2026-11-23
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T140000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Oncologia
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mestre-ana-beatriz-marques-de-sousa-provas-de-doutoramento-e-8cc45-2026
  -11-23@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261123T141500
 SUMMARY:Provas de Doutoramento em Biotecnologia Molecular e Celular Aplicad
  a às Ciências da Saúde: Ana Beatriz Marques de Sousa
@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-medicina-legal-5beea-2026-
  11-24@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T153000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Medicina Legal
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-oncologia-fa37d-2026-11-24
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T100000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Oncologia
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -56,9 +56,21 @@ URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-oncol
  ogia-fa37d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-medicina-legal-16078-2026-
+ 11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T140000
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Medicina Legal
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84672
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-medic
+ ina-legal-16078.html
+END:VEVENT
+BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-oncologia-d14da-2026-11-25
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T100000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Oncologia
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -68,9 +80,23 @@ URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-oncol
  ogia-d14da.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminars-umib-2026-unconventional-bioenergetic-and-signaling-c088a-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T131500
+SUMMARY:Seminars UMIB 2026 – Unconventional Bioenergetic and Signaling Pa
+ thways in Human Spermatozoa Dates : 25/11/2026 More Info
+LOCATION:Unidade Multidisciplinar de Investigação Biomédica - UMIB\, Por
+ to
+DESCRIPTION:https://umib.icbas.up.pt/events/seminars-umib-2026-unconvention
+ al-bioenergetic-and-signaling-pathways-in-human-spermatozoa/
+URL:https://lykeion.pt/e/seminars-umib-2026-unconventional-bioenergetic-and
+ -signaling-c088a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-oncologia-e7f94-2026-11-26
  @lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T140000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Oncologia
 LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
@@ -82,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-toxicologia-e-c-4655e-2026
  -11-27@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T113000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Toxicologia e Conta
  minação Ambientais
@@ -95,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-em-linha-de-conta-com-abel-salazar-1909-1940-ate-2-f9267-2026
  -11-29@lagenda.pt
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T150000
 SUMMARY:Exposição «Em Linha de Conta com Abel Salazar (1909-1940)»\, at
  é 29 de novembro na Fundação Eng. António de Almeida
@@ -105,5 +131,17 @@ DESCRIPTION:https://www.up.pt/portal/pt/cmasalazar/o-que-vai-acontecer/expo
  si%C3%A7%C3%B5es/exposi%C3%A7%C3%B5es-tempor%C3%A1rias/
 URL:https://lykeion.pt/e/exposicao-em-linha-de-conta-com-abel-salazar-1909-
  1940-ate-2-f9267.html
+END:VEVENT
+BEGIN:VEVENT
+UID:defesa-publica-de-dissertacao-do-mestrado-em-medicina-legal-d7763-2026-
+ 11-30@lagenda.pt
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Defesa Pública de Dissertação do Mestrado em Medicina Legal
+LOCATION:ICBAS – Instituto de Ciências Biomédicas Abel Salazar\, Porto
+DESCRIPTION:https://sigarra.up.pt/icbas/pt/noticias_geral.ver_noticia?P_NR=
+ 84673
+URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-medic
+ ina-legal-d7763.html
 END:VEVENT
 END:VCALENDAR
