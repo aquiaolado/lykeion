@@ -6,56 +6,9 @@ X-WR-CALNAME:Universidade do Minho (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:aula-aberta-fa185-2026-11-23@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T180000
-SUMMARY:Aula aberta human paleobiology cases from pleistocene and late preh
- istoric Portugal
-LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
-DESCRIPTION:https://lab2pt.net/open-classes/aula-aberta-human-paleobiology-
- cases-from-pleistocene-and-late-prehistoric-portugal
-URL:https://lykeion.pt/e/aula-aberta-fa185.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ciclo-de-conferencias-o-que-diz-o-direito-civil-974d7-2026-11-23@lagend
- a.pt
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Ciclo de conferências «O que diz o Direito Civil?»
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-event
- o.aspx?Codigo=68370
-URL:https://lykeion.pt/e/ciclo-de-conferencias-o-que-diz-o-direito-civil-97
- 4d7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:passeio-cientifico-passear-com-ciencia-observar-com-conscien-47384-2026
- -11-23@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Passeio científico: Passear com ciência\, observar com consciênc
- ia
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.ie.uminho.pt/pt
-URL:https://lykeion.pt/e/passeio-cientifico-passear-com-ciencia-observar-co
- m-conscien-47384.html
-END:VEVENT
-BEGIN:VEVENT
-UID:workshop-avaliar-para-aprender-com-ia-feedback-e-colaboracao-47384-2026
- -11-23@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Workshop: Avaliar para aprender com IA: feedback e colaboração en
- tre pares
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.ie.uminho.pt/pt
-URL:https://lykeion.pt/e/workshop-avaliar-para-aprender-com-ia-feedback-e-c
- olaboracao-47384.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-i-seminario-de-investigadores-visitantes-do-jusg-f4743-2026
  -11-24@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T110000
 SUMMARY:Conferência: I Seminário de Investigadores Visitantes do JusGov
 LOCATION:Universidade do Minho\, Braga
@@ -64,9 +17,21 @@ URL:https://lykeion.pt/e/conferencia-i-seminario-de-investigadores-visitant
  es-do-jusg-f4743.html
 END:VEVENT
 BEGIN:VEVENT
+UID:passeio-cientifico-passear-com-ciencia-observar-com-conscien-47384-2026
+ -11-24@lagenda.pt
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Passeio científico: Passear com ciência\, observar com consciênc
+ ia
+LOCATION:Universidade do Minho\, Braga
+DESCRIPTION:https://www.ie.uminho.pt/pt
+URL:https://lykeion.pt/e/passeio-cientifico-passear-com-ciencia-observar-co
+ m-conscien-47384.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-jornalistas-policias-e-magistrados-comunicar-melhor-f4743-2026
  -11-24@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T110000
 SUMMARY:Workshop 'Jornalistas\, Polícias e Magistrados: comunicar melhor p
  ara informar melhor'
@@ -78,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:debate-projeto-fipes-licoes-internacionais-da-formacao-inici-cd219-2026
  -11-25@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Debate: Projeto FIPES: Lições internacionais da formação inicia
  l de professores
@@ -89,7 +54,7 @@ URL:https://lykeion.pt/e/debate-projeto-fipes-licoes-internacionais-da-form
 END:VEVENT
 BEGIN:VEVENT
 UID:gta-triple-seminar-28241-2026-11-25@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T093000
 SUMMARY:GTA Triple Seminar
 LOCATION:Universidade do Minho\, Braga
@@ -99,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-cafe-ciencia-avaliacao-em-ebulicao-e03c9-2026-11-26@lag
  enda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Café de ciência: Café ciência: 'Avaliação em ebulição'
 LOCATION:Universidade do Minho\, Braga
@@ -110,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mesa-redonda-o-lugar-da-colonizacao-e-da-descolonizacao-nos-ac5bc-2026-
  11-26@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T130000
 SUMMARY:Mesa-redonda «O lugar da colonização e da descolonização nos m
  anuais escolares: uma desconstrução das narrativas»
@@ -123,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-margarida-martins-de-carvalho-rela-de068-2026
  -11-28@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Provas de mestrado de Ana Margarida Martins de Carvalho — Relató
  rio de estágio: “Impacte da Não Monitorização do Volume Residual Gá
@@ -137,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-gomes-arantes-relatorio-de-es-02773-2026
  -11-28@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Provas de mestrado de Ana Rita Gomes Arantes — Relatório de est
  ágio: “Promoção do sono da pessoa em situação crítica internada nu
@@ -150,7 +115,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-rita-gomes-arantes-relat
 END:VEVENT
 BEGIN:VEVENT
 UID:o-cipsi-convida-tim-kaiser-cancelado-9efb4-2026-11-29@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T121500
 SUMMARY:O Cipsi convida... Tim Kaiser | CANCELADO
 LOCATION:Centro de Investigação em Psicologia\, Braga
@@ -160,7 +125,7 @@ URL:https://lykeion.pt/e/o-cipsi-convida-tim-kaiser-cancelado-9efb4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:vi-coloquio-do-atlantico-2af8b-2026-11-29@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:VI Colóquio do Atlântico
 LOCATION:Centro de Estudos Humanísticos\, Ponta Delgada
@@ -170,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deadline-november-30-2026-at-23-59-lisbon-time-8cb16-2026-11-30@lagenda
  .pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Deadline: November 30\, 2026\, at 23:59 (Lisbon time).
 LOCATION:Centro de Investigação em Justiça e Governação\, Braga
@@ -181,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prazo-30-de-novembro-de-2026-as-23-59-hora-de-lisboa-8cb16-2026-11-30@l
  agenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Prazo: 30 de novembro de 2026\, às 23:59 (hora de Lisboa).
 LOCATION:Centro de Investigação em Justiça e Governação\, Braga
@@ -191,7 +156,7 @@ URL:https://lykeion.pt/e/prazo-30-de-novembro-de-2026-as-23-59-hora-de-lisb
 END:VEVENT
 BEGIN:VEVENT
 UID:submissions-deadline-november-30-2026-bf2f9-2026-11-30@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Submissions deadline: November 30\, 2026
 LOCATION:Centro de Investigação em Justiça e Governação\, Braga
@@ -201,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a-volta-do-forno-ceramica-lugar-e-memoria-em-guimaraes-05c61-2026-11-30
  @lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T180000
 SUMMARY:À Volta do Forno: Cerâmica\, Lugar e Memória em Guimarães
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
@@ -213,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:noticia-olhar-a-veiga-pensar-no-futuro-exposicao-e-tertulia-9e372-2026-
  12-02@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Notícia Olhar a Veiga. Pensar no Futuro | Exposição e Tertúlia 
  sobre a Veiga de Creixomil 2 a 4 de dezembro de 2026 | Associação Conví
@@ -227,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-consuelo-micheli-immune-pathways-u-73cf0-2026
  -12-02@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de doutoramento de Consuelo Micheli — Immune pathways unde
  rlying resistance or susceptibility to Mycobacterium tuberculosis infectio
@@ -240,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ana-isabel-oliveira-da-silva-novel-8e144-2026
  -12-04@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de doutoramento de Ana Isabel Oliveira da Silva — Novel th
  erapeutic approaches for bladder cancer
@@ -252,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-andreia-sofia-mota-mendes-relatorio-de-2d3aa-2026
  -12-09@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de mestrado de Andreia Sofia Mota Mendes — Relatório de e
  stágio: “Abordagem à Pessoa em Situação Crítica pelo Enfermeiro no 
@@ -266,7 +231,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-cristina-vieira-de-melo-relatori-53147-2026
  -12-09@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de mestrado de Joana Cristina Vieira de Melo — Relatório 
  de estágio: “O desmame ventilatório do doente crítico sob ventilaçã
@@ -280,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mesa-redonda-o-lugar-das-mulheres-na-historia-seculos-xvixx-2ed85-2026-
  12-10@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T180000
 SUMMARY:Mesa-redonda «O Lugar das Mulheres na História (séculos XVI–XX
  )»
@@ -293,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-jose-manuel-miranda-alves-descentr-12dad-2026
  -12-11@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Provas de doutoramento de José Manuel Miranda Alves — Descentral
  ização e as Respostas Governamentais em Contexto de Catástrofes
@@ -306,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-of-biological-engineering-annual-meeting-2026-strateg-1716b-2026
  -12-14@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T100000
 SUMMARY:Centre of Biological Engineering Annual Meeting 2026 – Strategic 
  Reflection\, Community and Science
@@ -318,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-giuliano-guidi-braga-european-parl-42862-2026
  -12-14@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Provas de doutoramento de Giuliano Guidi Braga — European Parliam
  ent’s Democracy Promotion in South America
@@ -331,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-carmo-franco-ribeiro-o-processo-68ea1-2026-
  12-15@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de mestrado de Maria Carmo Franco Ribeiro — O processo con
  strutivo dos sistemas defensivos urbanos medievais portugueses: O caso da 
@@ -345,7 +310,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ana-vanessa-costa-rodrigues-da-sil-d7c33-2026
  -12-16@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de doutoramento de Ana Vanessa Costa Rodrigues da Silva — 
  Functional hypothalamic amenorrhea and polycystic ovary syndrome: a comple
@@ -358,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-ate-18-de-dezembro-de-2026-10h00-18h00-museu-eaad-be94e-2026-
  12-18@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T180000
 SUMMARY:Exposição Até 18 de dezembro de 2026 | 10h00-18h00 | Museu EAAD\
  , Campus de Azurém\, Guimarães
@@ -370,7 +335,7 @@ URL:https://lykeion.pt/e/exposicao-ate-18-de-dezembro-de-2026-10h00-18h00-m
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-be94e-2026-12-18@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T180000
 SUMMARY:Exposição ensaios de tectónica digital
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
@@ -381,7 +346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-da-educacao-especialidade-48641-2026
  -12-18@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Provas de Doutoramento em Ciências da Educação\, especialidade d
  e Supervisão Pedagógica
@@ -394,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:i-am-dissatisfied-with-my-energy-supply-contract-can-i-switc-979a9-2026
  -12-19@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261219T110000
 SUMMARY:I am dissatisfied with my energy supply contract. Can I switch supp
  liers? Am I required to have a fixed-term contract?
@@ -408,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-ciencias-da-educacao-especialidade-743a1-2026
  -12-21@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261221
 SUMMARY:Provas de Doutoramento em Ciências da Educação\, especialidade d
  e Desenvolvimento Curricular
@@ -421,7 +386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:chamada-de-trabalhos-para-a-revista-psiax-10-b1c3b-2026-12-31@lagenda.p
  t
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Chamada de trabalhos para a Revista PSIAX#10
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
@@ -433,7 +398,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-estudos-da-crianca-na-especialidad-31333-2027
  -01-07@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270107
 SUMMARY:Provas de Doutoramento em Estudos da Criança\, na Especialidade de
   Educação Especial
@@ -446,7 +411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rogerio-augusto-fernandes-domingues-o-09cbb-2027-
  01-14@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270114
 SUMMARY:Provas de mestrado de Rogério Augusto Fernandes Domingues — O pa
  pel da equipa de apoio e ligação à unidade de cuidados intensivos na tr
@@ -460,7 +425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vii-conferencia-rumos-da-sociologia-do-conhecimento-ciencia-ddf60-2027-
  01-14@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270114
 SUMMARY:VII Conferência Rumos da Sociologia do Conhecimento\, Ciência e T
  ecnologia
@@ -473,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-estudos-da-crianca-na-especialidad-60a6e-2027
  -01-15@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270115
 SUMMARY:Provas de Doutoramento em Estudos da Criança\, na Especialidade de
   Saúde Infantil e Educação Física
@@ -485,7 +450,7 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-em-estudos-da-crianca-na-es
 END:VEVENT
 BEGIN:VEVENT
 UID:ars-em-salas-de-aula-b778c-2027-01-24@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270124
 SUMMARY:ARS em salas de aula
 LOCATION:Centro IDEA\, Braga
@@ -495,7 +460,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-fernanda-eugenia-puga-de-magalhaes-a-e-5116d-2027
  -02-01@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270201
 SUMMARY:Provas de mestrado de Fernanda Eugénia Puga de Magalhães — A ev
  olução do sistema viário em Braga: desde a cidade romana à cidade mode
@@ -508,7 +473,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-fernanda-eugenia-puga-de-mag
 END:VEVENT
 BEGIN:VEVENT
 UID:short-training-course-in-sports-law-3c685-2027-02-06@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20270206T180000
 SUMMARY:Short Training Course in Sports Law
 LOCATION:Centro de Investigação em Justiça e Governação\, Braga
@@ -519,7 +484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-berta-oliveira-monteiro-relatorio-9bb2d-2027-
  02-08@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270208
 SUMMARY:Provas de mestrado de Ana Berta Oliveira Monteiro — Relatório de
   estágio: «Transporte Intra-hospitalar da Pessoa em Situação Crítica:
@@ -533,7 +498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-marlene-ramos-hipolito-relatorio-de-es-3d7d6-2027
  -02-08@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270208
 SUMMARY:Provas de mestrado de Marlene Ramos Hipólito — Relatório de est
  ágio: «Abordagem do doente crítico com Hemorragia Digestiva: Cuidados d
@@ -547,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-marta-sonia-loureiro-neto-relatorio-de-f7151-2027
  -02-16@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270216
 SUMMARY:Provas de mestrado de Marta Sónia Loureiro Neto — Relatório de 
  estágio: «Implementação da técnica ISBAR num serviço de urgência»
@@ -560,7 +525,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-nuno-alexandre-brandao-nogueira-relato-6e960-2027
  -02-16@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270216
 SUMMARY:Provas de mestrado de Nuno Alexandre Brandão Nogueira — Relatór
  io de estágio: «Intervenções autónomas de enfermagem na pessoa em sit
@@ -574,7 +539,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carla-cristina-maiato-amorim-competenc-f02b3-2027
  -02-22@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270222
 SUMMARY:Provas de mestrado de Carla Cristina Maiato Amorim — Competência
   Emocional do Enfermeiro do Serviço de Urgência no Cuidado à Pessoa em 
@@ -588,7 +553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-internacional-shifts-in-world-geopolitics-cooperat-6721e-2027
  -02-25@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20270225T140000
 SUMMARY:Seminário internacional “Shifts in world geopolitics: cooperatio
  n and competition in the Atlantic
@@ -601,7 +566,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-miguel-dos-santos-gomes-relatori-b2f93-2027
  -02-27@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270227
 SUMMARY:Provas de mestrado de Pedro Miguel dos Santos Gomes — Relatório 
  de estágio: "Prevenção da Síndrome de Pós-Internamento de Cuidados In
@@ -615,7 +580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sara-manuela-santos-ribeiro-relatorio-69932-2027-
  02-28@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270228
 SUMMARY:Provas de mestrado de Sara Manuela Santos Ribeiro — Relatório de
   estágio: "A importância da formação dos enfermeiros na gestão de ala
@@ -629,7 +594,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:roboparty-2026-de-25-a-27-de-marco-ha-uma-enorme-surpresa-co-6cf5d-2027
  -03-25@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270325
 SUMMARY:RoboParty 2026: de 25 a 27 de março. Há uma enorme surpresa com r
  obôs humanoides

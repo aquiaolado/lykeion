@@ -6,31 +6,10 @@ X-WR-CALNAME:Lusíada (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1-as-jornadas-pessoas-e-cultura-b58cf-2026-11-23@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:1.as Jornadas — Pessoas e cultura...
-LOCATION:Universidade Lusíada
-DESCRIPTION:https://news.ulusiada.pt/Home/Detalhe/Detalhes/1as-jornadas-pes
- soas-e-cultura-organizacional
-URL:https://lykeion.pt/e/1-as-jornadas-pessoas-e-cultura-b58cf.html
-END:VEVENT
-BEGIN:VEVENT
-UID:aula-aberta-2-transicoes-demograficas-f07a4-2026-11-23@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Aula aberta #2 — Transições demográficas:...
-LOCATION:Universidade Lusíada
-DESCRIPTION:https://news.ulusiada.pt/Home/Detalhe/Detalhes/aula-aberta-2-tr
- ansi231245es-demogr225ficas-desafios-e-oportunidades-para-o-servi231o-soci
- al-professor-paulo-teodoro-de-matos
-URL:https://lykeion.pt/e/aula-aberta-2-transicoes-demograficas-f07a4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conferencia-encontro-ubi-ciencia-e-inovacao-2026-23fda-2026-11-23@lagen
+UID:conferencia-encontro-ubi-ciencia-e-inovacao-2026-23fda-2026-11-24@lagen
  da.pt
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
 SUMMARY:Conferência: Encontro UBI Ciência e Inovação 2026
 LOCATION:Universidade Lusíada\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Noticia/8393
@@ -39,9 +18,9 @@ URL:https://lykeion.pt/e/conferencia-encontro-ubi-ciencia-e-inovacao-2026-2
 END:VEVENT
 BEGIN:VEVENT
 UID:faculdade-de-engenharias-e-tecnologias-organiza-semana-da-ci-f4eb8-2026
- -11-23@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T005000
+ -11-24@lagenda.pt
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T005000
 SUMMARY:Faculdade de Engenharias e Tecnologias organiza Semana da Ciência 
  e Tecnologia 2026
 LOCATION:Universidade Lusíada\, Vila Nova de Famalicão
@@ -52,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-em-seguranca-e-justica-hezbollah-d-094a0-2026
  -11-24@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Prova pública de mestrado em Segurança e Justiça: «Hezbollah: d
  as origens à atualidade» / Lic.a Maria Rita dos Santos Silva Cardona Cru
@@ -67,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-rita-dos-santos-silva-cardona-cr-f7cbc-2026
  -11-24@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Provas de mestrado de Maria Rita dos Santos Silva Cardona Cruz
 LOCATION:Universidade Lusíada
@@ -79,7 +58,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-rita-dos-santos-silva-
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-academia-dr-bc578-2026-11-25@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T100000
 SUMMARY:Aula Aberta «academia Dr»
 LOCATION:Universidade Lusíada\, Porto
@@ -89,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-inteligencia-artificial-democracia-e-o-estado-de-d2c52-2026
  -11-25@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Conferência — Inteligência artificial democracia e o estado de 
  direito. (2026-11-25 10:00 - 10:50)
@@ -102,8 +81,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-laboratorio-de-fenomenologia-e-etnometodologia-i-0a031-2026
  -11-25@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T110000
 SUMMARY:Conferência: Laboratório de fenomenologia e etnometodologia: Inve
  stigação em Serviço Social
 LOCATION:Universidade Lusíada
@@ -114,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-aplicacoes-da-psicologia-na-promocao-do-bem-esta-6a066-2026
  -11-26@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T090000
 SUMMARY:Aula Aberta «aplicaçoes da Psicologia na Promoção do Bem-estar 
  em Organizações»
@@ -125,7 +104,7 @@ URL:https://lykeion.pt/e/aula-aberta-aplicacoes-da-psicologia-na-promocao-d
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-em-26451-2026-11-27@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Prova pública de mestrado em...
 LOCATION:Universidade Lusíada
@@ -137,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-margarida-ribeiro-costa-c960e-2026-11-27@lage
  nda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Ana Margarida Ribeiro Costa: Lic.ª Ana Marga
  rida Ribeiro Costa
@@ -152,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-isabel-tenreira-sanches-7130a-2026-11-27@
  lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Beatriz Isabel Tenreira Sanches: Lic.ª Beatr
  iz Isabel Tenreira Sanches
@@ -166,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-margarida-fortes-pequito-e4cfb-2026-11-27@lagenda
  .pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Margarida Fortes Pequito: Lic.ª Margarida Fo
  rtes Pequito
@@ -180,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-raquel-branco-pereira-paisana-cipriano-2768c-2026
  -11-27@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Raquel Branco Pereira Paisana Cipriano
 LOCATION:Universidade Lusíada
@@ -193,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-elisabete-da-rocha-primo-64d8e-2026-12-09@lagenda
  .pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de mestrado de Elisabete da Rocha Primo: Lic.ª Elisabete da
   Rocha Primo
@@ -208,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-antunes-miranda-caiado-silva-a9bf5-2026-12-
  14@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Provas de mestrado de Diogo Antunes Miranda Caiado Silva
 LOCATION:Universidade Lusíada
@@ -222,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-emilia-isabel-martins-loureiro-da-80a4a-2027-
  01-20@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270120
 SUMMARY:Provas de doutoramento de Emília Isabel Martins Loureiro da Silva
 LOCATION:Universidade Lusíada

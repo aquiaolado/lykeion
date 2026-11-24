@@ -126,7 +126,8 @@ function enviar_email($para, $assunto, $texto, $responder = '', $nome = 'asfeira
       $cmd('EHLO ' . (explode('@', $de)[1] ?? 'asfeiras.pt'), 250);
     }
     $cmd('AUTH LOGIN', 334); $cmd(base64_encode($utilizador), 334); $cmd(base64_encode($pass), 235);
-    $cmd("MAIL FROM:<$de>", 250); $cmd("RCPT TO:<$para>", [250, 251]); if ($cc !== '') { try { $cmd("RCPT TO:<$cc>", [250, 251]); } catch (Throwable $e) {} } // uma cópia recusada não impede o envio $cmd('DATA', 354);
+    $cmd("MAIL FROM:<$de>", 250); $cmd("RCPT TO:<$para>", [250, 251]); if ($cc !== '') { try { $cmd("RCPT TO:<$cc>", [250, 251]); } catch (Throwable $e) {} } // uma cópia recusada não impede o envio
+    $cmd('DATA', 354); // 23 nov. 2026: esteve preso no comentário acima desde 21 nov. e nenhum email SMTP seguia
     $msg = 'Date: ' . date('r') . "\r\nMessage-ID: <" . bin2hex(random_bytes(12)) . "@" . (explode('@', $de)[1] ?? 'asfeiras.pt') . ">\r\nTo: <$para>\r\nSubject: $as\r\n$cab\r\n$corpo";
     $msg = str_replace(["\r\n", "\r"], "\n", $msg);
     $msg = preg_replace('/^\./m', '..', $msg);

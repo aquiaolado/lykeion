@@ -6,19 +6,19 @@ X-WR-CALNAME:Centro Ciência Viva de Lagos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:semana-da-ciencia-tecnologia-a4528-2026-11-23@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T100000
-SUMMARY:Semana da Ciência & Tecnologia
+UID:clube-da-ciencia-75173-2026-11-24@lagenda.pt
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T100000
+SUMMARY:Clube da Ciência
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
-DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
- ia-|-23-a-29-novembro
-URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-a4528.html
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16162-clube-da-ciênc
+ ia_16162
+URL:https://lykeion.pt/e/clube-da-ciencia-75173.html
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-nacional-da-cultura-cientifica-24-novembro-10h00-centro-d83aa-2026-
  11-24@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T100000
 SUMMARY:Dia Nacional da Cultura Científica 24 novembro 10h00 Centro Ciênc
  ia Viva de Lagos
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-entrada-gratuita-no-centro-ciencia-viva-de-la-2cf14-2026
  -11-24@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261124T180000
 SUMMARY:Portas abertas: Entrada gratuita no Centro Ciência Viva de Lagos!
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
@@ -41,9 +41,19 @@ URL:https://lykeion.pt/e/portas-abertas-entrada-gratuita-no-centro-ciencia-
  viva-de-la-2cf14.html
 END:VEVENT
 BEGIN:VEVENT
+UID:semana-da-ciencia-tecnologia-a4528-2026-11-24@lagenda.pt
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T100000
+SUMMARY:Semana da Ciência & Tecnologia
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
+ ia-|-23-a-29-novembro
+URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-a4528.html
+END:VEVENT
+BEGIN:VEVENT
 UID:passeio-cientifico-a-vida-no-barranco-do-demo-festival-de-ca-2cf14-2026
  -11-28@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: A vida no Barranco do Demo - Festival de Camin
  hadas de Monchique
@@ -56,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:passeio-cientifico-as-plantas-das-caldas-festival-de-caminha-2cf14-2026
  -11-28@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: As Plantas das Caldas - Festival de Caminhadas
   de Monchique
@@ -69,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-em-familia-29-novembro-10h30-centro-ciencia-viva-de-30b0c-2026-
  11-29@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T103000
 SUMMARY:Ciência Em Família 29 novembro 10h30 Centro Ciência Viva de Lago
  s
@@ -82,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:workshop-do-digital-ao-3d-da-vida-aos-fosseis-2cf14-2026-11-29@lagenda.
  pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T180000
 SUMMARY:Workshop: Do digital ao 3D – Dá vida aos fósseis
 LOCATION:Centro Ciência Viva de Lagos\, Lagos
@@ -94,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:historias-vivas-aqui-estamos-nos-de-oliver-jeffers-13-dezemb-9e2a2-2026
  -12-13@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261213T103000
 SUMMARY:Histórias Vivas | Aqui Estamos Nós\, de Oliver Jeffers 13 dezembr
  o 10h30 Centro Ciência Viva de Lagos
@@ -107,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:astronomia-no-centro-ciencia-viva-de-lagos-18-dezembro-19h00-3ca98-2026
  -12-18@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T190000
 SUMMARY:Astronomia No Centro Ciência Viva de Lagos 18 dezembro 19h00 Centr
  o Ciência Viva de Lagos
@@ -116,5 +126,18 @@ DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16345-astronomia-no-c
  entro-ciência-viva-de-lagos_16345
 URL:https://lykeion.pt/e/astronomia-no-centro-ciencia-viva-de-lagos-18-deze
  mbro-19h00-3ca98.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ferias-com-ciencia-oficinas-de-natal-18-30-dez-centro-cienci-15577-2026
+ -12-18@lagenda.pt
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T093000
+SUMMARY:Férias Com Ciência | Oficinas de Natal 18 - 30 dez. * Centro Ciê
+ ncia Viva de Lagos
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16344-férias-com-ci
+ ência-oficinas-de-natal
+URL:https://lykeion.pt/e/ferias-com-ciencia-oficinas-de-natal-18-30-dez-cen
+ tro-cienci-15577.html
 END:VEVENT
 END:VCALENDAR

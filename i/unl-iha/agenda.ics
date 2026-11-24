@@ -6,31 +6,9 @@ X-WR-CALNAME:UNL IHA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-23@lagenda
- .pt
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T170000
-SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
- o-do-coracao-de-ana-janeiro/
-URL:https://lykeion.pt/e/exposicao-damao-fogo-do-coracao-de-ana-janeiro-308
- 38.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-queridas-amigas-af305-2026-11-23@lagenda.pt
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=Europe/Lisbon:20261123T180000
-SUMMARY:Exposição | Queridas Amigas
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-queridas-
- amigas/
-URL:https://lykeion.pt/e/exposicao-queridas-amigas-af305.html
-END:VEVENT
-BEGIN:VEVENT
 UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-24@
  lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Congresso | Uncertain Landscapes 2: Beyond the resources
 LOCATION:Instituto de Historia da Arte
@@ -40,9 +18,31 @@ URL:https://lykeion.pt/e/congresso-uncertain-landscapes-2-beyond-the-resour
  ces-be2f2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-24@lagenda
+ .pt
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T170000
+SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
+ o-do-coracao-de-ana-janeiro/
+URL:https://lykeion.pt/e/exposicao-damao-fogo-do-coracao-de-ana-janeiro-308
+ 38.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-queridas-amigas-af305-2026-11-24@lagenda.pt
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Lisbon:20261124T180000
+SUMMARY:Exposição | Queridas Amigas
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-queridas-
+ amigas/
+URL:https://lykeion.pt/e/exposicao-queridas-amigas-af305.html
+END:VEVENT
+BEGIN:VEVENT
 UID:encontros-nas-margens-do-possivel-um-grupo-de-discussao-de-f-1f07a-2026
  -12-09@lagenda.pt
-DTSTAMP:20261123T000000Z
+DTSTAMP:20261124T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T183000
 SUMMARY:Encontros: Nas Margens do Possível: um grupo de discussão de fic
  ção científica e fabulações críticas e especulativas
