@@ -6,57 +6,9 @@ X-WR-CALNAME:Agricultura e Floresta (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:continue-reading-exposicao-viagens-com-ciencia-o-olhar-dos-i-8501f-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Continue reading... : Exposição “Viagens com Ciência: O Olhar 
- dos Investigadores
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
- r-dos-investigadores/
-URL:https://lykeion.pt/e/continue-reading-exposicao-viagens-com-ciencia-o-o
- lhar-dos-i-8501f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:floresta-uma-experiencia-de-raiz-8dd00-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Floresta: Uma Experiência de Raiz
-LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
- ões
-DESCRIPTION:https://www.agendalx.pt/events/event/floresta-uma-experiencia-d
- e-raiz/
-URL:https://lykeion.pt/e/floresta-uma-experiencia-de-raiz-8dd00.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-open-day-raiz-venham-conhecer-a-ciencia-e-ino-afef2-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Portas abertas: Open Day RAIZ – Venham conhecer a Ciência e Inov
- ação que sustenta uma Bioeconomia de base Florestal
-LOCATION:Raiz - Instituto De Investigação Da Floresta E Papel\, Aveiro
-DESCRIPTION:https://youtu.be/r2Dvnn39Kck
-URL:https://lykeion.pt/e/portas-abertas-open-day-raiz-venham-conhecer-a-cie
- ncia-e-ino-afef2.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-direito-licenciada-iara-garanito-nobre-d3fd5-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T143000
-SUMMARY:Provas de Mestrado em Direito - Licenciada Iara Garanito Nóbrega
-LOCATION:Faculdade de Direito da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/fdup/pt/noticias_geral.ver_noticia?P_NR=5
- 7434
-URL:https://lykeion.pt/e/provas-de-mestrado-em-direito-licenciada-iara-gara
- nito-nobre-d3fd5.html
-END:VEVENT
-BEGIN:VEVENT
 UID:conferencia-laboratorio-de-fenomenologia-e-etnometodologia-i-0a031-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T110000
 SUMMARY:Conferência: Laboratório de fenomenologia e etnometodologia: Inve
  stigação em Serviço Social
@@ -66,9 +18,56 @@ URL:https://lykeion.pt/e/conferencia-laboratorio-de-fenomenologia-e-etnomet
  odologia-i-0a031.html
 END:VEVENT
 BEGIN:VEVENT
+UID:esac-auditorio-principal-bloco-e-forum-agro-florestal-2026-0220b-2026-1
+ 1-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:ESAC - Auditório principal (Bloco E) Fórum Agro-Florestal 2026
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/eventos/forum-agro-florestal-2026
+ /
+URL:https://lykeion.pt/e/esac-auditorio-principal-bloco-e-forum-agro-flores
+ tal-2026-0220b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-viagens-com-ciencia-o-olhar-dos-investigadores-8501f-2026-11-
+ 25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Exposição “Viagens com Ciência: O Olhar dos Investigadores
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
+ r-dos-investigadores/
+URL:https://lykeion.pt/e/exposicao-viagens-com-ciencia-o-olhar-dos-investig
+ adores-8501f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:floresta-uma-experiencia-de-raiz-8dd00-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Floresta: Uma Experiência de Raiz
+LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
+ ões
+DESCRIPTION:https://www.agendalx.pt/events/event/floresta-uma-experiencia-d
+ e-raiz/
+URL:https://lykeion.pt/e/floresta-uma-experiencia-de-raiz-8dd00.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-open-day-raiz-venham-conhecer-a-ciencia-e-ino-afef2-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Portas abertas: Open Day RAIZ – Venham conhecer a Ciência e Inov
+ ação que sustenta uma Bioeconomia de base Florestal
+LOCATION:Raiz - Instituto De Investigação Da Floresta E Papel\, Aveiro
+DESCRIPTION:https://youtu.be/r2Dvnn39Kck
+URL:https://lykeion.pt/e/portas-abertas-open-day-raiz-venham-conhecer-a-cie
+ ncia-e-ino-afef2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-ricardo-jose-vieira-santos-produca-8f388-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de doutoramento de Ricardo José Vieira Santos — Produçã
  o sustentável de tomate de indústria através da aplicação dos princí
@@ -80,9 +79,22 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-ricardo-jose-vieira-sant
  os-produca-8f388.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sala-f3-fit-24-nov-b20-3-25-nov-palestras-erasmus-talks-nove-f51b8-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T110000
+SUMMARY:Sala F3.Fit (24 nov.) B20.3 (25 nov.) Palestras Erasmus Talks – n
+ ovembro 2026
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/eventos/palestras-erasmus-talks-n
+ ovembro-2026/
+URL:https://lykeion.pt/e/sala-f3-fit-24-nov-b20-3-25-nov-palestras-erasmus-
+ talks-nove-f51b8.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-xi-eedaa-encontro-de-estudantes-de-doutoramento-81a92-2026-
  11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Conferência: XI EEDAA - Encontro de Estudantes de Doutoramento em 
  Ambiente e Agricultura
@@ -94,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:13-30-simposio-restauro-da-natureza-em-ecossistemas-floresta-354e9-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T013000
 SUMMARY:Simpósio “Restauro da Natureza em Ecossistemas Florestais
 LOCATION:Instituto Nacional de Investigação Agrária e Veterinária
@@ -106,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-as-novas-descobertas-no-vale-do-coa-6f587-2026-11-27@lagend
  a.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Conferência: As novas descobertas no Vale do Côa
 LOCATION:Museu do Côa - Centro Ciência Viva\, Vila Nova de Foz Côa
@@ -115,8 +127,21 @@ URL:https://lykeion.pt/e/conferencia-as-novas-descobertas-no-vale-do-coa-6f
  587.html
 END:VEVENT
 BEGIN:VEVENT
+UID:escola-superior-agraria-de-coimbra-semana-da-ciencia-e-da-te-359ba-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Escola Superior Agrária de Coimbra Semana da Ciência e da Tecnolo
+ gia 2026 na ESAC
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/eventos/semana-da-ciencia-e-da-te
+ cnologia-2026-na-esac/
+URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-semana-da-cienc
+ ia-e-da-te-359ba.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-10000-well-plate-b7c6b-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Exposição «10000 Well Plate»
 LOCATION:Jardim Botânico Tropical
@@ -125,7 +150,7 @@ URL:https://lykeion.pt/e/exposicao-10000-well-plate-b7c6b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-7c314-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T143000
 SUMMARY:Seminário grupo de investigação história e futuros da economia
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -135,7 +160,7 @@ URL:https://lykeion.pt/e/seminario-7c314.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sessao-solene-do-ano-letivo-2026-2027-10375-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T170000
 SUMMARY:Sessão Solene do Ano Letivo 2026-2027
 LOCATION:Biblioteca Francisco Pereira de Moura
@@ -146,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-umdiacom-catarina-prista-27-novembro-2026-11h30-854b7-2026-11-2
  7@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T113000
 SUMMARY:Webinar | UmDiaCom... Catarina Prista | 27 novembro 2026 | 11h30
 LOCATION:Centro de Biotecnologia Agrícola e Agro Alimentar do Alentejo\, B
@@ -158,7 +183,7 @@ URL:https://lykeion.pt/e/webinar-umdiacom-catarina-prista-27-novembro-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:amicos-silvestris-o-que-sao-5c2bb-2026-11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T183000
 SUMMARY:Amicos Silvestris - o que são
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -169,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-agricultura-e-biodiversidade-cultivar-o-futu-c7137-2026
  -11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Café de ciência: Agricultura e biodiversidade: cultivar o futuro
 LOCATION:Centro Ciência Viva de Alviela\, Alcanena
@@ -178,8 +203,17 @@ URL:https://lykeion.pt/e/cafe-de-ciencia-agricultura-e-biodiversidade-culti
  var-o-futu-c7137.html
 END:VEVENT
 BEGIN:VEVENT
+UID:palestra-tecnica-cuidar-do-olival-2beb3-2026-11-28@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T090000
+SUMMARY:Palestra Técnica «Cuidar do Olival»
+LOCATION:Central das Artes - Porto de Mós\, Porto de Mós
+DESCRIPTION:https://www.municipio-portodemos.pt/pages/1290?event_id=4596
+URL:https://lykeion.pt/e/palestra-tecnica-cuidar-do-olival-2beb3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:passeio-micologico-de-outono-0da2b-2026-11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T093000
 SUMMARY:Passeio Micológico de Outono
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -190,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-baldios-e-agroecossistemas-tradicao-tecnologia-e-v-cf34d-2026
  -11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T083000
 SUMMARY:Seminário: Baldios e Agroecossistemas: Tradição\, Tecnologia e V
  alor dos Serviços dos Ecossistemas
@@ -203,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:utilizacao-de-metodos-fisicos-e-computacionais-para-a-compre-9bdb9-2026
  -11-29@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:Utilização de métodos físicos e computacionais para a compreens
  ão funcional de novas moléculas
@@ -215,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:30-11-2026-jornada-internacional-de-estudos-fenomenologicos-018c0-2026-
  11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T160000
 SUMMARY:Jornada Internacional de Estudos Fenomenológicos: Fenomenologia e 
  Política
@@ -225,25 +259,9 @@ URL:https://lykeion.pt/e/30-11-2026-jornada-internacional-de-estudos-fenome
  nologicos-018c0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:med-soil-manifestacao-de-interesse-para-dois-perfis-profissi-c6616-2026
- -11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261130
-SUMMARY:MED Soil + | Manifestação de interesse para dois perfis profissio
- nais no futuro Centro de Excelência em Regeneração de Solos Mediterrân
- icos
-LOCATION:Instituto Mediterrâneo para a Agricultura Ambiente e Desenvolvime
- nto\, Évora
-DESCRIPTION:https://www.med.uevora.pt/pt/med-soil-manifestacao-de-interesse
- -para-dois-perfis-profissionais-no-futuro-centro-de-excelencia-em-regenera
- cao-de-solos-mediterranicos/
-URL:https://lykeion.pt/e/med-soil-manifestacao-de-interesse-para-dois-perfi
- s-profissi-c6616.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-juliana-gouveia-teixeira-isolamento-e-1ca40-2026-
  11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T143000
 SUMMARY:Provas de mestrado de Juliana Gouveia Teixeira — Isolamento e ide
  ntificação de fungos entomopatogénicos e avaliação do seu potencial p
@@ -256,12 +274,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Ciências Médicas\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -269,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-alexandre-domingues-viana-plataforma-d-bf086-2026
  -12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T140000
 SUMMARY:Provas de Mestrado de Alexandre Domingues Viana «Plataforma de Seg
  urança Operacional e Planeamento Tático no Combate a Incêndios Floresta
@@ -283,10 +300,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-daniel-nobrega-rodrigues-estagio-78acd-2026
  -12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Provas de mestrado de Pedro Daniel Nóbrega Rodrigues — Estágio 
- no Serviço de Saúde Ocupacional da Câmara Municipal de Loures
+ no Serviço de Saúde Ocupacional da Câmara Municipal de Lisboa
 LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
 DESCRIPTION:https://www.essl.upl.pt/viver/ser-estudante/informacoes-academi
  cas/provas-publicas
@@ -296,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:congresso-dia-mundial-do-solo-2026-upb-associa-se-a-celebrac-83228-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Congresso: Dia Mundial do Solo 2026 | UPB associa-se à celebraçã
  o nacional
@@ -309,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:estudante-do-cba-sara-patricia-bettencourt-luna-defende-prov-fb938-2026
  -12-07@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261207T100000
 SUMMARY:Estudante do CBA Sara Patrícia Bettencourt Luna defende provas de 
  doutoramento
@@ -321,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:racas-autoctones-acoreanas-e-a-sua-sustentabilidade-bc1d8-2026-12-07@la
  genda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Raças Autóctones Açoreanas e a sua Sustentabilidade
 LOCATION:Centro de Biotecnologia dos Açores\, Angra do Heroísmo
@@ -330,9 +347,37 @@ URL:https://lykeion.pt/e/racas-autoctones-acoreanas-e-a-sua-sustentabilidad
  e-bc1d8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:1st-international-meeting-of-ecology-25th-national-ecology-m-f31a6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:1st International Meeting of Ecology & 25th National Ecology Meetin
+ g
+LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
+ icas\, Vila Real
+DESCRIPTION:https://www.citab.utad.pt/events/1st-international-meeting-of-e
+ cology-25th-national-ecology-meeting
+URL:https://lykeion.pt/e/1st-international-meeting-of-ecology-25th-national
+ -ecology-m-f31a6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:herbs-and-spices-from-traditional-knowledge-to-innovative-ap-35387-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Herbs and Spices – From Traditional Knowledge to Innovative Appli
+ cations
+LOCATION:Instituto Mediterrâneo para a Agricultura Ambiente e Desenvolvime
+ nto\, Évora
+DESCRIPTION:https://www.med.uevora.pt/pt/herbs-and-spices-from-traditional-
+ knowledge-to-innovative-applications/
+URL:https://lykeion.pt/e/herbs-and-spices-from-traditional-knowledge-to-inn
+ ovative-ap-35387.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-isabel-maria-melo-mendes-passos-o-e44a3-2026-
  12-15@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de doutoramento de Isabel Maria Melo Mendes Passos — O imp
  acte das alterações climáticas nas florestas submediterrâneas de carva
@@ -346,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-campus-de-bencanta-iii-es-de4ca-2026
  -12-16@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T093000
 SUMMARY:Escola Superior Agrária de Coimbra Campus de Bencanta III Escola d
  e Inverno da Agrária de Coimbra – Projeto Farm4Future
@@ -357,9 +402,34 @@ URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-campus-de-benca
  nta-iii-es-de4ca.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-tecnologias-em-agricultura-de-precisao-3a0cc-2026
+ -12-18@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T140000
+SUMMARY:Provas de Mestrado em Tecnologias em Agricultura de Precisão
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
+ rado-em-tecnologias-em-agricultura-de-precisao-0
+URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-em-agricultura-d
+ e-precisao-3a0cc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:horizon-europe-info-dayscluster-6-food-bioeconomy-natural-re-ed404-2027
+ -01-13@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270113
+SUMMARY:Horizon Europe info days—Cluster 6 Food\, Bioeconomy\, Natural Re
+ sources\, Agriculture and Environment
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/horizon-europe-info-days-cluster-6-f
+ ood-bioeconomy-natural-resources-agriculture-and-environment/
+URL:https://lykeion.pt/e/horizon-europe-info-dayscluster-6-food-bioeconomy-
+ natural-re-ed404.html
+END:VEVENT
+BEGIN:VEVENT
 UID:inovacao-na-floresta-1a-acao-de-demonstracao-replant-66a79-2027-03-23@l
  agenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20270323
 SUMMARY:Inovação na Floresta: 1a Ação de Demonstração rePLANT
 LOCATION:CoLAB ForestWISE\, Vila Real

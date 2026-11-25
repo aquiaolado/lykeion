@@ -6,22 +6,23 @@ X-WR-CALNAME:CIBIO (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:advanced-field-methods-for-bird-monitoring-and-research-2b634-2027-03-1
- 0@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20270310T210000
-SUMMARY:Advanced Field Methods for Bird Monitoring and Research
+UID:from-29-mar-2027-until-02-apr-2027-faculdade-ciencias-da-uni-5dc9f-2027
+ -03-29@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270329
+SUMMARY:From 29 Mar 2027 until 02 Apr 2027 Faculdade Ciências da Universid
+ ade Porto (Face-to-Face) Nature-based Solutions for Ecological Restoration
 LOCATION:Centro de Investigação em Biodiversidade e Recursos Genéticos\,
   Porto
-DESCRIPTION:https://cibio.up.pt/en/events/advanced-field-methods-for-bird-m
- onitoring-and-research/
-URL:https://lykeion.pt/e/advanced-field-methods-for-bird-monitoring-and-res
- earch-2b634.html
+DESCRIPTION:https://cibio.up.pt/en/events/nature-based-solutions-for-ecolog
+ ical-restoration/
+URL:https://lykeion.pt/e/from-29-mar-2027-until-02-apr-2027-faculdade-cienc
+ ias-da-uni-5dc9f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conservation-and-restoration-planning-from-assessment-to-act-e4109-2027
  -05-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20270503
 SUMMARY:Conservation and Restoration Planning: From Assessment to Action
 LOCATION:Centro de Investigação em Biodiversidade e Recursos Genéticos\,
@@ -32,9 +33,23 @@ URL:https://lykeion.pt/e/conservation-and-restoration-planning-from-assessm
  ent-to-act-e4109.html
 END:VEVENT
 BEGIN:VEVENT
+UID:envisioning-future-landscapes-emerging-digital-tools-and-sce-ee4ab-2027
+ -05-10@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270510
+SUMMARY:Envisioning Future Landscapes. Emerging Digital Tools and Scenario 
+ Design for Decision-support
+LOCATION:Centro de Investigação em Biodiversidade e Recursos Genéticos\,
+  Porto
+DESCRIPTION:https://cibio.up.pt/en/events/envisioning-future-landscapes-eme
+ rging-digital-tools-and-scenario-design-for-decision-support/
+URL:https://lykeion.pt/e/envisioning-future-landscapes-emerging-digital-too
+ ls-and-sce-ee4ab.html
+END:VEVENT
+BEGIN:VEVENT
 UID:insights-into-functional-genomics-exploring-phenotype-evolut-66ec7-2027
  -05-17@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270517T093000
 SUMMARY:Insights into functional genomics: Exploring Phenotype Evolution in
   Non-Model Organisms
@@ -44,5 +59,19 @@ DESCRIPTION:https://cibio.up.pt/en/events/insights-into-functional-genomics
  -exploring-phenotype-evolution-in-non-model-organisms-2/
 URL:https://lykeion.pt/e/insights-into-functional-genomics-exploring-phenot
  ype-evolut-66ec7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:landscape-ecology-a-toolbox-to-understand-patterns-processes-63777-2027
+ -05-24@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270524T210000
+SUMMARY:Landscape ecology: a toolbox to understand patterns\, processes\, a
+ nd dynamics in rural landscapes
+LOCATION:Centro de Investigação em Biodiversidade e Recursos Genéticos\,
+  Porto
+DESCRIPTION:https://cibio.up.pt/en/events/landscape-ecology-a-toolbox-to-un
+ derstand-patterns-processes-and-dynamics-in-rural-landscapes-2-2/
+URL:https://lykeion.pt/e/landscape-ecology-a-toolbox-to-understand-patterns
+ -processes-63777.html
 END:VEVENT
 END:VCALENDAR

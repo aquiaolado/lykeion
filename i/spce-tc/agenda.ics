@@ -7,12 +7,22 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:12a-reuniao-internacional-da-spce-tc-06f19-2027-03-10@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20270310
 SUMMARY:12a Reunião Internacional da SPCE-TC
 LOCATION:Sociedade Portuguesa de Células Estaminais e Terapia Celular\, Po
  rto
 DESCRIPTION:https://spce-tc.org/eventos/congressos-spce-tc/
 URL:https://lykeion.pt/e/12a-reuniao-internacional-da-spce-tc-06f19.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3a-reuniao-internacional-da-spce-tc-1865a-2027-04-23@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270423
+SUMMARY:3a Reunião Internacional da SPCE-TC
+LOCATION:Sociedade Portuguesa de Células Estaminais e Terapia Celular\, Po
+ rto
+DESCRIPTION:https://spce-tc.org/eventos/congressos-spce-tc/
+URL:https://lykeion.pt/e/3a-reuniao-internacional-da-spce-tc-1865a.html
 END:VEVENT
 END:VCALENDAR

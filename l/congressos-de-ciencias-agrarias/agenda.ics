@@ -6,8 +6,20 @@ X-WR-CALNAME:Congressos de ciências agrárias e veterinárias (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:esac-auditorio-principal-bloco-e-forum-agro-florestal-2026-0220b-2026-1
+ 1-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:ESAC - Auditório principal (Bloco E) Fórum Agro-Florestal 2026
+LOCATION:Escola Superior Agrária de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/eventos/forum-agro-florestal-2026
+ /
+URL:https://lykeion.pt/e/esac-auditorio-principal-bloco-e-forum-agro-flores
+ tal-2026-0220b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:5o-encontro-anual-al4animals-2026-37f9e-2026-11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:5o Encontro Anual AL4AnimalS 2026
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa
@@ -18,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-xi-eedaa-encontro-de-estudantes-de-doutoramento-81a92-2026-
  11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Conferência: XI EEDAA - Encontro de Estudantes de Doutoramento em 
  Ambiente e Agricultura
@@ -30,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:13-30-simposio-restauro-da-natureza-em-ecossistemas-floresta-354e9-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T013000
 SUMMARY:Simpósio “Restauro da Natureza em Ecossistemas Florestais
 LOCATION:Instituto Nacional de Investigação Agrária e Veterinária
@@ -42,12 +54,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-internacional-phenomenology-and-the-political-ex-3405f-2026
  -12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:Conferência Internacional «Phenomenology and the Political: Exper
  ience\, Power\, and Methods»
-LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
- ilhã
+LOCATION:Departamento de Ciências Médicas\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Evento/24199
 URL:https://lykeion.pt/e/conferencia-internacional-phenomenology-and-the-po
  litical-ex-3405f.html
@@ -55,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3o-steering-committee-meeting-do-projeto-aquafish0-0-4eab9-2026-12-03@l
  agenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:3o Steering Committee Meeting do projeto AQUAFISH0.0
 LOCATION:Agencia Regional para o Desenvolvimento da Investigacao Tecnologia
@@ -68,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:congresso-dia-mundial-do-solo-2026-upb-associa-se-a-celebrac-83228-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Congresso: Dia Mundial do Solo 2026 | UPB associa-se à celebraçã
  o nacional
@@ -79,8 +90,34 @@ URL:https://lykeion.pt/e/congresso-dia-mundial-do-solo-2026-upb-associa-se-
  a-celebrac-83228.html
 END:VEVENT
 BEGIN:VEVENT
+UID:1st-international-meeting-of-ecology-25th-national-ecology-m-f31a6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:1st International Meeting of Ecology & 25th National Ecology Meetin
+ g
+LOCATION:Centro de Investigação e de Tecnologias Agro-Ambientais e Biolog
+ icas\, Vila Real
+DESCRIPTION:https://www.citab.utad.pt/events/1st-international-meeting-of-e
+ cology-25th-national-ecology-meeting
+URL:https://lykeion.pt/e/1st-international-meeting-of-ecology-25th-national
+ -ecology-m-f31a6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:encontro-mulheres-rurais-sistemas-alimentares-e-agroecologia-fac66-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T100000
+SUMMARY:Encontro: Mulheres Rurais\, Sistemas Alimentares e Agroecologia
+LOCATION:Centro de Estudos Sociais\, Coimbra
+DESCRIPTION:https://ces.uc.pt/agenda-noticias/agenda-de-eventos/2026/1-enco
+ ntro-urge-mulheres-rurais-sistemas-alimentares
+URL:https://lykeion.pt/e/encontro-mulheres-rurais-sistemas-alimentares-e-ag
+ roecologia-fac66.html
+END:VEVENT
+BEGIN:VEVENT
 UID:viii-jornadas-do-gtie-a6c40-2026-12-13@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261213
 SUMMARY:VIII Jornadas do GTIE
 LOCATION:Faculdade de Medicina Veterinária da Universidade de Lisboa

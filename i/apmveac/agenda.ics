@@ -6,16 +6,54 @@ X-WR-CALNAME:APMVEAC (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:webinar-medos-e-fobias-a-ruidos-em-caes-da-prevencao-ao-trat-c014e-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T180000
-SUMMARY:Webinar: Medos e fobias a ruídos em cães\, da prevenção ao trat
- amento
+UID:webinar-osteoartrite-felina-7319d-2027-02-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270211T180000
+SUMMARY:Webinar: Osteoartrite Felina
 LOCATION:Associação Portuguesa de Médicos Veterinários Especialistas em
   Animais de Companhia
-DESCRIPTION:https://apmveac.pt/evento/webinar-medos-e-fobias-a-ruidos/
-URL:https://lykeion.pt/e/webinar-medos-e-fobias-a-ruidos-em-caes-da-prevenc
- ao-ao-trat-c014e.html
+DESCRIPTION:https://apmveac.pt/evento/osteoartrite-felina/
+URL:https://lykeion.pt/e/webinar-osteoartrite-felina-7319d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-de-olhos-postos-nas-manifestacoes-oculares-de-doenca-7bc58-2027
+ -02-23@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270223T130000
+SUMMARY:Webinar: De Olhos Postos nas Manifestações Oculares de Doenças S
+ istémicas no Cão
+LOCATION:Associação Portuguesa de Médicos Veterinários Especialistas em
+  Animais de Companhia
+DESCRIPTION:https://apmveac.pt/evento/de-olhos-postos-nas-manifestacoes-ocu
+ lares-de-doencas-sistemicas-no-cao/
+URL:https://lykeion.pt/e/webinar-de-olhos-postos-nas-manifestacoes-oculares
+ -de-doenca-7bc58.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-de-olhos-postos-na-oftalmologia-felina-7d51d-2027-04-20@lagenda
+ .pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270420T120000
+SUMMARY:Webinar: De Olhos Postos na Oftalmologia Felina
+LOCATION:Associação Portuguesa de Médicos Veterinários Especialistas em
+  Animais de Companhia
+DESCRIPTION:https://apmveac.pt/evento/de-olhos-postos-na-oftalmologia-felin
+ a/
+URL:https://lykeion.pt/e/webinar-de-olhos-postos-na-oftalmologia-felina-7d5
+ 1d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-actualizacao-em-leishmaniose-abordagem-integrada-do-849ee-2027-
+ 04-27@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270427T170000
+SUMMARY:Webinar: Actualização em Leishmaniose - abordagem integrada do c
+ ão ao gato
+LOCATION:Associação Portuguesa de Médicos Veterinários Especialistas em
+  Animais de Companhia
+DESCRIPTION:https://apmveac.pt/evento/actualizacao-em-leishmaniose-abordage
+ m-integrada-do-cao-ao-gato/
+URL:https://lykeion.pt/e/webinar-actualizacao-em-leishmaniose-abordagem-int
+ egrada-do-849ee.html
 END:VEVENT
 END:VCALENDAR

@@ -6,16 +6,39 @@ X-WR-CALNAME:ULHT ECATI (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:soberania-digital-2026-da-dependencia-tecnologica-a-autonomi-21803-2026
- -12-09@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261209T090000
-SUMMARY:Soberania Digital 2026 - Da Dependência Tecnológica à Autonomia 
- Estratégica
+UID:5-o-encontro-nacional-dos-profissionais-de-enoturismo-a177c-2027-01-27@
+ lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270127T090000
+SUMMARY:5.º Encontro Nacional dos Profissionais de Enoturismo
 LOCATION:Departamento de Cinema e Artes dos Media (ULHT ECATI)
-DESCRIPTION:https://www.ulusofona.pt/evento/soberania-digital-2026-da-depen
- dencia-tecnologica-a-autonomia-estrategica
-URL:https://lykeion.pt/e/soberania-digital-2026-da-dependencia-tecnologica-
- a-autonomi-21803.html
+DESCRIPTION:https://www.ulusofona.pt/evento/5-encontro-nacional-dos-profiss
+ ionais-de-enoturismo
+URL:https://lykeion.pt/e/5-o-encontro-nacional-dos-profissionais-de-enoturi
+ smo-a177c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-congresso-de-cristianismo-contemporaneo-5de35-2027-01-28@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270128
+SUMMARY:III Congresso de Cristianismo Contemporâneo
+LOCATION:Departamento de Cinema e Artes dos Media (ULHT ECATI)
+DESCRIPTION:https://www.ulusofona.pt/evento/iii-congresso-de-cristianismo-c
+ ontemporaneo
+URL:https://lykeion.pt/e/iii-congresso-de-cristianismo-contemporaneo-5de35.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:innovdelivery-27-iii-encontro-lusofono-sobre-sistemas-de-vei-87f56-2027
+ -03-05@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270305
+SUMMARY:InnovDelivery'27- III Encontro Lusófono sobre Sistemas de Veicula
+ ção Inovadores
+LOCATION:Departamento de Cinema e Artes dos Media (ULHT ECATI)
+DESCRIPTION:https://www.ulusofona.pt/evento/-innovdelivery27-iii-encontro-l
+ usofono-sobre-sistemas-de-veiculacao-inovadores
+URL:https://lykeion.pt/e/innovdelivery-27-iii-encontro-lusofono-sobre-siste
+ mas-de-vei-87f56.html
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,29 @@ X-WR-CALNAME:SPCCTV (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:spcctv-congress-2026-f94d9-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+UID:spcctv-congress-2026-2d29e-2026-11-27@lagenda.pt
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
+SUMMARY:SPCCTV Congress 2026
+LOCATION:Sociedade Portuguesa de Cirurgia Cardíaca Torácica e Vascular
+DESCRIPTION:https://www.spcctv.pt/pt/agenda/detalhesevento/61/-/spcctv-cong
+ ress-2026
+URL:https://lykeion.pt/e/spcctv-congress-2026-2d29e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:spcctv-congress-2026-f94d9-2026-11-28@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:SPCCTV Congress 2026
+LOCATION:Sociedade Portuguesa de Cirurgia Cardíaca Torácica e Vascular
+DESCRIPTION:https://www.spcctv.pt/pt/agenda/detalhesevento/61/29/spcctv-con
+ gress-2026
+URL:https://lykeion.pt/e/spcctv-congress-2026-f94d9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:spcctv-congress-2026-f94d9-2026-11-29@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261129
 SUMMARY:SPCCTV Congress 2026
 LOCATION:Sociedade Portuguesa de Cirurgia Cardíaca Torácica e Vascular
 DESCRIPTION:https://www.spcctv.pt/pt/agenda/detalhesevento/61/29/spcctv-con

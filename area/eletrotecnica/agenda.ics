@@ -6,64 +6,27 @@ X-WR-CALNAME:Engenharia Eletrotécnica e de Computadores (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:cafe-de-ciencia-0f3e9-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T213000
-SUMMARY:Café de Ciência · Centro Ciência Viva de Bragança
-LOCATION:Centro Ciência Viva de Bragança\, Bragança
-DESCRIPTION:https://braganca.cienciaviva.pt/2240/cafe-de-ciencia---24-de-no
- vembro
-URL:https://lykeion.pt/e/cafe-de-ciencia-0f3e9.html
+UID:academia-da-robotica-20262027-4e764-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-mes-do-saber-48c12-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
+UID:conferencia-mes-do-saber-48c12-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
 SUMMARY:Conferência: Mês do saber
 LOCATION:Escola Básica e Secundária de Lousada Norte\, Lousada
 DESCRIPTION:https://www.aemariofonseca.pt/
 URL:https://lykeion.pt/e/conferencia-mes-do-saber-48c12.html
 END:VEVENT
 BEGIN:VEVENT
-UID:jornadas-de-eletrotecnia-b200f-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Jornadas de Eletrotecnia
-LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/feup/pt/noticias_geral.ver_noticia?P_NR=2
- 03623
-URL:https://lykeion.pt/e/jornadas-de-eletrotecnia-b200f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-goncalo-miguel-chora-romaneiro-gestao-56aba-2026-
- 11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas de mestrado de Gonçalo Miguel Chora Romaneiro — Gestão d
- a Mudança Organizacional na Era Digital: O papel da automação na admini
- stração\, no marketing e na criação de novos projetos numa agência
-LOCATION:Instituto Superior de Contabilidade e Administração de Coimbra\,
-  Coimbra
-DESCRIPTION:https://www.iscac.pt/aluno-a/provas-publicas-de-mestrado/
-URL:https://lykeion.pt/e/provas-de-mestrado-de-goncalo-miguel-chora-romanei
- ro-gestao-56aba.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-blockchain-for-food-safety-automacao-de-registos-de-6f9ad-2026-
- 11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T180000
-SUMMARY:Webinar: Blockchain for Food Safety: Automação de registos de con
- formidade e digitalização documental com blockchain
-LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
-DESCRIPTION:https://eventos.utad.pt/evento/blockchain-for-food-safety/
-URL:https://lykeion.pt/e/webinar-blockchain-for-food-safety-automacao-de-re
- gistos-de-6f9ad.html
-END:VEVENT
-BEGIN:VEVENT
 UID:portas-abertas-visita-ao-laboratorio-de-robotica-avancada-e-2f717-2026-
  11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Portas abertas: Visita ao Laboratório de Robótica Avançada e Fá
  bricas Inteligentes
@@ -75,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-workshop-de-introducao-a-robotica-usando-o-le-2f717-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Portas abertas: Workshop de Introdução à Robótica usando o LEGO
   Spike Prime
@@ -87,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-workshop-de-robotica-industrial-2f717-2026-11-25@lagenda
  .pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Portas abertas: Workshop de Robótica Industrial
 LOCATION:Universidade de Leiria e Oeste\, Leiria
@@ -96,9 +59,31 @@ URL:https://lykeion.pt/e/portas-abertas-workshop-de-robotica-industrial-2f7
  17.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-andre-da-silva-moleirinho-provas-publi-21e19-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de mestrado de André da Silva Moleirinho — Provas Públic
+ as de Mestrado em Engenharia Informática
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/estudar/provas-publicas/provas-mestrado
+URL:https://lykeion.pt/e/provas-de-mestrado-de-andre-da-silva-moleirinho-pr
+ ovas-publi-21e19.html
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-robotica-e-inteligencia-artificial-67a99-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Workshop: Robótica e Inteligência Artificial
+LOCATION:Politécnico do Porto\, Porto
+DESCRIPTION:https://www.gecad.isep.ipp.pt/
+URL:https://lykeion.pt/e/workshop-robotica-e-inteligencia-artificial-67a99.
+ html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-beatriz-de-sousa-siqueira-a-juvent-03b8f-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Provas de Mestrado de Ana Beatriz de Sousa Siqueira «A juventude e
   ascensão feminina nos esportes eletrônicos no Brasil»
@@ -111,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-diana-margarida-santos-sobral-transfor-bf49c-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Diana Margarida Santos Sobral — Transforma
  ção Digital e Inovação em Marketing: O papel da Inteligência Artifici
@@ -123,8 +108,18 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-diana-margarida-santos-sobra
  l-transfor-bf49c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:robotica-criativa-093f1-2026-11-28@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T103000
+SUMMARY:Robótica criativa
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/publico-geral/oficinas-de-cien
+ cia/manhas-de-ciencia
+URL:https://lykeion.pt/e/robotica-criativa-093f1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:14-a-conferencia-da-british-hernia-society-80550-2026-11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:14.ª Conferência da British Hernia Society
 LOCATION:Sociedade Portuguesa de Cirurgia
@@ -135,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carlota-guerreiro-florencio-a-transfor-269d6-2026
  -11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de mestrado de Carlota Guerreiro Florêncio — A Transforma
  ção da Profissão do Contabilista e do Auditor com Robotic Process Autom
@@ -149,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-nuno-miguel-mendes-dos-santos-amaro-au-24b18-2026
  -11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de mestrado de Nuno Miguel Mendes dos Santos Amaro — Autom
  ação Robótica de Processos (RPA) na Área Administrativa numa Empresa H
@@ -163,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:icst2026-19th-international-conference-on-sensing-technology-21438-2026
  -12-07@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:ICST2026 - 19th International Conference on Sensing Technology
 LOCATION:Instituto de Telecomunicações
@@ -174,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-hugo-goncalves-goes-de-oliveira-beer-p-11bb9-2026
  -12-09@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de mestrado de Hugo Gonçalves Goes de Oliveira — Beer pro
  duction with Barbela wheat and Iberian rye: monitoring and evaluation usin
@@ -187,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-engenharia-eletrotecnica-e-de-comp-3c63b-2026
  -12-11@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Provas de doutoramento em Engenharia Eletrotécnica e de Computador
  es de Afonso Duarte Amaral Cardoso Botelho — Onboard Optimal Guidance an
@@ -201,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-engenharia-eletrotecnica-e-de-comp-3c63b-2026
  -12-11@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Provas de doutoramento em Engenharia Eletrotécnica e de Computador
  es de Ricardo Galhardas Messias — Modelling DSO and Flexibility Service 
@@ -215,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-engenharia-informatica-e-de-comput-523bc-2026
  -12-14@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Provas de doutoramento em Engenharia Informática e de Computadores
   de Rui Orlando Magalhães Ribeiro — Characterizing Individuals through 
@@ -229,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-bb557-2026
  -12-16@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — Geografia\, Telecomunicações e Território: uma experiência did
@@ -241,7 +236,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-relatorio-de-pratica-de-ensi
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-be94e-2026-12-18@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T180000
 SUMMARY:Exposição ensaios de tectónica digital
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
@@ -250,9 +245,23 @@ DESCRIPTION:https://lab2pt.net/exhibitions/exposicao-ensaios-de-tectonica-d
 URL:https://lykeion.pt/e/exposicao-be94e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-doutoramento-em-engenharia-eletrotecnica-e-de-comp-8cbe1-2027
+ -01-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270111
+SUMMARY:Provas de doutoramento em Engenharia Eletrotécnica e de Computador
+ es de Mário António Patrício Carreira Vala — Radiowave propagation an
+ d remote sensing in dynamic environments
+LOCATION:Instituto Superior Técnico
+DESCRIPTION:https://posgraduacao.tecnico.ulisboa.pt/calendario-de-provas-ac
+ ademicas/
+URL:https://lykeion.pt/e/provas-de-doutoramento-em-engenharia-eletrotecnica
+ -e-de-comp-8cbe1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:eletricidade-para-engenheiros-nao-eletrotecnicos-ded03-2027-02-02@lagen
  da.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270202T080000
 SUMMARY:Eletricidade para Engenheiros não Eletrotécnicos
 LOCATION:CENERTEC Centro de Energia e Tecnologia\, Gondomar
@@ -264,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7th-international-conference-on-robotics-computer-vision-and-3b720-2027
  -02-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20270227
 SUMMARY:7th International Conference on Robotics\, Computer Vision and Inte
  lligent Systems
@@ -277,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eletronica-de-potencia-analise-de-circuitos-e-mitigacao-de-a-ca4f2-2027
  -03-09@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270309T160000
 SUMMARY:Eletrónica de Potência – Análise de Circuitos e Mitigação de
   Avarias
@@ -290,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-como-encontrar-publicacoes-na-b-on-conheca-a-nova-i-afdf8-2027
  -04-11@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270411T100000
 SUMMARY:Formação – Como encontrar publicações na B-on: conheça a nov
  a interface de pesquisa – via Zoom meeting
@@ -304,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:formacao-utilizar-a-biblioteca-do-conhecimento-online-b-on-v-f1140-2027
  -04-13@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270413T150000
 SUMMARY:Formação – Utilizar a Biblioteca do Conhecimento Online (b-on) 
  – via Zoom meeting
@@ -317,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:site-thumbnail-ai-robotics-in-healthcare-a-challenge-for-law-e9e3c-2027
  -04-17@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270417T090000
 SUMMARY:Ai robotics in healthcare a challenge for Law and Tech
 LOCATION:NOVA School of Law

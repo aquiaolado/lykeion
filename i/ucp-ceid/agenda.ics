@@ -6,21 +6,8 @@ X-WR-CALNAME:UCP CEID (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:seminario-online-como-progredir-nos-rankings-da-competitivid-57775-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Seminário Online | Como progredir nos rankings da competitividade 
- fiscal?
-LOCATION:Centro de Estudos e Investigação em Direito
-DESCRIPTION:https://ceid.fd.ucp.pt/events/seminario-online-como-progredir-n
- os-rankings-da-competitividade-fiscal
-URL:https://lykeion.pt/e/seminario-online-como-progredir-nos-rankings-da-co
- mpetitivid-57775.html
-END:VEVENT
-BEGIN:VEVENT
 UID:catolica-talks-direito-comercial-0c940-2026-12-10@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Católica Talks | Direito Comercial
 LOCATION:Centro de Estudos e Investigação em Direito
@@ -28,16 +15,13 @@ DESCRIPTION:https://ceid.fd.ucp.pt/events/catolica-talks-direito-comercial
 URL:https://lykeion.pt/e/catolica-talks-direito-comercial-0c940.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminars-sessao-de-apresentacao-relatorio-da-negociacao-cole-16001-2026
- -12-11@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261211T153000
-SUMMARY:Seminars: Sessão de Apresentação | Relatório da Negociação Co
- letiva de 2025
+UID:catolica-talks-filosofia-do-direito-62f99-2026-12-16@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Católica Talks | Filosofia do Direito
 LOCATION:Centro de Estudos e Investigação em Direito
-DESCRIPTION:https://ceid.fd.ucp.pt/events/sessao-de-apresentacao-relatorio-
- da-negociacao-coletiva-de-2025
-URL:https://lykeion.pt/e/seminars-sessao-de-apresentacao-relatorio-da-negoc
- iacao-cole-16001.html
+DESCRIPTION:https://ceid.fd.ucp.pt/events/catolica-talks-filosofia-do-direi
+ to
+URL:https://lykeion.pt/e/catolica-talks-filosofia-do-direito-62f99.html
 END:VEVENT
 END:VCALENDAR

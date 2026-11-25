@@ -6,22 +6,9 @@ X-WR-CALNAME:CAMGSD (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:anja-svraka-2026-11-24-16-00-00-00-16h-additivity-of-constru-6668f-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Anja Švraka\, 2026-11-24/16:00:00+00\, 16h\, Additivity of constru
- ctible factorization algebras
-LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
-DESCRIPTION:https://math.tecnico.ulisboa.pthttps://tqft.math.tecnico.ulisbo
- a.pt/seminars?action=show&amp\,id=7901
-URL:https://lykeion.pt/e/anja-svraka-2026-11-24-16-00-00-00-16h-additivity-
- of-constru-6668f.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aleksander-ivanov-2026-11-25-16-00-00-00-16h-higher-categori-6668f-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Aleksander Ivanov\, 2026-11-25/16:00:00+00\, 16h\, Higher categoric
  al bistellar moves
@@ -34,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-27-15-00-00-00-15h-mini-course-on-elli-c1345-2026
  -11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Herwig Hauser\, 2026-11-27/15:00:00+00\, 15h\, Mini-course on Ellip
  tic Curves: Classical Geometry
@@ -47,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-27-16-00-00-00-16h-mini-course-on-elli-c1345-2026
  -11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Herwig Hauser\, 2026-11-27/16:00:00+00\, 16h\, Mini-course on Ellip
  tic Curves: Complex Analysis
@@ -60,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-11-30-09-30-00-00-09h-30m-mini-course-on-c1345-2026-
  11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Herwig Hauser\, 2026-11-30/09:30:00+00\, 09h 30m\, Mini-course on E
  lliptic Curves: Algebraic Geometry
@@ -71,8 +58,21 @@ URL:https://lykeion.pt/e/herwig-hauser-2026-11-30-09-30-00-00-09h-30m-mini-
  course-on-c1345.html
 END:VEVENT
 BEGIN:VEVENT
+UID:herwig-hauser-2026-12-02-10-00-00-00-10h-integration-of-vect-c1345-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Herwig Hauser\, 2026-12-02/10:00:00+00\, 10h\, Integration of vecto
+ r fields at their singular points à la Frobenius.
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://geolis.math.tecnico.ulis
+ boa.pt/seminars?action=show&amp\,id=7905
+URL:https://lykeion.pt/e/herwig-hauser-2026-12-02-10-00-00-00-10h-integrati
+ on-of-vect-c1345.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mini-course-on-elliptic-curves-group-theory-cbf96-2026-12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T103000
 SUMMARY:Mini-course on Elliptic Curves: Group Theory.
 LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herwig-hauser-2026-12-03-10-00-00-00-10h-mini-course-on-elli-c1345-2026
  -12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Herwig Hauser\, 2026-12-03/10:00:00+00\, 10h\, Mini-course on Ellip
  tic Curves: Number Theory
@@ -93,5 +93,18 @@ DESCRIPTION:https://math.tecnico.ulisboa.pthttps://geolis.math.tecnico.ulis
  boa.pt/seminars?action=show&amp\,id=7893
 URL:https://lykeion.pt/e/herwig-hauser-2026-12-03-10-00-00-00-10h-mini-cour
  se-on-elli-c1345.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nicolas-gues-2026-12-11-10-00-00-00-10h-on-the-tame-homotopy-793ca-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Nicolas Guès\, 2026-12-11/10:00:00+00\, 10h\, On the tame homotopy
+  type of knot spaces
+LOCATION:Centro de Análise Matemática Geometria e Sistemas Dinâmicos
+DESCRIPTION:https://math.tecnico.ulisboa.pthttps://math.tecnico.ulisboa.pt/
+ seminars/algebra?action=show&amp\,id=7906
+URL:https://lykeion.pt/e/nicolas-gues-2026-12-11-10-00-00-00-10h-on-the-tam
+ e-homotopy-793ca.html
 END:VEVENT
 END:VCALENDAR

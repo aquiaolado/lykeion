@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ESAD (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:conversa-com-anselmo-canha-e-joao-cruz-da-esap-2d264-2026-11-26@lagenda
+ .pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:Conversa com Anselmo Canha e João Cruz da ESAP
+LOCATION:ESAD – Escola Superior de Artes e Design (Matosinhos)\, Matosinh
+ os
+DESCRIPTION:https://esad.pt/pt/events/design-and-drinks-esap
+URL:https://lykeion.pt/e/conversa-com-anselmo-canha-e-joao-cruz-da-esap-2d2
+ 64.html
+END:VEVENT
+END:VCALENDAR

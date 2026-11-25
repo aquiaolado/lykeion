@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:vi-coloquio-sobre-ensino-aprendizagem-no-isa-desigualdades-o-a9931-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T170000
 SUMMARY:VI Colóquio Sobre Ensino - Aprendizagem no ISA: «Desigualdades\, 
  Oportunidades e Desafios Pedagógicos no Ensino Superior »
@@ -19,9 +19,19 @@ URL:https://lykeion.pt/e/vi-coloquio-sobre-ensino-aprendizagem-no-isa-desig
  ualdades-o-a9931.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-a2651-2026-11-27@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Aula aberta Brasília do plano piloto cidade vivida
+LOCATION:Centro de Ecologia Aplicada Prof Baeta Neves
+DESCRIPTION:https://www.isa.ulisboa.pt/evento/aula-aberta-brasilia-do-plano
+ -piloto-cidade-vivida
+URL:https://lykeion.pt/e/aula-aberta-a2651.html
+END:VEVENT
+BEGIN:VEVENT
 UID:o-futuro-esta-na-racao-desafios-e-oportunidades-na-industria-dbf11-2026
  -11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T090000
 SUMMARY:O Futuro está na Ração: Desafios e Oportunidades na Indústria d
  os Alimentos Compostos

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:OKEANOS (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:live-a-special-public-lectures-series-with-daniel-pauly-unti-e6fbe-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:LIVE A special public lectures series with Daniel Pauly Until
+LOCATION:Instituto de Investigação em Ciências do Mar Okeanos\, Horta
+DESCRIPTION:https://okeanos.uac.pt/event-41
+URL:https://lykeion.pt/e/live-a-special-public-lectures-series-with-daniel-
+ pauly-unti-e6fbe.html
+END:VEVENT
+END:VCALENDAR

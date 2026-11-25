@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:OA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:bridge-talks-tecnologia-ia-e-direito-inovar-com-etica-decidi-659dd-2027
+ -04-22@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270422T140000
+SUMMARY:Bridge Talks - Tecnologia\, IA e Direito: Inovar com ética\, decid
+ ir com responsabilidade
+LOCATION:Ordem dos Advogados
+DESCRIPTION:https://portal.oa.pt/comunicacao/appnews/2026/22-de-abril-bridg
+ e-talks-tecnologia-ia-e-direito-inovar-com-etica-decidir-com-responsabilid
+ ade/
+URL:https://lykeion.pt/e/bridge-talks-tecnologia-ia-e-direito-inovar-com-et
+ ica-decidi-659dd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:maus-tratos-na-infancia-webinar-687d8-2027-04-24@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270424T150000
+SUMMARY:Maus-Tratos na Infância - webinar
+LOCATION:Ordem dos Advogados
+DESCRIPTION:https://portal.oa.pt/comunicacao/appnews/2026/24-de-abril-maus-
+ tratos-na-infancia-webinar/
+URL:https://lykeion.pt/e/maus-tratos-na-infancia-webinar-687d8.html
+END:VEVENT
+END:VCALENDAR

@@ -6,9 +6,21 @@ X-WR-CALNAME:Universidade de Aveiro (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:eposicao-linhas-de-tensao-9a052-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
+UID:ciclo-de-oficinas-jornalismo-o-que-e-e-o-que-nao-e-6072d-2026-11-25@lag
+ enda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T093000
+SUMMARY:Ciclo de oficinas - 'Jornalismo: O que é e o que não é'
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://events.timely.fun/2x770b0s/event/untitled-2-2?instance_
+ id=20261125093000
+URL:https://lykeion.pt/e/ciclo-de-oficinas-jornalismo-o-que-e-e-o-que-nao-e
+ -6072d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eposicao-linhas-de-tensao-9a052-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
 SUMMARY:Eposição Linhas de Tensão
 LOCATION:Instituto de Investigação em Design Media e Cultura\, Porto
 DESCRIPTION:https://idmais.org/event/eposicao-linhas-de-tensao-5-a-27-de-no
@@ -17,9 +29,9 @@ URL:https://lykeion.pt/e/eposicao-linhas-de-tensao-9a052.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
- 11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T080000
+ 11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T080000
 SUMMARY:Exposição '[Structural stacking]: do arquivo Colector de Formas' 
  na Biblioteca Domingos Cravo
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -30,10 +42,10 @@ URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
  de-formas-ab38b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-anatomia-de-um-sentimento-de-bruno-vieira-6db46-2026-11-24@la
+UID:exposicao-anatomia-de-um-sentimento-de-bruno-vieira-6db46-2026-11-25@la
  genda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T163000
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T163000
 SUMMARY:Exposição: Anatomia de um Sentimento\, de Bruno Vieira
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-anatomia-de-
@@ -42,24 +54,10 @@ URL:https://lykeion.pt/e/exposicao-anatomia-de-um-sentimento-de-bruno-vieir
  a-6db46.html
 END:VEVENT
 BEGIN:VEVENT
-UID:masterclass-a-empresa-inteligente-inteligencia-artificial-e-b7a1c-2026-
- 11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T090000
-SUMMARY:Masterclass - 'A Empresa Inteligente: Inteligência Artificial e No
- vas Tecnologias Aplicadas às Empresas'
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://events.timely.fun/2x770b0s/event/masterclass-a-empresa-
- inteligente-inteligencia-artificial-e-novas-tecnologias-aplicadas-as-empre
- sas?instance_id=20261124090000
-URL:https://lykeion.pt/e/masterclass-a-empresa-inteligente-inteligencia-art
- ificial-e-b7a1c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:portas-abertas-o-que-revela-o-teu-cabelo-sobre-o-peixe-que-c-0c601-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
+ -11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
 SUMMARY:Portas abertas: O que revela o teu cabelo sobre o peixe que comes?
 LOCATION:Universidade de Aveiro\, Aveiro
 DESCRIPTION:https://forms.cloud.microsoft/e/A8zMmifecL
@@ -67,9 +65,9 @@ URL:https://lykeion.pt/e/portas-abertas-o-que-revela-o-teu-cabelo-sobre-o-p
  eixe-que-c-0c601.html
 END:VEVENT
 BEGIN:VEVENT
-UID:science-and-technology-week-2026-23ea7-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T140000
+UID:science-and-technology-week-2026-23ea7-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T140000
 SUMMARY:Science and Technology Week 2026
 LOCATION:Instituto de Investigação em Design Media e Cultura\, Porto
 DESCRIPTION:https://idmais.org/event/science-and-technology-week-2026-id-up
@@ -77,20 +75,8 @@ DESCRIPTION:https://idmais.org/event/science-and-technology-week-2026-id-up
 URL:https://lykeion.pt/e/science-and-technology-week-2026-23ea7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ciclo-de-oficinas-jornalismo-o-que-e-e-o-que-nao-e-6072d-2026-11-25@lag
- enda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T093000
-SUMMARY:Ciclo de oficinas - 'Jornalismo: O que é e o que não é'
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://events.timely.fun/2x770b0s/event/untitled-2-2?instance_
- id=20261125093000
-URL:https://lykeion.pt/e/ciclo-de-oficinas-jornalismo-o-que-e-e-o-que-nao-e
- -6072d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminario-ambiente-e-saude-global-108f8-2026-11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T150000
 SUMMARY:Seminário: 'Ambiente e Saúde Global'
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -102,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-europeu-dedicado-ao-futuro-dos-materiais-avancados-d9a59-2026-
  11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Encontro europeu dedicado ao futuro dos Materiais Avançados decorr
  e na Universidade de Aveiro nos dias 26 e 28 de novembro
@@ -115,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-iso-9001-2026-analise-das-alteracoes-sob-a-persp-45bfa-2026
  -11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T160000
 SUMMARY:Aula Aberta - ISO 9001:2026: Análise das alterações sob a perspe
  tiva do papel da Gestão da Qualidade na estratégia organizacional
@@ -128,7 +114,7 @@ URL:https://lykeion.pt/e/aula-aberta-iso-9001-2026-analise-das-alteracoes-s
 END:VEVENT
 BEGIN:VEVENT
 UID:mesa-redonda-o-som-da-agua-62413-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Mesa-redonda: O Som da Água
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -137,33 +123,8 @@ DESCRIPTION:https://events.timely.fun/2x770b0s/event/mesa-redonda-o-som-da-
 URL:https://lykeion.pt/e/mesa-redonda-o-som-da-agua-62413.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-integrado-em-engenharia-do-ambiente-de-el-a5ffa-2026
- -11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T140000
-SUMMARY:Provas de Mestrado Integrado em Engenharia do Ambiente de Elton Jor
- ge Amado Alves — Valorização de um resíduo rico em ferro para remoç
- ão de ofloxacina por Fenton e ativação do peroximonossulfato
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100264
-URL:https://lykeion.pt/e/provas-de-mestrado-integrado-em-engenharia-do-ambi
- ente-de-el-a5ffa.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-mara-sofia-de-carvalho-oliveira-ramos-29c93-2026-
- 11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T110000
-SUMMARY:Provas de Mestrado de Mara Sofia de Carvalho Oliveira Ramos de Vilh
- ena
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100263
-URL:https://lykeion.pt/e/provas-de-mestrado-de-mara-sofia-de-carvalho-olive
- ira-ramos-29c93.html
-END:VEVENT
-BEGIN:VEVENT
 UID:6a-edicao-do-encontro-qualidade-ua-4e7b9-2026-12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T091500
 SUMMARY:6a edição do Encontro Qualidade_UA
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -174,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hitech-2027-information-session-at-the-university-of-aveiro-40c9b-2026-
  12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T150000
 SUMMARY:HiTech 2027 | Information Session at the University of Aveiro
 LOCATION:Universidade de Aveiro\, Aveiro
@@ -184,9 +145,22 @@ URL:https://lykeion.pt/e/hitech-2027-information-session-at-the-university-
  of-aveiro-40c9b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-de-maria-joao-fer-ab89c-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Provas de Mestrado em Engenharia Biomédica de Maria João Ferreira
+  Costa — Medicina Personalizada no Desenvolvimento de uma Cavilha Intram
+ edular Tibial
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100356
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-de-mari
+ a-joao-fer-ab89c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-de-pintura-desenho-e-escultura-infinito-duplamente-cf56d-2026
  -12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T163000
 SUMMARY:Exposição de pintura\, desenho e escultura “Infinito Duplamente
   Simétrico
@@ -198,80 +172,96 @@ URL:https://lykeion.pt/e/exposicao-de-pintura-desenho-e-escultura-infinito-
  duplamente-cf56d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-carolina-aguas-cardoso-e55b1-2026-12-04@lagenda.p
- t
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261204
-SUMMARY:Provas de Mestrado de Carolina Àguas Cardoso
+UID:prova-de-mestrado-em-biologia-molecular-e-celular-de-miguel-60310-2026-
+ 12-09@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261209
+SUMMARY:Prova de Mestrado em Biologia Molecular e Celular de Miguel Guedes 
+ Mateus — Descodificar as respostas imunitárias mediadas pelo recetor de
+  Aril Hidrocarboneto durante infeções por Rickettsia
 LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100269
-URL:https://lykeion.pt/e/provas-de-mestrado-de-carolina-aguas-cardoso-e55b1
- .html
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100350
+URL:https://lykeion.pt/e/prova-de-mestrado-em-biologia-molecular-e-celular-
+ de-miguel-60310.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-em-biologia-molecular-e-celular-de-isabel-6c277-2026
- -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261204
-SUMMARY:Provas de Mestrado em Biologia Molecular e Celular de Isabel Ferrei
- ra Moreira
+UID:provas-de-mestrado-em-biologia-molecular-e-celular-de-camila-3f65a-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Provas de Mestrado em Biologia Molecular e Celular de Camila Marque
+ s Ferreira — Análise exploratória do Adn Livre circulanteplasmático e
+  da sua relação com parâmetros clínicosna infertilidade feminina
 LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100271
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100353
 URL:https://lykeion.pt/e/provas-de-mestrado-em-biologia-molecular-e-celular
- -de-isabel-6c277.html
+ -de-camila-3f65a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-rodrigo-frias-monteiro-4888a-2026-12-09@lagenda.p
- t
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Provas de Mestrado de Rodrigo Frias Monteiro
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100261
-URL:https://lykeion.pt/e/provas-de-mestrado-de-rodrigo-frias-monteiro-4888a
- .html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-microbiologia-de-beatriz-malheiro-mate-b31a2-2026
- -12-09@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Provas de Mestrado em Microbiologia de Beatriz Malheiro Mateus Novo
-  — Inoculantes bacterianos para melhorar a tolerância das plantas à po
- luição atmosférica urbana
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100267
-URL:https://lykeion.pt/e/provas-de-mestrado-em-microbiologia-de-beatriz-mal
- heiro-mate-b31a2.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-linguas-e-relacoes-empresariais-de-bea-6791a-2026
+UID:provas-de-mestrado-em-engenharia-fisica-de-catarina-do-carmo-3289a-2026
  -12-14@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261214
-SUMMARY:Provas de Mestrado em Línguas e Relações Empresariais de Beatriz
-  Teixeira Vilela de Beatriz Teixeira Vilela Vieira — A Comunicação nas
-  Práticas de Gestão de Recursos Humanos: Relatório de Estágio no G
+SUMMARY:Provas de Mestrado em Engenharia Fisica de Catarina do Carmo Dias C
+ ustódio
 LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100272
-URL:https://lykeion.pt/e/provas-de-mestrado-em-linguas-e-relacoes-empresari
- ais-de-bea-6791a.html
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100351
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-fisica-de-catarin
+ a-do-carmo-3289a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-patricia-pereira-de-ingles-no-1-o-cicl-e9c29-2026
- -12-17@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261217
-SUMMARY:Provas de Mestrado de Patrícia Pereira de inglês no 1.º ciclo do
-  ensino básico (2o ciclo)
+UID:provas-de-mestrado-em-biologia-aplicada-de-andreia-filipa-ai-dce35-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Provas de Mestrado em Biologia Aplicada de Andreia Filipa Aido Marq
+ ues Ferreira — Controlo de qualidade microbiológica de pasta de Nannoch
+ loropsis Gaditana
 LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100262
-URL:https://lykeion.pt/e/provas-de-mestrado-de-patricia-pereira-de-ingles-n
- o-1-o-cicl-e9c29.html
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100357
+URL:https://lykeion.pt/e/provas-de-mestrado-em-biologia-aplicada-de-andreia
+ -filipa-ai-dce35.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-fisica-de-joao-afonso-freir-582d7-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Provas de Mestrado em Engenharia Física de João Afonso Freire Mar
+ tins de Oliveira Lopes
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100354
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-fisica-de-joao-af
+ onso-freir-582d7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-fisica-de-simao-pedro-alves-3849a-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Provas de Mestrado em Engenharia Física de Simão Pedro Alves Lope
+ s
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100360
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-fisica-de-simao-p
+ edro-alves-3849a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-de-materiais-de-bruna-olive-0d88f-2026
+ -12-17@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261217
+SUMMARY:Provas de Mestrado em Engenharia de Materiais de Bruna Oliveira Ara
+ újo — Desenvolvimento de pós de aço a partir da valorização de apar
+ as
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://www.ua.pt/pt/noticias/10/100352
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-de-materiais-de-b
+ runa-olive-0d88f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:dialectics-of-images-talk-59b80-2027-03-07@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270307T113000
 SUMMARY:Dialectics of images_talk
 LOCATION:Instituto de Investigação em Design Media e Cultura\, Porto

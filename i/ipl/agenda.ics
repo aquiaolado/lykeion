@@ -6,18 +6,9 @@ X-WR-CALNAME:IPL (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:exposicao-painel-vicente-e44f1-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Exposição Painel Vicente
-LOCATION:Instituto Politécnico de Lisboa
-DESCRIPTION:https://www.upl.pt/agenda/exposicao-painel-vicente
-URL:https://lykeion.pt/e/exposicao-painel-vicente-e44f1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-painel-vicente-78be9-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T090000
+UID:exposicao-painel-vicente-78be9-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:Exposição Painel Vicente
 LOCATION:Escola Superior de Teatro e Cinema\, Amadora
 DESCRIPTION:https://www.estc.upl.pt/eventos/exposicao-painel-vicente-cendre
@@ -25,19 +16,10 @@ DESCRIPTION:https://www.estc.upl.pt/eventos/exposicao-painel-vicente-cendre
 URL:https://lykeion.pt/e/exposicao-painel-vicente-78be9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-mundo-visivel-7792e-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Exposição «Mundo Visível»
-LOCATION:Instituto Politécnico de Lisboa
-DESCRIPTION:https://www.upl.pt/agenda/exposicao-mundo-visivel
-URL:https://lykeion.pt/e/exposicao-mundo-visivel-7792e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-mundo-visivel-fotografia-de-joao-fazenda-38586-2026-11-24@lag
+UID:exposicao-mundo-visivel-fotografia-de-joao-fazenda-38586-2026-11-25@lag
  enda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T090000
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T090000
 SUMMARY:Exposição «Mundo Visível» (fotografia) de João fazenda
 LOCATION:Escola Superior de Teatro e Cinema\, Amadora
 DESCRIPTION:https://www.estc.upl.pt/eventos/exposicao-mundo-visivel-fotogra
@@ -46,102 +28,9 @@ URL:https://lykeion.pt/e/exposicao-mundo-visivel-fotografia-de-joao-fazenda
  -38586.html
 END:VEVENT
 BEGIN:VEVENT
-UID:isel-symposium-on-sustainable-energy-transition-isset-ac4e8-2026-11-24@
- lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:ISEL Symposium on Sustainable Energy Transition (ISSET)
-LOCATION:Instituto Superior de Engenharia de Lisboa
-DESCRIPTION:https://www.isel.pt/eventos/isel-symposium-sustainable-energy-t
- ransition
-URL:https://lykeion.pt/e/isel-symposium-on-sustainable-energy-transition-is
- set-ac4e8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-ines-rua-titulo-do-trabalho-estrategia-0327a-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T110000
-SUMMARY:Provas de mestrado de Inês Rua — Título do trabalho: "Estratég
- ias de Comunicação para a promoção da literacia em saúde na doença M
- ieloma Múltiplo: O Caso da Associação Portuguesa Contra a Leucemia.
-LOCATION:Escola Superior de Comunicação Social
-DESCRIPTION:https://www.escs.upl.pt/provas-publicas-mestrado
-URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-rua-titulo-do-trabalho-
- estrategia-0327a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-mariana-de-sousa-e-santos-amorim-prema-a214b-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T090000
-SUMMARY:Provas de mestrado de Mariana de Sousa e Santos Amorim — Prematur
- idade extrema e regulação emocional: análise micro-analítica das inter
- ações mãe-bebé aos 3 e 9 meses
-LOCATION:Escola Superior de Educação de Lisboa
-DESCRIPTION:https://www.eselx.upl.pt/eventos/provas-publicas-de-mestrados-n
- ao-profissionalizantes
-URL:https://lykeion.pt/e/provas-de-mestrado-de-mariana-de-sousa-e-santos-am
- orim-prema-a214b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-matilde-ines-titulo-do-trabalho-a-cobe-59f68-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T110000
-SUMMARY:Provas de mestrado de Matilde Inês — Título do trabalho: «A Co
- bertura Jornalística das Ondas de Calor nos órgaos públicos e privados 
- em Portugal.»
-LOCATION:Escola Superior de Comunicação Social
-DESCRIPTION:https://www.escs.upl.pt/provas-publicas-mestrado
-URL:https://lykeion.pt/e/provas-de-mestrado-de-matilde-ines-titulo-do-traba
- lho-a-cobe-59f68.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-raquel-garcia-alves-liberal-ferreira-p-85542-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T090000
-SUMMARY:Provas de mestrado de Raquel Garcia Alves Liberal Ferreira — Part
- icipação de alunos com multideficiência nas atividades desenvolvidas no
- s Centros de Apoio à Aprendizagem
-LOCATION:Escola Superior de Educação de Lisboa
-DESCRIPTION:https://www.eselx.upl.pt/eventos/provas-publicas-de-mestrados-n
- ao-profissionalizantes
-URL:https://lykeion.pt/e/provas-de-mestrado-de-raquel-garcia-alves-liberal-
- ferreira-p-85542.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-sofia-chen-xu-adesao-e-satisfacao-da-p-efd30-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Provas de mestrado de Sofia Chen Xu — Adesão e satisfação da p
- aciente com intervenções de telerreabilitação na saúde da mulher: Uma
-  revisão sistemática
-LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
-DESCRIPTION:https://www.essl.upl.pt/viver/ser-estudante/informacoes-academi
- cas/provas-publicas
-URL:https://lykeion.pt/e/provas-de-mestrado-de-sofia-chen-xu-adesao-e-satis
- facao-da-p-efd30.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-sonia-da-silva-ribeiro-titulo-do-traba-a5300-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T110000
-SUMMARY:Provas de mestrado de Sónia da Silva Ribeiro — Título do trabal
- ho: "A Comunicação Interna nas autarquias: proposta de plano de Comunica
- ção Interna para a Câmara Municipal de Esposende.
-LOCATION:Escola Superior de Comunicação Social
-DESCRIPTION:https://www.escs.upl.pt/provas-publicas-mestrado
-URL:https://lykeion.pt/e/provas-de-mestrado-de-sonia-da-silva-ribeiro-titul
- o-do-traba-a5300.html
-END:VEVENT
-BEGIN:VEVENT
 UID:isel-symposium-on-sustainable-energy-transition-isset-ac4e8-2026-11-25@
  lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:ISEL Symposium on Sustainable Energy Transition (ISSET)
 LOCATION:Instituto Superior de Engenharia de Lisboa
@@ -153,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pr-talks-2026-imprescindivel-o-poder-e-o-papel-das-relacoes-5fc1c-2026-
  11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T183000
 SUMMARY:PR Talks 2026: ImPRescindível - o poder e o papel das Relações P
  úblicas nas organizações
@@ -166,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-matilde-duarte-fanha-traducao-e-valida-b379d-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de mestrado de Matilde Duarte Fanha — Tradução e valida
  ção do Questionário Prolapse and Incontinence Knowledge Questionnaire (
@@ -180,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-raquel-maria-martins-antunes-rebelo-cr-3d4f3-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Provas de mestrado de Raquel Maria Martins Antunes Rebelo Cristóv
  ão Marques — Concordância entre a Autoperceção e a Avaliação Objet
@@ -194,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-sofia-mateus-titulo-do-trabalho-a-inve-14523-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T110000
 SUMMARY:Provas de mestrado de Sofia Mateus — Título do trabalho: “A In
  versão do Fluxo de Influência Na Indústria Cultural – Caso Wednesday 
@@ -206,7 +95,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-sofia-mateus-titulo-do-traba
 END:VEVENT
 BEGIN:VEVENT
 UID:12-a-mostra-de-cinema-estc-na-amadora-1c31b-2026-11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T100000
 SUMMARY:12.ª Mostra de Cinema ESTC na Amadora
 LOCATION:Escola Superior de Teatro e Cinema\, Amadora
@@ -217,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ii-jornadas-internacionais-de-cenografia-figurinos-14441-2026-11-26@lag
  enda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T090000
 SUMMARY:II Jornadas Internacionais de Cenografia & Figurinos
 LOCATION:Escola Superior de Teatro e Cinema\, Amadora
@@ -229,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-granja-monteiro-avaliacao-da-c-c5f18-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Beatriz Granja Monteiro — Avaliação da co
  ntaminação microbiológica em diferentes ambientes interiores com enfoqu
@@ -243,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-oliveira-titulo-do-trabalho-de-aae35-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Provas de mestrado de Beatriz Oliveira — Título do trabalho: «D
  ecoding The Invisible Strings: O Papel dos Easter Eggs Na Marca Taylor Swi
@@ -256,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-mendes-titulo-do-trabalho-manual-71c1f-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Provas de mestrado de Diogo Mendes — Título do trabalho: “Manu
  al construtivo de trabalho jornalístico: uma abordagem processual dos pri
@@ -269,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jessica-lourenco-titulo-do-trabalho-as-082e6-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Provas de mestrado de Jéssica Lourenço — Título do trabalho: 
  “As mulheres jornalistas na editoria de desporto da SIC: experiências\,
@@ -282,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-margarida-pereira-martins-perspectives-65933-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Provas de mestrado de Margarida Pereira Martins — Perspectives on
   person-centered practice of Physiotherapists in caring of stroke patients
@@ -295,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-marcia-alexandra-ruivo-mota-titulo-do-a9cd8-2026-
  11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Provas de mestrado de Márcia Alexandra Ruivo Mota — Título do t
  rabalho: "Relações Públicas Estratégicas na Promoção da NFL em Portu
@@ -308,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-nadia-ribeiro-titulo-do-trabalho-a-inf-84252-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Provas de mestrado de Nádia Ribeiro — Título do trabalho: “A 
  Influência do Booktok Na Intenção de Compra E Intenção de Recomendaç
@@ -321,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-nonlinear-phenomena-in-standard-and-specialty-opti-6afb0-2026
  -11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T140000
 SUMMARY:Seminário «Nonlinear Phenomena in Standard and Specialty Optical 
  Fibers Physics and Applications»
@@ -334,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:o-ensino-da-compreensao-oral-e-da-expressao-oral-em-plnm-060e9-2026-11-
  27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T110000
 SUMMARY:O ensino da compreensão oral e da expressão oral em PLNM
 LOCATION:Centro Interdisciplinar de Estudos Educacionais
@@ -346,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruna-filipa-dos-santos-gomes-cuco-1b755-2026-11-
  27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Bruna Filipa dos Santos Gomes Cuco
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -359,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruna-dos-reis-deodato-martins-a6fbc-2026-11-27@l
  agenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Bruna dos Reis Deodato Martins
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -370,9 +259,22 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-bruna-dos-reis-deodato-marti
  ns-a6fbc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-daniela-pereira-guedes-dcd15-2026-11-27@lagenda.p
+ t
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Daniela Pereira Guedes
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/provas-publicas-de-discussao-de-disser
+ tacao
+URL:https://lykeion.pt/e/provas-de-mestrado-de-daniela-pereira-guedes-dcd15
+ .html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-almeirinha-bargado-720f8-2026-11-27@lagenda
  .pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Diogo Almeirinha Bargado
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -385,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-filipa-d-aires-ciriaco-saragoca-e4ef4-2026-11-27@
  lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Filipa D' Aires Ciríaco Saragoça
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -397,7 +299,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-filipa-d-aires-ciriaco-sarag
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-flavia-marques-pedro-554e3-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Flávia Marques Pedro
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -410,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-goncalo-de-almeida-antonio-2ffa5-2026-11-27@lagen
  da.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Gonçalo de Almeida António
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -423,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-jessica-amaro-casal-riscos-ocupacionai-7b53b-2026
  -11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Jéssica Amaro Casal — Riscos ocupacionais 
  em Cantoneiros: O caso dos trabalhadores da Camara Municipal de Santarém
@@ -436,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-larissa-ferreira-de-abreu-0cb22-2026-11-27@lagend
  a.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Larissa Ferreira de Abreu
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -449,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-liliana-monteiro-correia-b8750-2026-11-27@lagenda
  .pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Liliana Monteiro Correia
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -462,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-madalena-pedro-craveiro-8954a-2026-11-27@lagenda.
  pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Madalena Pedro Craveiro
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -475,7 +377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-miguel-maria-aragao-de-vasconcelos-cos-05413-2026
  -11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Miguel Maria Aragão de Vasconcelos Costa
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -488,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-alexandra-carapinha-conceicao-abcf2-2026-11-
  27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Rita Alexandra Carapinha Conceição
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -501,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tomas-marques-da-costa-15aa8-2026-11-27@lagenda.p
  t
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Tomás Marques da Costa
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -512,23 +414,9 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-tomas-marques-da-costa-15aa8
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-jessica-amaro-casal-o-papel-do-control-01085-2026
- -11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261130
-SUMMARY:Provas de mestrado de Jéssica Amaro Casal — O papel do controlo 
- motor na intervenção em Fisioterapia Neurológica em crianças com paral
- isia cerebral
-LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
-DESCRIPTION:https://www.essl.upl.pt/viver/ser-estudante/informacoes-academi
- cas/provas-publicas
-URL:https://lykeion.pt/e/provas-de-mestrado-de-jessica-amaro-casal-o-papel-
- do-control-01085.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-ines-carvalho-titulo-do-trabalho-3639c-2026
  -11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T110000
 SUMMARY:Provas de mestrado de Maria Inês Carvalho — Título do trabalho:
   «Desafios Éticos no Jornalismo Radiofónico Local: o Caso da Rádio Iri
@@ -539,9 +427,23 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-ines-carvalho-titulo-d
  o-trabalho-3639c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-rita-gautier-ferreira-o-papel-do-contr-3b2f8-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Provas de mestrado de Rita Gautier Ferreira — O papel do controlo
+  motor na intervenção em Fisioterapia Neurológica em crianças com para
+ lisia cerebral
+LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
+DESCRIPTION:https://www.essl.upl.pt/viver/ser-estudante/informacoes-academi
+ cas/provas-publicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rita-gautier-ferreira-o-pape
+ l-do-contr-3b2f8.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-catarina-franco-titulo-do-trabalho-81256-2026
  -12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T110000
 SUMMARY:Provas de mestrado de Ana Catarina Franco — Título do trabalho: 
  «O Direto: Necessidade informativa ou espetacularização da informação
@@ -554,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-filipa-talhas-da-silva-relacao-ent-4b176-2026
  -12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de mestrado de Ana Filipa Talhas da Silva — Relação entr
  e dor e alterações de marcha na doença de Parkinson
@@ -567,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-lara-maria-gouveia-gomes-estagio-em-co-0dddf-2026
  -12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Provas de mestrado de Lara Maria Gouveia Gomes — Estágio em cont
  exto profissional: Fisioterapia em Neurologia\, Neurocirurgia\, Cerebrovas
@@ -580,7 +482,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-lara-maria-gouveia-gomes-est
 END:VEVENT
 BEGIN:VEVENT
 UID:masterclass-de-trombone-com-justin-clark-79d84-2026-12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Masterclass de Trombone com Justin Clark
 LOCATION:Escola Superior de Música de Lisboa
@@ -589,18 +491,9 @@ URL:https://lykeion.pt/e/masterclass-de-trombone-com-justin-clark-79d84.htm
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-publicas-de-mestrado-c4a01-2026-12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261203
-SUMMARY:Provas Públicas de Mestrado
-LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
-DESCRIPTION:https://www.essl.upl.pt/eventos/provas-publicas-de-mestrado
-URL:https://lykeion.pt/e/provas-publicas-de-mestrado-c4a01.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-de-fabiano-das-neves-simeao-organizacao-d-901f9-2026
  -12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Provas de mestrado de Fabiano das Neves Simeão — Organização d
  os serviços de prevenção\, na modalidade de serviços internos\, em emp
@@ -614,7 +507,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-guilherme-terras-marques-titulo-do-tra-bd9e8-2026
  -12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T110000
 SUMMARY:Provas de mestrado de Guilherme Terras Marques — Título do traba
  lho: «O papel da Inteligência Artificial no futuro do Jornalismo Desport
@@ -627,7 +520,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-luis-pedro-barros-rodrigues-cardoso-ti-4b614-2026
  -12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T110000
 SUMMARY:Provas de mestrado de Luís Pedro Barros Rodrigues Cardoso — Tít
  ulo do trabalho: "ENTRE O REAL E A FICÇÃO: Contexto Histórico Na Constr
@@ -640,10 +533,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-daniel-nobrega-rodrigues-estagio-78acd-2026
  -12-03@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Provas de mestrado de Pedro Daniel Nóbrega Rodrigues — Estágio 
- no Serviço de Saúde Ocupacional da Câmara Municipal de Loures
+ no Serviço de Saúde Ocupacional da Câmara Municipal de Lisboa
 LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
 DESCRIPTION:https://www.essl.upl.pt/viver/ser-estudante/informacoes-academi
  cas/provas-publicas
@@ -652,7 +545,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-pedro-daniel-nobrega-rodrigu
 END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-direito-contraordenacional-055e9-2026-12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T180000
 SUMMARY:Conferência: Direito Contraordenacional
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -664,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-carolina-da-felicia-teixeira-o-tit-b24fe-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Provas de mestrado de Ana Carolina da Felícia Teixeira — O títu
  lo de isoaglutininas ABO na avaliação e monitorização de transplantes 
@@ -678,7 +571,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-martins-titulo-do-trabalho-aq-4c893-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de Ana Rita Martins — Título do trabalho: "Aq
  ui Havia Flamingos: Um Guião Cinematográfico
@@ -690,7 +583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-david-gabriel-santos-costa-titulo-do-t-1e13d-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de David Gabriel Santos Costa — Título do tra
  balho: «Tecnologia Persuasiva em Aplicações de Apostas Desportivas: Uma
@@ -703,7 +596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-cunha-segurado-titulo-do-trabalh-c4358-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de Diogo Cunha Segurado — Título do trabalho:
   «Comunicação Digital dos Clubes de Futebol E Ligação dos Adeptos: Os
@@ -716,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-costa-titulo-do-trabalho-analise-92f8d-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de Joana Costa — Título do trabalho: «Análi
  se da publicidade Disney: o discurso e a perceçao de pais e filhos.»
@@ -728,7 +621,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-pereira-titulo-do-trabalho-na-pri-8b3d8-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de João Pereira — Título do trabalho: “Na 
  primeira página: os valores-notícia na imprensa desportiva portuguesa
@@ -740,7 +633,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-vitor-santos-titulo-do-trabalho-a-desi-bdd31-2026
  -12-04@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Provas de mestrado de Vitor Santos — Título do trabalho: “A de
  sinformação e a Guerra no Médio Oriente: um estudo sobre a TVI e CNN Po
@@ -752,7 +645,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-vitor-santos-titulo-do-traba
 END:VEVENT
 BEGIN:VEVENT
 UID:8-a-reuniao-internacional-da-racs-8e5df-2026-12-07@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:8.ª Reunião Internacional da RACS
 LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
@@ -762,7 +655,7 @@ URL:https://lykeion.pt/e/8-a-reuniao-internacional-da-racs-8e5df.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-publicas-de-mestrado-54586-2026-12-07@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Provas Públicas de Mestrado
 LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
@@ -772,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-catarina-oliveira-magalhaes-tempo-627c7-2026-
  12-07@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Provas de mestrado de Ana Catarina Oliveira Magalhães — Tempo de
   reação e prevenção de quedas em pessoas com Doença de Parkinson
@@ -784,7 +677,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-catarina-oliveira-magalh
 END:VEVENT
 BEGIN:VEVENT
 UID:8-a-reuniao-internacional-da-racs-acb83-2026-12-09@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:8.ª Reunião Internacional da RACS
 LOCATION:Escola Superior de Tecnologia da Saúde de Lisboa
@@ -795,7 +688,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ariana-filipa-de-brito-oliveira-agosti-d51a7-2026
  -12-09@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:Provas de mestrado de Ariana Filipa de Brito Oliveira Agostinho Ram
  alhete — Título do trabalho: “Do Fast Content Ao Slow Reading: A Gram
@@ -808,7 +701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-correia-barbosa-titulo-do-trab-96730-2026
  -12-09@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:Provas de mestrado de Beatriz Correia Barbosa — Título do trabal
  ho: “Redes Sociais e Saúde Mental: Um Estudo Qualitativo sobre Brain Ro
@@ -821,7 +714,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-giovanna-bandeira-titulo-do-trabalho-m-9d491-2026
  -12-09@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:Provas de mestrado de Giovanna Bandeira — Título do trabalho: «
  Marketing e Comunicação Digital B2B: Branding\, Posicionamento e Transfo
@@ -834,7 +727,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-adriana-ferreira-titulo-do-trabalho-br-19dbc-2026
  -12-10@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T110000
 SUMMARY:Provas de mestrado de Adriana Ferreira — Título do trabalho: «B
  randing de artistas musicais na era digital: o artista como marca.»
@@ -846,7 +739,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-leonardo-mascarenhas-titulo-do-trabalh-214c8-2026
  -12-10@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T110000
 SUMMARY:Provas de mestrado de Leonardo Mascarenhas — Título do trabalho:
   «Autenticidade Percebida nas Campanhas Digitais e Fidelização dos Adep
@@ -857,9 +750,21 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-leonardo-mascarenhas-titulo-
  do-trabalh-214c8.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-clara-ferreira-belbut-titulo-do-trabal-c2f0f-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T110000
+SUMMARY:Provas de mestrado de Clara Ferreira Belbut — Título do trabalho
+ : ““APAZ”\, o mockumentary circular animado"
+LOCATION:Escola Superior de Comunicação Social
+DESCRIPTION:https://www.escs.upl.pt/provas-publicas-mestrado
+URL:https://lykeion.pt/e/provas-de-mestrado-de-clara-ferreira-belbut-titulo
+ -do-trabal-c2f0f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-filipa-fidalgo-titulo-do-trabalho-a-co-9a6af-2026
  -12-11@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T110000
 SUMMARY:Provas de mestrado de Filipa Fidalgo — Título do trabalho: “A 
  Cobertura Mediática do conflito Israelo-Palestiniano na Imprensa Portugue
@@ -872,7 +777,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-beirao-titulo-do-trabalho-entre-ef763-2026-
  12-11@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T110000
 SUMMARY:Provas de mestrado de Pedro Beirão — Título do trabalho: «ENTR
  E O ALGORITMO E O ROSTO – O Desafio de Não Deixar Ninguém Para Trás.
@@ -885,7 +790,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-francisco-afonso-titulo-do-trabalho-cr-5b01f-2026
  -12-14@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T110000
 SUMMARY:Provas de mestrado de Francisco Afonso — Título do trabalho: Cri
  atividade humana e inteligência artificial: o futuro da publicidade entre
@@ -898,7 +803,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rita-bernardo-titulo-do-trabalho-a-rec-170e5-2026
  -12-14@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T110000
 SUMMARY:Provas de mestrado de Rita Bernardo — Título do trabalho: «A re
  ceção da comunicação digital de espetáculos teatrais: o caso do Teatr
@@ -909,9 +814,22 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-rita-bernardo-titulo-do-trab
  alho-a-rec-170e5.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-ana-catarina-albino-alves-saraiva-173c2-2026-12-1
+ 5@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Provas de mestrado de Ana Catarina Albino Alves Saraiva
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/provas-publicas-de-discussao-de-disser
+ tacao
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-catarina-albino-alves-sa
+ raiva-173c2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-andre-quiterio-ferreira-gerardo-9aceb-2026-12-15@
  lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de mestrado de André Quitério Ferreira Gerardo
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -922,9 +840,21 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-andre-quiterio-ferreira-gera
  rdo-9aceb.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-debora-felicidade-titulo-do-trabalho-v-51d26-2026
+UID:provas-de-mestrado-de-diogo-miguel-de-sousa-cd3ba-2026-12-15@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Provas de mestrado de Diogo Miguel de Sousa
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/provas-publicas-de-discussao-de-disser
+ tacao
+URL:https://lykeion.pt/e/provas-de-mestrado-de-diogo-miguel-de-sousa-cd3ba.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-debora-felicidade-titulo-do-trabalho-v-ed185-2026
  -12-15@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261215T110000
 SUMMARY:Provas de mestrado de Débora Felicidade — Título do trabalho: "
  Verificar sem Estar no Terreno: a Utilização de Testemunhos Palestiniano
@@ -932,12 +862,38 @@ SUMMARY:Provas de mestrado de Débora Felicidade — Título do trabalho: "
 LOCATION:Escola Superior de Comunicação Social
 DESCRIPTION:https://www.escs.upl.pt/provas-publicas-mestrado
 URL:https://lykeion.pt/e/provas-de-mestrado-de-debora-felicidade-titulo-do-
- trabalho-v-51d26.html
+ trabalho-v-ed185.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-ines-filipa-matos-monteiro-titulo-do-t-98975-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261215T110000
+SUMMARY:Provas de mestrado de Inês Filipa Matos Monteiro — Título do tr
+ abalho: "Autenticidade\, confiança e reputação organizacional: a perspe
+ tiva da Barral sobre os UGC creators no TikTok.
+LOCATION:Escola Superior de Comunicação Social
+DESCRIPTION:https://www.escs.upl.pt/provas-publicas-mestrado
+URL:https://lykeion.pt/e/provas-de-mestrado-de-ines-filipa-matos-monteiro-t
+ itulo-do-t-98975.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-pedro-miguel-santos-teixeira-39d0e-2026-12-15@lag
+ enda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Provas de mestrado de Pedro Miguel Santos Teixeira
+LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
+  Lisboa
+DESCRIPTION:https://www.iscal.upl.pt/provas-publicas-de-discussao-de-disser
+ tacao
+URL:https://lykeion.pt/e/provas-de-mestrado-de-pedro-miguel-santos-teixeira
+ -39d0e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2-seminario-sobre-investigacao-em-comunicacao-e-media-do-lia-36be7-2026
  -12-16@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T183000
 SUMMARY:2 Seminário sobre Investigação em Comunicação e Média do LIAC
  OM
@@ -950,7 +906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-carina-alexandra-rocha-esteves-titulo-45f46-2026-
  12-16@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T110000
 SUMMARY:Provas de mestrado de Carina Alexandra Rocha Esteves — Título do
   trabalho: “One Shelf – Protótipo de aplicação móvel para estimula
@@ -963,7 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-catarina-couveiro-titulo-do-trabalho-r-a4de6-2026
  -12-16@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T110000
 SUMMARY:Provas de mestrado de Catarina Couveiro — Título do trabalho: 
  “Respostas Comunicacionais Após O CANCELAMENTO: REPUTAÇÃO\, CONFIANÇ
@@ -976,7 +932,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-laura-maria-costa-reis-titulo-do-traba-0a69f-2026
  -12-16@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T110000
 SUMMARY:Provas de mestrado de Laura Maria Costa Reis — Título do trabalh
  o: “Beyond Croatia: Uma Plataforma Multimédia de Apoio A Estrangeiros Q
@@ -989,7 +945,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-filipa-alexandra-de-jesus-serrano-0d2e1-2026-12-1
  7@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:Provas de mestrado de Filipa Alexandra de Jesus Serrano
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -1001,7 +957,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-filipa-alexandra-de-jesus-se
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-raquel-lopes-cabral-a04bf-2026-12-17@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:Provas de mestrado de Raquel Lopes Cabral
 LOCATION:ISCAL – Instituto Superior de Contabilidade e Administração de
@@ -1014,7 +970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-juvenal-monteiro-titulo-do-trabalho-fr-82113-2026
  -12-18@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T110000
 SUMMARY:Provas de mestrado de Juvenal Monteiro — Título do trabalho: “
  Frankenstein Depois de Frankenstein: REMEDIAÇÃO E Reinscrição do Roman
@@ -1027,7 +983,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-mota-titulo-do-trabalho-o-market-bf788-2026
  -12-18@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T110000
 SUMMARY:Provas de mestrado de Maria Mota — Título do trabalho: “O Mark
  eting no mundo do cosplay: Os cosplayers enquanto marcas pessoais
@@ -1039,7 +995,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-tiago-viveiros-titulo-do-trabalho-qual-da8ff-2026
  -12-18@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T110000
 SUMMARY:Provas de mestrado de Tiago Viveiros — Título do trabalho: "Qual
   foi a cobertura jornalística realizada pelo jornal A Bola às medalhas d
@@ -1052,7 +1008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-daniela-silva-titulo-do-trabalho-a-cri-d00fe-2026
  -12-21@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261221T110000
 SUMMARY:Provas de mestrado de Daniela Silva — Título do trabalho: «A Cr
  iação de Um Biopic: Estudo de Caso Variações (2019)»
@@ -1064,7 +1020,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-adelaide-scarlatti-raposo-titulo-ea74f-2026
  -12-21@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261221T110000
 SUMMARY:Provas de mestrado de Maria Adelaide Scarlatti Raposo — Título d
  o trabalho: "Os genéricos enquanto micronarrativas: reflexão e condensa
@@ -1077,7 +1033,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-mariana-sobreira-de-barros-titulo-do-t-e2769-2026
  -12-21@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261221T110000
 SUMMARY:Provas de mestrado de Mariana Sobreira de Barros — Título do tra
  balho: «Storytelling Audiovisual Em Vídeos de Curta Duração: Estratég
@@ -1090,7 +1046,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-matilde-bernardo-rodrigues-titulo-do-t-ea74a-2026
  -12-21@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261221T110000
 SUMMARY:Provas de mestrado de Matilde Bernardo Rodrigues — Título do tra
  balho: " O papel da perspetiva na representação de catástrofes em ficç
@@ -1103,7 +1059,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ruben-andre-alves-pereira-titulo-do-tr-34415-2026
  -12-21@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261221T110000
 SUMMARY:Provas de mestrado de Rúben André Alves Pereira — Título do tr
  abalho: " Comunicação política\, emoções e a utilização de vídeo e
@@ -1116,7 +1072,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ingrid-santos-de-jesus-e-silva-titulo-f8aff-2026-
  12-22@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261222T110000
 SUMMARY:Provas de mestrado de Ingrid Santos de Jesus e Silva — Título do
   trabalho: «A Construção do Feminino Nos Fashions Films de Perfumes de 

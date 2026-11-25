@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:cidesd-researchers-among-the-worlds-top-2-scientists-in-stan-5e7dc-2026
  -12-08@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261208
 SUMMARY:CIDESD researchers among the world’s Top 2% Scientists in Stanfor
  d ranking
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:universidade-politecnica-de-santarem-recebe-conferencia-inte-6051e-2026
  -12-10@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T093000
 SUMMARY:Universidade Politécnica de Santarém recebe conferência internac
  ional sobre Cuidado Integrado em Saúde
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:universidade-politecnica-de-santarem-acolhe-3-a-edicao-do-in-2f461-2027
  -01-19@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20270119
 SUMMARY:Universidade Politécnica de Santarém acolhe 3.ª edição do Inte
  rnational Summit sobre Literacia Digital e Inclusão Social
@@ -46,5 +46,19 @@ DESCRIPTION:https://www.ipsantarem.pt/universidade-politecnica-de-santarem-
  ao-social/
 URL:https://lykeion.pt/e/universidade-politecnica-de-santarem-acolhe-3-a-ed
  icao-do-in-2f461.html
+END:VEVENT
+BEGIN:VEVENT
+UID:universidade-politecnica-de-santarem-acolhe-viii-congresso-i-d84b9-2027
+ -05-24@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270524
+SUMMARY:Universidade Politécnica de Santarém acolhe VIII Congresso Intern
+ acional de Enfermagem de Saúde Familiar
+LOCATION:Instituto Politécnico de Santarém\, Rio Maior
+DESCRIPTION:https://www.ipsantarem.pt/calendarios/universidade-politecnica-
+ de-santarem-acolhe-viii-congresso-internacional-de-enfermagem-de-saude-fam
+ iliar/
+URL:https://lykeion.pt/e/universidade-politecnica-de-santarem-acolhe-viii-c
+ ongresso-i-d84b9.html
 END:VEVENT
 END:VCALENDAR

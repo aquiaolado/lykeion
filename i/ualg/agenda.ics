@@ -6,48 +6,9 @@ X-WR-CALNAME:UAlg (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:10o-simposio-de-diabetes-do-algarve-f2a31-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:10o Simpósio de Diabetes do Algarve
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://www.ualg.pt/10o-simposio-de-diabetes-do-algarve
-URL:https://lykeion.pt/e/10o-simposio-de-diabetes-do-algarve-f2a31.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-one-memory-worth-a-thousand-pieces-of-paper-bedc5-2026-11-24@
- lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T170000
-SUMMARY:Exposição «One Memory Worth a Thousand Pieces of Paper»
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://www.ualg.pt/exposicao-one-memory-worth-thousand-pieces-
- paper
-URL:https://lykeion.pt/e/exposicao-one-memory-worth-a-thousand-pieces-of-pa
- per-bedc5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-peace-of-mind-21e26-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Exposição «Peace of Mind»
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
-URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminarios-de-farmacia-industrial-2026-6911f-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T140000
-SUMMARY:Seminários de Farmácia Industrial 2026
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://www.ualg.pt/seminarios-de-farmacia-industrial-2026
-URL:https://lykeion.pt/e/seminarios-de-farmacia-industrial-2026-6911f.html
-END:VEVENT
-BEGIN:VEVENT
 UID:artefacto-2026-conferencia-internacional-recebe-submissoes-d-eb096-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Artefacto 2026: conferência internacional recebe submissões de ar
  tigos e obras artísticas
@@ -58,8 +19,104 @@ URL:https://lykeion.pt/e/artefacto-2026-conferencia-internacional-recebe-su
  bmissoes-d-eb096.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-one-memory-worth-a-thousand-pieces-of-paper-bedc5-2026-11-25@
+ lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T170000
+SUMMARY:Exposição «One Memory Worth a Thousand Pieces of Paper»
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/exposicao-one-memory-worth-thousand-pieces-
+ paper
+URL:https://lykeion.pt/e/exposicao-one-memory-worth-a-thousand-pieces-of-pa
+ per-bedc5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-peace-of-mind-21e26-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Exposição «Peace of Mind»
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
+URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-792f9-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T133000
+SUMMARY:Fueling golden tides key role urea
+LOCATION:Centro de Ciências do Mar do Algarve\, Faro
+DESCRIPTION:https://ccmar.ualg.pt/activity/fueling-golden-tides-key-role-ur
+ ea
+URL:https://lykeion.pt/e/seminario-792f9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-integrado-em-ciencias-farmaceuticas-5655d-2026-11-25
+ @lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T133000
+SUMMARY:Provas de Mestrado Integrado em Ciências Farmacêuticas
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://fct.ualg.pt/provas-de-mestrado-integrado-em-ciencias-fa
+ rmaceuticas-268
+URL:https://lykeion.pt/e/provas-de-mestrado-integrado-em-ciencias-farmaceut
+ icas-5655d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-aquacultura-e-pescas-ramo-aquacultura-f2046-2026-
+ 11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de Mestrado em Aquacultura e Pescas - Ramo Aquacultura
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-aquacultura-e-pescas-
+ ramo-aquacultura-52
+URL:https://lykeion.pt/e/provas-de-mestrado-em-aquacultura-e-pescas-ramo-aq
+ uacultura-f2046.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-biologia-marinha-a41c5-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de Mestrado em Biologia Marinha
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-biologia-marinha-328
+URL:https://lykeion.pt/e/provas-de-mestrado-em-biologia-marinha-a41c5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-psicologia-clinica-e-da-saude-e35b1-2026-11-25@la
+ genda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Provas de Mestrado em Psicologia Clínica e da Saúde
+LOCATION:Centro de Estudos em Património Paisagem e Construção\, Faro
+DESCRIPTION:https://www.ualg.pt/provas-de-mestrado-em-psicologia-clinica-e-
+ da-saude-317
+URL:https://lykeion.pt/e/provas-de-mestrado-em-psicologia-clinica-e-da-saud
+ e-e35b1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminarios-de-farmacia-industrial-2026-6911f-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T140000
+SUMMARY:Seminários de Farmácia Industrial 2026
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/seminarios-de-farmacia-industrial-2026
+URL:https://lykeion.pt/e/seminarios-de-farmacia-industrial-2026-6911f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-e21ee-2026-12-02@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T113000
+SUMMARY:Broodstock conditioning larval health new strategies sustainable aq
+ uaculture
+LOCATION:Centro de Ciências do Mar do Algarve\, Faro
+DESCRIPTION:https://ccmar.ualg.pt/activity/broodstock-conditioning-larval-h
+ ealth-new-strategies-sustainable-aquaculture
+URL:https://lykeion.pt/e/seminario-e21ee.html
+END:VEVENT
+BEGIN:VEVENT
 UID:conferencia-processos-de-criacao-2026-fb630-2026-12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Conferência Processos de Criação 2026
 LOCATION:Centro de Investigação em Artes e Comunicação\, Faro
@@ -68,7 +125,7 @@ URL:https://lykeion.pt/e/conferencia-processos-de-criacao-2026-fb630.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-a2f18-2026-12-09@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T133000
 SUMMARY:Spatial variation copepodamide production across three copepod taxa
 LOCATION:Centro de Ciências do Mar do Algarve\, Faro
@@ -77,9 +134,19 @@ DESCRIPTION:https://ccmar.ualg.pt/activity/spatial-variation-copepodamide-p
 URL:https://lykeion.pt/e/seminario-a2f18.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-ace0d-2026-12-16@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T113000
+SUMMARY:Little fish são Tomé learning local communities
+LOCATION:Centro de Ciências do Mar do Algarve\, Faro
+DESCRIPTION:https://ccmar.ualg.pt/activity/little-fish-sao-tome-learning-lo
+ cal-communities
+URL:https://lykeion.pt/e/seminario-ace0d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:airesearch-summit-ciac-pldis-ipsantarem-2026-a8e96-2027-01-20@lagenda.p
  t
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270120T150000
 SUMMARY:AIResearch Summit Ciac-pldis | IPSantarém 2026
 LOCATION:Centro de Investigação em Artes e Comunicação\, Faro
@@ -90,7 +157,7 @@ URL:https://lykeion.pt/e/airesearch-summit-ciac-pldis-ipsantarem-2026-a8e96
 END:VEVENT
 BEGIN:VEVENT
 UID:7-o-seminario-de-inverno-do-ise-ualg-9f069-2027-01-23@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270123T190000
 SUMMARY:7.º Seminário de Inverno do ISE-UALG
 LOCATION:Universidade do Algarve\, Faro
@@ -101,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iv-coloquio-cinemas-do-mediterraneo-o-cinema-da-europa-medit-e571e-2027
  -04-17@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20270417
 SUMMARY:IV Colóquio Cinemas do Mediterrâneo – O Cinema da Europa Medite
  rrânea. Novas perspectivas para o século XXI

@@ -6,28 +6,37 @@ X-WR-CALNAME:CICS.NOVA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:26-ciencias-sociais-a-conversa-a-construcao-da-ciencia-780c0-2026-11-24
- @lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T160000
-SUMMARY:26 Ciências Sociais à Conversa – (A Construção da) Ciência..
- .
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciencias-sociais-a-con
- versa-a-construcao-da-ciencia-para-a-sociedade/
-URL:https://lykeion.pt/e/26-ciencias-sociais-a-conversa-a-construcao-da-cie
- ncia-780c0.html
-END:VEVENT
-BEGIN:VEVENT
-UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-24@lagen
+UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-25@lagen
  da.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
 SUMMARY:26 Exposição Etnografias da Pastorícia
 LOCATION:Centro Interdisciplinar de Ciências Sociais
 DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
  da-pastoricia/
 URL:https://lykeion.pt/e/26-17-dez-26-exposicao-etnografias-da-pastoricia-a
  35a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:26-vi-edicao-do-roteiro-de-seminarios-de3f5-2026-11-26@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T170000
+SUMMARY:VI Edição Do Roteiro De Seminários
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/vi-edicao-do-roteiro-d
+ e-seminarios/
+URL:https://lykeion.pt/e/26-vi-edicao-do-roteiro-de-seminarios-de3f5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:26-ciclo-de-conferencias-sobre-condicoes-de-trabalho-9ad21-2026-12-04@l
+ agenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:26 Ciclo De Conferências Sobre Condições De Trabalho
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/ciclo-de-conferencias-
+ sobre-condicoes-de-trabalho-3/
+URL:https://lykeion.pt/e/26-ciclo-de-conferencias-sobre-condicoes-de-trabal
+ ho-9ad21.html
 END:VEVENT
 END:VCALENDAR

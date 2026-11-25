@@ -6,39 +6,17 @@ X-WR-CALNAME:Planetário do Porto - Centro Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:28o-aniversario-do-planetario-do-porto-ccv-2f0dc-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T140000
-SUMMARY:28o Aniversário do Planetário do Porto – CCV
+UID:academia-da-robotica-20262027-4e764-2026-11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T020000
+SUMMARY:Academia da Robótica 2026–2027
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
-DESCRIPTION:https://planetario.up.pt/pt/evento/planetario28anos
-URL:https://lykeion.pt/e/28o-aniversario-do-planetario-do-porto-ccv-2f0dc.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-UID:documentario-celebra-o-dia-nacional-da-cultura-cientifica-co-2f5fe-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-SUMMARY:Documentário: Celebra o dia nacional da cultura científica connos
- co no Planetário do Porto
-LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
-DESCRIPTION:https://www.planetario.up.pt
-URL:https://lykeion.pt/e/documentario-celebra-o-dia-nacional-da-cultura-cie
- ntifica-co-2f5fe.html
-END:VEVENT
-BEGIN:VEVENT
-UID:porto-post-doc-2026-planetario-02-1765c-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T173000
-SUMMARY:Porto/Post/Doc 2026 - Planetário #02
-LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
-DESCRIPTION:
-URL:https://lykeion.pt/e/porto-post-doc-2026-planetario-02-1765c.html
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
 END:VEVENT
 BEGIN:VEVENT
 UID:mais-perto-das-estrelas-novembro-2026-a34cf-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T210000
 SUMMARY:Mais Perto das Estrelas – novembro 2026
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -47,7 +25,7 @@ URL:https://lykeion.pt/e/mais-perto-das-estrelas-novembro-2026-a34cf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:observacao-astronomica-com-telescopios-a34cf-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T210000
 SUMMARY:Observação astronómica com telescópios
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -56,7 +34,7 @@ URL:https://lykeion.pt/e/observacao-astronomica-com-telescopios-a34cf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:planettario-do-porto-biosfera-da-escuridao-c69d7-2026-11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T160000
 SUMMARY:Planettário do Porto- Biosfera da Escuridão
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -66,7 +44,7 @@ URL:https://lykeion.pt/e/planettario-do-porto-biosfera-da-escuridao-c69d7.h
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-ha-formas-no-espaco-054e1-2026-11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:Planetário do Porto- Há Formas no Espaço
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -75,7 +53,7 @@ URL:https://lykeion.pt/e/planetario-do-porto-ha-formas-no-espaco-054e1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:porto-post-doc-2026-planetario-03-aaeb4-2026-11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T173000
 SUMMARY:Porto/Post/Doc 2026 - Planetário #03
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -83,8 +61,69 @@ DESCRIPTION:
 URL:https://lykeion.pt/e/porto-post-doc-2026-planetario-03-aaeb4.html
 END:VEVENT
 BEGIN:VEVENT
+UID:planetario-do-porto-3clipse-050bf-2026-12-01@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261201T160000
+SUMMARY:Planetário do Porto- 3CLIPSE
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:
+URL:https://lykeion.pt/e/planetario-do-porto-3clipse-050bf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:planetario-do-porto-somos-os-guardioes-3120f-2026-12-01@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261201T150000
+SUMMARY:Planetário do Porto- Somos os Guardiões
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:
+URL:https://lykeion.pt/e/planetario-do-porto-somos-os-guardioes-3120f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:planetario-do-porto-o-vitor-e-a-sofia-vao-a-lua-cc555-2026-12-05@lagend
+ a.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261205T150000
+SUMMARY:Planetário do Porto- O Vitor e a Sofia vão à Lua
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:
+URL:https://lykeion.pt/e/planetario-do-porto-o-vitor-e-a-sofia-vao-a-lua-cc
+ 555.html
+END:VEVENT
+BEGIN:VEVENT
+UID:planetario-do-porto-buracos-negros-supermassivos-91764-2026-12-05@lagen
+ da.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261205T160000
+SUMMARY:Planetário do Porto: Buracos Negros Supermassivos
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:
+URL:https://lykeion.pt/e/planetario-do-porto-buracos-negros-supermassivos-9
+ 1764.html
+END:VEVENT
+BEGIN:VEVENT
+UID:o-fantasma-do-universo-a-procura-da-materia-escura-0b826-2026-12-08@lag
+ enda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261208T160000
+SUMMARY:O Fantasma do Universo - a procura da matéria escura
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:
+URL:https://lykeion.pt/e/o-fantasma-do-universo-a-procura-da-materia-escura
+ -0b826.html
+END:VEVENT
+BEGIN:VEVENT
+UID:planetario-do-porto-o-sol-a-nossa-estrela-b58bc-2026-12-12@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T160000
+SUMMARY:Planetário do Porto- O Sol\, a nossa estrela
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:
+URL:https://lykeion.pt/e/planetario-do-porto-o-sol-a-nossa-estrela-b58bc.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:minicursos-de-astronomia-a4124-2026-12-14@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T130000
 SUMMARY:Minicursos de Astronomia
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto

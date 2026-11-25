@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPLUSO (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:encontro-a-relacao-escola-familia-3413e-2026-12-15@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261215T160000
+SUMMARY:Encontro: A Relação Escola Família
+LOCATION:Escola Superior de Ciências da Administração do Instituto Polit
+ écnico da Lusofonia
+DESCRIPTION:https://www.ipluso.pt/pt/agenda-de-eventos/a-relacao-escola-fam
+ ilia
+URL:https://lykeion.pt/e/encontro-a-relacao-escola-familia-3413e.html
+END:VEVENT
+END:VCALENDAR

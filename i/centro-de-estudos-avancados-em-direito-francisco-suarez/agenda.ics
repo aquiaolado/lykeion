@@ -6,9 +6,22 @@ X-WR-CALNAME:CEAD-FS (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:aula-aberta-protecao-de-dados-pessoais-uma-abordagem-introdu-0c77b-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Aula Aberta - Proteção de Dados Pessoais - Uma Abordagem Introdut
+ ória ao Regulamento da União Europeia
+LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
+DESCRIPTION:https://cead.ulusofona.pt/pt/eventos/aula-aberta-protecao-de-da
+ dos-pessoais-uma-abordagem-introdutoria-ao-regulamento-da-uniao-europeia
+URL:https://lykeion.pt/e/aula-aberta-protecao-de-dados-pessoais-uma-abordag
+ em-introdu-0c77b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:seminario-acesso-a-justica-e-sociedade-digital-7b120-2026-12-10@lagenda
  .pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T130000
 SUMMARY:Seminário - Acesso à Justiça e Sociedade Digital
 LOCATION:Centro de Estudos Avançados em Direito Francisco Suárez
@@ -20,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-diplomacia-parlamentar-o-papel-dos-parlamentos-n-0b0cc-2026
  -12-14@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T103000
 SUMMARY:Aula Aberta - Diplomacia Parlamentar: O Papel dos Parlamentos na Po
  lítica Externa Contemporânea

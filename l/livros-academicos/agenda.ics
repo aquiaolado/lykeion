@@ -6,59 +6,9 @@ X-WR-CALNAME:Livros e estudos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:apresentacao-do-livro-arqueologia-do-sagrado-de-kenia-de-agu-a3c7a-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T090000
-SUMMARY:Apresentação do livro “Arqueologia do Sagrado”\, de Kenia de 
- Aguiar Ribeiro
-LOCATION:Tomar\, Tomar
-DESCRIPTION:https://www.cm-tomar.pt/comunicacao/agenda/eventos-literarios/a
- presentacao-do-livro-arqueologia-do-sagrado-de-kenia-de-aguiar-ribeiro
-URL:https://lykeion.pt/e/apresentacao-do-livro-arqueologia-do-sagrado-de-ke
- nia-de-agu-a3c7a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lancamento-do-livro-164f8-2026-11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T183000
-SUMMARY:Lançamento do livro
-LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
- 6625
-URL:https://lykeion.pt/e/lancamento-do-livro-164f8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-89f8c-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T183000
-SUMMARY:Lançamento do livro: «A Morte medicamente assistida à luz da Con
- stituição»
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/lancamento-do-livro-morte-medi
- camente-assistida-luz-da-constituicao
-URL:https://lykeion.pt/e/lancamento-do-livro-a-morte-medicamente-assistida-
- a-luz-da-c-89f8c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:vigo-apresentacao-do-livro-perfeita-heavenor-vol-1-de-rafael-40406-2026
- -11-24@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261124T110000
-SUMMARY:Vigo: Apresentação do livro «Perfeita – Heavenor vol. 1»\, de
-  Rafaela S. Guido
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/vigo-apresentacao-do-livro-perfeita-heavenor-vol-1-de-ra
- faela-s-guido
-URL:https://lykeion.pt/e/vigo-apresentacao-do-livro-perfeita-heavenor-vol-1
- -de-rafael-40406.html
-END:VEVENT
-BEGIN:VEVENT
 UID:apresentacao-do-livro-regioes-autonomas-na-madeira-34344-2026-11-25@lag
  enda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Apresentação do livro «Regiões Autónomas» na Madeira
 LOCATION:Assembleia da República
@@ -70,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-relevancia-curricular-politecnica-o-fu-f4eb8-2026
  -11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T150000
 SUMMARY:Apresentação do livro «Relevância Curricular Politécnica: O fu
  turo urgente»
@@ -83,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-pensar-o-futuro-portugal-e-o-mundo-em-85c16-2026-
  11-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T183000
 SUMMARY:Apresentação do livro “Pensar o Futuro: Portugal e o mundo em p
  rospetiva estratégica
@@ -94,12 +44,37 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-pensar-o-futuro-portugal-e-o
  -mundo-em-85c16.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lancamento-do-livro-querubim-lapa-pintura-e-ceramica-df116-2026-11-25@l
+ agenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T180000
+SUMMARY:Lançamento do livro Querubim Lapa. Pintura e Cerâmica
+LOCATION:Museu Nacional de Arte Contemporânea do Chiado
+DESCRIPTION:https://mnac-mc.pt/eventos/lancamento-do-livro-querubim-lapa-pi
+ ntura-e-ceramica/
+URL:https://lykeion.pt/e/lancamento-do-livro-querubim-lapa-pintura-e-cerami
+ ca-df116.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-a-morte-medicamente-assistida-a-luz-da-c-89f8c-2026
+ -11-25@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261125T183000
+SUMMARY:Lançamento do livro: «A Morte medicamente assistida à luz da Con
+ stituição»
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/lancamento-do-livro-morte-medi
+ camente-assistida-luz-da-constituicao
+URL:https://lykeion.pt/e/lancamento-do-livro-a-morte-medicamente-assistida-
+ a-luz-da-c-89f8c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sessao-de-apresentacao-de-resultados-do-projeto-ca7e1-2026-11-25@lagend
  a.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261125T143000
 SUMMARY:Sessão de Apresentação de Resultados do Projeto
-LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+LOCATION:Departamento de Economia\, Sociologia e Gestão (DESG)\, Vila Real
 DESCRIPTION:https://eventos.utad.pt/evento/sessao-apresentacao-resultados-p
  rojeto/
 URL:https://lykeion.pt/e/sessao-de-apresentacao-de-resultados-do-projeto-ca
@@ -107,7 +82,7 @@ URL:https://lykeion.pt/e/sessao-de-apresentacao-de-resultados-do-projeto-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-terramoto-de-1975-092b0-2026-11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T183000
 SUMMARY:Apresentação do livro «Terramoto de 1975»
 LOCATION:Vila Nova de Famalicão\, Vila Nova de Famalicão
@@ -116,19 +91,45 @@ DESCRIPTION:https://www.famalicao.pt/comunicacao/agenda/evento-59/apresenta
 URL:https://lykeion.pt/e/apresentacao-do-livro-terramoto-de-1975-092b0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:apresentacao-do-livro-trabalho-s-work-s-88d96-2026-11-26@lagenda.pt
-DTSTAMP:20261124T000000Z
+UID:apresentacao-do-livro-trabalho-s-work-s-fbd8f-2026-11-26@lagenda.pt
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 SUMMARY:Apresentação do livro “Trabalho s / Work s"
-LOCATION:Universidade Católica Portuguesa\, Porto
-DESCRIPTION:https://artes.porto.ucp.pt/pt-pt/eventos/apresentacao-do-livro-
- trabalho-s-work-s-31766
-URL:https://lykeion.pt/e/apresentacao-do-livro-trabalho-s-work-s-88d96.html
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/apresentacao-do-livro-trabalho-s-w
+ ork-s
+URL:https://lykeion.pt/e/apresentacao-do-livro-trabalho-s-work-s-fbd8f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:center-on-longevity-leadership-one-year-anniversary-event-bo-290cd-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:Center on Longevity Leadership - One Year Anniversary Event & Book 
+ Launch
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/center-longevity-leadership-on
+ e-year-anniversary-event-book-launch
+URL:https://lykeion.pt/e/center-on-longevity-leadership-one-year-anniversar
+ y-event-bo-290cd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-mentoria-no-ensino-superior-perspetivas-c7494-2026-
+ 11-26@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T180000
+SUMMARY:Lançamento do livro ''Mentoria no Ensino Superior: Perspetivas e P
+ ráticas no Espaço Ibero-Americano ''
+LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/feup/pt/noticias_geral.ver_noticia?P_NR=2
+ 03922
+URL:https://lykeion.pt/e/lancamento-do-livro-mentoria-no-ensino-superior-pe
+ rspetivas-c7494.html
 END:VEVENT
 BEGIN:VEVENT
 UID:vigo-apresentacao-do-livro-meditar-con-fernando-pessoa-40406-2026-11-26
  @lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T190000
 SUMMARY:Vigo: Apresentação do livro «Meditar con Fernando Pessoa»
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -138,20 +139,22 @@ URL:https://lykeion.pt/e/vigo-apresentacao-do-livro-meditar-con-fernando-pe
  ssoa-40406.html
 END:VEVENT
 BEGIN:VEVENT
-UID:apresentacao-do-livro-este-ano-nao-ha-natal-721c4-2026-11-27@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T170000
-SUMMARY:Apresentação do Livro: “Este Ano Não Há Natal
-LOCATION:Biblioteca Municipal de Almodôvar\, Almodôvar
-DESCRIPTION:https://cm-almodovar.pt/eventos/apresentacao-do-livro-este-ano-
- nao-ha-natal/
-URL:https://lykeion.pt/e/apresentacao-do-livro-este-ano-nao-ha-natal-721c4.
- html
+UID:lancamento-do-livro-mentoria-no-ensino-superior-perspetivas-3f365-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T180000
+SUMMARY:Lançamento do livro ''Mentoria no Ensino Superior: Perspetivas e P
+ ráticas no Espaço Ibero-Americano ''
+LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/feup/pt/noticias_geral.ver_noticia?P_NR=2
+ 03922
+URL:https://lykeion.pt/e/lancamento-do-livro-mentoria-no-ensino-superior-pe
+ rspetivas-3f365.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-ela-metafisicamente-doutro-mundo-de-po-cdbae-2026
  -11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:Apresentação do Livro “Ela\, Metafisicamente Doutro Mundo”\, 
  de Poeta da Cidade
@@ -163,7 +166,7 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-ela-metafisicamente-doutro-m
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-quero-ser-grande-ja-b8d4b-2026-11-28@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Apresentação do livro «Quero Ser Grande Já!»
 LOCATION:Livraria Café Mirabolante\, Praça Sousa Prado\, Odemira\, Odemir
@@ -176,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-de-newton-a-einstein-de-arlindo-olivei-471b4-2026
  -11-30@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Apresentação do Livro - De Newton a Einstein\, de Arlindo Oliveir
  a
@@ -189,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-o-palacio-das-lagrimas-0b7c7-2026-12-01@lagenda.p
  t
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261201T170000
 SUMMARY:Apresentação do livro “O Palácio das Lágrimas
 LOCATION:Biblioteca Municipal de Gondomar\, Gondomar
@@ -201,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-de-estudo-prevalencia-da-deficiencia-na-populac-a5558-2026
  -12-02@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T140000
 SUMMARY:Apresentação de estudo: Prevalência da Deficiência na Populaç
  ão Adulta em Idade Ativa
@@ -212,36 +215,123 @@ URL:https://lykeion.pt/e/apresentacao-de-estudo-prevalencia-da-deficiencia-
  na-populac-a5558.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lancamento-do-livro-memorial-de-ministros-f5acc-2026-12-18@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20261218T120000
-SUMMARY:Lançamento do livro 'Memorial de Ministros'
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
- \, Alvalade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/18-de-dezembro-lancamento-
- do-livro-memorial-de-ministros
-URL:https://lykeion.pt/e/lancamento-do-livro-memorial-de-ministros-f5acc.ht
- ml
+UID:lancamento-do-livro-manter-a-peste-textos-reunidos-fea0e-2026-12-04@lag
+ enda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T183000
+SUMMARY:Lançamento do livro: Manter a Peste – Textos Reunidos
+LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
+ ça
+DESCRIPTION:https://www.inetmd.pt/eventos/lancamento-do-livro-manter-a-pest
+ e-textos-reunidos/
+URL:https://lykeion.pt/e/lancamento-do-livro-manter-a-peste-textos-reunidos
+ -fea0e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:convite-para-o-lancamento-do-livro-o-contrato-de-volume-e-o-631c1-2027-
- 01-27@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20270127T120000
-SUMMARY:Convite para o lançamento do livro 'O contrato de Volume e o Trans
- porte Marítimo de Mercadorias – Dos granéis aos contentores\, do ‘tr
- amping’ às linhas regulares'
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-janeiro-convite-para
- -o-lancamento-do-livro-o-contrato-de-volume-e-o-transporte-maritimo-de-mer
- cadorias-dos-graneis-aos-contentores-do-tramping-as-linhas-regulares
-URL:https://lykeion.pt/e/convite-para-o-lancamento-do-livro-o-contrato-de-v
- olume-e-o-631c1.html
+UID:apresentacao-do-livro-manual-de-iniciacao-a-b8d4b-2026-12-05@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261205T143000
+SUMMARY:Apresentação do livro Manual de iniciação à guitarra portugues
+ a de Mariana Martins
+LOCATION:Biblioteca Municipal José Saramago\, Odemira
+DESCRIPTION:https://www.cm-odemira.pt/municipio/comunicacao-e-informacao/ag
+ enda-municipal/evento/apresentacao-do-livro-manual-de-iniciacao-a-guitarra
+ -portuguesa-de-mariana-martins
+URL:https://lykeion.pt/e/apresentacao-do-livro-manual-de-iniciacao-a-b8d4b.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-volume-28-da-colecao-estudos-memorias-uniarq-e-84247-2026
+ -12-09@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T173000
+SUMMARY:Lançamento do volume 28 da Coleção Estudos & Memórias (UNIARQ) 
+ "Exploring Textile Transitions in the Long Second Millennium BCE (2200-800
+  BCE): Bronze Age Portugal in its Mediterranean and European Co
+LOCATION:Faculdade de Letras da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/lancamento-do-volume-28
+ -da-colecao-estudos-memorias-uniarq
+URL:https://lykeion.pt/e/lancamento-do-volume-28-da-colecao-estudos-memoria
+ s-uniarq-e-84247.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-imaginacao-livro-2-b8d4b-2026-12-10@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T180000
+SUMMARY:Apresentação do livro Imaginação livro utopias Ciências e vida
+  quotidiana
+LOCATION:Livraria Café Mirabolante\, Praça Sousa Prado\, Odemira\, Odemir
+ a
+DESCRIPTION:https://www.cm-odemira.pt/municipio/comunicacao-e-informacao/ag
+ enda-municipal/evento/apresentacao-do-livro-imaginacao-livro-2-utopias-cie
+ ncias-e-vida-quotidiana
+URL:https://lykeion.pt/e/apresentacao-do-livro-imaginacao-livro-2-b8d4b.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-a-educacao-e-a-democracia-portuguesa-d-9dcf6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T153000
+SUMMARY:Apresentação do Livro “A Educação e a Democracia Portuguesa
+ ”\, de António Teodoro
+LOCATION:Instituto Politécnico de Setúbal\, Setúbal
+DESCRIPTION:https://ese.unips.pt/eventos/apresentacao-do-livro-a-educacao-e
+ -a-democracia-portuguesa-de-antonio-teodoro/
+URL:https://lykeion.pt/e/apresentacao-do-livro-a-educacao-e-a-democracia-po
+ rtuguesa-d-9dcf6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-escavar-o-passado-b8d4b-2026-12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T180000
+SUMMARY:Apresentação do livro «Escavar o Passado»
+LOCATION:Livraria Café Mirabolante\, Praça Sousa Prado\, Odemira\, Odemir
+ a
+DESCRIPTION:https://www.cm-odemira.pt/municipio/comunicacao-e-informacao/ag
+ enda-municipal/evento/apresentacao-do-livro-escavar-o-passado
+URL:https://lykeion.pt/e/apresentacao-do-livro-escavar-o-passado-b8d4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sessao-de-apresentacao-do-relatorio-da-negociacao-coletiva-d-12a6e-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T153000
+SUMMARY:Sessão de apresentação do Relatório da Negociação Coletiva de
+  2025
+LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
+DESCRIPTION:https://porto.ucp.pt/eventos/sessao-de-apresentacao-do-relatori
+ o-da-negociacao-coletiva-de-2025
+URL:https://lykeion.pt/e/sessao-de-apresentacao-do-relatorio-da-negociacao-
+ coletiva-d-12a6e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-plantas-b8d4b-2026-12-12@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T160000
+SUMMARY:Apresentação do livro «+ Plantas»
+LOCATION:Livraria Café Mirabolante\, Praça Sousa Prado\, Odemira\, Odemir
+ a
+DESCRIPTION:https://www.cm-odemira.pt/municipio/comunicacao-e-informacao/ag
+ enda-municipal/evento/apresentacao-do-livro-plantas
+URL:https://lykeion.pt/e/apresentacao-do-livro-plantas-b8d4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apresentacao-do-livro-mulheres-portuguesas-no-quebeque-camin-604f7-2027
+ -01-16@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20270116T170000
+SUMMARY:Apresentação do livro Mulheres Portuguesas no Quebeque – Caminh
+ os da Liberdade
+LOCATION:Observatório da Emigração
+DESCRIPTION:https://observatorioemigracao.pt/np4/10759.html
+URL:https://lykeion.pt/e/apresentacao-do-livro-mulheres-portuguesas-no-queb
+ eque-camin-604f7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-a-surdez-e-a-pessoa-com-disfuncao-audi-5f3f9-2027
  -02-25@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Lisbon:20270225T130000
 SUMMARY:Apresentação do livro “A Surdez e a Pessoa com Disfunção Audi
  tiva
@@ -252,36 +342,9 @@ URL:https://lykeion.pt/e/apresentacao-do-livro-a-surdez-e-a-pessoa-com-disf
  uncao-audi-5f3f9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lancamento-do-livro-das-constituicoes-dos-regimes-nacionalis-4ee70-2027
- -03-09@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20270309T120000
-SUMMARY:Lançamento do Livro Das Constituições dos Regimes Nacionalistas 
- do Entre Guerras
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/9-de-marco-lancamento-do-l
- ivro-das-constituicoes-dos-regimes-nacionalistas-do-entre-guerras
-URL:https://lykeion.pt/e/lancamento-do-livro-das-constituicoes-dos-regimes-
- nacionalis-4ee70.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lancamento-do-livro-a-construcao-juridica-dos-territorios-ul-c2dbf-2027
- -04-12@lagenda.pt
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Lisbon:20270412T120000
-SUMMARY:Lançamento do livro 'A Construção Jurídica dos Territórios Ult
- ramarinos Portugueses no século XIX. Modelos\, Doutrinas e Leis'
-LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
-DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/12-de-abril-lancamento-do-
- livro-a-construcao-juridica-dos-territorios-ultramarinos-portugueses-no-se
- culo-xix-modelos-doutrinas-e-leis
-URL:https://lykeion.pt/e/lancamento-do-livro-a-construcao-juridica-dos-terr
- itorios-ul-c2dbf.html
-END:VEVENT
-BEGIN:VEVENT
 UID:apresentacao-do-livro-desporto-sociabilidades-e-comunidades-d84b3-2027-
  04-20@lagenda.pt
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20270420
 SUMMARY:Apresentação do livro\, “Desporto\, Sociabilidades e Comunidade
  s” e evocação da memória de Manuel Sérgio

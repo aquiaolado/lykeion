@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Escola Nacional de Saúde Pública (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:provas-de-mestrado-dezembro-404bf-2026-12-17@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261217T120000
+SUMMARY:Provas de Mestrado – dezembro
+LOCATION:Escola Nacional de Saúde Pública
+DESCRIPTION:https://www.ensp.unl.pt/evento/provas-de-mestrado-dezembro-3/
+URL:https://lykeion.pt/e/provas-de-mestrado-dezembro-404bf.html
+END:VEVENT
+END:VCALENDAR

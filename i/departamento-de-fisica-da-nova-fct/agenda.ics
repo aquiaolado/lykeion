@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Física da NOVA FCT (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-vas-12fae-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T140000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica do Licenciado Vasco Gui
+ lherme Gomes O’Neill Pedrosa
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-do-licenciado-vasco-guilherme-gomes-o-neill-pedrosa
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-do-lice
+ nciado-vas-12fae.html
+END:VEVENT
+END:VCALENDAR
