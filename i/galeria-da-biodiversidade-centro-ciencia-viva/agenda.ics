@@ -6,9 +6,9 @@ X-WR-CALNAME:Galeria da Biodiversidade - Centro Ciência Viva (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:kit-1-a-vida-do-jardim-9b91f-2026-11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T100000
+UID:kit-1-a-vida-do-jardim-9b91f-2026-11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T100000
 SUMMARY:Kit 1 a Vida do Jardim
 LOCATION:Galeria da Biodiversidade - Centro Ciência Viva\, Porto
 DESCRIPTION:
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:performance-to-belong-is-to-drift-and-remain-2364a-2026-11-28@lagenda.p
  t
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T100000
 SUMMARY:Performance to belong is to drift and remain
 LOCATION:Galeria da Biodiversidade - Centro Ciência Viva\, Porto
@@ -25,17 +25,5 @@ DESCRIPTION:https://mhnc.up.pt/pt/eventos/semana-da-ciencia-e-da-tecnologia
  -na-galeria-da-biodiversidade/
 URL:https://lykeion.pt/e/performance-to-belong-is-to-drift-and-remain-2364a
  .html
-END:VEVENT
-BEGIN:VEVENT
-UID:conferencia-o-pensamento-ecologico-na-arte-musica-e-filosofi-2fdf3-2026
- -11-29@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261129T180000
-SUMMARY:Conferência: O pensamento ecológico na arte\, música e filosofia
-LOCATION:Galeria da Biodiversidade - Centro Ciência Viva\, Porto
-DESCRIPTION:https://mhnc.up.pt/pt/eventos/o-pensamento-ecologico-na-arte-mu
- sica-e-filosofia/
-URL:https://lykeion.pt/e/conferencia-o-pensamento-ecologico-na-arte-musica-
- e-filosofi-2fdf3.html
 END:VEVENT
 END:VCALENDAR

@@ -6,62 +6,9 @@ X-WR-CALNAME:Lusíada (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:aula-aberta-academia-dr-bc578-2026-11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T100000
-SUMMARY:Aula Aberta «academia Dr»
-LOCATION:Universidade Lusíada\, Porto
-DESCRIPTION:https://www.por.ulusiada.pt/noticias/evento.php?cod=3529
-URL:https://lykeion.pt/e/aula-aberta-academia-dr-bc578.html
-END:VEVENT
-BEGIN:VEVENT
-UID:centros-de-investigacao-lusiada-dinamizam-8c530-2026-11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Centros de Investigação Lusíada dinamizam...
-LOCATION:Universidade Lusíada\, Vila Nova de Famalicão
-DESCRIPTION:https://clissis.ulusiada.pt/category/eventos
-URL:https://lykeion.pt/e/centros-de-investigacao-lusiada-dinamizam-8c530.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:conferencia-inteligencia-artificial-d2c52-2026-11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Conferência — Inteligência artificial\,...
-LOCATION:Universidade Lusíada
-DESCRIPTION:https://news.ulusiada.pt/Home/Detalhe/Detalhes/confer234ncia-in
- telig234ncia-artificial-democracia-e-o-estado-de-direito
-URL:https://lykeion.pt/e/conferencia-inteligencia-artificial-d2c52.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conferencia-laboratorio-de-fenomenologia-e-etnometodologia-i-0a031-2026
- -11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T110000
-SUMMARY:Conferência: Laboratório de fenomenologia e etnometodologia: Inve
- stigação em Serviço Social
-LOCATION:Universidade Lusíada
-DESCRIPTION:https://geacc.hypotheses.org/9175
-URL:https://lykeion.pt/e/conferencia-laboratorio-de-fenomenologia-e-etnomet
- odologia-i-0a031.html
-END:VEVENT
-BEGIN:VEVENT
-UID:faculdade-de-engenharias-e-tecnologias-organiza-semana-da-ci-f4eb8-2026
- -11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T005000
-SUMMARY:Faculdade de Engenharias e Tecnologias organiza Semana da Ciência 
- e Tecnologia 2026
-LOCATION:Universidade Lusíada\, Vila Nova de Famalicão
-DESCRIPTION:https://www.fam.ulusiada.pt/noticias/artigo.php?news_id=5866
-URL:https://lykeion.pt/e/faculdade-de-engenharias-e-tecnologias-organiza-se
- mana-da-ci-f4eb8.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-aplicacoes-da-psicologia-na-promocao-do-bem-esta-6a066-2026
  -11-26@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T090000
 SUMMARY:Aula Aberta «aplicaçoes da Psicologia na Promoção do Bem-estar 
  em Organizações»
@@ -73,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-o-papel-dos-mediadores-linguisticos-e-culturais-05d63-2026-
  11-26@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T120000
 SUMMARY:Aula Aberta «o Papel dos Mediadores Linguísticos e Culturais NAS 
  Escolas»
@@ -85,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-politicas-e-praticas-de-inclusao-de-alunos-migra-c7fa6-2026
  -11-26@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T110000
 SUMMARY:Aula Aberta «políticas e Práticas de Inclusão de Alunos Migrant
  es»
@@ -96,7 +43,7 @@ URL:https://lykeion.pt/e/aula-aberta-politicas-e-praticas-de-inclusao-de-al
 END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-recursos-de-informacao-9838d-2026-11-26@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Aula aberta — Recursos de informação:...
 LOCATION:Universidade Lusíada
@@ -105,8 +52,30 @@ DESCRIPTION:https://news.ulusiada.pt/Home/Detalhe/Detalhes/evr/1/aula-abert
 URL:https://lykeion.pt/e/aula-aberta-recursos-de-informacao-9838d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:centros-de-investigacao-lusiada-dinamizam-8c530-2026-11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Centros de Investigação Lusíada dinamizam...
+LOCATION:Universidade Lusíada\, Vila Nova de Famalicão
+DESCRIPTION:https://clissis.ulusiada.pt/category/eventos
+URL:https://lykeion.pt/e/centros-de-investigacao-lusiada-dinamizam-8c530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:faculdade-de-engenharias-e-tecnologias-organiza-semana-da-ci-f4eb8-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T005000
+SUMMARY:Faculdade de Engenharias e Tecnologias organiza Semana da Ciência 
+ e Tecnologia 2026
+LOCATION:Universidade Lusíada\, Vila Nova de Famalicão
+DESCRIPTION:https://www.fam.ulusiada.pt/noticias/artigo.php?news_id=5866
+URL:https://lykeion.pt/e/faculdade-de-engenharias-e-tecnologias-organiza-se
+ mana-da-ci-f4eb8.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-publica-de-mestrado-em-04658-2026-11-27@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Prova pública de mestrado em...
 LOCATION:Universidade Lusíada
@@ -118,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-margarida-ribeiro-costa-c960e-2026-11-27@lage
  nda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Ana Margarida Ribeiro Costa: Lic.ª Ana Marga
  rida Ribeiro Costa
@@ -133,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-beatriz-isabel-tenreira-sanches-7130a-2026-11-27@
  lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Beatriz Isabel Tenreira Sanches
 LOCATION:Universidade Lusíada
@@ -146,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-margarida-fortes-pequito-e4cfb-2026-11-27@lagenda
  .pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Margarida Fortes Pequito: Lic.ª Margarida Fo
  rtes Pequito
@@ -160,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-raquel-branco-pereira-paisana-cipriano-2768c-2026
  -11-27@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de mestrado de Raquel Branco Pereira Paisana Cipriano
 LOCATION:Universidade Lusíada
@@ -172,7 +141,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-raquel-branco-pereira-paisan
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-em-servico-21239-2026-12-09@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Prova pública de mestrado em Serviço...
 LOCATION:Universidade Lusíada
@@ -185,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-elisabete-da-rocha-primo-64d8e-2026-12-09@lagenda
  .pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Provas de mestrado de Elisabete da Rocha Primo: Lic.ª Elisabete da
   Rocha Primo
@@ -199,7 +168,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-elisabete-da-rocha-primo-64d
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-mestrado-em-gestao-f5041-2026-12-14@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Prova pública de mestrado em Gestão:...
 LOCATION:Universidade Lusíada
@@ -212,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-antunes-miranda-caiado-silva-a9bf5-2026-12-
  14@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Provas de mestrado de Diogo Antunes Miranda Caiado Silva
 LOCATION:Universidade Lusíada
@@ -225,7 +194,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-diogo-antunes-miranda-caiado
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-publica-de-doutoramento-em-de2d8-2027-01-20@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270120
 SUMMARY:Prova pública de doutoramento em...
 LOCATION:Universidade Lusíada
@@ -238,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-emilia-isabel-martins-loureiro-da-bd19b-2027-
  01-20@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270120
 SUMMARY:Provas de doutoramento de Emília Isabel Martins Loureiro da Silva
 LOCATION:Universidade Lusíada
@@ -252,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lusiada-open-day-2027-descobre-o-teu-futuro-data-15-de-abril-f9530-2027
  -04-15@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270415
 SUMMARY:Lusíada Open Day 2027 - Descobre o teu futuro! Data: 15 de abril d
  e 2027 Local: campus universitário Participação sujeita a inscrição

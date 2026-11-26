@@ -6,22 +6,21 @@ X-WR-CALNAME:Geografia e Território (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-25@lagen
- da.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:26 Exposição Etnografias da Pastorícia
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
- da-pastoricia/
-URL:https://lykeion.pt/e/26-17-dez-26-exposicao-etnografias-da-pastoricia-a
- 35a7.html
+UID:catolica-porto-sbe-international-open-day-7d52f-2026-11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T160000
+SUMMARY:Católica Porto SBE International Open Day
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/catolica-porto-sbe-internation
+ al-open-day
+URL:https://lykeion.pt/e/catolica-porto-sbe-international-open-day-7d52f.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
-UID:conferencia-encontro-ubi-ciencia-e-inovacao-2026-23fda-2026-11-25@lagen
+UID:conferencia-encontro-ubi-ciencia-e-inovacao-2026-23fda-2026-11-26@lagen
  da.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
 SUMMARY:Conferência: Encontro UBI Ciência e Inovação 2026
 LOCATION:Universidade da Beira Interior\, Covilhã
 DESCRIPTION:https://www.ubi.pt/Noticia/8393
@@ -29,10 +28,10 @@ URL:https://lykeion.pt/e/conferencia-encontro-ubi-ciencia-e-inovacao-2026-2
  3fda.html
 END:VEVENT
 BEGIN:VEVENT
-UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-25@
+UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-26@
  lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
 SUMMARY:Congresso | Uncertain Landscapes 2: Beyond the resources
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/congresso-uncertain
@@ -41,10 +40,22 @@ URL:https://lykeion.pt/e/congresso-uncertain-landscapes-2-beyond-the-resour
  ces-be2f2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-26@lagen
+ da.pt
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Exposição Etnografias da Pastorícia
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
+ da-pastoricia/
+URL:https://lykeion.pt/e/26-17-dez-26-exposicao-etnografias-da-pastoricia-a
+ 35a7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:22-10-2026-22-12-2026-exposicao-itinerante-landscape-togethe-275dc-2026
- -11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T170000
+ -11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T170000
 SUMMARY:Exposição itinerante Landscape Together
 LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
  oimbra
@@ -55,9 +66,9 @@ URL:https://lykeion.pt/e/22-10-2026-22-12-2026-exposicao-itinerante-landsca
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
- -25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T163000
+ -26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Lisbon:20261126T163000
 SUMMARY:Exposição «Raquel Soeiro de Brito - Uma Geógrafa no Ultramar»
 LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/exposicao-raquel-soeiro-de-brit
@@ -67,9 +78,9 @@ URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
- -11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
+ -11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
 SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
  s Andrés Ortega García
 LOCATION:Departamento de Ciências Médicas\, Covilhã
@@ -78,95 +89,9 @@ URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
  arlos-andr-02c1d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ghtm-session-indigenous-health-in-brazil-territorial-vulnera-3c986-2026
- -11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T110000
-SUMMARY:GHTM Session | Indigenous Health in Brazil: Territorial Vulnerabili
- ties\, Health System Organisation and Occupational Risks
-LOCATION:Saúde Global e Medicina Tropical
-DESCRIPTION:https://ghtm.ihmt.unl.pt/ghtm-session-indigenous-health-in-braz
- il-territorial-vulnerabilities-health-system-organisation-and-occupational
- -risks/
-URL:https://lykeion.pt/e/ghtm-session-indigenous-health-in-brazil-territori
- al-vulnera-3c986.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ii-encontro-rota-dos-templarios-portugal-d3e15-2026-11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:II Encontro Rota dos Templários Portugal
-LOCATION:Museu Etnográfico do Freixial\, Leiria
-DESCRIPTION:https://turismodocentro.pt/evento/encontro-rota-dos-templarios-
- portugal-26-e-27-novembro-tomar/
-URL:https://lykeion.pt/e/ii-encontro-rota-dos-templarios-portugal-d3e15.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-UID:istambul-artista-portuguesa-monica-baptista-na-exposicao-flo-6a1bf-2026
- -11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Istambul: Artista portuguesa Mónica Baptista na exposição Flowin
- g City
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/istambul-artista-portuguesa-monica-baptista-na-exposicao
- -flowing-city
-URL:https://lykeion.pt/e/istambul-artista-portuguesa-monica-baptista-na-exp
- osicao-flo-6a1bf.html
-END:VEVENT
-BEGIN:VEVENT
-UID:jornal-arkivo-2233e-2026-11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Jornal Arkivo
-LOCATION:Arquivo Municipal de Lisboa\, Campolide
-DESCRIPTION:https://www.agendalx.pt/events/event/jornal-arkivo/
-URL:https://lykeion.pt/e/jornal-arkivo-2233e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-luis-miguel-costa-moreira-contributo-p-93210-2026
- -11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T090000
-SUMMARY:Provas de Mestrado de Luís Miguel Costa Moreira «Contributo para 
- o estudo da Arqueologia Militar Romana. Estruturas defensivas associadas a
- o processo de conquista no atual território português»
-LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
- 02311
-URL:https://lykeion.pt/e/provas-de-mestrado-de-luis-miguel-costa-moreira-co
- ntributo-p-93210.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-de-margarida-moura-coutinho-torres-a-orna-20a57-2026
- -11-25@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261125T140000
-SUMMARY:Provas de Mestrado de Margarida Moura Coutinho Torres «A Ornamenta
- ção da «Calçada Artística Portuguesa» na Cidade do Porto»
-LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?P_NR=2
- 02732
-URL:https://lykeion.pt/e/provas-de-mestrado-de-margarida-moura-coutinho-tor
- res-a-orna-20a57.html
-END:VEVENT
-BEGIN:VEVENT
-UID:catolica-porto-sbe-international-open-day-7d52f-2026-11-26@lagenda.pt
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:Católica Porto SBE International Open Day
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/catolica-porto-sbe-internation
- al-open-day
-URL:https://lykeion.pt/e/catolica-porto-sbe-international-open-day-7d52f.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:exposicao-macau-em-contrastes-esta-de-regresso-ao-iseg-ate-2-1ebe9-2026
  -11-26@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Exposição “Macau em Contrastes” está de regresso ao ISEG at
  é 26 de novembro
@@ -177,8 +102,42 @@ URL:https://lykeion.pt/e/exposicao-macau-em-contrastes-esta-de-regresso-ao-
  iseg-ate-2-1ebe9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ii-encontro-rota-dos-templarios-portugal-d3e15-2026-11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:II Encontro Rota dos Templários Portugal
+LOCATION:Museu Etnográfico do Freixial\, Leiria
+DESCRIPTION:https://turismodocentro.pt/evento/encontro-rota-dos-templarios-
+ portugal-26-e-27-novembro-tomar/
+URL:https://lykeion.pt/e/ii-encontro-rota-dos-templarios-portugal-d3e15.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:istambul-artista-portuguesa-monica-baptista-na-exposicao-flo-6a1bf-2026
+ -11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Istambul: Artista portuguesa Mónica Baptista na exposição Flowin
+ g City
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/istambul-artista-portuguesa-monica-baptista-na-exposicao
+ -flowing-city
+URL:https://lykeion.pt/e/istambul-artista-portuguesa-monica-baptista-na-exp
+ osicao-flo-6a1bf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:jornal-arkivo-2233e-2026-11-26@lagenda.pt
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Jornal Arkivo
+LOCATION:Arquivo Municipal de Lisboa\, Campolide
+DESCRIPTION:https://www.agendalx.pt/events/event/jornal-arkivo/
+URL:https://lykeion.pt/e/jornal-arkivo-2233e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:26-vi-edicao-do-roteiro-de-seminarios-de3f5-2026-11-26@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261126T170000
 SUMMARY:VI Edição Do Roteiro De Seminários
 LOCATION:Centro Interdisciplinar de Ciências Sociais
@@ -189,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:evolucao-de-espaco-e-territorio-retrospectivas-conceituais-e-b2c04-2026
  -11-27@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Evolução de espaço e território: retrospectivas conceituais e c
  ontribuições da Geografia às ciências sociais
@@ -202,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-sergio-paulo-avila-campos-marques-rel-02130-2026
  -11-27@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Provas de agregação de Sérgio Paulo Ávila Campos Marques — Re
  latório sobre a unidade curricular – Biogeografia Insular Marinha Semin
@@ -216,7 +175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:apresentacao-do-livro-ela-metafisicamente-doutro-mundo-de-po-cdbae-2026
  -11-28@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:Apresentação do Livro “Ela\, Metafisicamente Doutro Mundo”\, 
  de Poeta da Cidade
@@ -229,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-raquel-arezes-nascimento-aspectos-4b94c-2026-
  11-30@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T143000
 SUMMARY:Provas de Mestrado de Ana Raquel Arezes Nascimento «Aspectos da ev
  olução sócioterritorial do povo Muíla (1880-1980)»
@@ -242,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-os-modelos-de-organizacao-territorial-do-estado-25a54-2026-
  12-02@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T163000
 SUMMARY:Aula Aberta - Os modelos de organização territorial do Estado: Po
  rtugal e Espanha em perspetiva comparada
@@ -255,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:noticia-olhar-a-veiga-pensar-no-futuro-exposicao-e-tertulia-9e372-2026-
  12-02@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Notícia Olhar a Veiga. Pensar no Futuro | Exposição e Tertúlia 
  sobre a Veiga de Creixomil 2 a 4 de dezembro de 2026 | Associação Conví
@@ -269,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vigo-inauguracao-da-exposicao-carta-universal-dos-deveres-e-40406-2026-
  12-03@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T190000
 SUMMARY:Vigo: Inauguração da Exposição Carta Universal dos Deveres e Ob
  rigações dos Seres Humanos
@@ -283,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26-ciclo-de-conferencias-sobre-condicoes-de-trabalho-9ad21-2026-12-04@l
  agenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:26 Ciclo De Conferências Sobre Condições De Trabalho
 LOCATION:Centro Interdisciplinar de Ciências Sociais
@@ -295,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:territorialidade-urbano-rural-e-espacos-de-regresso-ciclo-de-79752-2026
  -12-04@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T143000
 SUMMARY:Territorialidade urbano-rural e espaços de regresso - ciclo de Emi
  gração e regresso em Portugal
@@ -306,7 +265,7 @@ URL:https://lykeion.pt/e/territorialidade-urbano-rural-e-espacos-de-regress
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-rosario-martins-b14d9-2026-12-07@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261207T023000
 SUMMARY:Provas de Doutoramento de Rosário Martins
 LOCATION:Instituto de História Contemporânea
@@ -317,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-de-fatima-pereira-de-azevedo-a-c-4550b-2026
  -12-09@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T143000
 SUMMARY:Provas de mestrado de Maria de Fátima Pereira de Azevedo — A com
  unicação digital na valorização dos produtos dop: o caso do azeite de 
@@ -329,7 +288,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-maria-de-fatima-pereira-de-a
 END:VEVENT
 BEGIN:VEVENT
 UID:mesa-redonda-1eb1c-2026-12-10@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T103000
 SUMMARY:Mesa redonda re place
 LOCATION:Centro de Estudos Geográficos
@@ -339,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-rui-joao-ramos-afonso-o-artico-e-as-ro-39223-2026
  -12-10@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Provas de mestrado de Rui João Ramos Afonso — O Ártico e as rot
  as da Passagem do Nordeste: reconfiguração e representações geopolíti
@@ -352,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:herbs-and-spices-from-traditional-knowledge-to-innovative-ap-35387-2026
  -12-11@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Herbs and Spices – From Traditional Knowledge to Innovative Appli
  cations
@@ -366,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-aida-maria-nogueira-beula-do-nasciment-018e6-2026
  -12-11@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T163000
 SUMMARY:Provas de mestrado de Aida Maria Nogueira Beula do Nascimento — C
  ompra e venda de bens de consumo: estudo comparativo no Ordenamento Juríd
@@ -379,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-diogo-nascimento-santos-a-glaciacao-do-75379-2026
  -12-11@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Provas de mestrado de Diogo Nascimento Santos — A glaciação do 
  vale da Ribeira da Caniça (Serra da Estrela): cartografia geomorfológica
@@ -392,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-0d11c-2026
  -12-11@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — As áreas urbanas e os problemas urbanos na Geografia do 11.º ano 
@@ -405,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-0d11c-2026
  -12-11@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — Rede urbana e coesão territorial: experiência didática na discip
@@ -418,7 +377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-agregacao-de-rui-alexandre-marcal-dias-castanho-re-a89dc-2026
  -12-14@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Provas de agregação de Rui Alexandre Marçal Dias Castanho — Re
  latório sobre a unidade curricular – Governança Territorial e Planeame
@@ -432,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-alves-pereira-cartografia-de-ca7a4-2026-
  12-14@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Provas de mestrado de Ana Rita Alves Pereira — Cartografia de ult
  ra-alta resolução para apoio à gestão de sítios de desembarque na Pen
@@ -445,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-henrique-de-oliveira-santos-producao-e-17d2a-2026
  -12-14@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Provas de mestrado de Henrique de Oliveira Santos — Produção e 
  Análise de Cartografia de Culturas de Milho com GEOBIA e imagens de Muito
@@ -458,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-andre-rodrigues-carvalho-ferreira-anal-0ff38-2026
  -12-15@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de mestrado de André Rodrigues Carvalho Ferreira — Análi
  se Morfométrica e Cronológica do Estado de Degradação das Crateras de 
@@ -471,7 +430,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-maria-mafalda-gaspar-de-sousa-tafula-l-22eda-2026
  -12-15@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de mestrado de Maria Mafalda Gaspar de Sousa Tafula — Land
  slide detection and monitoring through radar satellite in the Lisbon regio
@@ -484,7 +443,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-pedro-luis-madureira-cooper-the-weapon-f17b7-2026
  -12-15@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de mestrado de Pedro Luís Madureira Cooper — The weaponiz
  ation of migrant enclaves in digital spaces by the farright: A case study 
@@ -497,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-b1adf-2026
  -12-15@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — A promoção da interculturalidade em áreas urbanas: uma proposta 
@@ -510,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iii-forum-da-internacionalizacao-e-mobilidade-0472f-2026-12-16@lagenda.
  pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261216T173000
 SUMMARY:III Fórum da Internacionalização e Mobilidade
 LOCATION:Politécnico do Porto\, Porto
@@ -521,7 +480,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-guilherme-miguel-rocha-goncalves-terri-67dea-2026
  -12-16@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de mestrado de Guilherme Miguel Rocha Gonçalves — Territ
  ório e Dependência: A Reconfiguração da Base das Lajes e a Transforma
@@ -534,7 +493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joao-delgado-vicente-analise-e-modelac-3a6c5-2026
  -12-16@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de mestrado de João Delgado Vicente — Análise e Modelaç
  ão da Utilização do Potencial Eólico nas Regiões Montanhosas de Portu
@@ -547,7 +506,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-bb557-2026
  -12-16@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — Estratégias ativas para a aprendizagem sobre gestão dos recursos 
@@ -560,7 +519,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-bb557-2026
  -12-16@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — Geografia\, Telecomunicações e Território: uma experiência did
@@ -573,7 +532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a-participacao-cidada-na-regeneracao-urbana-para-cidades-int-38ac2-2026
  -12-18@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T143000
 SUMMARY:A participação cidadã na regeneração urbana para cidades intel
  igentes: uma análise crítica do discurso em Rio Grande (BR) e Lisboa (PT
@@ -587,7 +546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-1d2a3-2026
  -12-18@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — Aprender Geografia a jogar: a ludificação na aprendizagem das ár
@@ -600,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-1d2a3-2026
  -12-18@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — Estudo das áreas urbanas na Geografia Escolar: Uma proposta didát
@@ -613,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-relatorio-de-pratica-de-ensino-supervi-1d2a3-2026
  -12-18@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Provas de mestrado de Relatório de Prática de Ensino Supervisiona
  da — Investigar os Problemas Urbanos: Uma experiência didática na disc
@@ -626,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-heverson-luiz-de-souza-a-migracao-de-r-1c6df-2026
  -12-21@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261221
 SUMMARY:Provas de mestrado de Heverson Luiz de Souza — A Migração de Re
  torno ao Brasil no Contexto das Trajetórias Migratórias
@@ -638,7 +597,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-sergio-salatiel-huo-percecao-do-ri-e6280-2027
  -01-06@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270106
 SUMMARY:Provas de doutoramento de Sérgio Salatiel Huó — Perceção do r
  isco de inundações e comportamentos de enfrentamento em contextos urbano
@@ -651,7 +610,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-fernanda-eugenia-puga-de-magalhaes-a-e-5116d-2027
  -02-01@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270201
 SUMMARY:Provas de mestrado de Fernanda Eugénia Puga de Magalhães — A ev
  olução do sistema viário em Braga: desde a cidade romana à cidade mode
@@ -665,7 +624,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-daniela-martins-pereira-da-silva-d-bf420-2027
  -02-26@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270226
 SUMMARY:Provas de doutoramento de Daniela Martins Pereira da Silva — Da G
  eografia do Direito ao Direto da Geografia: Mutações Geográficas superv
@@ -679,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1a-sessao-do-ciclo-internacional-de-conferencias-cidade-e-mi-ab695-2027
  -03-10@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270310
 SUMMARY:1a sessão do Ciclo Internacional de Conferências “Cidade e Mito
  : do passado ao presente
@@ -691,7 +650,7 @@ URL:https://lykeion.pt/e/1a-sessao-do-ciclo-internacional-de-conferencias-c
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-sessoes-ao-12-dia-6e59b-2027-03-15@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20270315T120000
 SUMMARY:Ciclo de sessões ao 1⁄2 dia
 LOCATION:Centro de Investigação do Território Transportes e Ambiente\, P
@@ -701,7 +660,7 @@ URL:https://lykeion.pt/e/ciclo-de-sessoes-ao-12-dia-6e59b.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-sessoes-ao-12-dia-b2c13-2027-03-22@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20270322T120000
 SUMMARY:Ciclo de sessões ao 1⁄2 dia
 LOCATION:Centro de Investigação do Território Transportes e Ambiente\, P
@@ -712,7 +671,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-as-minas-na-cidade-dos-arquivos-chega-ao-lousal-62ca6-2027-03
  -28@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20270328T170000
 SUMMARY:Exposição “As Minas na Cidade dos Arquivos” chega ao Lousal
 LOCATION:Instituto Politécnico de Setúbal\, Barreiro
@@ -724,7 +683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-dedicado-a-mobilidade-nas-cidades-do-amanha-aeaf4-2027-03-28@la
  genda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270328
 SUMMARY:Webinar dedicado à Mobilidade nas Cidades do Amanhã
 LOCATION:Centro de Investigação do Território Transportes e Ambiente\, P
@@ -737,7 +696,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:whatnext-law-inteligencia-artificial-na-cidade-do-futuro-7bd6d-2027-04-
  05@lagenda.pt
-DTSTAMP:20261125T000000Z
+DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Lisbon:20270405T120000
 SUMMARY:WhatNext.Law | Inteligência Artificial na Cidade do Futuro
 LOCATION:NOVA School of Law
