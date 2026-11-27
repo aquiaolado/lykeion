@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:3as-jornadas-de-medicina-ipo-porto-a-4-dezembro-com-desconto-448bc-2026
  -12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:3as Jornadas de Medicina – IPO Porto a 4 dezembro com desconto na
   inscrição para sócios APMGF!
@@ -17,5 +17,18 @@ DESCRIPTION:https://apmgf.pt/evento/3as-jornadas-de-medicina-ipo-porto-a-4-
  dezembro-com-desconto-na-inscricao-para-socios-apmgf/
 URL:https://lykeion.pt/e/3as-jornadas-de-medicina-ipo-porto-a-4-dezembro-co
  m-desconto-448bc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:44o-encontro-nacional-de-mgf-em-vilamoura-de-7-a-10-de-abril-0b48d-2027
+ -04-07@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270407T090000
+SUMMARY:44o Encontro Nacional de MGF em Vilamoura de 7 a 10 de abril de 202
+ 7!
+LOCATION:Associacao Portuguesa de Medicina Geral e Familiar
+DESCRIPTION:https://apmgf.pt/evento/44o-encontro-nacional-de-mgf-em-vilamou
+ ra-de-7-a-10-de-abril-de-2027/
+URL:https://lykeion.pt/e/44o-encontro-nacional-de-mgf-em-vilamoura-de-7-a-1
+ 0-de-abril-0b48d.html
 END:VEVENT
 END:VCALENDAR

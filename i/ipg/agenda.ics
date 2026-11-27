@@ -6,21 +6,12 @@ X-WR-CALNAME:IPG (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conferencia-ser-65-2e5a2-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
-SUMMARY:Conferência SER 65
-LOCATION:Instituto Politécnico da Guarda\, Guarda
-DESCRIPTION:https://politecnicoguarda.pt/eventos/conferencia-ser-65-2/
-URL:https://lykeion.pt/e/conferencia-ser-65-2e5a2.html
-END:VEVENT
-BEGIN:VEVENT
 UID:provas-de-mestrado-gestao-especializacao-em-contabilidade-cad36-2026-12
  -02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T140000
 SUMMARY:Provas de Mestrado – Gestão – Especialização em Contabilidad
- e
+ e: Miguel Saramago Ribeiro Congrinho Chanoca
 LOCATION:Instituto Politécnico da Guarda\, Guarda
 DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-gestao-
  especializacao-em-contabilidade/
@@ -30,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-educacao-pre-escolar-e-ensino-do-1-o-c-6634e-2026
  -12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T150000
 SUMMARY:Provas de Mestrado em Educação Pré-Escolar e Ensino do 1.º Cicl
  o do Ensino Básico
@@ -42,7 +33,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-educacao-pre-escolar-e-ensin
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-gestao-industrial-40e84-2026-12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T110000
 SUMMARY:Provas de Mestrado em Gestão Industrial
 LOCATION:Instituto Politécnico da Guarda\, Guarda
@@ -51,9 +42,57 @@ DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-em-gest
 URL:https://lykeion.pt/e/provas-de-mestrado-em-gestao-industrial-40e84.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-ciencias-aplicadas-a-saude-d7c3f-2026-12-03@lagenda.
+ pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Provas de Mestrado – Ciências Aplicadas à Saúde
+LOCATION:Instituto Politécnico da Guarda\, Guarda
+DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-ciencia
+ s-aplicadas-a-saude-9/
+URL:https://lykeion.pt/e/provas-de-mestrado-ciencias-aplicadas-a-saude-d7c3
+ f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-ciencias-aplicadas-a-saude-02284-2026-12-04@lagenda.
+ pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Provas de Mestrado – Ciências Aplicadas à Saúde
+LOCATION:Instituto Politécnico da Guarda\, Guarda
+DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-ciencia
+ s-aplicadas-a-saude-10/
+URL:https://lykeion.pt/e/provas-de-mestrado-ciencias-aplicadas-a-saude-0228
+ 4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-enfermagem-de-saude-infantil-e-pediatrica-c368c-2026
+ -12-14@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Provas de Mestrado – Enfermagem de Saúde Infantil e Pediátrica
+LOCATION:Instituto Politécnico da Guarda\, Guarda
+DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-enferma
+ gem-de-saude-infantil-e-pediatrica-2/
+URL:https://lykeion.pt/e/provas-de-mestrado-enfermagem-de-saude-infantil-e-
+ pediatrica-c368c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-enfermagem-de-saude-infantil-e-pediatrica-f6653-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Provas de Mestrado – Enfermagem de Saúde Infantil e Pediátrica
+LOCATION:Instituto Politécnico da Guarda\, Guarda
+DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-enferma
+ gem-de-saude-infantil-e-pediatrica/
+URL:https://lykeion.pt/e/provas-de-mestrado-enfermagem-de-saude-infantil-e-
+ pediatrica-f6653.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-em-educacao-pre-escolar-e-ensino-do-1-o-c-35732-2026
  -12-17@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T150000
 SUMMARY:Provas de Mestrado em Educação Pré-Escolar e Ensino do 1.º Cicl
  o do Ensino Básico
@@ -66,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-marketing-e-comunicacao-especializacao-6f098-2026
  -12-17@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T090000
 SUMMARY:Provas de Mestrado em Marketing e Comunicação – Especializaçã
  o em Marketing
@@ -77,9 +116,32 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-marketing-e-comunicacao-espe
  cializacao-6f098.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-ciencias-aplicadas-a-saude-3dbca-2026-12-18@lagenda.
+ pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:Provas de Mestrado – Ciências Aplicadas à Saúde
+LOCATION:Instituto Politécnico da Guarda\, Guarda
+DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-ciencia
+ s-aplicadas-a-saude-11/
+URL:https://lykeion.pt/e/provas-de-mestrado-ciencias-aplicadas-a-saude-3dbc
+ a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-enfermagem-comunitaria-1c2bb-2026-12-18@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:Provas de Mestrado – Enfermagem Comunitária
+LOCATION:Instituto Politécnico da Guarda\, Guarda
+DESCRIPTION:https://politecnicoguarda.pt/eventos/provas-de-mestrado-enferma
+ gem-comunitaria-35/
+URL:https://lykeion.pt/e/provas-de-mestrado-enfermagem-comunitaria-1c2bb.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-gestao-especializacao-em-contabilidade-30677-2027-02
  -19@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270219T100000
 SUMMARY:Provas de Mestrado – Gestão – Especialização em Contabilidad
  e

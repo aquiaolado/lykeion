@@ -6,30 +6,8 @@ X-WR-CALNAME:CFPSA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:aplicar-a-inteligencia-emocional-no-processo-de-venda-00b6a-2026-11-26@
- lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T123000
-SUMMARY:Aplicar a inteligência emocional no processo de venda
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18449.html?order_by=-1
-URL:https://lykeion.pt/e/aplicar-a-inteligencia-emocional-no-processo-de-ve
- nda-00b6a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:workshop-cozinha-mediterranea-a594d-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T050000
-SUMMARY:Workshop Cozinha mediterrânea
-LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
- as
-DESCRIPTION:https://www.cfpsa.pt/courses/show/18074.html?order_by=-1
-URL:https://lykeion.pt/e/workshop-cozinha-mediterranea-a594d.html
-END:VEVENT
-BEGIN:VEVENT
 UID:gestao-de-stress-e-conflitos-e509c-2026-11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T040000
 SUMMARY:Gestão de stress e conflitos
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -38,8 +16,18 @@ DESCRIPTION:https://www.cfpsa.pt/courses/show/18041.html?order_by=-1
 URL:https://lykeion.pt/e/gestao-de-stress-e-conflitos-e509c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:confecionar-pastelaria-de-natal-f3ed5-2026-12-02@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Confecionar pastelaria de Natal
+LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
+ as
+DESCRIPTION:https://www.cfpsa.pt/courses/show/18333.html?order_by=-1
+URL:https://lykeion.pt/e/confecionar-pastelaria-de-natal-f3ed5.html
+END:VEVENT
+BEGIN:VEVENT
 UID:confecionar-pastelaria-e-docaria-conventual-7c294-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T120000
 SUMMARY:Confecionar pastelaria e doçaria conventual
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -50,7 +38,7 @@ URL:https://lykeion.pt/e/confecionar-pastelaria-e-docaria-conventual-7c294.
 END:VEVENT
 BEGIN:VEVENT
 UID:confecao-de-bolo-rei-e-bolachinhas-de-natal-5ee1f-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T070000
 SUMMARY:Confeção de Bolo Rei e Bolachinhas de Natal
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -62,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:implementar-as-normas-de-higiene-e-seguranca-alimentar-em-ho-91d7b-2026
  -12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T210000
 SUMMARY:Implementar as normas de higiene e segurança alimentar em hotelari
  a e restauração
@@ -75,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:marketing-como-promover-a-sua-imagem-pessoal-e-profissional-2abfa-2026-
  12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T120000
 SUMMARY:Marketing - como promover a sua imagem pessoal e profissional
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -86,7 +74,7 @@ URL:https://lykeion.pt/e/marketing-como-promover-a-sua-imagem-pessoal-e-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:planear-e-confecionar-cake-design-ed4ca-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T120000
 SUMMARY:Planear e confecionar Cake Design
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -97,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:planear-e-elaborar-cartas-e-menus-na-restauracao-c36db-2026-12-02@lagen
  da.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T210000
 SUMMARY:Planear e elaborar cartas e menus na restauração
 LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
@@ -105,5 +93,17 @@ LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
 DESCRIPTION:https://www.cfpsa.pt/courses/show/18277.html?order_by=-1
 URL:https://lykeion.pt/e/planear-e-elaborar-cartas-e-menus-na-restauracao-c
  36db.html
+END:VEVENT
+BEGIN:VEVENT
+UID:informatica-folha-de-calculo-e-base-de-dados-46df8-2026-12-03@lagenda.p
+ t
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Informática - folha de cálculo e base de dados
+LOCATION:Centro de Formação Profissional para o Sector Alimentar\, Odivel
+ as
+DESCRIPTION:https://www.cfpsa.pt/courses/show/3961.html?order_by=-1
+URL:https://lykeion.pt/e/informatica-folha-de-calculo-e-base-de-dados-46df8
+ .html
 END:VEVENT
 END:VCALENDAR

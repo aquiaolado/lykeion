@@ -6,8 +6,21 @@ X-WR-CALNAME:IPDJ (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:canal-aberto-promove-webinar-isto-nao-e-amor-como-reconhecer-b754c-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T170000
+SUMMARY:Canal Aberto promove webinar «Isto Não é Amor. Como Reconhecer S
+ inais de Violência nas Relações»
+LOCATION:Instituto Português do Desporto e Juventude IP\, Olivais
+DESCRIPTION:https://ipdj.gov.pt/-/canal-aberto-promove-webinar-sobre-preven
+ cao-violencia-namoro
+URL:https://lykeion.pt/e/canal-aberto-promove-webinar-isto-nao-e-amor-como-
+ reconhecer-b754c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sao-silvestre-de-vila-do-conde-35927-2026-12-20@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261220T180000
 SUMMARY:São Silvestre de Vila do Conde
 LOCATION:Instituto Português do Desporto e Juventude IP
@@ -17,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:alteracao-da-autenticacao-integrada-das-plataformas-do-ipdj-dbd19-2027-
  02-01@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270201
 SUMMARY:Alteração da autenticação integrada das plataformas do IPDJ
 LOCATION:Instituto Português do Desporto e Juventude IP
@@ -29,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ipdj-apoia-a-volta-ao-algarve-em-bicicleta-2026-cd11a-2027-02-18@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270218T150000
 SUMMARY:IPDJ apoia a Volta ao Algarve em Bicicleta 2026
 LOCATION:Instituto Português do Desporto e Juventude IP
@@ -41,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dia-nacional-do-estudante-assinalado-com-programa-nacional-d-2246d-2027
  -03-16@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270316
 SUMMARY:Dia Nacional do Estudante assinalado com programa nacional de promo
  ção da participação e do associativismo estudantil
@@ -55,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-europeu-media-representation-of-persons-with-disabil-bdb78-2027
  -03-24@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270324T100000
 SUMMARY:Webinar europeu «Media representation of persons with disabilities
   in sport»
@@ -67,7 +80,7 @@ URL:https://lykeion.pt/e/webinar-europeu-media-representation-of-persons-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:ipdj-tour-madeira-2026-dc642-2027-04-21@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270421
 SUMMARY:Ipdj Tour Madeira 2026
 LOCATION:Instituto Português do Desporto e Juventude IP

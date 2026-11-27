@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPMA (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:estudos-sobre-o-potencial-energetico-offshore-f6d1f-2026-12-04@lagenda.
+ pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Estudos sobre o Potencial Energético Offshore
+LOCATION:Instituto Português do Mar e da Atmosfera
+DESCRIPTION:https://www.ipma.pt/pt/media/noticias/news.detail.jsp?y=2026&f=
+ PRR_Eolicas_evento.html
+URL:https://lykeion.pt/e/estudos-sobre-o-potencial-energetico-offshore-f6d1
+ f.html
+END:VEVENT
+END:VCALENDAR

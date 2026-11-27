@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Antropologia (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:nu-sta-papia-caminhos-e-praticas-da-oralidade-no-cabo-verde-c7a9e-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
+SUMMARY:Nu sta papia: caminhos e práticas da oralidade no Cabo Verde conte
+ mporâneo
+LOCATION:Departamento de Antropologia
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/nu-sta-papia-caminhos-e-pratica
+ s-da-oralidade-no-cabo-verde-contemporaneo/
+URL:https://lykeion.pt/e/nu-sta-papia-caminhos-e-praticas-da-oralidade-no-c
+ abo-verde-c7a9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pensar-o-pluricentrismo-da-lingua-portuguesa-74f5b-2026-11-27@lagenda.p
+ t
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
+SUMMARY:Pensar o Pluricentrismo da Língua Portuguesa
+LOCATION:Departamento de Antropologia
+DESCRIPTION:https://www.fcsh.unl.pt/eventos/pensar-o-pluricentrismo-da-ling
+ ua-portuguesa/
+URL:https://lykeion.pt/e/pensar-o-pluricentrismo-da-lingua-portuguesa-74f5b
+ .html
+END:VEVENT
+END:VCALENDAR

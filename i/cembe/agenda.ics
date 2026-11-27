@@ -6,8 +6,31 @@ X-WR-CALNAME:CEMBE (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:47-o-ciclo-de-conferencias-sobre-doencas-infeciosas-8776c-2026-11-27@la
+ genda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:47.º Ciclo de Conferências sobre Doenças Infeciosas
+LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+DESCRIPTION:https://www.medicina.ulisboa.pt/events/47o-ciclo-de-conferencia
+ s-sobre-doencas-infeciosas-dr-germano-do-carmo/
+URL:https://lykeion.pt/e/47-o-ciclo-de-conferencias-sobre-doencas-infeciosa
+ s-8776c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:info-10-a-conferencia-anual-da-redesaude-47e8a-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Info — 10.ª Conferência Anual da redeSAÚDE
+LOCATION:Centro de Estudos de Medicina Baseada na Evidência
+DESCRIPTION:https://www.medicina.ulisboa.pt/events/10a-conferencia-anual-da
+ -redesaude/
+URL:https://lykeion.pt/e/info-10-a-conferencia-anual-da-redesaude-47e8a.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 UID:submission-deadline-january-15-2027-e5c8b-2027-01-15@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270115
 SUMMARY:Submission deadline: January 15\, 2027
 LOCATION:Centro de Estudos de Medicina Baseada na Evidência
@@ -18,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:submission-deadline-february-2-2027-5-00-pm-cet-paris-time-58efb-2027-0
  2-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270202
 SUMMARY:Submission deadline: February 2\, 2027 - 5:00 PM (CET\, Paris Time)
 LOCATION:Centro de Estudos de Medicina Baseada na Evidência
@@ -27,12 +50,12 @@ URL:https://lykeion.pt/e/submission-deadline-february-2-2027-5-00-pm-cet-pa
  ris-time-58efb.html
 END:VEVENT
 BEGIN:VEVENT
-UID:submission-deadline-april-30-2027-9964c-2027-04-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+UID:submission-deadline-april-30-2027-0ac67-2027-04-30@lagenda.pt
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270430
 SUMMARY:Submission deadline: April 30\, 2027
 LOCATION:Centro de Estudos de Medicina Baseada na Evidência
-DESCRIPTION:https://ulices.letras.ulisboa.pt/calls/
-URL:https://lykeion.pt/e/submission-deadline-april-30-2027-9964c.html
+DESCRIPTION:
+URL:https://lykeion.pt/e/submission-deadline-april-30-2027-0ac67.html
 END:VEVENT
 END:VCALENDAR

@@ -6,8 +6,21 @@ X-WR-CALNAME:CEAU (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:entrega-das-medalhas-de-socio-honorario-da-academia-de-cienc-f9970-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T150000
+SUMMARY:Entrega das Medalhas de Sócio Honorário da Academia de Ciências 
+ de Lisboa
+LOCATION:Centro de Estudos de Arquitectura e Urbanismo\, Porto
+DESCRIPTION:https://cenp.arq.up.pt/pt/highlights/events/entrega-das-medalha
+ s-de-socio-honorario-da-academia-de-ciencias-de-lisboa
+URL:https://lykeion.pt/e/entrega-das-medalhas-de-socio-honorario-da-academi
+ a-de-cienc-f9970.html
+END:VEVENT
+BEGIN:VEVENT
 UID:the-unfinished-project-symposium-2027-429ce-2026-12-18@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:The Unfinished Project Symposium 2027
 LOCATION:Centro de Estudos de Arquitectura e Urbanismo\, Porto

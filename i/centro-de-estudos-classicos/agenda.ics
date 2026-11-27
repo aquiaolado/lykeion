@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:13-13-autoras-galegas-e-lusofonas-em-dialogo-inauguracao-da-d00b3-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T103000
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T103000
 SUMMARY:13+13 Autoras Galegas e Lusófonas em diálogo – inauguração da
   exposição ADIADA
 LOCATION:Centro de Estudos Clássicos
@@ -19,22 +19,9 @@ URL:https://lykeion.pt/e/13-13-autoras-galegas-e-lusofonas-em-dialogo-inaug
  uracao-da-d00b3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lecture-sum-rea-tradizione-e-novita-nelleroide-di-ipermestra-effbc-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T143000
-SUMMARY:Lecture: ‘Sum rea’. Tradizione e novità nell’Eroide di Iperm
- estra
-LOCATION:Centro de Estudos Clássicos
-DESCRIPTION:https://centroclassicos.letras.ulisboa.pt/event/sum-rea-tradizi
- one-e-novita-nelleroide-di-ipermestra/
-URL:https://lykeion.pt/e/lecture-sum-rea-tradizione-e-novita-nelleroide-di-
- ipermestra-effbc.html
-END:VEVENT
-BEGIN:VEVENT
 UID:il-mito-di-troia-testi-e-tradizioni-ricezioni-riscritture-e-1039b-2026-
  11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Il mito di Troia: testi e tradizioni. Ricezioni\, riscritture e usi
   culturali dall’antichità al Rinascimento
@@ -44,5 +31,18 @@ DESCRIPTION:https://centroclassicos.letras.ulisboa.pt/event/il-mito-di-troi
  l-rinascimento/
 URL:https://lykeion.pt/e/il-mito-di-troia-testi-e-tradizioni-ricezioni-risc
  ritture-e-1039b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:classics-in-the-public-sphere-education-outreach-and-engagem-6b1b8-2027
+ -04-03@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:Classics in the Public Sphere: Education\, Outreach and Engagement 
+ CFP
+LOCATION:Centro de Estudos Clássicos
+DESCRIPTION:https://centroclassicos.letras.ulisboa.pt/event/classics-in-the
+ -public-sphere-education-outreach-and-engagement-cfp/
+URL:https://lykeion.pt/e/classics-in-the-public-sphere-education-outreach-a
+ nd-engagem-6b1b8.html
 END:VEVENT
 END:VCALENDAR

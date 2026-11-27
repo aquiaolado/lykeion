@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-metabolismo-biopatologia-e-experimentac-7b6cb-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Prova de Mestrado em Metabolismo - Biopatologia e Experimentação
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -19,7 +19,7 @@ URL:https://lykeion.pt/e/prova-de-mestrado-em-metabolismo-biopatologia-e-ex
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-neurobiologia-30e38-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T110000
 SUMMARY:Prova de Mestrado em Neurobiologia
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-psiquiatria-e-psicoterapia-psicodinamic-d3bbf-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T160000
 SUMMARY:Prova de Mestrado em Psiquiatria e Psicoterapia Psicodinâmica
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -41,7 +41,7 @@ URL:https://lykeion.pt/e/prova-de-mestrado-em-psiquiatria-e-psicoterapia-ps
 END:VEVENT
 BEGIN:VEVENT
 UID:prova-de-mestrado-em-saude-publica-64535-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T140000
 SUMMARY:Prova de Mestrado em Saúde Pública
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -50,9 +50,36 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
 URL:https://lykeion.pt/e/prova-de-mestrado-em-saude-publica-64535.html
 END:VEVENT
 BEGIN:VEVENT
+UID:cintesis-apoia-ai-in-digestive-healthcare-shaping-the-future-b5ad7-2026
+ -11-29@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T155000
+SUMMARY:CINTESIS apoia «AI in Digestive Healthcare: Shaping the Future»
+LOCATION:Centro de Investigação em Tecnologias e Serviços de Saúde\, Po
+ rto
+DESCRIPTION:https://cintesis.eu/pt/cintesis-apoia-ai-in-digestive-healthcar
+ e-shaping-the-future/
+URL:https://lykeion.pt/e/cintesis-apoia-ai-in-digestive-healthcare-shaping-
+ the-future-b5ad7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:miguel-mascarenhas-inovar-para-melhorar-a-saude-digestiva-da-381e6-2026
+ -11-29@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:Miguel Mascarenhas: Inovar para melhorar a saúde digestiva das pes
+ soas
+LOCATION:Centro de Investigação em Tecnologias e Serviços de Saúde\, Po
+ rto
+DESCRIPTION:https://cintesis.eu/pt/miguel-mascarenhas-inovar-para-melhorar-
+ a-saude-digestiva-das-pessoas/
+URL:https://lykeion.pt/e/miguel-mascarenhas-inovar-para-melhorar-a-saude-di
+ gestiva-da-381e6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:prova-de-mestrado-em-metabolismo-biopatologia-e-experimentac-827bd-2026
  -11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T100000
 SUMMARY:Prova de Mestrado em Metabolismo - Biopatologia e Experimentação
 LOCATION:Faculdade de Medicina da Universidade do Porto\, Porto
@@ -60,5 +87,20 @@ DESCRIPTION:https://sigarra.up.pt/fmup/pt/noticias_geral.ver_noticia?P_NR=1
  19685
 URL:https://lykeion.pt/e/prova-de-mestrado-em-metabolismo-biopatologia-e-ex
  perimentac-827bd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:symposium-charting-the-future-of-evidence-synthesis-for-heal-4dff2-2026
+ -12-13@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261213T090000
+SUMMARY:Symposium Charting the Future of Evidence Synthesis for Health Tech
+ nology Assessment and Decision-Making» apresenta BFREE
+LOCATION:Centro de Investigação em Tecnologias e Serviços de Saúde\, Po
+ rto
+DESCRIPTION:https://cintesis.eu/pt/symposium-charting-the-future-of-evidenc
+ e-synthesis-for-health-technology-assessment-and-decision-making-apresenta
+ -projeto-bfree/
+URL:https://lykeion.pt/e/symposium-charting-the-future-of-evidence-synthesi
+ s-for-heal-4dff2.html
 END:VEVENT
 END:VCALENDAR

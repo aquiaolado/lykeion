@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ISG (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:isg-na-16-a-conferencia-forges-2026-c258a-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T150000
+SUMMARY:ISG na 16.ª Conferência FORGES 2026
+LOCATION:ISG – Business & Economics School
+DESCRIPTION:https://www.isg.pt/2026/11/26/isg-na-16-a-conferencia-forges-20
+ 26/
+URL:https://lykeion.pt/e/isg-na-16-a-conferencia-forges-2026-c258a.html
+END:VEVENT
+END:VCALENDAR

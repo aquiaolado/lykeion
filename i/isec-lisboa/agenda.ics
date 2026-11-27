@@ -6,8 +6,20 @@ X-WR-CALNAME:ISEC (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:catedra-unesco-associa-se-a-conferencia-internacional-dedica-49316-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Cátedra UNESCO associa-se à Conferência Internacional dedicada a
+ o Cante Alentejano
+LOCATION:RICET
+DESCRIPTION:https://unitwin.iseclisboa.pt/eventos/eventos_15.html
+URL:https://lykeion.pt/e/catedra-unesco-associa-se-a-conferencia-internacio
+ nal-dedica-49316.html
+END:VEVENT
+BEGIN:VEVENT
 UID:webinar-este-natal-em-seguranca-52793-2026-12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T110000
 SUMMARY:Webinar | “Este Natal\, em Segurança
 LOCATION:OPCSa

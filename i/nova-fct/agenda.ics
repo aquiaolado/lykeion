@@ -8,9 +8,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
- -26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
+ -27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
 SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -20,21 +20,10 @@ URL:https://lykeion.pt/e/6-a-edicao-da-conferencia-circular-economy-make-it
  -happen-b5702.html
 END:VEVENT
 BEGIN:VEVENT
-UID:a-pesquisa-avancada-da-scopus-53cd7-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180000
-SUMMARY:A pesquisa avançada da Scopus
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/pesquisa-avancad
- a-da-scopus-conceito-e-aplicacoes
-URL:https://lykeion.pt/e/a-pesquisa-avancada-da-scopus-53cd7.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ciencia-entre-paginas-livros-para-questionar-e-compreender-a-f60de-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
 SUMMARY:Ciência entre páginas. Livros para questionar e compreender a ci
  ência
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -45,115 +34,34 @@ URL:https://lykeion.pt/e/ciencia-entre-paginas-livros-para-questionar-e-com
  preender-a-f60de.html
 END:VEVENT
 BEGIN:VEVENT
-UID:david-marcal-ha-uma-cultura-cientifica-0cef4-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:David Marçal: Há uma cultura científica?
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/david-marcal-ha-
- uma-cultura-cientifica
-URL:https://lykeion.pt/e/david-marcal-ha-uma-cultura-cientifica-0cef4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:mastering-scopus-advanced-search-a0af8-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T093000
-SUMMARY:Mastering Scopus Advanced Search
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/mastering-scopus
- -advanced-search
-URL:https://lykeion.pt/e/mastering-scopus-advanced-search-a0af8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:programa-de-mentoria-da-nova-fct-7489c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Programa de Mentoria da NOVA FCT
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/programa-de-ment
- oria-da-nova-fct
-URL:https://lykeion.pt/e/programa-de-mentoria-da-nova-fct-7489c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-da773-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T140000
-SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
- groindustrial
-LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
-DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
- rado-em-tecnologias-de-producao-e-transformacao-agroindustrial-3
-URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-de-producao-e-tr
- ansformaca-da773.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-da-tecnologia-5791c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e da Tecnologia
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/semana-da-cienci
- a-e-da-tecnologia
-URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-5791c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:toolkit-sobre-questoes-juridicas-protecao-de-dados-e-licenca-0b09f-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Toolkit sobre questões jurídicas\, proteção de dados e licença
- s
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/toolkit-sobre-qu
- estoes-juridicas-protecao-de-dados-e-licencas
-URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
- -e-licenca-0b09f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:trial-elsevier-knovel-e-engineering-village-patents-plus-11943-2026-11-
- 26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Trial Elsevier: Knovel e Engineering Village + Patents Plus
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/trial-elsevier-k
- novel-e-engineering-village-patents-plus
-URL:https://lykeion.pt/e/trial-elsevier-knovel-e-engineering-village-patent
- s-plus-11943.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-turnitin-5c79c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T143000
-SUMMARY:Webinar Turnitin
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/webinar-turnitin
-URL:https://lykeion.pt/e/webinar-turnitin-5c79c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
+UID:dcm-de-portas-abertas-para-58-alunos-do-ensino-secundario-4893e-2026-11
  -27@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T090000
-SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/6-edicao-da-conf
- erencia-circular-economy-make-it-happen
-URL:https://lykeion.pt/e/6-a-edicao-da-conferencia-circular-economy-make-it
- -happen-b5702.html
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:DCM de portas abertas para 58 alunos do Ensino Secundário
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/11/dcm-de-portas-abert
+ as-para-58-alunos-do-ensino-secundario
+URL:https://lykeion.pt/e/dcm-de-portas-abertas-para-58-alunos-do-ensino-sec
+ undario-4893e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:licao-de-jubilacao-professor-rodrigo-martins-do-silicio-aos-54595-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T144500
+SUMMARY:Lição de Jubilação | Professor Rodrigo Martins | Do Silício ao
+ s Materiais Avançados: Uma Viagem Rumo ao Futuro
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/08/licao-de-jubilacao-
+ professor-rodrigo-martins-do-silicio-aos-materiais-avancados-uma-viagem-ru
+ mo-ao-f
+URL:https://lykeion.pt/e/licao-de-jubilacao-professor-rodrigo-martins-do-si
+ licio-aos-54595.html
 END:VEVENT
 BEGIN:VEVENT
 UID:miradouros-do-monsanto-de-norte-a-sul-93997-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Miradouros do Monsanto de Norte a Sul
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -163,8 +71,19 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/miradouros-do-mo
 URL:https://lykeion.pt/e/miradouros-do-monsanto-de-norte-a-sul-93997.html
 END:VEVENT
 BEGIN:VEVENT
+UID:o-exilado-da-criacao-a-conservacao-d3fbe-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:O Exilado: da Criação à Conservação
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/04/o-exilado-da-cri
+ acao-conservacao
+URL:https://lykeion.pt/e/o-exilado-da-criacao-a-conservacao-d3fbe.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ouvir-duas-vezes-a-sinfonia-06c7b-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T110000
 SUMMARY:Ouvir Duas Vezes – A Sinfonia
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -174,9 +93,46 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/ouvir-duas-vezes
 URL:https://lykeion.pt/e/ouvir-duas-vezes-a-sinfonia-06c7b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-vas-12fae-2026
+UID:programa-de-mentoria-da-nova-fct-7489c-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Programa de Mentoria da NOVA FCT
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/programa-de-ment
+ oria-da-nova-fct
+URL:https://lykeion.pt/e/programa-de-mentoria-da-nova-fct-7489c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mar-71c35-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T163000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Margarida
+  Lourenço Lopes
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-margarida-lourenco-lopes
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mar-71c35.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mar-8631d-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Mariana P
+ into Basto Morais
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-mariana-pinto-basto-morais
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mar-8631d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-vas-a36eb-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica do Licenciado Vasco Gui
  lherme Gomes O’Neill Pedrosa
@@ -184,11 +140,11 @@ LOCATION:Departamento de Física da NOVA FCT\, Almada
 DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
  -engenharia-biomedica-do-licenciado-vasco-guilherme-gomes-o-neill-pedrosa
 URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-do-lice
- nciado-vas-12fae.html
+ nciado-vas-a36eb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-geologica-ceedd-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T143000
 SUMMARY:Provas de Mestrado em Engenharia Geológica
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -199,7 +155,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-geologica-ceedd.h
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-paleontologia-d8a97-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Provas de Mestrado em Paleontologia
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -210,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-642f9-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
  gro-Industrial
@@ -223,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-da-hortinha-paulino-provas-de-c7180-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Provas de mestrado de Ana Rita da Hortinha Paulino — Provas de Me
  strado em Tecnologias de Produção e Transformação Agroindustrial
@@ -233,8 +189,109 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-rita-da-hortinha-paulino
  -provas-de-c7180.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-miguel-luis-reis-da-silva-moura-optimi-ea5b1-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T100000
+SUMMARY:Provas de mestrado de Miguel Luis Reis da Silva Moura — Optimisat
+ ion of Packaging Processes in Automotive Service Parts Logistics: A Case S
+ tudy
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-miguel-luis-reis-da-silva-mo
+ ura-optimi-ea5b1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:rede-14-torne-se-anfitria-o-abra-a-porta-a-um-estudante-da-n-72633-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Rede 1⁄4 - Torne-se anfitriã/o. Abra a porta a um estudante da N
+ OVA
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/04/rede-torne-se-an
+ fitriao-abra-porta-um-estudante-da-nova
+URL:https://lykeion.pt/e/rede-14-torne-se-anfitria-o-abra-a-porta-a-um-estu
+ dante-da-n-72633.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-5791c-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Semana da Ciência e da Tecnologia
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/semana-da-cienci
+ a-e-da-tecnologia
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-5791c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-lignin-multiphase-plastics-fundamentals-and-proces-9d4a1-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T113000
+SUMMARY:Seminário | «Lignin Multiphase Plastics: Fundamentals and Process
+ ing by Extrusion-based 3D Printing» | Prof. Marie-Pierre Laborie
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/09/seminario-lignin-mu
+ ltiphase-plastics-fundamentals-and-processing-extrusion-based-3d-printing-
+ prof-ma
+URL:https://lykeion.pt/e/seminario-lignin-multiphase-plastics-fundamentals-
+ and-proces-9d4a1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:toolkit-sobre-questoes-juridicas-protecao-de-dados-e-licenca-0b09f-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Toolkit sobre questões jurídicas\, proteção de dados e licença
+ s
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/toolkit-sobre-qu
+ estoes-juridicas-protecao-de-dados-e-licencas
+URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
+ -e-licenca-0b09f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:trial-elsevier-knovel-e-engineering-village-patents-plus-11943-2026-11-
+ 27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Trial Elsevier: Knovel e Engineering Village + Patents Plus
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/trial-elsevier-k
+ novel-e-engineering-village-patents-plus
+URL:https://lykeion.pt/e/trial-elsevier-knovel-e-engineering-village-patent
+ s-plus-11943.html
+END:VEVENT
+BEGIN:VEVENT
+UID:trial-a-plataforma-jove-b7423-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Trial à plataforma JoVE
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/trial-plataforma
+ -jove
+URL:https://lykeion.pt/e/trial-a-plataforma-jove-b7423.html
+END:VEVENT
+BEGIN:VEVENT
+UID:frank-hackathon-winter-2026-2c05c-2026-11-28@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T143000
+SUMMARY:FRANK Hackathon Winter 2026
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/frank-hackathon-
+ winter-2026
+URL:https://lykeion.pt/e/frank-hackathon-winter-2026-2c05c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:visita-guiada-exposicao-mundo-visivel-bdaed-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T143000
 SUMMARY:Visita guiada Exposição Mundo visível
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -246,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nova-math-at-semana-da-ciencia-e-tecnologia-2026-with-the-in-6765d-2026
  -11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:NOVA Math at Semana da Ciência e Tecnologia 2026 with the initiati
  ve “Portugal à Prova
@@ -257,9 +314,75 @@ URL:https://lykeion.pt/e/nova-math-at-semana-da-ciencia-e-tecnologia-2026-w
  ith-the-in-6765d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-biomedica-da-l-c66c3-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T163000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Biomédica da Licenc
+ iada Lídia Felisbela Lopes Ribeiro
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-biomedica-da-licenciada-lidia-felisbela-lopes-rib
+ eiro
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-biom
+ edica-da-l-c66c3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-ele-df7ce-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Elena Rhe
+ ann Simões Furk
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-elena-rheann-simoes-furk
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-ele-df7ce.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-ema-5f88e-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Ema Cintr
+ a Duarte
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-ema-cintra-duarte
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-ema-5f88e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mat-534e2-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T100000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Matilde P
+ eralta Gonçalves
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-matilde-peralta-goncalves
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mat-534e2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-joa-f799b-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T090000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica do Licenciado João Gil
+  Barreiros Teles
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-do-licenciado-joao-gil-barreiros-teles
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-do-lice
+ nciado-joa-f799b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-catia-jose-domingues-das-neves-multi-o-a2d4f-2026
  -11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T100000
 SUMMARY:Provas de mestrado de Cátia José Domingues das Neves — Multi-om
  ics Approach to Understand Congenital Disorders of Glycosylation: From Mol
@@ -272,7 +395,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scopus-and-sciencedirect-getting-start-with-basic-searching-63029-2026-
  11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Scopus and ScienceDirect: Getting start with basic searching and AI
  -Powered discovery (Part 1)
@@ -284,9 +407,20 @@ URL:https://lykeion.pt/e/scopus-and-sciencedirect-getting-start-with-basic-
  searching-63029.html
 END:VEVENT
 BEGIN:VEVENT
+UID:neste-natal-entre-em-jogo-com-a-nova-366d2-2026-12-01@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261201T093000
+SUMMARY:Neste Natal\, entre em jogo com a NOVA
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/neste-natal-entr
+ e-em-jogo-com-nova
+URL:https://lykeion.pt/e/neste-natal-entre-em-jogo-com-a-nova-366d2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:scopus-and-sciencedirect-getting-start-with-basic-searching-63029-2026-
  12-01@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:Scopus and ScienceDirect: Getting start with basic searching and AI
  -Powered discovery (Part 1)
@@ -299,7 +433,7 @@ URL:https://lykeion.pt/e/scopus-and-sciencedirect-getting-start-with-basic-
 END:VEVENT
 BEGIN:VEVENT
 UID:climinvest-workshop-5ea63-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:CLIMINVEST workshop
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -311,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mini-course-and-seminar-mathbios-thematic-line-professor-vin-0daf9-2026
  -12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T110000
 SUMMARY:Mini-Course and Seminar MatHBioS Thematic Line] Professor Vincent C
  alvez
@@ -324,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nova-math-statistics-and-risk-management-seminar-d8568-2026-12-02@lagen
  da.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Statistics and Risk Management Seminar
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -337,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-informatica-mestre-ana-rita-rebelo-230c7-2026
  -12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Provas de Doutoramento em Informática - Mestre Ana Rita Rebelo
 LOCATION:Departamento de Informática da NOVA FCT\, Almada
@@ -349,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-fa92a-2026
  -12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
  groindustrial
@@ -361,7 +495,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-de-producao-e-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:climinvest-workshop-a43e9-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:CLIMINVEST workshop
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -372,7 +506,7 @@ URL:https://lykeion.pt/e/climinvest-workshop-a43e9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-1180c-vicarte-2026-dd590-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T180000
 SUMMARY:Open Day 1180°C | VICARTE 2026
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -383,7 +517,7 @@ URL:https://lykeion.pt/e/open-day-1180c-vicarte-2026-dd590.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-1180c-dd590-2026-12-05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261205T180000
 SUMMARY:Open Day 1180°C
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -395,7 +529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scopus-and-sciencedirect-advanced-searching-analysis-and-res-4b0b9-2026
  -12-05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261205
 SUMMARY:Scopus and ScienceDirect : Advanced searching\, analysis and result
  s management (Part 2)
@@ -409,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:estudo-da-reabilitacao-de-fachada-de-edificio-de-escritorio-99c1b-2026-
  12-07@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261207T150000
 SUMMARY:Estudo da reabilitação de fachada de edifício de escritório com
   recurso a simulação numérica: Optimização de conforto e eficiência 
@@ -424,7 +558,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scopus-and-sciencedirect-advanced-searching-analysis-and-res-4b0b9-2026
  -12-08@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261208
 SUMMARY:Scopus and ScienceDirect : Advanced searching\, analysis and result
  s management (Part 2)
@@ -438,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-comemorativa-dos-50-anos-do-departamento-e56e1-2026-12-08@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261208T090000
 SUMMARY:Sessão comemorativa dos 50 anos do Departamento
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -451,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:european-roundtable-for-sustainable-consumption-and-producti-b73cd-2026
  -12-09@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:European Roundtable for Sustainable Consumption and Production (ERS
  CP’2027)
@@ -465,7 +599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-comemorativa-dos-50-anos-do-departamento-e56e1-2026-12-09@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T090000
 SUMMARY:Sessão comemorativa dos 50 anos do Departamento
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -478,7 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:european-roundtable-for-sustainable-consumption-and-producti-b73cd-2026
  -12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:European Roundtable for Sustainable Consumption and Production (ERS
  CP’2027)
@@ -491,7 +625,7 @@ URL:https://lykeion.pt/e/european-roundtable-for-sustainable-consumption-an
 END:VEVENT
 BEGIN:VEVENT
 UID:hitech-2027-information-session-at-nova-fct-6e837-2026-12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T143000
 SUMMARY:HiTech 2027 | Information Session at NOVA FCT
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -503,7 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xiv-encontro-de-instituicoes-e-unidades-de-elearning-do-ensi-0df71-2026
  -12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:XIV Encontro de Instituições e Unidades de eLearning do Ensino Su
  perior
@@ -516,7 +650,7 @@ URL:https://lykeion.pt/e/xiv-encontro-de-instituicoes-e-unidades-de-elearni
 END:VEVENT
 BEGIN:VEVENT
 UID:agrifood-open-day-10c94-2026-12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Agrifood Open Day
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -527,7 +661,7 @@ URL:https://lykeion.pt/e/agrifood-open-day-10c94.html
 END:VEVENT
 BEGIN:VEVENT
 UID:portugal-crypto-day-2026-06324-2026-12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Portugal Crypto Day 2026
 LOCATION:Laboratório para a Ciência da Computação e Informática\, Alma
@@ -539,7 +673,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xiv-encontro-de-instituicoes-e-unidades-de-elearning-do-ensi-0df71-2026
  -12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:XIV Encontro de Instituições e Unidades de eLearning do Ensino Su
  perior
@@ -553,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-tecnologias-em-agricultura-de-precisao-3a0cc-2026
  -12-18@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T140000
 SUMMARY:Provas de Mestrado em Tecnologias em Agricultura de Precisão
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -564,7 +698,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-em-agricultura-d
 END:VEVENT
 BEGIN:VEVENT
 UID:open-data-academy-challenge-0727e-2026-12-31@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Open Data Academy Challenge
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al

@@ -6,32 +6,9 @@ X-WR-CALNAME:CFUL (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hphil-seminar-november-26-2026-6ffaa-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:HPhil Seminar: November 26\, 2026
-LOCATION:Centro de Filosofia
-DESCRIPTION:https://cful.letras.ulisboa.pt/events/hphil-seminar-november-26
- -2026/
-URL:https://lykeion.pt/e/hphil-seminar-november-26-2026-6ffaa.html
-END:VEVENT
-BEGIN:VEVENT
-UID:philosophy-against-fascism-session-10-with-razvan-sandru-gio-47d45-2026
- -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261127
-SUMMARY:Philosophy Against Fascism: Session 10\, with Razvan Sandru\, Giova
- nbattista Tusa\, and Miguel Duarte
-LOCATION:Centro de Filosofia
-DESCRIPTION:https://cful.letras.ulisboa.pt/events/philosophy-against-fascis
- m-s10/
-URL:https://lykeion.pt/e/philosophy-against-fascism-session-10-with-razvan-
- sandru-gio-47d45.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seminar-series-in-analytic-philosophy-2026-27-session-9-9f52e-2026-11-2
  7@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T160000
 SUMMARY:Seminar Series in Analytic Philosophy 2026-27: Session 9
 LOCATION:Centro de Filosofia
@@ -41,9 +18,29 @@ URL:https://lykeion.pt/e/seminar-series-in-analytic-philosophy-2026-27-sess
  ion-9-9f52e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:hphil-seminar-december-3-2026-d1704-2026-12-03@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:HPhil Seminar: December 3\, 2026
+LOCATION:Centro de Filosofia
+DESCRIPTION:https://cful.letras.ulisboa.pt/events/hphil-seminar-december-3-
+ 2026/
+URL:https://lykeion.pt/e/hphil-seminar-december-3-2026-d1704.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hphil-seminar-december-10-2026-a4695-2026-12-10@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:HPhil Seminar: December 10\, 2026
+LOCATION:Centro de Filosofia
+DESCRIPTION:https://cful.letras.ulisboa.pt/events/hphil-seminar-december-10
+ -2026/
+URL:https://lykeion.pt/e/hphil-seminar-december-10-2026-a4695.html
+END:VEVENT
+BEGIN:VEVENT
 UID:praxis-seminar-series-2026-2027-session-11-irene-borges-duar-0dd7e-2026
  -12-15@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261215T160000
 SUMMARY:Praxis Seminar Series 2026-2027: Session 11 [Irene Borges Duarte
 LOCATION:Centro de Filosofia

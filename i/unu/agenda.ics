@@ -6,26 +6,36 @@ X-WR-CALNAME:UNU (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:seminar-does-sharing-lead-to-caring-the-generosity-effect-of-c2694-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T190000
-SUMMARY:Seminar: Does sharing lead to caring? The generosity effect of retu
- rning research results to participants
-LOCATION:United Nations University\, Guimarães
-DESCRIPTION:https://unu.edu/events
-URL:https://lykeion.pt/e/seminar-does-sharing-lead-to-caring-the-generosity
- -effect-of-c2694.html
-END:VEVENT
-BEGIN:VEVENT
-UID:inaugural-symposium-on-sustainable-food-systems-3cc2f-2026-11-27@lagend
+UID:inaugural-symposium-on-sustainable-food-systems-f4ff9-2026-11-27@lagend
  a.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T190000
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:Inaugural Symposium on Sustainable Food Systems
 LOCATION:United Nations University\, Guimarães
+DESCRIPTION:https://unu.edu/inweh/event/inaugural-symposium-sustainable-foo
+ d-systems
+URL:https://lykeion.pt/e/inaugural-symposium-on-sustainable-food-systems-f4
+ ff9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:international-policy-forum-on-global-water-bankruptcy-scienc-5bb27-2026
+ -12-04@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T190000
+SUMMARY:International Policy Forum on Global Water Bankruptcy: Science\, Le
+ adership\, Diplomacy and Action in Asia and Beyond
+LOCATION:United Nations University\, Guimarães
 DESCRIPTION:https://unu.edu/events
-URL:https://lykeion.pt/e/inaugural-symposium-on-sustainable-food-systems-3c
- c2f.html
+URL:https://lykeion.pt/e/international-policy-forum-on-global-water-bankrup
+ tcy-scienc-5bb27.html
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-school-3f95d-2026-12-12@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T190000
+SUMMARY:Winter School
+LOCATION:United Nations University\, Guimarães
+DESCRIPTION:https://unu.edu/events
+URL:https://lykeion.pt/e/winter-school-3f95d.html
 END:VEVENT
 END:VCALENDAR

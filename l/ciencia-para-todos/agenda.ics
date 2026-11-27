@@ -6,9 +6,9 @@ X-WR-CALNAME:Ciência para todos (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:a-memoria-do-angelo-obra-em-exposicao-a69d7-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T155800
+UID:a-memoria-do-angelo-obra-em-exposicao-a69d7-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T155800
 SUMMARY:'À memória do Ângelo': obra em exposição
 LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
 DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
@@ -16,20 +16,10 @@ DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
 URL:https://lykeion.pt/e/a-memoria-do-angelo-obra-em-exposicao-a69d7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:12-a-mostra-de-cinema-estc-na-amadora-1c31b-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T100000
-SUMMARY:12.ª Mostra de Cinema ESTC na Amadora
-LOCATION:Escola Superior de Teatro e Cinema\, Amadora
-DESCRIPTION:https://www.estc.upl.pt/eventos/12a-mostra-de-cinema-estc-na-am
- adora
-URL:https://lykeion.pt/e/12-a-mostra-de-cinema-estc-na-amadora-1c31b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:13-13-autoras-galegas-e-lusofonas-em-dialogo-inauguracao-da-d00b3-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T103000
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T103000
 SUMMARY:13+13 Autoras Galegas e Lusófonas em diálogo – inauguração da
   exposição ADIADA
 LOCATION:Centro de Estudos Clássicos
@@ -39,9 +29,30 @@ URL:https://lykeion.pt/e/13-13-autoras-galegas-e-lusofonas-em-dialogo-inaug
  uracao-da-d00b3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:3-a-semana-da-ciencia-a9a7c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T114300
+UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-27@lagen
+ da.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:26 Exposição Etnografias da Pastorícia
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
+ da-pastoricia/
+URL:https://lykeion.pt/e/26-17-dez-26-exposicao-etnografias-da-pastoricia-a
+ 35a7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:27-novembro-8581e-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:27 Novembro
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:http://www.ccvalg.pt/public/even_table.php
+URL:https://lykeion.pt/e/27-novembro-8581e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3-a-semana-da-ciencia-a9a7c-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T114300
 SUMMARY:3.ª Semana da Ciência
 LOCATION:Ponte de Lima\, Ponte de Lima
 DESCRIPTION:https://www.cm-pontedelima.pt/municipio/comunicacao/eventos/eve
@@ -49,10 +60,19 @@ DESCRIPTION:https://www.cm-pontedelima.pt/municipio/comunicacao/eventos/eve
 URL:https://lykeion.pt/e/3-a-semana-da-ciencia-a9a7c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:academia-da-robotica-20262027-4e764-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T020000
+SUMMARY:Academia da Robótica 2026–2027
+LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
+DESCRIPTION:https://planetario.up.pt/pt/evento/robotica26_27
+URL:https://lykeion.pt/e/academia-da-robotica-20262027-4e764.html
+END:VEVENT
+BEGIN:VEVENT
 UID:banguecoque-e-chiang-mai-exposicao-weaving-futures-a-cross-c-6fb40-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
 SUMMARY:Banguecoque e Chiang Mai: Exposição “Weaving Futures: A Cross-C
  ultural Journey in Sustainable Design
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -64,9 +84,9 @@ URL:https://lykeion.pt/e/banguecoque-e-chiang-mai-exposicao-weaving-futures
 END:VEVENT
 BEGIN:VEVENT
 UID:bolonha-e-milao-exposicao-revolucoes-guine-bissau-angola-e-p-6fb40-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
 SUMMARY:Bolonha e Milão: Exposição “Revoluções. Guiné-Bissau\, Ango
  la e Portugal (1969-1974)
 LOCATION:Camões - Instituto da Cooperação e da Língua
@@ -78,9 +98,9 @@ URL:https://lykeion.pt/e/bolonha-e-milao-exposicao-revolucoes-guine-bissau-
 END:VEVENT
 BEGIN:VEVENT
 UID:cei-no-trail-da-ciencia-2026-semana-da-ciencia-e-da-tecnolog-2aaee-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:CEI no Trail da Ciência 2026 | Semana da Ciência e da Tecnologia 
  na Universidade Técnica do PORTO
 LOCATION:Politécnico do Porto\, Matosinhos
@@ -90,988 +110,9 @@ URL:https://lykeion.pt/e/cei-no-trail-da-ciencia-2026-semana-da-ciencia-e-d
  a-tecnolog-2aaee.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cafe-de-ciencia-cipers-science-cafe-ai-for-everyday-research-1d870-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Café de ciência: CIPER’s Science Café: AI for Everyday Researc
- h and Human Functioning
-LOCATION:Faculdade de Motricidade Humana\, Oeiras
-DESCRIPTION:https://www.fmh.ulisboa.pt/
-URL:https://lykeion.pt/e/cafe-de-ciencia-cipers-science-cafe-ai-for-everyda
- y-research-1d870.html
-END:VEVENT
-BEGIN:VEVENT
-UID:cafe-de-ciencia-cafe-ciencia-avaliacao-em-ebulicao-e03c9-2026-11-26@lag
- enda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Café de ciência: Café ciência: 'Avaliação em ebulição'
-LOCATION:Universidade do Minho\, Braga
-DESCRIPTION:https://www.ie.uminho.pt/pt
-URL:https://lykeion.pt/e/cafe-de-ciencia-cafe-ciencia-avaliacao-em-ebulicao
- -e03c9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-f5533-2026-11-26@lage
- nda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Café de ciência: Ciência no Copo - Entre livros e IA
-LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
-DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
-URL:https://lykeion.pt/e/cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-
- f5533.html
-END:VEVENT
-BEGIN:VEVENT
-UID:catolica-porto-sbe-international-open-day-7d52f-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:Católica Porto SBE International Open Day
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://www.ucp.pt/pt-pt/eventos/catolica-porto-sbe-internation
- al-open-day
-URL:https://lykeion.pt/e/catolica-porto-sbe-international-open-day-7d52f.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:clube-da-ciencia-75173-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T100000
-SUMMARY:Clube da Ciência
-LOCATION:Centro Ciência Viva de Lagos\, Lagos
-DESCRIPTION:https://www.cm-lagos.pt/municipio/eventos/16162-clube-da-ciênc
- ia_16162
-URL:https://lykeion.pt/e/clube-da-ciencia-75173.html
-END:VEVENT
-BEGIN:VEVENT
-UID:de-23-a-27-de-novembro-escola-ciencia-viva-7cdc0-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:De 23 a 27 de novembro Escola Ciência Viva
-LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
- ância
-DESCRIPTION:https://constancia.cienciaviva.pt/17978/de-23-a-27-de-novembro
-URL:https://lykeion.pt/e/de-23-a-27-de-novembro-escola-ciencia-viva-7cdc0.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-UID:dia-nacional-e-semana-da-cultura-cientifica-c38c9-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Dia Nacional e Semana da Cultura Científica
-LOCATION:Museu Nacional de História Natural e da Ciência\, Santo António
-DESCRIPTION:https://www.agendalx.pt/events/event/dia-nacional-e-semana-da-c
- ultura-cientifica/
-URL:https://lykeion.pt/e/dia-nacional-e-semana-da-cultura-cientifica-c38c9.
- html
-END:VEVENT
-BEGIN:VEVENT
-UID:documentario-sessao-de-planetario-3clipse-668c9-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Documentário: Sessão de planetário 3CLIPSE
-LOCATION:Museu Nacional de História Natural e da Ciência
-DESCRIPTION:https://museus.ulisboa.pt
-URL:https://lykeion.pt/e/documentario-sessao-de-planetario-3clipse-668c9.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:dublin-portugal-na-exposicao-vision-fotografia-contemporanea-3ef75-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Dublin: Portugal na Exposição “VISION” - Fotografia Contempor
- ânea dos Estados-Membros da União Europeia
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/dublin-portugal-na-exposicao-vision-fotografia-contempor
- anea-dos-estados-membros-da-uniao-europeia
-URL:https://lykeion.pt/e/dublin-portugal-na-exposicao-vision-fotografia-con
- temporanea-3ef75.html
-END:VEVENT
-BEGIN:VEVENT
-UID:espreitar-o-ceu-da-barquinha-ed7c7-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Espreitar o céu da Barquinha!
-LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Vila 
- Nova da Barquinha
-DESCRIPTION:https://constancia.cienciaviva.pt/
-URL:https://lykeion.pt/e/espreitar-o-ceu-da-barquinha-ed7c7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T080000
-SUMMARY:Exposição '[Structural stacking]: do arquivo Colector de Formas' 
- na Biblioteca Domingos Cravo
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-structural-s
- tacking-do-arquivo-colector-de-formas-na-biblioteca-domingos-cravo?instanc
- e_id=20260928090000
-URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
- de-formas-ab38b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-100-anos-da-faculdade-de-engenharia-1926-2026-19-d-ba4ec-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T083000
-SUMMARY:Exposição 100 anos da Faculdade de Engenharia (1926 – 2026) | 1
- 9 de novembro a 31 de dezembro
-LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-100-anos-da-faculdade
- -de-engenharia-1926
-URL:https://lykeion.pt/e/exposicao-100-anos-da-faculdade-de-engenharia-1926
- -2026-19-d-ba4ec.html
-END:VEVENT
-BEGIN:VEVENT
-UID:20-11-2026-31-12-2026-exposicao-90-anos-90-historias-90-voze-861f5-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T173000
-SUMMARY:Exposição 90 Anos\, 90 Histórias\, 90 Vozes\, Milhares de Memór
- ias
-LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
- oimbra
-DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-90-anos-90-histo
- rias-90-vozes-milhares-de-memorias/
-URL:https://lykeion.pt/e/20-11-2026-31-12-2026-exposicao-90-anos-90-histori
- as-90-voze-861f5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:17-10-2026-18-12-2026-exposicao-belem-lima-novissimo-24f29-2026-11-26@l
- agenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:Exposição Belém Lima Novíssimo
-LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
- oimbra
-DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-belem-lima-novis
- simo/
-URL:https://lykeion.pt/e/17-10-2026-18-12-2026-exposicao-belem-lima-novissi
- mo-24f29.html
-END:VEVENT
-BEGIN:VEVENT
-UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-26@lagen
- da.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição Etnografias da Pastorícia
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
- da-pastoricia/
-URL:https://lykeion.pt/e/26-17-dez-26-exposicao-etnografias-da-pastoricia-a
- 35a7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-figurino-traje-masculino-sec-xviii-7a096-2026-11-26@lagenda.p
- t
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição Figurino - Traje Masculino séc. XVIII
-LOCATION:Porto\, Porto
-DESCRIPTION:https://www.esmae.ipp.pt/noticias/exposicao-figurino-traje-masc
- ulino-sec-xviii
-URL:https://lykeion.pt/e/exposicao-figurino-traje-masculino-sec-xviii-7a096
- .html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180100
-SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
- , em torno da obra de José Leite de Vasconcelos (1858-1941)
-LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-de-fo
- tografia-de-augusto-lemos-imagens-anunciadas-em-torno-da-obra-de-jose-leit
- e-de-vasconcelos-1858-1941/
-URL:https://lykeion.pt/e/exposicao-de-fotografia-de-augusto-lemos-imagens-a
- nunciadas-13a55.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-de-livros-cartoneros-979bd-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição de livros cartoneros
-LOCATION:Instituto Politécnico de Beja\, Beja
-DESCRIPTION:https://www.ipbeja.pt
-URL:https://lykeion.pt/e/exposicao-de-livros-cartoneros-979bd.html
-END:VEVENT
-BEGIN:VEVENT
-UID:22-10-2026-22-12-2026-exposicao-itinerante-landscape-togethe-275dc-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Exposição itinerante Landscape Together
-LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
- oimbra
-DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-itinerante-lands
- cape-together-centro-interior-villages-to-get-territorial-communities-1/
-URL:https://lykeion.pt/e/22-10-2026-22-12-2026-exposicao-itinerante-landsca
- pe-togethe-275dc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
-SUMMARY:Exposição | Anuária 25.26 - Inteligência Arquitetónica
-LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
- 5485
-URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
- -inteligen-a9a54.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-26@lagenda
- .pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
- o-do-coracao-de-ana-janeiro/
-URL:https://lykeion.pt/e/exposicao-damao-fogo-do-coracao-de-ana-janeiro-308
- 38.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-o-caminho-da-beleza-1d9fd-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:Exposição | O Caminho da Beleza
-LOCATION:Faculdade de Ciências da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-caminho-beleza
-URL:https://lykeion.pt/e/exposicao-o-caminho-da-beleza-1d9fd.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-queridas-amigas-af305-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180000
-SUMMARY:Exposição | Queridas Amigas
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-queridas-
- amigas/
-URL:https://lykeion.pt/e/exposicao-queridas-amigas-af305.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-la-fora-at-88fbc-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Exposição | «Jogos da Macaca: Jorge Pinheiro e a vida lá fora»
-  [até 28 NOV
-LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-jogos-da-macaca-jorge
- -pinheiro-e-a-vida
-URL:https://lykeion.pt/e/exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-
- la-fora-at-88fbc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-mundo-visivel-fotografia-de-joao-fazenda-38586-2026-11-26@lag
- enda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
-SUMMARY:Exposição «Mundo Visível» (fotografia) de João fazenda
-LOCATION:Escola Superior de Teatro e Cinema\, Amadora
-DESCRIPTION:https://www.estc.upl.pt/eventos/exposicao-mundo-visivel-fotogra
- fia-de-joao-fazenda-16-nov-17-jan-2027
-URL:https://lykeion.pt/e/exposicao-mundo-visivel-fotografia-de-joao-fazenda
- -38586.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-o-desenho-das-horas-circulares-relato-de-um-cartog-6507c-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Exposição «O desenho das Horas Circulares: Relato de um Cartógr
- afo de Sombras»\, de Telmo Castro\, na Casa da Arquitetura
-LOCATION:Escola Superior Artística do Porto\, Porto
-DESCRIPTION:https://esap.pt/atividades_dep/exposicao-o-desenho-das-horas-ci
- rculares-relato-de-um-cartografo-de-sombras-de-telmo-castro-na-casa-da-arq
- uitetura/
-URL:https://lykeion.pt/e/exposicao-o-desenho-das-horas-circulares-relato-de
- -um-cartog-6507c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-one-memory-worth-a-thousand-pieces-of-paper-bedc5-2026-11-26@
- lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Exposição «One Memory Worth a Thousand Pieces of Paper»
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://www.ualg.pt/exposicao-one-memory-worth-thousand-pieces-
- paper
-URL:https://lykeion.pt/e/exposicao-one-memory-worth-a-thousand-pieces-of-pa
- per-bedc5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-peace-of-mind-21e26-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição «Peace of Mind»
-LOCATION:Universidade do Algarve\, Faro
-DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
-URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-raquel-soeiro-de-brito-uma-geografa-no-ultramar-76f20-2026-11
- -26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T163000
-SUMMARY:Exposição «Raquel Soeiro de Brito - Uma Geógrafa no Ultramar»
-LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
-DESCRIPTION:https://www.up.pt/eventos/event/exposicao-raquel-soeiro-de-brit
- o-uma-geografa
-URL:https://lykeion.pt/e/exposicao-raquel-soeiro-de-brito-uma-geografa-no-u
- ltramar-76f20.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-por-dentro-do-barroco-no-museu-diocesano-de-lamego-60168-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T080000
-SUMMARY:Exposição «por Dentro do Barroco» no Museu Diocesano de Lamego
-LOCATION:Museu de Lamego\, Lamego
-DESCRIPTION:https://museudelamego.gov.pt/exposicao-por-dentro-do-barroco-no
- -museu-diocesano-de-lamego/
-URL:https://lykeion.pt/e/exposicao-por-dentro-do-barroco-no-museu-diocesano
- -de-lamego-60168.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-a9a54-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
-SUMMARY:Exposição · Faculdade de Arquitetura da Universidade do Porto
-LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
- 5485
-URL:https://lykeion.pt/e/exposicao-a9a54.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-e4318-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:Exposição · Faculdade de Belas Artes da Universidade do Porto
-LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
-DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
- 48630
-URL:https://lykeion.pt/e/exposicao-e4318.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
- s Andrés Ortega García
-LOCATION:Departamento de Ciências Médicas\, Covilhã
-DESCRIPTION:https://www.ubi.pt/Evento/24178
-URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
- arlos-andr-02c1d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-macau-em-contrastes-esta-de-regresso-ao-iseg-ate-2-1ebe9-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição “Macau em Contrastes” está de regresso ao ISEG at
- é 26 de novembro
-LOCATION:ISEG – Lisbon School of Economics and Management
-DESCRIPTION:https://www.iseg.ulisboa.pt/2026/11/exposicao-macau-em-contrast
- es-regressa/
-URL:https://lykeion.pt/e/exposicao-macau-em-contrastes-esta-de-regresso-ao-
- iseg-ate-2-1ebe9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-nostalgia-observacoes-extradimensionais-inauguraca-672a9-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T150000
-SUMMARY:Exposição “Nostalgia — Observações extradimensionais” (In
- auguração – 29 de setembro na ULO)
-LOCATION:Politécnico de Leiria\, Leiria
-DESCRIPTION:https://www.ulo.pt/exposicao-nostalgia-observacoes-extradimensi
- onais-inauguracao-29-de-setembro-na-ulo/
-URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
- inauguraca-672a9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-viagens-com-ciencia-o-olhar-dos-investigadores-8501f-2026-11-
- 26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição “Viagens com Ciência: O Olhar dos Investigadores
-LOCATION:Laboratório Associado TERRA
-DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
- r-dos-investigadores/
-URL:https://lykeion.pt/e/exposicao-viagens-com-ciencia-o-olhar-dos-investig
- adores-8501f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-a-ciencia-n-d-a-esac-13b64-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição: A ciência n(d)a ESAC
-LOCATION:Politécnico de Coimbra\, Coimbra
-DESCRIPTION:https://www.esac.pt/index.php/eventos/
-URL:https://lykeion.pt/e/exposicao-a-ciencia-n-d-a-esac-13b64.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-anatomia-de-um-sentimento-de-bruno-vieira-6db46-2026-11-26@la
- genda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T163000
-SUMMARY:Exposição: Anatomia de um Sentimento\, de Bruno Vieira
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-anatomia-de-
- um-sentimento-de-bruno-vieira?instance_id=20261102163000
-URL:https://lykeion.pt/e/exposicao-anatomia-de-um-sentimento-de-bruno-vieir
- a-6db46.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-cartas-do-vulcao-memorias-de-uma-erupcao-65ed5-2026-11-26@lag
- enda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição: Cartas do Vulcão: Memórias de uma erupção
-LOCATION:Centro de Interpretação do Vulcão dos Capelinhos - Centro Ciên
- cia Viva\, Horta
-DESCRIPTION:https://parquesnaturais.azores.gov.pt/pt/parques/3/centro/12
-URL:https://lykeion.pt/e/exposicao-cartas-do-vulcao-memorias-de-uma-erupcao
- -65ed5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-ciencia-no-departamento-de-fisica-54908-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição: Ciência no Departamento de Física
-LOCATION:Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.uc.pt/openscience/romulo/agenda/
-URL:https://lykeion.pt/e/exposicao-ciencia-no-departamento-de-fisica-54908.
- html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-inside-the-lab-o-que-realmente-acontece-aqui-83137-2026-11-26
- @lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição: Inside the Lab: O que realmente acontece aqui?
-LOCATION:LAQV Requimte\, Porto
-DESCRIPTION:https://laqv.requimte.pt/
-URL:https://lykeion.pt/e/exposicao-inside-the-lab-o-que-realmente-acontece-
- aqui-83137.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-juntos-pelo-futuro-do-nosso-patrimonio-natural-65ed5-2026-11-
- 26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição: Juntos pelo futuro do nosso património natural
-LOCATION:Centro de Interpretação do Vulcão dos Capelinhos - Centro Ciên
- cia Viva\, Horta
-DESCRIPTION:https://parquesnaturais.azores.gov.pt/pt/parques/3/centro/12
-URL:https://lykeion.pt/e/exposicao-juntos-pelo-futuro-do-nosso-patrimonio-n
- atural-65ed5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-manuela-silva-uma-vida-muitas-causas-2bbe1-2026-11-26@lagenda
- .pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição: Manuela Silva: uma vida\, muitas causas
-LOCATION:Universidade Católica Portuguesa
-DESCRIPTION:https://cehr.ucp.pt/events/manuela-silva-uma-vida-muitas-causas
- -mostra-documental
-URL:https://lykeion.pt/e/exposicao-manuela-silva-uma-vida-muitas-causas-2bb
- e1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-vendo-o-planeta-terra-nos-ombros-de-gigantes-3d65f-2026-11-26
- @lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição: Vendo o planeta Terra...nos ombros de gigantes
-LOCATION:Centro Ciência Viva de Estremoz\, Estremoz
-DESCRIPTION:https://www.ccvestremoz.com/
-URL:https://lykeion.pt/e/exposicao-vendo-o-planeta-terra-nos-ombros-de-giga
- ntes-3d65f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:faculdade-de-engenharias-e-tecnologias-organiza-semana-da-ci-f4eb8-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T005000
-SUMMARY:Faculdade de Engenharias e Tecnologias organiza Semana da Ciência 
- e Tecnologia 2026
-LOCATION:Universidade Lusíada\, Vila Nova de Famalicão
-DESCRIPTION:https://www.fam.ulusiada.pt/noticias/artigo.php?news_id=5866
-URL:https://lykeion.pt/e/faculdade-de-engenharias-e-tecnologias-organiza-se
- mana-da-ci-f4eb8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:floresta-uma-experiencia-de-raiz-8dd00-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Floresta: Uma Experiência de Raiz
-LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
- ões
-DESCRIPTION:https://www.agendalx.pt/events/event/floresta-uma-experiencia-d
- e-raiz/
-URL:https://lykeion.pt/e/floresta-uma-experiencia-de-raiz-8dd00.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ginasio-da-esec-online-unidades-organicas-da-upcoimbra-seman-e2633-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Ginásio da ESEC Online Unidades orgânicas da UPCoimbra Semana da 
- Ciência e da Tecnologia
-LOCATION:Escola Superior de Educação de Coimbra\, Coimbra
-DESCRIPTION:https://www.esec.pt/eventos/semanadacienciaetecnologia2026/
-URL:https://lykeion.pt/e/ginasio-da-esec-online-unidades-organicas-da-upcoi
- mbra-seman-e2633.html
-END:VEVENT
-BEGIN:VEVENT
-UID:haia-exposicao-rui-chafes-x-alberto-giacometti-gris-vide-cri-bd362-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Haia: Exposição “Rui Chafes X Alberto Giacometti. Gris\, Vide\,
-  Cris III” no Museu Beelden aan Zee
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/haia-exposicao-rui-chafes-x-alberto-giacometti-gris-vide
- -cris-iii-no-museu-beelden-aan-zee
-URL:https://lykeion.pt/e/haia-exposicao-rui-chafes-x-alberto-giacometti-gri
- s-vide-cri-bd362.html
-END:VEVENT
-BEGIN:VEVENT
-UID:historias-de-uma-criatura-viajante-26bab-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T120000
-SUMMARY:Histórias de uma Criatura Viajante
-LOCATION:Centro Ciência Viva do Algarve\, Faro
-DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/semana-da-ciencia-e-tecnologia
- /para-escolas/historias-de-uma-criatura-viajante
-URL:https://lykeion.pt/e/historias-de-uma-criatura-viajante-26bab.html
-END:VEVENT
-BEGIN:VEVENT
-UID:inauguracao-da-exposicaoa-vida-secreta-dos-livros-26-de-nove-b53a8-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T163000
-SUMMARY:Inauguração da Exposição”A vida secreta dos livros”: 26 de 
- novembro – 16H30\, Campus 1 da ULO – ESECS (Entrada Livre)
-LOCATION:Politécnico de Leiria\, Leiria
-DESCRIPTION:https://cultura.ulo.pt/a-vida-secreta-dos-livros-e-o-prazer-da-
- ilustracao-sem-tecla-undo-exposicao-de-paulo-galindro/
-URL:https://lykeion.pt/e/inauguracao-da-exposicaoa-vida-secreta-dos-livros-
- 26-de-nove-b53a8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:inteligencia-artificial-e-solucoes-digitais-em-destaque-na-s-b0e49-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T093000
-SUMMARY:Inteligência Artificial e soluções digitais em destaque na Seman
- a da Ciência e da Tecnologia9h30-12h30 • Salão Nobre
-LOCATION:Universidade Fernando Pessoa\, Porto
-DESCRIPTION:https://www.ufp.pt/inteligencia-artificial-e-solucoes-digitais-
- em-destaque-na-semana-da-ciencia-e-da-tecnologia/
-URL:https://lykeion.pt/e/inteligencia-artificial-e-solucoes-digitais-em-des
- taque-na-s-b0e49.html
-END:VEVENT
-BEGIN:VEVENT
-UID:istambul-artista-portuguesa-monica-baptista-na-exposicao-flo-6a1bf-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Istambul: Artista portuguesa Mónica Baptista na exposição Flowin
- g City
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/istambul-artista-portuguesa-monica-baptista-na-exposicao
- -flowing-city
-URL:https://lykeion.pt/e/istambul-artista-portuguesa-monica-baptista-na-exp
- osicao-flo-6a1bf.html
-END:VEVENT
-BEGIN:VEVENT
-UID:kit-1-a-vida-do-jardim-9b91f-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T100000
-SUMMARY:Kit 1 a Vida do Jardim
-LOCATION:Galeria da Biodiversidade - Centro Ciência Viva\, Porto
-DESCRIPTION:
-URL:https://lykeion.pt/e/kit-1-a-vida-do-jardim-9b91f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:madrid-exposicao-camoes-vida-obra-e-permanencia-na-cultura-h-0f0e2-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Madrid: Exposição: “Camões: vida\, obra e permanência na cult
- ura hispânica”\, na Biblioteca Nacional de Espanha
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/madrid-exposicao-camoes-vida-obra-e-permanencia-na-cultu
- ra-hispanica-na-biblioteca-nacional-de-espanha
-URL:https://lykeion.pt/e/madrid-exposicao-camoes-vida-obra-e-permanencia-na
- -cultura-h-0f0e2.html
-END:VEVENT
-BEGIN:VEVENT
-UID:novi-sad-ciclo-de-cinema-portugues-51e99-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Novi Sad: Ciclo de Cinema Português
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/novi-sad-ciclo-de-cinema-portugues
-URL:https://lykeion.pt/e/novi-sad-ciclo-de-cinema-portugues-51e99.html
-END:VEVENT
-BEGIN:VEVENT
-UID:open-day-toastmasters-c2207-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T185000
-SUMMARY:Open Day Toastmasters
-LOCATION:Biblioteca Francisco Pereira de Moura
-DESCRIPTION:https://www.iseg.ulisboa.pt/event/open-day-toastmasters/
-URL:https://lykeion.pt/e/open-day-toastmasters-c2207.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ora-bolas-show-de-ciencia-fd1c4-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T150000
-SUMMARY:Ora Bolas - Show de Ciência
-LOCATION:Universidade de Coimbra\, Coimbra
-DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/semana-ci%C3
- %AAncia-e-tecnologia
-URL:https://lykeion.pt/e/ora-bolas-show-de-ciencia-fd1c4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:paris-exposicao-au-milieu-9207b-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Paris: Exposição “AU MILIEU
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/paris-exposicao-au-milieu
-URL:https://lykeion.pt/e/paris-exposicao-au-milieu-9207b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-a-quimica-e-divertida-85df9-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: A Química é Divertida
-LOCATION:Universidade da Madeira\, Funchal
-DESCRIPTION:https://qdiv.cqm.uma.pt/
-URL:https://lykeion.pt/e/portas-abertas-a-quimica-e-divertida-85df9.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-analise-de-difracao-de-raios-x-de-rochas-e-se-eff51-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: Análise de difração de raios X de rochas e sedim
- entos: que informação procuramos?
-LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
-DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
-URL:https://lykeion.pt/e/portas-abertas-analise-de-difracao-de-raios-x-de-r
- ochas-e-se-eff51.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-banana-beterraba-camarao-e-cicatrizacao-uma-l-109a6-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: Banana\, beterraba\, camarão e cicatrização: Uma
-  ligação inesperada!
-LOCATION:LAQV Requimte\, Almada
-DESCRIPTION:https://forms.cloud.microsoft/e/qfD0RYFVJs
-URL:https://lykeion.pt/e/portas-abertas-banana-beterraba-camarao-e-cicatriz
- acao-uma-l-109a6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-experimenta-do-laboratorio-para-a-escola-e-b-00f33-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: Experimenta: Do laboratório para a escola - E.B.2\
- ,3 D. Paio
-LOCATION:Centro Ciência Viva de Tavira\, Tavira
-DESCRIPTION:https://tavira.cienciaviva.pt/
-URL:https://lykeion.pt/e/portas-abertas-experimenta-do-laboratorio-para-a-e
- scola-e-b-00f33.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-o-patrimonio-para-alem-do-olhar-historias-rev-9ce0a-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: O património para além do olhar: Histórias revel
- adas pela ciência
-LOCATION:Laboratório Hercules Herança Cultural Estudos e Salvaguarda\, É
- vora
-DESCRIPTION:https://hercules.uevora.pt
-URL:https://lykeion.pt/e/portas-abertas-o-patrimonio-para-alem-do-olhar-his
- torias-rev-9ce0a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-o-que-revela-o-teu-cabelo-sobre-o-peixe-que-c-0c601-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: O que revela o teu cabelo sobre o peixe que comes?
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://forms.cloud.microsoft/e/A8zMmifecL
-URL:https://lykeion.pt/e/portas-abertas-o-que-revela-o-teu-cabelo-sobre-o-p
- eixe-que-c-0c601.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-producao-sustentavel-de-plantas-num-sistema-i-f515d-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: Produção sustentável de plantas num sistema inte
- grado de aquaponia
-LOCATION:Universidade de Leiria e Oeste\, Leiria
-DESCRIPTION:https://www.cienciaviva.pt/semanact/2026/
-URL:https://lykeion.pt/e/portas-abertas-producao-sustentavel-de-plantas-num
- -sistema-i-f515d.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-realidade-virtual-desafios-e-oportunidades-c1bca-2026-11
- -26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: Realidade Virtual: Desafios e Oportunidades
-LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
-DESCRIPTION:https://eventos.utad.pt/cienciatecnologia/
-URL:https://lykeion.pt/e/portas-abertas-realidade-virtual-desafios-e-oportu
- nidades-c1bca.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-semana-c-t-no-expolab-centro-ciencia-viva-8a285-2026-11-
- 26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: Semana C&T no Expolab - Centro Ciência Viva
-LOCATION:Expolab - Centro Ciência Viva\, Lagoa (Açores)
-DESCRIPTION:https://www.facebook.com/cc.expolab/?locale=pt_PT
-URL:https://lykeion.pt/e/portas-abertas-semana-c-t-no-expolab-centro-cienci
- a-viva-8a285.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-sismos-e-erupcoes-vulcanicas-o-nosso-planeta-c536f-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: Sismos e erupções vulcânicas: o nosso planeta é
-  dinâmico!
-LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
-DESCRIPTION:https://idl.ciencias.ulisboa.pt/visitas-sala-de-outreach
-URL:https://lykeion.pt/e/portas-abertas-sismos-e-erupcoes-vulcanicas-o-noss
- o-planeta-c536f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-tecnologia-a4528-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T100000
-SUMMARY:Semana da Ciência & Tecnologia
-LOCATION:Centro Ciência Viva de Lagos\, Lagos
-DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
- ia-|-23-a-29-novembro
-URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-a4528.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-tecnologia-2026-65c64-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T083000
-SUMMARY:Semana da Ciência & Tecnologia 2026
-LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
-DESCRIPTION:https://eventos.utad.pt/evento/semana-ciencia-tecnologia-2026/
-URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-2026-65c64.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-tecnologia-2025-c3174-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e Tecnologia 2025
-LOCATION:Sociedade Portuguesa de Materiais
-DESCRIPTION:https://www.spmateriais.pt/post/semana-da-ci%C3%AAncia-e-tecnol
- ogia-2025
-URL:https://lykeion.pt/e/semana-da-ciencia-e-tecnologia-2025-c3174.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-tecnologia-2026-ulo-23-a-29-de-novembro-dfb2a-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e Tecnologia 2026 – ULO (23 a 29 de novembro) 
- .
-LOCATION:Escola de Artes e Design\, de Caldas da Rainha da Universidade de 
- Leiria e Oeste\, Caldas da Rainha
-DESCRIPTION:https://www.ulo.pt/semana-da-ciencia-e-tecnologia-2026-ulo-23-a
- -29-de-novembro/
-URL:https://lykeion.pt/e/semana-da-ciencia-e-tecnologia-2026-ulo-23-a-29-de
- -novembro-dfb2a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-da-tecnologia-5791c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e da Tecnologia
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/semana-da-cienci
- a-e-da-tecnologia
-URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-5791c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-da-tecnologia-2025-trail-de-ciencia-b8528-2026-11-2
- 6@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e da Tecnologia 2025 - TRAIL de Ciência
-LOCATION:Centro de Investigação e Inovação em Educação\, Porto
-DESCRIPTION:https://ined.ese.ipp.pt/pt/eventos/semana-da-ciencia-e-da-tecno
- logia-2025-trail-de-ciencia
-URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2025-trail-de-ci
- encia-b8528.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-da-tecnologia-2026-90016-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e da Tecnologia 2026
-LOCATION:Politécnico do Porto\, Porto
-DESCRIPTION:https://www.utporto.pt/noticias/semana-da-ciencia-e-da-tecnolog
- ia-2026
-URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2026-90016.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-da-tecnologia-2026-08cef-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e da Tecnologia 2026
-LOCATION:Universidade de Évora\, Évora
-DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=48033
-URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2026-08cef.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-da-tecnologia-2026-23-nov-2026-ate-29-no-6cdb3-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T150000
-SUMMARY:Semana da Ciência e da Tecnologia 2026 23-NOV-2026 até 29-NOV-202
- 6
-LOCATION:Constância\, Constância
-DESCRIPTION:https://www.jf-constancia.pt/freguesia/agenda/23-11-2026/semana
- -da-ciencia-e-da-tecnologia-2026
-URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2026-23-nov-2026
- -ate-29-no-6cdb3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-da-tecnologia-23-a-27-novembro-e2633-2026-11-26@lag
- enda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e da Tecnologia | 23 a 27 Novembro
-LOCATION:Escola Superior de Educação de Coimbra\, Coimbra
-DESCRIPTION:https://www.esec.pt/eventos/semanadacienciaetecnologia2026/
-URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-23-a-27-novembro
- -e2633.html
-END:VEVENT
-BEGIN:VEVENT
-UID:sessao-de-encerramento-exposicao-13-13-escritoras-galegas-e-645df-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T190000
-SUMMARY:Sessão de Encerramento | Exposição “13 + 13 - Escritoras galeg
- as e lusófonas em diálogo
-LOCATION:Faculdade de Letras da Universidade de Lisboa
-DESCRIPTION:https://www.letras.ulisboa.pt/pt/agenda/sessao-de-encerramento-
- exposicao-13-13-escritoras-galegas-e-lusofonas-em-dialogo
-URL:https://lykeion.pt/e/sessao-de-encerramento-exposicao-13-13-escritoras-
- galegas-e-645df.html
-END:VEVENT
-BEGIN:VEVENT
-UID:toquio-exposicao-paku-paku-de-ema-gaspar-dc37f-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180000
-SUMMARY:Tóquio: Exposição “Paku Paku” de Ema Gaspar
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/toquio-exposicao-paku-paku-de-ema-gaspar
-URL:https://lykeion.pt/e/toquio-exposicao-paku-paku-de-ema-gaspar-dc37f.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-UID:visita-guiada-exposicao-a-fisica-do-voo-50ffe-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T110000
-SUMMARY:Visita guiada: Exposição: A física do voo
-LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
- ância
-DESCRIPTION:https://constancia.cienciaviva.pt/15207/exposicao:-a-fisica-do-
- voo
-URL:https://lykeion.pt/e/visita-guiada-exposicao-a-fisica-do-voo-50ffe.html
-END:VEVENT
-BEGIN:VEVENT
-UID:visita-guiada-um-passeio-pelo-ceu-sessao-de-planetario-50c7a-2026-11-26
- @lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T120000
-SUMMARY:Visita guiada: Um passeio pelo céu - Sessão de planetário
-LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
- ância
-DESCRIPTION:https://constancia.cienciaviva.pt/1234/sessoes-de-planetario
-URL:https://lykeion.pt/e/visita-guiada-um-passeio-pelo-ceu-sessao-de-planet
- ario-50c7a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:visita-guiada-viagem-pelo-universo-no-parque-de-astronomia-d45bd-2026-1
- 1-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T100000
-SUMMARY:Visita guiada: Viagem pelo Universo no Parque de Astronomia!
-LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
- ância
-DESCRIPTION:https://constancia.cienciaviva.pt/1233/parque-de-astronomia
-URL:https://lykeion.pt/e/visita-guiada-viagem-pelo-universo-no-parque-de-as
- tronomia-d45bd.html
-END:VEVENT
-BEGIN:VEVENT
-UID:visitas-as-exposicoes-178de-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T150000
-SUMMARY:Visitas às Exposições
-LOCATION:Centro Cultural de Belém\, Belém
-DESCRIPTION:https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-m
- ac-ccb/2026-11-26/
-URL:https://lykeion.pt/e/visitas-as-exposicoes-178de.html
-END:VEVENT
-BEGIN:VEVENT
-UID:xangai-participacao-portuguesa-na-exposicao-between-elsewher-4b65b-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Xangai: Participação portuguesa na exposição “Between Elsewhe
- res: Memory and Identity Across Cultures
-LOCATION:Camões - Instituto da Cooperação e da Língua
-DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
- portuguesa/agenda/xangai-participacao-portuguesa-na-exposicao-between-else
- wheres-memory-and-identity-across-cultures
-URL:https://lykeion.pt/e/xangai-participacao-portuguesa-na-exposicao-betwee
- n-elsewher-4b65b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:cafe-com-ciencia-terapia-fagica-o-lado-bom-dos-virus-uma-nov-93ae5-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T213000
 SUMMARY:Café com Ciência: Terapia fágica - O lado bom dos vírus: uma no
  va arma contra doenças na Semana da Ciência e Tecnologia 2026
@@ -1085,7 +126,7 @@ URL:https://lykeion.pt/e/cafe-com-ciencia-terapia-fagica-o-lado-bom-dos-vir
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-contos-do-mundo-326a0-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Café de ciência: Contos do mundo
 LOCATION:Instituto Politécnico de Beja\, Beja
@@ -1095,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-seis-plantas-mil-historias-cacau-cafe-cha-e-326a0-2026-
  11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Café de ciência: Seis Plantas\, Mil Histórias | Cacau\, Café\, 
  Chá e Outros Estimulantes
@@ -1106,7 +147,7 @@ URL:https://lykeion.pt/e/cafe-de-ciencia-seis-plantas-mil-historias-cacau-c
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-shot-radioativo-6ca21-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T040000
 SUMMARY:Café de ciência: Shot radioativo
 LOCATION:RUA ANTÓNIO BERNARDINO DE ALMEIDA\, Porto
@@ -1117,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-a-deriva-no-oceano-historias-que-viajam-com-96b54-2026-
  11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Café de ciência: À Deriva no Oceano: Histórias que Viajam com a
  s Correntes
@@ -1127,9 +168,84 @@ URL:https://lykeion.pt/e/cafe-de-ciencia-a-deriva-no-oceano-historias-que-v
  iajam-com-96b54.html
 END:VEVENT
 BEGIN:VEVENT
+UID:cartografias-poeticas-por-helena-cardoso-exposicao-b2aba-2026-11-27@lag
+ enda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Cartografias Poéticas por Helena Cardoso | Exposição
+LOCATION:Universidade do Porto\, Porto
+DESCRIPTION:http://www.up.pt/casacomum/eventos/cartografias-poeticas-por-he
+ lena-cardoso-exposicao/
+URL:https://lykeion.pt/e/cartografias-poeticas-por-helena-cardoso-exposicao
+ -b2aba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:comemoracoes-do-dia-nacional-da-cultura-cientifica-ciencia-t-f3042-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Comemorações do Dia Nacional da Cultura Científica: ciência tro
+ cada por miúdos - as microalgas andam aí!
+LOCATION:Observatório Litoral Norte - Av. de Figueiredo\, Viana do Castelo
+ \, Viana do Castelo
+DESCRIPTION:https://www.cm-viana-castelo.pt/areas-de-atividade/comunicacao/
+ agenda-de-eventos/evento/comemoracoes-do-dia-nacional-da-cultura-cientific
+ a-ciencia-trocada-por-miudos-as-microalgas-andam-ai
+URL:https://lykeion.pt/e/comemoracoes-do-dia-nacional-da-cultura-cientifica
+ -ciencia-t-f3042.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dcm-de-portas-abertas-para-58-alunos-do-ensino-secundario-4893e-2026-11
+ -27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:DCM de portas abertas para 58 alunos do Ensino Secundário
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/11/dcm-de-portas-abert
+ as-para-58-alunos-do-ensino-secundario
+URL:https://lykeion.pt/e/dcm-de-portas-abertas-para-58-alunos-do-ensino-sec
+ undario-4893e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:de-23-a-27-de-novembro-escola-ciencia-viva-7cdc0-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:De 23 a 27 de novembro Escola Ciência Viva
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/17978/de-23-a-27-de-novembro
+URL:https://lykeion.pt/e/de-23-a-27-de-novembro-escola-ciencia-viva-7cdc0.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-nacional-e-semana-da-cultura-cientifica-c38c9-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Dia Nacional e Semana da Cultura Científica
+LOCATION:Museu Nacional de História Natural e da Ciência\, Santo António
+DESCRIPTION:https://www.agendalx.pt/events/event/dia-nacional-e-semana-da-c
+ ultura-cientifica/
+URL:https://lykeion.pt/e/dia-nacional-e-semana-da-cultura-cientifica-c38c9.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:dublin-portugal-na-exposicao-vision-fotografia-contemporanea-3ef75-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Dublin: Portugal na Exposição “VISION” - Fotografia Contempor
+ ânea dos Estados-Membros da União Europeia
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/dublin-portugal-na-exposicao-vision-fotografia-contempor
+ anea-dos-estados-membros-da-uniao-europeia
+URL:https://lykeion.pt/e/dublin-portugal-na-exposicao-vision-fotografia-con
+ temporanea-3ef75.html
+END:VEVENT
+BEGIN:VEVENT
 UID:escola-superior-agraria-de-coimbra-semana-da-ciencia-e-da-te-359ba-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Escola Superior Agrária de Coimbra Semana da Ciência e da Tecnolo
  gia 2026 na ESAC
@@ -1140,8 +256,187 @@ URL:https://lykeion.pt/e/escola-superior-agraria-de-coimbra-semana-da-cienc
  ia-e-da-te-359ba.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-structural-stacking-do-arquivo-colector-de-formas-ab38b-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T080000
+SUMMARY:Exposição '[Structural stacking]: do arquivo Colector de Formas' 
+ na Biblioteca Domingos Cravo
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-structural-s
+ tacking-do-arquivo-colector-de-formas-na-biblioteca-domingos-cravo?instanc
+ e_id=20260928090000
+URL:https://lykeion.pt/e/exposicao-structural-stacking-do-arquivo-colector-
+ de-formas-ab38b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-100-anos-da-faculdade-de-engenharia-1926-2026-19-d-ba4ec-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T083000
+SUMMARY:Exposição 100 anos da Faculdade de Engenharia (1926 – 2026) | 1
+ 9 de novembro a 31 de dezembro
+LOCATION:Faculdade de Engenharia da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-100-anos-da-faculdade
+ -de-engenharia-1926
+URL:https://lykeion.pt/e/exposicao-100-anos-da-faculdade-de-engenharia-1926
+ -2026-19-d-ba4ec.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20-11-2026-31-12-2026-exposicao-90-anos-90-historias-90-voze-861f5-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T173000
+SUMMARY:Exposição 90 Anos\, 90 Histórias\, 90 Vozes\, Milhares de Memór
+ ias
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-90-anos-90-histo
+ rias-90-vozes-milhares-de-memorias/
+URL:https://lykeion.pt/e/20-11-2026-31-12-2026-exposicao-90-anos-90-histori
+ as-90-voze-861f5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-alexandre-estrela-f3fe7-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição Alexandre Estrela
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13478&lang=pt
+URL:https://lykeion.pt/e/exposicao-alexandre-estrela-f3fe7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:18-00-exposicao-algo-esta-a-crescer-no-laboratorio-81374-2026-11-27@lag
+ enda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T180000
+SUMMARY:Exposição Algo está a crescer no laboratório
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/algo-esta-a-crescer-no-labo
+ ratorio
+URL:https://lykeion.pt/e/18-00-exposicao-algo-esta-a-crescer-no-laboratorio
+ -81374.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-ana-vieira-86c61-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição Ana Vieira
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13334&lang=pt
+URL:https://lykeion.pt/e/exposicao-ana-vieira-86c61.html
+END:VEVENT
+BEGIN:VEVENT
+UID:17-10-2026-18-12-2026-exposicao-belem-lima-novissimo-24f29-2026-11-27@l
+ agenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Exposição Belém Lima Novíssimo
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-belem-lima-novis
+ simo/
+URL:https://lykeion.pt/e/17-10-2026-18-12-2026-exposicao-belem-lima-novissi
+ mo-24f29.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-figurino-traje-masculino-sec-xviii-7a096-2026-11-27@lagenda.p
+ t
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição Figurino - Traje Masculino séc. XVIII
+LOCATION:Porto\, Porto
+DESCRIPTION:https://www.esmae.ipp.pt/noticias/exposicao-figurino-traje-masc
+ ulino-sec-xviii
+URL:https://lykeion.pt/e/exposicao-figurino-traje-masculino-sec-xviii-7a096
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-de-fotografia-de-augusto-lemos-imagens-anunciadas-13a55-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T180100
+SUMMARY:Exposição de fotografia de Augusto Lemos: «imagens anunciadas»\
+ , em torno da obra de José Leite de Vasconcelos (1858-1941)
+LOCATION:Faculdade de Letras da Universidade do Porto\, Porto
+DESCRIPTION:https://wp.letras.up.pt/casadoslivros/pt/evento/exposicao-de-fo
+ tografia-de-augusto-lemos-imagens-anunciadas-em-torno-da-obra-de-jose-leit
+ e-de-vasconcelos-1858-1941/
+URL:https://lykeion.pt/e/exposicao-de-fotografia-de-augusto-lemos-imagens-a
+ nunciadas-13a55.html
+END:VEVENT
+BEGIN:VEVENT
+UID:22-10-2026-22-12-2026-exposicao-itinerante-landscape-togethe-275dc-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Exposição itinerante Landscape Together
+LOCATION:Faculdade de Ciências e Tecnologia da Universidade de Coimbra\, C
+ oimbra
+DESCRIPTION:https://www.uc.pt/fctuc/darq/eventos/exposicao-itinerante-lands
+ cape-together-centro-interior-villages-to-get-territorial-communities-1/
+URL:https://lykeion.pt/e/22-10-2026-22-12-2026-exposicao-itinerante-landsca
+ pe-togethe-275dc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:inteligencia-arquitetonica-exposicao-anuaria-25-26-inteligen-a9a54-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
+SUMMARY:Exposição | Anuária 25.26 - Inteligência Arquitetónica
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5485
+URL:https://lykeion.pt/e/inteligencia-arquitetonica-exposicao-anuaria-25-26
+ -inteligen-a9a54.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-27@lagenda
+ .pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
+ o-do-coracao-de-ana-janeiro/
+URL:https://lykeion.pt/e/exposicao-damao-fogo-do-coracao-de-ana-janeiro-308
+ 38.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-o-caminho-da-beleza-1d9fd-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Exposição | O Caminho da Beleza
+LOCATION:Faculdade de Ciências da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-caminho-beleza
+URL:https://lykeion.pt/e/exposicao-o-caminho-da-beleza-1d9fd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-queridas-amigas-af305-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T180000
+SUMMARY:Exposição | Queridas Amigas
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-queridas-
+ amigas/
+URL:https://lykeion.pt/e/exposicao-queridas-amigas-af305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-la-fora-at-88fbc-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Exposição | «Jogos da Macaca: Jorge Pinheiro e a vida lá fora»
+  [até 28 NOV
+LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
+DESCRIPTION:https://www.up.pt/eventos/event/exposicao-jogos-da-macaca-jorge
+ -pinheiro-e-a-vida
+URL:https://lykeion.pt/e/exposicao-jogos-da-macaca-jorge-pinheiro-e-a-vida-
+ la-fora-at-88fbc.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-10000-well-plate-b7c6b-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Exposição «10000 Well Plate»
 LOCATION:Jardim Botânico Tropical
@@ -1149,18 +444,190 @@ DESCRIPTION:https://museus.ulisboa.pt/exposicao-10000-well-plate
 URL:https://lykeion.pt/e/exposicao-10000-well-plate-b7c6b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-integridade-em-construcao-74bc8-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T220000
-SUMMARY:Exposição “Integridade Em Construção
-LOCATION:Instituto Superior de Ciências Sociais e Políticas
-DESCRIPTION:https://www.iscsp.ulisboa.pt/pt/servicos/comunicacao/eventos/ex
- posicao-integridade-em-construcao-da-universidade-a-vida-profissional
-URL:https://lykeion.pt/e/exposicao-integridade-em-construcao-74bc8.html
+UID:exposicao-mundo-visivel-fotografia-de-joao-fazenda-38586-2026-11-27@lag
+ enda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
+SUMMARY:Exposição «Mundo Visível» (fotografia) de João fazenda
+LOCATION:Escola Superior de Teatro e Cinema\, Amadora
+DESCRIPTION:https://www.estc.upl.pt/eventos/exposicao-mundo-visivel-fotogra
+ fia-de-joao-fazenda-16-nov-17-jan-2027
+URL:https://lykeion.pt/e/exposicao-mundo-visivel-fotografia-de-joao-fazenda
+ -38586.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-o-desenho-das-horas-circulares-relato-de-um-cartog-6507c-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Exposição «O desenho das Horas Circulares: Relato de um Cartógr
+ afo de Sombras»\, de Telmo Castro\, na Casa da Arquitetura
+LOCATION:Escola Superior Artística do Porto\, Porto
+DESCRIPTION:https://esap.pt/atividades_dep/exposicao-o-desenho-das-horas-ci
+ rculares-relato-de-um-cartografo-de-sombras-de-telmo-castro-na-casa-da-arq
+ uitetura/
+URL:https://lykeion.pt/e/exposicao-o-desenho-das-horas-circulares-relato-de
+ -um-cartog-6507c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-one-memory-worth-a-thousand-pieces-of-paper-bedc5-2026-11-27@
+ lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Exposição «One Memory Worth a Thousand Pieces of Paper»
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/exposicao-one-memory-worth-thousand-pieces-
+ paper
+URL:https://lykeion.pt/e/exposicao-one-memory-worth-a-thousand-pieces-of-pa
+ per-bedc5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-peace-of-mind-21e26-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição «Peace of Mind»
+LOCATION:Universidade do Algarve\, Faro
+DESCRIPTION:https://www.ualg.pt/exposicao-peace-mind
+URL:https://lykeion.pt/e/exposicao-peace-of-mind-21e26.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-por-dentro-do-barroco-no-museu-diocesano-de-lamego-60168-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T080000
+SUMMARY:Exposição «por Dentro do Barroco» no Museu Diocesano de Lamego
+LOCATION:Museu de Lamego\, Lamego
+DESCRIPTION:https://museudelamego.gov.pt/exposicao-por-dentro-do-barroco-no
+ -museu-diocesano-de-lamego/
+URL:https://lykeion.pt/e/exposicao-por-dentro-do-barroco-no-museu-diocesano
+ -de-lamego-60168.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-a9a54-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
+SUMMARY:Exposição · Faculdade de Arquitetura da Universidade do Porto
+LOCATION:Faculdade de Arquitetura da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/faup/pt/noticias_geral.ver_noticia?P_NR=9
+ 5485
+URL:https://lykeion.pt/e/exposicao-a9a54.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-e4318-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
+SUMMARY:Exposição · Faculdade de Belas Artes da Universidade do Porto
+LOCATION:Faculdade de Belas Artes da Universidade do Porto\, Porto
+DESCRIPTION:https://sigarra.up.pt/fbaup/pt/noticias_geral.ver_noticia?P_NR=
+ 48630
+URL:https://lykeion.pt/e/exposicao-e4318.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-angela-ferreira-55978-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição Ângela Ferreira
+LOCATION:Museu de Arte Contemporânea de Elvas\, Elvas
+DESCRIPTION:https://col-antoniocachola.com/?p=13466&lang=pt
+URL:https://lykeion.pt/e/exposicao-angela-ferreira-55978.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-alvao-historia-duma-paisagem-vivida-de-carlos-andr-02c1d-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição “Alvão: história duma paisagem vivida”\, de Carlo
+ s Andrés Ortega García
+LOCATION:Centro da Ciências e Tecnologias Mecânicas e Aeroespaciais\, Cov
+ ilhã
+DESCRIPTION:https://www.ubi.pt/Evento/24178
+URL:https://lykeion.pt/e/exposicao-alvao-historia-duma-paisagem-vivida-de-c
+ arlos-andr-02c1d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-haizhuan-a-escrita-do-mar-entre-a-china-e-portugal-a5afb-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T173000
+SUMMARY:Exposição “Haizhuan\, a Escrita do Mar. Entre a China e Portuga
+ l
+LOCATION:Centro Científico e Cultural de Macau
+DESCRIPTION:https://www.cccm.gov.pt/events/exposicao-haizhuan-a-escrita-do-
+ mar-entre-a-china-e-portugal/
+URL:https://lykeion.pt/e/exposicao-haizhuan-a-escrita-do-mar-entre-a-china-
+ e-portugal-a5afb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-nostalgia-observacoes-extradimensionais-inauguraca-672a9-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T150000
+SUMMARY:Exposição “Nostalgia — Observações extradimensionais” (In
+ auguração – 29 de setembro na ULO)
+LOCATION:Politécnico de Leiria\, Leiria
+DESCRIPTION:https://www.ulo.pt/exposicao-nostalgia-observacoes-extradimensi
+ onais-inauguracao-29-de-setembro-na-ulo/
+URL:https://lykeion.pt/e/exposicao-nostalgia-observacoes-extradimensionais-
+ inauguraca-672a9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-viagens-com-ciencia-o-olhar-dos-investigadores-8501f-2026-11-
+ 27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição “Viagens com Ciência: O Olhar dos Investigadores
+LOCATION:Laboratório Associado TERRA
+DESCRIPTION:https://labterra.pt/agenda/exposicao-viagens-com-ciencia-o-olha
+ r-dos-investigadores/
+URL:https://lykeion.pt/e/exposicao-viagens-com-ciencia-o-olhar-dos-investig
+ adores-8501f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-a-ciencia-n-d-a-esac-13b64-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição: A ciência n(d)a ESAC
+LOCATION:Politécnico de Coimbra\, Coimbra
+DESCRIPTION:https://www.esac.pt/index.php/eventos/
+URL:https://lykeion.pt/e/exposicao-a-ciencia-n-d-a-esac-13b64.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-anatomia-de-um-sentimento-de-bruno-vieira-6db46-2026-11-27@la
+ genda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T163000
+SUMMARY:Exposição: Anatomia de um Sentimento\, de Bruno Vieira
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://events.timely.fun/2x770b0s/event/exposicao-anatomia-de-
+ um-sentimento-de-bruno-vieira?instance_id=20261102163000
+URL:https://lykeion.pt/e/exposicao-anatomia-de-um-sentimento-de-bruno-vieir
+ a-6db46.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-cartas-do-vulcao-memorias-de-uma-erupcao-65ed5-2026-11-27@lag
+ enda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição: Cartas do Vulcão: Memórias de uma erupção
+LOCATION:Centro de Interpretação do Vulcão dos Capelinhos - Centro Ciên
+ cia Viva\, Horta
+DESCRIPTION:https://parquesnaturais.azores.gov.pt/pt/parques/3/centro/12
+URL:https://lykeion.pt/e/exposicao-cartas-do-vulcao-memorias-de-uma-erupcao
+ -65ed5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-ciencia-no-departamento-de-fisica-54908-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição: Ciência no Departamento de Física
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.uc.pt/openscience/romulo/agenda/
+URL:https://lykeion.pt/e/exposicao-ciencia-no-departamento-de-fisica-54908.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-energia-a-pedalar-e4c2e-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Exposição: Energia a Pedalar
 LOCATION:Centro Ciência Viva de Estremoz\, Estremoz
@@ -1168,9 +635,33 @@ DESCRIPTION:https://www.ccvestremoz.com/
 URL:https://lykeion.pt/e/exposicao-energia-a-pedalar-e4c2e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-juntos-pelo-futuro-do-nosso-patrimonio-natural-65ed5-2026-11-
+ 27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição: Juntos pelo futuro do nosso património natural
+LOCATION:Centro de Interpretação do Vulcão dos Capelinhos - Centro Ciên
+ cia Viva\, Horta
+DESCRIPTION:https://parquesnaturais.azores.gov.pt/pt/parques/3/centro/12
+URL:https://lykeion.pt/e/exposicao-juntos-pelo-futuro-do-nosso-patrimonio-n
+ atural-65ed5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:exposicao-manuela-silva-uma-vida-muitas-causas-2bbe1-2026-11-27@lagenda
+ .pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Exposição: Manuela Silva: uma vida\, muitas causas
+LOCATION:Universidade Católica Portuguesa
+DESCRIPTION:https://cehr.ucp.pt/events/manuela-silva-uma-vida-muitas-causas
+ -mostra-documental
+URL:https://lykeion.pt/e/exposicao-manuela-silva-uma-vida-muitas-causas-2bb
+ e1.html
+END:VEVENT
+BEGIN:VEVENT
 UID:exposicao-novas-realidades-em-saude-experiencias-e-ideias-qu-4b668-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Exposição: Novas realidades em saúde: Experiências e ideias que
   inspiram
@@ -1180,8 +671,114 @@ URL:https://lykeion.pt/e/exposicao-novas-realidades-em-saude-experiencias-e
  -ideias-qu-4b668.html
 END:VEVENT
 BEGIN:VEVENT
+UID:faculdade-de-engenharias-e-tecnologias-organiza-semana-da-ci-f4eb8-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T005000
+SUMMARY:Faculdade de Engenharias e Tecnologias organiza Semana da Ciência 
+ e Tecnologia 2026
+LOCATION:Universidade Lusíada\, Vila Nova de Famalicão
+DESCRIPTION:https://www.fam.ulusiada.pt/noticias/artigo.php?news_id=5866
+URL:https://lykeion.pt/e/faculdade-de-engenharias-e-tecnologias-organiza-se
+ mana-da-ci-f4eb8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:floresta-uma-experiencia-de-raiz-8dd00-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Floresta: Uma Experiência de Raiz
+LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
+ ões
+DESCRIPTION:https://www.agendalx.pt/events/event/floresta-uma-experiencia-d
+ e-raiz/
+URL:https://lykeion.pt/e/floresta-uma-experiencia-de-raiz-8dd00.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ginasio-da-esec-online-unidades-organicas-da-upcoimbra-seman-e2633-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Ginásio da ESEC Online Unidades orgânicas da UPCoimbra Semana da 
+ Ciência e da Tecnologia
+LOCATION:Escola Superior de Educação de Coimbra\, Coimbra
+DESCRIPTION:https://www.esec.pt/eventos/semanadacienciaetecnologia2026/
+URL:https://lykeion.pt/e/ginasio-da-esec-online-unidades-organicas-da-upcoi
+ mbra-seman-e2633.html
+END:VEVENT
+BEGIN:VEVENT
+UID:haia-exposicao-rui-chafes-x-alberto-giacometti-gris-vide-cri-bd362-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Haia: Exposição “Rui Chafes X Alberto Giacometti. Gris\, Vide\,
+  Cris III” no Museu Beelden aan Zee
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/haia-exposicao-rui-chafes-x-alberto-giacometti-gris-vide
+ -cris-iii-no-museu-beelden-aan-zee
+URL:https://lykeion.pt/e/haia-exposicao-rui-chafes-x-alberto-giacometti-gri
+ s-vide-cri-bd362.html
+END:VEVENT
+BEGIN:VEVENT
+UID:historias-de-uma-criatura-viajante-26bab-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T120000
+SUMMARY:Histórias de uma Criatura Viajante
+LOCATION:Centro Ciência Viva do Algarve\, Faro
+DESCRIPTION:https://reservas.ccvalg.pt/pt-pt/semana-da-ciencia-e-tecnologia
+ /para-escolas/historias-de-uma-criatura-viajante
+URL:https://lykeion.pt/e/historias-de-uma-criatura-viajante-26bab.html
+END:VEVENT
+BEGIN:VEVENT
+UID:horarios-63ac2-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Horários
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1195/exposicoes
+URL:https://lykeion.pt/e/horarios-63ac2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:istambul-artista-portuguesa-monica-baptista-na-exposicao-flo-6a1bf-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Istambul: Artista portuguesa Mónica Baptista na exposição Flowin
+ g City
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/istambul-artista-portuguesa-monica-baptista-na-exposicao
+ -flowing-city
+URL:https://lykeion.pt/e/istambul-artista-portuguesa-monica-baptista-na-exp
+ osicao-flo-6a1bf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kit-1-a-vida-do-jardim-7abc2-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T100000
+SUMMARY:Kit 1 a Vida do Jardim
+LOCATION:Galeria da Biodiversidade - Centro Ciência Viva\, Porto
+DESCRIPTION:
+URL:https://lykeion.pt/e/kit-1-a-vida-do-jardim-7abc2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:madrid-exposicao-camoes-vida-obra-e-permanencia-na-cultura-h-0f0e2-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Madrid: Exposição: “Camões: vida\, obra e permanência na cult
+ ura hispânica”\, na Biblioteca Nacional de Espanha
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/madrid-exposicao-camoes-vida-obra-e-permanencia-na-cultu
+ ra-hispanica-na-biblioteca-nacional-de-espanha
+URL:https://lykeion.pt/e/madrid-exposicao-camoes-vida-obra-e-permanencia-na
+ -cultura-h-0f0e2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mais-perto-das-estrelas-novembro-2026-a34cf-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T210000
 SUMMARY:Mais Perto das Estrelas – novembro 2026
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1190,7 +787,7 @@ URL:https://lykeion.pt/e/mais-perto-das-estrelas-novembro-2026-a34cf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:observacao-astronomica-com-telescopios-a34cf-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T210000
 SUMMARY:Observação astronómica com telescópios
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1198,9 +795,19 @@ DESCRIPTION:https://planetario.up.pt/pt/evento/maispertonov26
 URL:https://lykeion.pt/e/observacao-astronomica-com-telescopios-a34cf.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ora-bolas-show-de-ciencia-fd1c4-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T150000
+SUMMARY:Ora Bolas - Show de Ciência
+LOCATION:Universidade de Coimbra\, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/semana-ci%C3
+ %AAncia-e-tecnologia
+URL:https://lykeion.pt/e/ora-bolas-show-de-ciencia-fd1c4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:passeio-cientifico-noite-de-anfibios-em-mindelo-05e77-2026-11-27@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Passeio científico: Noite de anfíbios em Mindelo
 LOCATION:Centro Ciência Viva de Vila do Conde\, Vila do Conde
@@ -1209,9 +816,18 @@ URL:https://lykeion.pt/e/passeio-cientifico-noite-de-anfibios-em-mindelo-05
  e77.html
 END:VEVENT
 BEGIN:VEVENT
+UID:portas-abertas-a-quimica-e-divertida-85df9-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: A Química é Divertida
+LOCATION:Universidade da Madeira\, Funchal
+DESCRIPTION:https://qdiv.cqm.uma.pt/
+URL:https://lykeion.pt/e/portas-abertas-a-quimica-e-divertida-85df9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-avaliacao-de-eventos-extremos-de-precipitacao-326a0-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Portas abertas: Avaliação de eventos extremos de precipitação e
   escoamento
@@ -1221,9 +837,21 @@ URL:https://lykeion.pt/e/portas-abertas-avaliacao-de-eventos-extremos-de-pr
  ecipitacao-326a0.html
 END:VEVENT
 BEGIN:VEVENT
+UID:portas-abertas-banana-beterraba-camarao-e-cicatrizacao-uma-l-109a6-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: Banana\, beterraba\, camarão e cicatrização: Uma
+  ligação inesperada!
+LOCATION:LAQV Requimte\, Almada
+DESCRIPTION:https://forms.cloud.microsoft/e/qfD0RYFVJs
+URL:https://lykeion.pt/e/portas-abertas-banana-beterraba-camarao-e-cicatriz
+ acao-uma-l-109a6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-da-agua-a-internet-um-lisimetro-inteligente-e-b3a84-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Portas abertas: Da Água à Internet: Um Lisímetro Inteligente em 
  Ação
@@ -1235,7 +863,7 @@ URL:https://lykeion.pt/e/portas-abertas-da-agua-a-internet-um-lisimetro-int
 END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-dia-aberto-7da91-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Portas abertas: Dia aberto
 LOCATION:Politécnico do Porto\, Porto
@@ -1243,9 +871,21 @@ DESCRIPTION:https://www.isep.ipp.pt/
 URL:https://lykeion.pt/e/portas-abertas-dia-aberto-7da91.html
 END:VEVENT
 BEGIN:VEVENT
+UID:portas-abertas-jogo-interativo-duas-verdades-e-uma-mentira-s-7ec74-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: Jogo interativo: duas verdades e uma mentira | Sema
+ na aberta do CEI
+LOCATION:Politécnico do Porto\, Matosinhos
+DESCRIPTION:https://www.iscap.ipp.pt/
+URL:https://lykeion.pt/e/portas-abertas-jogo-interativo-duas-verdades-e-uma
+ -mentira-s-7ec74.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-laboratorio-aberto-das-moleculas-aos-circuito-0c1ad-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Portas abertas: Laboratório aberto: Das moléculas aos circuitos n
  euronais
@@ -1255,8 +895,19 @@ URL:https://lykeion.pt/e/portas-abertas-laboratorio-aberto-das-moleculas-ao
  s-circuito-0c1ad.html
 END:VEVENT
 BEGIN:VEVENT
+UID:portas-abertas-o-que-revela-o-teu-cabelo-sobre-o-peixe-que-c-0c601-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: O que revela o teu cabelo sobre o peixe que comes?
+LOCATION:Universidade de Aveiro\, Aveiro
+DESCRIPTION:https://forms.cloud.microsoft/e/A8zMmifecL
+URL:https://lykeion.pt/e/portas-abertas-o-que-revela-o-teu-cabelo-sobre-o-p
+ eixe-que-c-0c601.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-open-day-laboratorio-aberto-0ae16-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Portas abertas: Open day – Laboratório aberto
 LOCATION:Instituto Politécnico do Cávado e do Ave\, Barcelos
@@ -1265,9 +916,44 @@ URL:https://lykeion.pt/e/portas-abertas-open-day-laboratorio-aberto-0ae16.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+UID:portas-abertas-producao-sustentavel-de-plantas-num-sistema-i-f515d-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: Produção sustentável de plantas num sistema inte
+ grado de aquaponia
+LOCATION:Universidade de Leiria e Oeste\, Leiria
+DESCRIPTION:https://www.cienciaviva.pt/semanact/2026/
+URL:https://lykeion.pt/e/portas-abertas-producao-sustentavel-de-plantas-num
+ -sistema-i-f515d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-semana-c-t-no-expolab-centro-ciencia-viva-8a285-2026-11-
+ 27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: Semana C&T no Expolab - Centro Ciência Viva
+LOCATION:Expolab - Centro Ciência Viva\, Lagoa (Açores)
+DESCRIPTION:https://www.facebook.com/cc.expolab/?locale=pt_PT
+URL:https://lykeion.pt/e/portas-abertas-semana-c-t-no-expolab-centro-cienci
+ a-viva-8a285.html
+END:VEVENT
+BEGIN:VEVENT
+UID:portas-abertas-sismos-e-erupcoes-vulcanicas-o-nosso-planeta-c536f-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: Sismos e erupções vulcânicas: o nosso planeta é
+  dinâmico!
+LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
+DESCRIPTION:https://idl.ciencias.ulisboa.pt/visitas-sala-de-outreach
+URL:https://lykeion.pt/e/portas-abertas-sismos-e-erupcoes-vulcanicas-o-noss
+ o-planeta-c536f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-visita-ao-laboratorio-de-taxidermia-96b54-2026-11-27@lag
  enda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Portas abertas: Visita ao Laboratório de Taxidermia
 LOCATION:Museu Nacional de História Natural e da Ciência
@@ -1276,8 +962,52 @@ URL:https://lykeion.pt/e/portas-abertas-visita-ao-laboratorio-de-taxidermia
  -96b54.html
 END:VEVENT
 BEGIN:VEVENT
+UID:semana-da-ciencia-tecnologia-a4528-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T100000
+SUMMARY:Semana da Ciência & Tecnologia
+LOCATION:Centro Ciência Viva de Lagos\, Lagos
+DESCRIPTION:https://lagos.cienciaviva.pt/17991/semana-da-ciencia-e-tecnolog
+ ia-|-23-a-29-novembro
+URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-a4528.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-tecnologia-2026-65c64-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T083000
+SUMMARY:Semana da Ciência & Tecnologia 2026
+LOCATION:Universidade de Trás-os-Montes e Alto Douro\, Vila Real
+DESCRIPTION:https://eventos.utad.pt/evento/semana-ciencia-tecnologia-2026/
+URL:https://lykeion.pt/e/semana-da-ciencia-tecnologia-2026-65c64.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-tecnologia-2026-ulo-23-a-29-de-novembro-dfb2a-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Semana da Ciência e Tecnologia 2026 – ULO (23 a 29 de novembro) 
+ .
+LOCATION:Escola de Artes e Design\, de Caldas da Rainha da Universidade de 
+ Leiria e Oeste\, Caldas da Rainha
+DESCRIPTION:https://www.ulo.pt/semana-da-ciencia-e-tecnologia-2026-ulo-23-a
+ -29-de-novembro/
+URL:https://lykeion.pt/e/semana-da-ciencia-e-tecnologia-2026-ulo-23-a-29-de
+ -novembro-dfb2a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-5791c-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Semana da Ciência e da Tecnologia
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/semana-da-cienci
+ a-e-da-tecnologia
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-5791c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:semana-da-ciencia-e-da-tecnologia-86158-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Semana da Ciência e da Tecnologia
 LOCATION:Instituto Politécnico de Setúbal\, Barreiro
@@ -1285,8 +1015,119 @@ DESCRIPTION:https://estbarreiro.unips.pt/eventos/sct2025/
 URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-86158.html
 END:VEVENT
 BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-2025-trail-de-ciencia-b8528-2026-11-2
+ 7@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Semana da Ciência e da Tecnologia 2025 - TRAIL de Ciência
+LOCATION:Centro de Investigação e Inovação em Educação\, Porto
+DESCRIPTION:https://ined.ese.ipp.pt/pt/eventos/semana-da-ciencia-e-da-tecno
+ logia-2025-trail-de-ciencia
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2025-trail-de-ci
+ encia-b8528.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-2026-e266d-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T140000
+SUMMARY:Semana da Ciência e da Tecnologia 2026
+LOCATION:Universidade de Lisboa
+DESCRIPTION:https://chul.letras.ulisboa.pt/semana-da-ciencia-e-da-tecnologi
+ a-2026/
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2026-e266d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-2026-90016-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Semana da Ciência e da Tecnologia 2026
+LOCATION:Politécnico do Porto\, Porto
+DESCRIPTION:https://www.utporto.pt/noticias/semana-da-ciencia-e-da-tecnolog
+ ia-2026
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2026-90016.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-2026-08cef-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Semana da Ciência e da Tecnologia 2026
+LOCATION:Universidade de Évora\, Évora
+DESCRIPTION:https://www.uevora.pt/ue-media/agenda?item=48033
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2026-08cef.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-2026-23-nov-2026-ate-29-no-6cdb3-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T150000
+SUMMARY:Semana da Ciência e da Tecnologia 2026 23-NOV-2026 até 29-NOV-202
+ 6
+LOCATION:Constância\, Constância
+DESCRIPTION:https://www.jf-constancia.pt/freguesia/agenda/23-11-2026/semana
+ -da-ciencia-e-da-tecnologia-2026
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-2026-23-nov-2026
+ -ate-29-no-6cdb3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-23-a-27-novembro-e2633-2026-11-27@lag
+ enda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Semana da Ciência e da Tecnologia | 23 a 27 Novembro
+LOCATION:Escola Superior de Educação de Coimbra\, Coimbra
+DESCRIPTION:https://www.esec.pt/eventos/semanadacienciaetecnologia2026/
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-23-a-27-novembro
+ -e2633.html
+END:VEVENT
+BEGIN:VEVENT
+UID:toquio-exposicao-paku-paku-de-ema-gaspar-dc37f-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T180000
+SUMMARY:Tóquio: Exposição “Paku Paku” de Ema Gaspar
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/toquio-exposicao-paku-paku-de-ema-gaspar
+URL:https://lykeion.pt/e/toquio-exposicao-paku-paku-de-ema-gaspar-dc37f.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:visita-guiada-exposicao-a-fisica-do-voo-50ffe-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T110000
+SUMMARY:Visita guiada: Exposição: A física do voo
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/15207/exposicao:-a-fisica-do-
+ voo
+URL:https://lykeion.pt/e/visita-guiada-exposicao-a-fisica-do-voo-50ffe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:visita-guiada-um-passeio-pelo-ceu-sessao-de-planetario-50c7a-2026-11-27
+ @lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T120000
+SUMMARY:Visita guiada: Um passeio pelo céu - Sessão de planetário
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1234/sessoes-de-planetario
+URL:https://lykeion.pt/e/visita-guiada-um-passeio-pelo-ceu-sessao-de-planet
+ ario-50c7a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:visita-guiada-viagem-pelo-universo-no-parque-de-astronomia-d45bd-2026-1
+ 1-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T100000
+SUMMARY:Visita guiada: Viagem pelo Universo no Parque de Astronomia!
+LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
+ ância
+DESCRIPTION:https://constancia.cienciaviva.pt/1233/parque-de-astronomia
+URL:https://lykeion.pt/e/visita-guiada-viagem-pelo-universo-no-parque-de-as
+ tronomia-d45bd.html
+END:VEVENT
+BEGIN:VEVENT
 UID:visitas-as-exposicoes-e5eb9-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T150000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1295,8 +1136,22 @@ DESCRIPTION:https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-m
 URL:https://lykeion.pt/e/visitas-as-exposicoes-e5eb9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:xangai-participacao-portuguesa-na-exposicao-between-elsewher-4b65b-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Xangai: Participação portuguesa na exposição “Between Elsewhe
+ res: Memory and Identity Across Cultures
+LOCATION:Camões - Instituto da Cooperação e da Língua
+DESCRIPTION:https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-
+ portuguesa/agenda/xangai-participacao-portuguesa-na-exposicao-between-else
+ wheres-memory-and-identity-across-cultures
+URL:https://lykeion.pt/e/xangai-participacao-portuguesa-na-exposicao-betwee
+ n-elsewher-4b65b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amicos-silvestris-o-que-sao-5c2bb-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T183000
 SUMMARY:Amicos Silvestris - o que são
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -1306,7 +1161,7 @@ URL:https://lykeion.pt/e/amicos-silvestris-o-que-sao-5c2bb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:apagamos-as-luzes-e-acendemos-as-estrelas-3647a-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T203000
 SUMMARY:Apagamos as luzes e acendemos as estrelas!
 LOCATION:Centro Ciência Viva de Constância - Parque de Astronomia\, Const
@@ -1318,7 +1173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafe-de-ciencia-agricultura-e-biodiversidade-cultivar-o-futu-c7137-2026
  -11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Café de ciência: Agricultura e biodiversidade: cultivar o futuro
 LOCATION:Centro Ciência Viva de Alviela\, Alcanena
@@ -1328,7 +1183,7 @@ URL:https://lykeion.pt/e/cafe-de-ciencia-agricultura-e-biodiversidade-culti
 END:VEVENT
 BEGIN:VEVENT
 UID:espaco-kids-100-ciencia-28-de-novembro-6084c-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T110000
 SUMMARY:Espaço Kids: 100 Ciência - 28 de novembro
 LOCATION:Centro Ciência Viva de Bragança\, Bragança
@@ -1338,7 +1193,7 @@ URL:https://lykeion.pt/e/espaco-kids-100-ciencia-28-de-novembro-6084c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:explorastorias-5b08e-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T110000
 SUMMARY:Explorastórias
 LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
@@ -1350,7 +1205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-arqueologia-na-semana-da-ciencia-e-da-tecnologia-7cf8b-2026-1
  1-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Exposição: Arqueologia na Semana da Ciência e da Tecnologia
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -1361,7 +1216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-dia-aberto-do-mare-leiria-cetemares-8a92d-2026-11-28@lagenda.
  pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Exposição: Dia Aberto do MARE – Leiria | CETEMARES
 LOCATION:Universidade de Leiria e Oeste\, Peniche
@@ -1370,8 +1225,18 @@ URL:https://lykeion.pt/e/exposicao-dia-aberto-do-mare-leiria-cetemares-8a92
  d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:gamelab-ponto-de-contacto-29718-2026-11-28@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+SUMMARY:GameLab - Ponto de ConTacto
+LOCATION:UC Exploratório - Centro Ciência Viva da Universidade de Coimbra
+ \, Coimbra
+DESCRIPTION:https://www.exploratorio.pt/com-dia-e-hora-marcada/game-lab-
+URL:https://lykeion.pt/e/gamelab-ponto-de-contacto-29718.html
+END:VEVENT
+BEGIN:VEVENT
 UID:hospital-dos-pequeninos-ef85a-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Hospital dos Pequeninos
 LOCATION:Pavilhão do Conhecimento - Centro Ciência Viva\, Parque das Naç
@@ -1381,7 +1246,7 @@ URL:https://lykeion.pt/e/hospital-dos-pequeninos-ef85a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:passeio-micologico-de-outono-0da2b-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T093000
 SUMMARY:Passeio Micológico de Outono
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -1392,7 +1257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:passeio-cientifico-a-vida-no-barranco-do-demo-festival-de-ca-2cf14-2026
  -11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: A vida no Barranco do Demo - Festival de Camin
  hadas de Monchique
@@ -1405,7 +1270,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:passeio-cientifico-as-plantas-das-caldas-festival-de-caminha-2cf14-2026
  -11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T180000
 SUMMARY:Passeio científico: As Plantas das Caldas - Festival de Caminhadas
   de Monchique
@@ -1418,7 +1283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:performance-to-belong-is-to-drift-and-remain-2364a-2026-11-28@lagenda.p
  t
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T100000
 SUMMARY:Performance to belong is to drift and remain
 LOCATION:Galeria da Biodiversidade - Centro Ciência Viva\, Porto
@@ -1429,7 +1294,7 @@ URL:https://lykeion.pt/e/performance-to-belong-is-to-drift-and-remain-2364a
 END:VEVENT
 BEGIN:VEVENT
 UID:planettario-do-porto-biosfera-da-escuridao-c69d7-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T160000
 SUMMARY:Planettário do Porto- Biosfera da Escuridão
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1439,7 +1304,7 @@ URL:https://lykeion.pt/e/planettario-do-porto-biosfera-da-escuridao-c69d7.h
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-ha-formas-no-espaco-054e1-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:Planetário do Porto- Há Formas no Espaço
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1449,7 +1314,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-contos-lendas-e-outras-lengalengas-com-cienci-d54b6-2026
  -11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Portas abertas: Contos\, lendas e outras lengalengas com ciência
 LOCATION:Centro Ciência Viva de Estremoz\, Estremoz
@@ -1459,7 +1324,7 @@ URL:https://lykeion.pt/e/portas-abertas-contos-lendas-e-outras-lengalengas-
 END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-uau-e-fisica-cef61-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Portas abertas: Uau!! É física...
 LOCATION:Expolab - Centro Ciência Viva\, Lagoa (Açores)
@@ -1467,17 +1332,8 @@ DESCRIPTION:https://www.facebook.com/cc.expolab/?locale=pt_PT
 URL:https://lykeion.pt/e/portas-abertas-uau-e-fisica-cef61.html
 END:VEVENT
 BEGIN:VEVENT
-UID:porto-post-doc-2026-planetario-03-aaeb4-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T173000
-SUMMARY:Porto/Post/Doc 2026 - Planetário #03
-LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
-DESCRIPTION:
-URL:https://lykeion.pt/e/porto-post-doc-2026-planetario-03-aaeb4.html
-END:VEVENT
-BEGIN:VEVENT
 UID:robotica-criativa-093f1-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T103000
 SUMMARY:Robótica criativa
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -1487,7 +1343,7 @@ URL:https://lykeion.pt/e/robotica-criativa-093f1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tarde-de-arqueologia-64473-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T140000
 SUMMARY:Tarde de Arqueologia
 LOCATION:Centro Ciência Viva do Algarve\, Faro
@@ -1497,7 +1353,7 @@ URL:https://lykeion.pt/e/tarde-de-arqueologia-64473.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visita-guiada-exposicao-mundo-visivel-bdaed-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T143000
 SUMMARY:Visita guiada Exposição Mundo visível
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -1508,7 +1364,7 @@ URL:https://lykeion.pt/e/visita-guiada-exposicao-mundo-visivel-bdaed.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-8398c-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1519,7 +1375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ate-29-novembro-2026-semana-da-ciencia-e-da-tecnologia-na-ga-2364a-2026
  -11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T100000
 SUMMARY:Até 29 novembro 2026 Semana da Ciência e da Tecnologia na Galeria
   da Biodiversidade
@@ -1533,7 +1389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciencia-em-familia-29-novembro-10h30-centro-ciencia-viva-de-30b0c-2026-
  11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T103000
 SUMMARY:Ciência Em Família 29 novembro 10h30 Centro Ciência Viva de Lago
  s
@@ -1546,7 +1402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-em-linha-de-conta-com-abel-salazar-1909-1940-ate-2-f9267-2026
  -11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T150000
 SUMMARY:Exposição «Em Linha de Conta com Abel Salazar (1909-1940)»\, at
  é 29 de novembro na Fundação Eng. António de Almeida
@@ -1560,7 +1416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nova-math-at-semana-da-ciencia-e-tecnologia-2026-with-the-in-6765d-2026
  -11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:NOVA Math at Semana da Ciência e Tecnologia 2026 with the initiati
  ve “Portugal à Prova
@@ -1573,7 +1429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-visita-a-colecao-cientifica-de-insetos-do-mus-26921-2026
  -11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:Portas abertas: Visita à coleção científica de insetos do Museu
   Nacional de História Natural e da Ciência
@@ -1584,7 +1440,7 @@ URL:https://lykeion.pt/e/portas-abertas-visita-a-colecao-cientifica-de-inse
 END:VEVENT
 BEGIN:VEVENT
 UID:semana-da-ciencia-e-tecnologia-2026-c3134-2026-11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:Semana da Ciência e Tecnologia 2026
 LOCATION:Centro Ciência Viva de Estremoz\, Estremoz
@@ -1593,7 +1449,7 @@ URL:https://lykeion.pt/e/semana-da-ciencia-e-tecnologia-2026-c3134.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-0f687-2026-11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261129T110000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1604,10 +1460,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-fotografia-para-todos-os-sentidos-95509-2026-11-30@lagenda
  .pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T090000
 SUMMARY:Exposição de Fotografia “para Todos OS Sentidos
-LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
+LOCATION:Departamento de Contabilidade e Finanças\, Setúbal
 DESCRIPTION:https://esce.unips.pt/eventos/exposicao-de-fotografia-para-todo
  s-os-sentidos/
 URL:https://lykeion.pt/e/exposicao-de-fotografia-para-todos-os-sentidos-955
@@ -1615,7 +1471,7 @@ URL:https://lykeion.pt/e/exposicao-de-fotografia-para-todos-os-sentidos-955
 END:VEVENT
 BEGIN:VEVENT
 UID:mostra-espanha-2026-obras-convidadas-76a82-2026-11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T100000
 SUMMARY:Mostra Espanha 2026: Obras Convidadas
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1624,7 +1480,7 @@ URL:https://lykeion.pt/e/mostra-espanha-2026-obras-convidadas-76a82.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-00a74-2026-11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T150000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1633,8 +1489,21 @@ DESCRIPTION:https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-m
 URL:https://lykeion.pt/e/visitas-as-exposicoes-00a74.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exposicao-haizhuan-a-escrita-do-mar-entre-a-china-e-portugal-a5afb-2026
+ -12-01@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261201T173000
+SUMMARY:Exposição “Haizhuan\, a Escrita do Mar. Entre a China e Portuga
+ l
+LOCATION:Centro Científico e Cultural de Macau
+DESCRIPTION:https://www.cccm.gov.pt/events/exposicao-haizhuan-a-escrita-do-
+ mar-entre-a-china-e-portugal-2/
+URL:https://lykeion.pt/e/exposicao-haizhuan-a-escrita-do-mar-entre-a-china-
+ e-portugal-a5afb.html
+END:VEVENT
+BEGIN:VEVENT
 UID:planetario-do-porto-3clipse-050bf-2026-12-01@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261201T160000
 SUMMARY:Planetário do Porto- 3CLIPSE
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1643,7 +1512,7 @@ URL:https://lykeion.pt/e/planetario-do-porto-3clipse-050bf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-somos-os-guardioes-3120f-2026-12-01@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261201T150000
 SUMMARY:Planetário do Porto- Somos os Guardiões
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1652,7 +1521,7 @@ URL:https://lykeion.pt/e/planetario-do-porto-somos-os-guardioes-3120f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-41970-2026-12-01@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261201T150000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1663,7 +1532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-doacoes-na-area-das-literaturas-e-culturas-do-mund-ecfaa-2026
  -12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Exposição | «Doações na área das Literaturas e Culturas do Mu
  ndo»
@@ -1677,7 +1546,7 @@ URL:https://lykeion.pt/e/exposicao-doacoes-na-area-das-literaturas-e-cultur
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-ecfaa-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Exposição · Faculdade de Letras da Universidade de Lisboa
 LOCATION:Faculdade de Letras da Universidade de Lisboa
@@ -1690,7 +1559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:noticia-olhar-a-veiga-pensar-no-futuro-exposicao-e-tertulia-9e372-2026-
  12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Notícia Olhar a Veiga. Pensar no Futuro | Exposição e Tertúlia 
  sobre a Veiga de Creixomil 2 a 4 de dezembro de 2026 | Associação Conví
@@ -1703,7 +1572,7 @@ URL:https://lykeion.pt/e/noticia-olhar-a-veiga-pensar-no-futuro-exposicao-e
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-72bb2-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T150000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1714,7 +1583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-pintura-desenho-e-escultura-infinito-duplamente-cf56d-2026
  -12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T163000
 SUMMARY:Exposição de pintura\, desenho e escultura “Infinito Duplamente
   Simétrico
@@ -1728,7 +1597,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vigo-inauguracao-da-exposicao-carta-universal-dos-deveres-e-40406-2026-
  12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T190000
 SUMMARY:Vigo: Inauguração da Exposição Carta Universal dos Deveres e Ob
  rigações dos Seres Humanos
@@ -1741,7 +1610,7 @@ URL:https://lykeion.pt/e/vigo-inauguracao-da-exposicao-carta-universal-dos-
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-3d23a-2026-12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T150000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1751,7 +1620,7 @@ URL:https://lykeion.pt/e/visitas-as-exposicoes-3d23a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-uma-aventura-em-lisboa-4f9d4-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T180000
 SUMMARY:Exposição «Uma Aventura em Lisboa»
 LOCATION:Faculdade de Letras da Universidade de Lisboa
@@ -1761,7 +1630,7 @@ URL:https://lykeion.pt/e/exposicao-uma-aventura-em-lisboa-4f9d4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-1180c-vicarte-2026-dd590-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T180000
 SUMMARY:Open Day 1180°C | VICARTE 2026
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -1772,7 +1641,7 @@ URL:https://lykeion.pt/e/open-day-1180c-vicarte-2026-dd590.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-d20cb-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T150000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1783,7 +1652,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-na-cadeia-05-dezembro-17h00-lac-laboratorio-4f561-2026-
  12-05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261205T170000
 SUMMARY:Ciclo de Cinema Na Cadeia 05 dezembro 17h00 LAC - Laboratório de A
  ctividades Criativas
@@ -1796,7 +1665,7 @@ URL:https://lykeion.pt/e/ciclo-de-cinema-na-cadeia-05-dezembro-17h00-lac-la
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-1180c-dd590-2026-12-05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261205T180000
 SUMMARY:Open Day 1180°C
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -1808,7 +1677,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-o-vitor-e-a-sofia-vao-a-lua-cc555-2026-12-05@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261205T150000
 SUMMARY:Planetário do Porto- O Vitor e a Sofia vão à Lua
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1819,7 +1688,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-buracos-negros-supermassivos-91764-2026-12-05@lagen
  da.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261205T160000
 SUMMARY:Planetário do Porto: Buracos Negros Supermassivos
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1829,7 +1698,7 @@ URL:https://lykeion.pt/e/planetario-do-porto-buracos-negros-supermassivos-9
 END:VEVENT
 BEGIN:VEVENT
 UID:visitas-as-exposicoes-25b48-2026-12-05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261205T150000
 SUMMARY:Visitas às Exposições
 LOCATION:Centro Cultural de Belém\, Belém
@@ -1838,9 +1707,19 @@ DESCRIPTION:https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-m
 URL:https://lykeion.pt/e/visitas-as-exposicoes-25b48.html
 END:VEVENT
 BEGIN:VEVENT
+UID:visitas-as-exposicoes-47149-2026-12-06@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261206T150000
+SUMMARY:Visitas às Exposições
+LOCATION:Centro Cultural de Belém\, Belém
+DESCRIPTION:https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-m
+ ac-ccb/2026-12-06/
+URL:https://lykeion.pt/e/visitas-as-exposicoes-47149.html
+END:VEVENT
+BEGIN:VEVENT
 UID:o-fantasma-do-universo-a-procura-da-materia-escura-0b826-2026-12-08@lag
  enda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261208T160000
 SUMMARY:O Fantasma do Universo - a procura da matéria escura
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1850,7 +1729,7 @@ URL:https://lykeion.pt/e/o-fantasma-do-universo-a-procura-da-materia-escura
 END:VEVENT
 BEGIN:VEVENT
 UID:agrifood-open-day-10c94-2026-12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Agrifood Open Day
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -1862,7 +1741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:parece-impossivel-12-dez-2026-exposicao-lancamento-livro-dis-7d3a3-2026
  -12-12@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261212
 SUMMARY:Parece Impossível 12 Dez\, 2026 Exposição Lançamento livro/disc
  o ED
@@ -1874,7 +1753,7 @@ URL:https://lykeion.pt/e/parece-impossivel-12-dez-2026-exposicao-lancamento
 END:VEVENT
 BEGIN:VEVENT
 UID:planetario-do-porto-o-sol-a-nossa-estrela-b58bc-2026-12-12@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T160000
 SUMMARY:Planetário do Porto- O Sol\, a nossa estrela
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1885,7 +1764,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:historias-vivas-aqui-estamos-nos-de-oliver-jeffers-13-dezemb-9e2a2-2026
  -12-13@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261213T103000
 SUMMARY:Histórias Vivas | Aqui Estamos Nós\, de Oliver Jeffers 13 dezembr
  o 10h30 Centro Ciência Viva de Lagos
@@ -1897,7 +1776,7 @@ URL:https://lykeion.pt/e/historias-vivas-aqui-estamos-nos-de-oliver-jeffers
 END:VEVENT
 BEGIN:VEVENT
 UID:minicursos-de-astronomia-a4124-2026-12-14@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T130000
 SUMMARY:Minicursos de Astronomia
 LOCATION:Planetário do Porto - Centro Ciência Viva\, Porto
@@ -1907,7 +1786,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:open-day-transformar-conhecimento-formacao-cuidado-futuro-d3b53-2026-12
  -15@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261215T103000
 SUMMARY:Open Day “TRANSFORMAR: Conhecimento · Formação · Cuidado · F
  uturo
@@ -1920,7 +1799,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:astronomia-no-centro-ciencia-viva-de-lagos-18-dezembro-19h00-3ca98-2026
  -12-18@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T190000
 SUMMARY:Astronomia No Centro Ciência Viva de Lagos 18 dezembro 19h00 Centr
  o Ciência Viva de Lagos
@@ -1933,7 +1812,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-ate-18-de-dezembro-de-2026-10h00-18h00-museu-eaad-be94e-2026-
  12-18@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T180000
 SUMMARY:Exposição Até 18 de dezembro de 2026 | 10h00-18h00 | Museu EAAD\
  , Campus de Azurém\, Guimarães
@@ -1945,7 +1824,7 @@ URL:https://lykeion.pt/e/exposicao-ate-18-de-dezembro-de-2026-10h00-18h00-m
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-be94e-2026-12-18@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T180000
 SUMMARY:Exposição ensaios de tectónica digital
 LOCATION:Laboratório de Paisagens Património e Território\, Guimarães
@@ -1956,10 +1835,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-aguarela-circular-idade-helena-martins-4b83c-2026-12-19@la
  genda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261219T150000
 SUMMARY:Exposição de Aguarela “circular-idade” | Helena Martins
-LOCATION:Centro de Investigação em Ciências Empresariais\, Setúbal
+LOCATION:Departamento de Contabilidade e Finanças\, Setúbal
 DESCRIPTION:https://esce.unips.pt/eventos/exposicao-de-aguarela-circular-id
  ade-helena-martins/
 URL:https://lykeion.pt/e/exposicao-de-aguarela-circular-idade-helena-martin
@@ -1968,7 +1847,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:distribuicao-gratuita-de-pinheiros-de-natal-provenientes-de-6d0da-2026-
  12-21@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261221T090000
 SUMMARY:Distribuição gratuita de pinheiros de Natal (provenientes de desb
  astes)
@@ -1980,7 +1859,7 @@ URL:https://lykeion.pt/e/distribuicao-gratuita-de-pinheiros-de-natal-proven
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-borboletas-de-proenca-a-nova-24c19-2026-12-21@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261221T183000
 SUMMARY:Exposição - Borboletas de Proença-a-Nova
 LOCATION:Centro Ciência Viva da Floresta\, Proença-a-Nova
@@ -1990,7 +1869,7 @@ URL:https://lykeion.pt/e/exposicao-borboletas-de-proenca-a-nova-24c19.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bibliotecas-ips-exposicoes-patentes-6f8a9-2026-12-31@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261231T131500
 SUMMARY:Bibliotecas IPS | Exposições patentes
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
@@ -2001,7 +1880,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-bibliografica-41-o-aniversario-da-ese-unips-1985-2-2c7db-2026
  -12-31@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261231T090000
 SUMMARY:Exposição Bibliográfica – 41.º Aniversário da ESE/UNIPS (198
  5-2026)
@@ -2013,7 +1892,7 @@ URL:https://lykeion.pt/e/exposicao-bibliografica-41-o-aniversario-da-ese-un
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-pintura-o-peso-leve-das-coisas-e99e5-2026-12-31@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261231T131500
 SUMMARY:Exposição de pintura “O Peso Leve das Coisas
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
@@ -2025,7 +1904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-a-pequena-forma-de-pollyanna-freire-reabertura-8-j-6ea14-2027
  -01-08@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270108T150000
 SUMMARY:Exposição «A Pequena Forma» de Pollyanna Freire\, Reabertura 8 
  Janeiro\, Ar.Co Xabregas
@@ -2037,7 +1916,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-fotografia-para-todos-os-sentidos-a9015-2027-01-22@lagenda
  .pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270122T150000
 SUMMARY:Exposição de fotografia “Para todos os sentidos
 LOCATION:Instituto Politécnico de Setúbal\, Barreiro
@@ -2048,7 +1927,7 @@ URL:https://lykeion.pt/e/exposicao-de-fotografia-para-todos-os-sentidos-a90
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-co2-observa-olha-conversa-9b05c-2027-01-24@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270124T100000
 SUMMARY:Ciclo de Cinema CO2 – Observa\, Olha\, Conversa
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
@@ -2060,7 +1939,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:o-murmurio-da-lava-em-exposicao-no-museu-de-historia-natural-0af9b-2027
  -02-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270204T080000
 SUMMARY:O Murmúrio da Lava” em exposição no Museu de História Natural
   do Funchal
@@ -2073,7 +1952,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-ods-agenda-2030-pequenas-acoes-locais-grandes-muda-17086-2027
  -02-06@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270206T140000
 SUMMARY:Exposição "ODS – Agenda 2030: Pequenas Ações Locais\, Grandes
   Mudanças Globais
@@ -2087,7 +1966,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:inauguracao-da-exposicao-interativa-biotopia-o-patrimonio-na-517dd-2027
  -02-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270211T080000
 SUMMARY:Inauguração da Exposição Interativa “Biotopia – O Patrimón
  io Natural da Madeira” no Museu de História Natural do Funchal
@@ -2101,7 +1980,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cafe-com-ciencia-recarregar-baterias-da-chavena-do-cafe-ao-c-f39c7-2027
  -02-13@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270213T213000
 SUMMARY:Café com Ciência “Recarregar baterias: da chávena do café ao 
  carro elétrico
@@ -2114,7 +1993,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-ods-agenda-2030-pequenas-acoes-locais-grandes-muda-17086-2027
  -02-20@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270220T140000
 SUMMARY:Exposição "ODS – Agenda 2030: Pequenas Ações Locais\, Grandes
   Mudanças Globais
@@ -2128,7 +2007,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:docente-helena-martins-apresenta-exposicao-de-pintura-circul-651ac-2027
  -02-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270228T090000
 SUMMARY:Docente Helena Martins apresenta exposição de pintura “Circular
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
@@ -2140,7 +2019,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-bibliografica-26-de-marco-dia-do-livro-portugues-2ae10-2027-0
  3-26@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270326T083000
 SUMMARY:Exposição Bibliográfica “26 de março – Dia do Livro Portugu
  ês
@@ -2153,7 +2032,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-onirico-com-inicio-a-27-de-marco-b9208-2027-03-27@lagen
  da.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270327T180000
 SUMMARY:Ciclo de Cinema “ONÍRICO” com início a 27 de março
 LOCATION:Faculdade de Psicologia da Universidade de Lisboa
@@ -2165,7 +2044,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-onirico-teve-a-sua-primeira-sessao-a-27-de-m-71cb7-2027
  -03-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270327T180000
 SUMMARY:Ciclo de Cinema “ONÍRICO” teve a sua primeira sessão a 27 de 
  março
@@ -2177,7 +2056,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-as-minas-na-cidade-dos-arquivos-chega-ao-lousal-62ca6-2027-03
  -28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270328T170000
 SUMMARY:Exposição “As Minas na Cidade dos Arquivos” chega ao Lousal
 LOCATION:Instituto Politécnico de Setúbal\, Barreiro
@@ -2189,7 +2068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-de-fotografia-para-todos-os-sentidos-25a74-2027-03-30@lagenda
  .pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270330T150000
 SUMMARY:Exposição de fotografia “Para todos os sentidos
 LOCATION:Instituto Politécnico de Setúbal\, Setúbal
@@ -2200,7 +2079,7 @@ URL:https://lykeion.pt/e/exposicao-de-fotografia-para-todos-os-sentidos-25a
 END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-murmurios-da-terra-561cd-2027-03-31@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270331T090000
 SUMMARY:Exposição Murmúrios da Terra
 LOCATION:Instituto Politécnico de Setúbal\, Barreiro
@@ -2211,7 +2090,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exposicao-manifesto-humano-rostos-com-dignidade-6ef9c-2027-04-15@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270415T090000
 SUMMARY:Exposição “Manifesto humano\, rostos com dignidade
 LOCATION:Instituto Politécnico de Setúbal\, Barreiro
@@ -2223,7 +2102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lusiada-open-day-2027-descobre-o-teu-futuro-data-15-de-abril-f9530-2027
  -04-15@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270415
 SUMMARY:Lusíada Open Day 2027 - Descobre o teu futuro! Data: 15 de abril d
  e 2027 Local: campus universitário Participação sujeita a inscrição
@@ -2234,7 +2113,7 @@ URL:https://lykeion.pt/e/lusiada-open-day-2027-descobre-o-teu-futuro-data-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-aberto-de-empreendedorismo-online-cbda8-2027-04-16@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270416
 SUMMARY:Dia Aberto de Empreendedorismo Online
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
@@ -2245,7 +2124,7 @@ URL:https://lykeion.pt/e/dia-aberto-de-empreendedorismo-online-cbda8.html
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-aberto-do-tecnico-2027-06b66-2027-04-17@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270417T093000
 SUMMARY:Dia Aberto do Técnico 2027
 LOCATION:Instituto Superior Técnico
@@ -2255,7 +2134,7 @@ URL:https://lykeion.pt/e/dia-aberto-do-tecnico-2027-06b66.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-transforma-o-teu-futuro-com-saude-d52c0-2027-04-17@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270417T103000
 SUMMARY:Open Day: Transforma o teu futuro com saúde
 LOCATION:Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa\, Oliv
@@ -2267,7 +2146,7 @@ URL:https://lykeion.pt/e/open-day-transforma-o-teu-futuro-com-saude-d52c0.h
 END:VEVENT
 BEGIN:VEVENT
 UID:ciclo-de-cinema-co2-383f9-2027-04-19@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270419T103000
 SUMMARY:Ciclo de Cinema CO2
 LOCATION:Instituto Politécnico de Setúbal\, Barreiro
@@ -2276,7 +2155,7 @@ URL:https://lykeion.pt/e/ciclo-de-cinema-co2-383f9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-of-iscte-on-22nd-april-2025-22090-2027-04-22@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270422
 SUMMARY:Open Day of Iscte on 22nd April\, 2025
 LOCATION:Iscte – Instituto Universitário de Lisboa
@@ -2285,18 +2164,8 @@ DESCRIPTION:https://istar.iscte-iul.pt/news-posts/open-day-of-iscte-on-22nd
 URL:https://lykeion.pt/e/open-day-of-iscte-on-22nd-april-2025-22090.html
 END:VEVENT
 BEGIN:VEVENT
-UID:open-day-2027-35456-2027-04-24@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20270424
-SUMMARY:Open Day 2027
-LOCATION:Universidade de Lisboa
-DESCRIPTION:https://ulices.letras.ulisboa.pt/pt-pt/eventos/open-day-2027-24
- -de-abril-14411
-URL:https://lykeion.pt/e/open-day-2027-35456.html
-END:VEVENT
-BEGIN:VEVENT
 UID:open-day-03e2f-2027-04-24@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270424T083000
 SUMMARY:Open Day · Universidade Católica Portuguesa
 LOCATION:Universidade Católica Portuguesa\, Sintra

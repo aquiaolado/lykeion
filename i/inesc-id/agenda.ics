@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:INESC-ID (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:talks-gaips-is-our-research-accessible-case-studies-of-conse-0ec43-2026
+ -12-09@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T110000
+SUMMARY:Talks @ GAIPS: Is Our research Accessible? Case Studies of Consent\
+ , Co-Design and Evidence in Research with Diverse Audiences
+LOCATION:Instituto de Engenharia de Sistemas e Computadores Investigação 
+ e Desenvolvimento
+DESCRIPTION:https://www.inesc-id.pt/event/talks-gaips-is-our-research-acces
+ sible-case-studies-of-consent-co-design-and-evidence-in-research-with-dive
+ rse-audiences/
+URL:https://lykeion.pt/e/talks-gaips-is-our-research-accessible-case-studie
+ s-of-conse-0ec43.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tecnico-innovation-summit-2027-tis-2027-5da28-2027-02-03@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270203
+SUMMARY:Técnico Innovation Summit 2027 (TIS 2027)
+LOCATION:Instituto de Engenharia de Sistemas e Computadores Investigação 
+ e Desenvolvimento
+DESCRIPTION:https://www.inesc-id.pt/event/tecnico-innovation-summit-2027-ti
+ s-2027/
+URL:https://lykeion.pt/e/tecnico-innovation-summit-2027-tis-2027-5da28.html
+END:VEVENT
+END:VCALENDAR

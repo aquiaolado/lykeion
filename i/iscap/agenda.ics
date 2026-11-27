@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ISCAP – Instituto Superior de Contabilidade e Administraçã
+ o do Porto (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:inseai-workshop-4-informality-mobility-and-migration-9c8f7-2026-11-30@l
+ agenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T201500
+SUMMARY:INSEAI Workshop 4 | Informality\, Mobility and Migration
+LOCATION:ISCAP – Instituto Superior de Contabilidade e Administração do
+  Porto\, Matosinhos
+DESCRIPTION:https://www.iscap.ipp.pt/destaques-1/noticias/por-detras-da-fes
+ ta-o-que-ninguem-ve-na-queima-das-fitas-do-porto
+URL:https://lykeion.pt/e/inseai-workshop-4-informality-mobility-and-migrati
+ on-9c8f7.html
+END:VEVENT
+END:VCALENDAR

@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:congresso-internacional-de-homenagem-a-antonio-domingues-de-b204b-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T091500
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T091500
 SUMMARY:Congresso internacional de homenagem a António Domingues de Sousa 
  Costa
 LOCATION:Universidade Católica Portuguesa
@@ -19,10 +19,22 @@ URL:https://lykeion.pt/e/congresso-internacional-de-homenagem-a-antonio-dom
  ingues-de-b204b.html
 END:VEVENT
 BEGIN:VEVENT
+UID:encontro-apresentacao-de-um-atlas-da-religiao-em-portugal-bc64c-2026-11
+ -27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Encontro: Apresentação de «Um Atlas da Religião em Portugal»
+LOCATION:Centro de Investigação em Teologia e Estudos da Religião
+DESCRIPTION:https://citer.ucp.pt/events/apresentacao-de-um-atlas-da-religia
+ o-em-portugal
+URL:https://lykeion.pt/e/encontro-apresentacao-de-um-atlas-da-religiao-em-p
+ ortugal-bc64c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:reliquias-e-lugares-sagrados-patrimonio-religioso-publicos-m-8d418-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T093000
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T093000
 SUMMARY:Relíquias e Lugares Sagrados: Património Religioso\, Públicos\, 
  Mediação Cultural
 LOCATION:Universidade Católica Portuguesa (Porto)\, Porto
@@ -34,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conferencia-the-rome-lectures-1944-father-marie-benoit-and-t-035e8-2026
  -12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Conferência «The Rome Lectures\, 1944: Father Marie-Benoît and t
  he Path to Jewish-Christian Rapprochement»
@@ -47,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-bruno-miguel-rodrigues-pereira-ribeiro-d6f48-2026
  -12-07@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Provas de mestrado de Bruno Miguel Rodrigues Pereira Ribeiro — EM
  RC como espaço de diálogo entre a Religião e a Ciência. A sua importâ
@@ -60,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-joana-sofia-pinto-ramos-percecoes-e-fa-3beae-2026
  -12-14@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T153000
 SUMMARY:Provas de mestrado de Joana Sofia Pinto Ramos — Perceções e fat
  ores psicológicos associados à sexualidade e abuso sexual: leigos\, semi
@@ -73,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-nelson-cesar-pinto-silva-entre-geracoe-aad53-2027
  -01-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270104
 SUMMARY:Provas de mestrado de Nelson César Pinto Silva — Entre Geraçõe
  s: o contributo dos avós e das pessoas mais velhas para a formação inte
@@ -86,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-historia-e-cultura-das-religioes-tesub-dc843-2027
  -01-07@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270107T153000
 SUMMARY:Provas de mestrado em História e Cultura das Religiões — Tešub
   e baal estudo comparado de duas divindades da ásia ocidental antiga
@@ -95,5 +107,18 @@ DESCRIPTION:https://www.letras.ulisboa.pt/pt/component/ohanah/mestrado-em-h
  istoria-e-cultura-das-religioes-26?Itemid=0
 URL:https://lykeion.pt/e/provas-de-mestrado-em-historia-e-cultura-das-relig
  ioes-tesub-dc843.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-freedom-of-religion-in-employment-re-936b5-2027
+ -04-04@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270404T120000
+SUMMARY:Seminário: English SPEED 'Freedom of Religion in Employment Relati
+ ons'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/4-de-abril-english-speed-f
+ reedom-of-religion-in-employment-relations
+URL:https://lykeion.pt/e/seminario-english-speed-freedom-of-religion-in-emp
+ loyment-re-936b5.html
 END:VEVENT
 END:VCALENDAR

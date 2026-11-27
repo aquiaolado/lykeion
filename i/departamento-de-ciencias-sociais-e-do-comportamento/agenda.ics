@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lykeion//Agenda academica//PT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Departamento de Ciências Sociais e do Comportamento (Lykeion)
+X-WR-TIMEZONE:Europe/Lisbon
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:3o-encontro-de-jornalismo-cultural-ac606-2026-12-12@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:3o Encontro de Jornalismo Cultural
+LOCATION:Departamento de Ciências Sociais e do Comportamento\, Maia
+DESCRIPTION:https://www.umaia.pt/pt/eventos/2026/3-encontro-de-jornalismo-c
+ ultural
+URL:https://lykeion.pt/e/3o-encontro-de-jornalismo-cultural-ac606.html
+END:VEVENT
+END:VCALENDAR

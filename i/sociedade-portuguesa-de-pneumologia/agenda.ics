@@ -6,20 +6,9 @@ X-WR-CALNAME:SPP (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:eventos-spp-42o-congresso-de-pneumologia-74df9-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
-SUMMARY:Eventos SPP 42o Congresso de Pneumologia
-LOCATION:Sociedade Portuguesa de Pneumologia
-DESCRIPTION:https://www.sppneumologia.pt/agenda/42-congresso-de-pneumologia
- -spp
-URL:https://lykeion.pt/e/eventos-spp-42o-congresso-de-pneumologia-74df9.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 UID:congresso-resultados-do-epicopd-serao-apresentados-no-dia-629da-2026-11
  -27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:Congresso: Resultados do EpiCOPD serão apresentados no dia
 LOCATION:Sociedade Portuguesa de Pneumologia
@@ -27,5 +16,16 @@ DESCRIPTION:https://www.sppneumologia.pt/noticias/apos-20-anos-estudo-nacio
  nal-vai-atualizar-os-dados-sobre-a-prevalencia-da-dpoc
 URL:https://lykeion.pt/e/congresso-resultados-do-epicopd-serao-apresentados
  -no-dia-629da.html
+END:VEVENT
+BEGIN:VEVENT
+UID:eventos-spp-42o-congresso-de-pneumologia-74df9-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
+SUMMARY:Eventos SPP 42o Congresso de Pneumologia
+LOCATION:Sociedade Portuguesa de Pneumologia
+DESCRIPTION:https://www.sppneumologia.pt/agenda/42-congresso-de-pneumologia
+ -spp
+URL:https://lykeion.pt/e/eventos-spp-42o-congresso-de-pneumologia-74df9.htm
+ l
 END:VEVENT
 END:VCALENDAR

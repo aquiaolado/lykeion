@@ -6,56 +6,32 @@ X-WR-CALNAME:Faculdade de Ciências da Universidade de Lisboa (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-f5533-2026-11-26@lage
- nda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Café de ciência: Ciência no Copo - Entre livros e IA
-LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
-DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
-URL:https://lykeion.pt/e/cafe-de-ciencia-ciencia-no-copo-entre-livros-e-ia-
- f5533.html
-END:VEVENT
-BEGIN:VEVENT
-UID:conferencia-futuro-eficiencia-renovaveis-17687-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Conferência: Futuro = Eficiência + Renováveis?
-LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
-DESCRIPTION:https://ciencias.ulisboa.pt/sociedade/comunicacao-e-divulgacao-
- de-ciencia
-URL:https://lykeion.pt/e/conferencia-futuro-eficiencia-renovaveis-17687.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-UID:18-00-encontro-neuroses-coletivas-a-proxima-pandemia-devemos-defb8-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180000
-SUMMARY:Encontro Neuroses Coletivas - A próxima pandemia. Devemos estar pr
- eocupados?
+UID:3-a-conferencia-anual-da-unite-energy-dc9c5-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:3.ª Conferência Anual da Unite!Energy
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
-DESCRIPTION:https://ciencias.ulisboa.pt/eventos/neuroses-coletivas-a-proxim
- a-pandemia-devemos-estar-preocupados
-URL:https://lykeion.pt/e/18-00-encontro-neuroses-coletivas-a-proxima-pandem
- ia-devemos-defb8.html
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/3-conferencia-anual-da-unit
+ eenergy
+URL:https://lykeion.pt/e/3-a-conferencia-anual-da-unite-energy-dc9c5.html
 END:VEVENT
 BEGIN:VEVENT
-UID:encontro-scientia-c077c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:Encontro Scientia
-LOCATION:Centro de Ecologia Evolução e Alterações Ambientais
-DESCRIPTION:https://www.ce3c.pt/en/agenda/encontro-scientia/from-azorean-bi
- odiversity-to-health-innovation-two-plants-two-challenges-one-sustainable-
- strategy
-URL:https://lykeion.pt/e/encontro-scientia-c077c.html
+UID:18-00-exposicao-algo-esta-a-crescer-no-laboratorio-81374-2026-11-27@lag
+ enda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T180000
+SUMMARY:Exposição Algo está a crescer no laboratório
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/algo-esta-a-crescer-no-labo
+ ratorio
+URL:https://lykeion.pt/e/18-00-exposicao-algo-esta-a-crescer-no-laboratorio
+ -81374.html
 END:VEVENT
 BEGIN:VEVENT
 UID:portas-abertas-sismos-e-erupcoes-vulcanicas-o-nosso-planeta-c536f-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
 SUMMARY:Portas abertas: Sismos e erupções vulcânicas: o nosso planeta é
   dinâmico!
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -64,47 +40,96 @@ URL:https://lykeion.pt/e/portas-abertas-sismos-e-erupcoes-vulcanicas-o-noss
  o-planeta-c536f.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-bruno-rocha-quintelas-analise-de-traco-1a27f-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Provas de mestrado de Bruno Rocha Quintelas — Análise de Traços
-  de Piretróides em Matrizes Aquosas por Microextração Adsortiva em Barr
- a (BAμE)
+UID:provas-de-doutoramento-de-david-miguel-caipirro-goncalves-de-9e44b-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de doutoramento de David Miguel Caipirro Gonçalves — Desi
+ gning Tailored Multiplayer Experiences Through Asymmetric and Modular Desi
+ gn
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-mestrado-de-bruno-rocha-quintelas-analis
- e-de-traco-1a27f.html
+URL:https://lykeion.pt/e/provas-de-doutoramento-de-david-miguel-caipirro-go
+ ncalves-de-9e44b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-jacinta-de-macedo-correia-vieira-reloc-86396-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Provas de mestrado de Jacinta de Macedo Correia Vieira — Relocali
- zação da sismicidade no Centro de Portugal com base num catálogo de alt
- a resolução
+UID:provas-de-mestrado-de-alexandre-gabriel-fernandes-gomes-cara-b999a-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Alexandre Gabriel Fernandes Gomes — Caracte
+ rização das comunidades piscícolas nas lagoas do EVOA: contributo para 
+ a gestão
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-mestrado-de-jacinta-de-macedo-correia-vi
- eira-reloc-86396.html
+URL:https://lykeion.pt/e/provas-de-mestrado-de-alexandre-gabriel-fernandes-
+ gomes-cara-b999a.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-de-marco-barahona-couceiro-fialho-af4-mal-8d2cb-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Provas de mestrado de Marco Barahona Couceiro Fialho — AF4-MALS-U
- V and DLS characterization of native casein micelles in milk and artificia
- l casein micelles under different fortification conditions
+UID:provas-de-mestrado-de-daniel-almeida-leao-franco-silva-estud-d29c9-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Daniel Almeida Leão Franco Silva — Estudo 
+ da dissolução do ar numa coluna de água a alta pressão
 LOCATION:Faculdade de Ciências da Universidade de Lisboa
 DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
-URL:https://lykeion.pt/e/provas-de-mestrado-de-marco-barahona-couceiro-fial
- ho-af4-mal-8d2cb.html
+URL:https://lykeion.pt/e/provas-de-mestrado-de-daniel-almeida-leao-franco-s
+ ilva-estud-d29c9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-leonor-silva-dos-santos-casanova-paren-459c1-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Leonor Silva dos Santos Casanova Parente — 
+ Microfluidic Integrated Enzyme-Mediated Nucleoside Synthesis
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-leonor-silva-dos-santos-casa
+ nova-paren-459c1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-patricia-barreiros-madeira-de-paiva-ec-ccb60-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Patrícia Barreiros Madeira de Paiva — Ecot
+ oxicity of First and New Generation PFAs in Marine Bivalves
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-patricia-barreiros-madeira-d
+ e-paiva-ec-ccb60.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-de-rafael-tomas-dos-santos-francisco-inte-9fdf9-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Provas de mestrado de Rafael Tomás dos Santos Francisco — Interv
+ iewBuddy: Generative AI for CV Processing and Candidate Management in IT R
+ ecruitment
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-rafael-tomas-dos-santos-fran
+ cisco-inte-9fdf9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-de-logica-matematica-rates-of-metastability-regard-7c08c-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T150000
+SUMMARY:Seminário de Lógica Matemática «Rates of metastability regardin
+ g a quadratic optimization problem»
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/seminario-de-logica-matemat
+ ica-rates-of-metastability-regarding-a-quadratic-optimization-problem
+URL:https://lykeion.pt/e/seminario-de-logica-matematica-rates-of-metastabil
+ ity-regard-7c08c.html
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-de-arduino-b299d-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Workshop de Arduino
 LOCATION:Faculdade de Ciências da Universidade de Lisboa\, Campo Grande
@@ -112,9 +137,19 @@ DESCRIPTION:https://oficinaenergias.campus.ciencias.ulisboa.pt/
 URL:https://lykeion.pt/e/workshop-de-arduino-b299d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:13-00-seminario-earth-systems-seminars-e06f3-2026-12-02@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T130000
+SUMMARY:Seminário Earth Systems Seminars
+LOCATION:Faculdade de Ciências da Universidade de Lisboa
+DESCRIPTION:https://ciencias.ulisboa.pt/eventos/earth-systems-seminars-aust
+ ralia
+URL:https://lykeion.pt/e/13-00-seminario-earth-systems-seminars-e06f3.html
+END:VEVENT
+BEGIN:VEVENT
 UID:homenagem-publica-de-jubilacao-e-ultima-licao-do-professor-p-0fc3d-2026
  -12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T093000
 SUMMARY:Homenagem pública de jubilação e última lição do Professor Pe
  dro Miranda

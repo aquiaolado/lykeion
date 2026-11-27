@@ -6,19 +6,9 @@ X-WR-CALNAME:Escola Superior de Teatro e Cinema (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:12-a-mostra-de-cinema-estc-na-amadora-1c31b-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T100000
-SUMMARY:12.ª Mostra de Cinema ESTC na Amadora
-LOCATION:Escola Superior de Teatro e Cinema\, Amadora
-DESCRIPTION:https://www.estc.upl.pt/eventos/12a-mostra-de-cinema-estc-na-am
- adora
-URL:https://lykeion.pt/e/12-a-mostra-de-cinema-estc-na-amadora-1c31b.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-painel-vicente-78be9-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
+UID:exposicao-painel-vicente-78be9-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:Exposição Painel Vicente
 LOCATION:Escola Superior de Teatro e Cinema\, Amadora
 DESCRIPTION:https://www.estc.upl.pt/eventos/exposicao-painel-vicente-cendre
@@ -26,27 +16,15 @@ DESCRIPTION:https://www.estc.upl.pt/eventos/exposicao-painel-vicente-cendre
 URL:https://lykeion.pt/e/exposicao-painel-vicente-78be9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-mundo-visivel-fotografia-de-joao-fazenda-38586-2026-11-26@lag
+UID:exposicao-mundo-visivel-fotografia-de-joao-fazenda-38586-2026-11-27@lag
  enda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T090000
 SUMMARY:Exposição «Mundo Visível» (fotografia) de João fazenda
 LOCATION:Escola Superior de Teatro e Cinema\, Amadora
 DESCRIPTION:https://www.estc.upl.pt/eventos/exposicao-mundo-visivel-fotogra
  fia-de-joao-fazenda-16-nov-17-jan-2027
 URL:https://lykeion.pt/e/exposicao-mundo-visivel-fotografia-de-joao-fazenda
  -38586.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ii-jornadas-internacionais-de-cenografia-figurinos-14441-2026-11-26@lag
- enda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
-SUMMARY:II Jornadas Internacionais de Cenografia & Figurinos
-LOCATION:Escola Superior de Teatro e Cinema\, Amadora
-DESCRIPTION:https://www.estc.upl.pt/eventos/ii-jornadas-internacionais-de-c
- enografia-figurinos
-URL:https://lykeion.pt/e/ii-jornadas-internacionais-de-cenografia-figurinos
- -14441.html
 END:VEVENT
 END:VCALENDAR

@@ -6,14 +6,33 @@ X-WR-CALNAME:CIEBA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:conferencia-bdc4b-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180000
-SUMMARY:Conferência · Centro de Investigação e de Estudos em Belas-Arte
- s
-LOCATION:Centro de Investigação e de Estudos em Belas-Artes\, Santo Antó
- nio
-DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/687
-URL:https://lykeion.pt/e/conferencia-bdc4b.html
+UID:conversa-com-a-artista-annemarie-piscaer-dd6be-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Conversa com a artista Annemarie Piscaer
+LOCATION:Centro de Investigação e de Estudos em Belas-Artes
+DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/690
+URL:https://lykeion.pt/e/conversa-com-a-artista-annemarie-piscaer-dd6be.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:palestra-dd6be-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Palestra · Centro de Investigação e de Estudos em Belas-Artes
+LOCATION:Centro de Investigação e de Estudos em Belas-Artes
+DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/690
+URL:https://lykeion.pt/e/palestra-dd6be.html
+END:VEVENT
+BEGIN:VEVENT
+UID:financiamento-europeu-para-a-investigacao-em-artes-e-cultura-70279-2026
+ -12-16@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T143000
+SUMMARY:Financiamento Europeu para a Investigação em Artes e Cultura
+LOCATION:Centro de Investigação e de Estudos em Belas-Artes
+DESCRIPTION:https://cieba.belasartes.ulisboa.pt/node/691
+URL:https://lykeion.pt/e/financiamento-europeu-para-a-investigacao-em-artes
+ -e-cultura-70279.html
 END:VEVENT
 END:VCALENDAR

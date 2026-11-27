@@ -6,10 +6,22 @@ X-WR-CALNAME:NOVA (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-27@lagen
+ da.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:26 Exposição Etnografias da Pastorícia
+LOCATION:Centro Interdisciplinar de Ciências Sociais
+DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
+ da-pastoricia/
+URL:https://lykeion.pt/e/26-17-dez-26-exposicao-etnografias-da-pastoricia-a
+ 35a7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
- -26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T090000
+ -27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
 SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
  mada
@@ -19,21 +31,10 @@ URL:https://lykeion.pt/e/6-a-edicao-da-conferencia-circular-economy-make-it
  -happen-b5702.html
 END:VEVENT
 BEGIN:VEVENT
-UID:a-pesquisa-avancada-da-scopus-53cd7-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180000
-SUMMARY:A pesquisa avançada da Scopus
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/pesquisa-avancad
- a-da-scopus-conceito-e-aplicacoes
-URL:https://lykeion.pt/e/a-pesquisa-avancada-da-scopus-53cd7.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ciencia-entre-paginas-livros-para-questionar-e-compreender-a-f60de-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
 SUMMARY:Ciência entre páginas. Livros para questionar e compreender a ci
  ência
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -44,54 +45,31 @@ URL:https://lykeion.pt/e/ciencia-entre-paginas-livros-para-questionar-e-com
  preender-a-f60de.html
 END:VEVENT
 BEGIN:VEVENT
-UID:congresso-uncertain-landscapes-2-beyond-the-resources-be2f2-2026-11-26@
- lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Congresso | Uncertain Landscapes 2: Beyond the resources
-LOCATION:Instituto de Historia da Arte
-DESCRIPTION:https://institutodehistoriadaarte.com/event/congresso-uncertain
- -landscapes-2-beyond-the-resources/
-URL:https://lykeion.pt/e/congresso-uncertain-landscapes-2-beyond-the-resour
- ces-be2f2.html
+UID:dcm-de-portas-abertas-para-58-alunos-do-ensino-secundario-4893e-2026-11
+ -27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:DCM de portas abertas para 58 alunos do Ensino Secundário
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/11/dcm-de-portas-abert
+ as-para-58-alunos-do-ensino-secundario
+URL:https://lykeion.pt/e/dcm-de-portas-abertas-para-58-alunos-do-ensino-sec
+ undario-4893e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:david-marcal-ha-uma-cultura-cientifica-0cef4-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:David Marçal: Há uma cultura científica?
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/david-marcal-ha-
- uma-cultura-cientifica
-URL:https://lykeion.pt/e/david-marcal-ha-uma-cultura-cientifica-0cef4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:encontro-nas-margens-do-possivel-d26f2-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T183000
+UID:encontro-nas-margens-do-possivel-d26f2-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T183000
 SUMMARY:Encontro: Nas Margens do Possível
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
 DESCRIPTION:https://www.fcsh.unl.pt/eventos/nas-margens-do-possivel/
 URL:https://lykeion.pt/e/encontro-nas-margens-do-possivel-d26f2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:26-17-dez-26-exposicao-etnografias-da-pastoricia-a35a7-2026-11-26@lagen
- da.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição Etnografias da Pastorícia
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/exposicao-etnografias-
- da-pastoricia/
-URL:https://lykeion.pt/e/26-17-dez-26-exposicao-etnografias-da-pastoricia-a
- 35a7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-26@lagenda
+UID:exposicao-damao-fogo-do-coracao-de-ana-janeiro-30838-2026-11-27@lagenda
  .pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T170000
 SUMMARY:Exposição | Damão Fogo do Coração\, de Ana Janeiro
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-damao-fog
@@ -100,9 +78,9 @@ URL:https://lykeion.pt/e/exposicao-damao-fogo-do-coracao-de-ana-janeiro-308
  38.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-queridas-amigas-af305-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T180000
+UID:exposicao-queridas-amigas-af305-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T180000
 SUMMARY:Exposição | Queridas Amigas
 LOCATION:Instituto de Historia da Arte
 DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-queridas-
@@ -110,219 +88,22 @@ DESCRIPTION:https://institutodehistoriadaarte.com/event/exposicao-queridas-
 URL:https://lykeion.pt/e/exposicao-queridas-amigas-af305.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exposicao-inside-the-lab-o-que-realmente-acontece-aqui-83137-2026-11-26
- @lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Exposição: Inside the Lab: O que realmente acontece aqui?
-LOCATION:LAQV Requimte\, Porto
-DESCRIPTION:https://laqv.requimte.pt/
-URL:https://lykeion.pt/e/exposicao-inside-the-lab-o-que-realmente-acontece-
- aqui-83137.html
-END:VEVENT
-BEGIN:VEVENT
-UID:geracoes-vindouras-empoderar-a-juventude-para-que-defina-o-s-a043a-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T140000
-SUMMARY:Gerações vindouras – Empoderar a juventude para que defina o se
- u futuro
-LOCATION:NOVA IMS
-DESCRIPTION:https://www.novaims.unl.pt/pt/here-now/eventos/geracoes-vindour
- as-empoderar-a-juventude-para-que-defina-o-seu-futuro/
-URL:https://lykeion.pt/e/geracoes-vindouras-empoderar-a-juventude-para-que-
- defina-o-s-a043a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:mps-nova-virtual-seminar-series-ccdda-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T140000
-SUMMARY:MPS_NOVA Virtual Seminar Series
-LOCATION:Molecular Structural and Cellular Microbiology\, Oeiras
-DESCRIPTION:https://www.itqb.unl.pt/events/mps_nova-virtual-seminar-series/
-URL:https://lykeion.pt/e/mps-nova-virtual-seminar-series-ccdda.html
-END:VEVENT
-BEGIN:VEVENT
-UID:mastering-scopus-advanced-search-a0af8-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T093000
-SUMMARY:Mastering Scopus Advanced Search
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/mastering-scopus
- -advanced-search
-URL:https://lykeion.pt/e/mastering-scopus-advanced-search-a0af8.html
-END:VEVENT
-BEGIN:VEVENT
-UID:microbial-dynamics-evolution-and-environmental-exposures-e01d7-2026-11-
- 26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T110000
-SUMMARY:Microbial dynamics\, evolution\, and environmental exposures
-LOCATION:Molecular Structural and Cellular Microbiology\, Oeiras
-DESCRIPTION:https://www.itqb.unl.pt/events/microbial-dynamics-evolution-and
- -environmental-exposures/
-URL:https://lykeion.pt/e/microbial-dynamics-evolution-and-environmental-exp
- osures-e01d7.html
-END:VEVENT
-BEGIN:VEVENT
-UID:portas-abertas-banana-beterraba-camarao-e-cicatrizacao-uma-l-109a6-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Portas abertas: Banana\, beterraba\, camarão e cicatrização: Uma
-  ligação inesperada!
-LOCATION:LAQV Requimte\, Almada
-DESCRIPTION:https://forms.cloud.microsoft/e/qfD0RYFVJs
-URL:https://lykeion.pt/e/portas-abertas-banana-beterraba-camarao-e-cicatriz
- acao-uma-l-109a6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:programa-de-mentoria-da-nova-fct-7489c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Programa de Mentoria da NOVA FCT
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/programa-de-ment
- oria-da-nova-fct
-URL:https://lykeion.pt/e/programa-de-mentoria-da-nova-fct-7489c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-ciencias-biomedicas-alessia-campoli-6cd31-2026-11
- -26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Provas de Mestrado em Ciências Biomédicas • Alessia Campoli
-LOCATION:Instituto de Higiene e Medicina Tropical
-DESCRIPTION:https://www.ihmt.unl.pt/events/provas-de-mestrado-em-ciencias-b
- iomedicas-alessia-campoli/
-URL:https://lykeion.pt/e/provas-de-mestrado-em-ciencias-biomedicas-alessia-
- campoli-6cd31.html
-END:VEVENT
-BEGIN:VEVENT
-UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-da773-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T140000
-SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
- groindustrial
-LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
-DESCRIPTION:https://www.fct.unl.pt/provas-academicas/2026/11/provas-de-mest
- rado-em-tecnologias-de-producao-e-transformacao-agroindustrial-3
-URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-de-producao-e-tr
- ansformaca-da773.html
-END:VEVENT
-BEGIN:VEVENT
-UID:semana-da-ciencia-e-da-tecnologia-5791c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Semana da Ciência e da Tecnologia
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/semana-da-cienci
- a-e-da-tecnologia
-URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-5791c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-candido-ou-o-optimismo-de-voltaire-72e25-2026-11-26@lagenda.p
- t
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T140000
-SUMMARY:Seminário: Cândido\, ou o Optimismo\, de Voltaire
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/candido-ou-o-optimismo-de-volta
- ire/
-URL:https://lykeion.pt/e/seminario-candido-ou-o-optimismo-de-voltaire-72e25
- .html
-END:VEVENT
-BEGIN:VEVENT
-UID:seminario-figleaves-for-racism-and-sexism-an-experimental-02637-2026-11
- -26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T160000
-SUMMARY:Seminário: Figleaves for racism and sexism: an experimental...
-LOCATION:Instituto de Filosofia da Nova
-DESCRIPTION:http://ifilnova.pt/eventos/figleaves-for-racism-and-sexism/
-URL:https://lykeion.pt/e/seminario-figleaves-for-racism-and-sexism-an-exper
- imental-02637.html
-END:VEVENT
-BEGIN:VEVENT
-UID:succeeding-generations-empowering-young-people-to-chart-the-dce37-2026-
- 11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T020000
-SUMMARY:Succeeding Generations - Empowering young people to chart the futur
- e
-LOCATION:NOVA IMS
-DESCRIPTION:https://www.novaims.unl.pt/en/here-now/events/succeeding-genera
- tions-empowering-young-people-to-chart-the-future/
-URL:https://lykeion.pt/e/succeeding-generations-empowering-young-people-to-
- chart-the-dce37.html
-END:VEVENT
-BEGIN:VEVENT
-UID:toolkit-sobre-questoes-juridicas-protecao-de-dados-e-licenca-0b09f-2026
- -11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Toolkit sobre questões jurídicas\, proteção de dados e licença
- s
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/toolkit-sobre-qu
- estoes-juridicas-protecao-de-dados-e-licencas
-URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
- -e-licenca-0b09f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:trial-elsevier-knovel-e-engineering-village-patents-plus-11943-2026-11-
- 26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Trial Elsevier: Knovel e Engineering Village + Patents Plus
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/trial-elsevier-k
- novel-e-engineering-village-patents-plus
-URL:https://lykeion.pt/e/trial-elsevier-knovel-e-engineering-village-patent
- s-plus-11943.html
-END:VEVENT
-BEGIN:VEVENT
-UID:26-vi-edicao-do-roteiro-de-seminarios-de3f5-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T170000
-SUMMARY:VI Edição Do Roteiro De Seminários
-LOCATION:Centro Interdisciplinar de Ciências Sociais
-DESCRIPTION:https://www.cics.nova.fcsh.unl.pt/evento/vi-edicao-do-roteiro-d
- e-seminarios/
-URL:https://lykeion.pt/e/26-vi-edicao-do-roteiro-de-seminarios-de3f5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:webinar-turnitin-5c79c-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261126T143000
-SUMMARY:Webinar Turnitin
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/webinar-turnitin
-URL:https://lykeion.pt/e/webinar-turnitin-5c79c.html
-END:VEVENT
-BEGIN:VEVENT
-UID:6-a-edicao-da-conferencia-circular-economy-make-it-happen-b5702-2026-11
- -27@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T090000
-SUMMARY:6.ª edição da Conferência “Circular Economy: Make It Happen"
-LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
- mada
-DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/6-edicao-da-conf
- erencia-circular-economy-make-it-happen
-URL:https://lykeion.pt/e/6-a-edicao-da-conferencia-circular-economy-make-it
- -happen-b5702.html
+UID:licao-de-jubilacao-professor-rodrigo-martins-do-silicio-aos-54595-2026-
+ 11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T144500
+SUMMARY:Lição de Jubilação | Professor Rodrigo Martins | Do Silício ao
+ s Materiais Avançados: Uma Viagem Rumo ao Futuro
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/08/licao-de-jubilacao-
+ professor-rodrigo-martins-do-silicio-aos-materiais-avancados-uma-viagem-ru
+ mo-ao-f
+URL:https://lykeion.pt/e/licao-de-jubilacao-professor-rodrigo-martins-do-si
+ licio-aos-54595.html
 END:VEVENT
 BEGIN:VEVENT
 UID:miradouros-do-monsanto-de-norte-a-sul-93997-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Miradouros do Monsanto de Norte a Sul
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -332,21 +113,19 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/miradouros-do-mo
 URL:https://lykeion.pt/e/miradouros-do-monsanto-de-norte-a-sul-93997.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nu-sta-papia-caminhos-e-praticas-da-oralidade-no-cabo-verde-c7a9e-2026-
- 11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T090000
-SUMMARY:Nu sta papia: caminhos e práticas da oralidade no Cabo Verde conte
- mporâneo
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/nu-sta-papia-caminhos-e-pratica
- s-da-oralidade-no-cabo-verde-contemporaneo/
-URL:https://lykeion.pt/e/nu-sta-papia-caminhos-e-praticas-da-oralidade-no-c
- abo-verde-c7a9e.html
+UID:o-exilado-da-criacao-a-conservacao-d3fbe-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:O Exilado: da Criação à Conservação
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/04/o-exilado-da-cri
+ acao-conservacao
+URL:https://lykeion.pt/e/o-exilado-da-criacao-a-conservacao-d3fbe.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ouvir-duas-vezes-a-sinfonia-06c7b-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T110000
 SUMMARY:Ouvir Duas Vezes – A Sinfonia
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -356,21 +135,58 @@ DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/ouvir-duas-vezes
 URL:https://lykeion.pt/e/ouvir-duas-vezes-a-sinfonia-06c7b.html
 END:VEVENT
 BEGIN:VEVENT
-UID:pensar-o-pluricentrismo-da-lingua-portuguesa-74f5b-2026-11-27@lagenda.p
- t
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T090000
-SUMMARY:Pensar o Pluricentrismo da Língua Portuguesa
-LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
-DESCRIPTION:https://www.fcsh.unl.pt/eventos/pensar-o-pluricentrismo-da-ling
- ua-portuguesa/
-URL:https://lykeion.pt/e/pensar-o-pluricentrismo-da-lingua-portuguesa-74f5b
- .html
+UID:portas-abertas-banana-beterraba-camarao-e-cicatrizacao-uma-l-109a6-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Portas abertas: Banana\, beterraba\, camarão e cicatrização: Uma
+  ligação inesperada!
+LOCATION:LAQV Requimte\, Almada
+DESCRIPTION:https://forms.cloud.microsoft/e/qfD0RYFVJs
+URL:https://lykeion.pt/e/portas-abertas-banana-beterraba-camarao-e-cicatriz
+ acao-uma-l-109a6.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-vas-12fae-2026
+UID:programa-de-mentoria-da-nova-fct-7489c-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Programa de Mentoria da NOVA FCT
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/programa-de-ment
+ oria-da-nova-fct
+URL:https://lykeion.pt/e/programa-de-mentoria-da-nova-fct-7489c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mar-71c35-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T163000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Margarida
+  Lourenço Lopes
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-margarida-lourenco-lopes
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mar-71c35.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mar-8631d-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Mariana P
+ into Basto Morais
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-mariana-pinto-basto-morais
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mar-8631d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-vas-a36eb-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica do Licenciado Vasco Gui
  lherme Gomes O’Neill Pedrosa
@@ -378,11 +194,11 @@ LOCATION:Departamento de Física da NOVA FCT\, Almada
 DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
  -engenharia-biomedica-do-licenciado-vasco-guilherme-gomes-o-neill-pedrosa
 URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-do-lice
- nciado-vas-12fae.html
+ nciado-vas-a36eb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-engenharia-geologica-ceedd-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T143000
 SUMMARY:Provas de Mestrado em Engenharia Geológica
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -393,7 +209,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-geologica-ceedd.h
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-paleontologia-d8a97-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Provas de Mestrado em Paleontologia
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -404,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-642f9-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
  gro-Industrial
@@ -416,7 +232,7 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-de-producao-e-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-jean-gorges-d2e3d-2026-11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T143000
 SUMMARY:Provas de doutoramento: Jean Gorges
 LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
@@ -428,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-de-ana-rita-da-hortinha-paulino-provas-de-c7180-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T100000
 SUMMARY:Provas de mestrado de Ana Rita da Hortinha Paulino — Provas de Me
  strado em Tecnologias de Produção e Transformação Agroindustrial
@@ -438,9 +254,123 @@ URL:https://lykeion.pt/e/provas-de-mestrado-de-ana-rita-da-hortinha-paulino
  -provas-de-c7180.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-de-miguel-luis-reis-da-silva-moura-optimi-ea5b1-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T100000
+SUMMARY:Provas de mestrado de Miguel Luis Reis da Silva Moura — Optimisat
+ ion of Packaging Processes in Automotive Service Parts Logistics: A Case S
+ tudy
+LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
+DESCRIPTION:https://www.fct.unl.pt/noticias/provas-academicas
+URL:https://lykeion.pt/e/provas-de-mestrado-de-miguel-luis-reis-da-silva-mo
+ ura-optimi-ea5b1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:rede-14-torne-se-anfitria-o-abra-a-porta-a-um-estudante-da-n-72633-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Rede 1⁄4 - Torne-se anfitriã/o. Abra a porta a um estudante da N
+ OVA
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/04/rede-torne-se-an
+ fitriao-abra-porta-um-estudante-da-nova
+URL:https://lykeion.pt/e/rede-14-torne-se-anfitria-o-abra-a-porta-a-um-estu
+ dante-da-n-72633.html
+END:VEVENT
+BEGIN:VEVENT
+UID:semana-da-ciencia-e-da-tecnologia-5791c-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Semana da Ciência e da Tecnologia
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/10/semana-da-cienci
+ a-e-da-tecnologia
+URL:https://lykeion.pt/e/semana-da-ciencia-e-da-tecnologia-5791c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-perspectivas-do-direito-na-historia-047d6-2026-11-27@lagenda.
+ pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T120000
+SUMMARY:Seminário Perspectivas do Direito na História
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-19-de-ja
+ neiro-seminario-perspectivas-do-direito-na-historia
+URL:https://lykeion.pt/e/seminario-perspectivas-do-direito-na-historia-047d
+ 6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-de-historia-europeia-do-direito-e-justica-3d598-2026-11-27@la
+ genda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T120000
+SUMMARY:Seminário de História Europeia do Direito e Justiça
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-outubro-ate-16-de-de
+ zembro-seminario-de-historia-europeia-do-direito-e-justica
+URL:https://lykeion.pt/e/seminario-de-historia-europeia-do-direito-e-justic
+ a-3d598.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-lignin-multiphase-plastics-fundamentals-and-proces-9d4a1-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T113000
+SUMMARY:Seminário | «Lignin Multiphase Plastics: Fundamentals and Process
+ ing by Extrusion-based 3D Printing» | Prof. Marie-Pierre Laborie
+LOCATION:Departamento de Ciência dos Materiais da NOVA FCT\, Almada
+DESCRIPTION:https://www.dcm.fct.unl.pt/noticias/2026/09/seminario-lignin-mu
+ ltiphase-plastics-fundamentals-and-processing-extrusion-based-3d-printing-
+ prof-ma
+URL:https://lykeion.pt/e/seminario-lignin-multiphase-plastics-fundamentals-
+ and-proces-9d4a1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:toolkit-sobre-questoes-juridicas-protecao-de-dados-e-licenca-0b09f-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Toolkit sobre questões jurídicas\, proteção de dados e licença
+ s
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/toolkit-sobre-qu
+ estoes-juridicas-protecao-de-dados-e-licencas
+URL:https://lykeion.pt/e/toolkit-sobre-questoes-juridicas-protecao-de-dados
+ -e-licenca-0b09f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:trial-elsevier-knovel-e-engineering-village-patents-plus-11943-2026-11-
+ 27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Trial Elsevier: Knovel e Engineering Village + Patents Plus
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/trial-elsevier-k
+ novel-e-engineering-village-patents-plus
+URL:https://lykeion.pt/e/trial-elsevier-knovel-e-engineering-village-patent
+ s-plus-11943.html
+END:VEVENT
+BEGIN:VEVENT
+UID:trial-a-plataforma-jove-b7423-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Trial à plataforma JoVE
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/09/trial-plataforma
+ -jove
+URL:https://lykeion.pt/e/trial-a-plataforma-jove-b7423.html
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-ciencia-no-ovo-novos-caminhos-para-reduzir-o-uso-de-4db05-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:Workshop: Ciência no ovo - novos caminhos para reduzir o uso de an
  imais na investigação
@@ -450,8 +380,46 @@ URL:https://lykeion.pt/e/workshop-ciencia-no-ovo-novos-caminhos-para-reduzi
  r-o-uso-de-4db05.html
 END:VEVENT
 BEGIN:VEVENT
+UID:frank-hackathon-winter-2026-2c05c-2026-11-28@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T143000
+SUMMARY:FRANK Hackathon Winter 2026
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/frank-hackathon-
+ winter-2026
+URL:https://lykeion.pt/e/frank-hackathon-winter-2026-2c05c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-the-contribution-of-the-united-natio-1310c-2026
+ -11-28@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T120000
+SUMMARY:Seminário: English SPEED 'The contribution of the United Nations i
+ nternational Law Commission to the progressive development and codificatio
+ n of International Law'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/28-de-novembro-english-spe
+ ed-the-contribution-of-the-united-nations-international-law-commission-to-
+ the-progressive-development-and-codification-of-international-law
+URL:https://lykeion.pt/e/seminario-english-speed-the-contribution-of-the-un
+ ited-natio-1310c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sino-european-states-international-law-of-the-sea-symposium-e3a8b-2026-
+ 11-28@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T120000
+SUMMARY:Sino-European States International Law of the Sea Symposium
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/28-de-novembro-sino-europe
+ an-states-international-law-of-the-sea-symposium
+URL:https://lykeion.pt/e/sino-european-states-international-law-of-the-sea-
+ symposium-e3a8b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:visita-guiada-exposicao-mundo-visivel-bdaed-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T143000
 SUMMARY:Visita guiada Exposição Mundo visível
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -462,7 +430,7 @@ URL:https://lykeion.pt/e/visita-guiada-exposicao-mundo-visivel-bdaed.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tolerance-means-dialogue-site-thumbnail-c503d-2026-11-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T173000
 SUMMARY:Webinar tolerância significa diálogo
 LOCATION:NOVA School of Law
@@ -472,7 +440,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nova-math-at-semana-da-ciencia-e-tecnologia-2026-with-the-in-6765d-2026
  -11-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:NOVA Math at Semana da Ciência e Tecnologia 2026 with the initiati
  ve “Portugal à Prova
@@ -483,9 +451,44 @@ URL:https://lykeion.pt/e/nova-math-at-semana-da-ciencia-e-tecnologia-2026-w
  ith-the-in-6765d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-a-etica-na-prestacao-de-cuidados-de-saude-67088-2026-11-29@la
+ genda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T120000
+SUMMARY:Seminário: A Ética na Prestação de Cuidados de Saúde
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/29-de-novembro-a-etica-na-
+ prestacao-de-cuidados-de-saude
+URL:https://lykeion.pt/e/seminario-a-etica-na-prestacao-de-cuidados-de-saud
+ e-67088.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-deafness-as-difference-a0464-2026-11-29@lagenda
+ .pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T120000
+SUMMARY:Seminário: English SPEED 'Deafness as Difference'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/29-de-novembro-english-spe
+ ed-deafness-as-difference
+URL:https://lykeion.pt/e/seminario-english-speed-deafness-as-difference-a04
+ 64.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ii-congresso-luso-cabo-verdiano-de-direito-af6d6-2026-11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T120000
+SUMMARY:II Congresso Luso-Cabo-Verdiano de Direito
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/ii-congresso-luso-cabo-ver
+ diano-de-direito
+URL:https://lykeion.pt/e/ii-congresso-luso-cabo-verdiano-de-direito-af6d6.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 UID:6-00-pm-8-00-pm-liberalismo-no-seculo-xix-seminario-permanen-21c94-2026
  -11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T060000
 SUMMARY:Liberalismo no século XIX Seminário permanente 6:00 pm - 8:00 pm 
  Nova Fcsh\, Edifício C\, Auditório C1 \, Avenida de Berna\, 26C — 1069
@@ -496,9 +499,88 @@ URL:https://lykeion.pt/e/6-00-pm-8-00-pm-liberalismo-no-seculo-xix-seminari
  o-permanen-21c94.html
 END:VEVENT
 BEGIN:VEVENT
+UID:novafrica-research-seminar-leonardo-bursztyn-the-university-d9636-2026-
+ 11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T020000
+SUMMARY:NOVAFRICA Research Seminar: Leonardo Bursztyn\, The University of C
+ hicago Booth School of Business
+LOCATION:Centro NOVAFRICA\, Oeiras
+DESCRIPTION:https://novafrica.org/novafrica-research-seminar-leonardo-bursz
+ tyn-the-university-of-chicago-booth-school-of-business/
+URL:https://lykeion.pt/e/novafrica-research-seminar-leonardo-bursztyn-the-u
+ niversity-d9636.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-biomedica-da-l-c66c3-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T163000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Biomédica da Licenc
+ iada Lídia Felisbela Lopes Ribeiro
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-biomedica-da-licenciada-lidia-felisbela-lopes-rib
+ eiro
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-biom
+ edica-da-l-c66c3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-ele-df7ce-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Elena Rhe
+ ann Simões Furk
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-elena-rheann-simoes-furk
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-ele-df7ce.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-ema-5f88e-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Ema Cintr
+ a Duarte
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-ema-cintra-duarte
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-ema-5f88e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mat-534e2-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T100000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Matilde P
+ eralta Gonçalves
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-matilde-peralta-goncalves
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mat-534e2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-joa-f799b-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T090000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica do Licenciado João Gil
+  Barreiros Teles
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-do-licenciado-joao-gil-barreiros-teles
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-do-lice
+ nciado-joa-f799b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-de-catia-jose-domingues-das-neves-multi-o-a2d4f-2026
  -11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T100000
 SUMMARY:Provas de mestrado de Cátia José Domingues das Neves — Multi-om
  ics Approach to Understand Congenital Disorders of Glycosylation: From Mol
@@ -511,8 +593,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nova-data-revolucao-contra-revolucao-e-politica-popular-em-p-93124-2026
  -11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261130T123000
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T093000
 SUMMARY:Revolução\, contra-revolução e política popular em Portugal
 LOCATION:Instituto de História Contemporânea\, Alvalade
 DESCRIPTION:https://ihc.fcsh.unl.pt/agenda/
@@ -522,7 +604,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scopus-and-sciencedirect-getting-start-with-basic-searching-63029-2026-
  11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Scopus and ScienceDirect: Getting start with basic searching and AI
  -Powered discovery (Part 1)
@@ -536,7 +618,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-liberalismo-no-seculo-xix-a-ideologia-que-tudo-mud-63b29-2026
  -11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261130T180000
 SUMMARY:Seminário: Liberalismo no século XIX: a ideologia que tudo mudou?
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -546,8 +628,31 @@ URL:https://lykeion.pt/e/seminario-liberalismo-no-seculo-xix-a-ideologia-qu
  e-tudo-mud-63b29.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-um-olhar-sobre-a-administracao-da-justica-c9b6a-2026-11-30@la
+ genda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T120000
+SUMMARY:Seminário: Um olhar sobre a Administração da Justiça
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/um-olhar-sobre-a-administr
+ acao-da-justica
+URL:https://lykeion.pt/e/seminario-um-olhar-sobre-a-administracao-da-justic
+ a-c9b6a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:neste-natal-entre-em-jogo-com-a-nova-366d2-2026-12-01@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261201T093000
+SUMMARY:Neste Natal\, entre em jogo com a NOVA
+LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
+ mada
+DESCRIPTION:https://www.fct.unl.pt/noticias/agenda/2026/11/neste-natal-entr
+ e-em-jogo-com-nova
+URL:https://lykeion.pt/e/neste-natal-entre-em-jogo-com-a-nova-366d2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portugal-translation-news-102-482d2-2026-12-01@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261201T063000
 SUMMARY:Portugal Translation News 102
 LOCATION:Centre for English\, Translation\, and Anglo-Portuguese Studies
@@ -557,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scopus-and-sciencedirect-getting-start-with-basic-searching-63029-2026-
  12-01@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:Scopus and ScienceDirect: Getting start with basic searching and AI
  -Powered discovery (Part 1)
@@ -570,7 +675,7 @@ URL:https://lykeion.pt/e/scopus-and-sciencedirect-getting-start-with-basic-
 END:VEVENT
 BEGIN:VEVENT
 UID:1-o-encontro-poder-politica-e-ativismo-15a47-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T090000
 SUMMARY:1.º Encontro «Poder\, Política e Ativismo»
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -580,7 +685,7 @@ URL:https://lykeion.pt/e/1-o-encontro-poder-politica-e-ativismo-15a47.html
 END:VEVENT
 BEGIN:VEVENT
 UID:climinvest-workshop-5ea63-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:CLIMINVEST workshop
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -592,7 +697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eplab-conferencia-02-12-2026-o-sebastianismo-invertido-em-ma-8baee-2026
  -12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T143000
 SUMMARY:EPLab • Conferência 02/12/2026 O sebastianismo invertido em Macu
  naíma como forma... Evanildo Costeski (UFC)
@@ -605,7 +710,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:evanildo-costeski-sobre-o-sebastianismo-invertido-em-macunai-90772-2026
  -12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T143000
 SUMMARY:Evanildo Costeski sobre “O sebastianismo invertido em Macunaíma 
  como forma de ação política
@@ -616,9 +721,21 @@ URL:https://lykeion.pt/e/evanildo-costeski-sobre-o-sebastianismo-invertido-
  em-macunai-90772.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2-e-3-de-dezembro-ii-congresso-europeu-de-direito-do-trabalh-51365-2026
+ -12-02@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T120000
+SUMMARY:II Congresso Europeu de Direito do Trabalho
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-e-3-de-dezembro-ii-congr
+ esso-europeu-de-direito-do-trabalho
+URL:https://lykeion.pt/e/2-e-3-de-dezembro-ii-congresso-europeu-de-direito-
+ do-trabalh-51365.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mini-course-and-seminar-mathbios-thematic-line-professor-vin-0daf9-2026
  -12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T110000
 SUMMARY:Mini-Course and Seminar MatHBioS Thematic Line] Professor Vincent C
  alvez
@@ -630,7 +747,7 @@ URL:https://lykeion.pt/e/mini-course-and-seminar-mathbios-thematic-line-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-rodrigo-affonso-824be-2026-12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261202T151500
 SUMMARY:Provas de doutoramento: Rodrigo Affonso
 LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
@@ -642,7 +759,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nova-math-statistics-and-risk-management-seminar-d8568-2026-12-02@lagen
  da.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Statistics and Risk Management Seminar
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -655,7 +772,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:evanildo-costeski-no-seminario-permanente-de-ensino-de-filos-b2784-2026
  -12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T180000
 SUMMARY:Evanildo Costeski no Seminário Permanente de Ensino de Filosofia
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -665,19 +782,19 @@ URL:https://lykeion.pt/e/evanildo-costeski-no-seminario-permanente-de-ensin
  o-de-filos-b2784.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iem-conference-philippe-josserand-23d62-2026-12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261203T180000
-SUMMARY:IEM Conference: Philippe Josserand
-LOCATION:Instituto de Estudos Medievais
-DESCRIPTION:https://iem.fcsh.unl.pt/en/event/iem-conference-philippe-josser
- and/
-URL:https://lykeion.pt/e/iem-conference-philippe-josserand-23d62.html
+UID:programa-completo-pdf-cb3c3-2026-12-03@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Programa completo (📎 PDF)
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/wp-content/uploads/2026/11/2026-12-04_S
+ aoDomingos_web.pdf
+URL:https://lykeion.pt/e/programa-completo-pdf-cb3c3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-em-informatica-mestre-ana-rita-rebelo-230c7-2026
  -12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Provas de Doutoramento em Informática - Mestre Ana Rita Rebelo
 LOCATION:Departamento de Informática da NOVA FCT\, Almada
@@ -689,7 +806,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-em-tecnologias-de-producao-e-transformaca-fa92a-2026
  -12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T140000
 SUMMARY:Provas de Mestrado em Tecnologias de Produção e Transformação A
  groindustrial
@@ -702,7 +819,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-o-ideal-de-felicidade-intelectual-de-aristoteles-14f77-2026-1
  2-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T150000
 SUMMARY:Seminário: O ideal de felicidade intelectual de Aristóteles...
 LOCATION:Instituto de Filosofia da Nova
@@ -712,9 +829,23 @@ URL:https://lykeion.pt/e/seminario-o-ideal-de-felicidade-intelectual-de-ari
  stoteles-14f77.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-transcollective-or-social-memory-some-lessons-from-ca62f-2026
+ -12-03@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261203T120000
+SUMMARY:Seminário: Transcollective or social memory? Some lessons from the
+  sociological critique of J. Assmann’s theory of cultural memory
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/3-de-dezembro-transcollect
+ ive-or-social-memory-some-lessons-from-the-sociological-critique-of-j-assm
+ anns-theory-of-cultural-memory
+URL:https://lykeion.pt/e/seminario-transcollective-or-social-memory-some-le
+ ssons-from-ca62f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:26-ciclo-de-conferencias-sobre-condicoes-de-trabalho-9ad21-2026-12-04@l
  agenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:26 Ciclo De Conferências Sobre Condições De Trabalho
 LOCATION:Centro Interdisciplinar de Ciências Sociais
@@ -725,7 +856,7 @@ URL:https://lykeion.pt/e/26-ciclo-de-conferencias-sobre-condicoes-de-trabal
 END:VEVENT
 BEGIN:VEVENT
 UID:climinvest-workshop-a43e9-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:CLIMINVEST workshop
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -736,7 +867,7 @@ URL:https://lykeion.pt/e/climinvest-workshop-a43e9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:climinvest-workshop-lisbon-2026-428ae-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T083000
 SUMMARY:CLIMINVEST workshop - Lisbon 2026
 LOCATION:Universidade NOVA de Lisboa\, Campolide
@@ -746,7 +877,7 @@ URL:https://lykeion.pt/e/climinvest-workshop-lisbon-2026-428ae.html
 END:VEVENT
 BEGIN:VEVENT
 UID:experiment-room-d136-e109-2a457-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T100000
 SUMMARY:EXPERIMENT (room D136 & E109)
 LOCATION:Nova SBE\, Cascais
@@ -757,7 +888,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontro-comunicacao-estrategica-sustentabilidade-e-greenwas-3e89c-2026
  -12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T093000
 SUMMARY:Encontro: Comunicação Estratégica\, Sustentabilidade e Greenwash
  ing
@@ -768,9 +899,21 @@ URL:https://lykeion.pt/e/encontro-comunicacao-estrategica-sustentabilidade-
  e-greenwas-3e89c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:historia-da-ciencia-da-tecnologia-e-do-ambiente-bc430-2026-12-04@lagend
+ a.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:História da Ciência\, da Tecnologia e do Ambiente
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/grupos-investigacao/historia-ciencia-te
+ cnologia-ambiente/
+URL:https://lykeion.pt/e/historia-da-ciencia-da-tecnologia-e-do-ambiente-bc
+ 430.html
+END:VEVENT
+BEGIN:VEVENT
 UID:lancamento-do-livro-manter-a-peste-textos-reunidos-fea0e-2026-12-04@lag
  enda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T183000
 SUMMARY:Lançamento do livro: Manter a Peste – Textos Reunidos
 LOCATION:Instituto de Etnomusicologia - Centro de Estudos em Música e Dan
@@ -782,7 +925,7 @@ URL:https://lykeion.pt/e/lancamento-do-livro-manter-a-peste-textos-reunidos
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-1180c-vicarte-2026-dd590-2026-12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T180000
 SUMMARY:Open Day 1180°C | VICARTE 2026
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -794,7 +937,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-carlo-burelli-sobre-maquiavel-e-o-valor-realista-d-b976e-2026
  -12-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T100000
 SUMMARY:Seminário: Carlo Burelli sobre Maquiavel e o Valor Realista da Ver
  dade
@@ -807,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-verdade-efetual-e-falsidade-efetual-maquiavel-e-2940a-2026-12
  -04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261204T100000
 SUMMARY:Seminário: Verdade Efetual e Falsidade Efetual: Maquiavel e...
 LOCATION:Instituto de Filosofia da Nova
@@ -818,7 +961,7 @@ URL:https://lykeion.pt/e/seminario-verdade-efetual-e-falsidade-efetual-maqu
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-1180c-dd590-2026-12-05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261205T180000
 SUMMARY:Open Day 1180°C
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -830,7 +973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scopus-and-sciencedirect-advanced-searching-analysis-and-res-4b0b9-2026
  -12-05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261205
 SUMMARY:Scopus and ScienceDirect : Advanced searching\, analysis and result
  s management (Part 2)
@@ -842,9 +985,36 @@ URL:https://lykeion.pt/e/scopus-and-sciencedirect-advanced-searching-analys
  is-and-res-4b0b9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-english-speed-the-ombudsperson-as-keeper-of-the-ru-0c97f-2026
+ -12-05@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261205T120000
+SUMMARY:Seminário: English SPEED 'The Ombudsperson as keeper of the Rule o
+ f Law'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/5-de-dezembro-english-spee
+ d-the-ombudsperson-as-keeper-of-the-rule-of-law
+URL:https://lykeion.pt/e/seminario-english-speed-the-ombudsperson-as-keeper
+ -of-the-ru-0c97f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-cruzamentos-entre-a-formacao-academica-e-o-a-a43d9-2026
+ -12-05@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261205T120000
+SUMMARY:Seminário: SPEED 'Cruzamentos entre a formação académica e o ac
+ tivismo social - o caso do Observatório dos Direitos Humanos'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/5-de-dezembro-speed-cruzam
+ entos-entre-a-formacao-academica-e-o-activismo-social-o-caso-do-observator
+ io-dos-direitos-humanos
+URL:https://lykeion.pt/e/seminario-speed-cruzamentos-entre-a-formacao-acade
+ mica-e-o-a-a43d9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:whatnextlaw-annualevent-spacesfuture-site-thumbnail-21619-2026-12-06@la
  genda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261206T090000
 SUMMARY:Evento anual do whatnext Law spaces of the future
 LOCATION:NOVA School of Law
@@ -856,7 +1026,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:estudo-da-reabilitacao-de-fachada-de-edificio-de-escritorio-99c1b-2026-
  12-07@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261207T150000
 SUMMARY:Estudo da reabilitação de fachada de edifício de escritório com
   recurso a simulação numérica: Optimização de conforto e eficiência 
@@ -870,7 +1040,7 @@ URL:https://lykeion.pt/e/estudo-da-reabilitacao-de-fachada-de-edificio-de-e
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-doutoramento-de-rosario-martins-b14d9-2026-12-07@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261207T023000
 SUMMARY:Provas de Doutoramento de Rosário Martins
 LOCATION:Instituto de História Contemporânea
@@ -881,7 +1051,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:revista-interact-no-43-chamada-para-contributos-550a5-2026-12-07@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Revista Interact no 43 – Chamada para contributos
 LOCATION:Instituto de Comunicação da Nova
@@ -891,9 +1061,22 @@ URL:https://lykeion.pt/e/revista-interact-no-43-chamada-para-contributos-55
  0a5.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-70-o-aniversario-da-declaracao-universal-dos-direi-5ee4b-2026
+ -12-07@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261207T120000
+SUMMARY:Seminário: 70.º Aniversário da Declaração Universal dos Direit
+ os Humanos
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-dezembro-70-o-anivers
+ ario-da-declaracao-universal-dos-direitos-humanos
+URL:https://lykeion.pt/e/seminario-70-o-aniversario-da-declaracao-universal
+ -dos-direi-5ee4b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:scopus-and-sciencedirect-advanced-searching-analysis-and-res-4b0b9-2026
  -12-08@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261208
 SUMMARY:Scopus and ScienceDirect : Advanced searching\, analysis and result
  s management (Part 2)
@@ -907,7 +1090,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-comemorativa-dos-50-anos-do-departamento-e56e1-2026-12-08@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261208T090000
 SUMMARY:Sessão comemorativa dos 50 anos do Departamento
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -919,7 +1102,7 @@ URL:https://lykeion.pt/e/sessao-comemorativa-dos-50-anos-do-departamento-e5
 END:VEVENT
 BEGIN:VEVENT
 UID:cesem-annual-meeting-7eddd-2026-12-09@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:CESEM Annual Meeting
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -928,7 +1111,7 @@ URL:https://lykeion.pt/e/cesem-annual-meeting-7eddd.html
 END:VEVENT
 BEGIN:VEVENT
 UID:encontro-anual-do-cesem-72eb9-2026-12-09@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T110000
 SUMMARY:Encontro Anual do CESEM
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -938,7 +1121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encontros-nas-margens-do-possivel-um-grupo-de-discussao-de-f-1f07a-2026
  -12-09@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T183000
 SUMMARY:Encontros: Nas Margens do Possível: um grupo de discussão de fic
  ção científica e fabulações críticas e especulativas
@@ -952,7 +1135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:european-roundtable-for-sustainable-consumption-and-producti-b73cd-2026
  -12-09@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:European Roundtable for Sustainable Consumption and Production (ERS
  CP’2027)
@@ -964,8 +1147,17 @@ URL:https://lykeion.pt/e/european-roundtable-for-sustainable-consumption-an
  d-producti-b73cd.html
 END:VEVENT
 BEGIN:VEVENT
+UID:iii-conferencia-in-solvens-a54e2-2026-12-09@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261209T120000
+SUMMARY:III Conferência IN_SOLVENS
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/iii-conferencia-in_solvens
+URL:https://lykeion.pt/e/iii-conferencia-in-solvens-a54e2.html
+END:VEVENT
+BEGIN:VEVENT
 UID:site-webinar-insolvens-thumbnail-1-b01fe-2026-12-09@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T093000
 SUMMARY:III conferência do in SOLVENS
 LOCATION:NOVA School of Law
@@ -975,7 +1167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sessao-comemorativa-dos-50-anos-do-departamento-e56e1-2026-12-09@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T090000
 SUMMARY:Sessão comemorativa dos 50 anos do Departamento
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -986,21 +1178,35 @@ URL:https://lykeion.pt/e/sessao-comemorativa-dos-50-anos-do-departamento-e5
  6e1.html
 END:VEVENT
 BEGIN:VEVENT
-UID:site-agentes-da-mudanca-agentic-ai-e-o-futuro-das-decisoes-t-7a89d-2026
+UID:conferencia-archives-of-conflict-10-11-dez-programa-disponiv-5294d-2026
  -12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261210T134500
-SUMMARY:Agentes da mudança agentic ai e o futuro das decisões
-LOCATION:NOVA School of Law
-DESCRIPTION:https://novalaw.unl.pt/agentes-da-mudanca-agentic-ai-e-o-futuro
- -das-decisoes/
-URL:https://lykeion.pt/e/site-agentes-da-mudanca-agentic-ai-e-o-futuro-das-
- decisoes-t-7a89d.html
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Conferência | Archives of Conflict | 10-11 dez. Programa disponív
+ el
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/conferencia-archives-of-c
+ onflict-10-11-dez-programa-disponivel/
+URL:https://lykeion.pt/e/conferencia-archives-of-conflict-10-11-dez-program
+ a-disponiv-5294d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-archives-of-conflitct-photography-between-vernac-b274d-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Conferência | Archives of Conflitct. Photography between vernacula
+ r and institutional practices
+LOCATION:Instituto de Historia da Arte
+DESCRIPTION:https://institutodehistoriadaarte.com/event/conferencia-archive
+ s-of-conflitct-photography-between-vernacular-and-institutional-practices/
+URL:https://lykeion.pt/e/conferencia-archives-of-conflitct-photography-betw
+ een-vernac-b274d.html
 END:VEVENT
 BEGIN:VEVENT
 UID:european-roundtable-for-sustainable-consumption-and-producti-b73cd-2026
  -12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:European Roundtable for Sustainable Consumption and Production (ERS
  CP’2027)
@@ -1013,7 +1219,7 @@ URL:https://lykeion.pt/e/european-roundtable-for-sustainable-consumption-an
 END:VEVENT
 BEGIN:VEVENT
 UID:hitech-2027-information-session-at-nova-fct-6e837-2026-12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T143000
 SUMMARY:HiTech 2027 | Information Session at NOVA FCT
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -1023,22 +1229,22 @@ URL:https://lykeion.pt/e/hitech-2027-information-session-at-nova-fct-6e837.
  html
 END:VEVENT
 BEGIN:VEVENT
-UID:investigar-na-idade-media-o-lugar-dos-estudos-medievais-num-a4614-2026-
- 12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261210
-SUMMARY:Investigar na Idade Média – O lugar dos Estudos Medievais num Ec
- ossistema hostil
-LOCATION:Instituto de Estudos Medievais
-DESCRIPTION:https://iem.fcsh.unl.pt/evento/investigar-na-idade-media-o-luga
- r-dos-estudos-medievais-num-ecosistema-hostil/
-URL:https://lykeion.pt/e/investigar-na-idade-media-o-lugar-dos-estudos-medi
- evais-num-a4614.html
+UID:12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-2-00-pm-no-be67d-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T123000
+SUMMARY:Inquietações Apetitosas 12:30 pm - 2:00 pm Nova Fcsh\, Colégio A
+ lmada Negreiros\, Copa \, Campus de Campolide da NOVA — 1099-085 Lisboa 
+ Tipologia do Evento: Outros
+LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/inquietacoes-apetitosas-02/
+URL:https://lykeion.pt/e/12-30-pm-2-00-pm-inquietacoes-apetitosas-12-30-pm-
+ 2-00-pm-no-be67d.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-doutoramento-em-saude-internacional-janet-dula-mar-948df-2026
+UID:provas-de-doutoramento-em-saude-internacional-janet-dula-mar-5d9bc-2026
  -12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Provas de Doutoramento em Saúde Internacional • Janet Dulá Mart
  ins
@@ -1046,11 +1252,24 @@ LOCATION:Instituto de Higiene e Medicina Tropical
 DESCRIPTION:https://www.ihmt.unl.pt/events/provas-de-doutoramento-em-saude-
  internacional-janet-dula-martins/
 URL:https://lykeion.pt/e/provas-de-doutoramento-em-saude-internacional-jane
- t-dula-mar-948df.html
+ t-dula-mar-5d9bc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-agentes-da-mudanca-agentic-ai-e-o-futuro-das-decis-8066e-2026
+ -12-10@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261210T120000
+SUMMARY:Seminário: Agentes da Mudança – Agentic AI e o Futuro das Decis
+ ões
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/agentes-da-mudanca-agentic
+ -ai-e-o-futuro-das-decisoes
+URL:https://lykeion.pt/e/seminario-agentes-da-mudanca-agentic-ai-e-o-futuro
+ -das-decis-8066e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-ressurreicao-de-lev-tolstoi-8ecd3-2026-12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T140000
 SUMMARY:Seminário: Ressurreição\, de Lev Tolstoi
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -1059,7 +1278,7 @@ URL:https://lykeion.pt/e/seminario-ressurreicao-de-lev-tolstoi-8ecd3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seminario-vinho-velho-em-barris-novos-bef1f-2026-12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T103000
 SUMMARY:Seminário: Vinho velho em barris novos?
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -1069,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xiv-encontro-de-instituicoes-e-unidades-de-elearning-do-ensi-0df71-2026
  -12-10@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:XIV Encontro de Instituições e Unidades de eLearning do Ensino Su
  perior
@@ -1083,7 +1302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:in-solvens-per-e-peap-passado-presente-e-futuro-b1316-2026-12-10@lagend
  a.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T090000
 SUMMARY:«IN_SOLVENS: PER e PEAP – Passado\, presente e futuro»
 LOCATION:NOVA School of Law
@@ -1094,7 +1313,7 @@ URL:https://lykeion.pt/e/in-solvens-per-e-peap-passado-presente-e-futuro-b1
 END:VEVENT
 BEGIN:VEVENT
 UID:agrifood-open-day-10c94-2026-12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Agrifood Open Day
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -1106,7 +1325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arglab-coloquio-11-12-2026-arglab-research-colloquium-fabriz-d135a-2026
  -12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T110000
 SUMMARY:ArgLab • Colóquio 11/12/2026 ArgLab Research Colloquium Fabrizio
   Macagno sobre “Rhetorical questions and the... ArgLab Research Colloqui
@@ -1118,9 +1337,22 @@ URL:https://lykeion.pt/e/arglab-coloquio-11-12-2026-arglab-research-colloqu
  ium-fabriz-d135a.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-2026-dialogos-luso-brasileiros-sobre-processo-ci-486a6-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T120000
+SUMMARY:Conferência 2026 Diálogos Luso-Brasileiros sobre Processo Civil 1
+ 0:00 – 16:30 Sala 7 - NOVA School of Law
+LOCATION:NOVA School of Law
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/conferencia-diálogos-luso
+ -brasileiros-sobre-processo-civil
+URL:https://lykeion.pt/e/conferencia-2026-dialogos-luso-brasileiros-sobre-p
+ rocesso-ci-486a6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:dialogos-luso-brasileiros-sobre-processo-civil-banners-thumb-09ea5-2026
  -12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T102000
 SUMMARY:Diálogos luso brasileiros sobre processo civil
 LOCATION:NOVA School of Law
@@ -1131,7 +1363,7 @@ URL:https://lykeion.pt/e/dialogos-luso-brasileiros-sobre-processo-civil-ban
 END:VEVENT
 BEGIN:VEVENT
 UID:portugal-crypto-day-2026-06324-2026-12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Portugal Crypto Day 2026
 LOCATION:Laboratório para a Ciência da Computação e Informática\, Alma
@@ -1142,7 +1374,7 @@ URL:https://lykeion.pt/e/portugal-crypto-day-2026-06324.html
 END:VEVENT
 BEGIN:VEVENT
 UID:redesign-f0994-2026-12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T110000
 SUMMARY:Redesign
 LOCATION:Nova SBE\, Cascais
@@ -1152,7 +1384,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-energias-sonoras-o-impacto-das-transicoes-energeti-35018-2026
  -12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261211T140000
 SUMMARY:Seminário: Energias Sonoras. O impacto das transições energétic
  as nos instrumentos tradicionais de sopro do Sul de Itália
@@ -1165,9 +1397,21 @@ URL:https://lykeion.pt/e/seminario-energias-sonoras-o-impacto-das-transicoe
  s-energeti-35018.html
 END:VEVENT
 BEGIN:VEVENT
+UID:11-a-12-de-dezembro-v-congresso-do-direito-de-lingua-portugu-5b184-2026
+ -12-11@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261211T120000
+SUMMARY:V Congresso do Direito de Língua Portuguesa
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/11-a-12-de-dezembro-v-cong
+ resso-do-direito-de-lingua-portuguesa
+URL:https://lykeion.pt/e/11-a-12-de-dezembro-v-congresso-do-direito-de-ling
+ ua-portugu-5b184.html
+END:VEVENT
+BEGIN:VEVENT
 UID:xiv-encontro-de-instituicoes-e-unidades-de-elearning-do-ensi-0df71-2026
  -12-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:XIV Encontro de Instituições e Unidades de eLearning do Ensino Su
  perior
@@ -1179,9 +1423,21 @@ URL:https://lykeion.pt/e/xiv-encontro-de-instituicoes-e-unidades-de-elearni
  ng-do-ensi-0df71.html
 END:VEVENT
 BEGIN:VEVENT
+UID:12-e-13-de-dezembro-congresso-cientifico-internacional-50-an-bc754-2026
+ -12-12@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T120000
+SUMMARY:Congresso Científico Internacional 50 anos do código civil
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/12-e-13-de-dezembro-congre
+ sso-cientifico-internacional-50-anos-do-codigo-civil
+URL:https://lykeion.pt/e/12-e-13-de-dezembro-congresso-cientifico-internaci
+ onal-50-an-bc754.html
+END:VEVENT
+BEGIN:VEVENT
 UID:parece-impossivel-12-dez-2026-exposicao-lancamento-livro-dis-7d3a3-2026
  -12-12@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261212
 SUMMARY:Parece Impossível 12 Dez\, 2026 Exposição Lançamento livro/disc
  o ED
@@ -1192,9 +1448,50 @@ URL:https://lykeion.pt/e/parece-impossivel-12-dez-2026-exposicao-lancamento
  -livro-dis-7d3a3.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-english-speed-other-people-s-voices-convicts-in-in-28dc1-2026
+ -12-12@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T120000
+SUMMARY:Seminário: English SPEED 'Other people's voices: convicts in India
+  (Goa\, 18th-19th centuries)'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/12-de-dezembro-english-spe
+ ed-other-peoples-voices-convicts-in-india-goa-18th-19th-centuries
+URL:https://lykeion.pt/e/seminario-english-speed-other-people-s-voices-conv
+ icts-in-in-28dc1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-ambush-marketing-perspetivas-de-marketing-comunica-e0b8e-2026
+ -12-13@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261213T120000
+SUMMARY:Seminário: Ambush Marketing - Perspetivas de Marketing & Comunica
+ ção\, Desporto e Direito
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/13-de-dezembro-ambush-mark
+ eting-perspetivas-de-marketing-comunicacao-desporto-e-direito
+URL:https://lykeion.pt/e/seminario-ambush-marketing-perspetivas-de-marketin
+ g-comunica-e0b8e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-victim-participation-and-reparation-693a7-2026-
+ 12-13@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261213T120000
+SUMMARY:Seminário: English SPEED 'Victim participation and reparation befo
+ re the Extraordinary Chambers in the Courts of Cambodia (ECCC): aspiration
+ s\, outcomes and challenges'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/13-de-dezembro-english-spe
+ ed-victim-participation-and-reparation-before-the-extraordinary-chambers-i
+ n-the-courts-of-cambodia-eccc-aspirations-outcomes-and-challenges
+URL:https://lykeion.pt/e/seminario-english-speed-victim-participation-and-r
+ eparation-693a7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:75-anos-da-declaracao-universal-dos-direitos-humanos-19adb-2026-12-14@l
  agenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T100000
 SUMMARY:75 anos da Declaração Universal dos Direitos Humanos
 LOCATION:NOVA School of Law
@@ -1206,7 +1503,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mesa-redonda-pensar-entre-filosofia-e-literatura-052f3-2026-12-14@lagen
  da.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261214T140000
 SUMMARY:Mesa Redonda: Pensar entre: filosofia e literatura
 LOCATION:NOVA FCSH – Faculdade de Ciências Sociais e Humanas
@@ -1216,21 +1513,32 @@ URL:https://lykeion.pt/e/mesa-redonda-pensar-entre-filosofia-e-literatura-0
  52f3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seminario-de-estudos-medievais-tiago-viula-faria-d2fc0-2026-12-15@lagen
- da.pt
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Lisbon:20261215T160000
-SUMMARY:Seminário de Estudos Medievais | Tiago Viúla Faria
-LOCATION:Instituto de Estudos Medievais
-DESCRIPTION:https://iem.fcsh.unl.pt/evento/seminario-de-estudos-medievais-t
- iago-viula-faria/
-URL:https://lykeion.pt/e/seminario-de-estudos-medievais-tiago-viula-faria-d
- 2fc0.html
+UID:15-e-16-de-dezembro-coloquio-internacional-tradicoes-juridic-98a3d-2026
+ -12-15@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261215T120000
+SUMMARY:Colóquio Internacional «Tradições Jurídicas Católicas na Euro
+ pa e América (sécs. XVIII e XIX)»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/15-e-16-de-dezembro-coloqu
+ io-internacional-tradicoes-juridicas-catolicas-na-europa-e-america-secs-xv
+ iii-e-xix
+URL:https://lykeion.pt/e/15-e-16-de-dezembro-coloquio-internacional-tradico
+ es-juridic-98a3d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nova-winter-school-in-epistemology-fc8a6-2026-12-16@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261216T110000
+SUMMARY:NOVA Winter School in Epistemology
+LOCATION:Instituto de Filosofia da Nova
+DESCRIPTION:http://ifilnova.pt/eventos/nova-winter-school-in-epistemology/
+URL:https://lykeion.pt/e/nova-winter-school-in-epistemology-fc8a6.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2nd-lisbon-conference-on-intergenerational-justice-85e7b-2026-12-17@lag
  enda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T093000
 SUMMARY:2nd Lisbon Conference on Intergenerational Justice
 LOCATION:Instituto de Filosofia da Nova
@@ -1241,7 +1549,7 @@ URL:https://lykeion.pt/e/2nd-lisbon-conference-on-intergenerational-justice
 END:VEVENT
 BEGIN:VEVENT
 UID:provas-de-mestrado-dezembro-404bf-2026-12-17@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261217T120000
 SUMMARY:Provas de Mestrado – dezembro
 LOCATION:Escola Nacional de Saúde Pública
@@ -1249,9 +1557,20 @@ DESCRIPTION:https://www.ensp.unl.pt/evento/provas-de-mestrado-dezembro-3/
 URL:https://lykeion.pt/e/provas-de-mestrado-dezembro-404bf.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lancamento-do-livro-memorial-de-ministros-f5acc-2026-12-18@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261218T120000
+SUMMARY:Lançamento do livro 'Memorial de Ministros'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/18-de-dezembro-lancamento-
+ do-livro-memorial-de-ministros
+URL:https://lykeion.pt/e/lancamento-do-livro-memorial-de-ministros-f5acc.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-mestrado-em-tecnologias-em-agricultura-de-precisao-3a0cc-2026
  -12-18@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261218T140000
 SUMMARY:Provas de Mestrado em Tecnologias em Agricultura de Precisão
 LOCATION:NOVA FCT – Faculdade de Ciências e Tecnologia\, Almada
@@ -1261,8 +1580,19 @@ URL:https://lykeion.pt/e/provas-de-mestrado-em-tecnologias-em-agricultura-d
  e-precisao-3a0cc.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-estes-sao-os-votos-da-equipa-do-cedis-e6fcd-2026-12-21@lagend
+ a.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261221T120000
+SUMMARY:Seminário: Estes são os votos da equipa do CEDIS
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/boasfestas
+URL:https://lykeion.pt/e/seminario-estes-sao-os-votos-da-equipa-do-cedis-e6
+ fcd.html
+END:VEVENT
+BEGIN:VEVENT
 UID:open-data-academy-challenge-0727e-2026-12-31@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Open Data Academy Challenge
 LOCATION:Centro de Engenharia Mecânica e Sustentabilidade de Recursos\, Al
@@ -1273,7 +1603,7 @@ URL:https://lykeion.pt/e/open-data-academy-challenge-0727e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:magic-monthly-meetings-ines-veiga-f3e9f-2027-01-08@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270108
 SUMMARY:MagIC Monthly Meetings: Inês Veiga
 LOCATION:MagIC Research Center
@@ -1284,7 +1614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminars-preventing-zoonotic-spillover-outcomes-of-a-literac-f3e9f-2027
  -01-08@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270108
 SUMMARY:Seminars: Preventing zoonotic spillover: outcomes of a literacy int
  ervention in rural Thailand
@@ -1295,8 +1625,72 @@ URL:https://lykeion.pt/e/seminars-preventing-zoonotic-spillover-outcomes-of
  -a-literac-f3e9f.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-speed-el-caso-uber-y-la-adaptacion-de-las-legislac-3aaca-2027
+ -01-10@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270110T120000
+SUMMARY:Seminário: SPEED 'El caso Uber y la adaptación de las legislacion
+ es nacionales a la sentencia del Tribunal de Justicia de la Unión Europea
+  de 20 de Diciembre de 2017: La oportunidad legislativa portuguesa'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/10-de-janeiro-speed-el-cas
+ o-uber-y-la-adaptacion-de-las-legislaciones-nacionales-a-la-sentencia-del-
+ tribunal-de-justicia-de-la-union-europea-de-20-de-diciembre-de-2017-la-opo
+ rtunidad-legislativa-p
+URL:https://lykeion.pt/e/seminario-speed-el-caso-uber-y-la-adaptacion-de-la
+ s-legislac-3aaca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-boletim-n-o-7-e-do-site-do-observatorio-da-leg-03609-2027
+ -01-11@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270111T120000
+SUMMARY:Lançamento do Boletim n.o 7 e do Site do Observatório da Legisla
+ ção Portuguesa
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/11-de-janeiro-lancamento-d
+ o-boletim-n-o-7-e-do-site-do-observatorio-da-legislacao-portuguesa
+URL:https://lykeion.pt/e/lancamento-do-boletim-n-o-7-e-do-site-do-observato
+ rio-da-leg-03609.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-ciclo-etica-e-justica-bcb1d-2027-01-13@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270113T120000
+SUMMARY:Seminário: Ciclo Ética e Justiça
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/ciclo-etica-e-justica
+URL:https://lykeion.pt/e/seminario-ciclo-etica-e-justica-bcb1d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-o-novo-codigo-do-processo-civil-e-o-processo-do-abd7f-2027-
+ 01-16@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270116T120000
+SUMMARY:Conferência «O Novo Código do Processo Civil e o Processo do Tra
+ balho»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/conferencia-o-novo-codigo-
+ do-processo-civil-e-o-processo-do-trabalho
+URL:https://lykeion.pt/e/conferencia-o-novo-codigo-do-processo-civil-e-o-pr
+ ocesso-do-abd7f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:22-e-23-de-janeiro-iii-congresso-lusobrasileiro-sobre-aliena-dbf7c-2027
+ -01-22@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270122T120000
+SUMMARY:III Congresso Lusobrasileiro sobre Alienação Parental - Ressignif
+ icar conflitos
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/22-e-23-de-janeiro-iii-con
+ gresso-lusobrasileiro-sobre-alienacao-parental-ressignificar-conflitos
+URL:https://lykeion.pt/e/22-e-23-de-janeiro-iii-congresso-lusobrasileiro-so
+ bre-aliena-dbf7c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:iv-congresso-karl-marx-51ec1-2027-01-22@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270122
 SUMMARY:IV Congresso Karl Marx
 LOCATION:Instituto de História Contemporânea
@@ -1304,9 +1698,72 @@ DESCRIPTION:https://ihc.fcsh.unl.pt/events/karl-marx-2027/
 URL:https://lykeion.pt/e/iv-congresso-karl-marx-51ec1.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-speed-a-protecao-do-consumidor-em-contratos-digita-46533-2027
+ -01-23@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270123T120000
+SUMMARY:Seminário: SPEED 'A proteção do consumidor em contratos digitais
+ '
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/23-de-janeiro-speed-a-prot
+ ecao-do-consumidor-em-contratos-digitais
+URL:https://lykeion.pt/e/seminario-speed-a-protecao-do-consumidor-em-contra
+ tos-digita-46533.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-tradicion-poder-y-consentimiento-sistema-juridico-977a4-2027-
+ 01-24@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270124T120000
+SUMMARY:Seminário: Tradición\, poder y consentimiento. Sistema jurídico 
+ y propiedad de la tierra en la frontera chilena (1790-1850)
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/24-de-janeiro-tradicion-po
+ der-y-consentimiento-sistema-juridico-y-propiedad-de-la-tierra-en-la-front
+ era-chilena-1790-1850
+URL:https://lykeion.pt/e/seminario-tradicion-poder-y-consentimiento-sistema
+ -juridico-977a4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:curso-breve-revisao-do-codigo-de-procedimento-administrativo-b90dc-2027
+ -01-26@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270126T120000
+SUMMARY:Curso Breve «Revisão do Código de Procedimento Administrativo»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/curso-breve-revisao-do-cod
+ igo-de-procedimento-administrativo
+URL:https://lykeion.pt/e/curso-breve-revisao-do-codigo-de-procedimento-admi
+ nistrativo-b90dc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:convite-para-o-lancamento-do-livro-o-contrato-de-volume-e-o-631c1-2027-
+ 01-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270127T120000
+SUMMARY:Convite para o lançamento do livro 'O contrato de Volume e o Trans
+ porte Marítimo de Mercadorias – Dos granéis aos contentores\, do ‘tr
+ amping’ às linhas regulares'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-janeiro-convite-para
+ -o-lancamento-do-livro-o-contrato-de-volume-e-o-transporte-maritimo-de-mer
+ cadorias-dos-graneis-aos-contentores-do-tramping-as-linhas-regulares
+URL:https://lykeion.pt/e/convite-para-o-lancamento-do-livro-o-contrato-de-v
+ olume-e-o-631c1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:infrastructuring-the-global-commons-4250a-2027-01-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270127
+SUMMARY:Infrastructuring the Global Commons
+LOCATION:Instituto de História Contemporânea
+DESCRIPTION:https://ihc.fcsh.unl.pt/events/infrastructuring-global-commons/
+URL:https://lykeion.pt/e/infrastructuring-the-global-commons-4250a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oeiras-experimenta-distinguido-com-mencao-honrosa-no-premio-7ad27-2027-
  01-28@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270128
 SUMMARY:Oeiras Experimenta distinguido com Menção Honrosa no Prémio Euro
  peu de Ciência Cidadã
@@ -1319,7 +1776,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:saara-ocidental-na-ordem-juridica-internacional-50-anos-apos-47d07-2027
  -01-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270130T090000
 SUMMARY:Saara Ocidental na Ordem Jurídica Internacional – 50 anos após 
  o Parecer Consultivo do TIJ
@@ -1330,8 +1787,49 @@ URL:https://lykeion.pt/e/saara-ocidental-na-ordem-juridica-internacional-50
  -anos-apos-47d07.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-speed-o-ativismo-judicial-e-a-reserva-do-possivel-d55d1-2027-
+ 02-07@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270207T120000
+SUMMARY:Seminário: SPEED 'O ativismo judicial e a reserva do possível na 
+ Saúde Pública Brasileira: impactos negativos da concretização de direi
+ tos em detrimento do orçamento dos Estados'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-fevereiro-speed-o-ati
+ vismo-judicial-e-a-reserva-do-possivel-na-saude-publica-brasileira-impacto
+ s-negativos-da-concretizacao-de-direitos-em-detrimento-do-orcamento-dos-es
+ tados
+URL:https://lykeion.pt/e/seminario-speed-o-ativismo-judicial-e-a-reserva-do
+ -possivel-d55d1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-compliance-e-sustentabilidade-uma-perspetiva-luso-a6402-2027-
+ 02-08@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270208T120000
+SUMMARY:Seminário: Compliance e Sustentabilidade - uma perspetiva luso-bra
+ sileira
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/8-de-fevereiro-compliance-
+ e-sustentabilidade-uma-perspetiva-luso-brasileira
+URL:https://lykeion.pt/e/seminario-compliance-e-sustentabilidade-uma-perspe
+ tiva-luso-a6402.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-o-novo-codigo-de-procedimento-administrativo-f4b96-2027-02-09
+ @lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270209T120000
+SUMMARY:Seminário: O Novo Código de Procedimento Administrativo
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/o-novo-codigo-de-procedime
+ nto-administrativo
+URL:https://lykeion.pt/e/seminario-o-novo-codigo-de-procedimento-administra
+ tivo-f4b96.html
+END:VEVENT
+BEGIN:VEVENT
 UID:https-www-cetaps-com-events-dickens-150-1bdb5-2027-02-14@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270214
 SUMMARY:Conferência e palestra · Centre for English\, Translation\, and A
  nglo-Portuguese Studies
@@ -1340,9 +1838,95 @@ DESCRIPTION:https://www.cetaps.com/events/dickens-150/
 URL:https://lykeion.pt/e/https-www-cetaps-com-events-dickens-150-1bdb5.html
 END:VEVENT
 BEGIN:VEVENT
+UID:i-encontro-luso-brasileiro-de-direito-de-familia-5d753-2027-02-15@lagen
+ da.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270215T120000
+SUMMARY:I Encontro Luso-Brasileiro de Direito de Família
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/i-encontro-luso-brasileiro
+ -de-direito-de-familia
+URL:https://lykeion.pt/e/i-encontro-luso-brasileiro-de-direito-de-familia-5
+ d753.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-15-16-de-fevereiro-the-global-legacy-of-truth-comm-0681f-2027
+ -02-15@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270215T120000
+SUMMARY:Seminário: 15-16 de fevereiro: The Global Legacy of Truth Commissi
+ ons
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/15-16-de-fevereiro-the-glo
+ bal-legacy-of-truth-commissions
+URL:https://lykeion.pt/e/seminario-15-16-de-fevereiro-the-global-legacy-of-
+ truth-comm-0681f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-sessao-de-apresentacao-do-nova-financial-markets-0457b-2027-0
+ 2-19@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270219T120000
+SUMMARY:Seminário: Sessão de Apresentação do NOVA Financial Markets
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/sessao-de-apresentacao-do-
+ centro-de-conhecimento-nova-financial-markets
+URL:https://lykeion.pt/e/seminario-sessao-de-apresentacao-do-nova-financial
+ -markets-0457b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-18h30-speed-consumer-lab-nova-direito-2c08d-2027-02-20@lagend
+ a.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270220T120000
+SUMMARY:Seminário: 18h30: SPEED «Consumer Lab / NOVA Direito»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/20-de-fevereiro-18h30-spee
+ d-consumer-lab-nova-direito
+URL:https://lykeion.pt/e/seminario-18h30-speed-consumer-lab-nova-direito-2c
+ 08d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-legal-duties-rights-and-liberties-74932-2027-02
+ -20@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270220T120000
+SUMMARY:Seminário: English SPEED “Legal Duties\, Rights and Liberties
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/20-de-fevereiro-english-sp
+ eed-legal-duties-rights-and-liberties
+URL:https://lykeion.pt/e/seminario-english-speed-legal-duties-rights-and-li
+ berties-74932.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-what-is-it-to-apply-the-law-4a092-2027-02-21@la
+ genda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270221T120000
+SUMMARY:Seminário: English SPEED 'What is it to apply the law?'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/21-de-fevereiro-english-sp
+ eed-what-is-it-to-apply-the-law
+URL:https://lykeion.pt/e/seminario-english-speed-what-is-it-to-apply-the-la
+ w-4a092.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-a-escolha-do-direito-aplicavel-no-regulament-b95f4-2027
+ -02-21@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270221T120000
+SUMMARY:Seminário: SPEED 'A escolha do Direito aplicável no Regulamento E
+ uropeu em matéria sucessória'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/21-de-fevereiro-speed-a-es
+ colha-do-direito-aplicavel-no-regulamento-europeu-em-materia-sucessoria
+URL:https://lykeion.pt/e/seminario-speed-a-escolha-do-direito-aplicavel-no-
+ regulament-b95f4.html
+END:VEVENT
+BEGIN:VEVENT
 UID:aula-aberta-escassez-agua-portugal-site-thumbnail-85cfd-2027-02-23@lage
  nda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270223T150000
 SUMMARY:Escassez de água em Portugal e o direito
 LOCATION:NOVA School of Law
@@ -1354,7 +1938,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:new-perspectives-on-soft-power-and-cultural-diplomacy-5379e-2027-02-24@
  lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270224
 SUMMARY:New Perspectives on Soft Power and Cultural Diplomacy
 LOCATION:Instituto de História Contemporânea\, Alvalade
@@ -1365,7 +1949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conf-livrobrancodiscrimin-multipla-interseccional-thumbnail-d2171-2027-
  02-26@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270226T141500
 SUMMARY:Conferência final do projeto multiversidade
 LOCATION:NOVA School of Law
@@ -1375,9 +1959,79 @@ URL:https://lykeion.pt/e/conf-livrobrancodiscrimin-multipla-interseccional-
  thumbnail-d2171.html
 END:VEVENT
 BEGIN:VEVENT
+UID:workshop-em-direito-fiscal-em-que-medida-os-principios-per-s-bacbf-2027
+ -02-26@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270226T120000
+SUMMARY:Workshop em Direito Fiscal: Em que medida os princípios per si sã
+ o possíveis de fundamentar a decisão jurisprudencial tributária?
+LOCATION:NOVA School of Law
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/workshop-em-direito-fiscal
+ -em-que-medida-os-principios-per-si-sao-possiveis-de-fundamentar-a-decisao
+ -jurisprudencial-tributaria
+URL:https://lykeion.pt/e/workshop-em-direito-fiscal-em-que-medida-os-princi
+ pios-per-s-bacbf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-14h30-english-speed-norberto-bobbio-s-democratic-t-e5116-2027
+ -02-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270227T120000
+SUMMARY:Seminário: 14h30: English SPEED «Norberto Bobbio's Democratic The
+ ory and the European Union»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-fevereiro-14h30-engl
+ ish-speed-norberto-bobbios-democratic-theory-and-the-european-union
+URL:https://lykeion.pt/e/seminario-14h30-english-speed-norberto-bobbio-s-de
+ mocratic-t-e5116.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-o-artigo-47-o-da-cdfue-na-jurisprudencia-do-00938-2027-
+ 02-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270227T120000
+SUMMARY:Seminário: SPEED «O artigo 47.º da CDFUE na Jurisprudência do T
+ JUE em Matéria Tributária»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-fevereiro-18h30-spee
+ d-o-artigo-47-o-da-cdfue-na-jurisprudencia-do-tjue-em-materia-tributaria
+URL:https://lykeion.pt/e/seminario-speed-o-artigo-47-o-da-cdfue-na-jurispru
+ dencia-do-00938.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-current-international-space-law-issu-eba3a-2027
+ -02-28@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270228T120000
+SUMMARY:Seminário: English SPEED Current International Space Law Issues an
+ d the Principle of Non-Appropriation
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/28-de-fevereiro-english-sp
+ eed-current-international-space-law-issues-and-the-principle-of-non-approp
+ riation
+URL:https://lykeion.pt/e/seminario-english-speed-current-international-spac
+ e-law-issu-eba3a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-a-obrigacao-judicial-de-explicitacao-das-vin-bc348-2027
+ -02-28@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270228T120000
+SUMMARY:Seminário: SPEED 'A obrigação judicial de explicitação das vin
+ culações legais imposta pelos artigos 71.o\, n.o 2 e 95.o\, n.o 5\, do C
+ ódigo de Processo nos Tribunais Administrativos'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/28-de-fevereiro-speed-a-ob
+ rigacao-judicial-de-explicitacao-das-vinculacoes-legais-imposta-pelos-arti
+ gos-71-o-n-o-2-e-95-o-n-o-5-do-codigo-de-processo-nos-tribunais-administra
+ tivos
+URL:https://lykeion.pt/e/seminario-speed-a-obrigacao-judicial-de-explicitac
+ ao-das-vin-bc348.html
+END:VEVENT
+BEGIN:VEVENT
 UID:direitos-humanos-das-mulheres-uma-perspetiva-interseccional-5fe31-2027-
  03-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270304T143000
 SUMMARY:Direitos Humanos das Mulheres: uma perspetiva interseccional e anti
  -colonial
@@ -1388,8 +2042,186 @@ URL:https://lykeion.pt/e/direitos-humanos-das-mulheres-uma-perspetiva-inter
  seccional-5fe31.html
 END:VEVENT
 BEGIN:VEVENT
+UID:aula-aberta-do-9f910-2027-03-07@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270307T120000
+SUMMARY:Aula aberta do conceito de lusofonia
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-marco-aula-aberta-do-
+ conceito-de-lusofonia
+URL:https://lykeion.pt/e/aula-aberta-do-9f910.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-7-e-8-de-marco-igualdade-de-genero-e-mobilidade-de-6753f-2027
+ -03-07@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270307T120000
+SUMMARY:Seminário: 7 e 8 de Março: Igualdade de Género e Mobilidade - De
+ safios e Oportunidades para o Desenvolvimento na Lusofonia
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-e-8-de-marco-igualdade-d
+ e-genero-e-mobilidade-desafios-e-oportunidades-para-o-desenvolvimento-na-l
+ usofonia
+URL:https://lykeion.pt/e/seminario-7-e-8-de-marco-igualdade-de-genero-e-mob
+ ilidade-de-6753f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-dealing-with-the-past-in-transitional-societies-ex-86b00-2027
+ -03-07@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270307T120000
+SUMMARY:Seminário: Dealing With the Past in Transitional Societies: Examin
+ ing the Processes in Colombia\, Nepal and South Africa
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-marco-dealing-with-th
+ e-past-in-transitional-societies-examining-the-processes-in-colombia-nepal
+ -and-south-africa
+URL:https://lykeion.pt/e/seminario-dealing-with-the-past-in-transitional-so
+ cieties-ex-86b00.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-the-effects-of-fundamental-rights-in-08654-2027
+ -03-07@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270307T120000
+SUMMARY:Seminário: English SPEED The Effects of Fundamental Rights in Priv
+ ate Disputes
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/7-de-marco-english-speed-t
+ he-effects-of-fundamental-rights-in-private-disputes
+URL:https://lykeion.pt/e/seminario-english-speed-the-effects-of-fundamental
+ -rights-in-08654.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-das-constituicoes-dos-regimes-nacionalis-4ee70-2027
+ -03-09@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270309T120000
+SUMMARY:Lançamento do Livro Das Constituições dos Regimes Nacionalistas 
+ do Entre Guerras
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/9-de-marco-lancamento-do-l
+ ivro-das-constituicoes-dos-regimes-nacionalistas-do-entre-guerras
+URL:https://lykeion.pt/e/lancamento-do-livro-das-constituicoes-dos-regimes-
+ nacionalis-4ee70.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-14h30-english-speed-equality-and-non-discriminatio-70942-2027
+ -03-13@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270313T120000
+SUMMARY:Seminário: 14h30: English SPEED «Equality and non-discrimination:
+  contemporary issues»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/13-de-marco-14h30-english-
+ speed-equality-and-non-discrimination-contemporary-issues
+URL:https://lykeion.pt/e/seminario-14h30-english-speed-equality-and-non-dis
+ criminatio-70942.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-18h30-speed-as-ameacas-hibridas-uma-abordagem-conc-868a6-2027
+ -03-13@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270313T120000
+SUMMARY:Seminário: 18h30: SPEED «As ameaças híbridas - uma abordagem co
+ ncetual no quadro da UE e da OTAN»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/13-de-marco-18h30-speed-as
+ -ameacas-hibridas-uma-abordagem-concetual-no-quadro-da-ue-e-da-otan
+URL:https://lykeion.pt/e/seminario-18h30-speed-as-ameacas-hibridas-uma-abor
+ dagem-conc-868a6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-divulgacao-da-3-a-edicao-do-premio-professora-dout-6617c-2027
+ -03-13@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270313T120000
+SUMMARY:Seminário: Divulgação da 3.ª Edição do Prémio Professora Dou
+ tora Paula Escarameia
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/13-de-marco-divulgacao-da-
+ 3-a-edicao-do-premio-professora-doutora-paula-escarameia
+URL:https://lykeion.pt/e/seminario-divulgacao-da-3-a-edicao-do-premio-profe
+ ssora-dout-6617c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aula-aberta-a-dimensao-maritima-do-no-imaginario-lusofono-0e5e5-2027-03
+ -14@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270314T120000
+SUMMARY:Aula aberta «A Dimensão Marítima do/no Imaginário Lusófono»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/14-de-marco-aula-aberta-a-
+ dimensao-maritima-do-no-imaginario-lusofono
+URL:https://lykeion.pt/e/aula-aberta-a-dimensao-maritima-do-no-imaginario-l
+ usofono-0e5e5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-the-integration-of-roma-communities-bc839-2027-
+ 03-14@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270314T120000
+SUMMARY:Seminário: English SPEED 'The integration of Roma Communities in P
+ ortugal'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/14-de-marco-english-speed-
+ the-integration-of-roma-communities-in-portugal
+URL:https://lykeion.pt/e/seminario-english-speed-the-integration-of-roma-co
+ mmunities-bc839.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-lancamento-do-centro-de-conhecimento-nova-platform-0e6b8-2027
+ -03-14@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270314T120000
+SUMMARY:Seminário: Lançamento do Centro de Conhecimento NOVA Platform for
+  European Administrative and Regulatory Law (Nova Pearl)
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/lancamento-do-centro-de-co
+ nhecimento-nova-platform-for-european-administrative-and-regulatory-law-no
+ va-pearl
+URL:https://lykeion.pt/e/seminario-lancamento-do-centro-de-conhecimento-nov
+ a-platform-0e6b8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-los-derechos-culturales-son-derechos-humanos-f568c-2027
+ -03-14@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270314T120000
+SUMMARY:Seminário: SPEED 'Los Derechos Culturales son Derechos Humanos: Ar
+ tes y Educación para la Inclusión'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/14-de-marco-speed-los-dere
+ chos-culturales-son-derechos-humanos-artes-y-educacion-para-la-inclusion
+URL:https://lykeion.pt/e/seminario-speed-los-derechos-culturales-son-derech
+ os-humanos-f568c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a-partir-de-15-de-marco-ciclo-de-workshops-de-legistica-abeb7-2027-03-1
+ 5@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270315T120000
+SUMMARY:A partir de 15 de março: Ciclo de Workshops de Legística
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/a-partir-de-15-de-marco-ci
+ clo-de-workshops-de-legistica
+URL:https://lykeion.pt/e/a-partir-de-15-de-marco-ciclo-de-workshops-de-legi
+ stica-abeb7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciclo-de-webinarios-de-protecao-de-dados-22-5a699-2027-03-15@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270315T120000
+SUMMARY:Ciclo de webinários de Proteção de Dados ’22
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/ciclo-de-webinarios-de-pro
+ tecao-de-dados-22
+URL:https://lykeion.pt/e/ciclo-de-webinarios-de-protecao-de-dados-22-5a699.
+ html
+END:VEVENT
+BEGIN:VEVENT
 UID:conf-futuro-do-trabalho-hoje-site-thumbnail-7653c-2027-03-15@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270315T093000
 SUMMARY:O futuro do trabalho hoje
 LOCATION:NOVA School of Law
@@ -1398,9 +2230,280 @@ URL:https://lykeion.pt/e/conf-futuro-do-trabalho-hoje-site-thumbnail-7653c.
  html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-o-futuro-do-trabalho-hoje-a763d-2027-03-15@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270315T120000
+SUMMARY:Seminário: O Futuro do Trabalho Hoje
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/o-futuro-do-trabalho-hoje
+URL:https://lykeion.pt/e/seminario-o-futuro-do-trabalho-hoje-a763d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2-o-workshop-internacional-reasoning-and-argumentation-in-le-1fac8-2027
+ -03-18@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270318T120000
+SUMMARY:2.º Workshop Internacional: Reasoning and Argumentation in Legal D
+ iscourse
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/2-o-workshop-internacional
+ -reasoning-and-argumentation-in-legal-discourse
+URL:https://lykeion.pt/e/2-o-workshop-internacional-reasoning-and-argumenta
+ tion-in-le-1fac8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-media-war-and-peace-aeb9b-2027-03-20@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270320T120000
+SUMMARY:Seminário «Media\, War and Peace»
+LOCATION:NOVA School of Law
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/seminario-media-war-and-pe
+ ace
+URL:https://lykeion.pt/e/seminario-media-war-and-peace-aeb9b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-14h30-english-speed-legal-theory-and-psychoanalysi-78990-2027
+ -03-20@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270320T120000
+SUMMARY:Seminário: 14h30: English SPEED «Legal Theory and Psychoanalysis
+ »
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/20-de-marco-14h30-english-
+ speed-legal-theory-and-psychoanalysis
+URL:https://lykeion.pt/e/seminario-14h30-english-speed-legal-theory-and-psy
+ choanalysi-78990.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-the-law-and-the-classification-of-pe-748d5-2027
+ -03-21@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270321T120000
+SUMMARY:Seminário: English SPEED 'The Law and the Classification of Person
+ s under Colonial Rule'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/21-de-marco-english-speed-
+ the-law-and-the-classification-of-persons-under-colonial-rule
+URL:https://lykeion.pt/e/seminario-english-speed-the-law-and-the-classifica
+ tion-of-pe-748d5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-questoes-chave-da-tecnologia-da-informacao-o-07a2b-2027
+ -03-21@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270321T120000
+SUMMARY:Seminário: SPEED 'Questões-Chave da Tecnologia da Informação - 
+ O Caso da Directiva relativa ao Registo Europeu de Identificação de Pass
+ ageiros (PNR)'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/21-de-marco-speed-questoes
+ -chave-da-tecnologia-da-informacao-o-caso-da-directiva-relativa-ao-registo
+ -europeu-de-identificacao-de-passageiros-pnr
+URL:https://lykeion.pt/e/seminario-speed-questoes-chave-da-tecnologia-da-in
+ formacao-o-07a2b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-conference-in-law-and-financial-markets-the-future-of-in-9e39d-2027
+ -03-22@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270322T120000
+SUMMARY:III Conference in Law and Financial Markets - The Future of Insuran
+ ce Distribution in Europe
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/22-de-marco-iii-conference
+ -in-law-and-financial-markets-the-future-of-insurance-distribution-in-euro
+ pe
+URL:https://lykeion.pt/e/iii-conference-in-law-and-financial-markets-the-fu
+ ture-of-in-9e39d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-legal-aspects-of-waste-management-in-057c1-2027
+ -03-22@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270322T120000
+SUMMARY:Seminário: English SPEED «Legal aspects of waste management in Po
+ land and the EU»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/22-de-marco-english-speed-
+ legal-aspects-of-waste-management-in-poland-and-the-eu
+URL:https://lykeion.pt/e/seminario-english-speed-legal-aspects-of-waste-man
+ agement-in-057c1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:i-congresso-luso-mocambicano-de-direito-81130-2027-03-23@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270323T120000
+SUMMARY:I Congresso Luso-Moçambicano de Direito
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/i-congresso-luso-mocambica
+ no-de-direito
+URL:https://lykeion.pt/e/i-congresso-luso-mocambicano-de-direito-81130.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-14h30-speed-o-recurso-da-decisao-arbitral-em-mater-bf96b-2027
+ -03-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270327T120000
+SUMMARY:Seminário: 14h30: SPEED «O Recurso da Decisão Arbitral em Matér
+ ia Tributária»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-marco-14h30-speed-o-
+ recurso-da-decisao-arbitral-em-materia-tributaria
+URL:https://lykeion.pt/e/seminario-14h30-speed-o-recurso-da-decisao-arbitra
+ l-em-mater-bf96b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-18h30-english-speed-migration-policies-in-hungary-59ffc-2027-
+ 03-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270327T120000
+SUMMARY:Seminário: 18h30: English SPEED «Migration Policies in Hungary»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/27-de-marco-18h30-english-
+ speed-migration-policies-in-hungary
+URL:https://lykeion.pt/e/seminario-18h30-english-speed-migration-policies-i
+ n-hungary-59ffc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-law-revision-law-reform-and-legislat-aa108-2027
+ -03-29@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270329T120000
+SUMMARY:Seminário: English SPEED «Law Revision\, Law Reform and “Legisl
+ ation-Cutting”: Italy as a Case-Study»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/29-de-marco-english-speed-
+ law-revision-law-reform-and-legislation-cutting-italy-as-a-case-study
+URL:https://lykeion.pt/e/seminario-english-speed-law-revision-law-reform-an
+ d-legislat-aa108.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conferencia-the-ending-of-an-era-0bc4e-2027-03-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270330T120000
+SUMMARY:Conferência «The Ending of an Era»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/30-de-marco-conferencia-th
+ e-ending-of-an-era
+URL:https://lykeion.pt/e/conferencia-the-ending-of-an-era-0bc4e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:palestra-apresentacao-do-cedis-no-speed-98ba3-2027-03-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270330T120000
+SUMMARY:Palestra: Apresentação do CEDIS no SPEED
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/apresentacao-do-cedis-no-s
+ peed
+URL:https://lykeion.pt/e/palestra-apresentacao-do-cedis-no-speed-98ba3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-e-course-insurance-and-sustainable-development-goa-2a2ea-2027
+ -03-31@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270331T110000
+SUMMARY:Seminário: E-Course: Insurance and Sustainable Development Goals
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/e-course-insurance-and-sus
+ tainable-development-goals-2
+URL:https://lykeion.pt/e/seminario-e-course-insurance-and-sustainable-devel
+ opment-goa-2a2ea.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-14h30-english-speed-legitimation-to-use-coercion-b-7c27b-2027
+ -04-03@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270403T120000
+SUMMARY:Seminário: 14h30: English Speed «Legitimation to use Coercion by 
+ Police and influence of it on Human Rights according to Judgement od the E
+ uropean Court of Human Rights»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/3-de-abril-14h30-english-s
+ peed-legitimation-to-use-coercion-by-police-and-influence-of-it-on-human-r
+ ights-according-to-judgement-od-the-european-court-of-human-rights
+URL:https://lykeion.pt/e/seminario-14h30-english-speed-legitimation-to-use-
+ coercion-b-7c27b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-18h30-speed-legitimidade-das-atividades-de-intelig-f1ae1-2027
+ -04-03@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270403T120000
+SUMMARY:Seminário: 18h30: SPEED «Legitimidade das Atividades de Inteligê
+ ncia para a Proteção dos Magistrados no Brasil»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/3-de-abril-18h30-speed-leg
+ itimidade-das-atividades-de-inteligencia-para-a-protecao-dos-magistrados-n
+ o-brasil
+URL:https://lykeion.pt/e/seminario-18h30-speed-legitimidade-das-atividades-
+ de-intelig-f1ae1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-freedom-of-religion-in-employment-re-936b5-2027
+ -04-04@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270404T120000
+SUMMARY:Seminário: English SPEED 'Freedom of Religion in Employment Relati
+ ons'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/4-de-abril-english-speed-f
+ reedom-of-religion-in-employment-relations
+URL:https://lykeion.pt/e/seminario-english-speed-freedom-of-religion-in-emp
+ loyment-re-936b5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-igualdade-e-participacao-pilares-interligave-33109-2027
+ -04-04@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270404T120000
+SUMMARY:Seminário: SPEED 'Igualdade e participação: pilares interligáve
+ is para a integração de ciganos em Portugal'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/4-de-abril-speed-igualdade
+ -e-participacao-pilares-interligaveis-para-a-integracao-de-ciganos-em-port
+ ugal
+URL:https://lykeion.pt/e/seminario-speed-igualdade-e-participacao-pilares-i
+ nterligave-33109.html
+END:VEVENT
+BEGIN:VEVENT
+UID:congresso-40-anos-da-constituicao-da-republica-portuguesa-7ffb3-2027-04
+ -05@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270405T120000
+SUMMARY:Congresso 40 Anos da Constituição da República Portuguesa
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/congresso-40-anos-da-const
+ ituicao-da-republica-portuguesa
+URL:https://lykeion.pt/e/congresso-40-anos-da-constituicao-da-republica-por
+ tuguesa-7ffb3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-global-constitucionalism-and-the-rol-41fbc-2027
+ -04-05@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270405T120000
+SUMMARY:Seminário: English SPEED Global Constitucionalism and the role of 
+ Hierarchy
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/5-de-abril-english-speed-g
+ lobal-constitucionalism-and-the-role-of-hierarchy
+URL:https://lykeion.pt/e/seminario-english-speed-global-constitucionalism-a
+ nd-the-rol-41fbc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-investigacao-em-direito-1a12a-2027-04-05@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270405T120000
+SUMMARY:Seminário: SPEED «Investigação em Direito»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/5-de-abril-speed-investiga
+ cao-em-direito
+URL:https://lykeion.pt/e/seminario-speed-investigacao-em-direito-1a12a.html
+END:VEVENT
+BEGIN:VEVENT
 UID:whatnext-law-inteligencia-artificial-na-cidade-do-futuro-7bd6d-2027-04-
  05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270405T120000
 SUMMARY:WhatNext.Law | Inteligência Artificial na Cidade do Futuro
 LOCATION:NOVA School of Law
@@ -1410,9 +2513,38 @@ URL:https://lykeion.pt/e/whatnext-law-inteligencia-artificial-na-cidade-do-
  futuro-7bd6d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-14h30-english-speed-europe-as-a-childrens-rights-p-ab8d1-2027
+ -04-10@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270410T120000
+SUMMARY:Seminário: 14h30: English Speed “europe as a Children’s Rights
+  Promoter And Carer: An Overview On Corporal Punishment In Law And Practic
+ e
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/10-de-abril-14h30-english-
+ speed-europe-as-a-childrens-rights-promoter-and-carer-an-overview-on-corpo
+ ral-punishment-in-law-and-practice
+URL:https://lykeion.pt/e/seminario-14h30-english-speed-europe-as-a-children
+ s-rights-p-ab8d1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-19h00-speed-seguranca-publica-e-inteligencia-polic-9693e-2027
+ -04-10@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270410T120000
+SUMMARY:Seminário: 19h00: Speed “segurança Pública e Inteligência Pol
+ icial: um Olhar Sobre a Polícia Militar do Estado de Sergipe/brasil
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/10-de-abril-19h00-speed-se
+ guranca-publica-e-inteligencia-policial-um-olhar-sobre-a-policia-militar-d
+ o-estado-de-sergipe-brasil
+URL:https://lykeion.pt/e/seminario-19h00-speed-seguranca-publica-e-intelige
+ ncia-polic-9693e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:legalpl-coloquio-final-pluralismo-juridico-no-imperio-portug-62d32-2027
  -04-11@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270411T090000
 SUMMARY:LEGALPL | Colóquio final – Pluralismo Jurídico no Império Port
  uguês (séculos XVIII-XX)
@@ -1423,9 +2555,49 @@ URL:https://lykeion.pt/e/legalpl-coloquio-final-pluralismo-juridico-no-impe
  rio-portug-62d32.html
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-english-speed-the-on-going-and-prospective-reform-05644-2027-
+ 04-11@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270411T120000
+SUMMARY:Seminário: English SPEED 'The on-going and prospective reform of t
+ he Court of Justice of the European Union'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/11-de-abril-english-speed-
+ the-on-going-and-prospective-reform-of-the-court-of-justice-of-the-europea
+ n-union
+URL:https://lykeion.pt/e/seminario-english-speed-the-on-going-and-prospecti
+ ve-reform-05644.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lancamento-do-livro-a-construcao-juridica-dos-territorios-ul-c2dbf-2027
+ -04-12@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270412T120000
+SUMMARY:Lançamento do livro 'A Construção Jurídica dos Territórios Ult
+ ramarinos Portugueses no século XIX. Modelos\, Doutrinas e Leis'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/12-de-abril-lancamento-do-
+ livro-a-construcao-juridica-dos-territorios-ultramarinos-portugueses-no-se
+ culo-xix-modelos-doutrinas-e-leis
+URL:https://lykeion.pt/e/lancamento-do-livro-a-construcao-juridica-dos-terr
+ itorios-ul-c2dbf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iii-curso-breve-o-novo-codigo-de-procedimento-administrativo-ac88e-2027
+ -04-13@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270413T120000
+SUMMARY:III Curso Breve - O Novo Código de Procedimento Administrativo
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/iii-curso-breve-o-novo-cod
+ igo-de-procedimento-administrativo
+URL:https://lykeion.pt/e/iii-curso-breve-o-novo-codigo-de-procedimento-admi
+ nistrativo-ac88e.html
+END:VEVENT
+BEGIN:VEVENT
 UID:new-york-convention-a-comparative-perspective-b3827-2027-04-13@lagenda.
  pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270413T150000
 SUMMARY:New York Convention: A Comparative Perspective
 LOCATION:NOVA School of Law
@@ -1435,21 +2607,20 @@ URL:https://lykeion.pt/e/new-york-convention-a-comparative-perspective-b382
  7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xxi-forum-de-partilha-linguistica-chamada-de-trabalhos-8a032-2027-04-15
+UID:xxi-forum-de-partilha-linguistica-chamada-de-trabalhos-25fbb-2027-04-15
  @lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270415
 SUMMARY:XXI Fórum de Partilha Linguística: Chamada de Trabalhos
 LOCATION:Centro de Linguística
-DESCRIPTION:https://clunl.fcsh.unl.pt/xxi-forum-de-partilha-linguistica-cha
- mada-de-trabalhos/
+DESCRIPTION:https://clunl.fcsh.unl.pt
 URL:https://lykeion.pt/e/xxi-forum-de-partilha-linguistica-chamada-de-traba
- lhos-8a032.html
+ lhos-25fbb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:site-thumbnail-ai-robotics-in-healthcare-a-challenge-for-law-e9e3c-2027
  -04-17@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270417T090000
 SUMMARY:Ai robotics in healthcare a challenge for Law and Tech
 LOCATION:NOVA School of Law
@@ -1459,8 +2630,59 @@ URL:https://lykeion.pt/e/site-thumbnail-ai-robotics-in-healthcare-a-challen
  ge-for-law-e9e3c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:conferencia-centenario-de-francisco-elias-de-tejada-a1eae-2027-04-18@la
+ genda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270418T120000
+SUMMARY:Conferência «Centenário de Francisco Elías de Tejada»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/18-de-abril-conferencia-ce
+ ntenario-de-francisco-elias-de-tejada
+URL:https://lykeion.pt/e/conferencia-centenario-de-francisco-elias-de-tejad
+ a-a1eae.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-on-the-right-to-be-forgotten-accordi-50c8e-2027
+ -04-18@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270418T120000
+SUMMARY:Seminário: English SPEED «On the 'Right to be Forgotten' accordin
+ g to the GDPR»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/18-de-abril-english-speed-
+ on-the-right-to-be-forgotten-according-to-the-gdpr
+URL:https://lykeion.pt/e/seminario-english-speed-on-the-right-to-be-forgott
+ en-accordi-50c8e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-construir-e-implementar-o-projeto-intra-afri-f499e-2027
+ -04-18@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270418T120000
+SUMMARY:Seminário: SPEED 'Construir e Implementar o Projeto Intra-África 
+ PaxLusófona'
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/18-de-abril-speed-construi
+ r-e-implementar-o-projeto-intra-africa-paxlusofona
+URL:https://lykeion.pt/e/seminario-speed-construir-e-implementar-o-projeto-
+ intra-afri-f499e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a-partir-de-19-de-abril-ii-seminario-de-historia-europeia-de-8e389-2027
+ -04-19@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270419T120000
+SUMMARY:A partir de 19 de abril: II Seminário de História Europeia de Dir
+ eito e Justiça
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/a-partir-de-19-de-abril-ii
+ -seminario-de-historia-europeia-de-direito-e-justica
+URL:https://lykeion.pt/e/a-partir-de-19-de-abril-ii-seminario-de-historia-e
+ uropeia-de-8e389.html
+END:VEVENT
+BEGIN:VEVENT
 UID:consumer-lab-brasilcon-thumbnail-320x200-3f1ea-2027-04-19@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20270419T103000
 SUMMARY:I encontro nova consumer lab brasilcon
 LOCATION:NOVA School of Law
@@ -1469,9 +2691,33 @@ URL:https://lykeion.pt/e/consumer-lab-brasilcon-thumbnail-320x200-3f1ea.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+UID:seminario-english-speed-dialectics-as-legal-methodology-6454e-2027-04-1
+ 9@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270419T120000
+SUMMARY:Seminário: English SPEED Dialectics as legal methodology
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/19-de-abril-english-speed-
+ dialectics-as-legal-methodology
+URL:https://lykeion.pt/e/seminario-english-speed-dialectics-as-legal-method
+ ology-6454e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-speed-o-jihadismo-e-o-mito-do-al-andalus-000fa-2027-04-19@lag
+ enda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270419T120000
+SUMMARY:Seminário: SPEED «o Jihadismo e o mito do Al-Ândalus»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/19-de-abril-speed-o-jihadi
+ smo-e-o-mito-do-al-andalus
+URL:https://lykeion.pt/e/seminario-speed-o-jihadismo-e-o-mito-do-al-andalus
+ -000fa.html
+END:VEVENT
+BEGIN:VEVENT
 UID:7th-congress-of-tropical-medicine-of-ihmt-nova-abstract-subm-9fce9-2027
  -04-21@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270421
 SUMMARY:7th Congress of Tropical Medicine of Ihmt Nova | Abstract Submissio
  ns open!
@@ -1482,9 +2728,21 @@ URL:https://lykeion.pt/e/7th-congress-of-tropical-medicine-of-ihmt-nova-abs
  tract-subm-9fce9.html
 END:VEVENT
 BEGIN:VEVENT
+UID:21-e-22-de-abril-jornadas-de-mediacao-familiar-8855f-2027-04-21@lagenda
+ .pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270421T120000
+SUMMARY:Jornadas de Mediação Familiar
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/21-e-22-de-abril-jornadas-
+ de-mediacao-familiar
+URL:https://lykeion.pt/e/21-e-22-de-abril-jornadas-de-mediacao-familiar-885
+ 5f.html
+END:VEVENT
+BEGIN:VEVENT
 UID:7-o-congresso-de-medicina-tropical-do-ihmt-nova-one-health-d-cc57d-2027
  -04-22@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270422
 SUMMARY:7.º Congresso de Medicina Tropical do Ihmt Nova • One Health –
   Doenças Transmitidas por Vetores
@@ -1497,9 +2755,84 @@ URL:https://lykeion.pt/e/7-o-congresso-de-medicina-tropical-do-ihmt-nova-on
  e-health-d-cc57d.html
 END:VEVENT
 BEGIN:VEVENT
+UID:open-workshop-603e7-2027-04-22@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270422T110000
+SUMMARY:Open workshop the ai advocate transforming legal services with tech
+ nology
+LOCATION:NOVA School of Law
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/open-workshop-the-ai-advoc
+ ate-transforming-legal-services-with-technology
+URL:https://lykeion.pt/e/open-workshop-603e7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:save-the-date-22-a-24-de-abril-de-2027-cc57d-2027-04-22@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270422
+SUMMARY:Save the date: 22 a 24 de abril de 2027
+LOCATION:Unidade de Ensino e Investigação em Saúde Pública Global
+DESCRIPTION:https://www.ihmt.unl.pt/events/7-o-congresso-de-medicina-tropic
+ al-do-ihmt-nova-one-health-doencas-transmitidas-por-vetores-https-www-ihmt
+ -unl-pt-events-7-o-congresso-de-medicina-tropical-do-ihmt-nova-one-health-
+ doencas-transmitid/
+URL:https://lykeion.pt/e/save-the-date-22-a-24-de-abril-de-2027-cc57d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-14h30-english-speed-social-norms-and-legal-systems-1eade-2027
+ -04-24@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270424T120000
+SUMMARY:Seminário: 14h30: English SPEED «Social Norms and Legal Systems: 
+ the Virtues of Interaction»
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/24-de-abril-14h30-english-
+ speed-social-norms-and-legal-systems-the-virtues-of-interaction
+URL:https://lykeion.pt/e/seminario-14h30-english-speed-social-norms-and-leg
+ al-systems-1eade.html
+END:VEVENT
+BEGIN:VEVENT
+UID:26-e-27-de-abril-16-o-congresso-nacional-e-9-o-forum-luso-br-b652f-2027
+ -04-26@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270426T120000
+SUMMARY:16.º Congresso Nacional e 9.º Fórum Luso-Brasileiro: Ética e In
+ tegridade Científica
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/26-e-27-de-abril-16-o-cong
+ resso-nacional-e-9-o-forum-luso-brasileiro-etica-e-integridade-cientifica
+URL:https://lykeion.pt/e/26-e-27-de-abril-16-o-congresso-nacional-e-9-o-for
+ um-luso-br-b652f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-direitos-de-autor-as-recentes-alteracoes-legislati-4e79f-2027
+ -04-26@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270426T120000
+SUMMARY:Seminário: Direitos de Autor: as recentes alterações legislativa
+ s
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/direitos-de-autor-as-recen
+ tes-alteracoes-legislativas
+URL:https://lykeion.pt/e/seminario-direitos-de-autor-as-recentes-alteracoes
+ -legislati-4e79f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:seminario-english-speed-the-legal-regime-for-non-orbital-fli-352b9-2027
+ -04-26@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20270426T120000
+SUMMARY:Seminário: English SPEED The Legal Regime For Non-Orbital Flights:
+  Facts And Future Challenges
+LOCATION:Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade
+DESCRIPTION:https://cedis.novalaw.unl.pt/eventos/26-de-abril-english-speed-
+ the-legal-regime-for-non-orbital-flights-facts-and-future-challenges
+URL:https://lykeion.pt/e/seminario-english-speed-the-legal-regime-for-non-o
+ rbital-fli-352b9.html
+END:VEVENT
+BEGIN:VEVENT
 UID:iv-jornadas-de-ativismo-corporativo-regressam-a-nova-fcsh-em-966dd-2027
  -04-29@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270429
 SUMMARY:IV Jornadas de Ativismo Corporativo regressam à Nova Fcsh em abril
   de 2027

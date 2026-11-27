@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:aplicar-a-regulamentacao-das-edificacoes-urbanas-e-acessibil-16a93-2027
  -01-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270104
 SUMMARY:Aplicar a regulamentação das edificações urbanas e acessibilida
  des
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gerir-a-interoperabilidade-entre-os-sistemas-de-modelacao-f30d2-2027-01
  -04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270104
 SUMMARY:Gerir a interoperabilidade entre os sistemas de modelação
 LOCATION:Centro De Formação Profissional Da Indústria Da Construção Ci
@@ -32,7 +32,7 @@ URL:https://lykeion.pt/e/gerir-a-interoperabilidade-entre-os-sistemas-de-mo
 END:VEVENT
 BEGIN:VEVENT
 UID:instalacoes-eletricas-a-cabo-301b4-2027-01-05@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270105
 SUMMARY:Instalações elétricas a cabo
 LOCATION:Centro De Formação Profissional Da Indústria Da Construção Ci
@@ -42,7 +42,7 @@ URL:https://lykeion.pt/e/instalacoes-eletricas-a-cabo-301b4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cad-projeto-de-esquemas-eletricos-53fcf-2027-01-06@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270106
 SUMMARY:CAD – projeto de esquemas elétricos
 LOCATION:Centro De Formação Profissional Da Indústria Da Construção Ci
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:verificar-o-funcionamento-e-seguranca-estrutural-de642-2027-01-06@lagen
  da.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270106
 SUMMARY:Verificar o funcionamento e segurança estrutural
 LOCATION:Centro De Formação Profissional Da Indústria Da Construção Ci
@@ -61,5 +61,17 @@ LOCATION:Centro De Formação Profissional Da Indústria Da Construção Ci
 DESCRIPTION:https://www.cenfic.pt/academialx/detalhe.php?id=7360
 URL:https://lykeion.pt/e/verificar-o-funcionamento-e-seguranca-estrutural-d
  e642.html
+END:VEVENT
+BEGIN:VEVENT
+UID:motoniveladora-espalhamento-e-nivelamento-de-terras-3c2ca-2027-01-11@la
+ genda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270111
+SUMMARY:Motoniveladora espalhamento e nivelamento de terras
+LOCATION:Centro De Formação Profissional Da Indústria Da Construção Ci
+ vil E Obras Públicas Do Sul\, Loures
+DESCRIPTION:https://www.cenfic.pt/academialx/detalhe.php?id=7349
+URL:https://lykeion.pt/e/motoniveladora-espalhamento-e-nivelamento-de-terra
+ s-3c2ca.html
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Biotecnologia (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:6th-eugloh-plant-science-meeting-331a9-2026-11-26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
+UID:6th-eugloh-plant-science-meeting-331a9-2026-11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
 SUMMARY:6th EUGLOH Plant Science Meeting
 LOCATION:Faculdade de Ciências da Universidade do Porto\, Porto
 DESCRIPTION:https://www.up.pt/eventos/event/6th-eugloh-plant-science-meetin
@@ -16,21 +16,9 @@ DESCRIPTION:https://www.up.pt/eventos/event/6th-eugloh-plant-science-meetin
 URL:https://lykeion.pt/e/6th-eugloh-plant-science-meeting-331a9.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-em-ciencias-biomedicas-alessia-campoli-6cd31-2026-11
- -26@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Provas de Mestrado em Ciências Biomédicas • Alessia Campoli
-LOCATION:Instituto de Higiene e Medicina Tropical
-DESCRIPTION:https://www.ihmt.unl.pt/events/provas-de-mestrado-em-ciencias-b
- iomedicas-alessia-campoli/
-URL:https://lykeion.pt/e/provas-de-mestrado-em-ciencias-biomedicas-alessia-
- campoli-6cd31.html
-END:VEVENT
-BEGIN:VEVENT
 UID:defesa-publica-de-dissertacao-do-mestrado-em-toxicologia-e-c-4655e-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T113000
 SUMMARY:Defesa Pública de Dissertação do Mestrado em Toxicologia e Conta
  minação Ambientais
@@ -41,9 +29,35 @@ URL:https://lykeion.pt/e/defesa-publica-de-dissertacao-do-mestrado-em-toxic
  ologia-e-c-4655e.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-vas-12fae-2026
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mar-71c35-2026
  -11-27@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T163000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Margarida
+  Lourenço Lopes
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-margarida-lourenco-lopes
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mar-71c35.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mar-8631d-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261127T160000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Mariana P
+ into Basto Morais
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-mariana-pinto-basto-morais
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mar-8631d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-vas-a36eb-2026
+ -11-27@lagenda.pt
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261127T140000
 SUMMARY:Provas de Mestrado em Engenharia Biomédica do Licenciado Vasco Gui
  lherme Gomes O’Neill Pedrosa
@@ -51,11 +65,11 @@ LOCATION:Departamento de Física da NOVA FCT\, Almada
 DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
  -engenharia-biomedica-do-licenciado-vasco-guilherme-gomes-o-neill-pedrosa
 URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-do-lice
- nciado-vas-12fae.html
+ nciado-vas-a36eb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:gea-30-11-26-prova-de-doutoramento-6bc2c-2026-11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Prova de doutoramento Maria de Vasconcelos Cardoso
 LOCATION:Faculdade de Medicina da Universidade de Coimbra\, Coimbra
@@ -64,9 +78,75 @@ DESCRIPTION:https://www.uc.pt/fmuc/gea/agenda-gea/prova-de-doutoramento-mar
 URL:https://lykeion.pt/e/gea-30-11-26-prova-de-doutoramento-6bc2c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-biomedica-da-l-c66c3-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T163000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Biomédica da Licenc
+ iada Lídia Felisbela Lopes Ribeiro
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-biomedica-da-licenciada-lidia-felisbela-lopes-rib
+ eiro
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-biom
+ edica-da-l-c66c3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-ele-df7ce-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Elena Rhe
+ ann Simões Furk
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-elena-rheann-simoes-furk
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-ele-df7ce.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-ema-5f88e-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T140000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Ema Cintr
+ a Duarte
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-ema-cintra-duarte
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-ema-5f88e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-da-licenciada-mat-534e2-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T100000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica da Licenciada Matilde P
+ eralta Gonçalves
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-da-licenciada-matilde-peralta-goncalves
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-da-lice
+ nciada-mat-534e2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:provas-de-mestrado-em-engenharia-biomedica-do-licenciado-joa-f799b-2026
+ -11-30@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Lisbon:20261130T090000
+SUMMARY:Provas de Mestrado em Engenharia Biomédica do Licenciado João Gil
+  Barreiros Teles
+LOCATION:Departamento de Física da NOVA FCT\, Almada
+DESCRIPTION:https://www.df.fct.unl.pt/eventos/2026/11/provas-de-mestrado-em
+ -engenharia-biomedica-do-licenciado-joao-gil-barreiros-teles
+URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-do-lice
+ nciado-joa-f799b.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-de-maria-de-vasconcelos-cardoso-progr-5bfc0-2026
  -11-30@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Provas de doutoramento de Maria de Vasconcelos Cardoso — Programa
   de Doutoramento em Ciências da Saúde\, Ciências Biomédicas (FMUC)
@@ -77,22 +157,9 @@ URL:https://lykeion.pt/e/provas-de-doutoramento-de-maria-de-vasconcelos-car
  doso-progr-5bfc0.html
 END:VEVENT
 BEGIN:VEVENT
-UID:provas-de-mestrado-em-engenharia-biomedica-de-maria-joao-fer-ab89c-2026
- -12-02@lagenda.pt
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261202
-SUMMARY:Provas de Mestrado em Engenharia Biomédica de Maria João Ferreira
-  Costa — Medicina Personalizada no Desenvolvimento de uma Cavilha Intram
- edular Tibial
-LOCATION:Universidade de Aveiro\, Aveiro
-DESCRIPTION:https://www.ua.pt/pt/noticias/10/100356
-URL:https://lykeion.pt/e/provas-de-mestrado-em-engenharia-biomedica-de-mari
- a-joao-fer-ab89c.html
-END:VEVENT
-BEGIN:VEVENT
 UID:economia-azul-biotecnologia-e-empreendedorismo-de-base-cient-7e84e-2026
  -12-03@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T160000
 SUMMARY:Economia azul\, biotecnologia e empreendedorismo de base científic
  a
@@ -103,9 +170,22 @@ URL:https://lykeion.pt/e/economia-azul-biotecnologia-e-empreendedorismo-de-
  base-cient-7e84e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:exploring-physical-and-chemical-foaming-routes-for-sustainab-9b992-2026
+ -12-04@lagenda.pt
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Exploring physical and chemical foaming routes for sustainable pack
+ aging
+LOCATION:Centro de Biotecnologia e Química Fina\, Porto
+DESCRIPTION:https://cbqf.esb.ucp.pt/events/exploring-physical-and-chemical-
+ foaming-routes-sustainable-packaging
+URL:https://lykeion.pt/e/exploring-physical-and-chemical-foaming-routes-for
+ -sustainab-9b992.html
+END:VEVENT
+BEGIN:VEVENT
 UID:provas-de-doutoramento-em-engenharia-biomedica-de-marta-antu-1be27-2027
  -01-04@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270104
 SUMMARY:Provas de doutoramento em Engenharia Biomédica de Marta Antunes Ev
  angelista Loures Xavier — Resting-State Brain Network Dynamics: Characte
@@ -119,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20th-international-joint-conference-on-biomedical-engineerin-1c23b-2027
  -02-19@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270219
 SUMMARY:20th International Joint Conference on Biomedical Engineering Syste
  ms and Technologies
@@ -132,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fct-increases-investment-and-phd-scholarships-for-2026-call-0d83a-2027-
  02-24@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270224
 SUMMARY:FCT increases Investment and PhD Scholarships for 2026 Call
 LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
@@ -145,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:h2oforall-nominated-for-the-ersar-innovation-award-2025-c657c-2027-03-0
  4@lagenda.pt
-DTSTAMP:20261126T000000Z
+DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20270304
 SUMMARY:H2OforAll Nominated for the ERSAR Innovation Award 2025
 LOCATION:Centro de Engenharia Química e Recursos Renováveis para a Susten
