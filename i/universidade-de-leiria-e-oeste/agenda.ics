@@ -6,10 +6,21 @@ X-WR-CALNAME:IPL (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:exposicao-dia-aberto-do-mare-leiria-cetemares-8a92d-2026-11-28@lagenda.
+ pt
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Exposição: Dia Aberto do MARE – Leiria | CETEMARES
+LOCATION:Universidade de Leiria e Oeste\, Peniche
+DESCRIPTION:https://www.cienciaviva.pt/semanact/2026/
+URL:https://lykeion.pt/e/exposicao-dia-aberto-do-mare-leiria-cetemares-8a92
+ d.html
+END:VEVENT
+BEGIN:VEVENT
 UID:portas-abertas-producao-sustentavel-de-plantas-num-sistema-i-f515d-2026
- -11-27@lagenda.pt
-DTSTAMP:20261127T000000Z
-DTSTART;VALUE=DATE:20261127
+ -11-28@lagenda.pt
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261128
 SUMMARY:Portas abertas: Produção sustentável de plantas num sistema inte
  grado de aquaponia
 LOCATION:Universidade de Leiria e Oeste\, Leiria
@@ -19,9 +30,9 @@ URL:https://lykeion.pt/e/portas-abertas-producao-sustentavel-de-plantas-num
 END:VEVENT
 BEGIN:VEVENT
 UID:semana-da-ciencia-e-tecnologia-2026-ulo-23-a-29-de-novembro-dfb2a-2026-
- 11-27@lagenda.pt
-DTSTAMP:20261127T000000Z
-DTSTART;VALUE=DATE:20261127
+ 11-28@lagenda.pt
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261128
 SUMMARY:Semana da Ciência e Tecnologia 2026 – ULO (23 a 29 de novembro) 
  .
 LOCATION:Escola de Artes e Design\, de Caldas da Rainha da Universidade de 
@@ -30,16 +41,5 @@ DESCRIPTION:https://www.ulo.pt/semana-da-ciencia-e-tecnologia-2026-ulo-23-a
  -29-de-novembro/
 URL:https://lykeion.pt/e/semana-da-ciencia-e-tecnologia-2026-ulo-23-a-29-de
  -novembro-dfb2a.html
-END:VEVENT
-BEGIN:VEVENT
-UID:exposicao-dia-aberto-do-mare-leiria-cetemares-8a92d-2026-11-28@lagenda.
- pt
-DTSTAMP:20261127T000000Z
-DTSTART;VALUE=DATE:20261128
-SUMMARY:Exposição: Dia Aberto do MARE – Leiria | CETEMARES
-LOCATION:Universidade de Leiria e Oeste\, Peniche
-DESCRIPTION:https://www.cienciaviva.pt/semanact/2026/
-URL:https://lykeion.pt/e/exposicao-dia-aberto-do-mare-leiria-cetemares-8a92
- d.html
 END:VEVENT
 END:VCALENDAR

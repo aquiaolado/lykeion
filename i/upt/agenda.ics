@@ -6,21 +6,10 @@ X-WR-CALNAME:UPT (Lykeion)
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:pip-cafe-ha-conversas-com-cafe-e-inovacao-b1c43-2026-11-27@lagenda.pt
-DTSTAMP:20261127T000000Z
-DTSTART;TZID=Europe/Lisbon:20261127T133000
-SUMMARY:PIP Café” – Há Conversas com Café e Inovação
-LOCATION:Departamento de Ciência e Tecnologia\, Porto
-DESCRIPTION:https://www.upt.pt/agenda/pip-cafe-ha-conversas-com-cafe-e-inov
- acao/
-URL:https://lykeion.pt/e/pip-cafe-ha-conversas-com-cafe-e-inovacao-b1c43.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:aula-aberta-ingresso-na-vida-profissional-em-marketing-f98c3-2026-12-02
  @lagenda.pt
-DTSTAMP:20261127T000000Z
-DTSTART;VALUE=DATE:20261202
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Lisbon:20261202T163000
 SUMMARY:Aula Aberta “Ingresso na Vida Profissional em Marketing
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
 DESCRIPTION:https://www.upt.pt/agenda/aula-aberta-ingresso-na-vida-profissi
@@ -31,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-desenvolvimento-da-linguagem-sinais-de-alerta-e-e2bd8-2026-
  12-03@lagenda.pt
-DTSTAMP:20261127T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Lisbon:20261203T160000
 SUMMARY:Aula Aberta “Desenvolvimento da Linguagem\, Sinais de Alerta e In
  tervenção Interdisciplinar em Contextos Socioeducativos
@@ -44,8 +33,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mesa-redonda-da-formacao-a-transformacao-percursos-de-desenv-0fa6f-2026
  -12-04@lagenda.pt
-DTSTAMP:20261127T000000Z
-DTSTART;VALUE=DATE:20261204
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Lisbon:20261204T110000
 SUMMARY:Mesa-Redonda “Da Formação à Transformação: Percursos de Dese
  nvolvimento Docente
 LOCATION:Departamento de Ciência e Tecnologia\, Porto
@@ -57,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-ingresso-na-vida-profissional-em-marketing-f98c3-2026-12-09
  @lagenda.pt
-DTSTAMP:20261127T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T163000
 SUMMARY:Aula Aberta “Ingresso na Vida Profissional em Marketing
 LOCATION:Universidade Portucalense\, Porto
@@ -69,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aula-aberta-intervencao-psicologica-na-doenca-cronica-o-exem-3b938-2026
  -12-09@lagenda.pt
-DTSTAMP:20261127T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Lisbon:20261209T133000
 SUMMARY:Aula Aberta “Intervenção Psicológica na Doença Crónica: O Ex
  emplo da Doença Renal
@@ -81,7 +70,7 @@ URL:https://lykeion.pt/e/aula-aberta-intervencao-psicologica-na-doenca-cron
 END:VEVENT
 BEGIN:VEVENT
 UID:maria-lucia-amaral-debate-direitos-humanos-2df4b-2026-12-10@lagenda.pt
-DTSTAMP:20261127T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T143000
 SUMMARY:Maria Lúcia Amaral debate Direitos Humanos
 LOCATION:Universidade Portucalense\, Porto
@@ -94,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seminario-comemorativo-do-dia-internacional-dos-direitos-hum-598e3-2026
  -12-10@lagenda.pt
-DTSTAMP:20261127T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Lisbon:20261210T143000
 SUMMARY:Seminário Comemorativo do Dia Internacional dos Direitos Humanos
 LOCATION:Universidade Portucalense\, Porto
